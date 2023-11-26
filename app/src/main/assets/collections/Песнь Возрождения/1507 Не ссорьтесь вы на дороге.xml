@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1507" name="Не ссорьтесь вы на дороге" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не ссорьтесь вы на дороге,</plain>
+        </string>
+        <string>
+            <plain>На жизненном вашем пути.</plain>
+        </string>
+        <string>
+            <plain>На заре счастья и на пороге</plain>
+        </string>
+        <string>
+            <plain>Вы не ссорьтесь, чтоб вместе идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так не ссорьтесь на дороге</plain>
+        </string>
+        <string>
+            <plain>Ни ночью, ни утром, ни днем.</plain>
+        </string>
+        <string>
+            <plain>Ни бури, ни скорбь, ни тревоги</plain>
+        </string>
+        <string>
+            <plain>Не разрушат ваш жизненный дом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не ссорьтесь вы на дороге,</plain>
+        </string>
+        <string>
+            <plain>Коль трудно вам будет в пути,</plain>
+        </string>
+        <string>
+            <plain>Чаще вместе молитесь вы Богу,</plain>
+        </string>
+        <string>
+            <plain>За Собой будет Он вас вести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не ссорьтесь вы на дороге.</plain>
+        </string>
+        <string>
+            <plain>Хоть болен кто будет из вас.</plain>
+        </string>
+        <string>
+            <plain>Утешенье в одном только Боге,</plain>
+        </string>
+        <string>
+            <plain>Воззовите к Нему в скорбный час.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не ссорьтесь вы на дороге,</plain>
+        </string>
+        <string>
+            <plain>Ведь скоро Господь наш придет.</plain>
+        </string>
+        <string>
+            <plain>Скоро там, где святые чертоги,</plain>
+        </string>
+        <string>
+            <plain>Он искупленных всех соберет.</plain>
+        </string>
+    </verse>
+</song>

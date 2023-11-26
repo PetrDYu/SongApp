@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3191" name="Надежда крепкий якорь мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Надежда - крепкий якорь мой,</plain>
+        </string>
+        <string>
+            <plain>опора в ней моя.</plain>
+        </string>
+        <string>
+            <plain>Хоть буря и страшна порой,</plain>
+        </string>
+        <string>
+            <plain>надеюсь на Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Надежда - дар от Бога мне,</plain>
+        </string>
+        <string>
+            <plain>не постыдит она.</plain>
+        </string>
+        <string>
+            <plain>Уверен я, что в вышине</plain>
+        </string>
+        <string>
+            <plain>узрю я лик Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Моя надежда смотрит вдаль,</plain>
+        </string>
+        <string>
+            <plain>вперёд к родной стране.</plain>
+        </string>
+        <string>
+            <plain>Чрез все страданья и печаль</plain>
+        </string>
+        <string>
+            <plain>к Тебе, Господь, к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мою надежду не страшит</plain>
+        </string>
+        <string>
+            <plain>могилы тишина,</plain>
+        </string>
+        <string>
+            <plain>не страшен мне ни суд,</plain>
+        </string>
+        <string>
+            <plain>ни ад - она моя скала.</plain>
+        </string>
+    </verse>
+</song>

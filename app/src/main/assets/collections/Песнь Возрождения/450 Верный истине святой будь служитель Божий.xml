@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="450" name="Верный истине святой будь служитель Божий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верный истине святой будь, служитель Божий!</plain>
+        </string>
+        <string>
+            <plain>Не колеблясь, в вере стой и борися с ложью.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь, как верный Даниил, ты всегда готов</plain>
+        </string>
+        <string>
+            <plain>Исповедать Бога сил посреди врагов.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не страшися ничего, веруй и мужайся,</plain>
+        </string>
+        <string>
+            <plain>И за Бога своего с радостью сражайся.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все, чем мир здесь дорожит, так пред Богом бедно,</plain>
+        </string>
+        <string>
+            <plain>Но великое творит дух любви победной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слово Бога возвести перед миром смело;</plain>
+        </string>
+        <string>
+            <plain>По Его иди пути, делай Божье дело.</plain>
+        </string>
+    </verse>
+</song>

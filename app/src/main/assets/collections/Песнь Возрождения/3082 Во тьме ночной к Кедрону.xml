@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3082" name="Во тьме ночной к Кедрону" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Во тьме ночной к Кедрону</plain>
+        </string>
+        <string>
+            <plain>шёл Иисус в страдании,</plain>
+        </string>
+        <string>
+            <plain>где часто Он к Отцу взывал,</plain>
+        </string>
+        <string>
+            <plain>там, в Гефсимании.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, Гефсимания!</plain>
+        </string>
+        <string>
+            <plain>Там в предсмертный час</plain>
+        </string>
+        <string>
+            <plain>плачет наш Спаситель,</plain>
+        </string>
+        <string>
+            <plain>плачет Божий Сын о нас.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В божественное взглянь лицо:</plain>
+        </string>
+        <string>
+            <plain>вот, Он в борении,</plain>
+        </string>
+        <string>
+            <plain>как кровь стекает пот Его</plain>
+        </string>
+        <string>
+            <plain>там, в Гефсимании.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грехи взял мира на Себя</plain>
+        </string>
+        <string>
+            <plain>Он в сострадании</plain>
+        </string>
+        <string>
+            <plain>и на колени Он упал</plain>
+        </string>
+        <string>
+            <plain>там, в Гефсимании.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скорбя душой, молил Отца,</plain>
+        </string>
+        <string>
+            <plain>борясь в страдании.</plain>
+        </string>
+        <string>
+            <plain>Как чашу эту Мне испить?</plain>
+        </string>
+        <string>
+            <plain>- там, в Гефсимании.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>«Да будет воля, Бог, Твоя!»</plain>
+        </string>
+        <string>
+            <plain>- Он звал в смирении.</plain>
+        </string>
+        <string>
+            <plain>Страдал Он, грешник, за тебя</plain>
+        </string>
+        <string>
+            <plain>там, в Гефсимании.</plain>
+        </string>
+    </verse>
+</song>

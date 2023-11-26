@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="225" name="Вперед, только вперед Господь нас ведет, мы Его братья" canon="false" text="В. Шишкарева" textRus="" music="В. Шишкарева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Вперед, только вперед! Господь нас ведет, мы Его братья.</plain>
+        </string>
+        <string>
+            <plain>Взгляни в небо, взгляни! – в скорбные дни мы не одни.</plain>
+        </string>
+        <string>
+            <plain>Не стой, только не стой, шире открой миру объятья.</plain>
+        </string>
+        <string>
+            <plain>Поверь, сердцем поверь! С нами Господь здесь и теперь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Открой, Книгу открой! Даже герой мир не исправит.</plain>
+        </string>
+        <string>
+            <plain>Открой, Книгу открой! «Все потерял, кто не со Мной».</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Храни, Слово храни! Верен Господь и не оставит.</plain>
+        </string>
+        <string>
+            <plain>Взгляни в небо, взгляни! В скорбные дни мы не одни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>«Аминь», скажем «аминь»  зною пустынь, грому и граду,</plain>
+        </string>
+        <string>
+            <plain>Ветрам, бурным морям, вечным снегам, спелым плодам.</plain>
+        </string>
+        <string>
+            <plain>Лети, песня лети! Мы на пути к вечному граду.</plain>
+        </string>
+        <string>
+            <plain>Поверь, сердцем поверь! С нами Господь здесь и теперь.</plain>
+        </string>
+    </verse>
+</song>

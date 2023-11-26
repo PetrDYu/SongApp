@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="95" name="Как много звезд на небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как много звезд на небесах</plain>
+        </string>
+        <string>
+            <plain>Горит в бесчисленных лучах!</plain>
+        </string>
+        <string>
+            <plain>Но лучше звезд всех красота</plain>
+        </string>
+        <string>
+            <plain>Божественной любви Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>Она светлее всех светил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О сердце, торжествуй всегда!</plain>
+        </string>
+        <string>
+            <plain>Как Вифлеемская звезда,</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа в пути твоем</plain>
+        </string>
+        <string>
+            <plain>Ведет тебя в Отцовский дом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пришел Христос, с тех пор она</plain>
+        </string>
+        <string>
+            <plain>Для всех очей теперь видна;</plain>
+        </string>
+        <string>
+            <plain>И в мире лишь она одна</plain>
+        </string>
+        <string>
+            <plain>Тьму сердца просветить сильна.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Над морем, сушью, ночью, днем -</plain>
+        </string>
+        <string>
+            <plain>Всегда горит она огнем</plain>
+        </string>
+        <string>
+            <plain>И льет с небес свой кроткий свет,</plain>
+        </string>
+        <string>
+            <plain>Мне утешенье в мире бед.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Она ведет меня к Христу</plain>
+        </string>
+        <string>
+            <plain>Сквозь жизни мрак и темноту;</plain>
+        </string>
+        <string>
+            <plain>Я на нее хочу взирать</plain>
+        </string>
+        <string>
+            <plain>И ей лишь в жизни доверять.</plain>
+        </string>
+    </verse>
+</song>

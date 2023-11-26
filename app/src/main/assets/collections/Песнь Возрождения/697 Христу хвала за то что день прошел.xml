@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="697" name="Христу хвала за то что день прошел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христу хвала за то, что день прошел,</plain>
+        </string>
+        <string>
+            <plain>Когда в грехах к погибели я шел,</plain>
+        </string>
+        <string>
+            <plain>Ища напрасно мир в краю чужом;</plain>
+        </string>
+        <string>
+            <plain>Господь мой спас меня, сокрыт теперь я в Нем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С Христом я буду в небесах,</plain>
+        </string>
+        <string>
+            <plain>С ветвями дивных пальм в руках,</plain>
+        </string>
+        <string>
+            <plain>С золотым на голове венцом</plain>
+        </string>
+        <string>
+            <plain>Там вечно буду петь: "Спасен Христом!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сомненье и боязнь Он улалил,</plain>
+        </string>
+        <string>
+            <plain>Он жало смерти смертью угасил;</plain>
+        </string>
+        <string>
+            <plain>В святой крови меня Он убелил,</plain>
+        </string>
+        <string>
+            <plain>Меня, в грехах погибшего, Он возлюбил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала Спасителю, теперь Он мой,</plain>
+        </string>
+        <string>
+            <plain>Во мне Он храм создал Себе святой;</plain>
+        </string>
+        <string>
+            <plain>Я не страшусь: Господь всегда со мной!</plain>
+        </string>
+        <string>
+            <plain>Из бед спасет меня Он сильною рукой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Теперь, всегда, навеки я Его,</plain>
+        </string>
+        <string>
+            <plain>Он - щит мой и охрана от всего;</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой и крепкая скала,</plain>
+        </string>
+        <string>
+            <plain>Ему от всех да будет слава и хвала!</plain>
+        </string>
+    </verse>
+</song>

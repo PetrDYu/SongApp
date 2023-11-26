@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="308" name="Отверзта дверь для нас одна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отверзта дверь для нас одна,</plain>
+        </string>
+        <string>
+            <plain>И сквозь нее сияет</plain>
+        </string>
+        <string>
+            <plain>Любовь Спасителя Христа</plain>
+        </string>
+        <string>
+            <plain>И в рай всех приглашает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Та дверь всеблагостью Христа</plain>
+        </string>
+        <string>
+            <plain>Отверзта также для меня, меня, меня,</plain>
+        </string>
+        <string>
+            <plain>Отверзта для меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И все проходят дверью той,</plain>
+        </string>
+        <string>
+            <plain>Кто в рай войти желает:</plain>
+        </string>
+        <string>
+            <plain>Богатый, знатный и простой,</plain>
+        </string>
+        <string>
+            <plain>Господь всех призывает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И кто чрез эту дверь войдет,</plain>
+        </string>
+        <string>
+            <plain>Того Спаситель примет,</plain>
+        </string>
+        <string>
+            <plain>Тот мир душе своей найдет,</plain>
+        </string>
+        <string>
+            <plain>Того Отец обнимет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В вратах святых Отчизны той</plain>
+        </string>
+        <string>
+            <plain>Свой крест земной он сложит,</plain>
+        </string>
+        <string>
+            <plain>Венец небесный, золотой</plain>
+        </string>
+        <string>
+            <plain>Ему Господь возложит.</plain>
+        </string>
+    </verse>
+</song>

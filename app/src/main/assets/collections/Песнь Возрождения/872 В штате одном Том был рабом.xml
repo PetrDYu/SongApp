@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="872" name="В штате одном Том был рабом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В штате одном Том был рабом.</plain>
+        </string>
+        <string>
+            <plain>Трудно жилось негру на земле,</plain>
+        </string>
+        <string>
+            <plain>Но о лучшем думал он</plain>
+        </string>
+        <string>
+            <plain>- Штате дивном, неземном,</plain>
+        </string>
+        <string>
+            <plain>В небе. В небе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сбылась мечта: в лоно Христа</plain>
+        </string>
+        <string>
+            <plain>Ангелами Том был отнесен.</plain>
+        </string>
+        <string>
+            <plain>И в раю стал черный негр</plain>
+        </string>
+        <string>
+            <plain>Светел, как лучистый снег,</plain>
+        </string>
+        <string>
+            <plain>В небе. В небе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В Божьем раю песню свою</plain>
+        </string>
+        <string>
+            <plain>Белым людям Том теперь поет!</plain>
+        </string>
+        <string>
+            <plain>"Кто не телом, а душой</plain>
+        </string>
+        <string>
+            <plain>Светел, будет тот со мной,</plain>
+        </string>
+        <string>
+            <plain>В небе. В небе."</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3287" name="В радостный день торжества" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В радостный день торжества</plain>
+        </string>
+        <string>
+            <plain>- Праздник всего естества</plain>
+        </string>
+        <string>
+            <plain>Всё, что Господь искупил</plain>
+        </string>
+        <string>
+            <plain>Славу поёт Богу сил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всем нам Спаситель рождён,</plain>
+        </string>
+        <string>
+            <plain>Именем Он наречён,</plain>
+        </string>
+        <string>
+            <plain>Именем чудным и дивным вовек</plain>
+        </string>
+        <string>
+            <plain>Радуйся о человек!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Имя Его - Иисус</plain>
+        </string>
+        <string>
+            <plain>Странник и воин Христос,</plain>
+        </string>
+        <string>
+            <plain>Нас Он избавил от уз,</plain>
+        </string>
+        <string>
+            <plain>Радость спасенья принёс.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славим явленье</plain>
+        </string>
+        <string>
+            <plain>Его рождества,</plain>
+        </string>
+        <string>
+            <plain>Сильного Он победил,</plain>
+        </string>
+        <string>
+            <plain>Нас от греха искупил.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="148" name="Муж Галилеянин тебя не пройдет" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Муж Галилеянин тебя не пройдет.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И если ты позволишь, Он Сам придет, любя,</plain>
+        </string>
+        <string>
+            <plain>И силою Своею коснется тебя.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Иного пути нет и не найдешь «– нет, нет! –»,</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Лишь только Иисус тебя спасет!</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Моя победа, победа в Боге,</plain>
+        </string>
+        <string>
+            <plain>Победа в имени Иисуса Господа.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И никогда мои враги не смогут победить меня.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Моя победа, победа в Боге,</plain>
+        </string>
+        <string>
+            <plain>Победа в имени Иисуса Господа.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Муж Галилеянин меня не пройдет.</plain>
+            <repeat id="5" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>И если я позволю, Он Сам придет, любя,</plain>
+        </string>
+        <string>
+            <plain>И силою Своею коснется меня.</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Муж Галилеянин меня не прошел.</plain>
+            <repeat id="7" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="8" rep_rate="-1" is_opening="true" />
+            <plain>И я Ему позволил, Он Сам пришел, любя,</plain>
+        </string>
+        <string>
+            <plain>И силою Своею коснулся меня.</plain>
+            <repeat id="8" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

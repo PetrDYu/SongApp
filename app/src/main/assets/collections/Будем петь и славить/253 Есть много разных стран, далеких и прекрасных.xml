@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="253" name="Есть много разных стран, далеких и прекрасных" canon="false" text="Л. Маянц" textRus="" music="Л. Маянц" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Есть много разных стран, далеких и прекрасных;</plain>
+        </string>
+        <string>
+            <plain>Чтоб в них попасть, пускаемся мы в путь.</plain>
+        </string>
+        <string>
+            <plain>Но есть одна страна, в нее войти не властны мы,</plain>
+        </string>
+        <string>
+            <plain>Но верю, что откроется когда-нибудь.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Небесный Град, Небесный Град,</plain>
+        </string>
+        <string>
+            <plain>Страна, где царствует любовь.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В нее войдет лишь тот, в чьем сердце Божий Дух живет,</plain>
+        </string>
+        <string>
+            <plain>Кто никогда не ищет своего, в ком Дух любви неугасим,</plain>
+        </string>
+        <string>
+            <plain>Кто свет Христов несет другим, и смерть не властна над ним.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Господь освящает, Господь исцеляет,</plain>
+        </string>
+        <string>
+            <plain>Господь побеждает смерть.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О мой Господь! Приди и властвуй надо мной,</plain>
+        </string>
+        <string>
+            <plain>Своей любовью душу освяти. Нет жизни той прекрасней</plain>
+        </string>
+        <string>
+            <plain>И нет другого счастья, чем вечную любовь нести.</plain>
+        </string>
+        <string>
+            <plain>Любовь долготерпит, любовь милосердствует,</plain>
+        </string>
+        <string>
+            <plain>Любовь не гордится, любовь все переносит,</plain>
+        </string>
+        <string>
+            <plain>Любовь все покрывает, любовь все объемлет.</plain>
+        </string>
+    </verse>
+</song>

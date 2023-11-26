@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2534" name="Все грехи мои покрыты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все грехи мои покрыты,</plain>
+        </string>
+        <string>
+            <plain>я свободен, я спасен;</plain>
+        </string>
+        <string>
+            <plain>Иисус моя защита,</plain>
+        </string>
+        <string>
+            <plain>за меня был распят Он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Он мне жизнь принес.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Умер за меня Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я причислен к Божьим слугам,</plain>
+        </string>
+        <string>
+            <plain>я хочу добро творить:</plain>
+        </string>
+        <string>
+            <plain>Он мне дал Святого Духа,</plain>
+        </string>
+        <string>
+            <plain>помогает в правде жить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Снял с меня греха оковы,</plain>
+        </string>
+        <string>
+            <plain>я навек свободен с Ним;</plain>
+        </string>
+        <string>
+            <plain>О могуществе Христовом</plain>
+        </string>
+        <string>
+            <plain>возвещать хочу другим.</plain>
+        </string>
+    </verse>
+</song>

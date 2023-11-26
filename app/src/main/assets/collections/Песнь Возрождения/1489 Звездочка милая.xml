@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1489" name="Звездочка милая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звездочка милая,</plain>
+        </string>
+        <string>
+            <plain>звездочка ясная,</plain>
+        </string>
+        <string>
+            <plain>Я так хочу к тебе.</plain>
+        </string>
+        <string>
+            <plain>Рядом с тобою сиять над землею</plain>
+        </string>
+        <string>
+            <plain>Людям, живущим во тьме.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Даль бесконечная,</plain>
+        </string>
+        <string>
+            <plain>жажда сердечная:</plain>
+        </string>
+        <string>
+            <plain>Скрыться в лучах зари,</plain>
+        </string>
+        <string>
+            <plain>Где нет страданий, скорбей и рыданий,</plain>
+        </string>
+        <string>
+            <plain>Счастье, любовь где царит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сердце усталое,</plain>
+        </string>
+        <string>
+            <plain>скорби немалые</plain>
+        </string>
+        <string>
+            <plain>Я перенес в пути.</plain>
+        </string>
+        <string>
+            <plain>Твердо я верю, что в райские двери</plain>
+        </string>
+        <string>
+            <plain>Бог мне поможет войти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Звездочка милая,</plain>
+        </string>
+        <string>
+            <plain>звездочка ясная.</plain>
+        </string>
+        <string>
+            <plain>Ярче гори в пути.</plain>
+        </string>
+        <string>
+            <plain>Я за тобою хоть узкой тропою</plain>
+        </string>
+        <string>
+            <plain>Радостно буду идти.</plain>
+        </string>
+    </verse>
+</song>

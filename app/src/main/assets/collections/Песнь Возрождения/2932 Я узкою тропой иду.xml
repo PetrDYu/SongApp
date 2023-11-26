@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2932" name="Я узкою тропой иду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я узкою тропой иду,</plain>
+        </string>
+        <string>
+            <plain>проложенной Христом;</plain>
+        </string>
+        <string>
+            <plain>тропой, которая ведёт</plain>
+        </string>
+        <string>
+            <plain>в небесный, вечный дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иду, Иду,</plain>
+        </string>
+        <string>
+            <plain>я узкою тропой.</plain>
+        </string>
+        <string>
+            <plain>Иду, иду</plain>
+        </string>
+        <string>
+            <plain>я узкою тропой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я узкою тропой иду,</plain>
+        </string>
+        <string>
+            <plain>хоть отойдут друзья.</plain>
+        </string>
+        <string>
+            <plain>Неопытных сам Бог ведёт</plain>
+        </string>
+        <string>
+            <plain>- читаю в Слове я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я узкою тропой иду.</plain>
+        </string>
+        <string>
+            <plain>И пусть я одинок,</plain>
+        </string>
+        <string>
+            <plain>иду я всё же не один</plain>
+        </string>
+        <string>
+            <plain>- со мной идёт мой Бог.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я узкою тропой иду</plain>
+        </string>
+        <string>
+            <plain>чрез горе, скорбь, нужду;</plain>
+        </string>
+        <string>
+            <plain>послушным буду до конца</plain>
+        </string>
+        <string>
+            <plain>Иисусу моему.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я узкою тропой иду,</plain>
+        </string>
+        <string>
+            <plain>унижен и гоним,</plain>
+        </string>
+        <string>
+            <plain>пока Господь к Себе возьмёт,</plain>
+        </string>
+        <string>
+            <plain>где буду вечно с Ним.</plain>
+        </string>
+    </verse>
+</song>

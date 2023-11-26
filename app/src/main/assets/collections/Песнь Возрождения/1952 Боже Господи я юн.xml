@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1952" name="Боже Господи я юн" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Господи, я юн;</plain>
+        </string>
+        <string>
+            <plain>Грех, как сладостный шептун,</plain>
+        </string>
+        <string>
+            <plain>Приближается ко мне</plain>
+        </string>
+        <string>
+            <plain>Днем и ночью, и во сне.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Часто шепчет он о том.</plain>
+        </string>
+        <string>
+            <plain>Будто тяжко со Христом,</plain>
+        </string>
+        <string>
+            <plain>Но что с ним мне легче жить,</plain>
+        </string>
+        <string>
+            <plain>Веселей ему служить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дальше шепчет он о том,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я стал ему рабом.</plain>
+        </string>
+        <string>
+            <plain>Чтобы точно исполнял</plain>
+        </string>
+        <string>
+            <plain>То, что он мне приказал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я опасность сознаю,</plain>
+        </string>
+        <string>
+            <plain>Направляю мысль свою</plain>
+        </string>
+        <string>
+            <plain>И хочу врага прогнать,</plain>
+        </string>
+        <string>
+            <plain>Но приходит он опять.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я бессилен отразить</plain>
+        </string>
+        <string>
+            <plain>И хочу Тебя просить:</plain>
+        </string>
+        <string>
+            <plain>Помоги мне, чтобы враг</plain>
+        </string>
+        <string>
+            <plain>Не сразил меня в путях.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Дай мне силу устоять,</plain>
+        </string>
+        <string>
+            <plain>Голос вражий не принять,</plain>
+        </string>
+        <string>
+            <plain>А отдать себя Тебе,</plain>
+        </string>
+        <string>
+            <plain>О, внемли моей мольбе!</plain>
+        </string>
+    </verse>
+</song>

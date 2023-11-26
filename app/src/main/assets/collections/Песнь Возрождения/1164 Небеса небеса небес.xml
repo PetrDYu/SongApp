@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1164" name="Небеса небеса небес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небеса, небеса небес,</plain>
+        </string>
+        <string>
+            <plain>Я стремлюсь туда, в край святых чудес,</plain>
+        </string>
+        <string>
+            <plain>Тот лазурный край для души моей,</plain>
+        </string>
+        <string>
+            <plain>Я нашел тебя на земле скорбей.</plain>
+        </string>
+        <string>
+            <plain>Восхожу тропой в небеса!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Облака, облака скорбей</plain>
+        </string>
+        <string>
+            <plain>Иногда плывут над душой моей.</plain>
+        </string>
+        <string>
+            <plain>Облака плывут, но Христос со мной,</plain>
+        </string>
+        <string>
+            <plain>Он дает душе и в скорбях покой,</plain>
+        </string>
+        <string>
+            <plain>И сияют вновь небеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господи, как хочу душой</plain>
+        </string>
+        <string>
+            <plain>Каждый миг и впредь пребывать с Тобой.</plain>
+        </string>
+        <string>
+            <plain>Среди бурь земных сохрани меня.</plain>
+        </string>
+        <string>
+            <plain>Чтоб, окончив путь, мне узреть Тебя,</plain>
+        </string>
+        <string>
+            <plain>И воспеть хвалу в небесах.</plain>
+        </string>
+    </verse>
+</song>

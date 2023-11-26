@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1494" name="Горит костер огнем пылает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горит костер, огнем пылает,</plain>
+        </string>
+        <string>
+            <plain>И черный дым поднялся к облакам.</plain>
+        </string>
+        <string>
+            <plain>Тернистый путь Ян Гус свой завершает,</plain>
+        </string>
+        <string>
+            <plain>Его судьба на казнь обречена.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты не рожден для этого земного века.</plain>
+        </string>
+        <string>
+            <plain>Ты пытки кротко нес, терпел в огне,</plain>
+        </string>
+        <string>
+            <plain>Носитель верный был Христова света.</plain>
+        </string>
+        <string>
+            <plain>За это жертвой стал, сгорел в огне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Горит костер, огнем пылает,</plain>
+        </string>
+        <string>
+            <plain>И искры быстро в воздухе летят.</plain>
+        </string>
+        <string>
+            <plain>Страдалец в муках Бога призывает,</plain>
+        </string>
+        <string>
+            <plain>В дыму костра слова его звучат.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Горит костер, огнем пылает,</plain>
+        </string>
+        <string>
+            <plain>И пламя ярко жертвой расцвело.</plain>
+        </string>
+        <string>
+            <plain>Страдальца душу небо принимает.</plain>
+        </string>
+        <string>
+            <plain>Настал конец мучениям его.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Погас костер, утихло пламя.</plain>
+        </string>
+        <string>
+            <plain>Ушел герой евангельских путей.</plain>
+        </string>
+        <string>
+            <plain>Но не сожгли они Христово знамя.</plain>
+        </string>
+        <string>
+            <plain>Что водрузил Ян Гус среди людей.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Ты был рожден для этого земного века.</plain>
+        </string>
+        <string>
+            <plain>Ты пытки кротко нес, терпел в огне.</plain>
+        </string>
+        <string>
+            <plain>Носитель верный был Христова света.</plain>
+        </string>
+        <string>
+            <plain>За это жертвой стал, сгорел в огне.</plain>
+        </string>
+    </chorus>
+</song>

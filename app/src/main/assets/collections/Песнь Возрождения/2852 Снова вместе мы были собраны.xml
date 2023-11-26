@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2852" name="Снова вместе мы были собраны" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Снова вместе мы были собраны</plain>
+        </string>
+        <string>
+            <plain>для общения со Христом.</plain>
+        </string>
+        <string>
+            <plain>Песнь споём Ему,</plain>
+        </string>
+        <string>
+            <plain>воздадим хвалу прежде,</plain>
+        </string>
+        <string>
+            <plain>чем домой пойдём.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Храни вас Бог,</plain>
+        </string>
+        <string>
+            <plain>до коле свидимся</plain>
+        </string>
+        <string>
+            <plain>Храни вас Бог,</plain>
+        </string>
+        <string>
+            <plain>до коле свидимся</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог любовь нам дал,</plain>
+        </string>
+        <string>
+            <plain>Дух нас научал - это праздник был для души;</plain>
+        </string>
+        <string>
+            <plain>и отсюда мы выйдем бодрыми,</plain>
+        </string>
+        <string>
+            <plain>пусть ведёт нас Бог в пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если мы придём в наш чудесный дом,</plain>
+        </string>
+        <string>
+            <plain>что находится в небесах,</plain>
+        </string>
+        <string>
+            <plain>будет там тогда праздник навсегда,</plain>
+        </string>
+        <string>
+            <plain>в вечных, чудных тех краях!</plain>
+        </string>
+    </verse>
+</song>

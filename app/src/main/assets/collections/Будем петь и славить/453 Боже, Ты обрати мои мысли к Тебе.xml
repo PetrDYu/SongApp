@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="453" name="Боже, Ты обрати мои мысли к Тебе" canon="false" text="Д. Бонхёффера" textRus="" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Боже, Ты обрати мои мысли к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Ты свет нам даешь и помнишь нас всегда.</plain>
+        </string>
+        <string>
+            <plain>И долготерпенье, и помощь у Тебя.</plain>
+        </string>
+        <string>
+            <plain>Не могу постичь путей Твоих,</plain>
+        </string>
+        <string>
+            <plain>Но Ты знаешь путь для меня.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Gott, laß meine Gedanken sich sammeln zu dir.</plain>
+        </string>
+        <string>
+            <plain>Bei dir ist das Licht, du vergißt mich nicht.</plain>
+        </string>
+        <string>
+            <plain>Bei dir ist die Hilfe, bei dir ist die Geduld.</plain>
+        </string>
+        <string>
+            <plain>Ich verstehe deine Wege nicht,</plain>
+        </string>
+        <string>
+            <plain>Aber du weißt den Weg für mich.</plain>
+        </string>
+    </verse>
+</song>

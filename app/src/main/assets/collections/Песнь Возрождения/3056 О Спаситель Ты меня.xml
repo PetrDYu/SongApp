@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3056" name="О Спаситель Ты меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Спаситель, Ты меня</plain>
+        </string>
+        <string>
+            <plain>правильным путём веди,</plain>
+        </string>
+        <string>
+            <plain>чрез благодать Твою</plain>
+        </string>
+        <string>
+            <plain>непорочным сохрани.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, Ты веди меня,</plain>
+        </string>
+        <string>
+            <plain>за Тобой хочу идти,</plain>
+        </string>
+        <string>
+            <plain>уповать лишь на Тебя</plain>
+        </string>
+        <string>
+            <plain>в испытаньях помоги.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Помоги мне каждый день</plain>
+        </string>
+        <string>
+            <plain>делать что-то для Тебя,</plain>
+        </string>
+        <string>
+            <plain>хоть и мал труд мой,</plain>
+        </string>
+        <string>
+            <plain>но Ты верных наградишь сполна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Помоги, чтоб мой язык</plain>
+        </string>
+        <string>
+            <plain>славил лишь Тебя, Бог мой,</plain>
+        </string>
+        <string>
+            <plain>чтоб свидетельствовал</plain>
+        </string>
+        <string>
+            <plain>всем о любви Твоей большой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Помоги мне, Иисус,</plain>
+        </string>
+        <string>
+            <plain>чтоб на то лишь я смотрел,</plain>
+        </string>
+        <string>
+            <plain>что полезно для меня</plain>
+        </string>
+        <string>
+            <plain>что угодно и Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Сердце сохрани моё</plain>
+        </string>
+        <string>
+            <plain>чистым от греха и зла,</plain>
+        </string>
+        <string>
+            <plain>чтоб всегда я мог сказать:</plain>
+        </string>
+        <string>
+            <plain>«Будет воля пусть Твоя!»</plain>
+        </string>
+    </verse>
+</song>

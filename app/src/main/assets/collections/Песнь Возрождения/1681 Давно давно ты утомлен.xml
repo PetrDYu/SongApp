@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1681" name="Давно давно ты утомлен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Давно давно ты утомлен,</plain>
+        </string>
+        <string>
+            <plain>Давно давно судьбой разбитый.</plain>
+        </string>
+        <string>
+            <plain>Душа твоя так правды жаждет,</plain>
+        </string>
+        <string>
+            <plain>В груди твоей так сердце страждет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Порою трудно жить.</plain>
+        </string>
+        <string>
+            <plain>Порой душа болит,</plain>
+        </string>
+        <string>
+            <plain>Порою нету сил,</plain>
+        </string>
+        <string>
+            <plain>И унываешь ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди, о, друг. Спаситель ждет,</plain>
+        </string>
+        <string>
+            <plain>Давно давно тебя зовет:</plain>
+        </string>
+        <string>
+            <plain>Приди, Мой сын, приди, заблудший,</plain>
+        </string>
+        <string>
+            <plain>Я отдых дам тебе наилучший.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>И будешь легче жить.</plain>
+        </string>
+        <string>
+            <plain>Грехи твои прощу,</plain>
+        </string>
+        <string>
+            <plain>И больше никогда</plain>
+        </string>
+        <string>
+            <plain>О них не вспомяну.</plain>
+        </string>
+    </chorus>
+</song>

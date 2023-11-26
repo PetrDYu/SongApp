@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2783" name="Господь мой Пастырь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь - мой Пастырь,</plain>
+        </string>
+        <string>
+            <plain>Я ни в чем не буду знать нужды.</plain>
+        </string>
+        <string>
+            <plain>На злачных пажитях пасет</plain>
+        </string>
+        <string>
+            <plain>Вблизи живой воды.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он подкрепляет жизнь мою,</plain>
+        </string>
+        <string>
+            <plain>Ведет на путь добра,</plain>
+        </string>
+        <string>
+            <plain>Являет мне любовь Свою</plain>
+        </string>
+        <string>
+            <plain>С утра и до утра.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Долиной смерти ли пойду,</plain>
+        </string>
+        <string>
+            <plain>Не убоюся зла.</plain>
+        </string>
+        <string>
+            <plain>Со мною Ты, рука Твоя</plain>
+        </string>
+        <string>
+            <plain>Всегда меня вела.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты приготовил пищу мне</plain>
+        </string>
+        <string>
+            <plain>В виду моих врагов,</plain>
+        </string>
+        <string>
+            <plain>Возлил на голову елей,</plain>
+        </string>
+        <string>
+            <plain>Дал клад Своих даров.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Твоя любовь и доброта</plain>
+        </string>
+        <string>
+            <plain>Идут за мною вслед.</plain>
+        </string>
+        <string>
+            <plain>И в доме Божьем навсегда</plain>
+        </string>
+        <string>
+            <plain>Войду в небесный свет.</plain>
+        </string>
+    </verse>
+</song>

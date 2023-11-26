@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2896" name="Ясный день пришёл на землю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ясный день пришёл на землю,</plain>
+        </string>
+        <string>
+            <plain>солнце вышло из-за туч</plain>
+        </string>
+        <string>
+            <plain>- как пророки возвещали,</plain>
+        </string>
+        <string>
+            <plain>что блеснёт вечерний луч.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, прекрасный свет вечерний,</plain>
+        </string>
+        <string>
+            <plain>луч всё ярче светит твой,</plain>
+        </string>
+        <string>
+            <plain>ведь в Спасителе имеем</plain>
+        </string>
+        <string>
+            <plain>мы свободу и покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дым из бездны скрыл</plain>
+        </string>
+        <string>
+            <plain>надолго истинный Иисуса свет,</plain>
+        </string>
+        <string>
+            <plain>землю мерзостью наполнил,</plain>
+        </string>
+        <string>
+            <plain>но ложь вскрыл вечерний свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вновь спасённые приходят</plain>
+        </string>
+        <string>
+            <plain>в одеяньях чистоты;</plain>
+        </string>
+        <string>
+            <plain>все они в вечернем свете</plain>
+        </string>
+        <string>
+            <plain>воспевают песнь хвалы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нет здесь рабства Вавилона,</plain>
+        </string>
+        <string>
+            <plain>всем Иисус свободу дал,</plain>
+        </string>
+        <string>
+            <plain>ликованьем все объяты</plain>
+        </string>
+        <string>
+            <plain>- свет вечерний засиял.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Аллилуйя! Пойте песни</plain>
+        </string>
+        <string>
+            <plain>о победе во Христе;</plain>
+        </string>
+        <string>
+            <plain>Господа вы восхвалите,</plain>
+        </string>
+        <string>
+            <plain>свет Он истинный душе.</plain>
+        </string>
+    </verse>
+</song>

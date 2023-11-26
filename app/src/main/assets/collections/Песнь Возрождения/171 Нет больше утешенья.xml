@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="171" name="Нет больше утешенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нет больше утешенья,</plain>
+        </string>
+        <string>
+            <plain>Нет радости полней,</plain>
+        </string>
+        <string>
+            <plain>Как быть всегда в общенье</plain>
+        </string>
+        <string>
+            <plain>С Создателем людей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сладко, чудно</plain>
+        </string>
+        <string>
+            <plain>Быть в общенье вечном с Ним;</plain>
+        </string>
+        <string>
+            <plain>Сладко, чудно</plain>
+        </string>
+        <string>
+            <plain>Быть в общенье с Ним.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Общенье с Богом Вечным,</plain>
+        </string>
+        <string>
+            <plain>Учителем людей,</plain>
+        </string>
+        <string>
+            <plain>Ученикам беспечным</plain>
+        </string>
+        <string>
+            <plain>Даст знание полней.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но сладостней общенье</plain>
+        </string>
+        <string>
+            <plain>С Всесильным как с Отцом;</plain>
+        </string>
+        <string>
+            <plain>Отцово попеченье</plain>
+        </string>
+        <string>
+            <plain>Дает мне вечный дом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но выше есть общенье,</plain>
+        </string>
+        <string>
+            <plain>Общенье двух друзей;</plain>
+        </string>
+        <string>
+            <plain>"Он Друг мой", - где ученье,</plain>
+        </string>
+        <string>
+            <plain>Где истина святей?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Общение беседы</plain>
+        </string>
+        <string>
+            <plain>В восторженной мольбе;</plain>
+        </string>
+        <string>
+            <plain>Общение победы</plain>
+        </string>
+        <string>
+            <plain>В Его святой борьбе.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2487" name="Как дивен Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как дивен Господь!</plain>
+        </string>
+        <string>
+            <plain>Как к нам милостив Он,</plain>
+        </string>
+        <string>
+            <plain>Слышит Он и моленья,</plain>
+        </string>
+        <string>
+            <plain>Слышит Он и моленья,</plain>
+        </string>
+        <string>
+            <plain>И наш скорбный стон!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как дивен Господь!</plain>
+        </string>
+        <string>
+            <plain>Нас, порочных людей,</plain>
+        </string>
+        <string>
+            <plain>В царство славы Он принял,</plain>
+        </string>
+        <string>
+            <plain>В царство славы Он принял,</plain>
+        </string>
+        <string>
+            <plain>Как Своих детей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как дивен Господь!</plain>
+        </string>
+        <string>
+            <plain>Незаметно для нас</plain>
+        </string>
+        <string>
+            <plain>Осыпает Он благом,</plain>
+        </string>
+        <string>
+            <plain>Осыпает Он благом</plain>
+        </string>
+        <string>
+            <plain>Путь наш всякий час.</plain>
+        </string>
+    </verse>
+</song>

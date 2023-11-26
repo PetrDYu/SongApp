@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="458" name="Боже, Ты Бог мой" canon="false" text="Ю. Пастернака" textRus="С. Аверинцева" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Ты Бог мой!</plain>
+        </string>
+        <string>
+            <plain>Тебя ищу я от ранней зари.</plain>
+        </string>
+        <string>
+            <plain>Тебя возжаждала душа моя,</plain>
+        </string>
+        <string>
+            <plain>И по Тебе томится плоть моя</plain>
+        </string>
+        <string>
+            <plain>В земле пустынной и безводной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И под сенью крыл Твоих я возрадуюсь,</plain>
+        </string>
+        <string>
+            <plain>И прильнет к Тебе душа моя,</plain>
+        </string>
+        <string>
+            <plain>Ибо Ты помощник мой и прибежище.</plain>
+        </string>
+        <string>
+            <plain>Держит меня десница Твоя, Боже!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже, Ты Бог мой!</plain>
+        </string>
+        <string>
+            <plain>Я помышляю в ночи о Тебе.</plain>
+        </string>
+        <string>
+            <plain>И воспоют Тебя уста мои,</plain>
+        </string>
+        <string>
+            <plain>Благословит Тебя душа моя</plain>
+        </string>
+        <string>
+            <plain>В земле пустынной и безводной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже, Ты Бог мой!</plain>
+        </string>
+        <string>
+            <plain>Тебя ищу я от ранней зари!</plain>
+        </string>
+    </verse>
+</song>

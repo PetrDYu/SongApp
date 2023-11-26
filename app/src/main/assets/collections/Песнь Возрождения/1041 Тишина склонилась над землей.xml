@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1041" name="Тишина склонилась над землей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тишина склонилась над землей -</plain>
+        </string>
+        <string>
+            <plain>Спит земля объята тишиной.</plain>
+        </string>
+        <string>
+            <plain>Блещут звезды, в небе звездный след</plain>
+        </string>
+        <string>
+            <plain>Уж много лет, уж много лет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я думу в вечность направляю.</plain>
+        </string>
+        <string>
+            <plain>Славлю Бога в тишине</plain>
+        </string>
+        <string>
+            <plain>За великие созданья,</plain>
+        </string>
+        <string>
+            <plain>За то, что разум дал Он мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Всюду нам действительность твердит:</plain>
+        </string>
+        <string>
+            <plain>"Будет суд, - Всевышний говорит,</plain>
+        </string>
+        <string>
+            <plain>- За дела, что сделал человек</plain>
+        </string>
+        <string>
+            <plain>За много лет, за много лет."</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вечный Бог Своей десницей сил</plain>
+        </string>
+        <string>
+            <plain>Шар земной и небо сотворил.</plain>
+        </string>
+        <string>
+            <plain>Но не внемлет истине весь свет</plain>
+        </string>
+        <string>
+            <plain>Уж много лет, уж много лет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="994" name="Послушай мой друг я тебе скажу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Послушай, мой друг, я тебе скажу</plain>
+        </string>
+        <string>
+            <plain>О том, что настанет тот час.</plain>
+        </string>
+        <string>
+            <plain>Когда ко Христу ты придешь на Суд,</plain>
+        </string>
+        <string>
+            <plain>- Подумай об этом сейчас!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сегодня Христос льет слезы.</plain>
+        </string>
+        <string>
+            <plain>Сегодня Он ждет тебя.</plain>
+        </string>
+        <string>
+            <plain>О, если б ты знал, как безмерно</plain>
+        </string>
+        <string>
+            <plain>Иисус возлюбил тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пойми, эту весть о спасеньи</plain>
+        </string>
+        <string>
+            <plain>Нигде не услышишь потом.</plain>
+        </string>
+        <string>
+            <plain>О, что же ты медлишь?</plain>
+        </string>
+        <string>
+            <plain>Скорее, Скорее войди в Отчий дом!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сегодня Христос призывает:</plain>
+        </string>
+        <string>
+            <plain>Покайся - и будешь спасен.</plain>
+        </string>
+        <string>
+            <plain>Сегодня приди, и сегодня</plain>
+        </string>
+        <string>
+            <plain>Отец тебя примет в Свой дом!</plain>
+        </string>
+    </verse>
+</song>

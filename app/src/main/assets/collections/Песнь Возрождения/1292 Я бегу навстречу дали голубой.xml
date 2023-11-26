@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1292" name="Я бегу навстречу дали голубой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я бегу навстречу дали голубой,</plain>
+        </string>
+        <string>
+            <plain>А вокруг сияньем залиты поля.</plain>
+        </string>
+        <string>
+            <plain>Тучки белые несутся надо мной</plain>
+        </string>
+        <string>
+            <plain>В неизвестные, далекие края.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ветер дышит ароматом полевым.</plain>
+        </string>
+        <string>
+            <plain>Веселит в борьбе уставшего меня.</plain>
+        </string>
+        <string>
+            <plain>Все мне кажется здесь близким, дорогим,</plain>
+        </string>
+        <string>
+            <plain>Будто родина далекая моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хотел бы вместе с тучками лететь</plain>
+        </string>
+        <string>
+            <plain>Далеко от зла земного и невзгод,</plain>
+        </string>
+        <string>
+            <plain>В край небесный , где сияет вечный свет,</plain>
+        </string>
+        <string>
+            <plain>Где пасет на злачных пажитях Господь.</plain>
+        </string>
+    </verse>
+</song>

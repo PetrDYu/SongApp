@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2873" name="О радостно песни звучите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, радостно песни звучите</plain>
+        </string>
+        <string>
+            <plain>- рассеяна смертная тень!</plain>
+        </string>
+        <string>
+            <plain>Всем людям земли возвестите:</plain>
+        </string>
+        <string>
+            <plain>«Настал искупления день!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте: наш Христос родился!</plain>
+        </string>
+        <string>
+            <plain>Славьте Господа Христа!</plain>
+        </string>
+        <string>
+            <plain>Пойте с радостью на лицах:</plain>
+        </string>
+        <string>
+            <plain>«О земля, прими Царя!»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, радостно песни звучите,</plain>
+        </string>
+        <string>
+            <plain>звучите вблизи и вдали.</plain>
+        </string>
+        <string>
+            <plain>Теперь от врагов мы укрыты,</plain>
+        </string>
+        <string>
+            <plain>пришёл Искупитель земли.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, радостно песни звучите,</plain>
+        </string>
+        <string>
+            <plain>настал славный день Рождества!</plain>
+        </string>
+        <string>
+            <plain>Все к яслям Младенца спешите:</plain>
+        </string>
+        <string>
+            <plain>спасёт Он от горя и зла.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3190" name="Братья мои кто же" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Братья мои кто же?</plain>
+        </string>
+        <string>
+            <plain>Сёстры мои кто?</plain>
+        </string>
+        <string>
+            <plain>- Те, кому Сын Божий</plain>
+        </string>
+        <string>
+            <plain>стал милей всего.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Их достигло Слово</plain>
+        </string>
+        <string>
+            <plain>Пастыря с высот,</plain>
+        </string>
+        <string>
+            <plain>дух и разум новый</plain>
+        </string>
+        <string>
+            <plain>им Господь даёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Небольшое стало</plain>
+        </string>
+        <string>
+            <plain>кротких и простых ...</plain>
+        </string>
+        <string>
+            <plain>Жизнью славить Бога</plain>
+        </string>
+        <string>
+            <plain>- это цель для них.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мир их презирает,</plain>
+        </string>
+        <string>
+            <plain>гонит за Христа,</plain>
+        </string>
+        <string>
+            <plain>но венец победы</plain>
+        </string>
+        <string>
+            <plain>ждёт их в небесах.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>С ними пребывать</plain>
+        </string>
+        <string>
+            <plain>я рад в любой стране.</plain>
+        </string>
+        <string>
+            <plain>Это - мои братья,</plain>
+        </string>
+        <string>
+            <plain>это - сёстры мне.</plain>
+        </string>
+    </verse>
+</song>

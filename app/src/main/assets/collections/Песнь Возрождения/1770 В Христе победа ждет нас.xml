@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1770" name="В Христе победа ждет нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Христе победа ждет нас,</plain>
+        </string>
+        <string>
+            <plain>Спаситель навеки.</plain>
+        </string>
+        <string>
+            <plain>Грехи мне простились.</plain>
+        </string>
+        <string>
+            <plain>Иисуса кровь свята.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Любовь Его со мною,</plain>
+        </string>
+        <string>
+            <plain>Моя любовь к Нему лишь.</plain>
+        </string>
+        <string>
+            <plain>Дал силы к победе Он.</plain>
+        </string>
+        <string>
+            <plain>Очистил жизнь мою.</plain>
+        </string>
+    </verse>
+</song>

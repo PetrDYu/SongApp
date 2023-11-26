@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2605" name="В сад Гефсиманский наш Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В сад Гефсиманский наш Господь</plain>
+        </string>
+        <string>
+            <plain>Входил последний раз;</plain>
+        </string>
+        <string>
+            <plain>В сад Гефсиманский Он входил,</plain>
+        </string>
+        <string>
+            <plain>Отца молил за нас.</plain>
+        </string>
+        <string>
+            <plain>Любовались Им звезды с высоты,</plain>
+        </string>
+        <string>
+            <plain>Несли свою дань Ему цветы,</plain>
+        </string>
+        <string>
+            <plain>Прервали шепот свой кусты,</plain>
+        </string>
+        <string>
+            <plain>Когда Он явился в сад.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ушел из сада наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Готовый все терпеть.</plain>
+        </string>
+        <string>
+            <plain>Ушел из сада наш Господь</plain>
+        </string>
+        <string>
+            <plain>На муки и на смерть.</plain>
+        </string>
+        <string>
+            <plain>Чтоб исполнить пророков и закон,</plain>
+        </string>
+        <string>
+            <plain>Из тихого сада взят был Он</plain>
+        </string>
+        <string>
+            <plain>И к древу смерти пригвожден...</plain>
+        </string>
+        <string>
+            <plain>Во тьме Он оставил сад.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2640" name="Вслед за Иисусом юный герой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вслед за Иисусом, юный герой,</plain>
+        </string>
+        <string>
+            <plain>В битву вступай ты с первой зарей.</plain>
+        </string>
+        <string>
+            <plain>Там вдалеке сияет заря,</plain>
+        </string>
+        <string>
+            <plain>Возле престола Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть наш лозунг громко прозвучит (прозвучит)</plain>
+        </string>
+        <string>
+            <plain>И сердца к победе окрылит (окрылит),</plain>
+        </string>
+        <string>
+            <plain>Будь стойким, будь верным ты в бою.</plain>
+        </string>
+        <string>
+            <plain>Будь стойким, будь верным,</plain>
+        </string>
+        <string>
+            <plain>Нас ждет венец в раю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вслед за Иисусом бодро пойдем,</plain>
+        </string>
+        <string>
+            <plain>И над врагом победу найдем,</plain>
+        </string>
+        <string>
+            <plain>Вооружены Божьим мечом,</plain>
+        </string>
+        <string>
+            <plain>Скрыты под Ним - под щитом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем в молитве бодры всегда,</plain>
+        </string>
+        <string>
+            <plain>Мы укрепим все в Боге сердца.</plain>
+        </string>
+        <string>
+            <plain>Тесно сомкнувши наши ряды,</plain>
+        </string>
+        <string>
+            <plain>Скоро пожнем мы плоды.</plain>
+        </string>
+    </verse>
+</song>

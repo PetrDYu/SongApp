@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="645" name="О грешник Чтоб в сердце греховном мог жить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О грешник! Чтоб в сердце греховном мог жить,</plain>
+        </string>
+        <string>
+            <plain>Дух вечный желает твой грех обличить.</plain>
+        </string>
+        <string>
+            <plain>Ему не противься, не медли принять,-</plain>
+        </string>
+        <string>
+            <plain>Ведь может Дух Божий навек замолчать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О царства наследник! Брось грешных пути,</plain>
+        </string>
+        <string>
+            <plain>Исполнися Духом, чтоб миром цвести.</plain>
+        </string>
+        <string>
+            <plain>Учителя Духа ты не огорчай;</plain>
+        </string>
+        <string>
+            <plain>Его же дарами Христа прославляй.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твой храм опорочен, померк красотой;</plain>
+        </string>
+        <string>
+            <plain>Алтарь же Господень засыпан золой;</plain>
+        </string>
+        <string>
+            <plain>Любовью вновь пламя в себе зажигай,</plain>
+        </string>
+        <string>
+            <plain>И больше уж Духа ты не угашай.</plain>
+        </string>
+    </verse>
+</song>

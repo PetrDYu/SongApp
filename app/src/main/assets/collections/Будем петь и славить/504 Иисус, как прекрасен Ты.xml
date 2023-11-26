@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="504" name="Иисус, как прекрасен Ты" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иисус, как прекрасен Ты!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Ты Тот, Кого люблю я,</plain>
+        </string>
+        <string>
+            <plain>Ты Тот, Кому себя я отдаю.</plain>
+        </string>
+        <string>
+            <plain>Иисус, как прекрасен Ты!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Иисус, я люблю Тебя!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Прославляю Твое имя,</plain>
+        </string>
+        <string>
+            <plain>Отдаю Тебе я самого себя.</plain>
+        </string>
+        <string>
+            <plain>Иисус, я люблю Тебя!</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

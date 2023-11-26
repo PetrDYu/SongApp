@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2482" name="Идут века за годом годы мчатся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Идут века, за годом годы мчатся,</plain>
+        </string>
+        <string>
+            <plain>Уходит все: и жизнь, и суета.</plain>
+        </string>
+        <string>
+            <plain>Они вперед и к вечности стремятся,</plain>
+        </string>
+        <string>
+            <plain>Откуда не вернутся никогда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Летят года, летят года,</plain>
+        </string>
+        <string>
+            <plain>Уходит все: и жизнь, и суета,</plain>
+        </string>
+        <string>
+            <plain>Они вперед и к вечности стремятся,</plain>
+        </string>
+        <string>
+            <plain>Откуда не вернутся никогда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Идут века, летят года, уходят незаметно,</plain>
+        </string>
+        <string>
+            <plain>И время так безжалостно летит,</plain>
+        </string>
+        <string>
+            <plain>Так наша жизнь проходит скоротечно,</plain>
+        </string>
+        <string>
+            <plain>Она курьером все вперед летит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Идут года, идут и не вернутся,</plain>
+        </string>
+        <string>
+            <plain>Зачем же жить бесцельно на земле.</plain>
+        </string>
+        <string>
+            <plain>Пора давно, пора тебе проснуться,</plain>
+        </string>
+        <string>
+            <plain>По-ра жизнь новую начать тебе.</plain>
+        </string>
+    </verse>
+</song>

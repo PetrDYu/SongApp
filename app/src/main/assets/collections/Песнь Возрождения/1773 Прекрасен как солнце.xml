@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1773" name="Прекрасен как солнце" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прекрасен, как солнце,</plain>
+        </string>
+        <string>
+            <plain>восторг наш сердечный:</plain>
+        </string>
+        <string>
+            <plain>Воскрес наш Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Сын Божий предвечный!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Об этом слагаем</plain>
+        </string>
+        <string>
+            <plain>мы светлые песни.</plain>
+        </string>
+        <string>
+            <plain>О, спящий духовно,</plain>
+        </string>
+        <string>
+            <plain>ты ныне воскресни!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>От жизни греховной,</plain>
+        </string>
+        <string>
+            <plain>безрадостной прежде</plain>
+        </string>
+        <string>
+            <plain>Воскресни, чтоб жить</plain>
+        </string>
+        <string>
+            <plain>и в любви, и в надежде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да стихнет неверия</plain>
+        </string>
+        <string>
+            <plain>грозная вьюга:</plain>
+        </string>
+        <string>
+            <plain>Приветствуйте, братья</plain>
+        </string>
+        <string>
+            <plain>и сестры, друг друга!</plain>
+        </string>
+    </verse>
+</song>

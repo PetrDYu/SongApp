@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1588" name="О Боже мой О Боже мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Боже мой! О, Боже мой!</plain>
+        </string>
+        <string>
+            <plain>Я преклоняюсь пред Тобой.</plain>
+        </string>
+        <string>
+            <plain>Ты видишь скорбь.</plain>
+        </string>
+        <string>
+            <plain>Ты слышишь стон души моей больной.</plain>
+        </string>
+        <string>
+            <plain>Но кто поймет, кому нужна</plain>
+        </string>
+        <string>
+            <plain>Молитва скорбная моя?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Избавь меня, мой Бог Христос,</plain>
+        </string>
+        <string>
+            <plain>От бурь житейских и невзгод.</plain>
+        </string>
+        <string>
+            <plain>Ведь Ты так щедр и всеблагой.</plain>
+        </string>
+        <string>
+            <plain>О, Боже мой, мой Бог.</plain>
+        </string>
+        <string>
+            <plain>Слезу отри, покой пошли</plain>
+        </string>
+        <string>
+            <plain>И мир душе мне подари.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Наставь меня в любви святой.</plain>
+        </string>
+        <string>
+            <plain>Чтоб в испытаньи устоять.</plain>
+        </string>
+        <string>
+            <plain>И, испытав, дай веры мне,</plain>
+        </string>
+        <string>
+            <plain>Не возроптать душой.</plain>
+        </string>
+        <string>
+            <plain>Твой луч любви, что надо мной.</plain>
+        </string>
+        <string>
+            <plain>Как руки матери родной.</plain>
+        </string>
+    </verse>
+</song>

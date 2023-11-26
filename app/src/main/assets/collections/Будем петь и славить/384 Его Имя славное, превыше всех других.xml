@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="384" name="Его Имя славное, превыше всех других" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Его Имя славное, превыше всех других.</plain>
+        </string>
+        <string>
+            <plain>Его Имя – Иисус Христос Господь!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Его Имя – Чудный, Советник и Творец,</plain>
+        </string>
+        <string>
+            <plain>Отец вечности, Господь, Бог Крепкий.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он возлюбил всех нас, Он пострадал за нас,</plain>
+        </string>
+        <string>
+            <plain>Он умер на кресте, нас оправдал.</plain>
+        </string>
+    </verse>
+</song>

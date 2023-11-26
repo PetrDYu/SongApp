@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2468" name="День Госнодень грядет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День Госнодень грядет!</plain>
+        </string>
+        <string>
+            <plain>В чудном небе нет забот,</plain>
+        </string>
+        <string>
+            <plain>Ни печали, ни невзгод,</plain>
+        </string>
+        <string>
+            <plain>Ни нужды и ни тревог.</plain>
+        </string>
+        <string>
+            <plain>Мир царит в душе святой,</plain>
+        </string>
+        <string>
+            <plain>Грех не ранит никакой</plain>
+        </string>
+        <string>
+            <plain>- Что за день,</plain>
+        </string>
+        <string>
+            <plain>радостный день Будет там!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Славный день будет там,</plain>
+        </string>
+        <string>
+            <plain>Когда встречу я Христа,</plain>
+        </string>
+        <string>
+            <plain>Он возьмет меня с Собой</plain>
+        </string>
+        <string>
+            <plain>В край небесный неземной.</plain>
+        </string>
+        <string>
+            <plain>Руку даст Он мне Свою,</plain>
+        </string>
+        <string>
+            <plain>И я с Ним туда войду</plain>
+        </string>
+        <string>
+            <plain>- Что за день,</plain>
+        </string>
+        <string>
+            <plain>радостный день Будет там!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Искушений, невзгод</plain>
+        </string>
+        <string>
+            <plain>Там спасенный не найдет,</plain>
+        </string>
+        <string>
+            <plain>Там не будет больше слез</plain>
+        </string>
+        <string>
+            <plain>- Их навек отрет Христос.</plain>
+        </string>
+        <string>
+            <plain>Но готов ли ты сейчас</plain>
+        </string>
+        <string>
+            <plain>Встретить твоего Творца?</plain>
+        </string>
+        <string>
+            <plain>Что за день,</plain>
+        </string>
+        <string>
+            <plain>радостный день Будет там!</plain>
+        </string>
+    </verse>
+</song>

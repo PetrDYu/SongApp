@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1015" name="Сеется семя на ранней заре" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сеется семя на ранней заре,</plain>
+        </string>
+        <string>
+            <plain>Сеется семя в полдневной жаре.</plain>
+        </string>
+        <string>
+            <plain>Сеется семя, как ляжет тень,</plain>
+        </string>
+        <string>
+            <plain>Сеется семя, уж кончен день.</plain>
+        </string>
+        <string>
+            <plain>Что будем пожинать?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сеется в светлый иль в сумрачный час,</plain>
+        </string>
+        <string>
+            <plain>Сеется в силе иль в слабости в нас.</plain>
+        </string>
+        <string>
+            <plain>Убрана здесь или там, в небеси.</plain>
+        </string>
+        <string>
+            <plain>Верная жатва ждет впереди.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сеется семя на торной тропе.</plain>
+        </string>
+        <string>
+            <plain>Сеется семя на горной скале.</plain>
+        </string>
+        <string>
+            <plain>Сеется семя в колючих кустах,</plain>
+        </string>
+        <string>
+            <plain>Сеется в вспаханных бороздах.</plain>
+        </string>
+        <string>
+            <plain>Что будем пожинать?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сеется семя страданий и слез,</plain>
+        </string>
+        <string>
+            <plain>Сеется семя мучительных грез,</plain>
+        </string>
+        <string>
+            <plain>Сеется семя позора, греха.</plain>
+        </string>
+        <string>
+            <plain>Сеется семя обиды и зла.</plain>
+        </string>
+        <string>
+            <plain>Что будем пожинать?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сеется семя, хоть сердце болит.</plain>
+        </string>
+        <string>
+            <plain>Сеется семя, хоть слезы блестят.</plain>
+        </string>
+        <string>
+            <plain>Сеется в вере до славной поры,</plain>
+        </string>
+        <string>
+            <plain>Как собирать уж начнут снопы.</plain>
+        </string>
+        <string>
+            <plain>Что будем пожинать?</plain>
+        </string>
+    </verse>
+</song>

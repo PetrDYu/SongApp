@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2775" name="Когда сердце скорбь терзает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда сердце скорбь терзает,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+        <string>
+            <plain>Душу страхом враг пугает,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь со мной, о мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Мне так нужен Твой покой,</plain>
+        </string>
+        <string>
+            <plain>Когда в вере я слабею,</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель, будь со мной!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бремя ль жизни угнетает,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+        <string>
+            <plain>Искушенья ль побеждают,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Коль друзья меня оставят,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+        <string>
+            <plain>А враги злобу проявят,</plain>
+        </string>
+        <string>
+            <plain>Будь со мной!</plain>
+        </string>
+    </verse>
+</song>

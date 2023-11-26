@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="333" name="К Богу не медля брат прибегай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К Богу не медля, брат, прибегай,</plain>
+        </string>
+        <string>
+            <plain>Милости Божьей не отвергай!</plain>
+        </string>
+        <string>
+            <plain>Он, Милосердный, к людям идет</plain>
+        </string>
+        <string>
+            <plain>И говорит: "Придите ко Мне!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, как счастлив, как радостен тот,</plain>
+        </string>
+        <string>
+            <plain>С верою кто на призыв идет.</plain>
+        </string>
+        <string>
+            <plain>Боже! Очисти наши сердца,</plain>
+        </string>
+        <string>
+            <plain>В вечность, Господь, открой Ты нам вход.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Будьте, как дети! " Он так сказал.</plain>
+        </string>
+        <string>
+            <plain>Радостно, смело, кто, как ни мал,</plain>
+        </string>
+        <string>
+            <plain>Прямо к престолу Бога Отца</plain>
+        </string>
+        <string>
+            <plain>С верой живой не медля иди.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всюду Он с нами, нас Он хранит,</plain>
+        </string>
+        <string>
+            <plain>Благости полный, нам говорит:</plain>
+        </string>
+        <string>
+            <plain>"Будьте, как дети, с верой в груди,</plain>
+        </string>
+        <string>
+            <plain>Грешник, ко Мне скорее иди!"</plain>
+        </string>
+    </verse>
+</song>

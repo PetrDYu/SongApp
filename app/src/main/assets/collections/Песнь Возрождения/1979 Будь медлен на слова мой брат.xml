@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1979" name="Будь медлен на слова мой брат" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будь медлен на слова, мой брат;</plain>
+        </string>
+        <string>
+            <plain>Когда волненьем ты объят.</plain>
+        </string>
+        <string>
+            <plain>Тихонько Господу молись</plain>
+        </string>
+        <string>
+            <plain>И Он поможет, воздержись.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Будь медлен, брат, на суд других;</plain>
+        </string>
+        <string>
+            <plain>При виде немощей чужих</plain>
+        </string>
+        <string>
+            <plain>Молись за немощных, за всех,</plain>
+        </string>
+        <string>
+            <plain>И тем уменьшишь в мире грех.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будь медлен, брат, на месть другим;</plain>
+        </string>
+        <string>
+            <plain>Когда обижен ты, гоним</plain>
+        </string>
+        <string>
+            <plain>- За обижающих молись</plain>
+        </string>
+        <string>
+            <plain>И в сердце их простить стремись.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будь медлен в час, когда порой</plain>
+        </string>
+        <string>
+            <plain>Соблазн лукавый пред тобой;</plain>
+        </string>
+        <string>
+            <plain>Усердно Господу молись.</plain>
+        </string>
+        <string>
+            <plain>Не поддавайся и крепись.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Будь медлен всякий раз, когда</plain>
+        </string>
+        <string>
+            <plain>К тебе близка греха беда</plain>
+        </string>
+        <string>
+            <plain>- Усердно в те часы молись</plain>
+        </string>
+        <string>
+            <plain>И крепче за Христа держись.</plain>
+        </string>
+    </verse>
+</song>

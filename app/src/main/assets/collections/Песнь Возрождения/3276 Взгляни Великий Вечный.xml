@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3276" name="Взгляни Великий Вечный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Взгляни Великий Вечный</plain>
+        </string>
+        <string>
+            <plain>Бог на Церковь Божию,</plain>
+        </string>
+        <string>
+            <plain>чтобы росли в ней, к</plain>
+        </string>
+        <string>
+            <plain>ак в Саду плоды хорошие.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чтоб умножалась благодать</plain>
+        </string>
+        <string>
+            <plain>— великодушие,</plain>
+        </string>
+        <string>
+            <plain>чтоб на зов кого послать</plain>
+        </string>
+        <string>
+            <plain>нашлись идущие.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Даруй Господь язык нам знать</plain>
+        </string>
+        <string>
+            <plain>понятный ближними,</plain>
+        </string>
+        <string>
+            <plain>чтоб знали; что, кому сказать</plain>
+        </string>
+        <string>
+            <plain>без слова лишнего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Наш путь среди земных дорог</plain>
+        </string>
+        <string>
+            <plain>отмечен тернами,</plain>
+        </string>
+        <string>
+            <plain>дай сил хоть часть твоих даров,</plain>
+        </string>
+        <string>
+            <plain>дай сил быть верными.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чтоб мы разумно жить могли,</plain>
+        </string>
+        <string>
+            <plain>а не в беспечности.</plain>
+        </string>
+        <string>
+            <plain>Чтоб отряхнули пыль земли</plain>
+        </string>
+        <string>
+            <plain>в преддверье вечности.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="864" name="В пустыне греховной земной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В пустыне греховной, земной,</plain>
+        </string>
+        <string>
+            <plain>Где неправды гнетущий обман,</plain>
+        </string>
+        <string>
+            <plain>Я к Отчизне иду неземной</plain>
+        </string>
+        <string>
+            <plain>По кровавым следам христиан.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В край родной, неземной</plain>
+        </string>
+        <string>
+            <plain>От обмана мирской суеты</plain>
+        </string>
+        <string>
+            <plain>Я иду и дойду</plain>
+        </string>
+        <string>
+            <plain>К незакатному Солнцу любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Темнеет вечерняя мгла,</plain>
+        </string>
+        <string>
+            <plain>Длится темный и страшный мой путь,</plain>
+        </string>
+        <string>
+            <plain>Но не гаснет надежда моя:</plain>
+        </string>
+        <string>
+            <plain>Я в Отчизне моей отдохну.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иди же смелее вперед</plain>
+        </string>
+        <string>
+            <plain>За Христом, не страшась врагов.</plain>
+        </string>
+        <string>
+            <plain>Скоро кончится путь твой земной,</plain>
+        </string>
+        <string>
+            <plain>Засияют Сиона врата.</plain>
+        </string>
+    </verse>
+</song>

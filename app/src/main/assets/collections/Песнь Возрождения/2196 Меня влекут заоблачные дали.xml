@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2196" name="Меня влекут заоблачные дали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Меня влекут заоблачные дали,</plain>
+        </string>
+        <string>
+            <plain>Меня влекут лишь только небеса.</plain>
+        </string>
+        <string>
+            <plain>Там нету слёз, нет гори, нет печали,</plain>
+        </string>
+        <string>
+            <plain>Тот дивный край есть Родина моя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Меня влечет одно, друзья, желанье,</plain>
+        </string>
+        <string>
+            <plain>Всё наполняет больше с каждым днём,</plain>
+        </string>
+        <string>
+            <plain>И это есть не что, друзья, иное,</plain>
+        </string>
+        <string>
+            <plain>Как Иисуса дивная любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Меня влечёт и там, за облаками,</plain>
+        </string>
+        <string>
+            <plain>Достигнуть то, где ангелы поют.</plain>
+        </string>
+        <string>
+            <plain>Где чистота, зеркально всё сияет,</plain>
+        </string>
+        <string>
+            <plain>Болезни нет, там неба красота.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Меня влечёт и там, за облаками,</plain>
+        </string>
+        <string>
+            <plain>Достигнуть тот небесный весь покой.</plain>
+        </string>
+        <string>
+            <plain>Где песнь хваленья новыми устами</plain>
+        </string>
+        <string>
+            <plain>Я воспою на Родине святой.</plain>
+        </string>
+    </verse>
+</song>

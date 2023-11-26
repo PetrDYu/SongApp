@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="27" name="О наш Отец на небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О наш Отец на небесах!</plain>
+        </string>
+        <string>
+            <plain>Прими моление мое:</plain>
+        </string>
+        <string>
+            <plain>Да, славно в славных чудесах,</plain>
+        </string>
+        <string>
+            <plain>Святится имя ввек Твое!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Всеведущ Ты и всемогущ,</plain>
+        </string>
+        <string>
+            <plain>Трепещет пред Тобою все;</plain>
+        </string>
+        <string>
+            <plain>Всевидящ Ты и вездесущ,</plain>
+        </string>
+        <string>
+            <plain>Да придет царствие Твое.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Премудрости Ты, Боже, полн,</plain>
+        </string>
+        <string>
+            <plain>И в счастье мысль одна моя:</plain>
+        </string>
+        <string>
+            <plain>Пусть средь житейских бурь и волн</plain>
+        </string>
+        <string>
+            <plain>Да будет воля ввек Твоя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты - всеблагой наш Бог и Царь,</plain>
+        </string>
+        <string>
+            <plain>Ты жизнь даешь всем существам,</plain>
+        </string>
+        <string>
+            <plain>И вся к Тебе взывает Тварь:</plain>
+        </string>
+        <string>
+            <plain>Дай хлеб насущный ныне нам!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты милосерд, Ты справедлив;</plain>
+        </string>
+        <string>
+            <plain>Оставь долги Ты наши нам,</plain>
+        </string>
+        <string>
+            <plain>Как, гнев и злобу позабыв,</plain>
+        </string>
+        <string>
+            <plain>Прощаем мы своим врагам.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Кто без Тебя безгрешен был?</plain>
+        </string>
+        <string>
+            <plain>Во искушенье не введи!</plain>
+        </string>
+        <string>
+            <plain>Нас немощных, о Боже сил,</plain>
+        </string>
+        <string>
+            <plain>От злого духа огради.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Твои все дивные дела,</plain>
+        </string>
+        <string>
+            <plain>Твое и царство, Властелин,</plain>
+        </string>
+        <string>
+            <plain>Тебе и слава, и хвала</plain>
+        </string>
+        <string>
+            <plain>Во веки вечные! Аминь.</plain>
+        </string>
+    </verse>
+</song>

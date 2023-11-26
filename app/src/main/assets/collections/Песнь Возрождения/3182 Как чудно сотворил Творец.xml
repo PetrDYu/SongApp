@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3182" name="Как чудно сотворил Творец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как чудно сотворил Творец</plain>
+        </string>
+        <string>
+            <plain>небо, сушу и моря!</plain>
+        </string>
+        <string>
+            <plain>Умножь Ты веру в нас, Отец,</plain>
+        </string>
+        <string>
+            <plain>что всесильна мощь Твоя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как велик Ты, наш Господь!</plain>
+        </string>
+        <string>
+            <plain>Как велик Ты, наш Господь!</plain>
+        </string>
+        <string>
+            <plain>Благодать Твоя всюду нам видна.</plain>
+        </string>
+        <string>
+            <plain>Как велик Ты, наш Господь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог злые волны усмирит</plain>
+        </string>
+        <string>
+            <plain>повелением Своим.</plain>
+        </string>
+        <string>
+            <plain>Его воинство неба чтит,</plain>
+        </string>
+        <string>
+            <plain>преклоняясь перед Ним.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чрез Слово землю Он создал:</plain>
+        </string>
+        <string>
+            <plain>горы, реки, облака.</plain>
+        </string>
+        <string>
+            <plain>Мир звёзд он чудно основал,</plain>
+        </string>
+        <string>
+            <plain>мощь Его на все века.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, чудотворная любовь</plain>
+        </string>
+        <string>
+            <plain>- глубже моря, выше гор.</plain>
+        </string>
+        <string>
+            <plain>Свою пролил Сын Божий кровь,</plain>
+        </string>
+        <string>
+            <plain>чтобы наш омыть позор!</plain>
+        </string>
+    </verse>
+</song>

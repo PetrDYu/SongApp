@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="76" name="Я слышу голос Твой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я слышу голос Твой,</plain>
+        </string>
+        <string>
+            <plain>Зовет меня к Тебе</plain>
+        </string>
+        <string>
+            <plain>Омыться кровию святой,</plain>
+        </string>
+        <string>
+            <plain>Пролитой на кресте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Прихожу к Тебе!</plain>
+        </string>
+        <string>
+            <plain>Кровию Твоей омой,</plain>
+        </string>
+        <string>
+            <plain>Пролитой на кресте!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть слаб и грешен я,</plain>
+        </string>
+        <string>
+            <plain>Ты силу мне даешь,</plain>
+        </string>
+        <string>
+            <plain>Снимаешь грех, живишь меня,</plain>
+        </string>
+        <string>
+            <plain>Любовию влечешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизнь новую Свою</plain>
+        </string>
+        <string>
+            <plain>Ты Сам во мне творишь.</plain>
+        </string>
+        <string>
+            <plain>И благодать на благодать</plain>
+        </string>
+        <string>
+            <plain>Ты щедро мне даришь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты сердцу весть даешь,</plain>
+        </string>
+        <string>
+            <plain>Что я Твое дитя,</plain>
+        </string>
+        <string>
+            <plain>Что Духом Ты во мне живешь,</plain>
+        </string>
+        <string>
+            <plain>А в Нем - вся полнота.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Господь, Тебе хвала!</plain>
+        </string>
+        <string>
+            <plain>Хвала Твоей крови!</plain>
+        </string>
+        <string>
+            <plain>Отец небес, Тебе хвала,</plain>
+        </string>
+        <string>
+            <plain>Хвала Твоей любви!</plain>
+        </string>
+    </verse>
+</song>

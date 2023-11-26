@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="121" name="Помилуй, о Боже, помилуй меня" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Помилуй, о Боже, помилуй меня!</plain>
+        </string>
+        <string>
+            <plain>На Тебя уповает душа моя.</plain>
+        </string>
+        <string>
+            <plain>Я укроюсь в тени Твоих крыл,</plain>
+        </string>
+        <string>
+            <plain>Пока беда не пройдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспою, воспою Тебе хвалу,</plain>
+        </string>
+        <string>
+            <plain>Песнь моя, пробудись!</plain>
+        </string>
+        <string>
+            <plain>Арфа, проснись, лира, проснись,</plain>
+        </string>
+        <string>
+            <plain>Я разбужу зарю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Превыше небес, о мой Боже, восстань,</plain>
+        </string>
+        <string>
+            <plain>Вознеси над землей славу Твою!</plain>
+        </string>
+        <string>
+            <plain>Боже, готово сердце мое,</plain>
+        </string>
+        <string>
+            <plain>Готово сердце мое.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, средь народов скажу о Тебе,</plain>
+        </string>
+        <string>
+            <plain>Меж племен воспою славу Твою!</plain>
+        </string>
+        <string>
+            <plain>Милость Твоя велика до небес,</plain>
+        </string>
+        <string>
+            <plain>И верность – до облаков.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Превыше небес, о мой Боже, восстань,</plain>
+        </string>
+        <string>
+            <plain>Вознеси над землей славу Твою!</plain>
+        </string>
+        <string>
+            <plain>Боже, готово сердце мое,</plain>
+        </string>
+        <string>
+            <plain>Готово сердце мое.</plain>
+        </string>
+    </verse>
+</song>

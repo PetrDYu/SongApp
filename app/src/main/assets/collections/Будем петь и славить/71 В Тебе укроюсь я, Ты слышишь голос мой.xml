@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="71" name="В Тебе укроюсь я, Ты слышишь голос мой" canon="false" text="М. Леднера" textRus="" music="М. Леднера" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>В Тебе укроюсь я, Ты слышишь голос мой.</plain>
+        </string>
+        <string>
+            <plain>Когда я в стеснении, к Тебе я прибегаю.</plain>
+        </string>
+        <string>
+            <plain>Уповая на Тебя, уповая на Тебя,</plain>
+        </string>
+        <string>
+            <plain>Слабый скажет: «Я силен в Господе моем».</plain>
+        </string>
+    </verse>
+</song>

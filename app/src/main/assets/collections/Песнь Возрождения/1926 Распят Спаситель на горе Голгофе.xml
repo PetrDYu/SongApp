@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1926" name="Распят Спаситель на горе Голгофе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Распят Спаситель на горе Голгофе,</plain>
+        </string>
+        <string>
+            <plain>К древу распятья руки пригвождены.</plain>
+        </string>
+        <string>
+            <plain>В час тот последний муки и печали</plain>
+        </string>
+        <string>
+            <plain>Мир, тьмой объятый, руки обнимали.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Кто Человек сей, что страдал невинно?</plain>
+        </string>
+        <string>
+            <plain>Бог возлюбил мир так, что отдал Сына.</plain>
+        </string>
+        <string>
+            <plain>Как кроткий Агнец, принял Он страданья,</plain>
+        </string>
+        <string>
+            <plain>Нашу греховность, наше наказанье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кровь Иисуса со креста струится,</plain>
+        </string>
+        <string>
+            <plain>Всякий, кто страждет, может в ней омыться;</plain>
+        </string>
+        <string>
+            <plain>Даст она сердцу радость всепрощенья,</plain>
+        </string>
+        <string>
+            <plain>Вечное счастье, вечное спасенье.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1666" name="Долго я блуждал о том не знал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Долго я блуждал, о том не знал,</plain>
+        </string>
+        <string>
+            <plain>Что Господь за грешных умирал.</plain>
+        </string>
+        <string>
+            <plain>Что Сын Божий за меня страдал</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там лилась струёй святая кровь,</plain>
+        </string>
+        <string>
+            <plain>Пролита за грешных, за врагов.</plain>
+        </string>
+        <string>
+            <plain>Всех людей объяла та любовь</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой чрез Слово мне сказал:</plain>
+        </string>
+        <string>
+            <plain>"Грешник ты", но также я узнал,</plain>
+        </string>
+        <string>
+            <plain>Что Иисус за грех мой пострадал</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Доверяясь, я к Нему пришел.</plain>
+        </string>
+        <string>
+            <plain>Оправданье, радость в Нем нашел.</plain>
+        </string>
+        <string>
+            <plain>Жизнь и счастье Он мне приобрел</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я теперь Ему принадлежу,</plain>
+        </string>
+        <string>
+            <plain>Буду я Его, пока умру.</plain>
+        </string>
+        <string>
+            <plain>Он от смерти душу спас мою</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте.</plain>
+        </string>
+    </verse>
+</song>

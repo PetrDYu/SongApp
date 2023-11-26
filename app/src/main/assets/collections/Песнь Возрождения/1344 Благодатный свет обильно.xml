@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1344" name="Благодатный свет обильно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодатный свет обильно</plain>
+        </string>
+        <string>
+            <plain>Льет Отец с высот Своих.</plain>
+        </string>
+        <string>
+            <plain>Нам же вверил Он храненье</plain>
+        </string>
+        <string>
+            <plain>Малых светочей земных.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Малый светоч наш пусть ясный</plain>
+        </string>
+        <string>
+            <plain>Свет на море жизни льет;</plain>
+        </string>
+        <string>
+            <plain>Может быть, из тьмы опасной</plain>
+        </string>
+        <string>
+            <plain>Он кого-нибудь спасет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Страшно быть во тьме греховной</plain>
+        </string>
+        <string>
+            <plain>И в пороках утопать;</plain>
+        </string>
+        <string>
+            <plain>Света жаждущим духовно</plain>
+        </string>
+        <string>
+            <plain>Свет спешите проливать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ваш светильник так пусть светит</plain>
+        </string>
+        <string>
+            <plain>В чувствах ваших и делах.</plain>
+        </string>
+        <string>
+            <plain>Чтобы в свете том был виден</plain>
+        </string>
+        <string>
+            <plain>Наш Отец на небесах!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3175" name="Я Тебе Господь в служеньи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я Тебе, Господь, в служеньи</plain>
+        </string>
+        <string>
+            <plain>верно следовать хочу</plain>
+        </string>
+        <string>
+            <plain>и в минуты искушенья</plain>
+        </string>
+        <string>
+            <plain>верить Слову Твоему.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чтоб идти лишь за Тобою,</plain>
+        </string>
+        <string>
+            <plain>всё, Господь оставил я.</plain>
+        </string>
+        <string>
+            <plain>Всей любить Тебя душою</plain>
+        </string>
+        <string>
+            <plain>- в этом радость вся моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если в трудностях я буду</plain>
+        </string>
+        <string>
+            <plain>иль врагами окружён,</plain>
+        </string>
+        <string>
+            <plain>я вблизи Тебя пребуду:</plain>
+        </string>
+        <string>
+            <plain>здесь я буду защищён.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Радостно с Тобой хочу</plain>
+        </string>
+        <string>
+            <plain>я битву в вере продолжать.</plain>
+        </string>
+        <string>
+            <plain>На кресте Ты, умирая,</plain>
+        </string>
+        <string>
+            <plain>дал Свою мне благодать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если следую я верно,</plain>
+        </string>
+        <string>
+            <plain>нас никто не разлучит,</plain>
+        </string>
+        <string>
+            <plain>благодати мне довольно,</plain>
+        </string>
+        <string>
+            <plain>даже если враг грозит.</plain>
+        </string>
+    </verse>
+</song>

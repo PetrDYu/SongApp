@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="273" name="Как Христос родился, в грешный мир явился " canon="false" text="" textRus="М. Винецкой" music="М.М. Миодушевского" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Как Христос родился, в грешный мир явился –</plain>
+        </string>
+        <string>
+            <plain>Сумрак ночи зимней светом озарился.</plain>
+        </string>
+        <string>
+            <plain>С неба ангелы слетали, славу Богу воспевали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава, слава, слава в вышних Богу!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>или: ::Gloria, gloria in excelsis Deo!::</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К пастухам приходят, разговор заводят:</plain>
+        </string>
+        <string>
+            <plain>В Вифлеем бегите, тот вертеп сыщите,</plain>
+        </string>
+        <string>
+            <plain>Где родился наш Спаситель, всего мира Искупитель.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О посланцы неба, вы уж нас простите!</plain>
+        </string>
+        <string>
+            <plain>Что нам надо делать, толком объясните.</plain>
+        </string>
+        <string>
+            <plain>Мы от страха замираем, тайны сей не постигаем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>С нами Бог, не бойтесь, за звездой идите,</plain>
+        </string>
+        <string>
+            <plain>Пред Младенцем в яслях головы склоните</plain>
+        </string>
+        <string>
+            <plain>И в вертепе том убогом возблагодарите Бога.</plain>
+        </string>
+    </verse>
+</song>

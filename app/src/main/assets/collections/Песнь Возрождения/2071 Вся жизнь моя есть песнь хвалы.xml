@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2071" name="Вся жизнь моя есть песнь хвалы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вся жизнь моя есть песнь хвалы,</plain>
+        </string>
+        <string>
+            <plain>Что громко средь сомненья,</plain>
+        </string>
+        <string>
+            <plain>Среди неправды, грешной мглы</plain>
+        </string>
+        <string>
+            <plain>Гласит о дне спасенья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сквозь жизни шум и суету</plain>
+        </string>
+        <string>
+            <plain>Я слышу, как, ликуя,</plain>
+        </string>
+        <string>
+            <plain>Поют спасённые Христу;</plain>
+        </string>
+        <string>
+            <plain>О, как молчать могу я?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть мира прелести умрут,</plain>
+        </string>
+        <string>
+            <plain>Всё ж будет Бог со мною.</plain>
+        </string>
+        <string>
+            <plain>Пусть тучи полночи пройдут,</plain>
+        </string>
+        <string>
+            <plain>Он будет мне зарёю.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ничто мой мир не потрясёт,</plain>
+        </string>
+        <string>
+            <plain>Пока к Иисусу льну я,</plain>
+        </string>
+        <string>
+            <plain>Пока меня Он бережёт,</plain>
+        </string>
+        <string>
+            <plain>Всё больше сердцу нужен.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ключ счастья всё сильнее бьёт,</plain>
+        </string>
+        <string>
+            <plain>И в нём отраду пью я</plain>
+        </string>
+        <string>
+            <plain>И слышу, как Господь грядёт;</plain>
+        </string>
+        <string>
+            <plain>О, как молчать могу я?</plain>
+        </string>
+    </verse>
+</song>

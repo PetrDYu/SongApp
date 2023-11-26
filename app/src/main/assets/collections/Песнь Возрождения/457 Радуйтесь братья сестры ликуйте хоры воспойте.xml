@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="457" name="Радуйтесь братья сестры ликуйте хоры воспойте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радуйтесь, братья, сестры, ликуйте, хоры, воспойте!</plain>
+        </string>
+        <string>
+            <plain>Ныне пред нами, ныне пред нами "Мир и согласье!"</plain>
+        </string>
+        <string>
+            <plain>Мир и согласье здесь сочетались.</plain>
+        </string>
+        <string>
+            <plain>Мир и согласье!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радуйтесь, братья, сестры, ликуйте, хоры, воспойте!</plain>
+        </string>
+        <string>
+            <plain>Боже великий, здесь Твои дети; дай же им счастье.</plain>
+        </string>
+        <string>
+            <plain>Многие лета, многие лета!</plain>
+        </string>
+        <string>
+            <plain>Дай Твое счастье.</plain>
+        </string>
+    </verse>
+</song>

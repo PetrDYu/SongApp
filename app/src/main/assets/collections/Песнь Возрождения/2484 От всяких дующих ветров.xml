@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2484" name="От всяких дующих ветров" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От всяких дующих ветров,</plain>
+        </string>
+        <string>
+            <plain>И ярых злющихся врагов</plain>
+        </string>
+        <string>
+            <plain>Убежище мне может деть</plain>
+        </string>
+        <string>
+            <plain>Едина Божья благодати.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как радостен душе приют,</plain>
+        </string>
+        <string>
+            <plain>Где мирно братья живут.,</plain>
+        </string>
+        <string>
+            <plain>Коих одна смогла собрать</plain>
+        </string>
+        <string>
+            <plain>Святая Божья благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, где найти душе покой,</plain>
+        </string>
+        <string>
+            <plain>Когда я грешен, с волей злой.</plain>
+        </string>
+        <string>
+            <plain>Спасены что может дать?</plain>
+        </string>
+        <string>
+            <plain>Христа святая благодать!</plain>
+        </string>
+    </verse>
+</song>

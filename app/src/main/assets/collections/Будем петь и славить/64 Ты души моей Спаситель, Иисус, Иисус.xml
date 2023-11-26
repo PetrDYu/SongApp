@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="64" name="Ты души моей Спаситель, Иисус, Иисус" canon="false" text="К. Кульман" textRus="" music="К. Кульман" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Ты души моей Спаситель, Иисус, Иисус.</plain>
+        </string>
+        <string>
+            <plain>Ты души моей Спаситель, Спаситель моей души.</plain>
+        </string>
+        <string>
+            <plain>Иисус, Иисус, Иисус, Иисус.</plain>
+        </string>
+        <string>
+            <plain>Ты души моей Спаситель, Спаситель моей души.</plain>
+        </string>
+    </verse>
+</song>

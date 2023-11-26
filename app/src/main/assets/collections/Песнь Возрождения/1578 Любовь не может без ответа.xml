@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1578" name="Любовь не может без ответа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь не может без ответа,</plain>
+        </string>
+        <string>
+            <plain>Она взаимностью сильна.</plain>
+        </string>
+        <string>
+            <plain>Любовью сердце человека,</plain>
+        </string>
+        <string>
+            <plain>Как майским солнышком, согрето.</plain>
+        </string>
+        <string>
+            <plain>И потому любовь - весна.</plain>
+        </string>
+        <string>
+            <plain>Вот почему любовь - весна.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь... Любовь, мы повторяем,</plain>
+        </string>
+        <string>
+            <plain>Любовь - Сам Бог, заря, весна.</plain>
+        </string>
+        <string>
+            <plain>Но как еще мы мало знаем,</plain>
+        </string>
+        <string>
+            <plain>Что значат эти имена.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любовь страдает в Гефсимании,</plain>
+        </string>
+        <string>
+            <plain>Роняя слезы, пот и кровь,</plain>
+        </string>
+        <string>
+            <plain>За род людской в переживаньи</plain>
+        </string>
+        <string>
+            <plain>Готова к жертве и страданью.</plain>
+        </string>
+        <string>
+            <plain>И потому Сам Бог - любовь,</plain>
+        </string>
+        <string>
+            <plain>Вот почему Сам Бог - любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь Христа - источник света.</plain>
+        </string>
+        <string>
+            <plain>Достигла дальние края.</plain>
+        </string>
+        <string>
+            <plain>Лучами Нового Завета</plain>
+        </string>
+        <string>
+            <plain>Озарена людей планета.</plain>
+        </string>
+        <string>
+            <plain>И потому любовь - заря,</plain>
+        </string>
+        <string>
+            <plain>Вот почему любовь - заря.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="777" name="Не стремись земли великие дела творить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не стремись земли великие дела творить,</plain>
+        </string>
+        <string>
+            <plain>Проходящей славы не ищи,</plain>
+        </string>
+        <string>
+            <plain>Но старайся хоть бы в малом ближним послужить,</plain>
+        </string>
+        <string>
+            <plain>Пусть твой свет сияет пред людьми.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть твой свет сияет пред людьми,</plain>
+        </string>
+        <string>
+            <plain>Пусть твой свет сияет пред людьми.</plain>
+        </string>
+        <string>
+            <plain>В сумраке блуждающим путь правды укажи,</plain>
+        </string>
+        <string>
+            <plain>Пусть твой свет сияет пред людьми.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тучи скорби, что у ближнего над головой,</plain>
+        </string>
+        <string>
+            <plain>Можешь ты прогнать лучем любви.</plain>
+        </string>
+        <string>
+            <plain>Звуком песни принеси больной душе покой,</plain>
+        </string>
+        <string>
+            <plain>Пусть твой свет сияет пред людьми.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Искру Божию, твой дар тебе, не угашай,</plain>
+        </string>
+        <string>
+            <plain>Но во благо ближним примени,</plain>
+        </string>
+        <string>
+            <plain>Со смиренным сердцем слово жизни возвещай,</plain>
+        </string>
+        <string>
+            <plain>Пусть твой свет сияет пред людьми.</plain>
+        </string>
+    </verse>
+</song>

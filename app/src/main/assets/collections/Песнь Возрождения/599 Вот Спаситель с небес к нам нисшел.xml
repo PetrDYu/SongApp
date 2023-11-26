@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="599" name="Вот Спаситель с небес к нам нисшел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот Спаситель с небес к нам нисшел,</plain>
+        </string>
+        <string>
+            <plain>Нашу плоть на Себя воспринял;</plain>
+        </string>
+        <string>
+            <plain>Он на грешную землю сошел,</plain>
+        </string>
+        <string>
+            <plain>Вид раба ныне скромный принял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава Христу!</plain>
+        </string>
+        <string>
+            <plain>Слава, слава, слава Христу!</plain>
+        </string>
+        <string>
+            <plain>Мир и радость нам всем Он принес.</plain>
+        </string>
+        <string>
+            <plain>Мир и радость нам всем Он принес.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К нам на землю Господь Сам сошел</plain>
+        </string>
+        <string>
+            <plain>Не в почете, не в царском венце;</plain>
+        </string>
+        <string>
+            <plain>Не в чертоге, не в пышном дворце,</plain>
+        </string>
+        <string>
+            <plain>Но в пещере приют Он обрел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К нам с над звездного трона сошел</plain>
+        </string>
+        <string>
+            <plain>Всех Владыка, Господь и Творец;</plain>
+        </string>
+        <string>
+            <plain>Вместо радости скорбь Он нашел,</plain>
+        </string>
+        <string>
+            <plain>Чтоб спасти Своих бедных овец.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1122" name="День воскресный сегодня пред нами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День воскресный сегодня пред нами.</plain>
+        </string>
+        <string>
+            <plain>Пусть возносится Богу хвала!</plain>
+        </string>
+        <string>
+            <plain>Дарует Он радость отныне</plain>
+        </string>
+        <string>
+            <plain>В благодатный день торжества.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, будь готов о любви</plain>
+        </string>
+        <string>
+            <plain>Христа рассказать,</plain>
+        </string>
+        <string>
+            <plain>И словами любви о великом дне,</plain>
+        </string>
+        <string>
+            <plain>Прославлять Иисуса Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Великой любовью Христовой</plain>
+        </string>
+        <string>
+            <plain>Соединены мы с вами, друзья,</plain>
+        </string>
+        <string>
+            <plain>Отныне, чтоб жизнею новой</plain>
+        </string>
+        <string>
+            <plain>Прославлять Иисуса Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так будем же, братья и сестры,</plain>
+        </string>
+        <string>
+            <plain>Ценить этот день торжества,</plain>
+        </string>
+        <string>
+            <plain>Назидаясь, духом единым</plain>
+        </string>
+        <string>
+            <plain>Прославлять Иисуса Христа.</plain>
+        </string>
+    </verse>
+</song>

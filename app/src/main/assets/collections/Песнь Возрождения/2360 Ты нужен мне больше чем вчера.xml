@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2360" name="Ты нужен мне больше чем вчера" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты нужен мне больше, чем вчера,</plain>
+        </string>
+        <string>
+            <plain>Нуждаюсь в Тебе больше, чем могу сказать.</plain>
+        </string>
+        <string>
+            <plain>Ты нужен мне так, как никогда,</plain>
+        </string>
+        <string>
+            <plain>Ты нужен мне, Ты нужен мне.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Больше дыхания,</plain>
+        </string>
+        <string>
+            <plain>Больше, чем песнь моя,</plain>
+        </string>
+        <string>
+            <plain>Больше, чем сердца стук,</plain>
+        </string>
+        <string>
+            <plain>Больше, чем всё вокруг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть годы проходят вновь,</plain>
+        </string>
+        <string>
+            <plain>но я рядом с Тобой, мой Бог.</plain>
+        </string>
+        <string>
+            <plain>К прошлой жизни</plain>
+        </string>
+        <string>
+            <plain>возвращаться не хочу, Ты нужен мне!</plain>
+        </string>
+    </verse>
+</song>

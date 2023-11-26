@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="419" name="Разливайся, песня, радостным потоком" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Разливайся, песня, радостным потоком</plain>
+        </string>
+        <string>
+            <plain>О любви небесной близким и далеким.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто Иисуса любит и за Ним идет,</plain>
+        </string>
+        <string>
+            <plain>Тот на небе будет,</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>где Господь живет,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Кто Иисуса любит и за Ним идет,</plain>
+        </string>
+        <string>
+            <plain>Тот на небе будет, где Господь живет,</plain>
+        </string>
+        <string>
+            <plain>Господь живет, где Господь живет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Имя Иисуса – грешников спасенье,</plain>
+        </string>
+        <string>
+            <plain>Страшная Голгофа, радость Воскресенья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жить Спаситель будет в возрожденном сердце.</plain>
+        </string>
+        <string>
+            <plain>Славьте Бога, люди! Он нас спас от смерти!</plain>
+        </string>
+    </verse>
+</song>

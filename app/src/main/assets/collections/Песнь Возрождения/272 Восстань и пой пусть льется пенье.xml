@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="272" name="Восстань и пой пусть льется пенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Восстань и пой, пусть льется пенье</plain>
+        </string>
+        <string>
+            <plain>Свободной пламенной рекой,</plain>
+        </string>
+        <string>
+            <plain>Провозгласи освобожденье</plain>
+        </string>
+        <string>
+            <plain>В грехе плененному душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Неси страдальцу утешенье,</plain>
+        </string>
+        <string>
+            <plain>Вещай усталому покой,</plain>
+        </string>
+        <string>
+            <plain>И чудо Божье - исцеленье –</plain>
+        </string>
+        <string>
+            <plain>Душой скорбящему открой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Заблудшим в сумраке сомненья</plain>
+        </string>
+        <string>
+            <plain>И малодушным пред борьбой</plain>
+        </string>
+        <string>
+            <plain>Вдохни надежду на спасенье</plain>
+        </string>
+        <string>
+            <plain>И веру в голос неземной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пройди во все концы вселенной</plain>
+        </string>
+        <string>
+            <plain>И всем, кто мыслит, всем живым,</plain>
+        </string>
+        <string>
+            <plain>Неси ты с песней вдохновенной</plain>
+        </string>
+        <string>
+            <plain>Призыв любви грядущей к ним.</plain>
+        </string>
+    </verse>
+</song>

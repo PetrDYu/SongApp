@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2403" name="Юность весна человеческих дней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Юность, весна человеческих дней,</plain>
+        </string>
+        <string>
+            <plain>Быстро проходит, как сладостный сон.</plain>
+        </string>
+        <string>
+            <plain>Нет уж былых ароматов полей,</plain>
+        </string>
+        <string>
+            <plain>Юность проходит, а ты не спасён.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь проходит, словно сон,</plain>
+        </string>
+        <string>
+            <plain>Смерть близка, ты не спасён.</plain>
+        </string>
+        <string>
+            <plain>Но спасти ведь может</plain>
+        </string>
+        <string>
+            <plain>Он, Воззови и будь спасён!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лето настало, и зреют поля.</plain>
+        </string>
+        <string>
+            <plain>Взор земледельца, жнеца восхищён</plain>
+        </string>
+        <string>
+            <plain>Видом плодов, что готовит земля.</plain>
+        </string>
+        <string>
+            <plain>Лето в разгаре, а ты не спасён.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лето минуло, и осень пришла,</plain>
+        </string>
+        <string>
+            <plain>Падают листья, и слышен их стон.</plain>
+        </string>
+        <string>
+            <plain>Ласточек нет, и умолкла пчела,</plain>
+        </string>
+        <string>
+            <plain>Осень настала, а ты не спасён.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лето проходит, и снят урожай,</plain>
+        </string>
+        <string>
+            <plain>Слышно дыханье с холодных сторон.</plain>
+        </string>
+        <string>
+            <plain>Птицы стремятся в тропический край,</plain>
+        </string>
+        <string>
+            <plain>Лето проходит, а ты не спасён.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Осень минула, зима настаёт,</plain>
+        </string>
+        <string>
+            <plain>В саване снега наш край погребён,</plain>
+        </string>
+        <string>
+            <plain>Скоро и путь твой метель заметёт,</plain>
+        </string>
+        <string>
+            <plain>Зимнее время, а ты не спасён.</plain>
+        </string>
+    </verse>
+</song>

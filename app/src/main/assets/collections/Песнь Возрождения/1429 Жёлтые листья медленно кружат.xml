@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1429" name="Жёлтые листья медленно кружат" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жёлтые листья медленно кружат.</plain>
+        </string>
+        <string>
+            <plain>Землю омыли косые дожди.</plain>
+        </string>
+        <string>
+            <plain>Ветры поют свои грустные песни.</plain>
+        </string>
+        <string>
+            <plain>Вянут цветы, холода настают.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В сердце моём тоже осень настала,</plain>
+        </string>
+        <string>
+            <plain>А кругом лето, И птицы поют.</plain>
+        </string>
+        <string>
+            <plain>Стало тепло, а душа так устала,</plain>
+        </string>
+        <string>
+            <plain>И холода все быстрей настают.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Где потерял я любовь, упованье?</plain>
+        </string>
+        <string>
+            <plain>Где потерял Иисуса Христа?</plain>
+        </string>
+        <string>
+            <plain>Где появились в моей жизни тучи</plain>
+        </string>
+        <string>
+            <plain>И заслонили собою Творца?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О Иисус, где Ты есть? - Погибаю,</plain>
+        </string>
+        <string>
+            <plain>Я одинок, будь Ты спутник мне.</plain>
+        </string>
+        <string>
+            <plain>Сердце согрей Своей вечной любовью,</plain>
+        </string>
+        <string>
+            <plain>И зацветёт весна снова в душе.</plain>
+        </string>
+    </verse>
+</song>

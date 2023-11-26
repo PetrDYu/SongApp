@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2899" name="Иисус лишь мой любимый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус лишь мой любимый</plain>
+        </string>
+        <string>
+            <plain>знает боль мой души,</plain>
+        </string>
+        <string>
+            <plain>Он один помочь мне может</plain>
+        </string>
+        <string>
+            <plain>на моём земном пути.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хоть друзья пытаться будут</plain>
+        </string>
+        <string>
+            <plain>боль души мне облегчить,</plain>
+        </string>
+        <string>
+            <plain>Иисус один лишь может</plain>
+        </string>
+        <string>
+            <plain>моё сердце исцелить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус лишь мой любимый</plain>
+        </string>
+        <string>
+            <plain>помогает в жизни мне;</plain>
+        </string>
+        <string>
+            <plain>Он дарует утешенье, силу,</plain>
+        </string>
+        <string>
+            <plain>благодать вполне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус лишь мой любимый</plain>
+        </string>
+        <string>
+            <plain>может в час житейских вьюг</plain>
+        </string>
+        <string>
+            <plain>злые волны успокоить,</plain>
+        </string>
+        <string>
+            <plain>указать мне верный путь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус лишь мой любимый</plain>
+        </string>
+        <string>
+            <plain>душу сбережёт мою</plain>
+        </string>
+        <string>
+            <plain>в искушениях и в смерти,</plain>
+        </string>
+        <string>
+            <plain>если заповеди чту.</plain>
+        </string>
+    </verse>
+</song>

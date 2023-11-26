@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="525" name="Есть обитель сияньем полна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть обитель, сияньем полна,</plain>
+        </string>
+        <string>
+            <plain>В ней же место готово и нам,</plain>
+        </string>
+        <string>
+            <plain>Во Христе и при жизни она</plain>
+        </string>
+        <string>
+            <plain>Освященным открыта сердцам.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И туда, в дивный край,</plain>
+        </string>
+        <string>
+            <plain>И туда, в Божий рай,</plain>
+        </string>
+        <string>
+            <plain>Всякий верный придет, да придет,</plain>
+        </string>
+        <string>
+            <plain>Богу песнь воспоет, воспоет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ни печалей земных, ни тревог</plain>
+        </string>
+        <string>
+            <plain>В той обители нет и следа;</plain>
+        </string>
+        <string>
+            <plain>Вечной радостью полон чертог, -</plain>
+        </string>
+        <string>
+            <plain>Как блажен, кто приходит туда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воспоем же мы благость Отца:</plain>
+        </string>
+        <string>
+            <plain>После жизни недолгой земной</plain>
+        </string>
+        <string>
+            <plain>Он дарует нам жизнь без конца,</plain>
+        </string>
+        <string>
+            <plain>И блаженство, и вечный покой.</plain>
+        </string>
+    </verse>
+</song>

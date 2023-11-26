@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="547" name="Сердце Божьих детей уж здесь найдет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сердце Божьих детей уж здесь найдет</plain>
+        </string>
+        <string>
+            <plain>Счастье веры, какое Бог дает,</plain>
+        </string>
+        <string>
+            <plain>Но еще большее нас счастье ждет</plain>
+        </string>
+        <string>
+            <plain>Там, где Господень пир святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чудный дом, чудный дом,</plain>
+        </string>
+        <string>
+            <plain>Где все любовь и мир.</plain>
+        </string>
+        <string>
+            <plain>Чудный дом, чудный дом,</plain>
+        </string>
+        <string>
+            <plain>Где все любовь и мир.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если жажда томит в полдневный зной,</plain>
+        </string>
+        <string>
+            <plain>Если труден тернистый путь земной,</plain>
+        </string>
+        <string>
+            <plain>Нас приветливо манит дом родной</plain>
+        </string>
+        <string>
+            <plain>Там, где Господень пир святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Близ хрустально-прозрачной глади вод</plain>
+        </string>
+        <string>
+            <plain>Мы увидим венец Христа красот</plain>
+        </string>
+        <string>
+            <plain>И забудем труды и тьму забот</plain>
+        </string>
+        <string>
+            <plain>Там, где Господень пир святой.</plain>
+        </string>
+    </verse>
+</song>

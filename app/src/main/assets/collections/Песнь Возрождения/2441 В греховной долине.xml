@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2441" name="В греховной долине" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В греховной долине</plain>
+        </string>
+        <string>
+            <plain>- Духовной пустыне,</plain>
+        </string>
+        <string>
+            <plain>Воды чтоб напиться</plain>
+        </string>
+        <string>
+            <plain>- Источник ищу.</plain>
+        </string>
+        <string>
+            <plain>В душе моей тяжесть,</plain>
+        </string>
+        <string>
+            <plain>Но кто же мне скажет,</plain>
+        </string>
+        <string>
+            <plain>Где сердцу отраду найду?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я весь исстрадался,</plain>
+        </string>
+        <string>
+            <plain>Я весь исскитался...</plain>
+        </string>
+        <string>
+            <plain>Как будто не знал</plain>
+        </string>
+        <string>
+            <plain>Отчий дом и семью.</plain>
+        </string>
+        <string>
+            <plain>Кругом все родные,</plain>
+        </string>
+        <string>
+            <plain>Но я как в пустыне...</plain>
+        </string>
+        <string>
+            <plain>Где сердцу отраду найду?</plain>
+        </string>
+    </verse>
+</song>

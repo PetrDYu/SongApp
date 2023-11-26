@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1997" name="Восхвалю я имя Бога моего с песнею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Восхвалю я имя Бога моего с песнею</plain>
+        </string>
+        <string>
+            <plain>И возвеличу Его во хвалении;</plain>
+        </string>
+        <string>
+            <plain>Ибо утвердилась милость Его на нас</plain>
+        </string>
+        <string>
+            <plain>И истина Господня пребывает вовеки.</plain>
+        </string>
+    </verse>
+</song>

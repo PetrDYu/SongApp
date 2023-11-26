@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2211" name="Молитвы к Тебе посылаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молитвы к Тебе посылаю</plain>
+        </string>
+        <string>
+            <plain>И верю - услышишь меня,</plain>
+        </string>
+        <string>
+            <plain>И сердце к Тебе направляю,</plain>
+        </string>
+        <string>
+            <plain>О Боже, прости же меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть я бессилен и устал,</plain>
+        </string>
+        <string>
+            <plain>Пусть на пути не устоял,</plain>
+        </string>
+        <string>
+            <plain>Но ведь души моей мечты</plain>
+        </string>
+        <string>
+            <plain>Знаешь лишь Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Глаза мои полны печали</plain>
+        </string>
+        <string>
+            <plain>И сердце так сильно болит.</plain>
+        </string>
+        <string>
+            <plain>Лишь Ты мои слышишь желанья,</plain>
+        </string>
+        <string>
+            <plain>И радость лишь Ты мне даришь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, я Тебе благодарен</plain>
+        </string>
+        <string>
+            <plain>За вечный, божественный свет,</plain>
+        </string>
+        <string>
+            <plain>До смерти Тебя буду славить,</plain>
+        </string>
+        <string>
+            <plain>Прими же теперь мой обет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1896" name="Как олень что ищет воду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как олень, что ищет воду</plain>
+        </string>
+        <string>
+            <plain>Так я жду Тебя,</plain>
+        </string>
+        <string>
+            <plain>Ты Творец живой природы,</plain>
+        </string>
+        <string>
+            <plain>Верую в Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты один - моя сила,</plain>
+        </string>
+        <string>
+            <plain>И надежда, и радость,</plain>
+        </string>
+        <string>
+            <plain>Только Ты в моем сердце,</plain>
+        </string>
+        <string>
+            <plain>Господь. Я люблю Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Только Ты, Отец Небесный</plain>
+        </string>
+        <string>
+            <plain>Царскою рукой,</plain>
+        </string>
+        <string>
+            <plain>Благодатью награждаешь</plain>
+        </string>
+        <string>
+            <plain>И даешь покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я колени преклоняю,</plain>
+        </string>
+        <string>
+            <plain>Пред Тобой стою,</plain>
+        </string>
+        <string>
+            <plain>И восторгом окрыленный</plain>
+        </string>
+        <string>
+            <plain>Гимн любви пою.</plain>
+        </string>
+    </verse>
+</song>

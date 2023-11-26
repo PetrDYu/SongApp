@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="514" name="Мой дом на небе за облаками" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой дом на небе, за облаками,</plain>
+        </string>
+        <string>
+            <plain>Где жизни новой уж нет конца,</plain>
+        </string>
+        <string>
+            <plain>Друзья, родные где будут с нами</plain>
+        </string>
+        <string>
+            <plain>Петь песни славы там у Отца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О дом небесный, где быть желаю,</plain>
+        </string>
+        <string>
+            <plain>Туда стремлюсь я, чтоб вечно жить;</plain>
+        </string>
+        <string>
+            <plain>Там буду Бога я вечно славить</plain>
+        </string>
+        <string>
+            <plain>И в свете чудном Христу служить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как в бурю с моря моряк стремится</plain>
+        </string>
+        <string>
+            <plain>Причалить в гавань, чтоб отдохнуть,</plain>
+        </string>
+        <string>
+            <plain>Так рвусь я сердцем в жилище света,</plain>
+        </string>
+        <string>
+            <plain>Где отдых ждет всех свершивших путь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отрадно будет в том вечном доме,</plain>
+        </string>
+        <string>
+            <plain>Увижу Друга души моей,</plain>
+        </string>
+        <string>
+            <plain>Кто на Голгофе за грех наш умер</plain>
+        </string>
+        <string>
+            <plain>И примирил нас с Отцом людей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В печалях горьких слез лить не будем,</plain>
+        </string>
+        <string>
+            <plain>Навеки славу мы будем петь;</plain>
+        </string>
+        <string>
+            <plain>Разлуки, скорби, болезнь забудем,</plain>
+        </string>
+        <string>
+            <plain>Не будем больше нужды терпеть.</plain>
+        </string>
+    </verse>
+</song>

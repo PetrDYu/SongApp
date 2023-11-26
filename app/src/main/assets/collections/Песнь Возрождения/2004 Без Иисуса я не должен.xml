@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2004" name="Без Иисуса я не должен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Без Иисуса я не должен</plain>
+        </string>
+        <string>
+            <plain>Сам идти путем своим,</plain>
+        </string>
+        <string>
+            <plain>Но путем, что уж продожен,</plain>
+        </string>
+        <string>
+            <plain>Буду шествовать я с Ним.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О душа, иди вперед (все вперед),</plain>
+        </string>
+        <string>
+            <plain>пусть ведет тебя Господь (сам Господь).</plain>
+        </string>
+        <string>
+            <plain>Я пойду, куда ведет</plain>
+        </string>
+        <string>
+            <plain>Он Свой искупленный народ.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Без Иисуса не сумею</plain>
+        </string>
+        <string>
+            <plain>Продолжать я путь Христов.</plain>
+        </string>
+        <string>
+            <plain>С Ним же счастие имею,</plain>
+        </string>
+        <string>
+            <plain>Вслед за ним идти готов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Без Христа я, как без плана,</plain>
+        </string>
+        <string>
+            <plain>Шестуя чужой страной,</plain>
+        </string>
+        <string>
+            <plain>С ним же волны Иордана</plain>
+        </string>
+        <string>
+            <plain>Высыхают предо мной.</plain>
+        </string>
+    </verse>
+</song>

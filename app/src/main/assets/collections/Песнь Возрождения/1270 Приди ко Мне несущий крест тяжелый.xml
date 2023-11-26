@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1270" name="Приди ко Мне несущий крест тяжелый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди ко Мне, несущий крест тяжелый,</plain>
+        </string>
+        <string>
+            <plain>Я облегчу твой тесный, скорбный путь.</plain>
+        </string>
+        <string>
+            <plain>Я возвращу потерянные силы,</plain>
+        </string>
+        <string>
+            <plain>Я исцелю надорванную грудь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Приди ко Мне, израненный незримо.</plain>
+        </string>
+        <string>
+            <plain>Приди искать отраду у Меня.</plain>
+        </string>
+        <string>
+            <plain>Своей любовью, лаской и приютом</plain>
+        </string>
+        <string>
+            <plain>Согрею и утешу Я тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди ко Мне, израненный, несчастный.</plain>
+        </string>
+        <string>
+            <plain>Измученный, с истерзанной душой.</plain>
+        </string>
+        <string>
+            <plain>Бальзамом драгоценным уврачую</plain>
+        </string>
+        <string>
+            <plain>И дам покой душе твоей больной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди ко Мне без страха и сомненья,</plain>
+        </string>
+        <string>
+            <plain>Приди ко Мне, Я дам тебе покой.</plain>
+        </string>
+        <string>
+            <plain>Приди ко Мне, Я дам тебе прощенье,</plain>
+        </string>
+        <string>
+            <plain>Спасенье дам душе твоей больной.</plain>
+        </string>
+    </verse>
+</song>

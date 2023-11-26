@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="746" name="Еще недолго да совсем недолго" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Еще недолго, да, совсем недолго –</plain>
+        </string>
+        <string>
+            <plain>И наш Спаситель нас к Себе возьмет.</plain>
+        </string>
+        <string>
+            <plain>Хоть и тревог встречаем в жизни много,</plain>
+        </string>
+        <string>
+            <plain>Но в небесах покой душа найдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Еще недолго, да, совсем недолго,</plain>
+        </string>
+        <string>
+            <plain>И я узрю Того, Кого люблю.</plain>
+        </string>
+        <string>
+            <plain>Еще недолго, да, совсем недолго</plain>
+        </string>
+        <string>
+            <plain>И в небесах Христу я воспою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мой путь тернистый тягостен порою,</plain>
+        </string>
+        <string>
+            <plain>И не растут цветы на нем нигде.</plain>
+        </string>
+        <string>
+            <plain>Я падаю, измученный душою,</plain>
+        </string>
+        <string>
+            <plain>Но, вновь поднявшись, я иду к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пилигрим усталый, изнуренный,</plain>
+        </string>
+        <string>
+            <plain>О, будь со мной и помогай в борьбе!</plain>
+        </string>
+        <string>
+            <plain>Когда Ты рядом - я тогда спокоен</plain>
+        </string>
+        <string>
+            <plain>И в горе, и в страданьи, и в нужде.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я радуюсь, что Ты меня так любишь,</plain>
+        </string>
+        <string>
+            <plain>Что среди ночи помогаешь мне!</plain>
+        </string>
+        <string>
+            <plain>Я верю, Ты меня не позабудешь,</plain>
+        </string>
+        <string>
+            <plain>О, будь со мной всегда, во всем, везде.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1237" name="Когда Христос меня простил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда Христос меня простил,</plain>
+        </string>
+        <string>
+            <plain>И землю в небо превратил.</plain>
+        </string>
+        <string>
+            <plain>Среди скорбей, среди угроз</plain>
+        </string>
+        <string>
+            <plain>- Там небо, где со мной Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвала Христу, Он спас меня.</plain>
+        </string>
+        <string>
+            <plain>Простил грехи, открыл Себя,</plain>
+        </string>
+        <string>
+            <plain>На суше, в море, над землей</plain>
+        </string>
+        <string>
+            <plain>- Там небо, где Христос со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Небесный мир мне был далек,</plain>
+        </string>
+        <string>
+            <plain>Меня Христос к нему привлек.</plain>
+        </string>
+        <string>
+            <plain>Когда вошел Он в жизнь мою,</plain>
+        </string>
+        <string>
+            <plain>С тех пор о Нем всегда пою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Неважно, где теперь живу:</plain>
+        </string>
+        <string>
+            <plain>На высоте, внизу во рву,</plain>
+        </string>
+        <string>
+            <plain>В стране родной, в стране чужой</plain>
+        </string>
+        <string>
+            <plain>- Там небо, где Христос со мной.</plain>
+        </string>
+    </verse>
+</song>

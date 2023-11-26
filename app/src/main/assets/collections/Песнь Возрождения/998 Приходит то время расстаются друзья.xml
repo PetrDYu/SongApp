@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="998" name="Приходит то время расстаются друзья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приходит то время - расстаются друзья,</plain>
+        </string>
+        <string>
+            <plain>Только Друг дорогой не покинет никогда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастлив ты. Счастлив я, Счастливы мы,</plain>
+        </string>
+        <string>
+            <plain>Что мы с вами - друзья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Теперь "до свиданья" мы вам говорим</plain>
+        </string>
+        <string>
+            <plain>И песню прощанья на память дарим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И песня польется в ваши сердца,</plain>
+        </string>
+        <string>
+            <plain>И в них не умолкнет она никогда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И дружба чтоб крепла, как сталь, как гранит,</plain>
+        </string>
+        <string>
+            <plain>Любовь в вашем сердце пусть ярче горит.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Любовь ароматом прекрасных цветов</plain>
+        </string>
+        <string>
+            <plain>Останется в сердце других городов.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Руки взмах прощальный разлуку сулит,</plain>
+        </string>
+        <string>
+            <plain>А радость общенья нам радость дарит.</plain>
+        </string>
+    </verse>
+</song>

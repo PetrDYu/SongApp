@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1806" name="В этот тихий спокойный вечер" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В этот тихий спокойный вечер</plain>
+        </string>
+        <string>
+            <plain>Отложив все земные дела.</plain>
+        </string>
+        <string>
+            <plain>Хорошо нам, спокойно вместе</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Память нас возвращает в былое,</plain>
+        </string>
+        <string>
+            <plain>Хоть нелегкой дорога была,</plain>
+        </string>
+        <string>
+            <plain>Но сегодня мы славим Бога</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+        <string>
+            <plain>Были беды и были невзгоды,</plain>
+        </string>
+        <string>
+            <plain>В море жизни бурлит вода,</plain>
+        </string>
+        <string>
+            <plain>Солнце спрятали грозные тучи</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Было счастья немало средь горя,</plain>
+        </string>
+        <string>
+            <plain>Были новых друзей имена,</plain>
+        </string>
+        <string>
+            <plain>Восходили над нами зори,</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вскоре кончится наша дорога,</plain>
+        </string>
+        <string>
+            <plain>Нет, не важны для нас времена,</plain>
+        </string>
+        <string>
+            <plain>Заберет нас Иисус в свой город,</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Поднимайте же выше головы,</plain>
+        </string>
+        <string>
+            <plain>Исповедуйте веру свою,</plain>
+        </string>
+        <string>
+            <plain>Вы же жители чудного города,</plain>
+        </string>
+        <string>
+            <plain>Что стоит на "том берегу".</plain>
+        </string>
+        <string>
+            <plain>Поднимайте же выше головы,</plain>
+        </string>
+        <string>
+            <plain>Исповедуйте веру свою,</plain>
+        </string>
+        <string>
+            <plain>Драгоценные жители города,</plain>
+        </string>
+        <string>
+            <plain>Что стоит на "том берегу".</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>В этот тихий спокойный вечер</plain>
+        </string>
+        <string>
+            <plain>Отложив все земные дела,</plain>
+        </string>
+        <string>
+            <plain>Хорошо нам, спокойно вместе</plain>
+        </string>
+        <string>
+            <plain>И за это Иисусу хвала.</plain>
+        </string>
+    </verse>
+</song>

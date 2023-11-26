@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1990" name="Воскрес Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воскрес Христос...</plain>
+        </string>
+        <string>
+            <plain>Торжествует вселенная с Ним.</plain>
+        </string>
+        <string>
+            <plain>Жив наш Господь, свершил победу.</plain>
+        </string>
+        <string>
+            <plain>Тебе, Спасителю, Богу нашему,</plain>
+        </string>
+        <string>
+            <plain>возносим славу и хваленье,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ибо жив Ты! Ты воскрес для нас во славе.</plain>
+        </string>
+        <string>
+            <plain>Избавленье вечное принес для нас</plain>
+        </string>
+        <string>
+            <plain>Ты, наш Спаситель навеки.</plain>
+        </string>
+        <string>
+            <plain>Ты наша жизнь,</plain>
+        </string>
+        <string>
+            <plain>Ты дал нам спасенья радость.</plain>
+        </string>
+    </verse>
+</song>

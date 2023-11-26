@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2699" name="Тихо шумит надо мною" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихо шумит надо мною</plain>
+        </string>
+        <string>
+            <plain>Желтая, красная осень.</plain>
+        </string>
+        <string>
+            <plain>Юность, прощанье с тобою</plain>
+        </string>
+        <string>
+            <plain>Грусть и печаль нам приносит.</plain>
+        </string>
+        <string>
+            <plain>Вот и пришла в край зеленый</plain>
+        </string>
+        <string>
+            <plain>В золоте утреннем осень.</plain>
+        </string>
+        <string>
+            <plain>Вот и пришла в край зеленый</plain>
+        </string>
+        <string>
+            <plain>В золоте утреннем осень.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Чистые, светлые годы,</plain>
+        </string>
+        <string>
+            <plain>Полные свежести, силы.</plain>
+        </string>
+        <string>
+            <plain>Благодарю вас, что были,</plain>
+        </string>
+        <string>
+            <plain>Сердце мое не забыли.</plain>
+        </string>
+        <string>
+            <plain>Розовой дымкой блеснула</plain>
+        </string>
+        <string>
+            <plain>В утреннем трепете юность.</plain>
+        </string>
+        <string>
+            <plain>Розовой дымкой блеснула</plain>
+        </string>
+        <string>
+            <plain>В утреннем трепете юность.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Крылья любви надо мною,</plain>
+        </string>
+        <string>
+            <plain>Юность, ты мне подарила.</plain>
+        </string>
+        <string>
+            <plain>Яркой, лазурной звездою</plain>
+        </string>
+        <string>
+            <plain>Всю жизнь мою озарила.</plain>
+        </string>
+        <string>
+            <plain>Божья любовь засияла</plain>
+        </string>
+        <string>
+            <plain>Пламенем утренним солнце.</plain>
+        </string>
+        <string>
+            <plain>Божья любовь засияла</plain>
+        </string>
+        <string>
+            <plain>Пламенем утренним солнце.</plain>
+        </string>
+    </verse>
+</song>

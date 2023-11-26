@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="590" name="Тихая ночь дивная ночь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихая ночь, дивная ночь!</plain>
+        </string>
+        <string>
+            <plain>Дремлет все, лишь не спит</plain>
+        </string>
+        <string>
+            <plain>В благоговенье святая чета;</plain>
+        </string>
+        <string>
+            <plain>Чудным Младенцем полны их сердца,</plain>
+        </string>
+        <string>
+            <plain>Радость в душе их горит.</plain>
+        </string>
+        <string>
+            <plain>Радость в душе их горит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тихая ночь, дивная ночь!</plain>
+        </string>
+        <string>
+            <plain>Глас с небес возвестил:</plain>
+        </string>
+        <string>
+            <plain>Радуйтесь, ныне родился Христос,</plain>
+        </string>
+        <string>
+            <plain>Мир и спасение всем Он принес,</plain>
+        </string>
+        <string>
+            <plain>Свыше нас Свет посетил!</plain>
+        </string>
+        <string>
+            <plain>Свыше нас Свет посетил!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тихая ночь, дивная ночь!</plain>
+        </string>
+        <string>
+            <plain>К небу нас Бог призвал,</plain>
+        </string>
+        <string>
+            <plain>О, да откроются наши сердца</plain>
+        </string>
+        <string>
+            <plain>И да прославят Его все уста,</plain>
+        </string>
+        <string>
+            <plain>Он нам Спасителя дал.</plain>
+        </string>
+        <string>
+            <plain>Он нам Спасителя дал.</plain>
+        </string>
+    </verse>
+</song>

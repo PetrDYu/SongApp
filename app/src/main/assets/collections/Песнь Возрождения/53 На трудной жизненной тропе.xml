@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="53" name="На трудной жизненной тропе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На трудной жизненной тропе,</plain>
+        </string>
+        <string>
+            <plain>О дай, Спаситель, силу мне</plain>
+        </string>
+        <string>
+            <plain>Сказать безропотно Тебе:</plain>
+        </string>
+        <string>
+            <plain>"Как хочешь ты".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И если Ты захочешь взять,</plain>
+        </string>
+        <string>
+            <plain>Что мне больней всего отдать, -</plain>
+        </string>
+        <string>
+            <plain>О дай мне радостно сказать:</plain>
+        </string>
+        <string>
+            <plain>"Как хочешь Ты".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Идет ли средь страданий путь,</plain>
+        </string>
+        <string>
+            <plain>Лишь Ты моей опорой будь;</plain>
+        </string>
+        <string>
+            <plain>Со мной всегда, Господь, пребудь</plain>
+        </string>
+        <string>
+            <plain>"Как хочешь Ты".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всю волю покори Себе,</plain>
+        </string>
+        <string>
+            <plain>Смиренье дай и силу мне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб каждый день сказать Тебе:</plain>
+        </string>
+        <string>
+            <plain>"Как хочешь Ты".</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда ж придет последний час,</plain>
+        </string>
+        <string>
+            <plain>Пусть шепчет мой усталый глас</plain>
+        </string>
+        <string>
+            <plain>Тому, Кто дух навеки спас:</plain>
+        </string>
+        <string>
+            <plain>"Как хочешь Ты".</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1654" name="Бог наш сотворивший мир" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог наш, сотворивший мир,</plain>
+        </string>
+        <string>
+            <plain>Землю, леса, моря всем наделил.</plain>
+        </string>
+        <string>
+            <plain>Шесть дней в силе трудился Он,</plain>
+        </string>
+        <string>
+            <plain>А в седьмой день кончил труд и почил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Взгляни, прекрасен этот мир.</plain>
+        </string>
+        <string>
+            <plain>Ярко сияют звезды в нем.</plain>
+        </string>
+        <string>
+            <plain>Все это Бог тебе подарил.</plain>
+        </string>
+        <string>
+            <plain>Хвалу Ему мы воспоем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Венцом всего творения</plain>
+        </string>
+        <string>
+            <plain>Бог создал в любви Своей тебя, человек,</plain>
+        </string>
+        <string>
+            <plain>Слышишь небесное пенье?</plain>
+        </string>
+        <string>
+            <plain>Господь сказал, так будет вовек.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Даже если забудешь ты Того,</plain>
+        </string>
+        <string>
+            <plain>Кто из милости жизнь даровал.</plain>
+        </string>
+        <string>
+            <plain>Любит тебя и хочет спасти.</plain>
+        </string>
+        <string>
+            <plain>Чтоб в радости ты путь свершал.</plain>
+        </string>
+    </verse>
+</song>

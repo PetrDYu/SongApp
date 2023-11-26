@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2414" name="Я иду к Тебе Боже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду к Тебе, Боже,</plain>
+        </string>
+        <string>
+            <plain>Я иду к Тебе везде,</plain>
+        </string>
+        <string>
+            <plain>Я иду к Тебе Боже,</plain>
+        </string>
+        <string>
+            <plain>Я иду к Тебе по земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я иду к Тебе днем,</plain>
+        </string>
+        <string>
+            <plain>Простираюсь к Тебе ночью,</plain>
+        </string>
+        <string>
+            <plain>Ожидаю Тебя утром,</plain>
+        </string>
+        <string>
+            <plain>Я иду, иду к Тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На пути устали ноги,</plain>
+        </string>
+        <string>
+            <plain>враг изранил мою душу.</plain>
+        </string>
+        <string>
+            <plain>Я - усталый путник,</plain>
+        </string>
+        <string>
+            <plain>Боже, поспеши ко мне, Боже мой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Силы дай с грехом сражаться,</plain>
+        </string>
+        <string>
+            <plain>Побеждать, идти вперед,</plain>
+        </string>
+        <string>
+            <plain>Помоги не колебаться</plain>
+        </string>
+        <string>
+            <plain>среди жизненных невзгод.</plain>
+        </string>
+    </verse>
+</song>

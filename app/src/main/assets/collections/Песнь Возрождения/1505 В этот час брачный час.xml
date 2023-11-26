@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1505" name="В этот час брачный час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В этот час, брачный час.</plain>
+        </string>
+        <string>
+            <plain>Поздравляем вас,</plain>
+        </string>
+        <string>
+            <plain>И любви, Христовой любви</plain>
+        </string>
+        <string>
+            <plain>Желаем мы для вас.</plain>
+        </string>
+        <string>
+            <plain>В этот час, брачный час.</plain>
+        </string>
+        <string>
+            <plain>Желаем мы для вас:</plain>
+        </string>
+        <string>
+            <plain>Дружно жить, Христа любить.</plain>
+        </string>
+        <string>
+            <plain>Мир в сердцах хранить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дорогие друзья!</plain>
+        </string>
+        <string>
+            <plain>В этот торжественный час</plain>
+        </string>
+        <string>
+            <plain>Все поздравляют вас в радости духа.</plain>
+        </string>
+        <string>
+            <plain>Я же хочу вам на память сказать:</plain>
+        </string>
+        <string>
+            <plain>Любите, любите, любите друг друга!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В этот час, веселый час</plain>
+        </string>
+        <string>
+            <plain>Смотрим мы на вас,</plain>
+        </string>
+        <string>
+            <plain>И вся наша молодежь поздравляет вас.</plain>
+        </string>
+        <string>
+            <plain>Как красива и нежна Брачная чета;</plain>
+        </string>
+        <string>
+            <plain>Вместе с вами радостны</plain>
+        </string>
+        <string>
+            <plain>Все ваши друзья.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>В любви все возможно:</plain>
+        </string>
+        <string>
+            <plain>И возраст, и расстояние.</plain>
+        </string>
+        <string>
+            <plain>Любовь - это счастье.</plain>
+        </string>
+        <string>
+            <plain>Которому нет окончания.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>В этот час, брачный час.</plain>
+        </string>
+        <string>
+            <plain>Поздравляем вас,</plain>
+        </string>
+        <string>
+            <plain>И любви, Христовой любви</plain>
+        </string>
+        <string>
+            <plain>Желаем мы для вас.</plain>
+        </string>
+        <string>
+            <plain>В этот час, брачный час.</plain>
+        </string>
+        <string>
+            <plain>Желаем мы для вас:</plain>
+        </string>
+        <string>
+            <plain>Дружно жить, Христа любить.</plain>
+        </string>
+        <string>
+            <plain>Мир в сердцах хранить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="269" name="В ночном саду прозрачно и светло, стоит наш мирный дом" canon="false" text="В. Шишкарева" textRus="" music="В. Шишкарева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В ночном саду прозрачно и светло, стоит наш мирный дом.</plain>
+        </string>
+        <string>
+            <plain>Проходит ангел, белое крыло мелькает за окном.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В пещере ослик кушает овес, в яслях лежит Христос.</plain>
+        </string>
+        <string>
+            <plain>Осленок носом тянется к Нему, звезда глядит во тьму.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мария держит Сына на руках, Иосиф рядом с ней.</plain>
+        </string>
+        <string>
+            <plain>Вот, ангел им сказал о пастухах: «Идут, встречай скорей!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Волхвы дары свои Ему несут. За ними важно вслед</plain>
+        </string>
+        <string>
+            <plain>Верблюды длинноногие идут, звезда им дарит свет.</plain>
+        </string>
+    </verse>
+</song>

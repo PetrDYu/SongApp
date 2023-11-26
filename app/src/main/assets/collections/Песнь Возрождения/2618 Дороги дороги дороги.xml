@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2618" name="Дороги дороги дороги" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дороги, дороги, дороги...</plain>
+        </string>
+        <string>
+            <plain>Ведут до могильной плиты.</plain>
+        </string>
+        <string>
+            <plain>Вдруг кончатся горе, тревоги,</plain>
+        </string>
+        <string>
+            <plain>Вдруг кончатся наши мечты.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Идти нам ни мало, ни много:</plain>
+        </string>
+        <string>
+            <plain>Лет семьдесят иль шестьдесят,</plain>
+        </string>
+        <string>
+            <plain>А в жизни всего две дороги,</plain>
+        </string>
+        <string>
+            <plain>Есть в небо дорога, есть в ад.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И нет золотой середины,</plain>
+        </string>
+        <string>
+            <plain>Есть "да" или "нет" - выбирай.</plain>
+        </string>
+        <string>
+            <plain>Такая вот, друг мой, картина,</plain>
+        </string>
+        <string>
+            <plain>Куда идешь: в ад или в рай?!</plain>
+        </string>
+        <string>
+            <plain>Окончание: Дороги, дороги, дороги...</plain>
+        </string>
+    </verse>
+</song>

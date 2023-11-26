@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="480" name="Дети о придите ко Христу скорей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дети, о придите ко Христу скорей,</plain>
+        </string>
+        <string>
+            <plain>На Христа смотрите посреди скорбей!</plain>
+        </string>
+        <string>
+            <plain>Взгляньте, как висящий кровь святую льет;</plain>
+        </string>
+        <string>
+            <plain>Он, за нас скорбящий, нас к Себе зовет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дети, умилитесь видом страшных мук;</plain>
+        </string>
+        <string>
+            <plain>Плачьте и склонитесь у пронзенных рук.</plain>
+        </string>
+        <string>
+            <plain>Нес Он гнет греховный за весь мир, за всех</plain>
+        </string>
+        <string>
+            <plain>И за нас, виновных; о, как тяжек грех!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От греха бегите, с ним ведь смерть пришла;</plain>
+        </string>
+        <string>
+            <plain>Злого не творите, не таите зла,</plain>
+        </string>
+        <string>
+            <plain>Из сердец гоните всякий корень злой!</plain>
+        </string>
+        <string>
+            <plain>Если скорбь, - спешите ко Христу с мольбой!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вы Ему несите плод Его скорбей:</plain>
+        </string>
+        <string>
+            <plain>"Мы - Твои, - скажите, - вечный Друг детей!</plain>
+        </string>
+        <string>
+            <plain>Мы Тобой добыты, найдены Тобой;</plain>
+        </string>
+        <string>
+            <plain>Мы в Тебе омыты кровию Святой".</plain>
+        </string>
+    </verse>
+</song>

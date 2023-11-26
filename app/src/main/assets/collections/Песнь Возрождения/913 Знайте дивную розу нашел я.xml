@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="913" name="Знайте дивную розу нашел я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знайте, дивную розу нашел я</plain>
+        </string>
+        <string>
+            <plain>Еще в юности жизни моей.</plain>
+        </string>
+        <string>
+            <plain>Все отдал я за розу, меняя,</plain>
+        </string>
+        <string>
+            <plain>Чтобы всюду последовать ей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Роза Сарона выше всего,</plain>
+        </string>
+        <string>
+            <plain>Роза Сарона выше всего.</plain>
+        </string>
+        <string>
+            <plain>Всей душою и сердцем я славлю,</plain>
+        </string>
+        <string>
+            <plain>Роза Сарона выше всего.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Был в Палестине великий гонитель,</plain>
+        </string>
+        <string>
+            <plain>Красоты этой розы не чтил.</plain>
+        </string>
+        <string>
+            <plain>Но он после стал розы служитель</plain>
+        </string>
+        <string>
+            <plain>И так многих к Христу приводил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Эта роза - Христос, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Он дороже всего для меня.</plain>
+        </string>
+        <string>
+            <plain>Он оставил Святую Обитель,</plain>
+        </string>
+        <string>
+            <plain>И за грех мой Он отдал Себя.</plain>
+        </string>
+    </verse>
+</song>

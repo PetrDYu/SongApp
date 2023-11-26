@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="725" name="Лучшие дни нашей жизни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лучшие дни нашей жизни,</plain>
+        </string>
+        <string>
+            <plain>Свежие силы весны молодой</plain>
+        </string>
+        <string>
+            <plain>Мы посвятим Иисусу</plain>
+        </string>
+        <string>
+            <plain>В дар для Него дорогой!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Что может быть нам приятней,</plain>
+        </string>
+        <string>
+            <plain>Как Иисусу служить,</plain>
+        </string>
+        <string>
+            <plain>Жизни простор необъятный,</plain>
+        </string>
+        <string>
+            <plain>Сердце Христу подарить."</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слышишь, как Он призывает?</plain>
+        </string>
+        <string>
+            <plain>Час посвященья для нас настал!</plain>
+        </string>
+        <string>
+            <plain>Больше мы медлить не можем:</plain>
+        </string>
+        <string>
+            <plain>Он ведь нам жизнь даровал!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Братья, поднимем же знамя</plain>
+        </string>
+        <string>
+            <plain>С именем чудным Христа!</plain>
+        </string>
+        <string>
+            <plain>Пусть загорается пламя</plain>
+        </string>
+        <string>
+            <plain>Жертвенной крови Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Смело во имя Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Братья, вперед на борьбу с грехом!</plain>
+        </string>
+        <string>
+            <plain>Тысячи гибнут в пороках,</plain>
+        </string>
+        <string>
+            <plain>С вестью благой к ним пойдем.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Пусть нас постигнут гоненья,</plain>
+        </string>
+        <string>
+            <plain>Смерть за Христа не страшна!</plain>
+        </string>
+        <string>
+            <plain>С радостным пеньем хваленья</plain>
+        </string>
+        <string>
+            <plain>Мы одолеем врага!</plain>
+        </string>
+    </chorus>
+</song>

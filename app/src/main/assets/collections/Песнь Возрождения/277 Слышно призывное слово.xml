@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="277" name="Слышно призывное слово" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышно призывное слово,</plain>
+        </string>
+        <string>
+            <plain>Всюду работников ждут,</plain>
+        </string>
+        <string>
+            <plain>Желтая нива готова,</plain>
+        </string>
+        <string>
+            <plain>Встаньте и дружно за труд.</plain>
+        </string>
+        <string>
+            <plain>Слушайте, Бог приглашает:</plain>
+        </string>
+        <string>
+            <plain>К делу, ведь ночь наступает.</plain>
+        </string>
+        <string>
+            <plain>Дружно спешите жать,</plain>
+        </string>
+        <string>
+            <plain>Радостно собирать</plain>
+        </string>
+        <string>
+            <plain>Урожай.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пой, пой, песнь звучит,</plain>
+        </string>
+        <string>
+            <plain>Примкни к тем певцам,</plain>
+        </string>
+        <string>
+            <plain>С сердцем светлым и душой</plain>
+        </string>
+        <string>
+            <plain>Смело труд свершай.</plain>
+        </string>
+        <string>
+            <plain>Слушай, песнь звучит,</plain>
+        </string>
+        <string>
+            <plain>Поспеши в ряды.</plain>
+        </string>
+        <string>
+            <plain>Дружно спешите жать,</plain>
+        </string>
+        <string>
+            <plain>Радостно собирать урожай.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердцем, счастливым от пенья,</plain>
+        </string>
+        <string>
+            <plain>К ниве спешите скорей,</plain>
+        </string>
+        <string>
+            <plain>Близко колосьев паденье,</plain>
+        </string>
+        <string>
+            <plain>Ждут они жатвы своей.</plain>
+        </string>
+        <string>
+            <plain>Братья, дружней соберитесь,</plain>
+        </string>
+        <string>
+            <plain>С мужеством, с верой трудитесь;</plain>
+        </string>
+        <string>
+            <plain>Не вечен труд земной,</plain>
+        </string>
+        <string>
+            <plain>Для наших душ покой</plain>
+        </string>
+        <string>
+            <plain>Близок к нам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слушайте пение хора;</plain>
+        </string>
+        <string>
+            <plain>Хор тот дружина жнецов;</plain>
+        </string>
+        <string>
+            <plain>Жатва окончится скоро</plain>
+        </string>
+        <string>
+            <plain>Множеством чудных снопов.</plain>
+        </string>
+        <string>
+            <plain>Братья, не стойте лениво,</plain>
+        </string>
+        <string>
+            <plain>Ждет вас Господняя нива;</plain>
+        </string>
+        <string>
+            <plain>Ждет Сам Господь сынов,</plain>
+        </string>
+        <string>
+            <plain>К жнущим, доколе день,</plain>
+        </string>
+        <string>
+            <plain>Примыкай!</plain>
+        </string>
+    </verse>
+</song>

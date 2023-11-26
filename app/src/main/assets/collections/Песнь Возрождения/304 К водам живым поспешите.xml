@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="304" name="К водам живым поспешите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К водам живым поспешите</plain>
+        </string>
+        <string>
+            <plain>С ношей греха и забот,</plain>
+        </string>
+        <string>
+            <plain>В воду ее погрузите –</plain>
+        </string>
+        <string>
+            <plain>Сердце отраду найдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Поторопись! Можно ли ждать?</plain>
+        </string>
+        <string>
+            <plain>Можно ль спасеньем души рисковать?</plain>
+        </string>
+        <string>
+            <plain>Руки Господь простирает,</plain>
+        </string>
+        <string>
+            <plain>Всякого хочет принять.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К водам живым поспешите,</plain>
+        </string>
+        <string>
+            <plain>Хоть вы покрыты виной,</plain>
+        </string>
+        <string>
+            <plain>Там вас омоет Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Там облечет белизной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Голос любви призывает:</plain>
+        </string>
+        <string>
+            <plain>Слушай, покайся и верь!</plain>
+        </string>
+        <string>
+            <plain>Кто Божью слову внимает,</plain>
+        </string>
+        <string>
+            <plain>Входит в открытую дверь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Воды живые чудесно</plain>
+        </string>
+        <string>
+            <plain>Все оживляют кругом.</plain>
+        </string>
+        <string>
+            <plain>Если раскается грешник,</plain>
+        </string>
+        <string>
+            <plain>Небо ликует о том.</plain>
+        </string>
+    </verse>
+</song>

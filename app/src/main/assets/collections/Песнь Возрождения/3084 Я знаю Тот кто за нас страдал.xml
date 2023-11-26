@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3084" name="Я знаю Тот кто за нас страдал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю: Тот, кто за нас страдал,</plain>
+        </string>
+        <string>
+            <plain>нас может спасти навек.</plain>
+        </string>
+        <string>
+            <plain>Он смертью крестной спасенье дал,</plain>
+        </string>
+        <string>
+            <plain>Он может спасти навек.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Спасён, я спасён в Христе;</plain>
+        </string>
+        <string>
+            <plain>спасён, я спасён в Христе!</plain>
+        </string>
+        <string>
+            <plain>Моя слава, жизнь и честь во Христе</plain>
+        </string>
+        <string>
+            <plain>спаснье Он дал душе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Искал спасенье я от греха</plain>
+        </string>
+        <string>
+            <plain>- Он может спасти навек.</plain>
+        </string>
+        <string>
+            <plain>Я рад, теперь я - Его дитя.</plain>
+        </string>
+        <string>
+            <plain>Он может спасти навек.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Омыл Иисус всю вину мою</plain>
+        </string>
+        <string>
+            <plain>- Он может спасти навек.</plain>
+        </string>
+        <string>
+            <plain>Теперь Ему я принадлежу</plain>
+        </string>
+        <string>
+            <plain>- Он может спасти навек.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты гибнешь в море мирских забот!</plain>
+        </string>
+        <string>
+            <plain>- Он может спасти навек.</plain>
+        </string>
+        <string>
+            <plain>Ищи Его, Он тебя спасёт,</plain>
+        </string>
+        <string>
+            <plain>Он может спасти навек.</plain>
+        </string>
+    </verse>
+</song>

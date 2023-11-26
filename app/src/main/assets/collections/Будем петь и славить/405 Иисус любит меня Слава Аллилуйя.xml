@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="405" name="Иисус любит меня Слава Аллилуйя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иисус любит меня.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain>Слава! Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Иисус любит тебя.</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain>Слава! Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Иисус любит тебя. Иисус любит меня.</plain>
+        </string>
+        <string>
+            <plain>Иисус любит тебя. Слава! Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

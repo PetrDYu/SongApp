@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2491" name="Как часто мы себя прощаем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как часто мы себя прощаем,</plain>
+        </string>
+        <string>
+            <plain>Других же осудить спешим,</plain>
+        </string>
+        <string>
+            <plain>Свой грех всегда нам кажется ничтожным,</plain>
+        </string>
+        <string>
+            <plain>Чужой же, как всегда, большим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Научи, Иисус, как прощать,</plain>
+        </string>
+        <string>
+            <plain>Как Ты простил,</plain>
+        </string>
+        <string>
+            <plain>Научи забывать, как Ты забыл.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Учи меня поддержкам быть для слабых,</plain>
+        </string>
+        <string>
+            <plain>Для одиноких близким другом стать,</plain>
+        </string>
+        <string>
+            <plain>Не бросить первой камень осужденья</plain>
+        </string>
+        <string>
+            <plain>И трость надломленную не сломать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любить, прощать - вот наше назначены,</plain>
+        </string>
+        <string>
+            <plain>Не вправе мы, как Бог, судить,</plain>
+        </string>
+        <string>
+            <plain>Хочу быть добрым я самарянином,</plain>
+        </string>
+        <string>
+            <plain>Учи меня по-христиански жить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="476" name="Ты сладость моя, утешенье мое," canon="false" text="Е. Гончаровой" textRus="" music="Е. Гончаровой" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ты – сладость моя, утешенье мое,</plain>
+        </string>
+        <string>
+            <plain>Души моей жалкой Целитель.</plain>
+        </string>
+        <string>
+            <plain>Как сердце тоскует, стремится оно</plain>
+        </string>
+        <string>
+            <plain>В Небесную Божью обитель!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мне б хоть на мгновенье увидеть Твой Град,</plain>
+        </string>
+        <string>
+            <plain>Где вечно святые ликуют,</plain>
+        </string>
+        <string>
+            <plain>Тот чудный и дивный, сказочный сад,</plain>
+        </string>
+        <string>
+            <plain>Где Свет и Любовь торжествуют.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты – святость моя, вечной жизни исток,</plain>
+        </string>
+        <string>
+            <plain>Богатство мое неземное.</plain>
+        </string>
+        <string>
+            <plain>В Твоей я руке лишь невзрачный цветок,</plain>
+        </string>
+        <string>
+            <plain>Спасенный от бури Тобою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отвергнув себя, я свой крест понесу,</plain>
+        </string>
+        <string>
+            <plain>Ты, Боже, дашь силу Твою.</plain>
+        </string>
+        <string>
+            <plain>Я здесь, на земле, ничего не хочу,</plain>
+        </string>
+        <string>
+            <plain>Потому что Тебя я люблю!</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Я верю, Господь мой: войду я в Твой Град,</plain>
+        </string>
+        <string>
+            <plain>Где вечно святые ликуют,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>В тот чудный и дивный, сказочный сад,</plain>
+        </string>
+        <string>
+            <plain>Где Свет и Любовь торжествуют.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

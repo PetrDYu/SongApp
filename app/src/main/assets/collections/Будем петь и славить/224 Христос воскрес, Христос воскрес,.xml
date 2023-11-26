@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="224" name="Христос воскрес, Христос воскрес," canon="false" text="Кико Аргуэльо" textRus="М. Винецкой, Ю. Пастернака" music="Кико Аргуэльо" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Христос воскрес, Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя, аллилуйя, Христос воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>О, смерть, где же твое жало? Где твоя победа?</plain>
+        </string>
+        <string>
+            <plain>Где победа ада?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ликуйте! Братия, ликуйте! Радуйтесь друг другу,</plain>
+        </string>
+        <string>
+            <plain>Ведь Христос воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если с Ним мы умираем, с Ним мы и воскреснем.</plain>
+        </string>
+        <string>
+            <plain>Воспоем с Ним вместе.</plain>
+        </string>
+    </verse>
+</song>

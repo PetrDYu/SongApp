@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2570" name="Начинаю новую жизнь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Начинаю новую жизнь!</plain>
+        </string>
+        <string>
+            <plain>Хватит сердцу бродить в потемках.</plain>
+        </string>
+        <string>
+            <plain>Снова взор направляю ввысь,</plain>
+        </string>
+        <string>
+            <plain>Бросив счастья земного обломки.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Начинаю новую жизнь!</plain>
+        </string>
+        <string>
+            <plain>Дух трепещет, поет и ликует.</plain>
+        </string>
+        <string>
+            <plain>И теперь даже краткий свой миг</plain>
+        </string>
+        <string>
+            <plain>Не отдам я земному разгулу.</plain>
+        </string>
+        <string>
+            <plain>Начинаю новую жизнь!</plain>
+        </string>
+        <string>
+            <plain>Я счастливее всех на свете.</plain>
+        </string>
+        <string>
+            <plain>И напрасно кричат мне:</plain>
+        </string>
+        <string>
+            <plain>"Вернись!" - я иду к незакатному свету.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Начинаю новую жизнь!</plain>
+        </string>
+        <string>
+            <plain>Разорвались греха оковы.</plain>
+        </string>
+        <string>
+            <plain>В сердце крепко навек сплелись</plain>
+        </string>
+        <string>
+            <plain>Радость, счастье, свобода и Слово.</plain>
+        </string>
+    </verse>
+</song>

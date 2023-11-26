@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="518" name="В досуге ль за трудом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В досуге ль, за трудом –</plain>
+        </string>
+        <string>
+            <plain>Одна лишь мысль о том,</plain>
+        </string>
+        <string>
+            <plain>Что ближе с каждым днем</plain>
+        </string>
+        <string>
+            <plain>Ко мне родной мой вечный дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все ближе дом, все ближе дом!</plain>
+        </string>
+        <string>
+            <plain>Все ближе дом родной,</plain>
+        </string>
+        <string>
+            <plain>Все ближе, ближе славный дом!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все ближе вечный дом,</plain>
+        </string>
+        <string>
+            <plain>Где ждет меня Отец;</plain>
+        </string>
+        <string>
+            <plain>Уж слышу я псалом</plain>
+        </string>
+        <string>
+            <plain>Искупленных Христом сердец.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все ближе дом родной,</plain>
+        </string>
+        <string>
+            <plain>Престол любви Творца:</plain>
+        </string>
+        <string>
+            <plain>Там сброшу крест земной</plain>
+        </string>
+        <string>
+            <plain>Для славы дивного венца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все ближе дом родной,</plain>
+        </string>
+        <string>
+            <plain>Ко мне, Бог, ближе будь!</plain>
+        </string>
+        <string>
+            <plain>Когда споткнусь порой,</plain>
+        </string>
+        <string>
+            <plain>О мне, Господь, не позабудь.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Все ближе, ближе дом</plain>
+        </string>
+        <string>
+            <plain>И отдых дорогой!</plain>
+        </string>
+        <string>
+            <plain>В пути в стране чужой</plain>
+        </string>
+        <string>
+            <plain>Как сладостно мне знать о том!</plain>
+        </string>
+    </verse>
+</song>

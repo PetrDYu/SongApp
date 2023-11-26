@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2288" name="Пойди к своим скажи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пойди к своим, скажи,</plain>
+        </string>
+        <string>
+            <plain>Что ты Христом освобожден.</plain>
+        </string>
+        <string>
+            <plain>Пусть видят близкие твои,</plain>
+        </string>
+        <string>
+            <plain>Что Им ты обновлён.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойди к своим, скажи,</plain>
+        </string>
+        <string>
+            <plain>Что Бог с тобою сотворил,</plain>
+        </string>
+        <string>
+            <plain>Пусть пожелают и они,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Он их возродил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пойди к своим, скажи,</plain>
+        </string>
+        <string>
+            <plain>Как Он грехи твои простил,</plain>
+        </string>
+        <string>
+            <plain>Погибшего взыскал и спас</plain>
+        </string>
+        <string>
+            <plain>И раны исцелил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пойди к чужим и возвести</plain>
+        </string>
+        <string>
+            <plain>Им про любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>Что Он за них пришёл страдать,</plain>
+        </string>
+        <string>
+            <plain>Им жизнь дать навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скажи и дальним о кресте,</plain>
+        </string>
+        <string>
+            <plain>Что кровь Христос пролил.</plain>
+        </string>
+        <string>
+            <plain>За целый мир, чтоб всех спасти,</plain>
+        </string>
+        <string>
+            <plain>Он душу положил.</plain>
+        </string>
+    </verse>
+</song>

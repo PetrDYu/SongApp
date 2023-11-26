@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="215" name="Солнце Правды вошло в меня, Солнце Правды живет во мне" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Солнце Правды вошло в меня, Солнце Правды живет во мне.</plain>
+        </string>
+        <string>
+            <plain>Солнце Правды вошло в тебя, Солнце Правды, солнце Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, аллилуйя! Аллилуйя, аллилуйя!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слово Божье вошло в меня, Слово Божье живет во мне.</plain>
+        </string>
+        <string>
+            <plain>Слово Божье вошло в тебя, Слово Божье, Слово Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух Святой вошел в меня, Дух Святой живет во мне.</plain>
+        </string>
+        <string>
+            <plain>Дух Святой вошел в тебя, Дух Святой, Дух Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вера живая вошла в меня, Вера живая живет во мне.</plain>
+        </string>
+        <string>
+            <plain>Вера живая вошла в тебя, Вера живая, вера Христа.</plain>
+        </string>
+    </verse>
+</song>

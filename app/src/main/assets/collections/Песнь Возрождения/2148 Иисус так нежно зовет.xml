@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2148" name="Иисус так нежно зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус так нежно зовет,</plain>
+        </string>
+        <string>
+            <plain>Не может смотреть на твой гнет,</plain>
+        </string>
+        <string>
+            <plain>Он знает, что тебе нелегко,</plain>
+        </string>
+        <string>
+            <plain>Ведь ты так стоишь далеко.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И все пройдет,</plain>
+        </string>
+        <string>
+            <plain>И скорби, и печали.</plain>
+        </string>
+        <string>
+            <plain>Не унывай, а только,</plain>
+        </string>
+        <string>
+            <plain>Только верь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ведь Он любит тебя человек</plain>
+        </string>
+        <string>
+            <plain>Не хочет тебе чтоб ты погибал,</plain>
+        </string>
+        <string>
+            <plain>За тебя Он пошел на тот крест,</plain>
+        </string>
+        <string>
+            <plain>А все богатства отдал.</plain>
+        </string>
+    </verse>
+</song>

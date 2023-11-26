@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1750" name="Земные дни мелькая очень быстро" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Земные дни, мелькая очень быстро,</plain>
+        </string>
+        <string>
+            <plain>Всегда полны надежды, ожиданий</plain>
+        </string>
+        <string>
+            <plain>И, вспыхнув, угасают, словно искры,</plain>
+        </string>
+        <string>
+            <plain>В безбрежном океане мирозданья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сотвори сердце чистое, Боже,</plain>
+        </string>
+        <string>
+            <plain>И дух правый внутри обнови,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в мире, где я - лишь прохожий,</plain>
+        </string>
+        <string>
+            <plain>Жить по вечным законам любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В дороге жизни каждый ставит вехи,</plain>
+        </string>
+        <string>
+            <plain>Их точный счет известен только Богу.</plain>
+        </string>
+        <string>
+            <plain>А годы исчезают звонким эхом</plain>
+        </string>
+        <string>
+            <plain>И в вечности напомнят нам о многом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Склоняюсь пред Тобой с благодареньем,</plain>
+        </string>
+        <string>
+            <plain>В руках твоих - мои земные версты.</plain>
+        </string>
+        <string>
+            <plain>Благослови, Спаситель, восхожденье</plain>
+        </string>
+        <string>
+            <plain>И каждый в жизни сложный перекресток.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="900" name="Если невзгоды встретишь в пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если невзгоды встретишь в пути</plain>
+        </string>
+        <string>
+            <plain>И тяжело будет крест свой нести,</plain>
+        </string>
+        <string>
+            <plain>То обратись к Иисусу, мой друг,</plain>
+        </string>
+        <string>
+            <plain>Он скажет слово - ты не забудь:</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>"От Меня это было, мой брат и сестра,</plain>
+        </string>
+        <string>
+            <plain>Это Я приготовил сей путь для тебя.</plain>
+        </string>
+        <string>
+            <plain>Так иди ж по нему, не грусти,</plain>
+        </string>
+        <string>
+            <plain>не робей, Но Иисуса люби горячей".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если нуждою порабощен</plain>
+        </string>
+        <string>
+            <plain>Или в болезни дух твой смущен,</plain>
+        </string>
+        <string>
+            <plain>Если страдаешь невинно от всех,</plain>
+        </string>
+        <string>
+            <plain>В жизни нет счастья, нет и утех;</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если друзья тебя не поймут</plain>
+        </string>
+        <string>
+            <plain>И не окажут любовь и приют,</plain>
+        </string>
+        <string>
+            <plain>Если отвергнут ты будешь везде,</plain>
+        </string>
+        <string>
+            <plain>- Не отступай же, друг мой, в борьбе.</plain>
+        </string>
+    </verse>
+</song>

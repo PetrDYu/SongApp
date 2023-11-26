@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1568" name="О кто утешит на пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, кто утешит на пути</plain>
+        </string>
+        <string>
+            <plain>Среди земных невзгод.</plain>
+        </string>
+        <string>
+            <plain>Кто изнемогшему в пути</plain>
+        </string>
+        <string>
+            <plain>даст радость и покой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, о, Иисус, только Ты!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Во тьме устал бороться я.</plain>
+        </string>
+        <string>
+            <plain>Во мраке суеты.</plain>
+        </string>
+        <string>
+            <plain>Но кто же ободрит меня?</plain>
+        </string>
+        <string>
+            <plain>Иисус мой, только Ты!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твоя любовь меня влечет</plain>
+        </string>
+        <string>
+            <plain>Достичь мне высоты.</plain>
+        </string>
+        <string>
+            <plain>Но кто же к цели доведет?</plain>
+        </string>
+        <string>
+            <plain>Иисус мой, только Ты!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ни в ком не нахожу я здесь</plain>
+        </string>
+        <string>
+            <plain>Святейшей чистоты.</plain>
+        </string>
+        <string>
+            <plain>Но кто ж источник всех красот?</plain>
+        </string>
+        <string>
+            <plain>Иисус мой, только Ты!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, как прекрасен, Иисус,</plain>
+        </string>
+        <string>
+            <plain>В небесной славе Ты.</plain>
+        </string>
+        <string>
+            <plain>В Христовых ранах я лечусь,</plain>
+        </string>
+        <string>
+            <plain>Иисус мой, только Ты!</plain>
+        </string>
+    </verse>
+</song>

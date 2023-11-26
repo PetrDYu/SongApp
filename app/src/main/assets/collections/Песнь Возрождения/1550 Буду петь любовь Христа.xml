@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1550" name="Буду петь любовь Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Буду петь любовь Христа.</plain>
+        </string>
+        <string>
+            <plain>Умер Он от мук креста</plain>
+        </string>
+        <string>
+            <plain>За меня и за тебя,</plain>
+        </string>
+        <string>
+            <plain>Всех нас, грешных, возлюбя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Буду петь любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>Вознесут хвалу уста,</plain>
+        </string>
+        <string>
+            <plain>Умер Он, чтоб я мог жить,</plain>
+        </string>
+        <string>
+            <plain>По Его стопам ходить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прежде, чем мой слабый вздох.</plain>
+        </string>
+        <string>
+            <plain>Он меня услышал - Бог,</plain>
+        </string>
+        <string>
+            <plain>За меня Он слезы лил</plain>
+        </string>
+        <string>
+            <plain>И молитву возносил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Любовь! Как высока,</plain>
+        </string>
+        <string>
+            <plain>Необъятна широка,</plain>
+        </string>
+        <string>
+            <plain>Не вместить ту широту</plain>
+        </string>
+        <string>
+            <plain>И любви той полноту.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="198" name="Сам Твое дитя веди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сам Твое дитя веди,</plain>
+        </string>
+        <string>
+            <plain>Будь мне светом на пути.</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель и мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Слышишь каждый Ты мой вздох.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, Боже,</plain>
+        </string>
+        <string>
+            <plain>Сам меня всегда веди.</plain>
+        </string>
+        <string>
+            <plain>Никогда не дай сойти</plain>
+        </string>
+        <string>
+            <plain>С Твоего, Господь, пути.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Грех ли хочет соблазнить,</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель защитит,</plain>
+        </string>
+        <string>
+            <plain>Не боюсь я ничего,</plain>
+        </string>
+        <string>
+            <plain>Уповаю на Него.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верю, Ты хранишь всегда,</plain>
+        </string>
+        <string>
+            <plain>Не оставишь никогда,</plain>
+        </string>
+        <string>
+            <plain>В град небесный приведешь,</plain>
+        </string>
+        <string>
+            <plain>Там все слезы Сам отрешь.</plain>
+        </string>
+    </verse>
+</song>

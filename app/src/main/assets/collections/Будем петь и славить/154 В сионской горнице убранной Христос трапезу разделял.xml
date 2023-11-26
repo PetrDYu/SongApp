@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="154" name="В сионской горнице убранной Христос трапезу разделял" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В сионской горнице убранной Христос трапезу разделял.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И перед тем, как быть преданным, Он смерть Свою им</plain>
+        </string>
+        <string>
+            <plain>возвещал.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Возвещал им Свои скорби, что в эту ночь пойдет страдать,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И поведут Его к Пилату, и осудят, чтоб распять.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Последний раз, друзья, Я с вами Пасху эту совершу.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>С вами, верными друзьями, завет Свой новый заключу.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В завете новом завещаю любить друг друга, как себя.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>И все грехи Я вам прощаю, прощайте вы, врагов любя.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Предаю Я Свое тело, за вас Я в мир иду страдать.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>И кто воспримет Мое дело, тому страдать не миновать.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Вы вкушайте Мое тело, также пейте Мою кровь.</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Вы берите Мое дело, проповедуйте любовь.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Не преданье совершайте, соблюдайте не обряд,</plain>
+        </string>
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Но вы каждого наставьте, чтоб был в вере всякий брат.</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>А ты делай свое дело, – так Иуде Он сказал.</plain>
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Зачем родилось твое тело, лучше б света не видал.</plain>
+            <repeat id="7" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="9">
+        <string>
+            <plain>Ах, зачем ты поднял руку? Я всегда ведь был с тобой.</plain>
+        </string>
+        <string>
+            <repeat id="8" rep_rate="-1" is_opening="true" />
+            <plain>Ты же знал Мою науку, Я давал тебе покой.</plain>
+            <repeat id="8" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>10.  Вставайте, братья, и пойдемте на то место, где нас ждут.</plain>
+        </string>
+        <string>
+            <repeat id="9" rep_rate="-1" is_opening="true" />
+            <plain>Будьте бодры, в вере стойте, когда Меня от вас возьмут.</plain>
+            <repeat id="9" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>11. Мне должно пить сию чашу, Отца заветы исполнять,</plain>
+        </string>
+        <string>
+            <repeat id="10" rep_rate="-1" is_opening="true" />
+            <plain>Жизнь Свою отдать за вашу, всех виновных оправдать.</plain>
+            <repeat id="10" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>12. Воскрешу Я всех спасенных, находящихся в гробах,</plain>
+        </string>
+        <string>
+            <repeat id="11" rep_rate="-1" is_opening="true" />
+            <plain>И избавлю от пороков погибающих в грехах.</plain>
+            <repeat id="11" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

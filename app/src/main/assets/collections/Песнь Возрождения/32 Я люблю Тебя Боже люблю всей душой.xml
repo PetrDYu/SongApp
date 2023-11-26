@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="32" name="Я люблю Тебя Боже люблю всей душой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я люблю Тебя, Боже, люблю всей душой,</plain>
+        </string>
+        <string>
+            <plain>Но в груди моей мало огня.</plain>
+        </string>
+        <string>
+            <plain>И мой дух изнемог под житейской борьбой,</plain>
+        </string>
+        <string>
+            <plain>Одолела усталость меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет, нет, силы нет,</plain>
+        </string>
+        <string>
+            <plain>Боже мой, я молю:</plain>
+        </string>
+        <string>
+            <plain>Укрепи Ты меня,</plain>
+        </string>
+        <string>
+            <plain>Вся надежда моя на Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты зажги в моем сердце священный огонь,</plain>
+        </string>
+        <string>
+            <plain>Дай мне радость и счастие вновь.</plain>
+        </string>
+        <string>
+            <plain>Дай мне верным и твердым всегда быть во всем;</plain>
+        </string>
+        <string>
+            <plain>К моим ближним дай, Боже, любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И лукавый смущает и мучит меня,</plain>
+        </string>
+        <string>
+            <plain>Хочет душу мою обмануть;</plain>
+        </string>
+        <string>
+            <plain>Но Ты, Боже, скала и твердыня моя,</plain>
+        </string>
+        <string>
+            <plain>Ты не дай мне духовно уснуть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда Ты придешь осудить этот мир,</plain>
+        </string>
+        <string>
+            <plain>Мир греховный, порочный и злой,</plain>
+        </string>
+        <string>
+            <plain>Да войду, о Господь, я на брачный Твой пир,</plain>
+        </string>
+        <string>
+            <plain>В Твой прекрасный чертог золотой.</plain>
+        </string>
+    </verse>
+</song>

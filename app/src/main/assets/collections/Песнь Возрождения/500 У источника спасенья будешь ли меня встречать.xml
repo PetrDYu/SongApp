@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="500" name="У источника спасенья будешь ли меня встречать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У источника спасенья будешь ли меня встречать?</plain>
+        </string>
+        <string>
+            <plain>Там во славе наслажденья я смогу ль тебя обнять?</plain>
+        </string>
+        <string>
+            <plain>Там другие в звуках пенья будут мне привет слагать,</plain>
+        </string>
+        <string>
+            <plain>У источника спасенья будешь ли меня встречать?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, я встречу, где источник,</plain>
+        </string>
+        <string>
+            <plain>Да, тебя я встречу там,</plain>
+        </string>
+        <string>
+            <plain>Где течет живой источник,</plain>
+        </string>
+        <string>
+            <plain>Да, тебя я встречу там.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>У источника спасенья будешь ли меня встречать?</plain>
+        </string>
+        <string>
+            <plain>Радость с верными общенья там я лучше буду знать;</plain>
+        </string>
+        <string>
+            <plain>Но мне станет песнь приятней, что польется там рекой,</plain>
+        </string>
+        <string>
+            <plain>Небо станет необъятней, как услышу голос твой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У источника спасенья будешь ли меня встречать?</plain>
+        </string>
+        <string>
+            <plain>Слыша зов Христа, в тот день я стану там тебя искать.</plain>
+        </string>
+        <string>
+            <plain>Он меня там повстречает, Он меня обнимет Сам;</plain>
+        </string>
+        <string>
+            <plain>А источник засияет; встретишь ли меня ты там?</plain>
+        </string>
+    </verse>
+</song>

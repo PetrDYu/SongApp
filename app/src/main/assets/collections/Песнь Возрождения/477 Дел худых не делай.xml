@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="477" name="Дел худых не делай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дел худых не делай,</plain>
+        </string>
+        <string>
+            <plain>Зла не говори:</plain>
+        </string>
+        <string>
+            <plain>Дети мы Христовы,</plain>
+        </string>
+        <string>
+            <plain>На Него смотри.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Добр Иисус и кроток,</plain>
+        </string>
+        <string>
+            <plain>Свят и без вины;</plain>
+        </string>
+        <string>
+            <plain>Быть, как Он, святыми,</plain>
+        </string>
+        <string>
+            <plain>Дети, мы должны.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух недобрый ходит</plain>
+        </string>
+        <string>
+            <plain>Возле нас всегда;</plain>
+        </string>
+        <string>
+            <plain>Искусить нас хочет</plain>
+        </string>
+        <string>
+            <plain>С жаждою вреда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Духа зла не слушай,</plain>
+        </string>
+        <string>
+            <plain>Муки не страшись,</plain>
+        </string>
+        <string>
+            <plain>Злу сопротивляйся</plain>
+        </string>
+        <string>
+            <plain>И к добру стремись.</plain>
+        </string>
+    </verse>
+</song>

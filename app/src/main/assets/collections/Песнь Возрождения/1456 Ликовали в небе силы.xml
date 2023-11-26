@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1456" name="Ликовали в небе силы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ликовали в небе силы,</plain>
+        </string>
+        <string>
+            <plain>Хор чудесный воспевал,</plain>
+        </string>
+        <string>
+            <plain>Когда к жизни из могилы</plain>
+        </string>
+        <string>
+            <plain>Наш Спаситель восставал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Смерти, ада Победитель</plain>
+        </string>
+        <string>
+            <plain>Вечной славой воссиял.</plain>
+        </string>
+        <string>
+            <plain>От греха Освободитель,</plain>
+        </string>
+        <string>
+            <plain>Друг из тления восстал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Время чудное настало,</plain>
+        </string>
+        <string>
+            <plain>Пронеслася всюду весть,</plain>
+        </string>
+        <string>
+            <plain>Солнце правды воссияло,</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос воскрес.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В этот день, святой и чудный,</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто в мир пришел с небес,</plain>
+        </string>
+        <string>
+            <plain>Царь царей. Господь всесильный,</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос воскрес! Иисус воскрес!</plain>
+        </string>
+    </verse>
+</song>

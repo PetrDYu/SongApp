@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="513" name="Эта песня хвалы, словно птица, парит в небеса, ааа" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Эта песня хвалы, словно птица, парит в небеса, а-а-а.</plain>
+        </string>
+        <string>
+            <plain>Твоя жизнь, как река, в мое сердце течет, и душа поет для Тебя.</plain>
+        </string>
+        <string>
+            <plain>Эта песня хвалы, как весенний родник, как любви водопад.</plain>
+        </string>
+        <string>
+            <plain>Моя жизнь, как река, в мое сердце течет, я вдыхаю любви аромат.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Океан Божьей любви –</plain>
+        </string>
+        <string>
+            <plain>Нет начала в нем и нет конца.</plain>
+        </string>
+        <string>
+            <plain>Океан Божьей любви,</plain>
+        </string>
+        <string>
+            <plain>Безусловной любви Отца.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Слава, аллилуйя, слава, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя, аллилуйя.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

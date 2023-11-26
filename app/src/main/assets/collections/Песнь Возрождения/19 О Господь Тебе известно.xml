@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="19" name="О Господь Тебе известно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь! Тебе известно</plain>
+        </string>
+        <string>
+            <plain>Для чего теперь мы здесь;</plain>
+        </string>
+        <string>
+            <plain>Дай же в радости небесной</plain>
+        </string>
+        <string>
+            <plain>Чувств излить избыток весь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как Ты в прошлых днях недели</plain>
+        </string>
+        <string>
+            <plain>Восхотел всех нас водить,</plain>
+        </string>
+        <string>
+            <plain>Так всю жизнь веди нас к цели:</plain>
+        </string>
+        <string>
+            <plain>В царство вечности вступить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог Спаситель, Царь небесный!</plain>
+        </string>
+        <string>
+            <plain>Ты нас всех благослови,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мы в союзе тесном</plain>
+        </string>
+        <string>
+            <plain>Жили в мире и любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дай же нам благие нравы</plain>
+        </string>
+        <string>
+            <plain>В этой жизни суетной,</plain>
+        </string>
+        <string>
+            <plain>Чтоб достичь нам вечной славы</plain>
+        </string>
+        <string>
+            <plain>И наследовать покой.</plain>
+        </string>
+    </verse>
+</song>

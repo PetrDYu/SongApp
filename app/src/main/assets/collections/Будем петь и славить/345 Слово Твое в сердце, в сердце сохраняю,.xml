@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="345" name="Слово Твое в сердце, в сердце сохраняю," canon="false" text="" textRus="Ю. Пастернака" music="Давида Тель-Цура" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слово Твое в сердце, в сердце сохраняю,</plain>
+        </string>
+        <string>
+            <plain>Чтобы не грешить перед Тобой, Господь.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Благословен Ты, Господь, научи уставам Твоим.</plain>
+        </string>
+        <string>
+            <plain>Возвещу я повсюду Твои законы, Господь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>БЕ́-ЛИБИ ЦАФА́НТИ БЕ́-ЛИБИ ЦАФА́НТИ</plain>
+        </string>
+        <string>
+            <plain>И́МРАТЭХА́ ЛЭМА́АН ЛО ЭХТА́ ЛА́Х</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>БАРУ́Х АТА́ АДОНА́Й ЛАМДЭ́НИ ХУ́КЭЙХА́</plain>
+        </string>
+        <string>
+            <plain>БИ́СФАТА́Й СИПА́РТИ КОЛЬ МИШПЭТЭ́Й-ПИХА́</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

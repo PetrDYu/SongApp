@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1255" name="Нива вся белешенька стоит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нива вся белешенька стоит.</plain>
+        </string>
+        <string>
+            <plain>Золотые зерна осыпаются.</plain>
+        </string>
+        <string>
+            <plain>Только ветер жатву шевелит.</plain>
+        </string>
+        <string>
+            <plain>Но ничьи здесь спины не сгибаются.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Солнце еще жаркое горит.</plain>
+        </string>
+        <string>
+            <plain>богреет, ободрит работников.</plain>
+        </string>
+        <string>
+            <plain>Но никто на жатву не спешит.</plain>
+        </string>
+        <string>
+            <plain>Мало любящих ее охотников.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Где жнецы, где труженики дня?</plain>
+        </string>
+        <string>
+            <plain>На работу долго собираются.</plain>
+        </string>
+        <string>
+            <plain>Холодом уж веет на поля,</plain>
+        </string>
+        <string>
+            <plain>Дней уж лучших пусть не дожидаются.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Или вы способны пожинать</plain>
+        </string>
+        <string>
+            <plain>Лишь плоды мирского утешения.</plain>
+        </string>
+        <string>
+            <plain>Кто же будет Божью ниву жать,</plain>
+        </string>
+        <string>
+            <plain>Собирать плоды Его спасения?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Поспешим, о, милые друзья,</plain>
+        </string>
+        <string>
+            <plain>Собирать плоды Христова дела.</plain>
+        </string>
+        <string>
+            <plain>Наступает уж кончина дня,</plain>
+        </string>
+        <string>
+            <plain>Жатва долгожданная поспела.</plain>
+        </string>
+    </verse>
+</song>

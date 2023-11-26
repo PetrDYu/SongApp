@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="120" name="Воистину достойно Тебя прославлять, Всевышний," canon="false" text="" textRus="М. Винецкой" music="бр. Эфраима" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Воистину достойно Тебя прославлять, Всевышний,</plain>
+        </string>
+        <string>
+            <plain>Возвещать Твою милость утром и вечером правду Твою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>На лире десятиструнной</plain>
+        </string>
+        <string>
+            <plain>Достойно Тебя прославлять.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как Ты велик, Господь мой, как дивно Твое творенье!</plain>
+        </string>
+        <string>
+            <plain>Мне дел Твоих рук не постигнуть и мыслей Твоих не объять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как Ты высок, Господь мой! Враги Твои – прах пред Тобою.</plain>
+        </string>
+        <string>
+            <plain>Меня Ты возносишь, Боже, главу умащаешь мою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Муж праведный взрастает, цветет, словно кедр ливанский.</plain>
+        </string>
+        <string>
+            <plain>Он правду Твою возвещает. Твердыня его – Адонай.</plain>
+        </string>
+    </verse>
+</song>

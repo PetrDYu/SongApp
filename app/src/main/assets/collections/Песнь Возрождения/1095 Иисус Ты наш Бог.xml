@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1095" name="Иисус Ты наш Бог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, Ты наш Бог!</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты наш Царь!</plain>
+        </string>
+        <string>
+            <plain>Будь превознесен</plain>
+        </string>
+        <string>
+            <plain>И прославлен.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вместе мы Тебе сердце отдаём,</plain>
+        </string>
+        <string>
+            <plain>Господу, сидящему на троне.</plain>
+        </string>
+        <string>
+            <plain>Хвала, величье и власть</plain>
+        </string>
+        <string>
+            <plain>На небе и на земле!</plain>
+        </string>
+    </verse>
+</song>

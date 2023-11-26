@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1157" name="На крыльях могучих орлиных" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На крыльях могучих орлиных</plain>
+        </string>
+        <string>
+            <plain>Над морем житейским несусь,</plain>
+        </string>
+        <string>
+            <plain>На крыльях могучих орлиных</plain>
+        </string>
+        <string>
+            <plain>Я к вечности сердцем стремлюсь!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чрез горы, долины и нивы</plain>
+        </string>
+        <string>
+            <plain>Все выше я к небу лечу.</plain>
+        </string>
+        <string>
+            <plain>Несут меня мощные крылья -</plain>
+        </string>
+        <string>
+            <plain>На них я спокойно стою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Под мощными крыльями тихо</plain>
+        </string>
+        <string>
+            <plain>И чудно покоюся я,</plain>
+        </string>
+        <string>
+            <plain>Под ними приют мой надежный.</plain>
+        </string>
+        <string>
+            <plain>Под ними - защита моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть вьются враги надо мною.</plain>
+        </string>
+        <string>
+            <plain>Пусть целятся злобно в меня -</plain>
+        </string>
+        <string>
+            <plain>Могучи орлиные крылья.</plain>
+        </string>
+        <string>
+            <plain>Под ними царит тишина.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Укроюсь ли теми крылами.</plain>
+        </string>
+        <string>
+            <plain>Стою ли надежно на них,</plain>
+        </string>
+        <string>
+            <plain>Спокойно мне так и отрадно</plain>
+        </string>
+        <string>
+            <plain>В скитаниях долгих моих.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И весь мне понятен и ясен</plain>
+        </string>
+        <string>
+            <plain>Намеченный путь через мир.</plain>
+        </string>
+        <string>
+            <plain>На крыльях я чувствую силу,</plain>
+        </string>
+        <string>
+            <plain>Под крыльями царствует мир!</plain>
+        </string>
+    </verse>
+</song>

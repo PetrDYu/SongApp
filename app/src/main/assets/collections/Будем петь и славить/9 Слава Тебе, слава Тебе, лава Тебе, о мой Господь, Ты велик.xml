@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="9" name="Слава Тебе, слава Тебе, лава Тебе, о мой Господь, Ты велик" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Слава Тебе, слава Тебе, cлава Тебе, о мой Господь, Ты велик.</plain>
+        </string>
+        <string>
+            <plain>Слава Тебе, слава Тебе, cлава Тебе, о мой Господь и Бог.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Magnificat, magnificat, magnificat anima mea Dominum.</plain>
+        </string>
+        <string>
+            <plain>Magnificat, magnificat, magnificat anima mea!</plain>
+        </string>
+    </verse>
+</song>

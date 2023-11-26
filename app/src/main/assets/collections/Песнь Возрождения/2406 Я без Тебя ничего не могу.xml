@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2406" name="Я без Тебя ничего не могу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я без Тебя ничего не могу,</plain>
+        </string>
+        <string>
+            <plain>Ты просвещаешь всякую тьму.</plain>
+        </string>
+        <string>
+            <plain>Приди, Господь, излей Свой свет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Милость Твоя превыше небес,</plain>
+        </string>
+        <string>
+            <plain>Ты один Творец чудес.</plain>
+        </string>
+        <string>
+            <plain>Приди, Господь, Тебя прошу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я без Тебя ничего не могу,</plain>
+        </string>
+        <string>
+            <plain>О, изливай благодать Твою,</plain>
+        </string>
+        <string>
+            <plain>Мой Господь, Тебя прошу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В жертву себя Тебе отдаю,</plain>
+        </string>
+        <string>
+            <plain>Новую песнь Тебе воспою.</plain>
+        </string>
+        <string>
+            <plain>Прими, Господь, мою хвалу.</plain>
+        </string>
+    </verse>
+</song>

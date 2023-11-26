@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2280" name="Паломником я в стране далекой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Паломником я в стране далекой.</plain>
+        </string>
+        <string>
+            <plain>Когда обратно я соберусь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в темном мире не быть в потемках,</plain>
+        </string>
+        <string>
+            <plain>С Иисусом вместе домой вернусь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Паломник я, но вернусь домой.</plain>
+        </string>
+        <string>
+            <plain>Меня ждет милый край мой родной.</plain>
+        </string>
+        <string>
+            <plain>Чтоб светла стала страна родная,</plain>
+        </string>
+        <string>
+            <plain>С Иисусом вместе вернусь домой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Паломником я брожу по свету,</plain>
+        </string>
+        <string>
+            <plain>Господь повсюду меня ведет.</plain>
+        </string>
+        <string>
+            <plain>И славы трубы .запели, слышу:</plain>
+        </string>
+        <string>
+            <plain>Меня мой ангел всегда найдет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Устало тело, ведь пилигрим я,</plain>
+        </string>
+        <string>
+            <plain>В Небесном Царстве найду покой.</plain>
+        </string>
+        <string>
+            <plain>Господь дарует нам миг победы</plain>
+        </string>
+        <string>
+            <plain>И нас ведет Он вслед за Собой.</plain>
+        </string>
+    </verse>
+</song>

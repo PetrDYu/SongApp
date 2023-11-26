@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="612" name="Тихий праздничный час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихий, праздничный час...</plain>
+        </string>
+        <string>
+            <plain>Год прошел, год угас...</plain>
+        </string>
+        <string>
+            <plain>Новый год, новый год</plain>
+        </string>
+        <string>
+            <plain>Нам Всевышний дает!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Год прошел, ближе дом,</plain>
+        </string>
+        <string>
+            <plain>Ближе встреча с Отцом;</plain>
+        </string>
+        <string>
+            <plain>Друг, воспой, друг, воспой!</plain>
+        </string>
+        <string>
+            <plain>Ближе вечный покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Что с собой принесет</plain>
+        </string>
+        <string>
+            <plain>Нами встреченный год?</plain>
+        </string>
+        <string>
+            <plain>Смерть иль пир, смерть иль пир,</plain>
+        </string>
+        <string>
+            <plain>Бурю сердца иль мир?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что грядет - нам темно,</plain>
+        </string>
+        <string>
+            <plain>Но мы знаем одно:</plain>
+        </string>
+        <string>
+            <plain>С нами Тот, с нами Тот,</plain>
+        </string>
+        <string>
+            <plain>Кто нас к небу ведет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>С нами Вождь, полный сил,</plain>
+        </string>
+        <string>
+            <plain>Кто врага победил;</plain>
+        </string>
+        <string>
+            <plain>Он сулит, Он сулит</plain>
+        </string>
+        <string>
+            <plain>Нам охрану и щит.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И мы слышим в мольбе:</plain>
+        </string>
+        <string>
+            <plain>"Все ко благу тебе!</plain>
+        </string>
+        <string>
+            <plain>Не страшись, не страшись,</plain>
+        </string>
+        <string>
+            <plain>Только бодрствуй, молись!"</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Если горе - молись,</plain>
+        </string>
+        <string>
+            <plain>Если радость - стремись</plain>
+        </string>
+        <string>
+            <plain>Воспевать, воспевать</plain>
+        </string>
+        <string>
+            <plain>Божьих рук благодать.</plain>
+        </string>
+    </verse>
+</song>

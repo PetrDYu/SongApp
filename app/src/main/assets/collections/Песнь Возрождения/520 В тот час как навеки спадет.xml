@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="520" name="В тот час как навеки спадет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В тот час, как навеки спадет</plain>
+        </string>
+        <string>
+            <plain>Одежда земного бытья,</plain>
+        </string>
+        <string>
+            <plain>Что дух мой там в вечности ждет?</plain>
+        </string>
+        <string>
+            <plain>Там будут ли петь мне друзья?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Мир тебе" - там звучит</plain>
+        </string>
+        <string>
+            <plain>У входа к обилию благ;</plain>
+        </string>
+        <string>
+            <plain>Друг, тебя, друг, тебя</plain>
+        </string>
+        <string>
+            <plain>Приветствую я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Да, верю: собранья из тех,</plain>
+        </string>
+        <string>
+            <plain>Кто были здесь в мире со мной,</plain>
+        </string>
+        <string>
+            <plain>В обители вечных утех</plain>
+        </string>
+        <string>
+            <plain>Встречать меня выйдут с хвалой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Откроют пред мной ворота</plain>
+        </string>
+        <string>
+            <plain>Из дивных небесных камней,</plain>
+        </string>
+        <string>
+            <plain>Увижу я город Христа</plain>
+        </string>
+        <string>
+            <plain>При свете Господних очей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И пламень охватит мой дух.</plain>
+        </string>
+        <string>
+            <plain>И я, восхищеньем горя,</plain>
+        </string>
+        <string>
+            <plain>В собранье искупленных слуг</plain>
+        </string>
+        <string>
+            <plain>Прославлю Творца и Царя.</plain>
+        </string>
+    </verse>
+</song>

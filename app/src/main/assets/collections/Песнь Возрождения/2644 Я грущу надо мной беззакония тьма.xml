@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2644" name="Я грущу надо мной беззакония тьма" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я грущу, надо мной беззакония тьма</plain>
+        </string>
+        <string>
+            <plain>Распростерлась широким покровом</plain>
+        </string>
+        <string>
+            <plain>И тоскует, и рвется, и плачет душа,</plain>
+        </string>
+        <string>
+            <plain>Истомленная скорбью глубокой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я грущу, кто бы мог так утешить меня,</plain>
+        </string>
+        <string>
+            <plain>Успокоил бы сердце больное,</plain>
+        </string>
+        <string>
+            <plain>Кто б уменьшил жестокую ярость огня</plain>
+        </string>
+        <string>
+            <plain>И напомнил бы слово святое.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Никого, но Господь не оставит меня</plain>
+        </string>
+        <string>
+            <plain>В одиночестве жизни грядущей,</plain>
+        </string>
+        <string>
+            <plain>Среди бурь, среди мглы, среди жара огня</plain>
+        </string>
+        <string>
+            <plain>Он поддержит рукой всемогущей.</plain>
+        </string>
+    </verse>
+</song>

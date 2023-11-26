@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1194" name="Этот день этот день сотворил Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Этот день, этот день сотворил Господь, Сотворил Господь</plain>
+        </string>
+        <string>
+            <plain>На радость нам, на радость нам И веселие, и веселие.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Этот день сотворил Господь На радость нам и веселие,</plain>
+        </string>
+        <string>
+            <plain>Этот день, этот день сотворил Господь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Этот день, этот день Сотворил Господь, сотворил Господь,</plain>
+        </string>
+        <string>
+            <plain>Давайте все, кто во Христе, Петь Ему хвалу, петь Ему хвалу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Этот день сотворил Господь, На радость нам, на веселие.</plain>
+        </string>
+        <string>
+            <plain>Давайте все, кто во Христе, Петь Ему хвалу.</plain>
+        </string>
+    </verse>
+</song>

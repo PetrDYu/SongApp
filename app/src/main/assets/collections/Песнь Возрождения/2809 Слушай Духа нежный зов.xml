@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2809" name="Слушай Духа нежный зов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слушай Духа нежный зов:</plain>
+        </string>
+        <string>
+            <plain>«Твой ходатай - Христос».</plain>
+        </string>
+        <string>
+            <plain>Даст прощенье грехов</plain>
+        </string>
+        <string>
+            <plain>твой ходатай Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кровью омойся,</plain>
+        </string>
+        <string>
+            <plain>кровью Христа омойся,</plain>
+        </string>
+        <string>
+            <plain>кровью омойся,</plain>
+        </string>
+        <string>
+            <plain>кровью Христа дочиста (дочиста)!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Грешник, ныне ждет, скорбя,</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос;</plain>
+        </string>
+        <string>
+            <plain>Совершил все для тебя</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чашу горькую испил</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос;</plain>
+        </string>
+        <string>
+            <plain>Так оставь же этот мир;</plain>
+        </string>
+        <string>
+            <plain>твой ходатай - Христос.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>будешь ты в крови омыт:</plain>
+        </string>
+        <string>
+            <plain>твой ходатай - Христос;</plain>
+        </string>
+        <string>
+            <plain>Душу светом озарит</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Все готов тебе простить</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос;</plain>
+        </string>
+        <string>
+            <plain>Как велик в Своей любви</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Радостью благословит</plain>
+        </string>
+        <string>
+            <plain>твой ходатай, Христос;</plain>
+        </string>
+        <string>
+            <plain>Славой свыше осенит</plain>
+        </string>
+        <string>
+            <plain>твой ходатай Христос.</plain>
+        </string>
+    </verse>
+</song>

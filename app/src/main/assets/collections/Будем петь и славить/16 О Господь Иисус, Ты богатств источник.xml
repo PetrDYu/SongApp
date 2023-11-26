@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="16" name="О Господь Иисус, Ты богатств источник" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>О Господь Иисус, Ты – богатств источник.</plain>
+        </string>
+        <string>
+            <plain>Дай нам обнищать перед Тобою.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Confiance du coeur, source de lumière;</plain>
+        </string>
+        <string>
+            <plain>Jesus donne nous un coeur de pauvre.</plain>
+        </string>
+    </verse>
+</song>

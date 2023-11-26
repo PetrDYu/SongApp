@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2335" name="С Тобой Господь люблю быть на рассвете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С Тобой, Господь, люблю быть на рассвете.</plain>
+        </string>
+        <string>
+            <plain>Уходит ночь, проснулся шум дневной.</plain>
+        </string>
+        <string>
+            <plain>Мне лучше дня и мягче ночи летней</plain>
+        </string>
+        <string>
+            <plain>Сознаны сладкое, что Ты со мной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Наедине с Тобой вникаю в тайну</plain>
+        </string>
+        <string>
+            <plain>Дел рук Твоих и вечного добра.</plain>
+        </string>
+        <string>
+            <plain>Наедине я вижу Божью славу</plain>
+        </string>
+        <string>
+            <plain>В росы мерцанье, в свежести утра.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душа, усталая в борьбе суровой,</plain>
+        </string>
+        <string>
+            <plain>Спешит к Тебе с вечернего мольбой.</plain>
+        </string>
+        <string>
+            <plain>Ей сладок отдых под Твоим покровом,</plain>
+        </string>
+        <string>
+            <plain>Но, пробудясь, приятней быть с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Придёт, придёт обещанное утро,</plain>
+        </string>
+        <string>
+            <plain>Проснутся все, настанет день иной.</plain>
+        </string>
+        <string>
+            <plain>Господь тогда Своих прославит чудно,</plain>
+        </string>
+        <string>
+            <plain>С Ним будут вечно в радости святой.</plain>
+        </string>
+    </verse>
+</song>

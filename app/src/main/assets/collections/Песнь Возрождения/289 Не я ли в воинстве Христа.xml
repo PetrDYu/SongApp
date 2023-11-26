@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="289" name="Не я ли в воинстве Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не я ли в воинстве Христа</plain>
+        </string>
+        <string>
+            <plain>Хочу всю жизнь служить?</plain>
+        </string>
+        <string>
+            <plain>Не захочу ль я скорбь креста</plain>
+        </string>
+        <string>
+            <plain>С Ним радостно делить?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот капли крови на пути,</plain>
+        </string>
+        <string>
+            <plain>Но роз ли мне желать?</plain>
+        </string>
+        <string>
+            <plain>А вот хотят чрез ров идти,</plain>
+        </string>
+        <string>
+            <plain>Мне ль в страхе отставать?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Труда ли нет передо мной?</plain>
+        </string>
+        <string>
+            <plain>Не слышу ль зов к борьбе?</plain>
+        </string>
+        <string>
+            <plain>Иль мир красивой суетой</plain>
+        </string>
+        <string>
+            <plain>Сманит меня к себе?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нет, нет, кто хочет победить,</plain>
+        </string>
+        <string>
+            <plain>Тот должен в бой вступить.</plain>
+        </string>
+        <string>
+            <plain>Я в бой иду! Христос со мной!</plain>
+        </string>
+        <string>
+            <plain>Я - слабый - с Ним - герой.</plain>
+        </string>
+    </verse>
+</song>

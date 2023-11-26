@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="493" name="Отче наш, сущий на небесах" canon="false" text="" textRus="" music="С. Морозова" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Отче наш, сущий на небесах!</plain>
+        </string>
+        <string>
+            <plain>Да святится имя Твое,</plain>
+        </string>
+        <string>
+            <plain>Да приидет Царство Твое,</plain>
+        </string>
+        <string>
+            <plain>Отче наш, Отче наш!</plain>
+        </string>
+        <string>
+            <plain>Да будет воля Твоя</plain>
+        </string>
+        <string>
+            <plain>И на земле, как на небе,</plain>
+        </string>
+        <string>
+            <plain>Хлеб наш насущный подай</plain>
+        </string>
+        <string>
+            <plain>Нам на этот день.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>И прости нам все наши долги,</plain>
+        </string>
+        <string>
+            <plain>Как и мы прощаем всем</plain>
+        </string>
+        <string>
+            <plain>Должникам нашим,</plain>
+        </string>
+        <string>
+            <plain>Отче наш, Отче наш!</plain>
+        </string>
+        <string>
+            <plain>И не введи в искушенье,</plain>
+        </string>
+        <string>
+            <plain>Но избавь нас от лукавого.</plain>
+        </string>
+        <string>
+            <plain>Ибо Царство Твое и сила,</plain>
+        </string>
+        <string>
+            <plain>И слава во веки. Аминь.</plain>
+        </string>
+    </verse>
+</song>

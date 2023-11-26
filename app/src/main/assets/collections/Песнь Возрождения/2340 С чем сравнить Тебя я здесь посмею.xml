@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2340" name="С чем сравнить Тебя я здесь посмею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С чем сравнить Тебя я здесь посмею,</plain>
+        </string>
+        <string>
+            <plain>Не найти мне в мире лучших слов,</plain>
+        </string>
+        <string>
+            <plain>Ты прекрасней человеческих сынов,</plain>
+        </string>
+        <string>
+            <plain>Твое имя - вечная любовь</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Волосы - белая волна, Голос, как бурная река,</plain>
+        </string>
+        <string>
+            <plain>Бескрайний простор - Твой ласковый взор.</plain>
+        </string>
+        <string>
+            <plain>Волосы - белая волна, Голос, как бурная река.</plain>
+        </string>
+        <string>
+            <plain>В неё погружаюсь своею душой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Часто тучи солнце покрывают,</plain>
+        </string>
+        <string>
+            <plain>Я томлюсь усталою душой,</plain>
+        </string>
+        <string>
+            <plain>Вспомню лишь, Ты и во тьме сияещь,</plain>
+        </string>
+        <string>
+            <plain>Снова вижу образ неземной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скоро воспарим мы над землею,</plain>
+        </string>
+        <string>
+            <plain>Унесемся ввысь, где нету слез,</plain>
+        </string>
+        <string>
+            <plain>Наслаждаться вечно красотою</plain>
+        </string>
+        <string>
+            <plain>Ярче солнца светит там Христос.</plain>
+        </string>
+    </verse>
+</song>

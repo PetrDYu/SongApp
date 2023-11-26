@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="12" name="Открой сердца детей Своих" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Открой сердца детей Своих</plain>
+        </string>
+        <string>
+            <plain>И Сам войди, о Боже, в них!</plain>
+        </string>
+        <string>
+            <plain>Дай слово им Твое принять</plain>
+        </string>
+        <string>
+            <plain>И мир вкусить святой опять!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ведь слово Божье - мощный дух</plain>
+        </string>
+        <string>
+            <plain>И может исцелить недуг;</plain>
+        </string>
+        <string>
+            <plain>Оно спасенных веселит</plain>
+        </string>
+        <string>
+            <plain>И от паденья их хранит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала Тебе, о Боже мой,</plain>
+        </string>
+        <string>
+            <plain>Отец и Сын и Дух Святой!</plain>
+        </string>
+        <string>
+            <plain>Хвала за дар любви Твоей,</plain>
+        </string>
+        <string>
+            <plain>За слово жизни для людей.</plain>
+        </string>
+    </verse>
+</song>

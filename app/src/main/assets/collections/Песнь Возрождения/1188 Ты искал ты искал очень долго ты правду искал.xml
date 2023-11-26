@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1188" name="Ты искал ты искал очень долго ты правду искал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты искал, ты искал, очень долго ты правду искал.</plain>
+        </string>
+        <string>
+            <plain>Ты устал, не нашел, и надежду найти потерял.</plain>
+        </string>
+        <string>
+            <plain>Открывал тайники, испытал и обиду, и месть,</plain>
+        </string>
+        <string>
+            <plain>Безнадежно вздохнул - Ну а правда ведь все-таки есть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты искал, но лишь там, где сгустилась одна темнота,</plain>
+        </string>
+        <string>
+            <plain>Где корысти страстей, жизнь людей с молотка отдана.</plain>
+        </string>
+        <string>
+            <plain>Разве трудно понять, что и старых следов ее нет,</plain>
+        </string>
+        <string>
+            <plain>- Где насилье царит, и потоптан любви святой свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не вздыхай, но пойми: в неудачах твоя, друг, вина.</plain>
+        </string>
+        <string>
+            <plain>Где для правды удел выбрал лавры и крики "ура!".</plain>
+        </string>
+        <string>
+            <plain>Но она на земле в униженьи все также чиста,</plain>
+        </string>
+        <string>
+            <plain>И любовь их верна - их ты вместе найдешь у Христа.</plain>
+        </string>
+    </verse>
+</song>

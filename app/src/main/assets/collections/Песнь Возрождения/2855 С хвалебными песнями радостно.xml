@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2855" name="С хвалебными песнями радостно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С хвалебными песнями радостно</plain>
+        </string>
+        <string>
+            <plain>мы пришли в этот радостный час,</plain>
+        </string>
+        <string>
+            <plain>во славу Всевышнего льются они,</plain>
+        </string>
+        <string>
+            <plain>который печётся о нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспойте, воспойте!</plain>
+        </string>
+        <string>
+            <plain>Дары принесите Ему!</plain>
+        </string>
+        <string>
+            <plain>Воспойте, воспойте,</plain>
+        </string>
+        <string>
+            <plain>всем сердцем воздайте хвалу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нам солнце вещает о Божьей любви,</plain>
+        </string>
+        <string>
+            <plain>а звёзды о славе Его;</plain>
+        </string>
+        <string>
+            <plain>потоки нам благословений даны;</plain>
+        </string>
+        <string>
+            <plain>терпенье Его велико.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В святилище Божье мы не пришли</plain>
+        </string>
+        <string>
+            <plain>и радостно славим Его:</plain>
+        </string>
+        <string>
+            <plain>пусть будут дни жизни Ему отданы.</plain>
+        </string>
+        <string>
+            <plain>Душа, чти Его высоко!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="492" name="Грустны тягостны минуты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грустны, тягостны минуты.</plain>
+        </string>
+        <string>
+            <plain>Перед нами тленный прах.</plain>
+        </string>
+        <string>
+            <plain>Очи ясные сомкнуты,</plain>
+        </string>
+        <string>
+            <plain>Холод смерти на устах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Человека тело смертно,</plain>
+        </string>
+        <string>
+            <plain>Но зовет его Творец</plain>
+        </string>
+        <string>
+            <plain>В бессмертный край, в бессмертный край,</plain>
+        </string>
+        <string>
+            <plain>К жизни вечной, к жизни вечной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нам в привет уж не польется</plain>
+        </string>
+        <string>
+            <plain>Речь любви из уст немых;</plain>
+        </string>
+        <string>
+            <plain>Сердце больше не забьется</plain>
+        </string>
+        <string>
+            <plain>Трепетом тревог земных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Ты - земля, и в землю снова</plain>
+        </string>
+        <string>
+            <plain>Отойдешь, о человек!"</plain>
+        </string>
+        <string>
+            <plain>И свершается то слово</plain>
+        </string>
+        <string>
+            <plain>Над людьми из века в век.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но придет, настанет время,</plain>
+        </string>
+        <string>
+            <plain>И мы скажем: "Смерти нет!"</plain>
+        </string>
+        <string>
+            <plain>И воскреснет Божье племя</plain>
+        </string>
+        <string>
+            <plain>И взойдет бессмертный свет.</plain>
+        </string>
+    </verse>
+</song>

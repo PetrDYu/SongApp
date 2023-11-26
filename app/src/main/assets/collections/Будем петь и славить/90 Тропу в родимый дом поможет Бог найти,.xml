@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="90" name="Тропу в родимый дом поможет Бог найти," canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева." music="А. Ашикяна" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Тропу в родимый дом поможет Бог найти,</plain>
+        </string>
+        <string>
+            <plain>Свет истины Его наставит нас в пути,</plain>
+        </string>
+        <string>
+            <plain>Нас ждет на небесах Божественный чертог,</plain>
+        </string>
+        <string>
+            <plain>И нам не страшен путь, ведь с нами, с нами Бог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы знаем, путь тернист, мы знаем, труден путь,</plain>
+        </string>
+        <string>
+            <plain>Но силы нет такой, чтоб вспять нас повернуть.</plain>
+        </string>
+        <string>
+            <plain>Желанная страна сияет впереди.</plain>
+        </string>
+        <string>
+            <plain>Веди же нас, Господь, Своей стезей веди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дорога далека, споткнемся мы не раз,</plain>
+        </string>
+        <string>
+            <plain>Но твердою рукой Христос поддержит нас,</plain>
+        </string>
+        <string>
+            <plain>Он с нами средь невзгод пребудет до конца.</plain>
+        </string>
+        <string>
+            <plain>Веди же нас, Господь, в обители Отца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Морская глубина нам гибелью грозит,</plain>
+        </string>
+        <string>
+            <plain>Но в нашем челноке Христос Спаситель спит.</plain>
+        </string>
+        <string>
+            <plain>Восстань, Господь, восстань, стихию укроти,</plain>
+        </string>
+        <string>
+            <plain>Ты – истина, Ты – жизнь, Ты – наш оплот в пути.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

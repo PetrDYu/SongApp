@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2871" name="Бывает в жизни ты одинок" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бывает, в жизни ты одинок,</plain>
+        </string>
+        <string>
+            <plain>печалью сердце наполнено</plain>
+        </string>
+        <string>
+            <plain>- свой взгляд на небо ты подними:</plain>
+        </string>
+        <string>
+            <plain>там ведь отчизна, там лучший мир.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, направляй взор ты чаще к дому,</plain>
+        </string>
+        <string>
+            <plain>к своей отчизне на небесах;</plain>
+        </string>
+        <string>
+            <plain>оставь сомненья и все волненья,</plain>
+        </string>
+        <string>
+            <plain>о доме в небе не забывай!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда устанешь ты здесь в борьбе</plain>
+        </string>
+        <string>
+            <plain>и сердце словно в печи, в огне,</plain>
+        </string>
+        <string>
+            <plain>- то взгляд на небо дух оживит,</plain>
+        </string>
+        <string>
+            <plain>даст бодрость сердцу и укрепит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ещё немного, придём домой</plain>
+        </string>
+        <string>
+            <plain>и в вечной славе будем с Христом;</plain>
+        </string>
+        <string>
+            <plain>там нет печалей и нет забот,</plain>
+        </string>
+        <string>
+            <plain>твоя отчизна тебя там Ждёт.</plain>
+        </string>
+    </verse>
+</song>

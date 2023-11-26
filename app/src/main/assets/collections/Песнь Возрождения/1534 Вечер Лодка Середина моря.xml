@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1534" name="Вечер Лодка Середина моря" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечер... Лодка... Середина моря.</plain>
+        </string>
+        <string>
+            <plain>Ветер встречный... Волн соленый вкус.</plain>
+        </string>
+        <string>
+            <plain>В этом мире нет предела горю,</plain>
+        </string>
+        <string>
+            <plain>А для радости - один Иисус.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он один над жизнью нашей властен.</plain>
+        </string>
+        <string>
+            <plain>Он один - спасение души.</plain>
+        </string>
+        <string>
+            <plain>Он один помочь всегда согласен,</plain>
+        </string>
+        <string>
+            <plain>Ты к Нему за счастьем поспеши.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Гибнут в лодке в эту бурю люди.</plain>
+        </string>
+        <string>
+            <plain>Замер на устах молитвы стон.</plain>
+        </string>
+        <string>
+            <plain>В треволненьях наших грустных буден</plain>
+        </string>
+        <string>
+            <plain>Поспешит на помощь лишь Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть людей на свете миллионы.</plain>
+        </string>
+        <string>
+            <plain>Он один, и кто еще таков.</plain>
+        </string>
+        <string>
+            <plain>Кто, услышав жалобные стоны,</plain>
+        </string>
+        <string>
+            <plain>К нам спешит с простёртою рукой?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В горе мы беспомощны, как дети,</plain>
+        </string>
+        <string>
+            <plain>Нужен нам в печалях добрый друг.</plain>
+        </string>
+        <string>
+            <plain>"Боже, Боже, - плачем мы, - о, где Ты?</plain>
+        </string>
+        <string>
+            <plain>Нас согрей теплом Отцовских рук".</plain>
+        </string>
+    </verse>
+</song>

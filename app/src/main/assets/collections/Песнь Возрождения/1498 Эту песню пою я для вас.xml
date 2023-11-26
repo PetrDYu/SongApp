@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1498" name="Эту песню пою я для вас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Эту песню пою я для вас.</plain>
+        </string>
+        <string>
+            <plain>Дорогие мои друзья,</plain>
+        </string>
+        <string>
+            <plain>Я желаю сказать в этот час:</plain>
+        </string>
+        <string>
+            <plain>Будьте счастливы вы всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будьте счастливы.</plain>
+        </string>
+        <string>
+            <plain>Будьте счастливы,</plain>
+        </string>
+        <string>
+            <plain>Будьте счастливы вы всегда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Также хочется мне пожелать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб друг друга ценили вы.</plain>
+        </string>
+        <string>
+            <plain>Чтоб могли пребывать меж вас</plain>
+        </string>
+        <string>
+            <plain>Золотые плоды любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть Христос с вами в путь пойдет,</plain>
+        </string>
+        <string>
+            <plain>И легко будет вам идти;</plain>
+        </string>
+        <string>
+            <plain>Если крест будет ваш тяжел.</plain>
+        </string>
+        <string>
+            <plain>Бог поможет его вам нести.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слово Божье читайте вы.</plain>
+        </string>
+        <string>
+            <plain>Оно - помощь вам на пути.</plain>
+        </string>
+        <string>
+            <plain>Если все это будет у вас,</plain>
+        </string>
+        <string>
+            <plain>Счастье будет всегда меж вас.</plain>
+        </string>
+    </verse>
+</song>

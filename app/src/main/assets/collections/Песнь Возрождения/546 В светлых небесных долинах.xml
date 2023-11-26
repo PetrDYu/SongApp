@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="546" name="В светлых небесных долинах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В светлых небесных долинах</plain>
+        </string>
+        <string>
+            <plain>Нет ни печали, ни слез,</plain>
+        </string>
+        <string>
+            <plain>Смолкнут житейские бури,</plain>
+        </string>
+        <string>
+            <plain>Их усмирит Сам Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Нет там ни мрака, ни ночи,</plain>
+        </string>
+        <string>
+            <plain>День там не будет тускнеть,</plain>
+        </string>
+        <string>
+            <plain>Радости песни там льются,</plain>
+        </string>
+        <string>
+            <plain>Не о чем больше скорбеть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Странствуя здесь по пустыне,</plain>
+        </string>
+        <string>
+            <plain>Сердце так тяжко болит.</plain>
+        </string>
+        <string>
+            <plain>Боже, о Боже, дай силы</plain>
+        </string>
+        <string>
+            <plain>Мне устоять на пути!</plain>
+        </string>
+    </verse>
+</song>

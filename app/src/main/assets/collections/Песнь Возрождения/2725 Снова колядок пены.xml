@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2725" name="Снова колядок пены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Снова колядок пены</plain>
+        </string>
+        <string>
+            <plain>Нас за собой завет,</plain>
+        </string>
+        <string>
+            <plain>Дивное Сына рождены</plain>
+        </string>
+        <string>
+            <plain>Бог с небес нам шлет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, благоволение.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ангелов песнь послушай,</plain>
+        </string>
+        <string>
+            <plain>Вторят ей пастухи.</plain>
+        </string>
+        <string>
+            <plain>Жаждущий жизнь получит,</plain>
+        </string>
+        <string>
+            <plain>Чтоб за Христом идти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ясли примите в сердце,</plain>
+        </string>
+        <string>
+            <plain>Пусть там Христос живет.</plain>
+        </string>
+        <string>
+            <plain>Вырвавший жало смерти</plain>
+        </string>
+        <string>
+            <plain>Новую жизнь дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слава в вышних Богу,</plain>
+        </string>
+        <string>
+            <plain>Мир на земле,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, благоволение!</plain>
+        </string>
+    </verse>
+</song>

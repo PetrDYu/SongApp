@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3174" name="Приди к Христу ещё сегодня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди к Христу ещё сегодня,</plain>
+        </string>
+        <string>
+            <plain>о, не теряй же время зря!</plain>
+        </string>
+        <string>
+            <plain>Приди не завтра, а сегодня:</plain>
+        </string>
+        <string>
+            <plain>не забывай про день суда!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, спеши к Христу скорей</plain>
+        </string>
+        <string>
+            <plain>- найдёшь покой душе своей!</plain>
+        </string>
+        <string>
+            <plain>Зачем на левой стороне</plain>
+        </string>
+        <string>
+            <plain>погибнуть хочешь ты в огне?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди к Христу ещё сегодня!</plain>
+        </string>
+        <string>
+            <plain>Пройдёт благоприятный час.</plain>
+        </string>
+        <string>
+            <plain>Пожнёшь ты после дня Господня</plain>
+        </string>
+        <string>
+            <plain>всё, что посеешь ты сейчас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди к Христу ещё сегодня,</plain>
+        </string>
+        <string>
+            <plain>из плена вражьего уйди.</plain>
+        </string>
+        <string>
+            <plain>Приди из гибели к свободе,</plain>
+        </string>
+        <string>
+            <plain>благое иго ты возьми.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди к Христу ещё сегодня!</plain>
+        </string>
+        <string>
+            <plain>Взглянь, как молился Он в саду.</plain>
+        </string>
+        <string>
+            <plain>Покрылся лоб кровавым потом</plain>
+        </string>
+        <string>
+            <plain>от боли за твою вину.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Приди к Христу ещё сегодня,</plain>
+        </string>
+        <string>
+            <plain>о вечности подумай, друг!</plain>
+        </string>
+        <string>
+            <plain>Что будет, если ты без Бога</plain>
+        </string>
+        <string>
+            <plain>уйдёшь из этой жизни вдруг?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2997" name="Наставляйте все друг друга братья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наставляйте все друг друга, братья!</plain>
+        </string>
+        <string>
+            <plain>Будем все в сердцах своих тверды:</plain>
+        </string>
+        <string>
+            <plain>хоть придут тяжёлые гоненья,</plain>
+        </string>
+        <string>
+            <plain>будем Господу во всём верны.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Братья, в святости живите,</plain>
+        </string>
+        <string>
+            <plain>посвятите Господу себя;</plain>
+        </string>
+        <string>
+            <plain>все твёрдо стойте и боритесь,</plain>
+        </string>
+        <string>
+            <plain>всюду следуйте стопам Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Души многие ушли в погибель,</plain>
+        </string>
+        <string>
+            <plain>отступив от истины святой;</plain>
+        </string>
+        <string>
+            <plain>нас же к святости призвал Спаситель</plain>
+        </string>
+        <string>
+            <plain>и избавил нас от тьмы ночной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все в любви Христов ой пребывайте,</plain>
+        </string>
+        <string>
+            <plain>поношенья с Ним перенося,</plain>
+        </string>
+        <string>
+            <plain>повеленья Духа выполняйте,</plain>
+        </string>
+        <string>
+            <plain>- и Господь пребудет в вас всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Братья, верно до конца служите,</plain>
+        </string>
+        <string>
+            <plain>бодрствуйте с молитвою в сердцах,</plain>
+        </string>
+        <string>
+            <plain>от Христовых слов не отступайте,</plain>
+        </string>
+        <string>
+            <plain>- верных ждёт награда в небесах.</plain>
+        </string>
+    </verse>
+</song>

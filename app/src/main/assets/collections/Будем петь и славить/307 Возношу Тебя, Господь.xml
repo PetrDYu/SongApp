@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="307" name="Возношу Тебя, Господь" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Возношу Тебя, Господь!</plain>
+        </string>
+        <string>
+            <plain>Прославляю Тебя в песне!</plain>
+        </string>
+        <string>
+            <plain>Счастлив я, что Ты – мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Бог любви, Отец чудесный.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пришел на землю с небес путь показать,</plain>
+        </string>
+        <string>
+            <plain>Свой путь продолжил на крест мой грех забрать,</plain>
+        </string>
+        <string>
+            <plain>А с креста – в царство тьмы, а оттуда опять –</plain>
+        </string>
+        <string>
+            <plain>В небеса, чтоб нам сиять!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

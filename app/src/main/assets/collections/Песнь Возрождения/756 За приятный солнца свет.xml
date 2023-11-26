@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="756" name="За приятный солнца свет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За приятный солнца свет,</plain>
+        </string>
+        <string>
+            <plain>Чистый воздух, дар с небес,</plain>
+        </string>
+        <string>
+            <plain>За охрану с юных лет,</plain>
+        </string>
+        <string>
+            <plain>За поля, луга и лес –</plain>
+        </string>
+        <string>
+            <plain>Господу хвала! Господу хвала!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отче, благодарим</plain>
+        </string>
+        <string>
+            <plain>(Благодарим, за все благодарим).</plain>
+        </string>
+        <string>
+            <plain>Отче, благодарим</plain>
+        </string>
+        <string>
+            <plain>(Благодарим, за все благодарим).</plain>
+        </string>
+        <string>
+            <plain>Отче Небесный, благодарим</plain>
+        </string>
+        <string>
+            <plain>(Благодарим, за все благодарим, за все благодарим)!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За друзей в часы нужды,</plain>
+        </string>
+        <string>
+            <plain>Воду, хлеб, садов плоды;</plain>
+        </string>
+        <string>
+            <plain>За работу и досуг,</plain>
+        </string>
+        <string>
+            <plain>Жизни цель и мир вокруг –</plain>
+        </string>
+        <string>
+            <plain>Господу хвала! Господу хвала!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За сиянье чудных звезд,</plain>
+        </string>
+        <string>
+            <plain>Тихий сон, уют в домах,</plain>
+        </string>
+        <string>
+            <plain>За святую книгу книг,</plain>
+        </string>
+        <string>
+            <plain>За Отчизну в небесах –</plain>
+        </string>
+        <string>
+            <plain>Господу хвала! Господу хвала!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За родителей моих,</plain>
+        </string>
+        <string>
+            <plain>За любовь и верность их;</plain>
+        </string>
+        <string>
+            <plain>За Спасителя Христа,</plain>
+        </string>
+        <string>
+            <plain>Что открыл небес врата, -</plain>
+        </string>
+        <string>
+            <plain>Господу хвала! Господу хвала!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>За покоя славный день,</plain>
+        </string>
+        <string>
+            <plain>За любви и мира сень,</plain>
+        </string>
+        <string>
+            <plain>За Господень дом святой,</plain>
+        </string>
+        <string>
+            <plain>Где мы сходимся семьей, -</plain>
+        </string>
+        <string>
+            <plain>Господу хвала! Господу хвала!</plain>
+        </string>
+    </verse>
+</song>

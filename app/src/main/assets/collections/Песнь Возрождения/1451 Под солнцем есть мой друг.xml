@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1451" name="Под солнцем есть мой друг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Под солнцем есть, мой друг,</plain>
+        </string>
+        <string>
+            <plain>одна тропинка к счастью.</plain>
+        </string>
+        <string>
+            <plain>Она проходит чрез Голгофский старый холм.</plain>
+        </string>
+        <string>
+            <plain>Готов ли ты сегодня дать Христу согласье</plain>
+        </string>
+        <string>
+            <plain>Оставить грешный мир, последовав с крестом?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус все ждет и предлагает</plain>
+        </string>
+        <string>
+            <plain>Покой, блаженство рая</plain>
+        </string>
+        <string>
+            <plain>Свободно получить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не возвратить года, прожитые без Бога;</plain>
+        </string>
+        <string>
+            <plain>Как можно ныне зовом неба пренебречь?</plain>
+        </string>
+        <string>
+            <plain>Ты избери теперь спасения дорогу.</plain>
+        </string>
+        <string>
+            <plain>Чтоб завтра в землю нераскаянным не лечь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В последний день перед</plain>
+        </string>
+        <string>
+            <plain>Судьей весь мир восплачет</plain>
+        </string>
+        <string>
+            <plain>За то, что дар отверг</plain>
+        </string>
+        <string>
+            <plain>Божественной любви.</plain>
+        </string>
+        <string>
+            <plain>Поторопись к Христу</plain>
+        </string>
+        <string>
+            <plain>- минуты много значат -</plain>
+        </string>
+        <string>
+            <plain>Тебя простить готов</plain>
+        </string>
+        <string>
+            <plain>Он, только воззови.</plain>
+        </string>
+    </verse>
+</song>

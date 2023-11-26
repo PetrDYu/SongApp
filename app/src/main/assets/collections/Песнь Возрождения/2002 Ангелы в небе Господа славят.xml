@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2002" name="Ангелы в небе Господа славят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ангелы в небе</plain>
+        </string>
+        <string>
+            <plain>Господа славят,</plain>
+        </string>
+        <string>
+            <plain>Славу достойную</plain>
+        </string>
+        <string>
+            <plain>Богу поют, Богу поют:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вечная слава!</plain>
+        </string>
+        <string>
+            <plain>Вечная слава!</plain>
+        </string>
+        <string>
+            <plain>Вечная слава!</plain>
+        </string>
+        <string>
+            <plain>Слава Христу!</plain>
+        </string>
+        <string>
+            <plain>Слава Христу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочется с ангельским</plain>
+        </string>
+        <string>
+            <plain>пением слиться</plain>
+        </string>
+        <string>
+            <plain>В хоре искупленных,</plain>
+        </string>
+        <string>
+            <plain>спасённых Господом.</plain>
+        </string>
+        <string>
+            <plain>И сердце Господу,</plain>
+        </string>
+        <string>
+            <plain>Богу Единому,</plain>
+        </string>
+        <string>
+            <plain>Христу Спасителю</plain>
+        </string>
+        <string>
+            <plain>славу поёт, славу поёт:</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь на земле людей,</plain>
+        </string>
+        <string>
+            <plain>Церковь томится,</plain>
+        </string>
+        <string>
+            <plain>К небу стремится,</plain>
+        </string>
+        <string>
+            <plain>дух к Жениху влечёт.</plain>
+        </string>
+        <string>
+            <plain>О, гряди, Господи,</plain>
+        </string>
+        <string>
+            <plain>видишь, Невеста ждёт,</plain>
+        </string>
+        <string>
+            <plain>Тебе Единому</plain>
+        </string>
+        <string>
+            <plain>славу поёт, славу поёт:</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чудный, Прославленный,</plain>
+        </string>
+        <string>
+            <plain>Царственный Божий Сын,</plain>
+        </string>
+        <string>
+            <plain>Дивный Христос Господь</plain>
+        </string>
+        <string>
+            <plain>в небе нас ждёт</plain>
+        </string>
+        <string>
+            <plain>И сердце Господу,</plain>
+        </string>
+        <string>
+            <plain>Богу Единому,</plain>
+        </string>
+        <string>
+            <plain>Христу Спасителю</plain>
+        </string>
+        <string>
+            <plain>славу поёт, славу поёт:</plain>
+        </string>
+    </verse>
+</song>

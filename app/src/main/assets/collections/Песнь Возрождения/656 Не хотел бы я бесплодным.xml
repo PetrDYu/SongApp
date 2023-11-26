@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="656" name="Не хотел бы я бесплодным" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не хотел бы я бесплодным</plain>
+        </string>
+        <string>
+            <plain>К трону Господа прийти,</plain>
+        </string>
+        <string>
+            <plain>Хоть одну хотел бы душу,-</plain>
+        </string>
+        <string>
+            <plain>Сноп один в руках нести.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не хотел бы я бесплодным</plain>
+        </string>
+        <string>
+            <plain>К трону Господа прийти,</plain>
+        </string>
+        <string>
+            <plain>Хоть одну хотел бы душу</plain>
+        </string>
+        <string>
+            <plain>Иисусу принести.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус мой - Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Смерти ночь мне не страшна,</plain>
+        </string>
+        <string>
+            <plain>Но пустым пред Ним явиться,-</plain>
+        </string>
+        <string>
+            <plain>Вот что так страшит меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если б мне года былые</plain>
+        </string>
+        <string>
+            <plain>Дано было возвратить,</plain>
+        </string>
+        <string>
+            <plain>Мне и радостью, и счастьем</plain>
+        </string>
+        <string>
+            <plain>Было б Господу служить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, трудитесь, дети Божьи,</plain>
+        </string>
+        <string>
+            <plain>День проходит, ночь близка;</plain>
+        </string>
+        <string>
+            <plain>И, пока не поздно, души</plain>
+        </string>
+        <string>
+            <plain>Вы спасайте для Христа.</plain>
+        </string>
+    </verse>
+</song>

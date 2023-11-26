@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="704" name="Бог любви на путь меня наставил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог любви на путь меня наставил;</plain>
+        </string>
+        <string>
+            <plain>Долго я во тьме один блуждал, -</plain>
+        </string>
+        <string>
+            <plain>Сам Господь теперь меня избавил,</plain>
+        </string>
+        <string>
+            <plain>Светом свыше путь мой осиял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вижу край чудесный,</plain>
+        </string>
+        <string>
+            <plain>Вечный дом небесный,</plain>
+        </string>
+        <string>
+            <plain>Радостно туда стремлюсь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как звезда, что утро предвещает</plain>
+        </string>
+        <string>
+            <plain>Среди ночи здесь в земной стране,</plain>
+        </string>
+        <string>
+            <plain>Так Господне слово мне сияет</plain>
+        </string>
+        <string>
+            <plain>И вещает о великом дне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страх и ужас часто обнимают,</plain>
+        </string>
+        <string>
+            <plain>Но Господь в опасности хранит,</plain>
+        </string>
+        <string>
+            <plain>Мир дает и душу ободряет,</plain>
+        </string>
+        <string>
+            <plain>Силу, радость в сердце мне вселит.</plain>
+        </string>
+    </verse>
+</song>

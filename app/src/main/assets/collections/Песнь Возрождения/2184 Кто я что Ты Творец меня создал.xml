@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2184" name="Кто я что Ты Творец меня создал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто я, что Ты, Творец, меня создал</plain>
+        </string>
+        <string>
+            <plain>Частицею величья Своего?</plain>
+        </string>
+        <string>
+            <plain>И в книгу жизни имя записал</plain>
+        </string>
+        <string>
+            <plain>Задолго до рожденья моего.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто я, что Ты так высоко вознес меня,</plain>
+        </string>
+        <string>
+            <plain>Что сыном для Себя избрал?</plain>
+        </string>
+        <string>
+            <plain>Как мне благодарить Тебя, Христос,</plain>
+        </string>
+        <string>
+            <plain>За все, за все, что Ты так щедро дал?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто я, что Ты так возлюбил меня</plain>
+        </string>
+        <string>
+            <plain>До смерти крестной, до Голгофских мук?</plain>
+        </string>
+        <string>
+            <plain>И ныне в мире от невзгод храня,</plain>
+        </string>
+        <string>
+            <plain>Не выпускаешь из незримых рук.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто я, что Ты, Господь, так благ ко мне,</plain>
+        </string>
+        <string>
+            <plain>Прощаешь грех мой и даешь покой?</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь и милость в каждом дне</plain>
+        </string>
+        <string>
+            <plain>Незыблемы, как небо, надо мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто я, что Ты по слову Твоему</plain>
+        </string>
+        <string>
+            <plain>Мне матери дороже и нежней?</plain>
+        </string>
+        <string>
+            <plain>Кто боль наносит сердцу моему,</plain>
+        </string>
+        <string>
+            <plain>Касается зениц Твоих очей.</plain>
+        </string>
+    </verse>
+</song>

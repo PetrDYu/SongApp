@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2975" name="Господь придет уж скоро в величестве Своем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь придет уж скоро в величестве Своем,</plain>
+        </string>
+        <string>
+            <plain>чтоб взять Своих на небо в чудесный, вечный дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы руки поднимаем победно, Бог, к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты у двери, мы знаем, чтоб верных взять к Себе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, кто с восторгом сможем поднять тогда свой взор,</plain>
+        </string>
+        <string>
+            <plain>без трепета и страха узреть Судьи престол?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А грешники воскликнут: «О горы, скройте нас!»</plain>
+        </string>
+        <string>
+            <plain>Возрадуются с Богом спасенные в тот час.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сегодня за победу я славлю здесь Творца.</plain>
+        </string>
+        <string>
+            <plain>Красу небес увидеть хочу всем сердцем я.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Разлук мы знать не будем там, дома у Христа;</plain>
+        </string>
+        <string>
+            <plain>там горя и страданий не будет никогда.</plain>
+        </string>
+    </verse>
+</song>

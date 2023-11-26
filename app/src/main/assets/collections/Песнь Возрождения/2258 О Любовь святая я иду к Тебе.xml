@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2258" name="О Любовь святая я иду к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Любовь святая, я иду к Тебе</plain>
+        </string>
+        <string>
+            <plain>И молю, страдая; вновь приблизь к Себе.</plain>
+        </string>
+        <string>
+            <plain>Жизнь - одно страданье здесь, в скорбях забот.</plain>
+        </string>
+        <string>
+            <plain>Всё моё скитанье, как мираж, пройдёт.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, источник дивный льёт поток живой</plain>
+        </string>
+        <string>
+            <plain>В сердце мне обильной радостью святой,</plain>
+        </string>
+        <string>
+            <plain>Всё возьми стремлены, жизнь возьми мою,</plain>
+        </string>
+        <string>
+            <plain>К свету избавленья дух влеки, молю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Любовь святая, к свету Твоему</plain>
+        </string>
+        <string>
+            <plain>Дай прильнуть, страдая, к сердцу Твоему.</plain>
+        </string>
+        <string>
+            <plain>На крылах духовных дай уйти скорей</plain>
+        </string>
+        <string>
+            <plain>Прочь от уз греховных, в Край, где нет скорбей.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="414" name="Я у брега погребенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я у брега погребенья</plain>
+        </string>
+        <string>
+            <plain>У могилы водяной;</plain>
+        </string>
+        <string>
+            <plain>В жертву Богу без сомненья</plain>
+        </string>
+        <string>
+            <plain>Отдаюсь я всей душой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, прими меня, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>В Церковь верную Свою;</plain>
+        </string>
+        <string>
+            <plain>Верю я, мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>В кровь пролитую Твою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердцем чистым перед Богом</plain>
+        </string>
+        <string>
+            <plain>Обещаюсь я ходить</plain>
+        </string>
+        <string>
+            <plain>И Его священным словом</plain>
+        </string>
+        <string>
+            <plain>Совесть добрую хранить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В жизни духа обновленья</plain>
+        </string>
+        <string>
+            <plain>Жажду Господу служить,</plain>
+        </string>
+        <string>
+            <plain>Возвещать Его спасенье,</plain>
+        </string>
+        <string>
+            <plain>К Богу грешных приводить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кончив труд свой, в вечность рая</plain>
+        </string>
+        <string>
+            <plain>Радостной войду душой,</plain>
+        </string>
+        <string>
+            <plain>Богу славы воспевая,</plain>
+        </string>
+        <string>
+            <plain>Песнь победную с хвалой.</plain>
+        </string>
+    </verse>
+</song>

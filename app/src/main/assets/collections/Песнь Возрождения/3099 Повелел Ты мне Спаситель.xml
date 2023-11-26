@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3099" name="Повелел Ты мне Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Повелел Ты мне, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>«Крест возьми, иди за Мной!»</plain>
+        </string>
+        <string>
+            <plain>- Все грехи оставить должен я,</plain>
+        </string>
+        <string>
+            <plain>чтоб в небе жить с Тобой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Весь я Твой, Иисус мой</plain>
+        </string>
+        <string>
+            <plain>верный, Ты простил вину мою.</plain>
+        </string>
+        <string>
+            <plain>Душу я Тебе и тело</plain>
+        </string>
+        <string>
+            <plain>на служенье отдаю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не могу я благодати</plain>
+        </string>
+        <string>
+            <plain>удостоиться Твоей,</plain>
+        </string>
+        <string>
+            <plain>пока всё я не оставлю,</plain>
+        </string>
+        <string>
+            <plain>чтоб идти стезёй Твоей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Должен умереть для славы</plain>
+        </string>
+        <string>
+            <plain>и для дружбы с миром я,</plain>
+        </string>
+        <string>
+            <plain>всей душой Тебе отдаться,</plain>
+        </string>
+        <string>
+            <plain>чтоб наполнил Ты меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Взял свой крест и за Тобою</plain>
+        </string>
+        <string>
+            <plain>я иду, Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>Для Тебя я всё оставил</plain>
+        </string>
+        <string>
+            <plain>и в Тебе нашёл покой.</plain>
+        </string>
+    </verse>
+</song>

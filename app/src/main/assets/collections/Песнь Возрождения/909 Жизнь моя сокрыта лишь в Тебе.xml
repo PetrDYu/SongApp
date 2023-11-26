@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="909" name="Жизнь моя сокрыта лишь в Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь моя сокрыта лишь в Тебе,</plain>
+        </string>
+        <string>
+            <plain>И на всем моем пути земном</plain>
+        </string>
+        <string>
+            <plain>Я нуждаюсь, мой Господь, в Тебе</plain>
+        </string>
+        <string>
+            <plain>Утром, ночью, вечером и днем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты мой дух любовию согрей,</plain>
+        </string>
+        <string>
+            <plain>Разум и сознанье освяти.</plain>
+        </string>
+        <string>
+            <plain>Помоги войти мне в рая дверь,</plain>
+        </string>
+        <string>
+            <plain>За Тобою данный крест нести.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Часто нету сил вперед идти,</plain>
+        </string>
+        <string>
+            <plain>Дух и тело часто устает.</plain>
+        </string>
+        <string>
+            <plain>Помоги на жизненном пути,</plain>
+        </string>
+        <string>
+            <plain>Забывая скорбь, идти вперед.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть тяжелым кажется мне путь,</plain>
+        </string>
+        <string>
+            <plain>Но всегда лишь Ты меня веди,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не смог я на пути уснуть,</plain>
+        </string>
+        <string>
+            <plain>Мимо Ханаанских врат пройти.</plain>
+        </string>
+    </verse>
+</song>

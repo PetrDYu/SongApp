@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2978" name="Славьте спасенье Что за любовь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Славьте спасенье! Что за любовь:</plain>
+        </string>
+        <string>
+            <plain>небо оставив, Сын к нам пришел!</plain>
+        </string>
+        <string>
+            <plain>О, что за милость Бог оказал тем,</plain>
+        </string>
+        <string>
+            <plain>что спасенье в Сыне нам дал!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте спасение кровью Христа,</plain>
+        </string>
+        <string>
+            <plain>славьте спасение, славьте всегда!</plain>
+        </string>
+        <string>
+            <plain>В духе воспойте, в единстве святом</plain>
+        </string>
+        <string>
+            <plain>песни Иисусу - спасенье лишь в Нем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славьте спасенье! Воля Отца,</plain>
+        </string>
+        <string>
+            <plain>чтобы в любви горели сердца.</plain>
+        </string>
+        <string>
+            <plain>В нем мы блаженны, мир в Нем нашли,</plain>
+        </string>
+        <string>
+            <plain>верим как дети Слову здесь мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славьте спасенье! Агнец - Христос</plain>
+        </string>
+        <string>
+            <plain>смертью прощенье людям принес.</plain>
+        </string>
+        <string>
+            <plain>И, освященный чрез Его кровь,</plain>
+        </string>
+        <string>
+            <plain>песнь о спасении я пою вновь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Славьте спасенье! Жаром любви</plain>
+        </string>
+        <string>
+            <plain>души наполнил, Господи, Ты.</plain>
+        </string>
+        <string>
+            <plain>Льётся потоком, словно река,</plain>
+        </string>
+        <string>
+            <plain>радость с небес в наши сердца.</plain>
+        </string>
+    </verse>
+</song>

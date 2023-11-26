@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2977" name="В небесах в святых просторах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В небесах, в святых просторах</plain>
+        </string>
+        <string>
+            <plain>хоры ангелов поют;</plain>
+        </string>
+        <string>
+            <plain>песни их так благозвучны</plain>
+        </string>
+        <string>
+            <plain>- эхо их мы слышим тут.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Песни сладостные льются</plain>
+        </string>
+        <string>
+            <plain>громко с ангельских высот.</plain>
+        </string>
+        <string>
+            <plain>Принесем хвалу Иисусу</plain>
+        </string>
+        <string>
+            <plain>- так желает наш Господь;</plain>
+        </string>
+        <string>
+            <plain>Он избрал нас - Свой народ!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как ликуют наши души,</plain>
+        </string>
+        <string>
+            <plain>как любовь влечет туда,</plain>
+        </string>
+        <string>
+            <plain>где мы встретим всех спасенных,</plain>
+        </string>
+        <string>
+            <plain>там на небе у Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>«Свят Господь!» - они взывают,</plain>
+        </string>
+        <string>
+            <plain>громко их хвала звучит;</plain>
+        </string>
+        <string>
+            <plain>отражаясь от престола,</plain>
+        </string>
+        <string>
+            <plain>отзвук эха к нам летит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смысл небесных песнопений</plain>
+        </string>
+        <string>
+            <plain>мы все глубже познаем,</plain>
+        </string>
+        <string>
+            <plain>со спасенными мы вместе</plain>
+        </string>
+        <string>
+            <plain>песни Господу поем.</plain>
+        </string>
+    </verse>
+</song>

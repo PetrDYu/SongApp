@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2508" name="О Боже Отче наш благой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Боже, Отче наш благой,</plain>
+        </string>
+        <string>
+            <plain>Хвала, хвала Тебе!</plain>
+        </string>
+        <string>
+            <plain>3а всякий дар любви Твоей,</plain>
+        </string>
+        <string>
+            <plain>За помощь нам в труде.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Престол Твой, Боже, в небесах,</plain>
+        </string>
+        <string>
+            <plain>Во славе неземной;</plain>
+        </string>
+        <string>
+            <plain>Ты держишь все в Своих руках,</plain>
+        </string>
+        <string>
+            <plain>Весь мир живет Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твоя любовь мне жизнь дала,</plain>
+        </string>
+        <string>
+            <plain>Спасает и хранит;</plain>
+        </string>
+        <string>
+            <plain>За все Господь, Тебе хвала</plain>
+        </string>
+        <string>
+            <plain>В моей душе звучит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как милой птичке сердцу мил</plain>
+        </string>
+        <string>
+            <plain>Зеленый лес и луг,</plain>
+        </string>
+        <string>
+            <plain>Так в светлый край, где нет могил,</plain>
+        </string>
+        <string>
+            <plain>Влечет меня Твой Дух.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Прими хвалу, Создатель мой,</plain>
+        </string>
+        <string>
+            <plain>За доброту Твою,</plain>
+        </string>
+        <string>
+            <plain>И за Голгофский подвиг Твой</plain>
+        </string>
+        <string>
+            <plain>Тебе хвалу пою.</plain>
+        </string>
+    </verse>
+</song>

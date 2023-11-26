@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1100" name="Величайте Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Величайте Господа,</plain>
+        </string>
+        <string>
+            <plain>Он достоин похвалы!</plain>
+        </string>
+        <string>
+            <plain>Он достоин похвалы!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все грехи мои простил и оправдал меня,</plain>
+        </string>
+        <string>
+            <plain>Все грехи мои простил и оправдал меня.</plain>
+        </string>
+        <string>
+            <plain>Осанна! Будь благословен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты - моя скала,</plain>
+        </string>
+        <string>
+            <plain>Скала спасенья!</plain>
+        </string>
+        <string>
+            <plain>Скала спасенья!</plain>
+        </string>
+    </verse>
+</song>

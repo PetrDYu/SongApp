@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1232" name="Иисус победитель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус - победитель,</plain>
+        </string>
+        <string>
+            <plain>Иисус - победитель,</plain>
+        </string>
+        <string>
+            <plain>Взял мои болезни,</plain>
+        </string>
+        <string>
+            <plain>Грехи вознёс на крест.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус - победитель,</plain>
+        </string>
+        <string>
+            <plain>Иисус - победитель.</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе за Сына,</plain>
+        </string>
+        <string>
+            <plain>Бог-Отец.</plain>
+        </string>
+    </verse>
+</song>

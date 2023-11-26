@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3281" name="Без дороги без света надежды" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Без дороги, без света, надежды</plain>
+        </string>
+        <string>
+            <plain>был заблудшим в ночной темноте,</plain>
+        </string>
+        <string>
+            <plain>но нашёл меня там мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>добрым Пастырем стал Он здесь мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Его благодать и верность</plain>
+        </string>
+        <string>
+            <plain>и чудная любовь будут следовать</plain>
+        </string>
+        <string>
+            <plain>всю жизнь со мной,</plain>
+        </string>
+        <string>
+            <plain>всю жизнь со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть заботы порою так давят,</plain>
+        </string>
+        <string>
+            <plain>и в страданиях стонет душа,</plain>
+        </string>
+        <string>
+            <plain>но мой Пастырь меня оживит вновь,</plain>
+        </string>
+        <string>
+            <plain>исцелит мои раны всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если чрез темноту путь проходит,</plain>
+        </string>
+        <string>
+            <plain>верю: близок Иисус и тогда,</plain>
+        </string>
+        <string>
+            <plain>Своей сильной рукой поведёт Он,</plain>
+        </string>
+        <string>
+            <plain>Его помощи рад буду я.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Хочу славить за это и чтить</plain>
+        </string>
+        <string>
+            <plain>Его всегда, ежедневно хвалу приносить!</plain>
+        </string>
+        <string>
+            <plain>Его благость и верность и чудная любовь</plain>
+        </string>
+        <string>
+            <plain>будут следовать всю жизнь со мной,</plain>
+        </string>
+        <string>
+            <plain>будут следовать всю жизнь со мной.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3055" name="Я Христом богат безмерно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я Христом богат безмерно,</plain>
+        </string>
+        <string>
+            <plain>Он - сокровище моё!</plain>
+        </string>
+        <string>
+            <plain>Сердце так моё довольно,</plain>
+        </string>
+        <string>
+            <plain>что не жаждет ничего.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мне Христос мой утоляет</plain>
+        </string>
+        <string>
+            <plain>жажду в жизни сей сполна;</plain>
+        </string>
+        <string>
+            <plain>в Нём - надежда, радость, счастье,</plain>
+        </string>
+        <string>
+            <plain>в Нём отрада вся моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мне Христос - залог блаженства,</plain>
+        </string>
+        <string>
+            <plain>якорь крепкий для души:</plain>
+        </string>
+        <string>
+            <plain>он и в шторм меня удержит,</plain>
+        </string>
+        <string>
+            <plain>сильным волнам вопреки.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Во Христе теперь источник</plain>
+        </string>
+        <string>
+            <plain>удовольствий всех моих,</plain>
+        </string>
+        <string>
+            <plain>радостей невыразимых</plain>
+        </string>
+        <string>
+            <plain>- в мире не найти таких.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он - мой дрогой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>жизнь отдавший за меня;</plain>
+        </string>
+        <string>
+            <plain>от оков греха избавил,</plain>
+        </string>
+        <string>
+            <plain>стал Его я навсегда.</plain>
+        </string>
+    </verse>
+</song>

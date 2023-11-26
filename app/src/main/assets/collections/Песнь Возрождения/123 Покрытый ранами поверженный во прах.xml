@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="123" name="Покрытый ранами поверженный во прах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Покрытый ранами, поверженный во прах</plain>
+        </string>
+        <string>
+            <plain>Лежал я при пути в томленье и слезах</plain>
+        </string>
+        <string>
+            <plain>И думал про себя в тоске невыразимой:</plain>
+        </string>
+        <string>
+            <plain>"О, где моя родня? Где близкий, где любимый?"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И много мимо шло. Но что ж, никто из них</plain>
+        </string>
+        <string>
+            <plain>Не думал облегчить тяжелых ран моих;</plain>
+        </string>
+        <string>
+            <plain>Иной бы и желал, да вдаль его манила</plain>
+        </string>
+        <string>
+            <plain>Житейской суеты губительная сила.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иных пугал вид ран и мой тяжелый стон.</plain>
+        </string>
+        <string>
+            <plain>Уж мной овладевал холодной смерти сон;</plain>
+        </string>
+        <string>
+            <plain>Уж на устах моих стенанья замирали,</plain>
+        </string>
+        <string>
+            <plain>В тускнеющих глазах уж слезы застывали.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но вот пришел Один, склонился надо мной</plain>
+        </string>
+        <string>
+            <plain>И слезы мне отер спасительной рукой.</plain>
+        </string>
+        <string>
+            <plain>Он был неведом мне, но, полн святой любовью,</plain>
+        </string>
+        <string>
+            <plain>Текущею из ран не погнушался кровью.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Он взял меня с Собой и помогал мне Сам</plain>
+        </string>
+        <string>
+            <plain>И лил на раны мне целительный бальзам.</plain>
+        </string>
+        <string>
+            <plain>И голос мне сказал, в душе неотразимый:</plain>
+        </string>
+        <string>
+            <plain>"Вот кто родня тебе, кто близкий, кто любимый!"</plain>
+        </string>
+    </verse>
+</song>

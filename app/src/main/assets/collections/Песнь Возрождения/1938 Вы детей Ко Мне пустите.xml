@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1938" name="Вы детей Ко Мне пустите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вы детей Ко Мне пустите!</plain>
+        </string>
+        <string>
+            <plain>Так взывает Сын Творца</plain>
+        </string>
+        <string>
+            <plain>Голосом любви, Предвечный,</plain>
+        </string>
+        <string>
+            <plain>С взором радостным лица.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, придите ко Мне, дети!</plain>
+        </string>
+        <string>
+            <plain>О, придите все ко Мне.</plain>
+        </string>
+        <string>
+            <plain>О, придите ко Мне, дети!</plain>
+        </string>
+        <string>
+            <plain>О, придите все ко Мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вас зовет любовь святая;</plain>
+        </string>
+        <string>
+            <plain>Поспешите все к Нему:</plain>
+        </string>
+        <string>
+            <plain>Ни один да не отстанет,</plain>
+        </string>
+        <string>
+            <plain>Чтоб отдать всю жизнь Ему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прихожу к Тебе, Иисус мой!</plain>
+        </string>
+        <string>
+            <plain>Видишь все Ты, Друг детей.</plain>
+        </string>
+        <string>
+            <plain>Принятый Тобой с любовью,</plain>
+        </string>
+        <string>
+            <plain>Я хочу любить сильней.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как Твои объятья сладки!</plain>
+        </string>
+        <string>
+            <plain>Взор Твой обещает рай.</plain>
+        </string>
+        <string>
+            <plain>И мне слышен тихий голос:</plain>
+        </string>
+        <string>
+            <plain>"Чадо! Сердце Мне отдай".</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Да, Тебе отдать желаю</plain>
+        </string>
+        <string>
+            <plain>Сердце, душу, все свое,</plain>
+        </string>
+        <string>
+            <plain>Быть Твоим и жить с Тобою -</plain>
+        </string>
+        <string>
+            <plain>Вот желание мое.</plain>
+        </string>
+    </verse>
+</song>

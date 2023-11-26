@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1490" name="Хочу Господь сильней Тебя любить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочу, Господь, сильней Тебя любить.</plain>
+        </string>
+        <string>
+            <plain>Хочу, Господь, всегда с Тобою быть,</plain>
+        </string>
+        <string>
+            <plain>Хочу, чтоб Ты меня не оставлял</plain>
+        </string>
+        <string>
+            <plain>И сердце грешное мое любовью наполнял.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хочу, Господь, с Тобой достичь страны.</plain>
+        </string>
+        <string>
+            <plain>Где нет несчастья, скорби и нужды.</plain>
+        </string>
+        <string>
+            <plain>Где нету лжи, обмана и вражды,</plain>
+        </string>
+        <string>
+            <plain>Где лишь любовь и мир живут в стране чудесной той.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу быть верным, Господи,</plain>
+        </string>
+        <string>
+            <plain>Тебе На этой развращенной злой земле.</plain>
+        </string>
+        <string>
+            <plain>Хочу пройти весь путь земной с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Ведь одному так тяжело. Ты будь Хранитель мой.</plain>
+        </string>
+    </verse>
+</song>

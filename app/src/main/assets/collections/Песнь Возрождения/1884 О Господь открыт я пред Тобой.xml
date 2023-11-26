@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1884" name="О Господь открыт я пред Тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Господь, открыт я пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>На меня Ты взгляни,</plain>
+        </string>
+        <string>
+            <plain>Боже мой, душу всю я Тебе отдаю,</plain>
+        </string>
+        <string>
+            <plain>Дай веру обрести.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, Господь, молюсь я пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>На меня Ты взгляни,</plain>
+        </string>
+        <string>
+            <plain>Дай мне сил всех любить как Тебя я люблю,</plain>
+        </string>
+        <string>
+            <plain>Дай мне Твой крест нести</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя</plain>
+        </string>
+    </verse>
+</song>

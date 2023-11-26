@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2797" name="Когда Ты рядом мой Бог дорогой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда Ты рядом, мой Бог дорогой,</plain>
+        </string>
+        <string>
+            <plain>Мне на душе и светло, и спокойно.</plain>
+        </string>
+        <string>
+            <plain>О, как мне дорог святой образ Твой,</plain>
+        </string>
+        <string>
+            <plain>Твоей любви я, Господь, не достоин.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет, не понять мне любви Твоей, Боже,</plain>
+        </string>
+        <string>
+            <plain>Ты мне прекрасное небо открыл.</plain>
+        </string>
+        <string>
+            <plain>Есть ли на свете хоть что-то дороже</plain>
+        </string>
+        <string>
+            <plain>Этой любви, что Ты мне подарил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сколько борьбы, сколько пролито слез</plain>
+        </string>
+        <string>
+            <plain>В жизни моей по одной лишь причине:</plain>
+        </string>
+        <string>
+            <plain>Если пред взором не Ты, мой Христос,</plain>
+        </string>
+        <string>
+            <plain>Я одинок, как заблудший в пустыне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже, прошу: Ты меня не оставь,</plain>
+        </string>
+        <string>
+            <plain>Сердце наполни Своей благодатью.</plain>
+        </string>
+        <string>
+            <plain>Что в моей жизни не так - Ты исправь,</plain>
+        </string>
+        <string>
+            <plain>Буду Тебя, день и ночь прославлять я.</plain>
+        </string>
+    </verse>
+</song>

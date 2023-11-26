@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2698" name="Спасибо большое спасибо" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спасибо, большое спасибо,</plain>
+        </string>
+        <string>
+            <plain>Я маме любимой скажу,</plain>
+        </string>
+        <string>
+            <plain>За ласку твою когда-либо</plain>
+        </string>
+        <string>
+            <plain>Я, мама, тебе отслужу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дана ты мне милостью Божьей,</plain>
+        </string>
+        <string>
+            <plain>Спасибо тебе за труды.</plain>
+        </string>
+        <string>
+            <plain>Даст Бог, и я вырасту тоже</plain>
+        </string>
+        <string>
+            <plain>И буду такая (такой же), как ты.</plain>
+        </string>
+    </verse>
+</song>

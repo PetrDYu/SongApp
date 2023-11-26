@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1826" name="Горе не придет к тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горе не придет к тебе,</plain>
+        </string>
+        <string>
+            <plain>Доверяйся лишь Христу.</plain>
+        </string>
+        <string>
+            <plain>Горе не придет к тебе,</plain>
+        </string>
+        <string>
+            <plain>Слову Божью ты поверь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слышишь ли Его зовущий глас?</plain>
+        </string>
+        <string>
+            <plain>Нет на свете трудностей для нас,</plain>
+        </string>
+        <string>
+            <plain>Сейчас доверься Христу,</plain>
+        </string>
+        <string>
+            <plain>И слову лишь Его на всякий час.</plain>
+        </string>
+    </verse>
+</song>

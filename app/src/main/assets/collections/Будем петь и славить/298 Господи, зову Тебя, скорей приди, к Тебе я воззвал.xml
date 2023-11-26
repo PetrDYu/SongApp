@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="298" name="Господи, зову Тебя, скорей приди, к Тебе я воззвал" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Господи, зову Тебя, скорей приди, к Тебе я воззвал.</plain>
+        </string>
+        <string>
+            <plain>Голос мой услышь, когда к Тебе взываю я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Да будет молитва моя для Тебя благовонием!</plain>
+        </string>
+        <string>
+            <plain>И жертвой вечерней пусть будет молитва моя!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Глаза мои утремлены к Тебе. В Тебе, Господь, спасенье мое.</plain>
+        </string>
+        <string>
+            <plain>Не дай попасть в капканы мне, от зла храни меня.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 3 р.</plain>
+        </string>
+    </verse>
+</song>

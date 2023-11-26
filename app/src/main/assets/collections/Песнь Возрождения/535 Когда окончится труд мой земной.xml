@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="535" name="Когда окончится труд мой земной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда окончится труд мой земной,</plain>
+        </string>
+        <string>
+            <plain>Даст мне Спаситель на небе покой,</plain>
+        </string>
+        <string>
+            <plain>Там навсегда буду с Ним пребывать</plain>
+        </string>
+        <string>
+            <plain>И вечно славу Его созерцать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славу Свою даст мне узреть.</plain>
+        </string>
+        <string>
+            <plain>Славу Свою даст мне узреть.</plain>
+        </string>
+        <string>
+            <plain>Буду на лик Его дивный глядеть,</plain>
+        </string>
+        <string>
+            <plain>Славу Свою даст Он мне узреть!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Место даровано в доме Отца</plain>
+        </string>
+        <string>
+            <plain>Мне беспредельной любовью Христа.</plain>
+        </string>
+        <string>
+            <plain>Ах, что за радость Его увидать</plain>
+        </string>
+        <string>
+            <plain>И вечно славу Его созерцать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там многих встречу любимых друзей,</plain>
+        </string>
+        <string>
+            <plain>Чудно свиданье вдали от скорбей!</plain>
+        </string>
+        <string>
+            <plain>Благость Христа будем все воспевать</plain>
+        </string>
+        <string>
+            <plain>И вечно славу Его созерцать.</plain>
+        </string>
+    </verse>
+</song>

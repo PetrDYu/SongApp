@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="823" name="Вместе мы с вами верили" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вместе мы с вами верили,</plain>
+        </string>
+        <string>
+            <plain>Вместе любили и пели,</plain>
+        </string>
+        <string>
+            <plain>Вместе дороги мерили</plain>
+        </string>
+        <string>
+            <plain>Часто под вой метели.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Труд небольшой, но делали,</plain>
+        </string>
+        <string>
+            <plain>Вместе огнем горели,</plain>
+        </string>
+        <string>
+            <plain>Вместе ночами белыми</plain>
+        </string>
+        <string>
+            <plain>В синюю даль смотрели.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вместе стояли прямо мы,</plain>
+        </string>
+        <string>
+            <plain>Слыша угрозы злые,</plain>
+        </string>
+        <string>
+            <plain>Были пред Богом правыми</plain>
+        </string>
+        <string>
+            <plain>Чисты пред миром были.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В край дорогой и солнечный</plain>
+        </string>
+        <string>
+            <plain>С светлой придем мы песней.</plain>
+        </string>
+        <string>
+            <plain>Там, где нет слез и горечи,</plain>
+        </string>
+        <string>
+            <plain>Вечно мы будем вместе.</plain>
+        </string>
+    </verse>
+</song>

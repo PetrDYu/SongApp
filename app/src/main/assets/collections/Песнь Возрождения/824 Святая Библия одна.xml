@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="824" name="Святая Библия одна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Святая Библия одна</plain>
+        </string>
+        <string>
+            <plain>Исправить жизнь людей сильна.</plain>
+        </string>
+        <string>
+            <plain>И в ней мы видим, как за нас</plain>
+        </string>
+        <string>
+            <plain>Страдал Спаситель в скорбный час.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, чудный свет сияет в ней</plain>
+        </string>
+        <string>
+            <plain>Во мраке жизни для людей!</plain>
+        </string>
+        <string>
+            <plain>О, Слово Божье в мире бед</plain>
+        </string>
+        <string>
+            <plain>Несет усталым жизнь и свет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Святая Библия одна</plain>
+        </string>
+        <string>
+            <plain>Несет нам весть, что жизнь дана</plain>
+        </string>
+        <string>
+            <plain>В любви Отца, в крови Христа,</plain>
+        </string>
+        <string>
+            <plain>В скорбях Голгофского креста.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Святая Библия одна</plain>
+        </string>
+        <string>
+            <plain>Гласит, что смерть побеждена.</plain>
+        </string>
+        <string>
+            <plain>Христос Себя не пощадил,</plain>
+        </string>
+        <string>
+            <plain>Нас, грешных, с Богом примирил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто в жизни Библию любил,</plain>
+        </string>
+        <string>
+            <plain>Тому не страшен мрак могил;</plain>
+        </string>
+        <string>
+            <plain>Она надежду нам дает,</plain>
+        </string>
+        <string>
+            <plain>Что нас на небе радость ждет.</plain>
+        </string>
+    </verse>
+</song>

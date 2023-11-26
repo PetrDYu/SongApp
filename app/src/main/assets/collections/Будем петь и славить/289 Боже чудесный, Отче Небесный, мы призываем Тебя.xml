@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="289" name="Боже чудесный, Отче Небесный, мы призываем Тебя" canon="false" text="И. Языковой, В. Аверина" textRus="" music="В. Аверина" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Боже чудесный, Отче Небесный, мы призываем Тебя!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже чудесный, Отче Небесный, воля да будет Твоя!</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже чудесный, Отче Небесный, мы прославляем Тебя!</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Духом едина, сердцем едина, молится Церковь Твоя.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

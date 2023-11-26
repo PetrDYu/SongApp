@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="456" name="От Господа помощь моя, придет от нашего Бога," canon="false" text="" textRus="" music="общины Taizé Канон" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>От Господа помощь моя, придет от нашего Бога,</plain>
+        </string>
+        <string>
+            <plain>Сотворившего Своим словом века и небо и землю.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>L’ajuda em vindrà del Senyor, del Senyor, el nostre Déu,</plain>
+        </string>
+        <string>
+            <plain>Que ha fet el cel i la terra, el cel i la terra.</plain>
+        </string>
+    </verse>
+</song>

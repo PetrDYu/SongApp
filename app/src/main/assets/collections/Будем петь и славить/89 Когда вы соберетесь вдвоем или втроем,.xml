@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="89" name="Когда вы соберетесь вдвоем или втроем," canon="false" text="Л. Матвеева" textRus="" music="Л. Матвеева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Когда вы соберетесь вдвоем или втроем,</plain>
+        </string>
+        <string>
+            <plain>Когда вы соберетесь о имени Моем,</plain>
+        </string>
+        <string>
+            <plain>Я вас не позабуду и в этот самый час,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>В ту самую минуту Я буду среди вас.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мы вместе с вами сядем за трапезу любви,</plain>
+        </string>
+        <string>
+            <plain>Лишь словом или взглядом Меня ты позови,</plain>
+        </string>
+        <string>
+            <plain>И чтоб ни попросили мы вместе у Отца,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>В Его любви и силе исполнить до конца.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не вы Меня избрали, Я каждого избрал,</plain>
+        </string>
+        <string>
+            <plain>Но все же не рабами – друзьями вас назвал.</plain>
+        </string>
+        <string>
+            <plain>Любите же друг друга, как возлюбил Я вас –</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Вот для Меня услуга, вот главное сейчас.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

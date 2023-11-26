@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1006" name="Разве рано отдать тебе сердце Христу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Разве рано отдать тебе сердце Христу?</plain>
+        </string>
+        <string>
+            <plain>Возлюбил Он ведь юным тебя.</plain>
+        </string>
+        <string>
+            <plain>Разве рано заветы Его исполнять,</plain>
+        </string>
+        <string>
+            <plain>Миру весть о спасеньи неся?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Разве рано, разве рано?</plain>
+        </string>
+        <string>
+            <plain>Нет! Приди к Христу теперь!</plain>
+        </string>
+        <string>
+            <plain>Разве рано, разве рано?</plain>
+        </string>
+        <string>
+            <plain>Будешь счастлив, о, поверь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Без Христа нет блаженства и счастья тебе,</plain>
+        </string>
+        <string>
+            <plain>Он - друг верный и истинный твой.</plain>
+        </string>
+        <string>
+            <plain>Жажду скрытую часто тебе самому</plain>
+        </string>
+        <string>
+            <plain>Утолит Он водою живой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как бедна твоя жизнь, как она холодна,</plain>
+        </string>
+        <string>
+            <plain>Если мира не дал Он тебе.</plain>
+        </string>
+        <string>
+            <plain>Но Спаситель с тобой - и беда не страшна,</plain>
+        </string>
+        <string>
+            <plain>Ты спокоен в изменчивой мгле.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жизни разве весну не отдашь всю Христу,</plain>
+        </string>
+        <string>
+            <plain>Ликованья хвалебную песнь?</plain>
+        </string>
+        <string>
+            <plain>Неужели тебе лучше осени ждать,</plain>
+        </string>
+        <string>
+            <plain>Цвет увядший Иисусу принесть?</plain>
+        </string>
+    </verse>
+</song>

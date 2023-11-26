@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="153" name="Я славлю Иисуса Он милует меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я славлю Иисуса, Он милует меня,</plain>
+        </string>
+        <string>
+            <plain>Забыв мою неправду и грех искореня.</plain>
+        </string>
+        <string>
+            <plain>Я славлю Иисуса, Он любит без конца,</plain>
+        </string>
+        <string>
+            <plain>Он кровью драгоценной спас грешного меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я славлю Иисуса, у ног Его сидя;</plain>
+        </string>
+        <string>
+            <plain>Я славлю Иисуса, за Ним вослед идя;</plain>
+        </string>
+        <string>
+            <plain>Я славлю Иисуса за все Его дела,</plain>
+        </string>
+        <string>
+            <plain>Я славлю милость Божью: она меня спасла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я славлю Иисуса, живя в земной стране,</plain>
+        </string>
+        <string>
+            <plain>Но пламенно желаю быть в вечном светлом дне,</plain>
+        </string>
+        <string>
+            <plain>Где в царстве всех спасенных я буду прославлять</plain>
+        </string>
+        <string>
+            <plain>Спасителя Святого живую благодать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="197" name="В час когда с холмов зарею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В час, когда с холмов зарею</plain>
+        </string>
+        <string>
+            <plain>Вдаль ночной туман бежит,</plain>
+        </string>
+        <string>
+            <plain>И луч солнца над рекою</plain>
+        </string>
+        <string>
+            <plain>В дивных красках заблестит,</plain>
+        </string>
+        <string>
+            <plain>Божью весть мы вспоминаем</plain>
+        </string>
+        <string>
+            <plain>В радужных отливах вод,</plain>
+        </string>
+        <string>
+            <plain>Что друг друга мы познаем,</plain>
+        </string>
+        <string>
+            <plain>Когда ночи мгла пройдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Познаем, как познаны.</plain>
+        </string>
+        <string>
+            <plain>Уж теперь мы не одни.</plain>
+        </string>
+        <string>
+            <plain>Мы в лучах зари встречаем</plain>
+        </string>
+        <string>
+            <plain>Дня великого восход;</plain>
+        </string>
+        <string>
+            <plain>И друг друга мы познаем,</plain>
+        </string>
+        <string>
+            <plain>Когда ночи мгла пройдет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Часто мы идем тропою,</plain>
+        </string>
+        <string>
+            <plain>Гнетом мук удручены;</plain>
+        </string>
+        <string>
+            <plain>Часто нивы наши мглою</plain>
+        </string>
+        <string>
+            <plain>Или рвом разделены.</plain>
+        </string>
+        <string>
+            <plain>Но "Придите!" - с этим словом</plain>
+        </string>
+        <string>
+            <plain>Нас Христос в покой ведет,</plain>
+        </string>
+        <string>
+            <plain>Он нас встретит в свете новом,</plain>
+        </string>
+        <string>
+            <plain>Когда ночи мгла пройдет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приняты с восторгом раем,</plain>
+        </string>
+        <string>
+            <plain>Вкруг престола мы найдем</plain>
+        </string>
+        <string>
+            <plain>Кто нас любит и познаем,</plain>
+        </string>
+        <string>
+            <plain>Как мы познаны Отцом.</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы и искупленья</plain>
+        </string>
+        <string>
+            <plain>В вечном дне рекой польет,</plain>
+        </string>
+        <string>
+            <plain>Когда сгинут тени тленья,</plain>
+        </string>
+        <string>
+            <plain>Когда ночи мгла пройдет!</plain>
+        </string>
+    </verse>
+</song>

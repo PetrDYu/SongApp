@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="336" name="О если б ты узнал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, если б ты узнал,</plain>
+        </string>
+        <string>
+            <plain>Хотя бы в этот день,</plain>
+        </string>
+        <string>
+            <plain>Что в слепоте избрал</plain>
+        </string>
+        <string>
+            <plain>Ты вместо света - тень!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, если б ты узнал,</plain>
+        </string>
+        <string>
+            <plain>Хотя бы в этот день,</plain>
+        </string>
+        <string>
+            <plain>Что служит к миру твоему!</plain>
+        </string>
+        <string>
+            <plain>Что служит к миру твоему!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, если б ты узнал,</plain>
+        </string>
+        <string>
+            <plain>Что ты идешь тропой,</plain>
+        </string>
+        <string>
+            <plain>Ведущей к бездне скал</plain>
+        </string>
+        <string>
+            <plain>И к смерти роковой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, если б ты узнал,</plain>
+        </string>
+        <string>
+            <plain>Кто, полный дивных слов,</plain>
+        </string>
+        <string>
+            <plain>Тебя к спасенью звал</plain>
+        </string>
+        <string>
+            <plain>И чей отверг ты зов!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, если б ты узнал</plain>
+        </string>
+        <string>
+            <plain>Кто плакал над тобой,</plain>
+        </string>
+        <string>
+            <plain>Когда ты грех свершал</plain>
+        </string>
+        <string>
+            <plain>Прельщенною душой!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, если б ты узнал,</plain>
+        </string>
+        <string>
+            <plain>Кто возлюбил тебя,</plain>
+        </string>
+        <string>
+            <plain>Кто за тебя отдал</plain>
+        </string>
+        <string>
+            <plain>На смертный крест Себя!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О, если б ты узнал:</plain>
+        </string>
+        <string>
+            <plain>Он Царь души твоей;</plain>
+        </string>
+        <string>
+            <plain>В Нем Бог любви сиял</plain>
+        </string>
+        <string>
+            <plain>Для мира, для людей.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>О, если б ты узнал:</plain>
+        </string>
+        <string>
+            <plain>Он ныне пред тобой;</plain>
+        </string>
+        <string>
+            <plain>О, разве б ты не пал</plain>
+        </string>
+        <string>
+            <plain>К Его стопам с мольбой?!</plain>
+        </string>
+    </verse>
+</song>

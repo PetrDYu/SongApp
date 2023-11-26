@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3004" name="О стадо малое когда враги грозят не бойся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О стадо малое, когда враги грозят, не бойся.</plain>
+        </string>
+        <string>
+            <plain>Бог знает, в чём нужда твоя, и в Нём ты успокойся.</plain>
+        </string>
+        <string>
+            <plain>О стадо малое, дерзай, будь верным, свет свой излучай.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О стадо малое, Христос тебя избрал навеки;</plain>
+        </string>
+        <string>
+            <plain>твой грех в страданьях Он понёс, терпя позор и муки.</plain>
+        </string>
+        <string>
+            <plain>О стадо малое, Он даст тебе поддержку в трудный час.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О стадо малое, хвали Христа за состраданье!</plain>
+        </string>
+        <string>
+            <plain>Вдали от Бога было ты, теперь - Его созданье.</plain>
+        </string>
+        <string>
+            <plain>О стадо малое, хвали, что взял заботы Он твои!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О стадо малое, спеши другим сказать о Боге,</plain>
+        </string>
+        <string>
+            <plain>что хочет грешных вывести с широкой Он дороги.</plain>
+        </string>
+        <string>
+            <plain>О стадо малое, спеши и временем здесь дорожи!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1794" name="Чаша скорби еще не испита" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чаша скорби еще не испита -</plain>
+        </string>
+        <string>
+            <plain>Скоро снова ты будешь испытан.</plain>
+        </string>
+        <string>
+            <plain>Но одно ты не должен забыть:</plain>
+        </string>
+        <string>
+            <plain>Что ты призван свидетелем быть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты - свидетель Христа,</plain>
+        </string>
+        <string>
+            <plain>ты - свидетель Христа!</plain>
+        </string>
+        <string>
+            <plain>И свободный твой дух мир не сможет согнуть,</plain>
+        </string>
+        <string>
+            <plain>Если только уста, если только уста</plain>
+        </string>
+        <string>
+            <plain>Не позволишь ему в искушеньях сомкнуть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир удобства для плоти предложит</plain>
+        </string>
+        <string>
+            <plain>Или бросит в темницу, быть может,</plain>
+        </string>
+        <string>
+            <plain>Но ты главное помни средь бед -</plain>
+        </string>
+        <string>
+            <plain>Ты вступил с Иисусом в завет.</plain>
+        </string>
+    </verse>
+</song>

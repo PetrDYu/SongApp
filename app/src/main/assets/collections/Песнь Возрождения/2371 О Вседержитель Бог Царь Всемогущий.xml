@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2371" name="О Вседержитель Бог Царь Всемогущий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Вседержитель, Бог, Царь Всемогущий;</plain>
+        </string>
+        <string>
+            <plain>Полны даяния Твои чудес.</plain>
+        </string>
+        <string>
+            <plain>Солнце премудрости,</plain>
+        </string>
+        <string>
+            <plain>О, Дух предвечный,</plain>
+        </string>
+        <string>
+            <plain>Силой Ты беспредельней небес.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слава, хвала, честь, царство и служенье,</plain>
+        </string>
+        <string>
+            <plain>Боже, да будет от всех нас Тебе:</plain>
+        </string>
+        <string>
+            <plain>Троица Всесильная,</plain>
+        </string>
+        <string>
+            <plain>Свет совершенства,</plain>
+        </string>
+        <string>
+            <plain>Вечный Отец, Сын и Дух Святой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В милости к нам Ты обещал блаженство,</plain>
+        </string>
+        <string>
+            <plain>Ты даровал сердцам людей покой!</plain>
+        </string>
+        <string>
+            <plain>Славу Твою дал т-там,</plain>
+        </string>
+        <string>
+            <plain>Пребудь же с нами</plain>
+        </string>
+        <string>
+            <plain>Вечным водителем к небесам!</plain>
+        </string>
+    </verse>
+</song>

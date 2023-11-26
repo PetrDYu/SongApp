@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2218" name="Навсегда я спасен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Навсегда я спасен,</plain>
+        </string>
+        <string>
+            <plain>Коль в руках у Христа.</plain>
+        </string>
+        <string>
+            <plain>С Ним иду на Сион,</plain>
+        </string>
+        <string>
+            <plain>Песнь слагают уста.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В юности иль в старости,</plain>
+        </string>
+        <string>
+            <plain>В горести иль в радости,</plain>
+        </string>
+        <string>
+            <plain>О, как светло, мило и легко</plain>
+        </string>
+        <string>
+            <plain>Быть в надежных руках у Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда скорбь подойдет,</plain>
+        </string>
+        <string>
+            <plain>Он на руки берет.</plain>
+        </string>
+        <string>
+            <plain>А устанешь в пути,</plain>
+        </string>
+        <string>
+            <plain>Место есть у груди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И там будешь лишь петь,</plain>
+        </string>
+        <string>
+            <plain>Восхваляя Христа,</plain>
+        </string>
+        <string>
+            <plain>Вечно славя Его,</plain>
+        </string>
+        <string>
+            <plain>Что Он нас возлюбил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда наш Спаситель</plain>
+        </string>
+        <string>
+            <plain>На землю придет,</plain>
+        </string>
+        <string>
+            <plain>То возьмет нас туда</plain>
+        </string>
+        <string>
+            <plain>В вечный город святой.</plain>
+        </string>
+    </verse>
+</song>

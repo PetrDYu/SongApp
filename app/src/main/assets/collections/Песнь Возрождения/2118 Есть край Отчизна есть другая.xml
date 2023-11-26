@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2118" name="Есть край Отчизна есть другая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть край, Отчизна есть другая,</plain>
+        </string>
+        <string>
+            <plain>Где всем скорбям придёт конец.</plain>
+        </string>
+        <string>
+            <plain>Страна небесная, святая,</plain>
+        </string>
+        <string>
+            <plain>Где каждому возложится венец.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы будем там, мы будем рядом, рядом</plain>
+        </string>
+        <string>
+            <plain>И склоним головы Христу на грудь.</plain>
+        </string>
+        <string>
+            <plain>Он небо нам подарит даром, даром</plain>
+        </string>
+        <string>
+            <plain>И словом ободрит: "Забудь".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Край необычный, без тревог и горя,</plain>
+        </string>
+        <string>
+            <plain>Слёз нету и не будет никогда.</plain>
+        </string>
+        <string>
+            <plain>Мы пролетим, пускай бушует море,</plain>
+        </string>
+        <string>
+            <plain>Достигнем цели и войдём туда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет красоты, как в вечном доме,</plain>
+        </string>
+        <string>
+            <plain>Вся красота Иисус Христос!</plain>
+        </string>
+        <string>
+            <plain>Сменился тот венец терновый,</plain>
+        </string>
+        <string>
+            <plain>А приобрёл венец нам новый.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нас будут ждать у врат Отчизны,</plain>
+        </string>
+        <string>
+            <plain>Мы ношу сбросим под крестом.</plain>
+        </string>
+        <string>
+            <plain>Оттуда наш начаток жизни,</plain>
+        </string>
+        <string>
+            <plain>В том вечном Божьем Царстве со Христом.</plain>
+        </string>
+    </verse>
+</song>

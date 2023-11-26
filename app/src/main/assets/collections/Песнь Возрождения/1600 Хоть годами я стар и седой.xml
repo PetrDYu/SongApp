@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1600" name="Хоть годами я стар и седой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть годами я стар и седой,</plain>
+        </string>
+        <string>
+            <plain>И морщины лежат бороздой,</plain>
+        </string>
+        <string>
+            <plain>- Во Христе с юным сердцем всегда,</plain>
+        </string>
+        <string>
+            <plain>Не старею душой я никогда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Старое сердце юное будет.</plain>
+        </string>
+        <string>
+            <plain>Если СпасительСам в нем пребудет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть в глазах часто вижу туман,</plain>
+        </string>
+        <string>
+            <plain>И очков всяких полон карман.</plain>
+        </string>
+        <string>
+            <plain>Но зато око чисто всегда.</plain>
+        </string>
+        <string>
+            <plain>Не затмит его старость никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я от старости стал уже глух,</plain>
+        </string>
+        <string>
+            <plain>И недавно испорчен мой слух,</plain>
+        </string>
+        <string>
+            <plain>Но для добрых дел я не глухой,</plain>
+        </string>
+        <string>
+            <plain>Отзовусь всегда я щедрою рукой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не печальтесь, что старость придет.</plain>
+        </string>
+        <string>
+            <plain>Пусть Христос в сердце ваше войдет.</plain>
+        </string>
+        <string>
+            <plain>Даже если ты старый такой.</plain>
+        </string>
+        <string>
+            <plain>Будешь сердцем всегда ты молодой.</plain>
+        </string>
+    </verse>
+</song>

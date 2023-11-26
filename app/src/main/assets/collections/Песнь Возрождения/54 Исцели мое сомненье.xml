@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="54" name="Исцели мое сомненье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Исцели мое сомненье,</plain>
+        </string>
+        <string>
+            <plain>Что приходит иногда</plain>
+        </string>
+        <string>
+            <plain>В час минутного забвенья</plain>
+        </string>
+        <string>
+            <plain>С ношей горького плода.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я хочу не сомневаться</plain>
+        </string>
+        <string>
+            <plain>Ни на миг, что Твой я сын,</plain>
+        </string>
+        <string>
+            <plain>Что я призван подвизаться</plain>
+        </string>
+        <string>
+            <plain>Посреди Твоих дружин.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Удали мое сомненье,</plain>
+        </string>
+        <string>
+            <plain>Будто в мире я без сил;</plain>
+        </string>
+        <string>
+            <plain>Сам приди, веди в сраженье,</plain>
+        </string>
+        <string>
+            <plain>Чтоб с Тобой я победил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Помоги, чтоб я душою</plain>
+        </string>
+        <string>
+            <plain>От Тебя не отходил,</plain>
+        </string>
+        <string>
+            <plain>Чтобы враг своей стрелою</plain>
+        </string>
+        <string>
+            <plain>Дух мой слабый не смутил.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1459" name="На Голгофу веди меня снова" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На Голгофу веди меня снова</plain>
+        </string>
+        <string>
+            <plain>В час, когда я начну забывать</plain>
+        </string>
+        <string>
+            <plain>Звуки дивного вечного слова,</plain>
+        </string>
+        <string>
+            <plain>Чтобы я возгорелся опять.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я бессилен, а битва сурова.</plain>
+        </string>
+        <string>
+            <plain>Если я ослабею в борьбе,</plain>
+        </string>
+        <string>
+            <plain>На Голгофу веди меня снова.</plain>
+        </string>
+        <string>
+            <plain>Чтобы силу нашел я в Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда сердце сжимают оковы,</plain>
+        </string>
+        <string>
+            <plain>Когда гаснет в нем пламя огня,</plain>
+        </string>
+        <string>
+            <plain>На Голгофу веди меня снова,</plain>
+        </string>
+        <string>
+            <plain>У креста есть огонь для меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И порой, когда жертва Христова</plain>
+        </string>
+        <string>
+            <plain>Для меня потеряет цену.</plain>
+        </string>
+        <string>
+            <plain>На Голгофу веди меня снова,</plain>
+        </string>
+        <string>
+            <plain>И я снова бороться начну.</plain>
+        </string>
+    </verse>
+</song>

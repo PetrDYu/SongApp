@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3296" name="Мы с радостью песню свою пропоём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы с радостью песню свою пропоём</plain>
+        </string>
+        <string>
+            <plain>Для вас, дорогие друзья.</plain>
+        </string>
+        <string>
+            <plain>Сегодня ваш праздник,</plain>
+        </string>
+        <string>
+            <plain>Ваш радостный день;</plain>
+        </string>
+        <string>
+            <plain>Желаем вам счастья всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь в счастье, лишь в мире</plain>
+        </string>
+        <string>
+            <plain>Желаем вам жизнь всю прожить,</plain>
+        </string>
+        <string>
+            <plain>В любви и единстве.</plain>
+        </string>
+        <string>
+            <plain>Ведь так нам Господь говорит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть будет вам вместе</plain>
+        </string>
+        <string>
+            <plain>Всегда хорошо.</plain>
+        </string>
+        <string>
+            <plain>Хоть трудно бывает в пути:</plain>
+        </string>
+        <string>
+            <plain>Но то вы должны всегда</plain>
+        </string>
+        <string>
+            <plain>Помнить, друзья:</plain>
+        </string>
+        <string>
+            <plain>В Христе лишь источник любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть будет Христос вам</plain>
+        </string>
+        <string>
+            <plain>На этом пути</plain>
+        </string>
+        <string>
+            <plain>Здесь другом, опорой всегда.</plain>
+        </string>
+        <string>
+            <plain>Он верен во всем.</plain>
+        </string>
+        <string>
+            <plain>Так и вы чтоб могли</plain>
+        </string>
+        <string>
+            <plain>Верны быть Ему до конца.</plain>
+        </string>
+    </verse>
+</song>

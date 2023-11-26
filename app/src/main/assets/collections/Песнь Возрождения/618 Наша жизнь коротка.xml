@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="618" name="Наша жизнь коротка" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наша жизнь коротка,</plain>
+        </string>
+        <string>
+            <plain>Словно птицы полет,</plain>
+        </string>
+        <string>
+            <plain>И быстрей челнока</plain>
+        </string>
+        <string>
+            <plain>Улетает вперед.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Наша жизнь, словно тень,</plain>
+        </string>
+        <string>
+            <plain>На земле нам дана.</plain>
+        </string>
+        <string>
+            <plain>И как солнце зайдет -</plain>
+        </string>
+        <string>
+            <plain>Исчезает она.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как цветок полевой:</plain>
+        </string>
+        <string>
+            <plain>По утру расцветал,</plain>
+        </string>
+        <string>
+            <plain>А уж к вечеру в зной</plain>
+        </string>
+        <string>
+            <plain>Пожелтел и завял.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жизнь ведь только, как звук,</plain>
+        </string>
+        <string>
+            <plain>Как удар молотка,</plain>
+        </string>
+        <string>
+            <plain>Как нежданный испуг -</plain>
+        </string>
+        <string>
+            <plain>Так она коротка.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И не думаешь ты</plain>
+        </string>
+        <string>
+            <plain>Ни о чем, человек:</plain>
+        </string>
+        <string>
+            <plain>Что ты скоро умрешь</plain>
+        </string>
+        <string>
+            <plain>И короток твой век.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Позаботься же ты</plain>
+        </string>
+        <string>
+            <plain>И Христа поищи,</plain>
+        </string>
+        <string>
+            <plain>В Нем отраду найдешь</plain>
+        </string>
+        <string>
+            <plain>И спасенье души.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2018" name="Боже прохожий я в жизни земной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, прохожий я в жизни земной,</plain>
+        </string>
+        <string>
+            <plain>В небе лишь пристань покоя,</plain>
+        </string>
+        <string>
+            <plain>Путь проложил Ты - иду за Тобой,</plain>
+        </string>
+        <string>
+            <plain>Узкой тернистой тропою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Смело иду я, Господь, за Тобой,</plain>
+        </string>
+        <string>
+            <plain>К вечности путь мой лежит.</plain>
+        </string>
+        <string>
+            <plain>В райских чертогах найду я покой</plain>
+        </string>
+        <string>
+            <plain>Там, где Спаситель царит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть не пугает меня никогда</plain>
+        </string>
+        <string>
+            <plain>Рокот житейского моря.</plain>
+        </string>
+        <string>
+            <plain>Бог мой со мной. Не случится беда,</plain>
+        </string>
+        <string>
+            <plain>Он мне помощник и в горе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верю, Создатель, всегда Ты со мной.</plain>
+        </string>
+        <string>
+            <plain>Силу в Тебе я черпаю.</plain>
+        </string>
+        <string>
+            <plain>Будь мне всегда путеводной звездой,</plain>
+        </string>
+        <string>
+            <plain>Светом Своим озаряя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смела иду я, Господь, за Тобой,</plain>
+        </string>
+        <string>
+            <plain>К вечности путь мой лежит:</plain>
+        </string>
+        <string>
+            <plain>В райских чертогах найду я покой,</plain>
+        </string>
+        <string>
+            <plain>Там, где Спаситель царит.</plain>
+        </string>
+    </verse>
+</song>

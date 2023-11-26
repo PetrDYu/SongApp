@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="883" name="Господь нас на распутье блуждающих сыскал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь нас, на распутье блуждающих, сыскал</plain>
+        </string>
+        <string>
+            <plain>И, как гостей достойных, на брачный пир собрал.</plain>
+        </string>
+        <string>
+            <plain>Чтоб разницу изгладить, один всем дать удел,</plain>
+        </string>
+        <string>
+            <plain>Он в брачную одежду гостей Своих одел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О братья, сестры, всем, всем нам</plain>
+        </string>
+        <string>
+            <plain>Одежда та дана.</plain>
+        </string>
+        <string>
+            <plain>Проверим же, проверим сегодня,</plain>
+        </string>
+        <string>
+            <plain>Какая у нас она?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Один запачкал грязью греха и суеты,</plain>
+        </string>
+        <string>
+            <plain>И нет у ней уж света небесной чистоты.</plain>
+        </string>
+        <string>
+            <plain>Другие захотели ее поисправлять,</plain>
+        </string>
+        <string>
+            <plain>Чтобы небесной форме земной фасон придать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А третьи подменили небесную своей,</plain>
+        </string>
+        <string>
+            <plain>В подменённой одежде уселись меж гостей.</plain>
+        </string>
+        <string>
+            <plain>Придет хозяин пира и станет проверять.</plain>
+        </string>
+        <string>
+            <plain>Готов ли ты сегодня на ту проверку стать?</plain>
+        </string>
+    </verse>
+</song>

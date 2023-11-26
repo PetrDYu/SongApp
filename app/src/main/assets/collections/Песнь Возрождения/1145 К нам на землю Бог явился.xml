@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1145" name="К нам на землю Бог явился" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К нам на землю Бог явился.</plain>
+        </string>
+        <string>
+            <plain>Во Христе Он нам открылся - Божий Сын.</plain>
+        </string>
+        <string>
+            <plain>Нам путь вечный открывая,</plain>
+        </string>
+        <string>
+            <plain>Принял Он всю скорбь и боль за нас один.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь в Иисусе дарит счастье,</plain>
+        </string>
+        <string>
+            <plain>Просветляет наши мысли и сердца.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, пусть несется в этот день</plain>
+        </string>
+        <string>
+            <plain>Из наших уст Ему хвала.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус сроднил нас кровью.</plain>
+        </string>
+        <string>
+            <plain>Направляет нас с любовью Он в пути,</plain>
+        </string>
+        <string>
+            <plain>Крепко держит нас за руки,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не знали мы разлуки, верили.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Подарил Свое нам слово,</plain>
+        </string>
+        <string>
+            <plain>Что приносит в душу новый Божий мир.</plain>
+        </string>
+        <string>
+            <plain>Он для нас - источник вечный,</plain>
+        </string>
+        <string>
+            <plain>В милосердьи - бесконечный Божий Сын.</plain>
+        </string>
+    </chorus>
+</song>

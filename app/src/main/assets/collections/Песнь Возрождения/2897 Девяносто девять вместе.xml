@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2897" name="Девяносто девять вместе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Девяносто девять вместе</plain>
+        </string>
+        <string>
+            <plain>были с Пастырем в лугах,</plain>
+        </string>
+        <string>
+            <plain>но одна ушла из стада,</plain>
+        </string>
+        <string>
+            <plain>заблудилася в горах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пастырь с посохом шагает</plain>
+        </string>
+        <string>
+            <plain>по горам в кромешной тьме,</plain>
+        </string>
+        <string>
+            <plain>нежным голосом взывает:</plain>
+        </string>
+        <string>
+            <plain>«О, вернись, овца ко Мне!»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердце Пастыря в тревоге</plain>
+        </string>
+        <string>
+            <plain>из любви к овце Своей,</plain>
+        </string>
+        <string>
+            <plain>к ней спешит, чтоб неотложно</plain>
+        </string>
+        <string>
+            <plain>принести спасенье ей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пастыря не остановит</plain>
+        </string>
+        <string>
+            <plain>ветер, буря и гроза;</plain>
+        </string>
+        <string>
+            <plain>Он путём тернистым ходит,</plain>
+        </string>
+        <string>
+            <plain>чтоб нашлась Его овца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Грешник, на кресте Спаситель</plain>
+        </string>
+        <string>
+            <plain>умер, чтоб тебя спасти;</plain>
+        </string>
+        <string>
+            <plain>кровь пролил твой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>чтоб омыть грехи твои.</plain>
+        </string>
+    </verse>
+</song>

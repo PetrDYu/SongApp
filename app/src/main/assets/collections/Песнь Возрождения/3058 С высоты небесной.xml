@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3058" name="С высоты небесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С высоты небесной,</plain>
+        </string>
+        <string>
+            <plain>с ангельских высот</plain>
+        </string>
+        <string>
+            <plain>на детей взирает</plain>
+        </string>
+        <string>
+            <plain>Бог, Отец щедрот.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слышит их моленья,</plain>
+        </string>
+        <string>
+            <plain>помощь им дарит</plain>
+        </string>
+        <string>
+            <plain>и за каждым шагом</plain>
+        </string>
+        <string>
+            <plain>на земле следит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он из рук Отцовских</plain>
+        </string>
+        <string>
+            <plain>хлеб детям даёт,</plain>
+        </string>
+        <string>
+            <plain>их в любви спасает</plain>
+        </string>
+        <string>
+            <plain>от земных невзгод.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всем детям скажите:</plain>
+        </string>
+        <string>
+            <plain>Бог - Отец для них,</plain>
+        </string>
+        <string>
+            <plain>и Он любит малых,</plain>
+        </string>
+        <string>
+            <plain>на земле не забудет их.</plain>
+        </string>
+    </verse>
+</song>

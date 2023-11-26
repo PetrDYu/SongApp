@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2353" name="Только Ты Господь упование моё" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Только Ты, Господь, упование моё,</plain>
+        </string>
+        <string>
+            <plain>Крепость моя и щит.</plain>
+        </string>
+        <string>
+            <plain>На Тебя уповало сердце мое,</plain>
+        </string>
+        <string>
+            <plain>И Ты услышал меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты извлёк меня из глубокого рва,</plain>
+        </string>
+        <string>
+            <plain>На камне поставил меня.</plain>
+        </string>
+        <string>
+            <plain>Новую песню вложил мне в уста,</plain>
+        </string>
+        <string>
+            <plain>Буду вечно славить Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я желаю исполнить волю Твою,</plain>
+        </string>
+        <string>
+            <plain>Закон Твой в сердце моём.</plain>
+        </string>
+        <string>
+            <plain>Дух Твой благой ведёт</plain>
+        </string>
+        <string>
+            <plain>в землю правды меня.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3208" name="Благословен Спаситель мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословен Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>Он на престол взошёл с хвалой.</plain>
+        </string>
+        <string>
+            <plain>Он в этот мир пришёл с небес</plain>
+        </string>
+        <string>
+            <plain>как мира Князь, Творец чудес.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О народы, придите скорей!</plain>
+        </string>
+        <string>
+            <plain>Вот пред вами Муж скорбей, скорбей,</plain>
+        </string>
+        <string>
+            <plain>Он на древо позор наш вознёс;</plain>
+        </string>
+        <string>
+            <plain>славен милостью Христос!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус для всех слугою стал</plain>
+        </string>
+        <string>
+            <plain>и на себя грех мира взял.</plain>
+        </string>
+        <string>
+            <plain>Познайте все, что сделал Он:</plain>
+        </string>
+        <string>
+            <plain>там на кресте Он был казнён.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лежала вся вина на нас,</plain>
+        </string>
+        <string>
+            <plain>но нас Христос от смерти спас.</plain>
+        </string>
+        <string>
+            <plain>Там на кресте Он кровь пролил,</plain>
+        </string>
+        <string>
+            <plain>и ею нас Он искупил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вину мою на крест вознёс</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, Иисус Христос.</plain>
+        </string>
+        <string>
+            <plain>Подумай, что Он пережил,</plain>
+        </string>
+        <string>
+            <plain>когда Отцом оставлен был!</plain>
+        </string>
+    </verse>
+</song>

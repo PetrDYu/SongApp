@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1358" name="Добро пожаловать друзья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Добро пожаловать, друзья</plain>
+        </string>
+        <string>
+            <plain>И соработники по вере!</plain>
+        </string>
+        <string>
+            <plain>Для вас готов уют жилья.</plain>
+        </string>
+        <string>
+            <plain>Для вас сердец открыты двери.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Привет друзьям,</plain>
+        </string>
+        <string>
+            <plain>прибывшим к нам!</plain>
+        </string>
+        <string>
+            <plain>Примите пожеланья</plain>
+        </string>
+        <string>
+            <plain>благого пребыванья!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Желаем вам, чтоб между нас</plain>
+        </string>
+        <string>
+            <plain>Нашли вы мир и утешенье;</plain>
+        </string>
+        <string>
+            <plain>Чтоб каждый день и каждый час</plain>
+        </string>
+        <string>
+            <plain>Нам приносил благословенье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Желаем все, чтоб в эти дни</plain>
+        </string>
+        <string>
+            <plain>Звучало к грешникам воззванье;</plain>
+        </string>
+        <string>
+            <plain>Чтоб встретились с Христом они</plain>
+        </string>
+        <string>
+            <plain>И совершили покаянье.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Желаем, чтоб от сна к труду</plain>
+        </string>
+        <string>
+            <plain>Христовы слуги пробудились;</plain>
+        </string>
+        <string>
+            <plain>Как умножать плоды в саду,</plain>
+        </string>
+        <string>
+            <plain>В общенье верных научились.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Всего же больше мы хотим,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в дни Господнего явленья</plain>
+        </string>
+        <string>
+            <plain>Мы все пошли навстречу с Ним</plain>
+        </string>
+        <string>
+            <plain>С плодом любви, с восторгом пенья.</plain>
+        </string>
+    </verse>
+</song>

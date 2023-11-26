@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="666" name="Вот идет Господь с сияньем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот идет Господь с сияньем</plain>
+        </string>
+        <string>
+            <plain>И с победным торжеством;</plain>
+        </string>
+        <string>
+            <plain>О, придите с ликованьем</plain>
+        </string>
+        <string>
+            <plain>И пред Ним с хвалой падем!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Братья, славу воспевайте:</plain>
+        </string>
+        <string>
+            <plain>Воцарился "Муж скорбей"!</plain>
+        </string>
+        <string>
+            <plain>И на Господа взирайте</plain>
+        </string>
+        <string>
+            <plain>Взором радостных очей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славный день настал венчанья,</plain>
+        </string>
+        <string>
+            <plain>На престол Господь вступил,</plain>
+        </string>
+        <string>
+            <plain>И основы мирозданья</plain>
+        </string>
+        <string>
+            <plain>Свет спасенья озарил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На кресте в венце терновом</plain>
+        </string>
+        <string>
+            <plain>Голова была Христа,</plain>
+        </string>
+        <string>
+            <plain>А теперь в сиянье новом</plain>
+        </string>
+        <string>
+            <plain>Блещет лика красота.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В небесах в согласье стройном</plain>
+        </string>
+        <string>
+            <plain>Все хвалу Христу поют;</plain>
+        </string>
+        <string>
+            <plain>Вдохновением спокойным</plain>
+        </string>
+        <string>
+            <plain>Реки радости текут.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="212" name="Словно птичка за бугром" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словно птичка за бугром</plain>
+        </string>
+        <string>
+            <plain>Стонет с раненым крылом;</plain>
+        </string>
+        <string>
+            <plain>Ночь... и птичке нужен кров,</plain>
+        </string>
+        <string>
+            <plain>Господи, ведь я таков.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто дал бы крылья,</plain>
+        </string>
+        <string>
+            <plain>Кто дал бы крылья мне,</plain>
+        </string>
+        <string>
+            <plain>Как у голубя,</plain>
+        </string>
+        <string>
+            <plain>Я улетел бы, я улетел бы.</plain>
+        </string>
+        <string>
+            <plain>Я улетел бы и успокоился бы;</plain>
+        </string>
+        <string>
+            <plain>Я б улетел далеко,</plain>
+        </string>
+        <string>
+            <plain>Я б улетел высоко</plain>
+        </string>
+        <string>
+            <plain>К Тебе, Спаситель мой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как поблекнувший цветок,</plain>
+        </string>
+        <string>
+            <plain>Как завянувший листок,</plain>
+        </string>
+        <string>
+            <plain>Как усталый стон ветров, -</plain>
+        </string>
+        <string>
+            <plain>Господи, ведь я таков.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как бежит издалека</plain>
+        </string>
+        <string>
+            <plain>Неспокойная река</plain>
+        </string>
+        <string>
+            <plain>Между темных берегов,</plain>
+        </string>
+        <string>
+            <plain>Господи, ведь я таков!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Словно мотылек, что ждет</plain>
+        </string>
+        <string>
+            <plain>Крылья, чтоб начать полет</plain>
+        </string>
+        <string>
+            <plain>Ввысь над зеленью лугов;</plain>
+        </string>
+        <string>
+            <plain>Господи, ведь я таков!</plain>
+        </string>
+    </verse>
+</song>

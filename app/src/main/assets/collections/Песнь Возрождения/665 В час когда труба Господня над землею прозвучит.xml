@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="665" name="В час когда труба Господня над землею прозвучит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В час, когда труба Господня над землею прозвучит</plain>
+        </string>
+        <string>
+            <plain>И настанет вечно светлая заря,</plain>
+        </string>
+        <string>
+            <plain>Имена Он всех спасенных в перекличке повторит,</plain>
+        </string>
+        <string>
+            <plain>Там по милости Господней буду я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На небесной перекличке,</plain>
+        </string>
+        <string>
+            <plain>На небесной перекличке,</plain>
+        </string>
+        <string>
+            <plain>На небесной перекличке,</plain>
+        </string>
+        <string>
+            <plain>Там по милости Господней буду я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В день блаженный воскресенья всех умерших во Христе,</plain>
+        </string>
+        <string>
+            <plain>Водворенья их в обители Царя,</plain>
+        </string>
+        <string>
+            <plain>Всех святых, омытых кровию, пролитой на кресте,</plain>
+        </string>
+        <string>
+            <plain>Созовет Он, и на зов отвечу я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай трудиться для Тебя, Господь, любовью всем служить</plain>
+        </string>
+        <string>
+            <plain>С утра раннего и до заката дня,</plain>
+        </string>
+        <string>
+            <plain>А когда велишь работу мне земную Ты сложить,</plain>
+        </string>
+        <string>
+            <plain>На небесный клич тогда предстану я.</plain>
+        </string>
+    </verse>
+</song>

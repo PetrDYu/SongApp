@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3098" name="Дети славьте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дети, славьте,</plain>
+        </string>
+        <string>
+            <plain>славьте все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен Он!</plain>
+        </string>
+        <string>
+            <plain>Дети, славьте,</plain>
+        </string>
+        <string>
+            <plain>славьте все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен ОН!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дети, возлюбите все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен Он!</plain>
+        </string>
+        <string>
+            <plain>Дети, возлюбите все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен Он!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дети, возвеличьте все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен Он!</plain>
+        </string>
+        <string>
+            <plain>Дети, возвеличьте все Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Славен Он, верен Он!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2038" name="В Иисусе нашёл я счастье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Иисусе нашёл я счастье,</plain>
+        </string>
+        <string>
+            <plain>В Нём одном, знаю я, покой.</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Ты мой Бог, Я навеки Твой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Ты моя защита,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты мой щит и меч,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты моя победа,</plain>
+        </string>
+        <string>
+            <plain>Ты мой Царь, Ты мой Бог навек.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ну а если бывает в жизни</plain>
+        </string>
+        <string>
+            <plain>Нелегко по пути идти,</plain>
+        </string>
+        <string>
+            <plain>Тогда я говорю в молитве:</plain>
+        </string>
+        <string>
+            <plain>"Иисус, Ты меня защити".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С Иисусом пойду я смело,</plain>
+        </string>
+        <string>
+            <plain>Знаю, Он меня поведёт</plain>
+        </string>
+        <string>
+            <plain>По дороге к святой Отчизне,</plain>
+        </string>
+        <string>
+            <plain>В Царство света и мир красот.</plain>
+        </string>
+    </verse>
+</song>

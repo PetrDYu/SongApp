@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3077" name="Грешник у двери стою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешник, у двери стою,</plain>
+        </string>
+        <string>
+            <plain>неустанно Я стучу:</plain>
+        </string>
+        <string>
+            <plain>О, впусти Меня, молю</plain>
+        </string>
+        <string>
+            <plain>- все грехи тебе прощу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, впусти, о, впусти!</plain>
+        </string>
+        <string>
+            <plain>Грешник, о, впусти Меня!</plain>
+        </string>
+        <string>
+            <plain>О, впусти, о, впусти!</plain>
+        </string>
+        <string>
+            <plain>Грешник, о, впусти Меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердце мертво во грехах?</plain>
+        </string>
+        <string>
+            <plain>В нем царят тоска и страх?</plain>
+        </string>
+        <string>
+            <plain>Если впустишь ты Меня,</plain>
+        </string>
+        <string>
+            <plain>будешь счастлив ты всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если свет померк в глазах,</plain>
+        </string>
+        <string>
+            <plain>скорбь застыла на устах</plain>
+        </string>
+        <string>
+            <plain>- дам свободу обрести,</plain>
+        </string>
+        <string>
+            <plain>лишь Меня к себе впусти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иль душа полна забот?</plain>
+        </string>
+        <string>
+            <plain>Сделай выбор! - Я, Господь,</plain>
+        </string>
+        <string>
+            <plain>помогу тебе в беде,</plain>
+        </string>
+        <string>
+            <plain>если дашь войти Ты Мне.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если сердца дверь замкнешь,</plain>
+        </string>
+        <string>
+            <plain>жизнь свою ты не спасешь,</plain>
+        </string>
+        <string>
+            <plain>не найдешь покой душе</plain>
+        </string>
+        <string>
+            <plain>- Я не мог войти к тебе.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Если опоздаешь ты,</plain>
+        </string>
+        <string>
+            <plain>двери будут заперты,</plain>
+        </string>
+        <string>
+            <plain>в Божье царство не войдешь</plain>
+        </string>
+        <string>
+            <plain>- что посеял, то пожнешь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1628" name="Как хорошо что со мною Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как хорошо, что со мною Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Вечный Творец, Он так любит меня!</plain>
+        </string>
+        <string>
+            <plain>В жизни моей Он - мой Друг и Хранитель,</plain>
+        </string>
+        <string>
+            <plain>Всюду со мной, среди ночи и дня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Где бы ни шла моей жизни дорога.</plain>
+        </string>
+        <string>
+            <plain>Буду я жить для Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Мне не страшна никакая тревога.</plain>
+        </string>
+        <string>
+            <plain>Верю Ему, в Нем любви полнота.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Путь наш суров, устаем временами.</plain>
+        </string>
+        <string>
+            <plain>Движемся мы по житейским волнам.</plain>
+        </string>
+        <string>
+            <plain>Скоро придет наш Спаситель за нами,</plain>
+        </string>
+        <string>
+            <plain>Будет конец нашим бедам, скорбям.</plain>
+        </string>
+    </verse>
+</song>

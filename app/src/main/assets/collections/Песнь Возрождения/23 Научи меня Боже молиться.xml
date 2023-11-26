@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="23" name="Научи меня Боже молиться" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Научи меня, Боже, молиться,</plain>
+        </string>
+        <string>
+            <plain>Твой священный закон соблюдать;</plain>
+        </string>
+        <string>
+            <plain>Научи гордым сердцем смириться,</plain>
+        </string>
+        <string>
+            <plain>Твою волю во всем исполнять.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Чтобы жил Ты во мне безраздельно,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой чтоб во мне пребывал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб любил я Тебя беспредельно</plain>
+        </string>
+        <string>
+            <plain>И лишь имя Твое прославлял.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтоб, омыт драгоценною кровью,</plain>
+        </string>
+        <string>
+            <plain>Чистым сердце свое я хранил</plain>
+        </string>
+        <string>
+            <plain>И святой, бескорыстной любовью,</plain>
+        </string>
+        <string>
+            <plain>Всей душой своих ближних любил.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1525" name="Воспоминанья миг как журавлиный крик" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспоминанья миг, как журавлиный крик,</plain>
+        </string>
+        <string>
+            <plain>В душе тревожит прошлого картины:</plain>
+        </string>
+        <string>
+            <plain>Родимый отчий дом, все дети за столом,</plain>
+        </string>
+        <string>
+            <plain>Отец читает нам о Божьем Сыне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Последний раз, последний раз.</plain>
+        </string>
+        <string>
+            <plain>Быть может, слышишь ты рассказ</plain>
+        </string>
+        <string>
+            <plain>о Сыне Божьем.</plain>
+        </string>
+        <string>
+            <plain>Открой же дверь и сердцем верь.</plain>
+        </string>
+        <string>
+            <plain>Не говори Христу теперь:</plain>
+        </string>
+        <string>
+            <plain>"Приду попозже".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Воспоминанья миг вдруг сердце опалит</plain>
+        </string>
+        <string>
+            <plain>Огнем минувших дней неумолимо,</plain>
+        </string>
+        <string>
+            <plain>И вспомним мы избу, и, где-то там, в углу</plain>
+        </string>
+        <string>
+            <plain>Мать молится и шепчет наше имя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воспоминанья миг, как добрый проводник.</plain>
+        </string>
+        <string>
+            <plain>Подводит нас к спасенью силой Божьей:</plain>
+        </string>
+        <string>
+            <plain>Простой молитвы дом, и слышен призыв в нем,</plain>
+        </string>
+        <string>
+            <plain>А ты сидишь и все твердишь:"Попозже".</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Как тает от лучей туман.</plain>
+        </string>
+        <string>
+            <plain>Рассеется и твой обман:</plain>
+        </string>
+        <string>
+            <plain>"Приду попозже".</plain>
+        </string>
+        <string>
+            <plain>И вспомнишь ты в последний раз</plain>
+        </string>
+        <string>
+            <plain>Простой Евангельский рассказ</plain>
+        </string>
+        <string>
+            <plain>о Сыне Божьем.</plain>
+        </string>
+    </chorus>
+</song>

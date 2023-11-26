@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1483" name="Когда устанешь ты в пути суровом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда устанешь ты в пути суровом.</plain>
+        </string>
+        <string>
+            <plain>Когда о камни ноги разобьешь.</plain>
+        </string>
+        <string>
+            <plain>Открой, мой друг, святое Божье Слово:</plain>
+        </string>
+        <string>
+            <plain>В нем ободренье для души найдешь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Открой его. Чем чаще в те страницы</plain>
+        </string>
+        <string>
+            <plain>Ты будешь сердцем пламенным вникать.</plain>
+        </string>
+        <string>
+            <plain>Тем ярче будет луч святой зарницы</plain>
+        </string>
+        <string>
+            <plain>Твой каждый шаг и мысли освещать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тем тверже вера, искренней надежда,</plain>
+        </string>
+        <string>
+            <plain>Светлее взгляд и ближе вечный Бог.</plain>
+        </string>
+        <string>
+            <plain>Вникай в Писанье чаще и прилежней,</plain>
+        </string>
+        <string>
+            <plain>Чтоб ты другим свидетельствовать мог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Читай его, чтоб мог душой постигнуть</plain>
+        </string>
+        <string>
+            <plain>Великий смысл святых Господних слов.</plain>
+        </string>
+        <string>
+            <plain>Нам это Слово не дало погибнуть.</plain>
+        </string>
+        <string>
+            <plain>Избавив нас от смерти и оков.</plain>
+        </string>
+    </verse>
+</song>

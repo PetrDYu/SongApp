@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="373" name="Из чужого края" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Из чужого края,</plain>
+        </string>
+        <string>
+            <plain>Где блуждал душой,</plain>
+        </string>
+        <string>
+            <plain>Слушай зов, вставая:</plain>
+        </string>
+        <string>
+            <plain>"Сын Мой! Сын Мой!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Шествуй, странник, в край свой,</plain>
+        </string>
+        <string>
+            <plain>К Родине святой!</plain>
+        </string>
+        <string>
+            <plain>Ты блуждал так далеко,</plain>
+        </string>
+        <string>
+            <plain>Иди домой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Из страны голодной</plain>
+        </string>
+        <string>
+            <plain>В дом иди родной</plain>
+        </string>
+        <string>
+            <plain>В радости свободной –</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Брось путь грешной воли!</plain>
+        </string>
+        <string>
+            <plain>Ты разбит борьбой</plain>
+        </string>
+        <string>
+            <plain>И без сил от боли;</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нет тебе запрета,</plain>
+        </string>
+        <string>
+            <plain>Настежь дверь - ты Мой!</plain>
+        </string>
+        <string>
+            <plain>Взор Мой полн привета;</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты блуждал далеко,</plain>
+        </string>
+        <string>
+            <plain>Но приди домой,</plain>
+        </string>
+        <string>
+            <plain>Смою грязь порока,</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Посмотри: как много</plain>
+        </string>
+        <string>
+            <plain>Благ перед тобой!</plain>
+        </string>
+        <string>
+            <plain>Свет, обилье всюду,</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Оживи в надежде!</plain>
+        </string>
+        <string>
+            <plain>Дар любви святой</plain>
+        </string>
+        <string>
+            <plain>Близок, как и прежде,</plain>
+        </string>
+        <string>
+            <plain>Сын Мой! Сын Мой!</plain>
+        </string>
+    </verse>
+</song>

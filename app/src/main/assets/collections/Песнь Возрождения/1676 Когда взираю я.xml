@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1676" name="Когда взираю я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда взираю я</plain>
+        </string>
+        <string>
+            <plain>На путь, пройденный мной,</plain>
+        </string>
+        <string>
+            <plain>Звучит в душе моей</plain>
+        </string>
+        <string>
+            <plain>Любви глас неземной:</plain>
+        </string>
+        <string>
+            <plain>Вернись, заблудший сын,</plain>
+        </string>
+        <string>
+            <plain>Тебя ищу во тьме.</plain>
+        </string>
+        <string>
+            <plain>Вернись к Отцу любви,</plain>
+        </string>
+        <string>
+            <plain>Вернись ко мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Забудь порочный мир,</plain>
+        </string>
+        <string>
+            <plain>Забудь греховный путь,</plain>
+        </string>
+        <string>
+            <plain>Закрой свой взор от них,</plain>
+        </string>
+        <string>
+            <plain>Тебя пусть не влекут.</plain>
+        </string>
+        <string>
+            <plain>Стремись от тьмы скорей</plain>
+        </string>
+        <string>
+            <plain>Уйти к тем берегам,</plain>
+        </string>
+        <string>
+            <plain>Где Дух Христа дает покой сердцам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Измученный грехом.</plain>
+        </string>
+        <string>
+            <plain>Утомленный душой.</plain>
+        </string>
+        <string>
+            <plain>Не раз решался я</plain>
+        </string>
+        <string>
+            <plain>Вернуться в дом родной.</plain>
+        </string>
+        <string>
+            <plain>И слышу, средь скорбей</plain>
+        </string>
+        <string>
+            <plain>как будто мне звучит</plain>
+        </string>
+        <string>
+            <plain>Тот глас любви с небес</plain>
+        </string>
+        <string>
+            <plain>И говорит:</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Забудь порочный мир,</plain>
+        </string>
+        <string>
+            <plain>Забудь греховный путь,</plain>
+        </string>
+        <string>
+            <plain>Закрой свой взор от них.</plain>
+        </string>
+        <string>
+            <plain>Тебя пусть не влекут.</plain>
+        </string>
+        <string>
+            <plain>Стремись от тьмы скорей</plain>
+        </string>
+        <string>
+            <plain>Уйти к тем берегам,</plain>
+        </string>
+        <string>
+            <plain>Где Дух Христа дает покой сердцам.</plain>
+        </string>
+    </chorus>
+</song>

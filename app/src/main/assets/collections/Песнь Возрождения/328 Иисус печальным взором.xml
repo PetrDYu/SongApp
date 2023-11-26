@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="328" name="Иисус печальным взором" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус печальным взором</plain>
+        </string>
+        <string>
+            <plain>На толпы людей глядел;</plain>
+        </string>
+        <string>
+            <plain>Не судом и не укором –</plain>
+        </string>
+        <string>
+            <plain>Наш Спаситель пламенел</plain>
+        </string>
+        <string>
+            <plain>Вдохновеньями святыми;</plain>
+        </string>
+        <string>
+            <plain>И Он сжалился над ними</plain>
+        </string>
+        <string>
+            <plain>В вечной благости Своей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Словно овцы без надзора</plain>
+        </string>
+        <string>
+            <plain>И заботы пастуха,</plain>
+        </string>
+        <string>
+            <plain>Гибнут в пропасти позора</plain>
+        </string>
+        <string>
+            <plain>Люди, пленники греха.</plain>
+        </string>
+        <string>
+            <plain>Да, Он видел их такими</plain>
+        </string>
+        <string>
+            <plain>И Он сжалился над ними</plain>
+        </string>
+        <string>
+            <plain>В вечной благости Своей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг! Душа твоя стенает</plain>
+        </string>
+        <string>
+            <plain>Вдалеке от Божьих стад;</plain>
+        </string>
+        <string>
+            <plain>Призрак зла тебя терзает</plain>
+        </string>
+        <string>
+            <plain>Цепью муки и преград;</plain>
+        </string>
+        <string>
+            <plain>Твои стоны Пастырь слышит,</plain>
+        </string>
+        <string>
+            <plain>Жалостью к тебе Он дышит</plain>
+        </string>
+        <string>
+            <plain>В вечной благости Своей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пастырь жаждет и желает,</plain>
+        </string>
+        <string>
+            <plain>Чтобы ты пришел к Нему;</plain>
+        </string>
+        <string>
+            <plain>Он давно к тебе взывает</plain>
+        </string>
+        <string>
+            <plain>Сквозь смятение и тьму;</plain>
+        </string>
+        <string>
+            <plain>Отзовися на призывы</plain>
+        </string>
+        <string>
+            <plain>И иди за Ним счастливый</plain>
+        </string>
+        <string>
+            <plain>Взявши крест Его святой.</plain>
+        </string>
+    </verse>
+</song>

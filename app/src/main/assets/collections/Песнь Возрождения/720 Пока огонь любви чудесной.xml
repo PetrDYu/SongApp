@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="720" name="Пока огонь любви чудесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пока огонь любви чудесной</plain>
+        </string>
+        <string>
+            <plain>Горит в груди волной живой,</plain>
+        </string>
+        <string>
+            <plain>Мы силы юные совместно</plain>
+        </string>
+        <string>
+            <plain>Употребим на труд святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юность прекрасная,</plain>
+        </string>
+        <string>
+            <plain>Молодость ясная!</plain>
+        </string>
+        <string>
+            <plain>Сил, здоровья не жалей (для людей),</plain>
+        </string>
+        <string>
+            <plain>К Богу духом пламеней (все сильней).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пока сильны стремленья к небу</plain>
+        </string>
+        <string>
+            <plain>И много сил, здоровья в нас,</plain>
+        </string>
+        <string>
+            <plain>Друзья, распределим умело</plain>
+        </string>
+        <string>
+            <plain>Для славы Божьей всякий час!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ведь даже старцы вспоминают</plain>
+        </string>
+        <string>
+            <plain>С улыбкой светлой на устах</plain>
+        </string>
+        <string>
+            <plain>Порывы юности святые,</plain>
+        </string>
+        <string>
+            <plain>О всех друзьях и о трудах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Своих забот у нас немного,</plain>
+        </string>
+        <string>
+            <plain>Не будем предаваться им,</plain>
+        </string>
+        <string>
+            <plain>Не для себя, а для другого</plain>
+        </string>
+        <string>
+            <plain>Мы свои силы отдадим.</plain>
+        </string>
+    </verse>
+</song>

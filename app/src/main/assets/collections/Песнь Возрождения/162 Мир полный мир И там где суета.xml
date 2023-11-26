@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="162" name="Мир полный мир И там где суета" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мир, полный мир! - И там, где суета?</plain>
+        </string>
+        <string>
+            <plain>Да, мир дает и там нам кровь Христа.</plain>
+        </string>
+        <string>
+            <plain>Мир полный мир! - Среди земных забот</plain>
+        </string>
+        <string>
+            <plain>Надежда на Христа нам мир дает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мир, полный мир!</plain>
+        </string>
+        <string>
+            <plain>Хоть Зло вокруг кипит,</plain>
+        </string>
+        <string>
+            <plain>Но на груди Христовой мир царит,</plain>
+        </string>
+        <string>
+            <plain>Да, мир царит!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир, полный мир! - Вдали от дорогих?</plain>
+        </string>
+        <string>
+            <plain>Господь их сохранит в путях земных.</plain>
+        </string>
+        <string>
+            <plain>Мир, полный мир! - Хоть будущность темна?</plain>
+        </string>
+        <string>
+            <plain>Христос царит и сила нам дана.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир, полный мир! - Хоть смерть видна кругом?</plain>
+        </string>
+        <string>
+            <plain>Она побеждена давно Христом.</plain>
+        </string>
+        <string>
+            <plain>Когда ж придет конец земной борьбе,</plain>
+        </string>
+        <string>
+            <plain>Христос нас в край небес возьмет к Себе.</plain>
+        </string>
+    </verse>
+</song>

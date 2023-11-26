@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2586" name="Тихо ночь объяла землю и уснуло все кругом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихо, ночь объяла землю и уснуло все кругом.</plain>
+        </string>
+        <string>
+            <plain>Лишь в пещере мрачной, тесной не забылась сном,</plain>
+        </string>
+        <string>
+            <plain>Перед яслями, склонившись над родившимся Христом,</plain>
+        </string>
+        <string>
+            <plain>Счастья полная Мария - был прекрасен Он.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Звезды яркие сияли, ночь была ясна, тиха.</plain>
+        </string>
+        <string>
+            <plain>Пастухи в полях дремали мирно у костра.</plain>
+        </string>
+        <string>
+            <plain>Вдруг внезапно засияли ярким светом небеса.</plain>
+        </string>
+        <string>
+            <plain>И над миром зозвучали с неба голоса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"О, не бойтесь, не страшитесь, но спешите в Вифлеем,</plain>
+        </string>
+        <string>
+            <plain>Пред Младенцем там склонитесь, вам Христос рождён.</plain>
+        </string>
+        <string>
+            <plain>В яслях бедных и убогих Царь царей, Господь лежит.</plain>
+        </string>
+        <string>
+            <plain>День придет, в венце терновом мир Его узрит".</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="772" name="Молодым капитанам веры" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молодым капитанам веры,</plain>
+        </string>
+        <string>
+            <plain>Направляющим в небо путь,</plain>
+        </string>
+        <string>
+            <plain>Я желаю веры без меры</plain>
+        </string>
+        <string>
+            <plain>И чтоб мужеством крепла грудь!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>На пути будут ветры гонений,</plain>
+        </string>
+        <string>
+            <plain>И затишье, как мели обман,</plain>
+        </string>
+        <string>
+            <plain>И подводные камни сомнений,</plain>
+        </string>
+        <string>
+            <plain>И неверья гнетущий туман.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но для тех, кто Христом научен</plain>
+        </string>
+        <string>
+            <plain>Силой веры стихию смирять,</plain>
+        </string>
+        <string>
+            <plain>Через самые мрачные тучи</plain>
+        </string>
+        <string>
+            <plain>Будет солнце победы сиять.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И при виде широкого моря</plain>
+        </string>
+        <string>
+            <plain>Человеческих слез и скорбей,</plain>
+        </string>
+        <string>
+            <plain>Не покиньте томящихся в горе</plain>
+        </string>
+        <string>
+            <plain>Позабывших о Боге людей.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Капитаны! Повыше знамя</plain>
+        </string>
+        <string>
+            <plain>Лучезарной Божьей любви!</plain>
+        </string>
+        <string>
+            <plain>Благовестия яркое пламя,</plain>
+        </string>
+        <string>
+            <plain>На просторах людских живи!</plain>
+        </string>
+    </verse>
+</song>

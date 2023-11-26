@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="499" name="Мой в небе край родной мой в небе дом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой в небе край родной мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Там мой Отец благой, мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Я странник на земле, мой путь лежит во мгле,</plain>
+        </string>
+        <string>
+            <plain>И скорби лишь кругом, - мой в небе дом!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не долог путь земной - мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Хоть тяжек жизни бой, - мой в небе дом.</plain>
+        </string>
+        <string>
+            <plain>Но все пройдет, как сон, и будет путь свершен,</plain>
+        </string>
+        <string>
+            <plain>И буду я с Отцом, - мой в небе дом!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там где Христа народ, - мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Мой дух туда влечет - мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Там буду ликовать, Иисуса воспевать</plain>
+        </string>
+        <string>
+            <plain>Перед Его лицом, - Мой в небе дом!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И буду ль я страдать, - мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Все ж не могу роптать - мой в небе дом!</plain>
+        </string>
+        <string>
+            <plain>Ведь Сам Христос страдал и в небе обещал</plain>
+        </string>
+        <string>
+            <plain>Украсить Он венцом, - мой в небе дом!</plain>
+        </string>
+    </verse>
+</song>

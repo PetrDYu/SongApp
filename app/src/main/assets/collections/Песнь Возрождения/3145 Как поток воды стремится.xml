@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3145" name="Как поток воды стремится" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как поток воды стремится</plain>
+        </string>
+        <string>
+            <plain>к бездне моря вдалеке,</plain>
+        </string>
+        <string>
+            <plain>так проходит быстротечно</plain>
+        </string>
+        <string>
+            <plain>наше время на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь для всех нас оборвётся,</plain>
+        </string>
+        <string>
+            <plain>- Ты готов уже уйти?</plain>
+        </string>
+        <string>
+            <plain>Можешь ли тогда спокойно</plain>
+        </string>
+        <string>
+            <plain>в вечность с радостью войти?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Наши годы исчезают</plain>
+        </string>
+        <string>
+            <plain>словно пар, что ввысь идёт.</plain>
+        </string>
+        <string>
+            <plain>Как цветы, что отцветают,</plain>
+        </string>
+        <string>
+            <plain>быстро наша жизнь пройдёт!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Время так неудержимо</plain>
+        </string>
+        <string>
+            <plain>всё быстрей к концу идёт.</plain>
+        </string>
+        <string>
+            <plain>Что же будет, друг, с тобою</plain>
+        </string>
+        <string>
+            <plain>в час, когда Судья придёт?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Грешник, на пути ты к бездне!</plain>
+        </string>
+        <string>
+            <plain>Пробудись, остановись</plain>
+        </string>
+        <string>
+            <plain>и внемли словам Господним:</plain>
+        </string>
+        <string>
+            <plain>«Сын заблудший, возвратись!»</plain>
+        </string>
+    </verse>
+</song>

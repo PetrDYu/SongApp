@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2722" name="Море бушует и грозно шумит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Море бушует и грозно шумит,</plain>
+        </string>
+        <string>
+            <plain>Свет маяка оно может закрыть.</plain>
+        </string>
+        <string>
+            <plain>Но не страшитесь волн вы морей,</plain>
+        </string>
+        <string>
+            <plain>Веслами веры гребите сильней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>3наю, скоро буду я там,</plain>
+        </string>
+        <string>
+            <plain>Где вечный царит покой.</plain>
+        </string>
+        <string>
+            <plain>Где солнце правды навеки взойдет,</plain>
+        </string>
+        <string>
+            <plain>Вечное утро с собой принесет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот новый вал собирает волну,</plain>
+        </string>
+        <string>
+            <plain>Встав пред ладьёю, грозит: утоплю,</plain>
+        </string>
+        <string>
+            <plain>Сердце от ужаса тает в груди,</plain>
+        </string>
+        <string>
+            <plain>О мой Спаситель, скорей помоги.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Путь еще долог к родной стране,</plain>
+        </string>
+        <string>
+            <plain>Много мы бурь еще встретим в пути,</plain>
+        </string>
+        <string>
+            <plain>Много раз солнце сокроет свой лик,</plain>
+        </string>
+        <string>
+            <plain>Снова и снова все море шумит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но за туманом и далью морской</plain>
+        </string>
+        <string>
+            <plain>Виден усталым маяк, где покой</plain>
+        </string>
+        <string>
+            <plain>Он нам сигналы дает, чтоб в цуги</plain>
+        </string>
+        <string>
+            <plain>Мы могли к цели заветной прийти.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1121" name="Время ты куда улетаешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Время, ты куда улетаешь?</plain>
+        </string>
+        <string>
+            <plain>Время, ты куда все спешишь?</plain>
+        </string>
+        <string>
+            <plain>В жизни ты только след оставляешь,</plain>
+        </string>
+        <string>
+            <plain>И снова куда-то летишь!</plain>
+        </string>
+        <string>
+            <plain>Время, ты ключом журавлей улетаешь,</plain>
+        </string>
+        <string>
+            <plain>Знаю, что ты ко мне опять не прилетишь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Время, ты проходишь так быстро.</plain>
+        </string>
+        <string>
+            <plain>Много принося мне скорбей.</plain>
+        </string>
+        <string>
+            <plain>Знаю, что не вернуть мне в бессильи</plain>
+        </string>
+        <string>
+            <plain>Так много утраченных дней.</plain>
+        </string>
+        <string>
+            <plain>Боже, о, зачем ослабели так крылья?</plain>
+        </string>
+        <string>
+            <plain>Быстро б я улетел в тот край, где нет скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже, вот опять призываю</plain>
+        </string>
+        <string>
+            <plain>Имя Святое Твое.</plain>
+        </string>
+        <string>
+            <plain>В жизни дай мне ценить, умоляю.</plain>
+        </string>
+        <string>
+            <plain>Короткое время свое.</plain>
+        </string>
+        <string>
+            <plain>Боже, не оставь Ты меня, умоляю,</plain>
+        </string>
+        <string>
+            <plain>Боже, даруй узреть покой для вечных дней.</plain>
+        </string>
+    </verse>
+</song>

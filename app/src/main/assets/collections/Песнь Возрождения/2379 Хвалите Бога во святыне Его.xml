@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2379" name="Хвалите Бога во святыне Его" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвалите Бога во святыне Его,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его на тверди силы Его.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хвалите Его по могуществу Его,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его по множеству величия Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвалите Его со звуком трубным,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его на псалтири и гуслях.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хвали те Его с тимпаном и ликами,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его на струнах и органе.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хвалите Его на звучных кимвалах,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его на кимвалах громогласных.</plain>
+        </string>
+    </verse>
+</song>

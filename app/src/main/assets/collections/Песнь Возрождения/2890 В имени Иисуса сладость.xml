@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2890" name="В имени Иисуса сладость" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В имени Иисуса - сладость!</plain>
+        </string>
+        <string>
+            <plain>Всю Он боль снимает нам</plain>
+        </string>
+        <string>
+            <plain>и дарует мир и радость</plain>
+        </string>
+        <string>
+            <plain>верным, праведным сердцам.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сладостно на душе,</plain>
+        </string>
+        <string>
+            <plain>если слышу о Христе;</plain>
+        </string>
+        <string>
+            <plain>сладостно, на душе,</plain>
+        </string>
+        <string>
+            <plain>если слышу о Христе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С именем Иисуса смело</plain>
+        </string>
+        <string>
+            <plain>в битве мы вперёд пойдём</plain>
+        </string>
+        <string>
+            <plain>и с мечом Его всецело</plain>
+        </string>
+        <string>
+            <plain>войско вражье разобьём.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Иисуса имя славно,</plain>
+        </string>
+        <string>
+            <plain>счастье всем оно даёт!</plain>
+        </string>
+        <string>
+            <plain>И народ Его отрадно</plain>
+        </string>
+        <string>
+            <plain>восклицает и поёт.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Славьте все Иисуса имя,</plain>
+        </string>
+        <string>
+            <plain>говоря о Нём другим,</plain>
+        </string>
+        <string>
+            <plain>до тех пор, пока с святыми</plain>
+        </string>
+        <string>
+            <plain>мы пред станем все пред Ним.</plain>
+        </string>
+    </verse>
+</song>

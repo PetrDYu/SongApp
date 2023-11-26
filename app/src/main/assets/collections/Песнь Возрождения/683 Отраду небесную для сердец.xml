@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="683" name="Отраду небесную для сердец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отраду небесную для сердец</plain>
+        </string>
+        <string>
+            <plain>Нам послал Отец;</plain>
+        </string>
+        <string>
+            <plain>Для радости ясной собрал он нас;</plain>
+        </string>
+        <string>
+            <plain>Честь Ему за этот час!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всем привет,</plain>
+        </string>
+        <string>
+            <plain>Братьям, сестрам, всем привет;</plain>
+        </string>
+        <string>
+            <plain>Бог призвал в чудный свет,</plain>
+        </string>
+        <string>
+            <plain>Будем радоваться в Нем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В собранье во имя Его Иисус</plain>
+        </string>
+        <string>
+            <plain>Быть Сам обещал,</plain>
+        </string>
+        <string>
+            <plain>Он хочет, чтоб вечный наш с Ним союз</plain>
+        </string>
+        <string>
+            <plain>В благодати возрастал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир этот не знает отрады той,</plain>
+        </string>
+        <string>
+            <plain>Что Господь нам дал;</plain>
+        </string>
+        <string>
+            <plain>Молиться мы будем, чтоб Он благой</plain>
+        </string>
+        <string>
+            <plain>Вечно с нами пребывал.</plain>
+        </string>
+    </verse>
+</song>

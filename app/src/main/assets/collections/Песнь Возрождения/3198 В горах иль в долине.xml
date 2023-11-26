@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3198" name="В горах иль в долине" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В горах, иль в долине,</plain>
+        </string>
+        <string>
+            <plain>иль в дальних морях</plain>
+        </string>
+        <string>
+            <plain>- где б ни пришлось мне быть,</plain>
+        </string>
+        <string>
+            <plain>ведёт меня Слово Твоё, как маяк.</plain>
+        </string>
+        <string>
+            <plain>Верным хочу я быть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верным быть, верным быть,</plain>
+        </string>
+        <string>
+            <plain>верным хочу я быть!</plain>
+        </string>
+        <string>
+            <plain>Верным быть, верным быть,</plain>
+        </string>
+        <string>
+            <plain>да, верным хочу я быть!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>А в мудрости мира спасения нет</plain>
+        </string>
+        <string>
+            <plain>- жажду с Христом пребыть.</plain>
+        </string>
+        <string>
+            <plain>Иисус у креста мне</plain>
+        </string>
+        <string>
+            <plain>открыл вечный свет</plain>
+        </string>
+        <string>
+            <plain>- верным хочу я быть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть дьявол, как ангел,</plain>
+        </string>
+        <string>
+            <plain>приходит ко мне</plain>
+        </string>
+        <string>
+            <plain>- Бог меня защитит.</plain>
+        </string>
+        <string>
+            <plain>Не может моей повредить он душе:</plain>
+        </string>
+        <string>
+            <plain>верным хочу я быть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Награда нас ждёт</plain>
+        </string>
+        <string>
+            <plain>после верной борьбы</plain>
+        </string>
+        <string>
+            <plain>там в вышине небес,</plain>
+        </string>
+        <string>
+            <plain>когда пред престолом Христа будем мы.</plain>
+        </string>
+        <string>
+            <plain>О, стойте верно все!</plain>
+        </string>
+    </verse>
+</song>

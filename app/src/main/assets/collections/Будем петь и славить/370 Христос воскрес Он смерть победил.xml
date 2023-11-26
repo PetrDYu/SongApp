@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="370" name="Христос воскрес Он смерть победил" canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Христос воскрес! Он смерть победил!</plain>
+        </string>
+        <string>
+            <plain>Его не ищите средь мрачных могил.</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Он с нами опять!</plain>
+        </string>
+        <string>
+            <plain>И смерть не смогла Его удержать!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот Он идет, Воскресший Иисус!</plain>
+        </string>
+        <string>
+            <plain>Он нам несет чудесную весть о любви,</plain>
+        </string>
+        <string>
+            <plain>Желанную весть о любви, о любви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христос воскрес! Гробница пуста.</plain>
+        </string>
+        <string>
+            <plain>Бегите, спешите, встречайте Христа!</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Ликует земля!</plain>
+        </string>
+        <string>
+            <plain>Прославим Христа Иисуса-Царя!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Эммануил – Бог среди нас!</plain>
+        </string>
+        <string>
+            <plain>Он нам принес чудесную весть о любви,</plain>
+        </string>
+        <string>
+            <plain>Желанную весть о любви, о любви!</plain>
+        </string>
+    </chorus>
+    <verse number="0">
+        <string>
+            <plain>4 р.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>3 р.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>4 р.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>4 р.</plain>
+        </string>
+    </verse>
+</song>

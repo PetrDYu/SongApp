@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1886" name="Бог возлюбил погибший мир" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог возлюбил погибший мир</plain>
+        </string>
+        <string>
+            <plain>В пороке, в суете;</plain>
+        </string>
+        <string>
+            <plain>И всем спасенье, вечный мир</plain>
+        </string>
+        <string>
+            <plain>Дает Он в полноте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>То - любовь, любовь чудес,</plain>
+        </string>
+        <string>
+            <plain>Любовь Творца небес;</plain>
+        </string>
+        <string>
+            <plain>Она послала в мир Христа</plain>
+        </string>
+        <string>
+            <plain>Для тяжких мук креста.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я верю своим зову</plain>
+        </string>
+        <string>
+            <plain>Воскресшего Христа;</plain>
+        </string>
+        <string>
+            <plain>Я Им искуплен, Им живу</plain>
+        </string>
+        <string>
+            <plain>И Им душа чиста.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь приносит полноту;</plain>
+        </string>
+        <string>
+            <plain>Святые познают</plain>
+        </string>
+        <string>
+            <plain>В ней от порока чистоту</plain>
+        </string>
+        <string>
+            <plain>По вере в крестный труд.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ликуй же, верующий люд!</plain>
+        </string>
+        <string>
+            <plain>Дано вам в мире тут</plain>
+        </string>
+        <string>
+            <plain>Вкусить из чаши вечных благ,</plain>
+        </string>
+        <string>
+            <plain>Что будут в небесах.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Друзья! Пусть все поют из вас.</plain>
+        </string>
+        <string>
+            <plain>Победу над врагом</plain>
+        </string>
+        <string>
+            <plain>И торжествуют в смертный час</plain>
+        </string>
+        <string>
+            <plain>О Господе своем.</plain>
+        </string>
+    </verse>
+</song>

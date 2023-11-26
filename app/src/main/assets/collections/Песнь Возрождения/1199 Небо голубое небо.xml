@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1199" name="Небо голубое небо" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небо, голубое небо,</plain>
+        </string>
+        <string>
+            <plain>Восхищаюсь я тобой.</plain>
+        </string>
+        <string>
+            <plain>Никогда в тебе я не был,</plain>
+        </string>
+        <string>
+            <plain>А теперь стремлюсь душой.</plain>
+        </string>
+        <string>
+            <plain>Всей душой стремлюсь туда я,</plain>
+        </string>
+        <string>
+            <plain>В Боге там найти покой,</plain>
+        </string>
+        <string>
+            <plain>Там я воспою, ликуя,</plain>
+        </string>
+        <string>
+            <plain>Он мне дал венец такой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О небо, ты - венец моей мечты,</plain>
+        </string>
+        <string>
+            <plain>К тебе я возношусь от суеты.</plain>
+        </string>
+        <string>
+            <plain>Творцу хвалу слагаю я,</plain>
+        </string>
+        <string>
+            <plain>- Он создал небо для меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Небо, голубое небо.</plain>
+        </string>
+        <string>
+            <plain>Ты меня влечёшь собой.</plain>
+        </string>
+        <string>
+            <plain>И как часто я с мольбою</plain>
+        </string>
+        <string>
+            <plain>Вновь склоняюсь пред тобой.</plain>
+        </string>
+        <string>
+            <plain>Всей душой стремлюсь туда я,</plain>
+        </string>
+        <string>
+            <plain>В Боге там найти покой.</plain>
+        </string>
+        <string>
+            <plain>Там я воспою, ликуя,</plain>
+        </string>
+        <string>
+            <plain>Бог мне дал венец такой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Небо, голубое небо,</plain>
+        </string>
+        <string>
+            <plain>Бесконечно, вечно ты,</plain>
+        </string>
+        <string>
+            <plain>И к тебе своей красою</plain>
+        </string>
+        <string>
+            <plain>Вновь парят мои мечты.</plain>
+        </string>
+        <string>
+            <plain>Всей душой стремлюсь туда я,</plain>
+        </string>
+        <string>
+            <plain>В Боге там найти покой.</plain>
+        </string>
+        <string>
+            <plain>Там я воспою, ликуя.</plain>
+        </string>
+        <string>
+            <plain>Бог мне дал венец такой.</plain>
+        </string>
+    </verse>
+</song>

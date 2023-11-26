@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="461" name="Христос приди как в дни былые" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос, приди, как в дни былые,</plain>
+        </string>
+        <string>
+            <plain>Детей Своих благослови;</plain>
+        </string>
+        <string>
+            <plain>Соедини их дни земные</plain>
+        </string>
+        <string>
+            <plain>Союзом мира и любви.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Желаем счастья!</plain>
+        </string>
+        <string>
+            <plain>Лишь только счастья!</plain>
+        </string>
+        <string>
+            <plain>Пусть вас Господь благословит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пребудь в союзе и общенье</plain>
+        </string>
+        <string>
+            <plain>Ты с ними, наш Отец благой,</plain>
+        </string>
+        <string>
+            <plain>И ниспошли им подкрепленье,</plain>
+        </string>
+        <string>
+            <plain>Излей на них Твой Дух Святой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб, живя в земной отчизне,</plain>
+        </string>
+        <string>
+            <plain>Они могли Тебя хвалить,</plain>
+        </string>
+        <string>
+            <plain>И научай их словом жизни,</plain>
+        </string>
+        <string>
+            <plain>Как нужно верить и любить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди и щедрою рукою</plain>
+        </string>
+        <string>
+            <plain>Излей дары Свои на них!</plain>
+        </string>
+        <string>
+            <plain>Венцом и славой неземною</plain>
+        </string>
+        <string>
+            <plain>Венчай, Господь, детей Своих.</plain>
+        </string>
+    </verse>
+</song>

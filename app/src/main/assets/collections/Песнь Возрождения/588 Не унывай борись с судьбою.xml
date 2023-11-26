@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="588" name="Не унывай борись с судьбою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не унывай, борись с судьбою, -</plain>
+        </string>
+        <string>
+            <plain>Твердил мне солнца яркий луч.</plain>
+        </string>
+        <string>
+            <plain>Не унывай, Господь с тобою, -</plain>
+        </string>
+        <string>
+            <plain>Мне жаворонок пел из туч.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не говори, что нет спасенья,</plain>
+        </string>
+        <string>
+            <plain>Что ты в печалях изнемог.</plain>
+        </string>
+        <string>
+            <plain>Чем ночь темней, тем ярче звезды,</plain>
+        </string>
+        <string>
+            <plain>Чем глубже скорбь, тем ближе Бог.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не унывай, вперед смелее, -</plain>
+        </string>
+        <string>
+            <plain>Мне повторял смеясь поток.</plain>
+        </string>
+        <string>
+            <plain>Не унывай, будь веселее, -</plain>
+        </string>
+        <string>
+            <plain>Твердил голубенький цветок.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не унывай, - мне утро мая</plain>
+        </string>
+        <string>
+            <plain>Вещало свежестью своей,</plain>
+        </string>
+        <string>
+            <plain>И вся природа, воскресая,</plain>
+        </string>
+        <string>
+            <plain>Будила жизнь в душе моей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И я с тех пор благословляю</plain>
+        </string>
+        <string>
+            <plain>И солнца луч, и светлый май,</plain>
+        </string>
+        <string>
+            <plain>И говор струй, и пташек пенье,</plain>
+        </string>
+        <string>
+            <plain>Твердивших мне "Не унывай!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="288" name="Хорошо нам быть в общеньи, позабыв на миг тревоги," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Хорошо нам быть в общеньи, позабыв на миг тревоги,</plain>
+        </string>
+        <string>
+            <plain>Хорошо пребыть в служеньи,</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>прославляя сердцем Бога.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мы хотим средь тьмы быть светом, быть во всем единодушны,</plain>
+        </string>
+        <string>
+            <plain>Исполнять Христа заветы</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>честно, преданно, послушно.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христианская дорога средь скорбей не бесконечна.</plain>
+        </string>
+        <string>
+            <plain>За тропой борьбы, тревоги</plain>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>будем с Господом мы вечно.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

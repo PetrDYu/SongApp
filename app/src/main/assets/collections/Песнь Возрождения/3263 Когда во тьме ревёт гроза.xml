@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3263" name="Когда во тьме ревёт гроза" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда во тьме ревёт гроза,</plain>
+        </string>
+        <string>
+            <plain>пугает всё живое.</plain>
+        </string>
+        <string>
+            <plain>Когда туманит взор слеза,</plain>
+        </string>
+        <string>
+            <plain>и сердцу нет покоя:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Склонись в мольбе,</plain>
+        </string>
+        <string>
+            <plain>Христос тебе помочь давно желает.</plain>
+        </string>
+        <string>
+            <plain>Слезу скорбей с твоих очей</plain>
+        </string>
+        <string>
+            <plain>отрёт рука святая.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда умчалась юность вдаль</plain>
+        </string>
+        <string>
+            <plain>нет радости приятной.</plain>
+        </string>
+        <string>
+            <plain>И придавила грудь печаль</plain>
+        </string>
+        <string>
+            <plain>о прошлом, невозвратном.</plain>
+        </string>
+        <string>
+            <plain>З Когда измучился в пути,</plain>
+        </string>
+        <string>
+            <plain>не стало силы прежней.</plain>
+        </string>
+        <string>
+            <plain>И дальше некуда идти</plain>
+        </string>
+        <string>
+            <plain>и больше нет надежды.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда остался одинок,</plain>
+        </string>
+        <string>
+            <plain>здоровье изменило,</plain>
+        </string>
+        <string>
+            <plain>и час последней не далёк,</plain>
+        </string>
+        <string>
+            <plain>и скорбно и уныло.</plain>
+        </string>
+    </verse>
+</song>

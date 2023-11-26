@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2061" name="В разбитой волнами ладье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В разбитой волнами ладье</plain>
+        </string>
+        <string>
+            <plain>Во мраке ночи плыл</plain>
+        </string>
+        <string>
+            <plain>Туда, где в непроглядной тьме</plain>
+        </string>
+        <string>
+            <plain>Так грозно ветер выл.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Грозила смерть, а мрак ночной</plain>
+        </string>
+        <string>
+            <plain>Сгущался всё сильней,</plain>
+        </string>
+        <string>
+            <plain>И над пучиной роковой</plain>
+        </string>
+        <string>
+            <plain>Грозила буря злей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но вот вдали блеснул маяк,</plain>
+        </string>
+        <string>
+            <plain>Лучом прорезав тьму.</plain>
+        </string>
+        <string>
+            <plain>О, гибнущий в волнах моряк,</plain>
+        </string>
+        <string>
+            <plain>Направь ладью к нему!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сквозь бурю голос прозвучал</plain>
+        </string>
+        <string>
+            <plain>Спасителя ко мне,</plain>
+        </string>
+        <string>
+            <plain>И голос этот я узнал,</plain>
+        </string>
+        <string>
+            <plain>Он влёк меня к Себе.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О брат, мужайся, близка цель,</plain>
+        </string>
+        <string>
+            <plain>Пусть не смолкнет дух.</plain>
+        </string>
+        <string>
+            <plain>Стремись вперёд, будь бодр и смел,</plain>
+        </string>
+        <string>
+            <plain>Хоть волны так ревут.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Утихнет буря, ночь пройдёт,</plain>
+        </string>
+        <string>
+            <plain>Заблещет солнца луч.</plain>
+        </string>
+        <string>
+            <plain>И в пристань тихую войдёт,</plain>
+        </string>
+        <string>
+            <plain>Кто духом был могуч.</plain>
+        </string>
+    </verse>
+</song>

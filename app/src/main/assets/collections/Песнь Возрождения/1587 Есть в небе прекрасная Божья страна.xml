@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1587" name="Есть в небе прекрасная Божья страна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть в небе прекрасная Божья страна.</plain>
+        </string>
+        <string>
+            <plain>Всех Божиих чад ожидает она.</plain>
+        </string>
+        <string>
+            <plain>Вперед направляюсь с надеждой в груди.</plain>
+        </string>
+        <string>
+            <plain>Я верю, я верю, что Ты впереди.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>То город прекрасный, дорогу туда</plain>
+        </string>
+        <string>
+            <plain>Никто без Христа не найдет никогда.</plain>
+        </string>
+        <string>
+            <plain>Я слышу Твой голос: За Мною иди!</plain>
+        </string>
+        <string>
+            <plain>Я верю, я верю, что Ты впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К той Родине дивной всем сердцем стремлюсь,</plain>
+        </string>
+        <string>
+            <plain>К Тебе я в молитве своей возношусь.</plain>
+        </string>
+        <string>
+            <plain>О, Пастырь мой добрый, меня Ты веди,</plain>
+        </string>
+        <string>
+            <plain>Я верю, я верю, что Ты впереди.</plain>
+        </string>
+    </verse>
+</song>

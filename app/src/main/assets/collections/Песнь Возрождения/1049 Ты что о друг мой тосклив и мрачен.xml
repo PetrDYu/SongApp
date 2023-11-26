@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1049" name="Ты что о друг мой тосклив и мрачен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты что, о друг мой, тосклив и мрачен?</plain>
+        </string>
+        <string>
+            <plain>Удел счастливый тебе назначен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, не печалься над суетою -</plain>
+        </string>
+        <string>
+            <plain>Она проходит мечтой пустою.</plain>
+        </string>
+        <string>
+            <plain>А там, на небе, все будет вечно,</plain>
+        </string>
+        <string>
+            <plain>Умчится горе, друг, быстротечно.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Или ты хочешь богатства, славы?</plain>
+        </string>
+        <string>
+            <plain>Они для сердца больней отравы!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прийди к Иисусу, Он любит душу.</plain>
+        </string>
+        <string>
+            <plain>Твои оковы Он все разрушит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Настало время - познай ты Бога.</plain>
+        </string>
+        <string>
+            <plain>Уйди от мира, где горя много.</plain>
+        </string>
+    </verse>
+</song>

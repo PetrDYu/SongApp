@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1599" name="Юность ты прекрасна жизни дар бесценный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Юность, ты прекрасна, жизни дар бесценный.</plain>
+        </string>
+        <string>
+            <plain>Ты как свет небесный молодых годов.</plain>
+        </string>
+        <string>
+            <plain>Но зачем так скоро вянет лик прекрасный.</plain>
+        </string>
+        <string>
+            <plain>Блеск очей погаснет, в кудрях седина.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все, что мог отдать я, чтобы ты осталась</plain>
+        </string>
+        <string>
+            <plain>Во мне безраздельно до конца цвести.</plain>
+        </string>
+        <string>
+            <plain>Быстро так уходят годы золотые,</plain>
+        </string>
+        <string>
+            <plain>И ты беспощадно хочешь так уйти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто бы мог вернуть мне прелесть дней тревожных,</plain>
+        </string>
+        <string>
+            <plain>Огонь любви заветной бодрость обрести?</plain>
+        </string>
+        <string>
+            <plain>Юность - это счастье дней моих тревожных.</plain>
+        </string>
+        <string>
+            <plain>Что промчались в бурях на земном пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не грусти, о, брат мой, есть надежда в Боге.</plain>
+        </string>
+        <string>
+            <plain>Пред рукою Божьей молод ты всегда.</plain>
+        </string>
+        <string>
+            <plain>Ведь недаром руки те пронзены были.</plain>
+        </string>
+        <string>
+            <plain>Чтоб вернуть нам юность, Жизни нашей дар.</plain>
+        </string>
+    </verse>
+</song>

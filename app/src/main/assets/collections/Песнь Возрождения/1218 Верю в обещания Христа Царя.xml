@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1218" name="Верю в обещания Христа Царя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верю в обещания Христа Царя,</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы пою, к Нему душой смотря,</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу, уж взошла заря,</plain>
+        </string>
+        <string>
+            <plain>Верой в обещания стою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верой, верой, верой в обещания стою (стою я)</plain>
+        </string>
+        <string>
+            <plain>Верой, верой, верой в обещания стою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Верю в обещания, Ему хвала,</plain>
+        </string>
+        <string>
+            <plain>Не страшусь я грозных бурь греха и зла.</plain>
+        </string>
+        <string>
+            <plain>Лишь бы милость Божия со мной была,</plain>
+        </string>
+        <string>
+            <plain>Верой в обещания стою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верю в обещания Христа ко мне,</plain>
+        </string>
+        <string>
+            <plain>Отдаюсь Ему я всей душой вполне,</plain>
+        </string>
+        <string>
+            <plain>И хочу с Ним быть на правой стороне,</plain>
+        </string>
+        <string>
+            <plain>Верой в обещания стою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верю в обещания, я в них креплюсь,</plain>
+        </string>
+        <string>
+            <plain>Благодатью Божьей в сердце веселюсь;</plain>
+        </string>
+        <string>
+            <plain>Радостно воскликну, как пред Ним явлюсь,</plain>
+        </string>
+        <string>
+            <plain>Верой в обещания стою.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3023" name="Хочу светить Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочу светить, Господь,</plain>
+        </string>
+        <string>
+            <plain>здесь в тёмном мире я,</plain>
+        </string>
+        <string>
+            <plain>и жизнью я хочу лишь</plain>
+        </string>
+        <string>
+            <plain>прославлять Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Светом небесным</plain>
+        </string>
+        <string>
+            <plain>я хочу светить.</plain>
+        </string>
+        <string>
+            <plain>Светом небесным,</plain>
+        </string>
+        <string>
+            <plain>Господь, дай светить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочу любить Того,</plain>
+        </string>
+        <string>
+            <plain>кто возлюбил меня,</plain>
+        </string>
+        <string>
+            <plain>и сеять лишь добро</plain>
+        </string>
+        <string>
+            <plain>- в том радость вся моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу я людям всем,</plain>
+        </string>
+        <string>
+            <plain>живущим во грехах,</plain>
+        </string>
+        <string>
+            <plain>рассказывать о том,</plain>
+        </string>
+        <string>
+            <plain>как верен Бог и благ.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хочу я по Его</plain>
+        </string>
+        <string>
+            <plain>стопам всегда идти,</plain>
+        </string>
+        <string>
+            <plain>к Нему однажды,</plain>
+        </string>
+        <string>
+            <plain>чтоб на небеса войти.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хочу Тебе, Господь,</plain>
+        </string>
+        <string>
+            <plain>отдать всю жизнь свою;</plain>
+        </string>
+        <string>
+            <plain>о, помоги ж мне Ты,</plain>
+        </string>
+        <string>
+            <plain>любимый мой Иисус!</plain>
+        </string>
+    </verse>
+</song>

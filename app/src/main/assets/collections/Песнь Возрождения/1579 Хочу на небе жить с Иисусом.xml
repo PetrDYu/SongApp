@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1579" name="Хочу на небе жить с Иисусом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочу на небе жить с Иисусом,</plain>
+        </string>
+        <string>
+            <plain>Хочу Ему я здесь служить,</plain>
+        </string>
+        <string>
+            <plain>Хочу вполне я быть послушным,</plain>
+        </string>
+        <string>
+            <plain>Хочу Твоим навеки быть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Прошу, Господь, пребудь со мною</plain>
+        </string>
+        <string>
+            <plain>В долине плача и скорбей.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, только лишь с Тобою</plain>
+        </string>
+        <string>
+            <plain>Страны достигну я Твоей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, услышь души желанье</plain>
+        </string>
+        <string>
+            <plain>И благодать Твою излей.</plain>
+        </string>
+        <string>
+            <plain>Дай больше, Боже, мне старанья</plain>
+        </string>
+        <string>
+            <plain>Учиться мудрости Твоей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я слаб и нищ, совсем ничтожен,</plain>
+        </string>
+        <string>
+            <plain>Но силен буду я с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб победить все узы мрака,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мне достичь страны родной.</plain>
+        </string>
+    </verse>
+</song>

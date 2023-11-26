@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2806" name="За Тобой иду Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За Тобой иду, Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Чтоб не встретилось в пути</plain>
+        </string>
+        <string>
+            <plain>и куда бы ни пошел Ты,</plain>
+        </string>
+        <string>
+            <plain>За Тобой хочу идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, я следую</plain>
+        </string>
+        <string>
+            <plain>примерно за Тобой,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой;</plain>
+        </string>
+        <string>
+            <plain>Крестный путь,</plain>
+        </string>
+        <string>
+            <plain>он самый верный,</plain>
+        </string>
+        <string>
+            <plain>им иду я за Тобой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть мой путь крутой, тернистый,</plain>
+        </string>
+        <string>
+            <plain>Твой не виден след порой</plain>
+        </string>
+        <string>
+            <plain>- этот путь Тобою пройден,</plain>
+        </string>
+        <string>
+            <plain>мне легко идти с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если мрачен и печален</plain>
+        </string>
+        <string>
+            <plain>иногда мой путь земной,</plain>
+        </string>
+        <string>
+            <plain>На Твой зов иду, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>я бесстрашно за Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если будут искушенья,</plain>
+        </string>
+        <string>
+            <plain>я назад не отступлю</plain>
+        </string>
+        <string>
+            <plain>- Ты был тоже в искушеньях,</plain>
+        </string>
+        <string>
+            <plain>смело я с Тобой иду!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если буду я в страданьях</plain>
+        </string>
+        <string>
+            <plain>и лишусь всего добра,</plain>
+        </string>
+        <string>
+            <plain>Я, молитвой укрепляясь,</plain>
+        </string>
+        <string>
+            <plain>устремлю взор на Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Если смерть, как наводненье,</plain>
+        </string>
+        <string>
+            <plain>вдруг приблизится ко мне</plain>
+        </string>
+        <string>
+            <plain>Ты чрез смерть принес спасенье,</plain>
+        </string>
+        <string>
+            <plain>я последую Тебе.</plain>
+        </string>
+    </verse>
+</song>

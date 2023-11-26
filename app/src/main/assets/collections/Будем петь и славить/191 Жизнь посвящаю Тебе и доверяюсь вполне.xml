@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="191" name="Жизнь посвящаю Тебе и доверяюсь вполне" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь посвящаю Тебе и доверяюсь вполне.</plain>
+        </string>
+        <string>
+            <plain>Ты охраняй ее Сам и направляй к небесам.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Жизнь эта не моя, так будет пусть Твоя.</plain>
+        </string>
+        <string>
+            <plain>Ее Ты Сам мне дал, чтоб я Тебя прославлял.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В мире диавол царит, хочет меня погубить,</plain>
+        </string>
+        <string>
+            <plain>Чтобы ему я служил и по-греховному жил.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Но я Тебя молю, силу пошли Свою</plain>
+        </string>
+        <string>
+            <plain>И мне защиту дай, в битве с грехом укрепляй.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чисто желаю я жить, ближних хочу всех любить,</plain>
+        </string>
+        <string>
+            <plain>Зло и обиды прощать и о Тебе возвещать.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>О мой Господь и Бог, если б я в жизни мог</plain>
+        </string>
+        <string>
+            <plain>Твою любовь познать и всем о ней рассказать!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скоро Ты в славе придешь, церковь Свою заберешь,</plain>
+        </string>
+        <string>
+            <plain>Так приготовь же меня, чтобы достоин был я</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Вечно с Тобой пребыть, злобу людей забыть</plain>
+        </string>
+        <string>
+            <plain>И в небе увидать то, что Ты хочешь мне дать.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

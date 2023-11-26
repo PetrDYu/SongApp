@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1316" name="Я слышу зов любви" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я слышу зов любви,</plain>
+        </string>
+        <string>
+            <plain>На крест Христа гляжу</plain>
+        </string>
+        <string>
+            <plain>И в жертве праведной крови</plain>
+        </string>
+        <string>
+            <plain>Мир сердцу нахожу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Надо мною облака</plain>
+        </string>
+        <string>
+            <plain>Проходят в вышине,</plain>
+        </string>
+        <string>
+            <plain>Его ж любовь всегда близка.</plain>
+        </string>
+        <string>
+            <plain>Не изменяет мне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я слаб в любви порой,</plain>
+        </string>
+        <string>
+            <plain>В труде не совершен,</plain>
+        </string>
+        <string>
+            <plain>Но мир Его всегда со мной.</plain>
+        </string>
+        <string>
+            <plain>И нет в Нем перемен.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Изменчив я, но Он</plain>
+        </string>
+        <string>
+            <plain>Всегда все так же благ.</plain>
+        </string>
+        <string>
+            <plain>Все так же мудр в Своих путях,</plain>
+        </string>
+        <string>
+            <plain>Все так в любви силен.</plain>
+        </string>
+    </verse>
+</song>

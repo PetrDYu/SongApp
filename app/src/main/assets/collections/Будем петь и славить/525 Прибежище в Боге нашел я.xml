@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="525" name="Прибежище в Боге нашел я" canon="false" text="Дж. Николсона" textRus="Е. Шибаршиной" music="А. Халла" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Прибежище в Боге нашел я</plain>
+        </string>
+        <string>
+            <plain>И тихо могу ожидать.</plain>
+        </string>
+        <string>
+            <plain>Нет большего в мире покоя,</plain>
+        </string>
+        <string>
+            <plain>Лишь в Нем я хочу пребывать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>«Утешенье лишь в Нем», –</plain>
+        </string>
+        <string>
+            <plain>Душа моя тихо поет.</plain>
+        </string>
+        <string>
+            <plain>От всякой беды я укроюсь</plain>
+        </string>
+        <string>
+            <plain>Под крылами Его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Стрела не сразит меня в полдень,</plain>
+        </string>
+        <string>
+            <plain>И тьмой не страшит меня ночь.</plain>
+        </string>
+        <string>
+            <plain>Под сенью Его я сокроюсь,</plain>
+        </string>
+        <string>
+            <plain>Все страхи изгонит Он прочь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ни язвы господство, ни мора,</plain>
+        </string>
+        <string>
+            <plain>Ни тьма, что извне восстает,</plain>
+        </string>
+        <string>
+            <plain>Не в силах меня разуверить</plain>
+        </string>
+        <string>
+            <plain>В спасенье, что Бог мне дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И если все рухнет мгновенно,</plain>
+        </string>
+        <string>
+            <plain>Грядущего не убоюсь.</plain>
+        </string>
+        <string>
+            <plain>В единстве с Христом сокровенном</plain>
+        </string>
+        <string>
+            <plain>Спасенье Его воспою.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Повержены тысячи были,</plain>
+        </string>
+        <string>
+            <plain>И тьмы одесную падут.</plain>
+        </string>
+        <string>
+            <plain>Но Бог распростер Свои крылья –</plain>
+        </string>
+        <string>
+            <plain>Под сенью Его я пройду.</plain>
+        </string>
+    </verse>
+</song>

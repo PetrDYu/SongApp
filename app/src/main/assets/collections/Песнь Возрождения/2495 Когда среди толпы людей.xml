@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2495" name="Когда среди толпы людей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда среди толпы людей</plain>
+        </string>
+        <string>
+            <plain>Тебе вдруг станет отчего-то плохо,</plain>
+        </string>
+        <string>
+            <plain>И горечью былых потерь,</plain>
+        </string>
+        <string>
+            <plain>И горечью былых потерь</plain>
+        </string>
+        <string>
+            <plain>Сожмется сердце одиноко,</plain>
+        </string>
+        <string>
+            <plain>И, посмотрев вокруг себя,</plain>
+        </string>
+        <string>
+            <plain>Увидишь ты одни чужие лица,</plain>
+        </string>
+        <string>
+            <plain>А тех, кто жил, тебя любя,</plain>
+        </string>
+        <string>
+            <plain>А тех, кто жил тебя любя,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Желтеют памяти страницы,</plain>
+        </string>
+        <string>
+            <plain>Желтеют памяти страницы.</plain>
+        </string>
+        <string>
+            <plain>Подумай, свой замедлив шаг,</plain>
+        </string>
+        <string>
+            <plain>Ведь жизнь одна когда-то нас рассудит</plain>
+        </string>
+        <string>
+            <plain>- Вчера был враг, сегодня - брат,</plain>
+        </string>
+        <string>
+            <plain>Вчера был брат, сегодня - враг,</plain>
+        </string>
+        <string>
+            <plain>Кто знает то, что завтра будет,</plain>
+        </string>
+        <string>
+            <plain>Кто знает то, что завтра будет?</plain>
+        </string>
+    </verse>
+</song>

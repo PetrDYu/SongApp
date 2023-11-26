@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2703" name="Боже Боже услыши меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Боже, услыши меня,</plain>
+        </string>
+        <string>
+            <plain>Когда взываю к Тебе, Отче, я.</plain>
+        </string>
+        <string>
+            <plain>Ты ведь сказал: "Воззови ко Мне,</plain>
+        </string>
+        <string>
+            <plain>Я - твой Отец, отвечу тебе".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но порою вера моя</plain>
+        </string>
+        <string>
+            <plain>Светит тускло, словно свеча,</plain>
+        </string>
+        <string>
+            <plain>И, как роса сверкнет на полях,</plain>
+        </string>
+        <string>
+            <plain>Так и мое лицо в слезах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, укрепи надежду мою</plain>
+        </string>
+        <string>
+            <plain>И сохрани от зла дочь Свою,</plain>
+        </string>
+        <string>
+            <plain>Дай обращаться лишь только к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты - верный Друг, поможешь мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Знаю, ответишь, Ты верен словам,</plain>
+        </string>
+        <string>
+            <plain>Вечной любовью Ты любишь меня.</plain>
+        </string>
+        <string>
+            <plain>Я же надеюсь, Господь, на Тебя,</plain>
+        </string>
+        <string>
+            <plain>Ты - упованье, Ты - жизнь моя.</plain>
+        </string>
+    </verse>
+</song>

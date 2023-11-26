@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1764" name="Оделись сопки в хмурые туманы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Оделись сопки в хмурые туманы,</plain>
+        </string>
+        <string>
+            <plain>И ткут печаль унылые дожди,</plain>
+        </string>
+        <string>
+            <plain>А где-то солнце золотит каштаны...</plain>
+        </string>
+        <string>
+            <plain>С тобой Господь! Надейся! Веруй! Жди!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Для тех, кто верит, все приносит благо:</plain>
+        </string>
+        <string>
+            <plain>Осенний дождь и зимняя пурга,</plain>
+        </string>
+        <string>
+            <plain>Весенние потоки по оврагам</plain>
+        </string>
+        <string>
+            <plain>И майские зеленые луга.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Для любящих доступно совершенство</plain>
+        </string>
+        <string>
+            <plain>В терпении и верности святой,</plain>
+        </string>
+        <string>
+            <plain>Невозмутимый внутренний покой</plain>
+        </string>
+        <string>
+            <plain>И радости бескрайнее блаженство.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="175" name="Я не оставлю вас одних Когда же Я пойду," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я не оставлю вас одних. Когда же Я пойду,</plain>
+        </string>
+        <string>
+            <plain>Святого Утешителя, небесного Учителя</plain>
+        </string>
+        <string>
+            <plain>Я к вам навек пошлю.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Принял ли ты Его, Утешителя? Принял ли ты?</plain>
+        </string>
+        <string>
+            <plain>Господь обличит мир о грехе,</plain>
+        </string>
+        <string>
+            <plain>Лишь придет Утешитель к тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О Церковь Божия, вставай всю полноту принять.</plain>
+        </string>
+        <string>
+            <plain>И грешники во всех местах покаются в своих грехах</plain>
+        </string>
+        <string>
+            <plain>И примут благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сей силой полны небеса для вас, для нас, для всех.</plain>
+        </string>
+        <string>
+            <plain>Вперед, молясь и веруя, и сила будет нам дана</plain>
+        </string>
+        <string>
+            <plain>Оставить всякий грех.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Назад, к Пятидесятнице, скорее поспешим.</plain>
+        </string>
+        <string>
+            <plain>Смерть ветхой жизни со Христом, крещенье Духом и огнем</plain>
+        </string>
+        <string>
+            <plain>У Бога вымолим.</plain>
+        </string>
+    </verse>
+</song>

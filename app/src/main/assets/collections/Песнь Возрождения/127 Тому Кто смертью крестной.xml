@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="127" name="Тому Кто смертью крестной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тому, Кто смертью крестной</plain>
+        </string>
+        <string>
+            <plain>И кровию нас спас,</plain>
+        </string>
+        <string>
+            <plain>Споем благодаренье!</plain>
+        </string>
+        <string>
+            <plain>Споем сто тысяч раз!</plain>
+        </string>
+        <string>
+            <plain>Пусть ныне в сердце каждом</plain>
+        </string>
+        <string>
+            <plain>Любовь к Нему горит!</plain>
+        </string>
+        <string>
+            <plain>Пусть каждый неустанно</plain>
+        </string>
+        <string>
+            <plain>Христа благодарит!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сто тысяч раз, сто тысяч раз</plain>
+        </string>
+        <string>
+            <plain>Хвалу мы возгласим</plain>
+        </string>
+        <string>
+            <plain>И столько ж раз за жизнь вовек,</plain>
+        </string>
+        <string>
+            <plain>Что жить мы будем с Ним.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, если б было можно</plain>
+        </string>
+        <string>
+            <plain>К ногам Христа принесть</plain>
+        </string>
+        <string>
+            <plain>Сердец и жизней столько,</plain>
+        </string>
+        <string>
+            <plain>Чтоб их не перечесть!</plain>
+        </string>
+        <string>
+            <plain>Сто тысяч уст прославят</plain>
+        </string>
+        <string>
+            <plain>Его настолько мук,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он наш Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Наш самый лучший Друг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христу благодаренье</plain>
+        </string>
+        <string>
+            <plain>За то, что каждый час,</plain>
+        </string>
+        <string>
+            <plain>Любовью избавляя,</plain>
+        </string>
+        <string>
+            <plain>Благословляет нас.</plain>
+        </string>
+        <string>
+            <plain>Когда ж за бурным морем</plain>
+        </string>
+        <string>
+            <plain>Его увидим мы,</plain>
+        </string>
+        <string>
+            <plain>Вовеки не умолкнет</plain>
+        </string>
+        <string>
+            <plain>Песнь сладостной хвалы.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1404" name="Темное небо багровый закат" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Темное небо, багровый закат,</plain>
+        </string>
+        <string>
+            <plain>Хочется словом ударить в набат.</plain>
+        </string>
+        <string>
+            <plain>Мир заморожен, и люди, как лед.</plain>
+        </string>
+        <string>
+            <plain>Слушайте, слушайте. Царь ваш идет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Близко уж слышны Христовы шаги.</plain>
+        </string>
+        <string>
+            <plain>Люди, готовы, готовы ли вы?</plain>
+        </string>
+        <string>
+            <plain>Если к Нему не придете теперь.</plain>
+        </string>
+        <string>
+            <plain>То будет страшен ваш вечный удел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как буревестника крик над волной.</plain>
+        </string>
+        <string>
+            <plain>Клич раздается над всею землей.</plain>
+        </string>
+        <string>
+            <plain>Это зовет всех Господня труба:</plain>
+        </string>
+        <string>
+            <plain>Встаньте, проснитесь, ведь гибель близка.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Темное небо, багровый закат.</plain>
+        </string>
+        <string>
+            <plain>Люди забылись, забылись и спят.</plain>
+        </string>
+        <string>
+            <plain>Спят, не заметив, что всюду слышны</plain>
+        </string>
+        <string>
+            <plain>Страшные, грозные Божьи шаги.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Темное небо, багровый закат.</plain>
+        </string>
+        <string>
+            <plain>Медленно тает последний набат.</plain>
+        </string>
+        <string>
+            <plain>Нет, не уйдет этот мир от судьбы.</plain>
+        </string>
+        <string>
+            <plain>Слышатся звуки последней трубы.</plain>
+        </string>
+    </verse>
+</song>

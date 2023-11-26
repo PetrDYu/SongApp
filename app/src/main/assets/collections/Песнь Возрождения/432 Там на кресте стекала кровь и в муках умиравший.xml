@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="432" name="Там на кресте стекала кровь и в муках умиравший" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Там на кресте стекала кровь, и в муках умиравший</plain>
+        </string>
+        <string>
+            <plain>Христос явил Свою любовь к толпе, Его предавшей.</plain>
+        </string>
+        <string>
+            <plain>За всех врагов, за палачей Он возносил моленья;</plain>
+        </string>
+        <string>
+            <plain>Крестом любви, крестом скорбей Он совершил спасенье.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Идите, грешники, к Христу и пред крестом склонитесь,</plain>
+        </string>
+        <string>
+            <plain>Там, исповедав нищету, в Христе обогатитесь.</plain>
+        </string>
+        <string>
+            <plain>Словами, сердцем и умом к Спасителю взывайте</plain>
+        </string>
+        <string>
+            <plain>И в уповании живом ответа ожидайте.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не сомневайтесь в доброте Отца всего творенья,</plain>
+        </string>
+        <string>
+            <plain>Ни в истине, ни в полноте Иисусова служенья.</plain>
+        </string>
+        <string>
+            <plain>Христова кровь омыть сильна нечистоту порока,</plain>
+        </string>
+        <string>
+            <plain>И отойдет от вас вина, как запад от востока.</plain>
+        </string>
+    </verse>
+</song>

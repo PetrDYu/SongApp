@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2175" name="Когца открыто небо и света полно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когца открыто небо и света полно,</plain>
+        </string>
+        <string>
+            <plain>В душе покой и радость в Духе Святом.</plain>
+        </string>
+        <string>
+            <plain>Как хорошо быть праведным</plain>
+        </string>
+        <string>
+            <plain>И радоваться, что есть жизнь,</plain>
+        </string>
+        <string>
+            <plain>Как хорошо быть праведным</plain>
+        </string>
+        <string>
+            <plain>И славить, мой Господь, Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Есть радость в сердце моём (2 р.),</plain>
+        </string>
+        <string>
+            <plain>Праведность, мир и радость в Духе Святом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я знаю, Искупитель жив, Он воскресит меня,</plain>
+        </string>
+        <string>
+            <plain>И я во плоти своей Бога узрю.</plain>
+        </string>
+        <string>
+            <plain>Мои глаза увидят Его, и Он наполнит смехом уста,</plain>
+        </string>
+        <string>
+            <plain>И губы радостным восклицанием!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В сомненьях и нужде, в сомненьях и в беде</plain>
+        </string>
+        <string>
+            <plain>Знаю: будет герою праведный жив!</plain>
+        </string>
+        <string>
+            <plain>Господь есть сила моя, Он вознесёт меня,</plain>
+        </string>
+        <string>
+            <plain>О Боге веселюсь спасенья моего.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приходит с неба дождь, земля даёт плоды.</plain>
+        </string>
+        <string>
+            <plain>Так из уст Твоих исходит слово Твоё.</plain>
+        </string>
+        <string>
+            <plain>Вечные планы Твои пускай исполнятся</plain>
+        </string>
+        <string>
+            <plain>Здесь, на земле, как на небесах.</plain>
+        </string>
+    </verse>
+</song>

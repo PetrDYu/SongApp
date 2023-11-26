@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="240" name="Иисус друг одиноких, грешных, немощных людей" canon="false" text="В. Чапмена" textRus="" music="Р. Причарда" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус – друг одиноких, грешных, немощных людей;</plain>
+        </string>
+        <string>
+            <plain>Брат наш может стать далеким, а Иисус наш всех верней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Сам Спаситель наши радует сердца:</plain>
+        </string>
+        <string>
+            <plain>Любит нас, хранит, спасает, всюду с нами до конца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус – бессильных крепость, укрываемся мы в Нем;</plain>
+        </string>
+        <string>
+            <plain>Сохранит нас в искушеньях, даст победу над врагом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус – помощник скорый, охраняет Свой народ;</plain>
+        </string>
+        <string>
+            <plain>В страхе, в скорби, в лютом горе утешенье нам дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус – путеводитель чрез пустыни и леса;</plain>
+        </string>
+        <string>
+            <plain>Ночью, в бурю, в темных дебрях слышит наши голоса.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Иисус нас грешных принял, жизнь и мир наш от Него;</plain>
+        </string>
+        <string>
+            <plain>Все простил, Свое дал имя, мы теперь народ Его.</plain>
+        </string>
+    </verse>
+</song>

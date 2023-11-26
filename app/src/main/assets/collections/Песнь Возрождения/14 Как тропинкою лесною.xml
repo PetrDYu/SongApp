@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="14" name="Как тропинкою лесною" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как тропинкою лесною</plain>
+        </string>
+        <string>
+            <plain>К ручейку спешит олень,</plain>
+        </string>
+        <string>
+            <plain>Так и я стремлюсь душою</plain>
+        </string>
+        <string>
+            <plain>К слову жизни каждый день.</plain>
+        </string>
+        <string>
+            <plain>В день печальный утешенье</plain>
+        </string>
+        <string>
+            <plain>Нахожу я в книге книг;</plain>
+        </string>
+        <string>
+            <plain>В день отрадный поученье</plain>
+        </string>
+        <string>
+            <plain>Мне дает любимый стих.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Словом Бога побеждаю</plain>
+        </string>
+        <string>
+            <plain>Всякий грех, души недуг;</plain>
+        </string>
+        <string>
+            <plain>Им я сердце услаждаю,</plain>
+        </string>
+        <string>
+            <plain>Веселю усталый дух;</plain>
+        </string>
+        <string>
+            <plain>Им я смело отражаю</plain>
+        </string>
+        <string>
+            <plain>Искушения врага;</plain>
+        </string>
+        <string>
+            <plain>Им Христа я возвещаю</plain>
+        </string>
+        <string>
+            <plain>Как спасенный Им слуга.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Словом путь я освещаю,</plain>
+        </string>
+        <string>
+            <plain>Если он во тьме идет;</plain>
+        </string>
+        <string>
+            <plain>Им для сердца облегчаю</plain>
+        </string>
+        <string>
+            <plain>Ношу скорби и забот.</plain>
+        </string>
+        <string>
+            <plain>Для меня Господне слово</plain>
+        </string>
+        <string>
+            <plain>Вестник вечного добра,</plain>
+        </string>
+        <string>
+            <plain>Лучше слитка золотого,</plain>
+        </string>
+        <string>
+            <plain>Лучше клада серебра.</plain>
+        </string>
+    </verse>
+</song>

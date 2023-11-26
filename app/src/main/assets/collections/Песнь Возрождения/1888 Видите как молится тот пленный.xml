@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1888" name="Видите как молится тот пленный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Видите, как молится тот пленный.</plain>
+        </string>
+        <string>
+            <plain>Склоняясь ночью, утром, днем;</plain>
+        </string>
+        <string>
+            <plain>Вспоминает Он Сион священный.</plain>
+        </string>
+        <string>
+            <plain>Взятый в плен лютым врагом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Окна к Иерусалиму вы открыль-ль?</plain>
+        </string>
+        <string>
+            <plain>Ведь мы в мире тоже пленники бытья.</plain>
+        </string>
+        <string>
+            <plain>И пришествия с небес Царя в силе</plain>
+        </string>
+        <string>
+            <plain>Ждете ль день вы ото дня?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не страшитесь печи вы горящей,</plain>
+        </string>
+        <string>
+            <plain>Не бойтеся пещеры львов;</plain>
+        </string>
+        <string>
+            <plain>Даниила Бог, добро творящий.</plain>
+        </string>
+        <string>
+            <plain>Даст вам щит Своих полков.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дети Божьи! В вере укрепитесь,</plain>
+        </string>
+        <string>
+            <plain>Об избавленьи песнь творя,</plain>
+        </string>
+        <string>
+            <plain>Лицами к Сиону обратитесь,</plain>
+        </string>
+        <string>
+            <plain>Встретить вечного Царя.</plain>
+        </string>
+    </verse>
+</song>

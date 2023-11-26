@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2887" name="О говори Спаситель слушать готов Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, говори, Спаситель, слушать готов Тебя,</plain>
+        </string>
+        <string>
+            <plain>волю Твою святую выполнить жажду я!</plain>
+        </string>
+        <string>
+            <plain>Я простираюсь в прахе у Твоего креста:</plain>
+        </string>
+        <string>
+            <plain>Боже мой, Бог Спаситель, мир только у Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, говори, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>слушать готов Тебя,</plain>
+        </string>
+        <string>
+            <plain>волю Твою святую</plain>
+        </string>
+        <string>
+            <plain>выполнить жажду я!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я ведь решил однажды жить для Тебя, Господь, и по Твоей</plain>
+        </string>
+        <string>
+            <plain>дороге смело идти вперёд. Ты, только Ты, Спаситель, можешь</plain>
+        </string>
+        <string>
+            <plain>мной управлять, близость Твоя святая может покой вселять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть угрожает буря - Ты можешь укротить; пускай бушует</plain>
+        </string>
+        <string>
+            <plain>море - Ты силен защитить. Так помоги, Спаситель, волны и</plain>
+        </string>
+        <string>
+            <plain>мрак пройти, и помоги, Спаситель, к берегу мне прийти.</plain>
+        </string>
+    </verse>
+</song>

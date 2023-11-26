@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="767" name="Господь Ты днем и ночью" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! Ты днем и ночью</plain>
+        </string>
+        <string>
+            <plain>Зришь на меня всегда,</plain>
+        </string>
+        <string>
+            <plain>Хранишь любовью Отчей.</plain>
+        </string>
+        <string>
+            <plain>Оставлю ль я Тебя?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой Бог! Я без сомненья</plain>
+        </string>
+        <string>
+            <plain>Навеки буду Твой,</plain>
+        </string>
+        <string>
+            <plain>И все мои стремленья –</plain>
+        </string>
+        <string>
+            <plain>Пребыть в любви святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я часто унываю</plain>
+        </string>
+        <string>
+            <plain>В боренье со грехом,</plain>
+        </string>
+        <string>
+            <plain>Но и тогда взываю</plain>
+        </string>
+        <string>
+            <plain>К Тому, Кем я спасен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все радости земные –</plain>
+        </string>
+        <string>
+            <plain>Чужие для меня,</plain>
+        </string>
+        <string>
+            <plain>Мечты мои иные –</plain>
+        </string>
+        <string>
+            <plain>Нести свой крест всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь мой! Я взираю</plain>
+        </string>
+        <string>
+            <plain>На дивный образ Твой</plain>
+        </string>
+        <string>
+            <plain>И людям возвещаю</plain>
+        </string>
+        <string>
+            <plain>Как хорошо с Тобой!</plain>
+        </string>
+    </verse>
+</song>

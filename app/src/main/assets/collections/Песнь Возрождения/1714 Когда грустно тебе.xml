@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1714" name="Когда грустно тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда грустно тебе,</plain>
+        </string>
+        <string>
+            <plain>Когда трудно тебе,</plain>
+        </string>
+        <string>
+            <plain>Когда ты совсем один,</plain>
+        </string>
+        <string>
+            <plain>Ты постой, помолчи,</plain>
+        </string>
+        <string>
+            <plain>Ты глаза опусти</plain>
+        </string>
+        <string>
+            <plain>И послушай песню земли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе солнце споет,</plain>
+        </string>
+        <string>
+            <plain>Тебе небо споет,</plain>
+        </string>
+        <string>
+            <plain>Тебе море споет</plain>
+        </string>
+        <string>
+            <plain>О великой Любви.</plain>
+        </string>
+        <string>
+            <plain>Ты улыбнись, песню повтори,</plain>
+        </string>
+        <string>
+            <plain>С нами пой о Божией любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Надо грусть всю забыть,</plain>
+        </string>
+        <string>
+            <plain>Надо петь и любить,</plain>
+        </string>
+        <string>
+            <plain>Ведь Иисус с нами рядом всегда.</plain>
+        </string>
+        <string>
+            <plain>Ты не стой, не молчи,</plain>
+        </string>
+        <string>
+            <plain>Ты глаза подними</plain>
+        </string>
+        <string>
+            <plain>И пропой эту песню земли.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1298" name="Господи Тебя хочу я славить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи, Тебя хочу я славить</plain>
+        </string>
+        <string>
+            <plain>И Тебя благодарить.</plain>
+        </string>
+        <string>
+            <plain>Только Ты один - моя надежда.</plain>
+        </string>
+        <string>
+            <plain>Буду я Тебе служить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пою Тебе я "Аллилуйя",</plain>
+        </string>
+        <string>
+            <plain>Пою Тебе я одному,</plain>
+        </string>
+        <string>
+            <plain>За то, что Ты страдал невинно,</plain>
+        </string>
+        <string>
+            <plain>Создатель, я Тебя люблю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но когда в дороге спотыкаюсь.</plain>
+        </string>
+        <string>
+            <plain>Вижу руку помощи Твою,</plain>
+        </string>
+        <string>
+            <plain>И тогда с мольбой я обращаюсь</plain>
+        </string>
+        <string>
+            <plain>И за все благодарю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господи, откройся, кто не знает,</plain>
+        </string>
+        <string>
+            <plain>Как Ты благ и милостив ко всем,</plain>
+        </string>
+        <string>
+            <plain>Ты в одно мгновение прощаешь</plain>
+        </string>
+        <string>
+            <plain>И даруешь в сердце свет.</plain>
+        </string>
+    </verse>
+</song>

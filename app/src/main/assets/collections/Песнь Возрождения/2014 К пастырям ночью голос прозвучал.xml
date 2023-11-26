@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2014" name="К пастырям ночью голос прозвучал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К пастырям ночью голос прозвучал:</plain>
+        </string>
+        <string>
+            <plain>встаньте, не бойтесь, Бог нам радость дал!</plain>
+        </string>
+        <string>
+            <plain>Все оставить не страшитесь,</plain>
+        </string>
+        <string>
+            <plain>В град Давидов поспешите,</plain>
+        </string>
+        <string>
+            <plain>Там Христос рожден!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В яслях Младенец в пеленах лежал,</plain>
+        </string>
+        <string>
+            <plain>Как им Господень Ангел предсказал.</plain>
+        </string>
+        <string>
+            <plain>Пред Ним пали на колени,</plain>
+        </string>
+        <string>
+            <plain>Поклонилися в смиреньи</plain>
+        </string>
+        <string>
+            <plain>Господу Христу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С благоговеньем станем перед Ним,</plain>
+        </string>
+        <string>
+            <plain>Радость спасенья Он дает Своим.</plain>
+        </string>
+        <string>
+            <plain>Веру чистую вселяет</plain>
+        </string>
+        <string>
+            <plain>И с любовью направляет</plain>
+        </string>
+        <string>
+            <plain>Всех в Отцовский дом.</plain>
+        </string>
+    </verse>
+</song>

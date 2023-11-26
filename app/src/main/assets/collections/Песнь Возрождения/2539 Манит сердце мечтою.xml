@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2539" name="Манит сердце мечтою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Манит сердце мечтаю</plain>
+        </string>
+        <string>
+            <plain>Высь небес голубая,</plain>
+        </string>
+        <string>
+            <plain>Нашей общей судьбою</plain>
+        </string>
+        <string>
+            <plain>Стала вера живая.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он нас сделал родными,</plain>
+        </string>
+        <string>
+            <plain>Он нас сделал друзьями.</plain>
+        </string>
+        <string>
+            <plain>Дал нам новое имя,</plain>
+        </string>
+        <string>
+            <plain>Нас зовут - христиане.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус стал нам Другом,</plain>
+        </string>
+        <string>
+            <plain>Мы на деле узнали:</plain>
+        </string>
+        <string>
+            <plain>Он врачует недуги,</plain>
+        </string>
+        <string>
+            <plain>Удаляет печали.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он дарует спасены,</plain>
+        </string>
+        <string>
+            <plain>Мир и радость без меры,</plain>
+        </string>
+        <string>
+            <plain>И второе рожденье,</plain>
+        </string>
+        <string>
+            <plain>Только искренне веруй.</plain>
+        </string>
+    </verse>
+</song>

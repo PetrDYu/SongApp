@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1885" name="Бог все зовет Я будуль глух" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог все зовет!</plain>
+        </string>
+        <string>
+            <plain>Я буду ль глух?</plain>
+        </string>
+        <string>
+            <plain>Прельстится ли землею дух?</plain>
+        </string>
+        <string>
+            <plain>Промчатся ли мои года</plain>
+        </string>
+        <string>
+            <plain>И дух продремлет без плода?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все (тебя) зовет, зовет Бог,</plain>
+        </string>
+        <string>
+            <plain>Все (тебя) зовет, зовет Он,</plain>
+        </string>
+        <string>
+            <plain>Бог зовет еще!</plain>
+        </string>
+        <string>
+            <plain>Внимай благой ты вести!</plain>
+        </string>
+        <string>
+            <plain>Все (тебя) зовет, зовет Бог,</plain>
+        </string>
+        <string>
+            <plain>Все (тебя) зовет, зовет Он;</plain>
+        </string>
+        <string>
+            <plain>Грешник, о послушай, призывает Бог.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог все зовет!</plain>
+        </string>
+        <string>
+            <plain>Не встану ль я?</plain>
+        </string>
+        <string>
+            <plain>Презрю ли голос Божий я?</plain>
+        </string>
+        <string>
+            <plain>Могу ль любви я злом воздать?</plain>
+        </string>
+        <string>
+            <plain>Он вновь зовет: могу ль молчать?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог все зовет!</plain>
+        </string>
+        <string>
+            <plain>Вот Он стучит!</plain>
+        </string>
+        <string>
+            <plain>Замкну ли сердце от Него?</plain>
+        </string>
+        <string>
+            <plain>Раскрыть объятья Он спешит;</plain>
+        </string>
+        <string>
+            <plain>Ужель я огорчу Его?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог все зовет!</plain>
+        </string>
+        <string>
+            <plain>Отвергну ль я?</plain>
+        </string>
+        <string>
+            <plain>И буду ль жить рабом страстей?</plain>
+        </string>
+        <string>
+            <plain>Я жду - Он не забыл Меня,</plain>
+        </string>
+        <string>
+            <plain>Он все зовет: "восстань скорей!"</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Бог все зовет!</plain>
+        </string>
+        <string>
+            <plain>Ждать не могу,</plain>
+        </string>
+        <string>
+            <plain>Ему я сердце отдаю.</plain>
+        </string>
+        <string>
+            <plain>О, мир! Я от тебя бегу,</plain>
+        </string>
+        <string>
+            <plain>Бог взял отныне жизнь мою.</plain>
+        </string>
+    </verse>
+</song>

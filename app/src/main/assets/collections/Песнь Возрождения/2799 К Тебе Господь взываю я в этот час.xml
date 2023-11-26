@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2799" name="К Тебе Господь взываю я в этот час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К Тебе, Господь, взываю я в этот час.</plain>
+        </string>
+        <string>
+            <plain>Услышь мольбу мою, не уходи от нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О мой Бог, прошу Тебя: Ты услышь меня,</plain>
+        </string>
+        <string>
+            <plain>Без Тебя здесь на земле Трудно мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И люди, в тьме живя, забыли Тебя.</plain>
+        </string>
+        <string>
+            <plain>В земном богатстве счастье ищут для себя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всё счастье - Ты, в Тебе найду я покой.</plain>
+        </string>
+        <string>
+            <plain>Услышь меня и в сердце мир пошли святой.</plain>
+        </string>
+    </verse>
+</song>

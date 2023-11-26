@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1852" name="Боже Праведный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже Праведный!</plain>
+        </string>
+        <string>
+            <plain>Прости Все мои Ты согрешенья,</plain>
+        </string>
+        <string>
+            <plain>Разреши и отпусти</plain>
+        </string>
+        <string>
+            <plain>Все плотские заблужденья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не суди меня, Судья,</plain>
+        </string>
+        <string>
+            <plain>Но спаси меня, Спаситель!</plain>
+        </string>
+        <string>
+            <plain>И погибшего меня</plain>
+        </string>
+        <string>
+            <plain>Оживи, мой Искупитель!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Христос! Тебя молю:</plain>
+        </string>
+        <string>
+            <plain>Дай в пути земном и тесном</plain>
+        </string>
+        <string>
+            <plain>Видеть лик Твой, как в раю,</plain>
+        </string>
+        <string>
+            <plain>В царстве вечном и небесном.</plain>
+        </string>
+    </verse>
+</song>

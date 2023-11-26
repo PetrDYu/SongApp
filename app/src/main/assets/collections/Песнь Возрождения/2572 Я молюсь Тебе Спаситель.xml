@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2572" name="Я молюсь Тебе Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я молюсь Тебе, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>Все грехи мои прости</plain>
+        </string>
+        <string>
+            <plain>И прошу, мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Помоги свой крест нести.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Иисус, услышь молены,</plain>
+        </string>
+        <string>
+            <plain>(О Господь, услышь молены),</plain>
+        </string>
+        <string>
+            <plain>Ближе дай прильнуть к Тебе!</plain>
+        </string>
+        <string>
+            <plain>(Ближе дай прильнуть к Тебе)!</plain>
+        </string>
+        <string>
+            <plain>Я пою Тебе хвалены</plain>
+        </string>
+        <string>
+            <plain>за страданье на кресте!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я молюсь Тебе, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>О, благослови меня</plain>
+        </string>
+        <string>
+            <plain>И пошли на труд, Учитель,</plain>
+        </string>
+        <string>
+            <plain>Прославляющий Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я молюсь Тебе, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>Дай мне мудрости святой;</plain>
+        </string>
+        <string>
+            <plain>Будь со мною, мой Хранитель,</plain>
+        </string>
+        <string>
+            <plain>И веди Своей рукой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я молюсь Тебе, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>Освяти меня вполне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб во всем я, Твой служитель,</plain>
+        </string>
+        <string>
+            <plain>Уподобился Тебе.</plain>
+        </string>
+    </verse>
+</song>

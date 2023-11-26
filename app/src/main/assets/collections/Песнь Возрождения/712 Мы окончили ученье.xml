@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="712" name="Мы окончили ученье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы окончили ученье</plain>
+        </string>
+        <string>
+            <plain>И домой пойдем,</plain>
+        </string>
+        <string>
+            <plain>Все благие наставленья</plain>
+        </string>
+        <string>
+            <plain>В сердце мы возьмем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мирно, тихо, мирно, тихо</plain>
+        </string>
+        <string>
+            <plain>Мы домой пойдем.</plain>
+        </string>
+        <string>
+            <plain>Все благие наставленнья</plain>
+        </string>
+        <string>
+            <plain>В сердце мы возьмем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай, Спаситель, нам желанье</plain>
+        </string>
+        <string>
+            <plain>Церковь посещать</plain>
+        </string>
+        <string>
+            <plain>И учиться свыше знанью</plain>
+        </string>
+        <string>
+            <plain>О Тебе вещать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем ждать мы воскресенья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб опять прийти,</plain>
+        </string>
+        <string>
+            <plain>И послушать наставленья</plain>
+        </string>
+        <string>
+            <plain>Как себя вести.</plain>
+        </string>
+    </verse>
+</song>

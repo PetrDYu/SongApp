@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="12" name="В ночи, блуждая, слепые, мы воду живую ищем" canon="false" text="Л. Росалеса" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>В ночи, блуждая, слепые, мы воду живую ищем.</plain>
+        </string>
+        <string>
+            <plain>Ведет нас жажда прозренья, ведет нас жажда прозренья.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>De noche iremos, de noche, que para encontrar la fuente,</plain>
+        </string>
+        <string>
+            <plain>sólo la sed nos alumbra, sólo la sed nos alumbra.</plain>
+        </string>
+    </verse>
+</song>

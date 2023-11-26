@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="131" name="О Иисус достоин Ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Иисус, достоин Ты</plain>
+        </string>
+        <string>
+            <plain>Славы, чести на земле,</plain>
+        </string>
+        <string>
+            <plain>Славу, честь от нас принять всегда,</plain>
+        </string>
+        <string>
+            <plain>И от сердца полноты</plain>
+        </string>
+        <string>
+            <plain>Песнь пою Тебе везде.</plain>
+        </string>
+        <string>
+            <plain>Буду петь Тебе всегда везде.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Оторви от мира нас,</plain>
+        </string>
+        <string>
+            <plain>О Тебе дай размышлять,</plain>
+        </string>
+        <string>
+            <plain>Укрепляй нас каждый час,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Тебя лишь прославлять!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты из праха нас создал,</plain>
+        </string>
+        <string>
+            <plain>В чудный мир к Себе призвал,</plain>
+        </string>
+        <string>
+            <plain>В чудный мир Ты нас к Себе призвал,</plain>
+        </string>
+        <string>
+            <plain>Своею кровью нас омыл,</plain>
+        </string>
+        <string>
+            <plain>Наши все грехи простил,</plain>
+        </string>
+        <string>
+            <plain>Наши все грехи Ты нам простил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты призвал нас всех к Себе,</plain>
+        </string>
+        <string>
+            <plain>Глянул милостью на нас,</plain>
+        </string>
+        <string>
+            <plain>Глянул милостью Своей на нас;</plain>
+        </string>
+        <string>
+            <plain>И, простив грехи вполне,</plain>
+        </string>
+        <string>
+            <plain>Ты хранишь нас всякий час,</plain>
+        </string>
+        <string>
+            <plain>Ты хранишь нас всякий час в Себе.</plain>
+        </string>
+    </verse>
+</song>

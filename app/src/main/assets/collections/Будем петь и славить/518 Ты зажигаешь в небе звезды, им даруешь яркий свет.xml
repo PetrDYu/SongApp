@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="518" name="Ты зажигаешь в небе звезды, им даруешь яркий свет" canon="false" text="В. Агаповой" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ты зажигаешь в небе звезды, им даруешь яркий свет.</plain>
+        </string>
+        <string>
+            <plain>Ты называешь поименно миллионы из планет.</plain>
+        </string>
+        <string>
+            <plain>Ты правишь севером и югом и вселенной всей.</plain>
+        </string>
+        <string>
+            <plain>И я принадлежу Тебе, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>И я принадлежу Тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Я Тебя благодарю за святую Кровь Твою.</plain>
+        </string>
+        <string>
+            <plain>Ты достоин славы всей, Бог богов и царь Царей!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По Твоей воле, Всемогущий, существуют небеса.</plain>
+        </string>
+        <string>
+            <plain>Я знаю: этим миром правит сильная рука,</plain>
+        </string>
+        <string>
+            <plain>Что близко Ты со мной и рядом, Пастырь и мой Друг.</plain>
+        </string>
+        <string>
+            <plain>Ты – Царь, и я Тебе пою: «Аллилуйя!»</plain>
+        </string>
+        <string>
+            <plain>Ты – Царь, и я Тебе пою.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Я Тебя благодарю за святую Кровь Твою.</plain>
+        </string>
+        <string>
+            <plain>Ты достоин славы всей, Бог богов и Царь царей!</plain>
+        </string>
+        <string>
+            <plain>Небо и земля Твоя, громко славлю я Тебя,</plain>
+        </string>
+        <string>
+            <plain>Ты Спаситель всех людей,</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Бог богов и Царь царей.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

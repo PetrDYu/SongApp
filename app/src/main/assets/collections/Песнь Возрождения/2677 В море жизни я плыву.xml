@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2677" name="В море жизни я плыву" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В море жизни я плыву,</plain>
+        </string>
+        <string>
+            <plain>Поручив себя Христу:</plain>
+        </string>
+        <string>
+            <plain>Не страшусь я бури злой,</plain>
+        </string>
+        <string>
+            <plain>Капитан Христос со мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Капитан Христос со мной,</plain>
+        </string>
+        <string>
+            <plain>Он ведет корабль рукой;</plain>
+        </string>
+        <string>
+            <plain>Бури жизни не страшны,</plain>
+        </string>
+        <string>
+            <plain>В нем покой моей души.</plain>
+        </string>
+        <string>
+            <plain>Он ведет корабль рукой;</plain>
+        </string>
+        <string>
+            <plain>Капитан Христос со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Волны с шумом бьют о борт,</plain>
+        </string>
+        <string>
+            <plain>Но в Иисусе мой оплот.</plain>
+        </string>
+        <string>
+            <plain>На пути я в край родной,</plain>
+        </string>
+        <string>
+            <plain>Капитан Христос со мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страхи все мои прошли.</plain>
+        </string>
+        <string>
+            <plain>С верой полного в груди</plain>
+        </string>
+        <string>
+            <plain>Смело я плыву домой,</plain>
+        </string>
+        <string>
+            <plain>Капитан Христос со мной.</plain>
+        </string>
+    </verse>
+</song>

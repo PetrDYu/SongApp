@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="657" name="Что посеял что посеял" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что посеял, что посеял?</plain>
+        </string>
+        <string>
+            <plain>При дороге что посеял?</plain>
+        </string>
+        <string>
+            <plain>Вот летят орлы и птицы,</plain>
+        </string>
+        <string>
+            <plain>Унесут зерно пшеницы,</plain>
+        </string>
+        <string>
+            <plain>И лишишься ты его.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Что посеял, что посеял?</plain>
+        </string>
+        <string>
+            <plain>Между камней что посеял?</plain>
+        </string>
+        <string>
+            <plain>Камней много, почвы мало,</plain>
+        </string>
+        <string>
+            <plain>Вышло скоро, но завяло</plain>
+        </string>
+        <string>
+            <plain>И засохло у тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что посеял, что посеял?</plain>
+        </string>
+        <string>
+            <plain>Между терний что посеял?</plain>
+        </string>
+        <string>
+            <plain>Знай, богатство иль невзгоды</plain>
+        </string>
+        <string>
+            <plain>Заглушат пшеницы всходы,</plain>
+        </string>
+        <string>
+            <plain>Не дадут они плода.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Что посеял, что посеял?</plain>
+        </string>
+        <string>
+            <plain>В доброй почве что посеял?</plain>
+        </string>
+        <string>
+            <plain>То зерно уж не завянет,</plain>
+        </string>
+        <string>
+            <plain>Ожиданье не обманет,</plain>
+        </string>
+        <string>
+            <plain>Но сторичный плод нам даст.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Что посеял, что посеял?</plain>
+        </string>
+        <string>
+            <plain>В этой жизни что посеял?</plain>
+        </string>
+        <string>
+            <plain>Все, что сеял в смертном теле</plain>
+        </string>
+        <string>
+            <plain>Словом уст твоих иль в деле,</plain>
+        </string>
+        <string>
+            <plain>Все пожнешь за гробом ты.</plain>
+        </string>
+    </verse>
+</song>

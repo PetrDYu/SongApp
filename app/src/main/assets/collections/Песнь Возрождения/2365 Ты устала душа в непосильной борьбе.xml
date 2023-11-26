@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2365" name="Ты устала душа в непосильной борьбе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты устала, душа, в непосильной борьбе,</plain>
+        </string>
+        <string>
+            <plain>Грех и страх овладели тобой.</plain>
+        </string>
+        <string>
+            <plain>Но я видел тебя под смоковницею,</plain>
+        </string>
+        <string>
+            <plain>Где стонал и кричал ты пред Мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О мой брат, где смоковница твоя?</plain>
+        </string>
+        <string>
+            <plain>О сестра, где ты молишься всегда?</plain>
+        </string>
+        <string>
+            <plain>Твой Иисус всюду видит тебя,</plain>
+        </string>
+        <string>
+            <plain>Твой Иисус всюду слышит тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Злобный дух и весь мир хочет душу губить,</plain>
+        </string>
+        <string>
+            <plain>Также плоть удручает тебя.</plain>
+        </string>
+        <string>
+            <plain>И я видел тебя под смоковницею,</plain>
+        </string>
+        <string>
+            <plain>Когда ты звал на помощь Меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты забыт у людей и заброшен судьбой,</plain>
+        </string>
+        <string>
+            <plain>И никто не поможет тебе</plain>
+        </string>
+        <string>
+            <plain>- Но Я видел тебя под смоковницею,</plain>
+        </string>
+        <string>
+            <plain>Где стонал и шептал ты больной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты, голодный, насущного хлеба просил,</plain>
+        </string>
+        <string>
+            <plain>Утомлённый ко Мне ты взывал,</plain>
+        </string>
+        <string>
+            <plain>И Я видел тебя под смоковницею,</plain>
+        </string>
+        <string>
+            <plain>И хочу тебе дать Своих сил.</plain>
+        </string>
+    </verse>
+</song>

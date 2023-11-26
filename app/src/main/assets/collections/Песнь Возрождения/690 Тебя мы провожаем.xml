@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="690" name="Тебя мы провожаем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебя мы провожаем,</plain>
+        </string>
+        <string>
+            <plain>Ты будешь далеко,</plain>
+        </string>
+        <string>
+            <plain>Тебе там будет, знаем,</plain>
+        </string>
+        <string>
+            <plain>Порою нелегко.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О нас в пределах дальних</plain>
+        </string>
+        <string>
+            <plain>Ты будешь вспоминать,</plain>
+        </string>
+        <string>
+            <plain>И в помыслах печальных</plain>
+        </string>
+        <string>
+            <plain>Ты будешь тосковать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тогда в скорбях незримых</plain>
+        </string>
+        <string>
+            <plain>Приди к Творцу в мольбе</plain>
+        </string>
+        <string>
+            <plain>О нас, друзьях любимых,</plain>
+        </string>
+        <string>
+            <plain>А также о себе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Молись о процветанье</plain>
+        </string>
+        <string>
+            <plain>Любимого кружка,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в нем, в его собранье,</plain>
+        </string>
+        <string>
+            <plain>Была Отца рука.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мы за тебя, как прежде,</plain>
+        </string>
+        <string>
+            <plain>Молиться будем впредь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб, радуясь в надежде,</plain>
+        </string>
+        <string>
+            <plain>Общенье нам иметь.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Тогда союз молитвы</plain>
+        </string>
+        <string>
+            <plain>Нас в жизни укрепит</plain>
+        </string>
+        <string>
+            <plain>Для тяжких дел, для битвы,</plain>
+        </string>
+        <string>
+            <plain>И труд наш утвердит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1402" name="Дети малые для вас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дети малые, для вас</plain>
+        </string>
+        <string>
+            <plain>У Христа есть труд;</plain>
+        </string>
+        <string>
+            <plain>Потрудитесь для Него,</plain>
+        </string>
+        <string>
+            <plain>Вас награды ждут.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот я, мой Спаситель!</plain>
+        </string>
+        <string>
+            <plain>О, пошли меня!</plain>
+        </string>
+        <string>
+            <plain>Дай Твой труд исполнять,</plain>
+        </string>
+        <string>
+            <plain>Твою весть принять.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дома, в школе и везде</plain>
+        </string>
+        <string>
+            <plain>Помощь ведь нужна;</plain>
+        </string>
+        <string>
+            <plain>Помогите же нести</plain>
+        </string>
+        <string>
+            <plain>Ближних бремена.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нужно ль время для кого,</plain>
+        </string>
+        <string>
+            <plain>- Время есть у вас,</plain>
+        </string>
+        <string>
+            <plain>Не ленитесь для других.</plain>
+        </string>
+        <string>
+            <plain>Дайте нужный час.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2854" name="Сей Господне семя с раннею зарёю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сей Господне семя с раннею зарёю,</plain>
+        </string>
+        <string>
+            <plain>сей и в знойный полдень, не боясь жары.</plain>
+        </string>
+        <string>
+            <plain>Бог даст жатвы время, сбора урожая,</plain>
+        </string>
+        <string>
+            <plain>с радостью великой понесём снопы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Понесём снопы,</plain>
+        </string>
+        <string>
+            <plain>понесём снопы,</plain>
+        </string>
+        <string>
+            <plain>с радостью великой</plain>
+        </string>
+        <string>
+            <plain>понесём снопы!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сей на солнцепёке, сей в тенистом месте</plain>
+        </string>
+        <string>
+            <plain>- не напрасны будут верности труды.</plain>
+        </string>
+        <string>
+            <plain>По Господней воле день придёт чудесный,</plain>
+        </string>
+        <string>
+            <plain>с радостью великой понесём снопы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С плачем отправляясь на поля Христовы</plain>
+        </string>
+        <string>
+            <plain>духом ободримся: там мы будем не одни.</plain>
+        </string>
+        <string>
+            <plain>Кончатся рыданья, день увидим новый,</plain>
+        </string>
+        <string>
+            <plain>с радостью великой понесём снопы.</plain>
+        </string>
+    </verse>
+</song>

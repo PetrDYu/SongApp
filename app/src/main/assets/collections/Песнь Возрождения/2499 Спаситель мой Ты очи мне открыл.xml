@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2499" name="Спаситель мой Ты очи мне открыл" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель мой, Ты очи мне открыл,</plain>
+        </string>
+        <string>
+            <plain>На пагубном пути остановил.</plain>
+        </string>
+        <string>
+            <plain>Мой новый путь лежит к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Творец, Моя надежда н а Тебя, Отец.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Надежда, надежда, надежда на Тебя.</plain>
+        </string>
+        <string>
+            <plain>Надежда, надежда, надежда на Тебя .</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отрадно мне, что Ты, Спаситель, есть,</plain>
+        </string>
+        <string>
+            <plain>Что в мир пришла евангельская весть.</plain>
+        </string>
+        <string>
+            <plain>Летят, как птицы, к дальним островам</plain>
+        </string>
+        <string>
+            <plain>Надежды благодатные слова.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть мне и трудно за Тобой идти,</plain>
+        </string>
+        <string>
+            <plain>Терновник, а не розы на пути,</plain>
+        </string>
+        <string>
+            <plain>Но я с надеждой к вечности дойду,</plain>
+        </string>
+        <string>
+            <plain>И после бурь блаженство обрету.</plain>
+        </string>
+    </verse>
+</song>

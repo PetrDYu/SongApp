@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2568" name="К свободе Христовой нас вера ведет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К свободе Христовой нас вера ведет,</plain>
+        </string>
+        <string>
+            <plain>Поможет в борьбе роковой.</plain>
+        </string>
+        <string>
+            <plain>Кто верит, тот счастье и мир обретет,</plain>
+        </string>
+        <string>
+            <plain>Свет светит ему неземной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все с пеньем вперед, все вперед.</plain>
+        </string>
+        <string>
+            <plain>Нельзя ужасаться Христовым бойцам.</plain>
+        </string>
+        <string>
+            <plain>Все с пеньем вперед, все вперед.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пустынею дикою странствуешь ты,</plain>
+        </string>
+        <string>
+            <plain>Но радостно пой ты всегда.</plain>
+        </string>
+        <string>
+            <plain>Коль чувствуешь слабость иль боль ты в душе,</plain>
+        </string>
+        <string>
+            <plain>Не падай ты духом тогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И стены иерихонские падали ниц,</plain>
+        </string>
+        <string>
+            <plain>Трубили трубой как бойцы.</plain>
+        </string>
+        <string>
+            <plain>Ты также, мой друг, всегда пой и молись,</plain>
+        </string>
+        <string>
+            <plain>И с пеньем врана победишь.</plain>
+        </string>
+    </verse>
+</song>

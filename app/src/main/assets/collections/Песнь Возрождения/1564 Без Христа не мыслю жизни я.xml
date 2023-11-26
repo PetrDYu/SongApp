@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1564" name="Без Христа не мыслю жизни я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Без Христа не мыслю жизни я.</plain>
+        </string>
+        <string>
+            <plain>Он - мой щит, опора и покров.</plain>
+        </string>
+        <string>
+            <plain>Дышит только Им душа моя.</plain>
+        </string>
+        <string>
+            <plain>За меня Он пролил Свою кровь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Для меня нет дороже Христа,</plain>
+        </string>
+        <string>
+            <plain>Его Имя несет мне покой.</plain>
+        </string>
+        <string>
+            <plain>Льну в общении быть с Ним всегда.</plain>
+        </string>
+        <string>
+            <plain>Для души ведь Он самый родной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Без Христа не вижу цели я.</plain>
+        </string>
+        <string>
+            <plain>Без Него могу ль что получить.</plain>
+        </string>
+        <string>
+            <plain>Он один - свет, радость, песнь моя.</plain>
+        </string>
+        <string>
+            <plain>Без Него я не хочу здесь жить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Без Христа куда же я пойду?</plain>
+        </string>
+        <string>
+            <plain>Без Него могу ли что искать?</plain>
+        </string>
+        <string>
+            <plain>Только в Нем отраду я найду,</plain>
+        </string>
+        <string>
+            <plain>Он один мне может счастье дать.</plain>
+        </string>
+    </verse>
+</song>

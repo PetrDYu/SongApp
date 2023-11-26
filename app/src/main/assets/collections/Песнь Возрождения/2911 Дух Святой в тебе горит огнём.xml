@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2911" name="Дух Святой в тебе горит огнём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой в тебе горит огнём?</plain>
+        </string>
+        <string>
+            <plain>Брат, свидетельствуешь ты,</plain>
+        </string>
+        <string>
+            <plain>что любовь Господня день за днём</plain>
+        </string>
+        <string>
+            <plain>добрые творит плоды?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, любовь Господня, сотвори</plain>
+        </string>
+        <string>
+            <plain>сердце чистое во мне!</plain>
+        </string>
+        <string>
+            <plain>Все стремления моей души</plain>
+        </string>
+        <string>
+            <plain>испытай в святом огне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Агнца кровь омыла ли тебя</plain>
+        </string>
+        <string>
+            <plain>здесь от всякого греха?</plain>
+        </string>
+        <string>
+            <plain>Дух тебе свидетельство даёт,</plain>
+        </string>
+        <string>
+            <plain>что ты Божие дитя?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты надежду свыше получил?</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Знаешь ли,</plain>
+        </string>
+        <string>
+            <plain>как тебя Всевышний возлюбил</plain>
+        </string>
+        <string>
+            <plain>и омыл твои грехи?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Разве ты не чувствуешь в себе,</plain>
+        </string>
+        <string>
+            <plain>что воскрес ты со Христом,</plain>
+        </string>
+        <string>
+            <plain>что привит теперь к святой Лозе</plain>
+        </string>
+        <string>
+            <plain>и нашёл спасенье в нём?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если всё Ему ты посвятил</plain>
+        </string>
+        <string>
+            <plain>и хранишь себя от зла, знай:</plain>
+        </string>
+        <string>
+            <plain>Кто крестит Духом и огнём,</plain>
+        </string>
+        <string>
+            <plain>Им наполнит и тебя!</plain>
+        </string>
+    </verse>
+</song>

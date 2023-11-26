@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1795" name="Четко мерит время маятник веков" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Четко мерит время маятник веков</plain>
+        </string>
+        <string>
+            <plain>И влечет невольно всех нас за собой.</plain>
+        </string>
+        <string>
+            <plain>Эта жизнь сурова, эта жизнь трудна,</plain>
+        </string>
+        <string>
+            <plain>Но в любви Христовой радость нам дана.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Трудно в век двадцатый путнику идти.</plain>
+        </string>
+        <string>
+            <plain>Но видны спасенным истины следы.</plain>
+        </string>
+        <string>
+            <plain>Эта жизнь сурова, эта жизнь трудна,</plain>
+        </string>
+        <string>
+            <plain>Но Христом свобода нам навек дана.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С твердой Божьей верой, не страшась скорбей.</plain>
+        </string>
+        <string>
+            <plain>Мы пройдем тропинкой Божиих детей.</plain>
+        </string>
+        <string>
+            <plain>Эта жизнь сурова, эта жизнь трудна,</plain>
+        </string>
+        <string>
+            <plain>Но в Крови Христовой сила нам дана.</plain>
+        </string>
+    </verse>
+</song>

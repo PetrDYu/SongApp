@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="259" name="Скоро, очень скоро, мы увидим Господа" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Скоро, очень скоро, мы увидим Господа.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя! Мы увидим Господа.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Плача больше нет, мы увидим Господа.</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя! Мы увидим Господа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Болезни больше нет, мы увидим Господа.</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя! Мы увидим Господа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Смерти больше нет, мы увидим Господа.</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя! Мы увидим Господа.</plain>
+        </string>
+    </verse>
+</song>

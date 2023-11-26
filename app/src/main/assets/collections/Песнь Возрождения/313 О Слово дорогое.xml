@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="313" name="О Слово дорогое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Слово дорогое!</plain>
+        </string>
+        <string>
+            <plain>В нем жизни полнота,</plain>
+        </string>
+        <string>
+            <plain>Сокрыто в нем святое</plain>
+        </string>
+        <string>
+            <plain>Богатство благ Христа.</plain>
+        </string>
+        <string>
+            <plain>Ликую иль страдаю,</plain>
+        </string>
+        <string>
+            <plain>В сомненья ли впаду –</plain>
+        </string>
+        <string>
+            <plain>"Приди!" Христа внимаю</plain>
+        </string>
+        <string>
+            <plain>И я к Нему иду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, приди ко Мне,</plain>
+        </string>
+        <string>
+            <plain>О, приди ко Мне,</plain>
+        </string>
+        <string>
+            <plain>Бедный утружденный!</plain>
+        </string>
+        <string>
+            <plain>О, приди ко Мне!</plain>
+        </string>
+        <string>
+            <plain>О, приди ко Мне,</plain>
+        </string>
+        <string>
+            <plain>О, приди ко Мне,</plain>
+        </string>
+        <string>
+            <plain>Бедный утружденный!</plain>
+        </string>
+        <string>
+            <plain>О, приди ко Мне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спасителю отдайся,</plain>
+        </string>
+        <string>
+            <plain>О сердце, навсегда!</plain>
+        </string>
+        <string>
+            <plain>На миг не удаляйся</plain>
+        </string>
+        <string>
+            <plain>От Бога никогда!</plain>
+        </string>
+        <string>
+            <plain>Увы! Я одинокий</plain>
+        </string>
+        <string>
+            <plain>Бессилен устоять:</plain>
+        </string>
+        <string>
+            <plain>То ухожу далеко,</plain>
+        </string>
+        <string>
+            <plain>То льну к Нему опять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Влеки к Себе Ты мощно</plain>
+        </string>
+        <string>
+            <plain>И близко дай прильнуть,</plain>
+        </string>
+        <string>
+            <plain>Не дай и в час полночный</plain>
+        </string>
+        <string>
+            <plain>Душою мне уснуть.</plain>
+        </string>
+        <string>
+            <plain>Но дай чрез все невзгоды,</plain>
+        </string>
+        <string>
+            <plain>Что встречу я в пути,</plain>
+        </string>
+        <string>
+            <plain>Во все земные годы</plain>
+        </string>
+        <string>
+            <plain>Мне радостно идти!</plain>
+        </string>
+    </verse>
+</song>

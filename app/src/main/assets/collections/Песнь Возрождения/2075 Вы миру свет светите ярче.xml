@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2075" name="Вы миру свет светите ярче" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вы миру свет - светите ярче,</plain>
+        </string>
+        <string>
+            <plain>Не бойтесь тьмы, горите жарче.</plain>
+        </string>
+        <string>
+            <plain>Вы миру свет; не только тем,</plain>
+        </string>
+        <string>
+            <plain>Кто свет не знает, светите всем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть свет ваш будет средь тьмы маяк,</plain>
+        </string>
+        <string>
+            <plain>Пусть он рассеет гнетущий мрак,</plain>
+        </string>
+        <string>
+            <plain>Пусть людям счастье несёт ваш свет</plain>
+        </string>
+        <string>
+            <plain>Среди ненастья, средь бурь и бед.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вы освещайте пути вперёд,</plain>
+        </string>
+        <string>
+            <plain>Вы растопите холодный лёд,</plain>
+        </string>
+        <string>
+            <plain>Вы размягчите гранит сердец</plain>
+        </string>
+        <string>
+            <plain>И всем скажите, Кто ваш Отец.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вы прославляйте любовь Творца</plain>
+        </string>
+        <string>
+            <plain>Так, чтоб внимали вам все сердца,</plain>
+        </string>
+        <string>
+            <plain>Так, чтобы к свету от мрака шли,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не теряли то, что нашли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но, чтобы ярче всегда гореть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб разгораться, а не слабеть,</plain>
+        </string>
+        <string>
+            <plain>Поддержка нужна вам от Отца,</plain>
+        </string>
+        <string>
+            <plain>Склоняйтесь чаще у ног Христа.</plain>
+        </string>
+    </verse>
+</song>

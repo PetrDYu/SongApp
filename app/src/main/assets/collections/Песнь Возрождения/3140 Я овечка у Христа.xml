@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3140" name="Я овечка у Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я - овечка у Христа!</plain>
+        </string>
+        <string>
+            <plain>В сердце счастья полнота:</plain>
+        </string>
+        <string>
+            <plain>Пастырь мой о мне печётся,</plain>
+        </string>
+        <string>
+            <plain>с Ним так радостно живётся:</plain>
+        </string>
+        <string>
+            <plain>Он в любви меня ведёт</plain>
+        </string>
+        <string>
+            <plain>и по имени зовёт.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Под Его святым жезлом</plain>
+        </string>
+        <string>
+            <plain>не нуждаюсь я ни в чём:</plain>
+        </string>
+        <string>
+            <plain>пажити Христа богаты,</plain>
+        </string>
+        <string>
+            <plain>я вдыхаю ароматы.</plain>
+        </string>
+        <string>
+            <plain>Жажду ль я - к потокам вод</plain>
+        </string>
+        <string>
+            <plain>Он меня тот час ведёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как не радоваться мне?</plain>
+        </string>
+        <string>
+            <plain>Я так счастлив во Христе!</plain>
+        </string>
+        <string>
+            <plain>Буду взят я в край отчизны</plain>
+        </string>
+        <string>
+            <plain>после странствований жизни,</plain>
+        </string>
+        <string>
+            <plain>в ту страну, где вечный свет:</plain>
+        </string>
+        <string>
+            <plain>счастья больше в мире нет!</plain>
+        </string>
+    </verse>
+</song>

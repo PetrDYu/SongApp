@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2362" name="Ты сказал что душа измучена" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты сказал, что душа измучена,</plain>
+        </string>
+        <string>
+            <plain>Очень трудно стало жить тебе,</plain>
+        </string>
+        <string>
+            <plain>Что от жизни всё уже получено,</plain>
+        </string>
+        <string>
+            <plain>изменений нет в твоей судьбе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Посмотри хоть раз ты на Голгофу,</plain>
+        </string>
+        <string>
+            <plain>Там невинная струится кровь,</plain>
+        </string>
+        <string>
+            <plain>Там увидишь ты Иисуса слезы,</plain>
+        </string>
+        <string>
+            <plain>В них горит Отцовская любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отвернулись все родные и друзья,</plain>
+        </string>
+        <string>
+            <plain>Не с кем разделить печаль свою;</plain>
+        </string>
+        <string>
+            <plain>Позабыли, отказалась и семья,</plain>
+        </string>
+        <string>
+            <plain>Одного оставили тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нету силы, чтоб остановить всякий грех,</plain>
+        </string>
+        <string>
+            <plain>А душа томится и болит.</plain>
+        </string>
+        <string>
+            <plain>Ты к Иисусу поспеши, Он примет всех,</plain>
+        </string>
+        <string>
+            <plain>Снимет грех и раны исцелит.</plain>
+        </string>
+    </verse>
+</song>

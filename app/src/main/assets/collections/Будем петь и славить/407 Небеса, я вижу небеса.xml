@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="407" name="Небеса, я вижу небеса" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Небеса, я вижу небеса.</plain>
+        </string>
+        <string>
+            <plain>Бог дал мне глаза. Я вижу небеса.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Динь, динь, динь. Я слышу колокольчик.</plain>
+        </string>
+        <string>
+            <plain>Бог дал ушки мне. Я слышу колокольчик.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Песенку могу я петь Христу.</plain>
+        </string>
+        <string>
+            <plain>Бог дал голос мне. Могу я петь Христу.</plain>
+        </string>
+    </verse>
+</song>

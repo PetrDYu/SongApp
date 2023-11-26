@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1135" name="Если душа истомится в страданьях" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если душа истомится в страданьях,</plain>
+        </string>
+        <string>
+            <plain>И изнеможет мой дух,</plain>
+        </string>
+        <string>
+            <plain>Верю, что в жизненном море скитаний</plain>
+        </string>
+        <string>
+            <plain>Ты - самый лучший мой Друг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Знаешь Ты все, о мой дивный Учитель,</plain>
+        </string>
+        <string>
+            <plain>Видишь невзгоды души.</plain>
+        </string>
+        <string>
+            <plain>"Все вам ко благу",</plain>
+        </string>
+        <string>
+            <plain>- сказал мой Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Верю, послал это Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Если в болезни душа истомится, вспомни:</plain>
+        </string>
+        <string>
+            <plain>Ведь Я - муж скорбей.</plain>
+        </string>
+        <string>
+            <plain>Без Моей воли ничто Не случится...</plain>
+        </string>
+        <string>
+            <plain>И не страшись, будь добрей!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если друзья изменяют порой,</plain>
+        </string>
+        <string>
+            <plain>Ты говоришь: "Не грусти.</plain>
+        </string>
+        <string>
+            <plain>Я - лучший Друг твой,</plain>
+        </string>
+        <string>
+            <plain>Я буду с тобой и сохраню на пути".</plain>
+        </string>
+    </verse>
+</song>

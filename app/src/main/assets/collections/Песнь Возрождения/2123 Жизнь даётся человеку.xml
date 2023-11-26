@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2123" name="Жизнь даётся человеку" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь даётся человеку,</plain>
+        </string>
+        <string>
+            <plain>Чтоб на этой земле</plain>
+        </string>
+        <string>
+            <plain>Он прошёл, свершая добрые дела.</plain>
+        </string>
+        <string>
+            <plain>Но порою так беспечен</plain>
+        </string>
+        <string>
+            <plain>Он бывает на пути,</plain>
+        </string>
+        <string>
+            <plain>Увлекает за собою сатана.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Подожди (2 р.), Иисус зовёт, не уходи.</plain>
+        </string>
+        <string>
+            <plain>Подожди (2 р.), на Его призыв поспеши.</plain>
+        </string>
+        <string>
+            <plain>О подумай, человек, ну кто ты есть на земле?</plain>
+        </string>
+        <string>
+            <plain>А Иисус тебя так любит, Лишь один Божий Сын.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мира прелести и страсти</plain>
+        </string>
+        <string>
+            <plain>Всё кипят, бурлят вокруг,</plain>
+        </string>
+        <string>
+            <plain>Думаешь, ещё мгновенье</plain>
+        </string>
+        <string>
+            <plain>- И достигнута высота.</plain>
+        </string>
+        <string>
+            <plain>Но проходит день за днём,</plain>
+        </string>
+        <string>
+            <plain>И суетой ты окружён,</plain>
+        </string>
+        <string>
+            <plain>А Иисус зовёт на добрые дела.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>День за днём и год за годом</plain>
+        </string>
+        <string>
+            <plain>Улетают навсегда,</plain>
+        </string>
+        <string>
+            <plain>И мираж растаял счастья твоего.</plain>
+        </string>
+        <string>
+            <plain>Ты идёшь опустошённый</plain>
+        </string>
+        <string>
+            <plain>И не видишь никого,</plain>
+        </string>
+        <string>
+            <plain>А Иисус стучит у сердца твоего.</plain>
+        </string>
+    </verse>
+</song>

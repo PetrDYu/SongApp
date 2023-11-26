@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2373" name="У нас есть победа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У нас есть победа (2 р.)</plain>
+        </string>
+        <string>
+            <plain>В Крови Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Все злые духи, духи болезни</plain>
+        </string>
+        <string>
+            <plain>Побеждены Кровию Христа.</plain>
+        </string>
+        <string>
+            <plain>Доброту кто познает</plain>
+        </string>
+        <string>
+            <plain>И любовь кто сознает</plain>
+        </string>
+        <string>
+            <plain>(У нас есть победа) 2 р.</plain>
+        </string>
+        <string>
+            <plain>В Крови Иисуса Христа.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Именем Иисуса (2 р.)</plain>
+        </string>
+        <string>
+            <plain>Зло побеждаем мы.</plain>
+        </string>
+        <string>
+            <plain>(Именем Иисуса) 2 р.</plain>
+        </string>
+        <string>
+            <plain>Отгоняем силы тьмы.</plain>
+        </string>
+        <string>
+            <plain>Он борьбу за нас ведет</plain>
+        </string>
+        <string>
+            <plain>И победу нам дает.</plain>
+        </string>
+        <string>
+            <plain>Только именем</plain>
+        </string>
+        <string>
+            <plain>Иисуса Зло побеждаем мы.</plain>
+        </string>
+    </verse>
+</song>

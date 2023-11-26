@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="817" name="Воспою любовь Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспою любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>Умер Он от мук креста</plain>
+        </string>
+        <string>
+            <plain>За тебя и за меня,</plain>
+        </string>
+        <string>
+            <plain>Всех нас, грешных, возлюбя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспою любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>Вознесут хвалу уста.</plain>
+        </string>
+        <string>
+            <plain>Умер Он, чтоб я мог жить,</plain>
+        </string>
+        <string>
+            <plain>По Его путям ходить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прежде слез моих за грех,</plain>
+        </string>
+        <string>
+            <plain>Плакал Он тогда за всех,</plain>
+        </string>
+        <string>
+            <plain>Прежде чем молился я,-</plain>
+        </string>
+        <string>
+            <plain>Он молился за меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Глубину Его любви</plain>
+        </string>
+        <string>
+            <plain>Не могу вполне понять:</plain>
+        </string>
+        <string>
+            <plain>Как Он снял грехи мои</plain>
+        </string>
+        <string>
+            <plain>И дарует благодать?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чем же я Ему воздам?</plain>
+        </string>
+        <string>
+            <plain>Ведь за грех мой Он страдал.</plain>
+        </string>
+        <string>
+            <plain>О Господь! Возьми меня,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я был Твоим всегда.</plain>
+        </string>
+    </verse>
+</song>

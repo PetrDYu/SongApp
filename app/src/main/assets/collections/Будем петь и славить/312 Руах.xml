@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="312" name="Руах" canon="false" text="" textRus="М. Винецкой" music="Еврейская народная" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Руах.</plain>
+            <repeat id="0" rep_rate="8" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Не воинством и не силой, но Духом Бога живого.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Руах – дыхание жизни, Руах – веселие сердца,</plain>
+        </string>
+        <string>
+            <plain>Прикосновение мира, мира Христа Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Руах – свет истины вечной, вечной любви и свободы.</plain>
+        </string>
+        <string>
+            <plain>Руах – сияние славы, славы Всевышнего Бога.</plain>
+        </string>
+    </verse>
+</song>

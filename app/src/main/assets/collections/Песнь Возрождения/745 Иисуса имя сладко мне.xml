@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="745" name="Иисуса имя сладко мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса имя сладко мне –</plain>
+        </string>
+        <string>
+            <plain>Покой и радость в Нем душе!</plain>
+        </string>
+        <string>
+            <plain>Люблю твердить его везде,</plain>
+        </string>
+        <string>
+            <plain>То имя Иисуса.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Тебе хвала,</plain>
+        </string>
+        <string>
+            <plain>Неизменный, навсегда;</plain>
+        </string>
+        <string>
+            <plain>Славьте, славьте все уста</plain>
+        </string>
+        <string>
+            <plain>То имя Иисуса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Страдальцам сладко имя то,</plain>
+        </string>
+        <string>
+            <plain>Отраду, мир дает оно,</plain>
+        </string>
+        <string>
+            <plain>Любовью Божией полно</plain>
+        </string>
+        <string>
+            <plain>То имя Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет слов, чтоб выразить вполне,</plain>
+        </string>
+        <string>
+            <plain>Как дорого то имя мне!</plain>
+        </string>
+        <string>
+            <plain>Прославлю в пламенной хвале</plain>
+        </string>
+        <string>
+            <plain>То имя Иисуса.</plain>
+        </string>
+    </verse>
+</song>

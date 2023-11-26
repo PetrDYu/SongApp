@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="934" name="Люблю Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Люблю Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Люблю Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Люблю Иисуса.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвала Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Хвала Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Хвала Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Хвала Иисусу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жить для Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Жить для Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Жить для Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Жить для Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я жду Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Я жду Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Я жду Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Я жду Иисуса.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аминь.</plain>
+        </string>
+    </chorus>
+</song>

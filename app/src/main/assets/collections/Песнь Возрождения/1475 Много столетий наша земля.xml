@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1475" name="Много столетий наша земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много столетий наша земля,</plain>
+        </string>
+        <string>
+            <plain>Мерно качаясь, плывет,</plain>
+        </string>
+        <string>
+            <plain>Ближе к причалу вечного дня</plain>
+        </string>
+        <string>
+            <plain>Судьбы народов несет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слушайте, люди земли:</plain>
+        </string>
+        <string>
+            <plain>Вечность вас ждет впереди.</plain>
+        </string>
+        <string>
+            <plain>Призраком тленным пройдет навсегда</plain>
+        </string>
+        <string>
+            <plain>Время земного бытья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Помнит планета древние дни,</plain>
+        </string>
+        <string>
+            <plain>Подвиг Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Знает источник вечной любви.</plain>
+        </string>
+        <string>
+            <plain>Божий помнит слова.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Люди, познайте силу Творца,</plain>
+        </string>
+        <string>
+            <plain>Милость Его и любовь.</plain>
+        </string>
+        <string>
+            <plain>Помните близость жизни конца,</plain>
+        </string>
+        <string>
+            <plain>Слушайте благости зов.</plain>
+        </string>
+    </verse>
+</song>

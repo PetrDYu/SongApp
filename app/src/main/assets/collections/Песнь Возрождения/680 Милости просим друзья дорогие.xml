@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="680" name="Милости просим друзья дорогие" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Милости просим, друзья дорогие!</plain>
+        </string>
+        <string>
+            <plain>Настежь открыты пред вами сердца;</plain>
+        </string>
+        <string>
+            <plain>Вы не чужие для нас, но родные:</plain>
+        </string>
+        <string>
+            <plain>Мы все единого дети Отца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С братской любовию милости просим!</plain>
+        </string>
+        <string>
+            <plain>В наших сердцах торжество.</plain>
+        </string>
+        <string>
+            <plain>Господу нашему славу возносим</plain>
+        </string>
+        <string>
+            <plain>За посещение Церкви Его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нам расскажите, как вас из пучины</plain>
+        </string>
+        <string>
+            <plain>В пагубный час Он из бездны извлек,</plain>
+        </string>
+        <string>
+            <plain>Как Он, приведши вас к скалам твердыни,</plain>
+        </string>
+        <string>
+            <plain>Чудное слово "спасен!" вам изрек.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам расскажите, как Бог милостивый</plain>
+        </string>
+        <string>
+            <plain>Вас охранял от рыкающих львов,</plain>
+        </string>
+        <string>
+            <plain>Как ураган укрощал Он строптивый,</plain>
+        </string>
+        <string>
+            <plain>Как бесприютным давал Он покров.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нам расскажите, как в местности вашей</plain>
+        </string>
+        <string>
+            <plain>Вы получали от Бога дары;</plain>
+        </string>
+        <string>
+            <plain>Черпали благости полною чашей,</plain>
+        </string>
+        <string>
+            <plain>Как вы вкушали с Иисусом пиры.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Нам расскажите, как дивно спокойно</plain>
+        </string>
+        <string>
+            <plain>Бог ваш беседовал с вами не раз;</plain>
+        </string>
+        <string>
+            <plain>Братья, споем мы торжественно, стройно:</plain>
+        </string>
+        <string>
+            <plain>Тот же Господь и у вас и у нас.</plain>
+        </string>
+    </verse>
+</song>

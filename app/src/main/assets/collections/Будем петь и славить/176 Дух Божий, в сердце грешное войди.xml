@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="176" name="Дух Божий, в сердце грешное войди" canon="false" text="Дж. Кроли" textRus="" music="Ф. К. Аткинсона" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дух Божий, в сердце грешное войди</plain>
+        </string>
+        <string>
+            <plain>И от земного властно оторви.</plain>
+        </string>
+        <string>
+            <plain>Всесильный, поселись в моей груди</plain>
+        </string>
+        <string>
+            <plain>И помоги пребыть в Твоей любви.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Лишь Ты открыл мне Вечного Царя.</plain>
+        </string>
+        <string>
+            <plain>Все, все Твое, что я считал моим.</plain>
+        </string>
+        <string>
+            <plain>Мне крест Христов да будет как заря.</plain>
+        </string>
+        <string>
+            <plain>О, дай искать Христа мне и найти!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не жажду я пророческих речей,</plain>
+        </string>
+        <string>
+            <plain>Видений славы, скрытого вдали,</plain>
+        </string>
+        <string>
+            <plain>Небес отверстых, ангельских вестей,</plain>
+        </string>
+        <string>
+            <plain>Лишь всякий мрак из сердца удали.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Учи меня, что Ты всегда вблизи;</plain>
+        </string>
+        <string>
+            <plain>Учи, как зло любовью побеждать;</plain>
+        </string>
+        <string>
+            <plain>Учи, как яд сомнений отразить,</plain>
+        </string>
+        <string>
+            <plain>Всегда молиться и не унывать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Учи любить любовью неземной,</plain>
+        </string>
+        <string>
+            <plain>Небесной силой все во мне затронь.</plain>
+        </string>
+        <string>
+            <plain>Хочу быть Богу жертвою живой.</plain>
+        </string>
+        <string>
+            <plain>Мой дух – алтарь, Твоя любовь – огонь.</plain>
+        </string>
+    </verse>
+</song>

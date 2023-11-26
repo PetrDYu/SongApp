@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2297" name="Пройдут года и постепенно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пройдут года и постепенно</plain>
+        </string>
+        <string>
+            <plain>Всё унесут в руках своих.</plain>
+        </string>
+        <string>
+            <plain>А там вдали, над тенью тленной,</plain>
+        </string>
+        <string>
+            <plain>Стоит святом, святой Иерусалим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К тебе спешу душой, Хочу, хочу домой</plain>
+        </string>
+        <string>
+            <plain>И быть всегда с тобой, Иерусалим!</plain>
+        </string>
+        <string>
+            <plain>Забуду всю печаль, земли ничуть не жаль,</plain>
+        </string>
+        <string>
+            <plain>Уйду в святую даль, Иерусалим.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вокруг его сады белеют,</plain>
+        </string>
+        <string>
+            <plain>Поёт там псалмы херувим.</plain>
+        </string>
+        <string>
+            <plain>И все прекрасные аллеи</plain>
+        </string>
+        <string>
+            <plain>Ведут в святой, святой Иерусалим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос там Царь, Первосвященник,</plain>
+        </string>
+        <string>
+            <plain>Озарено там всё пред Ним.</plain>
+        </string>
+        <string>
+            <plain>Там сыт голодный, волен пленник.</plain>
+        </string>
+        <string>
+            <plain>Уйду в святой, святой Иерусалим.</plain>
+        </string>
+    </verse>
+</song>

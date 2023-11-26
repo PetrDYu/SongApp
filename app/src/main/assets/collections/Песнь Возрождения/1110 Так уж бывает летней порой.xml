@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1110" name="Так уж бывает летней порой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Так уж бывает летней порой,</plain>
+        </string>
+        <string>
+            <plain>Когда луч солнца радует нас.</plain>
+        </string>
+        <string>
+            <plain>Вдруг испытанье - будто рукой</plain>
+        </string>
+        <string>
+            <plain>Небо закроет от нас.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И если не станет овец в загоне,</plain>
+        </string>
+        <string>
+            <plain>И виноград не даст плода,</plain>
+        </string>
+        <string>
+            <plain>Все равно я буду славить</plain>
+        </string>
+        <string>
+            <plain>Господа Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если закружит меня волною,</plain>
+        </string>
+        <string>
+            <plain>В водовороте суетного дня,</plain>
+        </string>
+        <string>
+            <plain>Верой поднявшись над суетою.</plain>
+        </string>
+        <string>
+            <plain>Вновь запоет душа моя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если однажды теряешь что-то,</plain>
+        </string>
+        <string>
+            <plain>Вспомни слова Иисуса Христа:</plain>
+        </string>
+        <string>
+            <plain>Где ваша ценность, там сердце будет.</plain>
+        </string>
+        <string>
+            <plain>А значит, потеря невелика.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если предстанет жизненный выбор:</plain>
+        </string>
+        <string>
+            <plain>Ради Иисуса и славы Отца</plain>
+        </string>
+        <string>
+            <plain>Нужно лишиться овец в загоне,</plain>
+        </string>
+        <string>
+            <plain>Хочу, чтобы спела душа моя.</plain>
+        </string>
+    </verse>
+</song>

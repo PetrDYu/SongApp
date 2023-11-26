@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1210" name="Божией любви границы нету" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Божией любви границы нету.</plain>
+        </string>
+        <string>
+            <plain>Глубже всех она лежит морей.</plain>
+        </string>
+        <string>
+            <plain>Выше звезд, что тускло в небе светят,</plain>
+        </string>
+        <string>
+            <plain>И везде есть свет ее лучей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я от Бога был далек.</plain>
+        </string>
+        <string>
+            <plain>Но Он меня любовию привлек,</plain>
+        </string>
+        <string>
+            <plain>Не вспомнил всей вины моей,</plain>
+        </string>
+        <string>
+            <plain>И я в числе Его детей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Осень мрачная во мне царила,</plain>
+        </string>
+        <string>
+            <plain>Без надежды время тускло шло.</plain>
+        </string>
+        <string>
+            <plain>Но любовь мне душу озарила</plain>
+        </string>
+        <string>
+            <plain>- Утро радостное рассвело.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всюду, где мой взор только бывает.</plain>
+        </string>
+        <string>
+            <plain>Вижу милость моего Творца.</plain>
+        </string>
+        <string>
+            <plain>Вся природа радостно ликует,</plain>
+        </string>
+        <string>
+            <plain>С нею я хвалю любовь Отца.</plain>
+        </string>
+    </verse>
+</song>

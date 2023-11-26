@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="77" name="Господь одно хочу лишь я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, одно хочу лишь я,</plain>
+        </string>
+        <string>
+            <plain>Хотя мой путь земной тернист:</plain>
+        </string>
+        <string>
+            <plain>Веди меня среди огня,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я был чист, чтоб я был чист!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Омой меня внутри и вне</plain>
+        </string>
+        <string>
+            <plain>И, если нужно, - плавь в огне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в сердце грех, на самом дне,</plain>
+        </string>
+        <string>
+            <plain>Был удален совсем во мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не делать зла стараюсь я,</plain>
+        </string>
+        <string>
+            <plain>От грешных помыслов бегу,</plain>
+        </string>
+        <string>
+            <plain>Как ни стремлюсь быть чистым я,</plain>
+        </string>
+        <string>
+            <plain>- Все ж чистым быть я не могу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пошлешь ли в жизни счастье мне,</plain>
+        </string>
+        <string>
+            <plain>Богатство, славу иль успех,</plain>
+        </string>
+        <string>
+            <plain>Но сердце чистое во мне</plain>
+        </string>
+        <string>
+            <plain>- Дороже всех, дороже всех.</plain>
+        </string>
+    </verse>
+</song>

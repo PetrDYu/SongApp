@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="99" name="Ему имя Чудный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ему имя: Чудный,</plain>
+        </string>
+        <string>
+            <plain>Вечный и святой.</plain>
+        </string>
+        <string>
+            <plain>В день великий, судный</plain>
+        </string>
+        <string>
+            <plain>Будет Он судьей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ему имя: Славный</plain>
+        </string>
+        <string>
+            <plain>Образ Божества,</plain>
+        </string>
+        <string>
+            <plain>Царь небес державный,</plain>
+        </string>
+        <string>
+            <plain>Ангелов глава.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ему имя: Слово,</plain>
+        </string>
+        <string>
+            <plain>Слово - Вечный Бог;</plain>
+        </string>
+        <string>
+            <plain>Без Его покрова</plain>
+        </string>
+        <string>
+            <plain>Мир бы жить не мог.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ему имя: Верный,</plain>
+        </string>
+        <string>
+            <plain>Вождь, мудрец, пророк,</plain>
+        </string>
+        <string>
+            <plain>Он в любви безмерной</plain>
+        </string>
+        <string>
+            <plain>Нас из тьмы извлек.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ему имя: Нежный</plain>
+        </string>
+        <string>
+            <plain>Пастырь Божьих стад;</plain>
+        </string>
+        <string>
+            <plain>Океан безбрежный</plain>
+        </string>
+        <string>
+            <plain>Милостей, отрад.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Он - Первосвященник</plain>
+        </string>
+        <string>
+            <plain>Мощный и благой;</plain>
+        </string>
+        <string>
+            <plain>Грешный мира пленник</plain>
+        </string>
+        <string>
+            <plain>В Нем нашел покой.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Он - Советник дивный</plain>
+        </string>
+        <string>
+            <plain>Людям в час невзгод;</plain>
+        </string>
+        <string>
+            <plain>И на вздох призывный</plain>
+        </string>
+        <string>
+            <plain>Он тотчас идет.</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Он - Лоза Святая</plain>
+        </string>
+        <string>
+            <plain>Своего Отца;</plain>
+        </string>
+        <string>
+            <plain>В вере возрастая,</plain>
+        </string>
+        <string>
+            <plain>Льнут к Нему сердца.</plain>
+        </string>
+    </verse>
+</song>

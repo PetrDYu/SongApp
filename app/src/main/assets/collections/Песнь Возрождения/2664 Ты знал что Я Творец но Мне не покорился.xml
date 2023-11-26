@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2664" name="Ты знал что Я Творец но Мне не покорился" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты знал, что Я Творец, но Мне не покорился,</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Я есть Свет, но ты Меня не зрил.</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Я есть Путь, но ты с дороги Сбился,</plain>
+        </string>
+        <string>
+            <plain>Ты Знал, что Я есть Жизнь, но Мною ты не жил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты знал, что Мудрость</plain>
+        </string>
+        <string>
+            <plain>Я - не чтил Моих законов,</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Я всеблаг, но не любил Меня.</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Я богат, но не просил с поклоном,</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что вечен Я, но не просил ни дня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я милостив, ты знал, но Мне судьбу не вверил.</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Я велик, но Мне ты не служил.</plain>
+        </string>
+        <string>
+            <plain>Что Я могу все дать, определить, измеришь,</plain>
+        </string>
+        <string>
+            <plain>Что всемогущ, - ты знал, но не Меня ты чтил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так знай же, человек - былинка во вселенной</plain>
+        </string>
+        <string>
+            <plain>Пустые дни прожить, не веря, не любя,</plain>
+        </string>
+        <string>
+            <plain>Придя к концу земной короткой жизни тленной,</plain>
+        </string>
+        <string>
+            <plain>В погибели своей не обвиняй Меня.</plain>
+        </string>
+    </verse>
+</song>

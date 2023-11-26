@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1868" name="Веди меня Господь мой Свет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Веди меня, Господь, - мой Свет!</plain>
+        </string>
+        <string>
+            <plain>Дай духу добрых дел желанье,</plain>
+        </string>
+        <string>
+            <plain>Будь мне наставник и совет</plain>
+        </string>
+        <string>
+            <plain>В счастливый час, в час испытанья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сними с очей покровы сна.</plain>
+        </string>
+        <string>
+            <plain>Чтоб труд свершал я с наслажденьем;</plain>
+        </string>
+        <string>
+            <plain>Да будет цель устремлена</plain>
+        </string>
+        <string>
+            <plain>Всегда к источнику спасенья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не отними руки Твоей,</plain>
+        </string>
+        <string>
+            <plain>Храни меня от искушенья,</plain>
+        </string>
+        <string>
+            <plain>И благодатию Своей</plain>
+        </string>
+        <string>
+            <plain>Даруй мне радость искупленья.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь, в крови Твоей омой</plain>
+        </string>
+        <string>
+            <plain>Грехи души обремененной,</plain>
+        </string>
+        <string>
+            <plain>Надежды радостный покой,</plain>
+        </string>
+        <string>
+            <plain>Господь, всели в ней, обновленной.</plain>
+        </string>
+    </verse>
+</song>

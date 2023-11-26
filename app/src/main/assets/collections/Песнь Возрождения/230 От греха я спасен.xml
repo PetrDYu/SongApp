@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="230" name="От греха я спасен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От греха я спасен,</plain>
+        </string>
+        <string>
+            <plain>В Божий мир водворен,</plain>
+        </string>
+        <string>
+            <plain>Сердцем верую я в Иисуса;</plain>
+        </string>
+        <string>
+            <plain>Он покой мне дает</plain>
+        </string>
+        <string>
+            <plain>Снял с души всякий гнет,</plain>
+        </string>
+        <string>
+            <plain>В Сына Божия верую я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верю я, верю я,</plain>
+        </string>
+        <string>
+            <plain>Сердцем верую я в Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Верю я, верю я,</plain>
+        </string>
+        <string>
+            <plain>В Сына Божия верую я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Искупил Он меня,</plain>
+        </string>
+        <string>
+            <plain>Верой принял то я,</plain>
+        </string>
+        <string>
+            <plain>Сердцем верую я в Иисуса;</plain>
+        </string>
+        <string>
+            <plain>В неизменной любви</plain>
+        </string>
+        <string>
+            <plain>Он хранитель души,</plain>
+        </string>
+        <string>
+            <plain>В Сына Божия верую я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как радостно мне,</plain>
+        </string>
+        <string>
+            <plain>Он со мною везде,</plain>
+        </string>
+        <string>
+            <plain>Сердцем верую я в Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Жажду вечно хвалить,</plain>
+        </string>
+        <string>
+            <plain>Иисусу служить,</plain>
+        </string>
+        <string>
+            <plain>В Сына Божия верую я.</plain>
+        </string>
+    </verse>
+</song>

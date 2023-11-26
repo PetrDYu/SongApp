@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1107" name="Бывали в жизни трудные минуты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бывали в жизни трудные минуты,</plain>
+        </string>
+        <string>
+            <plain>И горе посещало нас не раз.</plain>
+        </string>
+        <string>
+            <plain>Но с нами наш Господь, и потому-то</plain>
+        </string>
+        <string>
+            <plain>надежда не обманывала нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Надежда - светлый луч во тьме ночной,</plain>
+        </string>
+        <string>
+            <plain>Надежда - посох в юдоли земной;</plain>
+        </string>
+        <string>
+            <plain>Надежда наша не боится гроз.</plain>
+        </string>
+        <string>
+            <plain>Надежда наша - Иисус Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир потрясают ужасы, как прежде.</plain>
+        </string>
+        <string>
+            <plain>Страданий много, горестей и слез.</plain>
+        </string>
+        <string>
+            <plain>Но Бог нам дал блаженную надежду</plain>
+        </string>
+        <string>
+            <plain>в одном чудесном Имени - Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Стареет наше тело, как одежда,</plain>
+        </string>
+        <string>
+            <plain>И наше бремя нам не по плечу.</plain>
+        </string>
+        <string>
+            <plain>Но мы несём в сердцах своих надежду.</plain>
+        </string>
+        <string>
+            <plain>Как на ветру горящую свечу.</plain>
+        </string>
+    </verse>
+</song>

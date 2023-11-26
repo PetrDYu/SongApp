@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="952" name="Наш Спаситель в каждом веке" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наш Спаситель в каждом веке</plain>
+        </string>
+        <string>
+            <plain>К сокрушенным близок был,</plain>
+        </string>
+        <string>
+            <plain>Разве Он о человеке</plain>
+        </string>
+        <string>
+            <plain>В наше время позабыл?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог в Иудее, Бог в Галилее,</plain>
+        </string>
+        <string>
+            <plain>Людям помочь спешил.</plain>
+        </string>
+        <string>
+            <plain>Тот же Мессия также</plain>
+        </string>
+        <string>
+            <plain>Россию Милости не лишил.</plain>
+        </string>
+        <string>
+            <plain>Будет то время, каждое племя</plain>
+        </string>
+        <string>
+            <plain>Примет любовь Христа.</plain>
+        </string>
+        <string>
+            <plain>За пробужденье, за исцеленье</plain>
+        </string>
+        <string>
+            <plain>Молятся здесь сердца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Милосердием Господним</plain>
+        </string>
+        <string>
+            <plain>Был очищен Нееман.</plain>
+        </string>
+        <string>
+            <plain>Разве нет у нас сегодня</plain>
+        </string>
+        <string>
+            <plain>Исцеленных христиан?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Елисей - слуга Господний -</plain>
+        </string>
+        <string>
+            <plain>Чудотворный дар носил.</plain>
+        </string>
+        <string>
+            <plain>Разве нет у нас сегодня</plain>
+        </string>
+        <string>
+            <plain>Тех, кто просит свыше сил?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус Христос - Сын Божий -</plain>
+        </string>
+        <string>
+            <plain>Шел больным здоровье дать.</plain>
+        </string>
+        <string>
+            <plain>Разве Дух Святой не может</plain>
+        </string>
+        <string>
+            <plain>Это дело продолжать?</plain>
+        </string>
+    </verse>
+</song>

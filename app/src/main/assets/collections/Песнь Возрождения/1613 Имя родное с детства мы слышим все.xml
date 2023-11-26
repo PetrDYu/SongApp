@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1613" name="Имя родное с детства мы слышим все" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Имя родное с детства мы слышим все.</plain>
+        </string>
+        <string>
+            <plain>Имя родное несет покой душе.</plain>
+        </string>
+        <string>
+            <plain>С именем "мама" трудности не страшны,</plain>
+        </string>
+        <string>
+            <plain>Если по жизни нелегко нам идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты подарила нам свою любовь и ласку.</plain>
+        </string>
+        <string>
+            <plain>Отдала улыбки, святых рук тепло.</plain>
+        </string>
+        <string>
+            <plain>За нас готова ты отдать всю жизнь,</plain>
+        </string>
+        <string>
+            <plain>Родная, лишь бы нам всем было хорошо.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты говорила нам о любви Христа,</plain>
+        </string>
+        <string>
+            <plain>Как Он, страдая, лил Свою кровь с креста,</plain>
+        </string>
+        <string>
+            <plain>Как, ради нас, Он сошел на землю к нам.</plain>
+        </string>
+        <string>
+            <plain>Открыл дорогу к светлым небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И незаметно мы повзрослели вдруг.</plain>
+        </string>
+        <string>
+            <plain>Но, как и прежде, мама - наш лучший друг;</plain>
+        </string>
+        <string>
+            <plain>Снова, как в детстве, прижмешь к груди своей.</plain>
+        </string>
+        <string>
+            <plain>Вы берегите своих матерей.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1211" name="Брат мой усталый о чем ты горюешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Брат мой усталый, о чем ты горюешь?</plain>
+        </string>
+        <string>
+            <plain>Сердце твое окружает печаль.</plain>
+        </string>
+        <string>
+            <plain>Очи унылы, как поздняя осень,</plain>
+        </string>
+        <string>
+            <plain>Сердце холодно и твердо, как сталь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Горя и бед испытал ты немало.</plain>
+        </string>
+        <string>
+            <plain>Силы истратил в неравной борьбе,</plain>
+        </string>
+        <string>
+            <plain>Сердце желанной любви не встречало,</plain>
+        </string>
+        <string>
+            <plain>Ложь и обман надоели тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастье с тобою дружить не хотело.</plain>
+        </string>
+        <string>
+            <plain>Ты, как цветок, расцветший в тени.</plain>
+        </string>
+        <string>
+            <plain>Зноем дохнуло, - краса облетела,</plain>
+        </string>
+        <string>
+            <plain>Где ж вы, счастливые прежние дни?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Брат мой усталый, учися всечасно</plain>
+        </string>
+        <string>
+            <plain>Больше творить в этом мире добра.</plain>
+        </string>
+        <string>
+            <plain>Богу доверься, живи для Иисуса,</plain>
+        </string>
+        <string>
+            <plain>В сердце твоем не погаснет заря.</plain>
+        </string>
+    </verse>
+</song>

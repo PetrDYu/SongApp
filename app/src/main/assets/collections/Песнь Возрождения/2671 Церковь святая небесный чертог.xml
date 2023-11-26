@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2671" name="Церковь святая небесный чертог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Церковь святая - небесный чертог</plain>
+        </string>
+        <string>
+            <plain>В мире греховном, где зло и порок.</plain>
+        </string>
+        <string>
+            <plain>Царство добра, красоты и любви,</plain>
+        </string>
+        <string>
+            <plain>Бог во Христе нам Себя явил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Церковь моя - это Божий дом.</plain>
+        </string>
+        <string>
+            <plain>Как хорошо всем нам в доме одном.</plain>
+        </string>
+        <string>
+            <plain>Церковь моя - Божья семья,</plain>
+        </string>
+        <string>
+            <plain>Счастливы все, со Христом: ты и я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Церковь святая стоит на скале,</plain>
+        </string>
+        <string>
+            <plain>Светом Божественным светит во мгле,</plain>
+        </string>
+        <string>
+            <plain>О поспеши в этот дивный чертог,</plain>
+        </string>
+        <string>
+            <plain>В нем избавлены от всех невзгод.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Церковь святая - венец красоты,</plain>
+        </string>
+        <string>
+            <plain>Сколько сокровищ откроешь в ней ты!</plain>
+        </string>
+        <string>
+            <plain>Здесь ты на небо дорогу найдешь,</plain>
+        </string>
+        <string>
+            <plain>Вместе с Иисусом по ней пойдешь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2868" name="Это радость служить здесь Христу на земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Это радость: служить здесь Христу на земле;</plain>
+        </string>
+        <string>
+            <plain>это радость: быть в свете Его, не во зле;</plain>
+        </string>
+        <string>
+            <plain>это радость: Ему доверять и с Ним жить;</plain>
+        </string>
+        <string>
+            <plain>это радость: услышанным быть!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это радость: с Христом жить уж здесь на земле;</plain>
+        </string>
+        <string>
+            <plain>это радость: быть с Ним там в небесной стране.</plain>
+        </string>
+        <string>
+            <plain>Эту радость не могут уста описать;</plain>
+        </string>
+        <string>
+            <plain>эта радость пребудет всегда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Это радость: с Иисусом быть ночью и днём;</plain>
+        </string>
+        <string>
+            <plain>это радость: страдать здесь за дело Его;</plain>
+        </string>
+        <string>
+            <plain>но, а если бывает путь трудным порой,</plain>
+        </string>
+        <string>
+            <plain>облегчим его песней живой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Это радость: полезным быть в мире Ему;</plain>
+        </string>
+        <string>
+            <plain>Это радость; довольным быть всем и всему;</plain>
+        </string>
+        <string>
+            <plain>радость в том, что нас любит Господь и несёт;</plain>
+        </string>
+        <string>
+            <plain>радость в Нём, а Он вечно живёт.</plain>
+        </string>
+    </verse>
+</song>

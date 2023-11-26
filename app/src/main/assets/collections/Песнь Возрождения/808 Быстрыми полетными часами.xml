@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="808" name="Быстрыми полетными часами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Быстрыми, полетными часами</plain>
+        </string>
+        <string>
+            <plain>Юность быстрокрылая летит,</plain>
+        </string>
+        <string>
+            <plain>Мы ее для Господа отдали,</plain>
+        </string>
+        <string>
+            <plain>Жизнью нашей Он руководит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть мчатся годы вереницей,</plain>
+        </string>
+        <string>
+            <plain>Мы ближе к вечности идем;</plain>
+        </string>
+        <string>
+            <plain>За крайней жизненной границей</plain>
+        </string>
+        <string>
+            <plain>В небесный дом войдем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кончатся земные испытанья,</plain>
+        </string>
+        <string>
+            <plain>Землю мы оставим навсегда.</plain>
+        </string>
+        <string>
+            <plain>Вспоминать мы будем дни скитанья,</plain>
+        </string>
+        <string>
+            <plain>Дни благословенного труда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кончится несказанная мука,</plain>
+        </string>
+        <string>
+            <plain>Боль души, сердечная тоска.</plain>
+        </string>
+        <string>
+            <plain>С грешным миром будь скорей, разлука!</plain>
+        </string>
+        <string>
+            <plain>Наша цель ясна и высока.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Небо - нам желанная отрада,</plain>
+        </string>
+        <string>
+            <plain>Небо – нашей жизни всей мечта,</plain>
+        </string>
+        <string>
+            <plain>За святые подвиги награда,</plain>
+        </string>
+        <string>
+            <plain>Счастья неземного красота.</plain>
+        </string>
+    </verse>
+</song>

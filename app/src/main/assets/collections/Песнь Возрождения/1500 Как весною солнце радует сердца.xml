@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1500" name="Как весною солнце радует сердца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как весною солнце радует сердца.</plain>
+        </string>
+        <string>
+            <plain>Так любовь Господня любит без конца.</plain>
+        </string>
+        <string>
+            <plain>Так отдай всю жизнь Христу, милый друг, теперь -</plain>
+        </string>
+        <string>
+            <plain>Счастье, радость, полноту даст тебе, поверь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Друг, приди скорее,</plain>
+        </string>
+        <string>
+            <plain>Ко Христу прильни,</plain>
+        </string>
+        <string>
+            <plain>И согреет Он тебя лучом любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как весной от солнца греется земля,</plain>
+        </string>
+        <string>
+            <plain>Так любовью Божьей согреваюсь я.</plain>
+        </string>
+        <string>
+            <plain>Так свети ж светлее, солнышко любви;</plain>
+        </string>
+        <string>
+            <plain>Дорогой Спаситель мой, Ты,во мне живи.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Согревай любовью</plain>
+        </string>
+        <string>
+            <plain>Ты меня сильней,</plain>
+        </string>
+        <string>
+            <plain>И в небесный край возьми меня скорей.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Как цветы весною для Творца цветут,</plain>
+        </string>
+        <string>
+            <plain>Соловьи зарею Господу поют,</plain>
+        </string>
+        <string>
+            <plain>Так и я желаю воспевать Христу;</plain>
+        </string>
+        <string>
+            <plain>Я к Тебе взываю, помоги мне Сам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нас любовь Христа приведёт туда,</plain>
+        </string>
+        <string>
+            <plain>Где слеза не льётся и где нет греха.</plain>
+        </string>
+        <string>
+            <plain>Там я вечно отдохну от тревог земных.</plain>
+        </string>
+        <string>
+            <plain>Там, где лилии цветут в небесах святых.</plain>
+        </string>
+    </verse>
+</song>

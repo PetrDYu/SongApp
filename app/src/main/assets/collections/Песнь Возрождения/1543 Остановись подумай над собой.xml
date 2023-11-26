@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1543" name="Остановись подумай над собой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Остановись, подумай над собой,</plain>
+        </string>
+        <string>
+            <plain>Пусть слезы льются, ты ведь виноват.</plain>
+        </string>
+        <string>
+            <plain>Зачем смеяться и зачем так долго говорить?</plain>
+        </string>
+        <string>
+            <plain>Склонись ты кротко пред Христом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда на сердце тяжело,</plain>
+        </string>
+        <string>
+            <plain>И силы нет в тебе.</plain>
+        </string>
+        <string>
+            <plain>То близок Он, да, близок Он.</plain>
+        </string>
+        <string>
+            <plain>То близок Он, да, близок Он.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Остановись в движении суетном.</plain>
+        </string>
+        <string>
+            <plain>Приди к Христу, чтоб Он мог говорить.</plain>
+        </string>
+        <string>
+            <plain>Склонись в тиши, пусть сердце плачет с болью пред Творцом,</plain>
+        </string>
+        <string>
+            <plain>И Он пошлет тебе Свой мир.</plain>
+        </string>
+    </verse>
+</song>

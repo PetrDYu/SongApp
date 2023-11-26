@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="735" name="Ты пришел в этот мир" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты пришел в этот мир,</plain>
+        </string>
+        <string>
+            <plain>И ты скоро уйдешь,</plain>
+        </string>
+        <string>
+            <plain>Будешь счастлив тогда,</plain>
+        </string>
+        <string>
+            <plain>Когда Бога найдешь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ветер, дождь и туман застилают глаза,</plain>
+        </string>
+        <string>
+            <plain>Но ты все же ищи своим сердцем Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он один лишь, поверь,</plain>
+        </string>
+        <string>
+            <plain>Может свет тебе дать</plain>
+        </string>
+        <string>
+            <plain>И открыть сердца дверь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Бога познать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Без Него жизни нет,</plain>
+        </string>
+        <string>
+            <plain>Лишь одна суета.</plain>
+        </string>
+        <string>
+            <plain>Он дает мне ответ,</plain>
+        </string>
+        <string>
+            <plain>Он свершает дела.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто не знает Христа,</plain>
+        </string>
+        <string>
+            <plain>Муки терпят они</plain>
+        </string>
+        <string>
+            <plain>Счастья нет без любви,</plain>
+        </string>
+        <string>
+            <plain>Что живет без конца.</plain>
+        </string>
+    </verse>
+</song>

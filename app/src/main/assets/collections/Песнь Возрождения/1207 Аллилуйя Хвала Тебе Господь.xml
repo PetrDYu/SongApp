@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1207" name="Аллилуйя Хвала Тебе Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Аллилуйя. Аллилуйя. Аллилуйя.</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе, Господь, хвала Тебе, Иисус,</plain>
+        </string>
+        <string>
+            <plain>Пусть льется день и ночь из слабых моих уст.</plain>
+        </string>
+        <string>
+            <plain>Хоть странник на земле, имею право петь</plain>
+        </string>
+        <string>
+            <plain>Пока еще дышу, пока к Тебе иду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда настанет встреча,</plain>
+        </string>
+        <string>
+            <plain>С Тобой я буду вечно</plain>
+        </string>
+        <string>
+            <plain>И в вечер, и в рассветы.</plain>
+        </string>
+        <string>
+            <plain>Ты Сам - звезда планеты.</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь святая,</plain>
+        </string>
+        <string>
+            <plain>В ней сила неземная,</plain>
+        </string>
+        <string>
+            <plain>Ты - звездочка в ночи мне.</plain>
+        </string>
+        <string>
+            <plain>Ты - солнышко в пути.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя, Аллилуйя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвала Тебе, Господь, что мне глаза открыл.</plain>
+        </string>
+        <string>
+            <plain>Когда Тебя принял - Ты жизнь мне подарил.</plain>
+        </string>
+        <string>
+            <plain>Ни сердцем, ни умом никак я не пойму:</plain>
+        </string>
+        <string>
+            <plain>Свою любовь Христос таким, как я, принес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала Тебе, Господь, хвала Тебе, Иисус,</plain>
+        </string>
+        <string>
+            <plain>А если на земле я славить утомлюсь.</plain>
+        </string>
+        <string>
+            <plain>Яви Голгофу мне в полночной тишине</plain>
+        </string>
+        <string>
+            <plain>Среди страданий, слез, мой распятый Христос.</plain>
+        </string>
+    </verse>
+</song>

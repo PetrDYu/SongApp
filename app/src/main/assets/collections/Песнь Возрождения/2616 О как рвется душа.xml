@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2616" name="О как рвется душа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, как рвется душа</plain>
+        </string>
+        <string>
+            <plain>От греха и обид</plain>
+        </string>
+        <string>
+            <plain>- На скалу, что всегда</plain>
+        </string>
+        <string>
+            <plain>Вечным светом горит.</plain>
+        </string>
+        <string>
+            <plain>Мир окутала мгла.</plain>
+        </string>
+        <string>
+            <plain>Изнемог я в борьбе.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, Ты - скала,</plain>
+        </string>
+        <string>
+            <plain>Я укроюсь в Тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Только в Тебе!</plain>
+        </string>
+        <string>
+            <plain>Только в Тебе!</plain>
+        </string>
+        <string>
+            <plain>О Господь, Ты - скала.</plain>
+        </string>
+        <string>
+            <plain>Я укроюсь в Тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В изнуряющий зной,</plain>
+        </string>
+        <string>
+            <plain>В одиночества час</plain>
+        </string>
+        <string>
+            <plain>Искуситель пред мной</plain>
+        </string>
+        <string>
+            <plain>Ставил сети не раз,</plain>
+        </string>
+        <string>
+            <plain>И не раз, и не два</plain>
+        </string>
+        <string>
+            <plain>Я душою слабел.</plain>
+        </string>
+        <string>
+            <plain>О Господь, Ты - скала.</plain>
+        </string>
+        <string>
+            <plain>Я укроюсь в Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как часто тесним</plain>
+        </string>
+        <string>
+            <plain>Я жестоким врагом,</plain>
+        </string>
+        <string>
+            <plain>И лишь Богом одним</plain>
+        </string>
+        <string>
+            <plain>Я живу в мире сём.</plain>
+        </string>
+        <string>
+            <plain>Буря жизни прошла,</plain>
+        </string>
+        <string>
+            <plain>Солнце ярче блестит.</plain>
+        </string>
+        <string>
+            <plain>О Господь, Ты - скала,</plain>
+        </string>
+        <string>
+            <plain>Мой покой и мой щит.</plain>
+        </string>
+    </verse>
+</song>

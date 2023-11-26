@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3100" name="Блажен тот час когда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Блажен тот час, когда</plain>
+        </string>
+        <string>
+            <plain>Господь мне сердце осветил,</plain>
+        </string>
+        <string>
+            <plain>Своею кровью от греха</plain>
+        </string>
+        <string>
+            <plain>меня освободил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он дал мне благодать.</plain>
+        </string>
+        <string>
+            <plain>Нет слов, чтоб это описать</plain>
+        </string>
+        <string>
+            <plain>- лишь можно испытать!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Искра Господня с алтаря</plain>
+        </string>
+        <string>
+            <plain>попала в душу мне,</plain>
+        </string>
+        <string>
+            <plain>огнём святым её зажгла,</plain>
+        </string>
+        <string>
+            <plain>и нет уж места тьме.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, чудный свет, сияй во мне</plain>
+        </string>
+        <string>
+            <plain>и ярче всё свети!</plain>
+        </string>
+        <string>
+            <plain>Чрез Дух и Слово Ты Своё,</plain>
+        </string>
+        <string>
+            <plain>Господь, меня веди.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, помоги мне каждый день</plain>
+        </string>
+        <string>
+            <plain>в союзе жить с Тобой!</plain>
+        </string>
+        <string>
+            <plain>Когда Ты - свет стезе моей,</plain>
+        </string>
+        <string>
+            <plain>путь безопасен мой.</plain>
+        </string>
+    </verse>
+</song>

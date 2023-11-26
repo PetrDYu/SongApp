@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2121" name="Жатва есть кончина века" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Жатва есть кончина века",</plain>
+        </string>
+        <string>
+            <plain>- так Господь сказал.</plain>
+        </string>
+        <string>
+            <plain>И всегда у человека</plain>
+        </string>
+        <string>
+            <plain>в жизни есть финал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Небо для меня открыто,</plain>
+        </string>
+        <string>
+            <plain>Я навек спасён.</plain>
+        </string>
+        <string>
+            <plain>Иисус моя защита,</plain>
+        </string>
+        <string>
+            <plain>Я Им утверждён.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если ты сегодня с Богом</plain>
+        </string>
+        <string>
+            <plain>- славен твой конец.</plain>
+        </string>
+        <string>
+            <plain>Несмотря на все невзгоды,</plain>
+        </string>
+        <string>
+            <plain>Ждёт тебя венец.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сейте доброе, святое,</plain>
+        </string>
+        <string>
+            <plain>Будет время жать.</plain>
+        </string>
+        <string>
+            <plain>Иисус пошлёт обильно</plain>
+        </string>
+        <string>
+            <plain>с неба благодать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Радостно поднимем руки,</plain>
+        </string>
+        <string>
+            <plain>Близится конец.</plain>
+        </string>
+        <string>
+            <plain>Не страшны нам смерть и муки,</plain>
+        </string>
+        <string>
+            <plain>С нами Бог Отец.</plain>
+        </string>
+    </verse>
+</song>

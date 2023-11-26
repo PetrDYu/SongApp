@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="454" name="Мир Мой, мир Мой оставляю Я вам" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Мир Мой, мир Мой оставляю Я вам.</plain>
+        </string>
+        <string>
+            <plain>Мир Мой оставляю вам, пусть не унывает дух.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Frieden, Frieden hinterlasse ich euch.</plain>
+        </string>
+        <string>
+            <plain>Meinen Frieden gebe ich euch. Euer Herz verzage nicht.</plain>
+        </string>
+    </verse>
+</song>

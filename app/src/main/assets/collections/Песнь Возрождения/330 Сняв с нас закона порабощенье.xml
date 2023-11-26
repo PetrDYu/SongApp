@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="330" name="Сняв с нас закона порабощенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сняв с нас закона порабощенье,</plain>
+        </string>
+        <string>
+            <plain>Кровь Христос пролил, вот в чем прощенье;</plain>
+        </string>
+        <string>
+            <plain>Мучен, истерзан, в язвах Он был,</plain>
+        </string>
+        <string>
+            <plain>Раз навсегда нас искупил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Раз навсегда!</plain>
+        </string>
+        <string>
+            <plain>О грешник, внемли!</plain>
+        </string>
+        <string>
+            <plain>Раз навсегда!</plain>
+        </string>
+        <string>
+            <plain>О грешник, хвали!</plain>
+        </string>
+        <string>
+            <plain>Сняв с нас греховное бремя и нас</plain>
+        </string>
+        <string>
+            <plain>Раз навсегда Спаситель спас.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Свободны мы - нам нет осужденья:</plain>
+        </string>
+        <string>
+            <plain>Он приготовил наше спасенье,</plain>
+        </string>
+        <string>
+            <plain>"Ко Мне придите! – голос Христа. –</plain>
+        </string>
+        <string>
+            <plain>Вы спасены раз навсегда!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Божии дети! Вот наша слава!</plain>
+        </string>
+        <string>
+            <plain>Честь же Христу, хвала и держава!</plain>
+        </string>
+        <string>
+            <plain>К жизни от смерти мы перешли,</plain>
+        </string>
+        <string>
+            <plain>Раз навсегда покой нашли.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2127" name="Жизнь человека так кратка мгновенна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь человека так кратка, мгновенна,</plain>
+        </string>
+        <string>
+            <plain>Капелька времени быстрых часов,</plain>
+        </string>
+        <string>
+            <plain>Сила телесная шатка и тленна.</plain>
+        </string>
+        <string>
+            <plain>Как все изделья из ветренных слов.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В жизни всё временно, не постоянно,</plain>
+        </string>
+        <string>
+            <plain>То, что вчера так раскошно цвело,</plain>
+        </string>
+        <string>
+            <plain>Завтра поругано, грязью попрано</plain>
+        </string>
+        <string>
+            <plain>Утром сияло, а в полдень темно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Золото, зданья, заморские вина.</plain>
+        </string>
+        <string>
+            <plain>Слава и честь... но вы вспомните крест.</plain>
+        </string>
+        <string>
+            <plain>Кончил позорно свои Он годины</plain>
+        </string>
+        <string>
+            <plain>Тяжко страдал, но во славе воскрес.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Только один клад живёт в человеке</plain>
+        </string>
+        <string>
+            <plain>- Вера в бессмертье и силу Творца,</plain>
+        </string>
+        <string>
+            <plain>Тот лишь блажен, кто небесной опеке</plain>
+        </string>
+        <string>
+            <plain>Всем существом доверяет себя.</plain>
+        </string>
+    </verse>
+</song>

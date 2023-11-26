@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="774" name="Слышишь ли ты голос Божий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышишь ли ты голос Божий –</plain>
+        </string>
+        <string>
+            <plain>Нежно для тебя звучит;</plain>
+        </string>
+        <string>
+            <plain>У дверей стоит прохожий,</plain>
+        </string>
+        <string>
+            <plain>Слушай, что Он говорит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нежно так тебя Христос зовет,</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Нему, тебя Он ждет.</plain>
+        </string>
+        <string>
+            <plain>О, приди к Нему скорее,</plain>
+        </string>
+        <string>
+            <plain>Сердца дверь открой сильнее,</plain>
+        </string>
+        <string>
+            <plain>Мир найдешь ты для души,</plain>
+        </string>
+        <string>
+            <plain>Лишь к Иисусу поспеши!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Зов любви Его ты слышишь,</plain>
+        </string>
+        <string>
+            <plain>Вновь зовет тебя, мой брат,</plain>
+        </string>
+        <string>
+            <plain>Только Им одним ты дышишь,</plain>
+        </string>
+        <string>
+            <plain>Только Им одним богат.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ничего, что ты споткнулся, -</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Нему опять.</plain>
+        </string>
+        <string>
+            <plain>Если ты и пошатнулся,</plain>
+        </string>
+        <string>
+            <plain>Может Он тебя поднять.</plain>
+        </string>
+    </verse>
+</song>

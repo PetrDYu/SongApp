@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3199" name="Он знает и Он слышит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он знает и Он слышит,</plain>
+        </string>
+        <string>
+            <plain>если ты удручён</plain>
+        </string>
+        <string>
+            <plain>и взываешь к Нему,</plain>
+        </string>
+        <string>
+            <plain>хоть твой путь омрачён.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он знает и Он видит,</plain>
+        </string>
+        <string>
+            <plain>где таится беда,</plain>
+        </string>
+        <string>
+            <plain>но к Нему воззови</plain>
+        </string>
+        <string>
+            <plain>- Он поможет всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он знает и печётся</plain>
+        </string>
+        <string>
+            <plain>о тебе в трудный миг,</plain>
+        </string>
+        <string>
+            <plain>хоть порою и скрыт</plain>
+        </string>
+        <string>
+            <plain>Его любящий лик.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он знает, да, Он знает</plain>
+        </string>
+        <string>
+            <plain>испытанья твои,</plain>
+        </string>
+        <string>
+            <plain>- благодать даст тебе,</plain>
+        </string>
+        <string>
+            <plain>лишь серьёзно проси.</plain>
+        </string>
+    </verse>
+</song>

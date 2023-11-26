@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="848" name="Верьте братья и надейтесь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верьте, братья, и надейтесь.</plain>
+        </string>
+        <string>
+            <plain>Что мы будем с Богом жить,</plain>
+        </string>
+        <string>
+            <plain>Что не будет там разлуки,</plain>
+        </string>
+        <string>
+            <plain>Будет радость там царить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вера нас не покидает</plain>
+        </string>
+        <string>
+            <plain>И в последний смертный час.</plain>
+        </string>
+        <string>
+            <plain>И любовью окружает</plain>
+        </string>
+        <string>
+            <plain>Наш Господь. Спаситель наш.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И в тяжелые минуты,</plain>
+        </string>
+        <string>
+            <plain>Когда нет у нас друзей,</plain>
+        </string>
+        <string>
+            <plain>Вера - добрая подруга</plain>
+        </string>
+        <string>
+            <plain>На закате наших дней.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верой крепкою святою</plain>
+        </string>
+        <string>
+            <plain>Мы ведем борьбу с грехом.</plain>
+        </string>
+        <string>
+            <plain>Верою войдем мы в небо.</plain>
+        </string>
+        <string>
+            <plain>Чтобы царствовать с Христом.</plain>
+        </string>
+    </verse>
+</song>

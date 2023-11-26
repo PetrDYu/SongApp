@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="755" name="Ты был юношей Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты был юношей, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Радовал сердца,</plain>
+        </string>
+        <string>
+            <plain>Ты ходил всегда в завете</plain>
+        </string>
+        <string>
+            <plain>Твоего Отца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Научи и нас смиренно</plain>
+        </string>
+        <string>
+            <plain>Дни земные проводить,</plain>
+        </string>
+        <string>
+            <plain>Неуклонно, неизменно</plain>
+        </string>
+        <string>
+            <plain>По путям Отца ходить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мать Свою любил Ты нежно</plain>
+        </string>
+        <string>
+            <plain>И не огорчал,</plain>
+        </string>
+        <string>
+            <plain>И Иосифу прилежно</plain>
+        </string>
+        <string>
+            <plain>Делом помогал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты любил душой, готовой</plain>
+        </string>
+        <string>
+            <plain>К подвигам святым,</plain>
+        </string>
+        <string>
+            <plain>Возвещать благое слово</plain>
+        </string>
+        <string>
+            <plain>Мудрым и простым.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Научи и нас трудиться,</plain>
+        </string>
+        <string>
+            <plain>Близким, дальним помогать,</plain>
+        </string>
+        <string>
+            <plain>Всех любить, к добру стремиться,</plain>
+        </string>
+        <string>
+            <plain>Правду в мире насаждать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Научи и нас, Учитель,</plain>
+        </string>
+        <string>
+            <plain>Слово жизни возвещать;</plain>
+        </string>
+        <string>
+            <plain>Дай, чтоб каждый мира житель</plain>
+        </string>
+        <string>
+            <plain>Мог Твой голос услыхать.</plain>
+        </string>
+    </verse>
+</song>

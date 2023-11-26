@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2328" name="Спроси самарянку что всех приглашала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спроси самарянку, что всех приглашала</plain>
+        </string>
+        <string>
+            <plain>Послушать Иисуса, пророком назвала.</plain>
+        </string>
+        <string>
+            <plain>С тех пор уж прошли столетья, года,</plain>
+        </string>
+        <string>
+            <plain>Но в этом колодце всегда есть вода.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там песни поют, где в колодце вода,</plain>
+        </string>
+        <string>
+            <plain>И колосом полным пшеница легла.</plain>
+        </string>
+        <string>
+            <plain>И вечного счастья для всех полнота.</plain>
+        </string>
+        <string>
+            <plain>Там Божий колодец, где Церковь Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Последнее время страшит человека,</plain>
+        </string>
+        <string>
+            <plain>А мы утешены имеем навеки.</plain>
+        </string>
+        <string>
+            <plain>У нас есть колодец и в нем есть вода.</plain>
+        </string>
+        <string>
+            <plain>То слово спасенья, то слово Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грехом истомился народ и земля.</plain>
+        </string>
+        <string>
+            <plain>Приди к Иисусу скорей, навсегда.</plain>
+        </string>
+        <string>
+            <plain>И там; где в колодце живая вода,</plain>
+        </string>
+        <string>
+            <plain>Найдешь ты спасены у ног Христа.</plain>
+        </string>
+    </verse>
+</song>

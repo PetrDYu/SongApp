@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="421" name="Знаешь ли ручей что бежит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знаешь ли ручей, что бежит</plain>
+        </string>
+        <string>
+            <plain>Со креста, где умер Христос?</plain>
+        </string>
+        <string>
+            <plain>Знаешь ли Того, Кто дарит</plain>
+        </string>
+        <string>
+            <plain>Выкуп от страданий и слез?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хоть, как пурпур, грех мой плотской,</plain>
+        </string>
+        <string>
+            <plain>Хоть вина горы тяжелей,</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа стекает струей,</plain>
+        </string>
+        <string>
+            <plain>Ей я сделан снега белей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Позабытый вечным Отцом,</plain>
+        </string>
+        <string>
+            <plain>Кровь Свою Христос проливал;</plain>
+        </string>
+        <string>
+            <plain>На кресте с терновым венцом</plain>
+        </string>
+        <string>
+            <plain>Не напрасно Он пострадал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пришел на призыв Христа,</plain>
+        </string>
+        <string>
+            <plain>Он - источник жизни моей;</plain>
+        </string>
+        <string>
+            <plain>В Нем спасенья вся полнота,</plain>
+        </string>
+        <string>
+            <plain>Им я сделан снега белей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слабый и усталый мой дух</plain>
+        </string>
+        <string>
+            <plain>Мира, счастья долго искал;</plain>
+        </string>
+        <string>
+            <plain>Как к овце заблудшей пастух,</plain>
+        </string>
+        <string>
+            <plain>Мой Господь пришел и мир дал.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Духом я люблю созерцать</plain>
+        </string>
+        <string>
+            <plain>Со креста текущий ручей;</plain>
+        </string>
+        <string>
+            <plain>Льется в нем для всех благодать;</plain>
+        </string>
+        <string>
+            <plain>Им я сделан снега белей.</plain>
+        </string>
+    </verse>
+</song>

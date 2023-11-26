@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1183" name="Солнце светит ласково в бирюзовой вышине" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Солнце светит ласково в бирюзовой вышине.</plain>
+        </string>
+        <string>
+            <plain>Взором весь простор земной охватить нельзя.</plain>
+        </string>
+        <string>
+            <plain>И смотрю я в сторону, где любимый город мой,</plain>
+        </string>
+        <string>
+            <plain>Там живут и трудятся милые друзья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как мне только дорого с вами быть в общении,</plain>
+        </string>
+        <string>
+            <plain>Разделять веселие, плакать и скорбеть.</plain>
+        </string>
+        <string>
+            <plain>Нет мне больше радости, больше утешения,</plain>
+        </string>
+        <string>
+            <plain>Как за вас, друзья мои, жить и умереть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу, чтоб не было между нами пропасти.</plain>
+        </string>
+        <string>
+            <plain>Чтоб огонь сердечности мог в сердцах пылать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб могли мы истинный свет любви Христа нести,</plain>
+        </string>
+        <string>
+            <plain>И всегда за ближнего душу полагать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ветерок проносится в легком дуновении,</plain>
+        </string>
+        <string>
+            <plain>О любви Христа поет, колосом звеня,</plain>
+        </string>
+        <string>
+            <plain>И стою в раздумий, в сладостном забвении,</plain>
+        </string>
+        <string>
+            <plain>Будто вновь в кругу родном ждут меня друзья.</plain>
+        </string>
+    </verse>
+</song>

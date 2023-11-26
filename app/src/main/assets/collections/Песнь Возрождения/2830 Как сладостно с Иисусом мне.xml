@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2830" name="Как сладостно с Иисусом мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как сладостно с Иисусом мне!</plain>
+        </string>
+        <string>
+            <plain>Общаясь с Ним наедине,</plain>
+        </string>
+        <string>
+            <plain>я наслаждаюсь всей душой</plain>
+        </string>
+        <string>
+            <plain>молитвой пламенной, живой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Быть вдвоем со Христом</plain>
+        </string>
+        <string>
+            <plain>- близость там полна чудес;</plain>
+        </string>
+        <string>
+            <plain>в ней вкушаю я радость,</plain>
+        </string>
+        <string>
+            <plain>радость с высоты небес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Блажено место, где вдвоем</plain>
+        </string>
+        <string>
+            <plain>я пребываю со Христом.</plain>
+        </string>
+        <string>
+            <plain>- вокруг меня небес краса,</plain>
+        </string>
+        <string>
+            <plain>Христом полна моя душа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Наедине люблю с Ним быть,</plain>
+        </string>
+        <string>
+            <plain>здесь благодать Он мне дарит:</plain>
+        </string>
+        <string>
+            <plain>и силу жить в смирении</plain>
+        </string>
+        <string>
+            <plain>найду лишь с Ним в общении.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Наедине с Ним! Радость я</plain>
+        </string>
+        <string>
+            <plain>в объятьях нахожу Христа,</plain>
+        </string>
+        <string>
+            <plain>здесь бремя на Него кладу</plain>
+        </string>
+        <string>
+            <plain>и мир блаженный нахожу.</plain>
+        </string>
+    </verse>
+</song>

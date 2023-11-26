@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="221" name="В минуту жизни трудную" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В минуту жизни трудную,</plain>
+        </string>
+        <string>
+            <plain>Теснится ль в сердце грусть,-</plain>
+        </string>
+        <string>
+            <plain>Одну молитву чудную</plain>
+        </string>
+        <string>
+            <plain>Твержу я наизусть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Есть сила благодатная</plain>
+        </string>
+        <string>
+            <plain>В созвучье слов живых,</plain>
+        </string>
+        <string>
+            <plain>И дышит непонятная</plain>
+        </string>
+        <string>
+            <plain>Святая прелесть в них.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С души как бремя скатится</plain>
+        </string>
+        <string>
+            <plain>Сомненье далеко,</plain>
+        </string>
+        <string>
+            <plain>И верится, и плачется,</plain>
+        </string>
+        <string>
+            <plain>И так легко, легко.</plain>
+        </string>
+    </verse>
+</song>

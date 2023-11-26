@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1258" name="О город жемчужных ворот и ясписной стены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, город жемчужных ворот и ясписной стены!</plain>
+        </string>
+        <string>
+            <plain>К тебе мой дух меня влечет с долин земной страны.</plain>
+        </string>
+        <string>
+            <plain>Хотел бы улиц золотых достичь я поскорей.</plain>
+        </string>
+        <string>
+            <plain>Дабы в присутствии святых Воспеть Царя царей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, светлый край, блаженный край!</plain>
+        </string>
+        <string>
+            <plain>О, город дорогих камней, к тебе стремимся мы!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В тебе не ведают лучей ни солнца, ни луны,</plain>
+        </string>
+        <string>
+            <plain>Там в свете Божиих очей все радости полны.</plain>
+        </string>
+        <string>
+            <plain>Когда к тебе несется дух, сомненье тает вдруг,</plain>
+        </string>
+        <string>
+            <plain>И все земное отстает, и слышно: "Бог грядет!"</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>О, светлый край, блаженный край!</plain>
+        </string>
+        <string>
+            <plain>О, город дорогих камней, к тебе стремимся мы!</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>В тебе забыты козни тьмы, печаль в земной борьбе,</plain>
+        </string>
+        <string>
+            <plain>Когда настанет час, и мы поселимся в тебе.</plain>
+        </string>
+        <string>
+            <plain>Мы терпеливо крест несем, - так ведено Творцом,</plain>
+        </string>
+        <string>
+            <plain>Пока Спаситель у ворот спасенных соберет.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>О, светлый край, блаженный край!</plain>
+        </string>
+        <string>
+            <plain>О, город дорогих камней, к тебе стремимся мы!</plain>
+        </string>
+    </chorus>
+</song>

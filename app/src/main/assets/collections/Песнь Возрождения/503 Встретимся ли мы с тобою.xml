@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="503" name="Встретимся ли мы с тобою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Встретимся ли мы с тобою,</plain>
+        </string>
+        <string>
+            <plain>Где святые все поют,</plain>
+        </string>
+        <string>
+            <plain>Где спокойною рекою</plain>
+        </string>
+        <string>
+            <plain>Воды чистые текут?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, мы встретимся с тобою</plain>
+        </string>
+        <string>
+            <plain>Над чудною, над чудною рекою;</plain>
+        </string>
+        <string>
+            <plain>Там с неумолкаемой хвалою</plain>
+        </string>
+        <string>
+            <plain>Иисусу мы будем служить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Над прозрачною рекою,</plain>
+        </string>
+        <string>
+            <plain>Чистой, светлой, как кристалл,</plain>
+        </string>
+        <string>
+            <plain>Там воскликнем мы с тобою:</plain>
+        </string>
+        <string>
+            <plain>Вечный день теперь настал!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Между нами и рекою</plain>
+        </string>
+        <string>
+            <plain>Путь непроходимый был,</plain>
+        </string>
+        <string>
+            <plain>Но сколь тяжкою ценою</plain>
+        </string>
+        <string>
+            <plain>Агнец нам его открыл!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там, в сиянье над рекою,</plain>
+        </string>
+        <string>
+            <plain>Лик Христа мы будем зреть,</plain>
+        </string>
+        <string>
+            <plain>Кто на землю за тобою</plain>
+        </string>
+        <string>
+            <plain>Нисходил, чтоб умереть.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Скоро будем над рекою,</plain>
+        </string>
+        <string>
+            <plain>Скоро путь придет к концу,</plain>
+        </string>
+        <string>
+            <plain>Скоро встретимся с тобою,</plain>
+        </string>
+        <string>
+            <plain>Вознося хвалу Отцу.</plain>
+        </string>
+    </verse>
+</song>

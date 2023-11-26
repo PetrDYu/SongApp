@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="290" name="Дружно дружно будем мы трудиться" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дружно, дружно будем мы трудиться,</plain>
+        </string>
+        <string>
+            <plain>Дело Божье мы найдем везде;</plain>
+        </string>
+        <string>
+            <plain>Воля Божья в нас да совершится,</plain>
+        </string>
+        <string>
+            <plain>Будем верны в слове и труде.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будем (будем мы) трудиться</plain>
+        </string>
+        <string>
+            <plain>С радостью живой, (да) с радостью живой.</plain>
+        </string>
+        <string>
+            <plain>Будем (будем) мы трудиться</plain>
+        </string>
+        <string>
+            <plain>В винограднике Его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Просто, просто людям мы расскажем,</plain>
+        </string>
+        <string>
+            <plain>Как Сын Божий грешных возлюбил;</plain>
+        </string>
+        <string>
+            <plain>Он поддержит начинанья наши,</plain>
+        </string>
+        <string>
+            <plain>Для служенья даст потребных сил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прямо, прямо чрез пустыню мира</plain>
+        </string>
+        <string>
+            <plain>Мы пойдем послушно за Христом;</plain>
+        </string>
+        <string>
+            <plain>Бедных, нищих, немощных и сирых</plain>
+        </string>
+        <string>
+            <plain>К Агнцу Божью, к свету приведем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="855" name="Во все концы земли несчастной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Во все концы земли несчастной.</plain>
+        </string>
+        <string>
+            <plain>Везде, где только люди есть,</plain>
+        </string>
+        <string>
+            <plain>Потоком чистым силы властной</plain>
+        </string>
+        <string>
+            <plain>Звучит Евангельская весть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди ко мне, о люд несчастный.</plain>
+        </string>
+        <string>
+            <plain>Оставь греховный мир страстей,</plain>
+        </string>
+        <string>
+            <plain>Оставь широкий путь опасный,</plain>
+        </string>
+        <string>
+            <plain>К моей воде приди скорей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Она течет во все народы.</plain>
+        </string>
+        <string>
+            <plain>Людским сердцам несет покой,</plain>
+        </string>
+        <string>
+            <plain>Везде ее святые воды</plain>
+        </string>
+        <string>
+            <plain>Даруют людям мир святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В водах ее для человека</plain>
+        </string>
+        <string>
+            <plain>Открыт небесный, светлый луч,</plain>
+        </string>
+        <string>
+            <plain>Везде, от века и до века,</plain>
+        </string>
+        <string>
+            <plain>Сияет он средь темных туч.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Весть эта чудная, святая</plain>
+        </string>
+        <string>
+            <plain>Струится правдой неземной,</plain>
+        </string>
+        <string>
+            <plain>От власти зла освобождая</plain>
+        </string>
+        <string>
+            <plain>Людей, страдающих душой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И те, которые внимали</plain>
+        </string>
+        <string>
+            <plain>Той вести с кроткою душой,</plain>
+        </string>
+        <string>
+            <plain>Святую радость получали,</plain>
+        </string>
+        <string>
+            <plain>Находили в ней покой.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Лишь в ней, душою утомленный,</plain>
+        </string>
+        <string>
+            <plain>Найдешь ты радость и покой.</plain>
+        </string>
+        <string>
+            <plain>Получишь сердцу утешенье</plain>
+        </string>
+        <string>
+            <plain>И дар небесный дорогой!</plain>
+        </string>
+    </verse>
+</song>

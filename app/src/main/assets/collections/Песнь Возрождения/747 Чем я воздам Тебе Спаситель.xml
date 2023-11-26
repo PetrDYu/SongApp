@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="747" name="Чем я воздам Тебе Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чем я воздам Тебе, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Чем оплачу Твою любовь?</plain>
+        </string>
+        <string>
+            <plain>За тяжкий грех мой, Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Лилась Твоя святая кровь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, хочу я всею душою</plain>
+        </string>
+        <string>
+            <plain>Тебе любовию воздать,</plain>
+        </string>
+        <string>
+            <plain>Дело Твое и имя святое</plain>
+        </string>
+        <string>
+            <plain>Всем возвещать и прославлять!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Весь тяжкий грех мой сознаю я,</plain>
+        </string>
+        <string>
+            <plain>К Тебе дерзаю с ним прийти;</plain>
+        </string>
+        <string>
+            <plain>К Тебе я, Отче, прибегаю,</plain>
+        </string>
+        <string>
+            <plain>Молю, вину мою прости!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Святое слово - весть спасенья –</plain>
+        </string>
+        <string>
+            <plain>Хочу я всей душой принять,</plain>
+        </string>
+        <string>
+            <plain>На чудный путь Твой, Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Хочу я многим указать.</plain>
+        </string>
+    </verse>
+</song>

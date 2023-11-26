@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1102" name="Свят свят Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свят, свят Господь.</plain>
+        </string>
+        <string>
+            <plain>Он - Царь, Он - Бог любви.</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос вовеки!</plain>
+        </string>
+        <string>
+            <plain>Он всемогущ, Владыка всей земли,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус Христос вовеки!</plain>
+        </string>
+        <string>
+            <plain>Песню новую мы поем Тебе,</plain>
+        </string>
+        <string>
+            <plain>Поклоняемся и славим!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Поклоняемся и славим!</plain>
+        </string>
+    </verse>
+</song>

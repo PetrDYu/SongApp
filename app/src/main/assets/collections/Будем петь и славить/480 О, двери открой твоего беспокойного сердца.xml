@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="480" name="О, двери открой твоего беспокойного сердца" canon="false" text="И. Левина" textRus="" music="И. Левина" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, двери открой твоего беспокойного сердца</plain>
+        </string>
+        <string>
+            <plain>И Богу все то, что тревожит тебя, расскажи.</plain>
+        </string>
+        <string>
+            <plain>Ведь Он есть любовь и Ему все известно,</plain>
+        </string>
+        <string>
+            <plain>Иисус за тебя на кресте Свою жизнь положил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И ласточка свила себе</plain>
+        </string>
+        <string>
+            <plain>Гнездо у святых алтарей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб было спокойно птенцам.</plain>
+        </string>
+        <string>
+            <plain>У ног Иисуса Христа</plain>
+        </string>
+        <string>
+            <plain>Открытая дверь в небеса,</plain>
+        </string>
+        <string>
+            <plain>И сладостный Божий покой</plain>
+        </string>
+        <string>
+            <plain>Наполняет сердца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Покорно смирись под Его всемогущую руку,</plain>
+        </string>
+        <string>
+            <plain>Мы созданы не для того, чтоб греху угождать.</plain>
+        </string>
+        <string>
+            <plain>И в небо стремись, как стрела вылетает из лука,</plain>
+        </string>
+        <string>
+            <plain>И будет тебя милость Божия сопровождать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Доверься Христу и в земную дорогу</plain>
+        </string>
+        <string>
+            <plain>В надежде на силы свои без Него не ходи.</plain>
+        </string>
+        <string>
+            <plain>Все судьбы, мой друг, у Всевышнего Бога,</plain>
+        </string>
+        <string>
+            <plain>Лишь Он нам поможет во всем, что грядет впереди.</plain>
+        </string>
+    </verse>
+</song>

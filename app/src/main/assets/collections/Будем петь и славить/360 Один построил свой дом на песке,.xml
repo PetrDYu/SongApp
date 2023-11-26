@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="360" name="Один построил свой дом на песке," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Один построил свой дом на песке,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дождь пошел!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Дождь пошел, и вода поднялась,</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дом упал!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Другой построил на камне свой дом,</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дождь пошел!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Дождь пошел, и вода поднялась,</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дом устоял!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Стройте свой дом на Иисусе Христе,</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дождь пойдет!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Дождь пойдет, и вода потечет</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И дом устоит!</plain>
+        </string>
+    </verse>
+</song>

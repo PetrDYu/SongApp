@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2648" name="У креста Христова мир течет рекой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У креста Христова мир течет рекой,</plain>
+        </string>
+        <string>
+            <plain>Благодати слово всем дает покой.</plain>
+        </string>
+        <string>
+            <plain>Там душа больная горьких слез не льет,</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа смывает всякий грех и гнет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Со креста струилась примиренья Кровь,</plain>
+        </string>
+        <string>
+            <plain>В ней дана нам сила побеждать врагов.</plain>
+        </string>
+        <string>
+            <plain>Смерть не испугает, не прельщусь грехом:</plain>
+        </string>
+        <string>
+            <plain>Божий Сын спасает на пути земном.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Землю оставляя, поспешу к Тому,</plain>
+        </string>
+        <string>
+            <plain>Чья рука святая разгоняла тьму.</plain>
+        </string>
+        <string>
+            <plain>В небесах сложу я все к Его ногам;</plain>
+        </string>
+        <string>
+            <plain>Вечно торжествуя, я пребуду там.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1123" name="В темном омуте греха бедный я утопал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В темном омуте греха, бедный, я утопал.</plain>
+        </string>
+        <string>
+            <plain>Тщетно сам спастись искал,</plain>
+        </string>
+        <string>
+            <plain>Тогда к Господу я воззвал...</plain>
+        </string>
+        <string>
+            <plain>Слабый отчаянья крик, стоны услышал Он,</plain>
+        </string>
+        <string>
+            <plain>Руку протянул - и вмиг я был спасен!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сила любви! Безмерная ты!</plain>
+        </string>
+        <string>
+            <plain>Нам жизнь во Христе дана силой любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славлю Господа Христа, славлю Его любовь!</plain>
+        </string>
+        <string>
+            <plain>Пусть поют мои уста песню хваленья вновь!</plain>
+        </string>
+        <string>
+            <plain>Был я грешный человек - навек я Им спасен!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто б ты ни был, человек, сколько б ни грешил -</plain>
+        </string>
+        <string>
+            <plain>Бог простит - Он любит всех! Ты к Нему поспеши!</plain>
+        </string>
+        <string>
+            <plain>Верь, что любит Он тебя, Даст тебе счастье Он!</plain>
+        </string>
+        <string>
+            <plain>В раскаянии приди - и будь спасен!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Грешник! У Христа проси помощи для себя,</plain>
+        </string>
+        <string>
+            <plain>И Он силою Своей скоро спасет тебя.</plain>
+        </string>
+        <string>
+            <plain>Скажет слово Он одно - бури умолкнет стон.</plain>
+        </string>
+        <string>
+            <plain>Призови Его теперь - и будь спасен!</plain>
+        </string>
+    </verse>
+</song>

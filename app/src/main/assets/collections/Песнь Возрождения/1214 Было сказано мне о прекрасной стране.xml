@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1214" name="Было сказано мне о прекрасной стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Было сказано мне о прекрасной стране,</plain>
+        </string>
+        <string>
+            <plain>О которой гласит Библия,</plain>
+        </string>
+        <string>
+            <plain>Где уж нет ни забот, ни тяжелых работ,</plain>
+        </string>
+        <string>
+            <plain>И там уж нет насилия.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В той прекрасной стране,</plain>
+        </string>
+        <string>
+            <plain>- было сказано мне,</plain>
+        </string>
+        <string>
+            <plain>- Туча грозная не взойдет;</plain>
+        </string>
+        <string>
+            <plain>Ушла смерти тень.</plain>
+        </string>
+        <string>
+            <plain>Настал вечный день,</plain>
+        </string>
+        <string>
+            <plain>И вовек солнце не зайдет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там приносят сады золотые плоды.</plain>
+        </string>
+        <string>
+            <plain>Все цветет, словно лилия.</plain>
+        </string>
+        <string>
+            <plain>Там на арфе мой брат будет песни играть,</plain>
+        </string>
+        <string>
+            <plain>И там уж нет насилия.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там обители нам, удрученным сердцам</plain>
+        </string>
+        <string>
+            <plain>Убраны, словно скиния.</plain>
+        </string>
+        <string>
+            <plain>Там источник живой, звуки песни святой,</plain>
+        </string>
+        <string>
+            <plain>И там уж нет насилия.</plain>
+        </string>
+    </verse>
+</song>

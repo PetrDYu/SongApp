@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2398" name="Эль Шаддай Эль Шаддай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Эль Шаддай, Эль Шаддай,</plain>
+        </string>
+        <string>
+            <plain>Иегова, Адонай,</plain>
+        </string>
+        <string>
+            <plain>Ты свободу обещал,</plain>
+        </string>
+        <string>
+            <plain>Аврааму слово дал.</plain>
+        </string>
+        <string>
+            <plain>Эль Шаддай, Эль Шаддай,</plain>
+        </string>
+        <string>
+            <plain>О, Рафе и Адонай,</plain>
+        </string>
+        <string>
+            <plain>И хвала Тебе всегда,</plain>
+        </string>
+        <string>
+            <plain>Эль Шаддай.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Были слепы наши очи,</plain>
+        </string>
+        <string>
+            <plain>Были дни чернее ночи.</plain>
+        </string>
+        <string>
+            <plain>Наш Господь нас просветил,</plain>
+        </string>
+        <string>
+            <plain>Очи разума открыл</plain>
+        </string>
+        <string>
+            <plain>И мечту о рае дал,</plain>
+        </string>
+        <string>
+            <plain>В ней Он всё предвозвестил.</plain>
+        </string>
+        <string>
+            <plain>Нам открыл Он дверь добра</plain>
+        </string>
+        <string>
+            <plain>Жертвою святой Христа.</plain>
+        </string>
+    </verse>
+</song>

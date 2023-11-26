@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1427" name="Добровольцы мы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Добровольцы мы</plain>
+        </string>
+        <string>
+            <plain>Добровольцы мы</plain>
+        </string>
+        <string>
+            <plain>Добровольцы мы</plain>
+        </string>
+        <string>
+            <plain>В армии Христа.</plain>
+        </string>
+        <string>
+            <plain>Смело мы идем за своим Вождем,</plain>
+        </string>
+        <string>
+            <plain>С Ним мы победим врага.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Страшен жаркий бой, силен враг людской.</plain>
+        </string>
+        <string>
+            <plain>Смертною расправой он грозит.</plain>
+        </string>
+        <string>
+            <plain>Но Господь со мной. Он - защитник мой,</plain>
+        </string>
+        <string>
+            <plain>Он - моя победа, крепкий щит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Смело мы идем в жаркий бой с врагом,</plain>
+        </string>
+        <string>
+            <plain>До конца победы ты с врагом борись.</plain>
+        </string>
+        <string>
+            <plain>Не страшись в борьбе, и венец Христа</plain>
+        </string>
+        <string>
+            <plain>Мы в славе обретем со Христом.</plain>
+        </string>
+    </verse>
+</song>

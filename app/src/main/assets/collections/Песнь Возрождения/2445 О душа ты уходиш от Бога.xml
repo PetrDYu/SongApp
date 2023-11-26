@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2445" name="О душа ты уходиш от Бога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, бунта, ты уходишь от Бога,</plain>
+        </string>
+        <string>
+            <plain>О, душа, ты теряешь Христа,</plain>
+        </string>
+        <string>
+            <plain>Взглянь на крест, что стоит на Голгофе,</plain>
+        </string>
+        <string>
+            <plain>Взглянь на кровь, что стекает с креста.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Обернись - на какой ты дороге,</plain>
+        </string>
+        <string>
+            <plain>Всколыхнись, не опасен ли путь,</plain>
+        </string>
+        <string>
+            <plain>На путь узкий, протоптаниый Богом,</plain>
+        </string>
+        <string>
+            <plain>На тропинку, что в вечность ведет,</plain>
+        </string>
+        <string>
+            <plain>Ты сверни на путь узкий Христов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За тебя Он на древе пронзенный,</plain>
+        </string>
+        <string>
+            <plain>За грехи кровь стекает с креста,</plain>
+        </string>
+        <string>
+            <plain>Слезы льет Он за то, что уходишь,</plain>
+        </string>
+        <string>
+            <plain>Не прильнув к Его теплой крови,</plain>
+        </string>
+        <string>
+            <plain>О, прильни и омойся в крови.</plain>
+        </string>
+    </verse>
+</song>

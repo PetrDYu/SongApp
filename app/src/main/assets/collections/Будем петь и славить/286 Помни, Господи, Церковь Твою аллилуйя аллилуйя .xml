@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="286" name="Помни, Господи, Церковь Твою аллилуйя аллилуйя " canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Помни, Господи, Церковь Твою – аллилуйя! аллилуйя! –</plain>
+        </string>
+        <string>
+            <plain>И от всякого зла сохрани. Аллилуйя! Аминь.</plain>
+        </string>
+        <string>
+            <plain>Сделай, Господи, Церковь Твою – аллилуйя! аллилуйя! –</plain>
+        </string>
+        <string>
+            <plain>Совершенной в любви Твоей. Аллилуйя! Аминь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Маранафа! Маранафа! Маранафа!</plain>
+        </string>
+        <string>
+            <plain>Господь идет!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Собери Твою Церковь, Господь, аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Воедино от четырех ветров. Аллилуйя! Аминь.</plain>
+        </string>
+        <string>
+            <plain>Как рассеянный хлеб по холмам, – аллилуйя! аллилуйя! –</plain>
+        </string>
+        <string>
+            <plain>В Твое Царство её собери. Аллилуйя! Аминь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да приидет Твоя благодать – аллилуйя! аллилуйя! –</plain>
+        </string>
+        <string>
+            <plain>И откроется вечность Твоя. Аллилуйя! Аминь.</plain>
+        </string>
+        <string>
+            <plain>Приходи к нам, кто свят, приходи. Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Если грешен, покайся и пой: «Аллилуйя!» Аминь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="555" name="Когда огорченье ты встретишь в пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда огорченье ты встретишь в пути,</plain>
+        </string>
+        <string>
+            <plain>В людях утешенья тебе не найти;</plain>
+        </string>
+        <string>
+            <plain>В слезах умиленья и в тайне души</plain>
+        </string>
+        <string>
+            <plain>Христу сокрушенье излей ты в тиши.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он, Любящий, знает о горе твоем,</plain>
+        </string>
+        <string>
+            <plain>Тебя ожидает на лоне Своем;</plain>
+        </string>
+        <string>
+            <plain>Узнаешь, как властно спасенье Христа,</plain>
+        </string>
+        <string>
+            <plain>О нем ежечасно петь будут уста.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страдальцев так много под гнетом скорбей;</plain>
+        </string>
+        <string>
+            <plain>С утехой от Бога спеши к ним скорей.</plain>
+        </string>
+        <string>
+            <plain>Скажи им с любовью о дивном Христе,</plain>
+        </string>
+        <string>
+            <plain>Омывшем их кровью на скорбном кресте.</plain>
+        </string>
+    </verse>
+</song>

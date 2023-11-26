@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="373" name="Положи свой камень, положи свой камень " canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Положи свой камень, положи свой камень –</plain>
+        </string>
+        <string>
+            <plain>Мы построим дом, мы построим дом.</plain>
+        </string>
+        <string>
+            <plain>Будет дом высокий, будет дом высокий,</plain>
+        </string>
+        <string>
+            <plain>Будет дом красивый, будет дом красивый.</plain>
+        </string>
+        <string>
+            <plain>Мы прославим в нем, мы прославим в нем</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Нашего Отца, Сына Христа,</plain>
+        </string>
+        <string>
+            <plain>Духа Святого во все времена.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будут эти камни, будут эти камни</plain>
+        </string>
+        <string>
+            <plain>Добрые дела, добрые дела,</plain>
+        </string>
+        <string>
+            <plain>Если кто унижен, если кто унижен,</plain>
+        </string>
+        <string>
+            <plain>Если кто обижен, если кто обижен,</plain>
+        </string>
+        <string>
+            <plain>Позовет Тебя, позовет Тебя,</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все молитвы мира, все молитвы мира</plain>
+        </string>
+        <string>
+            <plain>Мы положим в дом, мы положим в дом:</plain>
+        </string>
+        <string>
+            <plain>Детские молитвы, детские молитвы</plain>
+        </string>
+        <string>
+            <plain>И молитвы взрослых, и молитвы взрослых.</plain>
+        </string>
+        <string>
+            <plain>Мы прославим в нем, мы прославим в нем</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1397" name="Есть два дивных чуда в мире" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть два дивных чуда в мире:</plain>
+        </string>
+        <string>
+            <plain>Хоры звезд на небесах.</plain>
+        </string>
+        <string>
+            <plain>Вечно блещущих в эфире,</plain>
+        </string>
+        <string>
+            <plain>И закон Христа в сердцах.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Там на небе, в сети млечной.</plain>
+        </string>
+        <string>
+            <plain>Меркнут звездные стада;</plain>
+        </string>
+        <string>
+            <plain>Но закон любви предвечной</plain>
+        </string>
+        <string>
+            <plain>Не погаснет никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тех чудес ума старанья</plain>
+        </string>
+        <string>
+            <plain>Объяснить нам не могли;</plain>
+        </string>
+        <string>
+            <plain>Но как сладко их сиянье</plain>
+        </string>
+        <string>
+            <plain>Среди сумерков земли!</plain>
+        </string>
+    </verse>
+</song>

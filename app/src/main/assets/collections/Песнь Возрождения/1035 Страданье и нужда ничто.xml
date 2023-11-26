@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1035" name="Страданье и нужда ничто" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страданье и нужда - ничто,</plain>
+        </string>
+        <string>
+            <plain>Коль в сердце Божия любовь.</plain>
+        </string>
+        <string>
+            <plain>И если в свете ходит кто,</plain>
+        </string>
+        <string>
+            <plain>Того от зла хранит Сам Бог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Горе и нужда - ничто,</plain>
+        </string>
+        <string>
+            <plain>Где Божия любовь.</plain>
+        </string>
+        <string>
+            <plain>Ведь тем, кто любит, верует.</plain>
+        </string>
+        <string>
+            <plain>Ко благу все содействует.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На счастье мира тленное</plain>
+        </string>
+        <string>
+            <plain>О друг, свой взор не обращай.</plain>
+        </string>
+        <string>
+            <plain>Лишь в Боге счастье вечное -</plain>
+        </string>
+        <string>
+            <plain>Все силы, жизнь Ему отдай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог этот мир так возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Что отдал Сына Своего.</plain>
+        </string>
+        <string>
+            <plain>И неужели вместе с Ним</plain>
+        </string>
+        <string>
+            <plain>Он не дарует и всего?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пошлет Бог время лучшее -</plain>
+        </string>
+        <string>
+            <plain>Рассеет тучи грозные.</plain>
+        </string>
+        <string>
+            <plain>Он скорби превратит в добро.</plain>
+        </string>
+        <string>
+            <plain>Вслед за дождем даст солнышко.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2939" name="От всей души в час утренний" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От всей души в час утренний</plain>
+        </string>
+        <string>
+            <plain>приносим в жертву мы</plain>
+        </string>
+        <string>
+            <plain>за благодать Твою, Господь,</plain>
+        </string>
+        <string>
+            <plain>что вновь явил нам Ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, Ты любящей рукой</plain>
+        </string>
+        <string>
+            <plain>нас пробудил от сна...</plain>
+        </string>
+        <string>
+            <plain>Пусть будет с первых слов</plain>
+        </string>
+        <string>
+            <plain>хвала Тебе вознесена.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В Твоей большой любви, Господь,</plain>
+        </string>
+        <string>
+            <plain>Ты нас во тьме ночной,</plain>
+        </string>
+        <string>
+            <plain>когда мы спали сладким сном,</plain>
+        </string>
+        <string>
+            <plain>хранил Своей рукой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как радостно в час утренний,</plain>
+        </string>
+        <string>
+            <plain>с природой съединясь,</plain>
+        </string>
+        <string>
+            <plain>воздать Тебе за благодать,</plain>
+        </string>
+        <string>
+            <plain>что вновь нам пролилась!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В час утренний в молитве</plain>
+        </string>
+        <string>
+            <plain>мы склонимся пред Творцом,</plain>
+        </string>
+        <string>
+            <plain>за благодатью благодать</plain>
+        </string>
+        <string>
+            <plain>из рук Его возьмём.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Как свет рассеивает тьму</plain>
+        </string>
+        <string>
+            <plain>на утренней заре,</plain>
+        </string>
+        <string>
+            <plain>пусть так Твой благодати</plain>
+        </string>
+        <string>
+            <plain>луч нам светит в темноте.</plain>
+        </string>
+    </verse>
+</song>

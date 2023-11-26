@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1515" name="Сегодня в час пира мы вас поздравляем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сегодня в час пира мы вас поздравляем,</plain>
+        </string>
+        <string>
+            <plain>Желаем святой вам любви.</plain>
+        </string>
+        <string>
+            <plain>Вы будьте, как солнце, светящее миру,</plain>
+        </string>
+        <string>
+            <plain>Что жизнь всей природе дарит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пусть жизнь протекает потоком прозрачным.</plain>
+        </string>
+        <string>
+            <plain>Текущим средь бури земной.</plain>
+        </string>
+        <string>
+            <plain>И, если преткнетесь о камень нежданный.</plain>
+        </string>
+        <string>
+            <plain>Склоните главу пред Отцом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как Бог возлюбил мир и жизнью</plain>
+        </string>
+        <string>
+            <plain>Своею Он заповедь нам подарил,</plain>
+        </string>
+        <string>
+            <plain>Любите друг друга любовью сердечной,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он сочетал вас навек.</plain>
+        </string>
+    </verse>
+</song>

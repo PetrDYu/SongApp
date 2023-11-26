@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1763" name="Не бойся умереть Боятся разве зерна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не бойся умереть. Боятся разве зерна</plain>
+        </string>
+        <string>
+            <plain>Пшеницы или ржи, когда для них земля</plain>
+        </string>
+        <string>
+            <plain>Могилой станет? Кротко и покорно</plain>
+        </string>
+        <string>
+            <plain>Они умрут, чтоб вновь цвели поля!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не бойся умереть. Боится разве колос</plain>
+        </string>
+        <string>
+            <plain>Румяной осенью среди друзей своих,</plain>
+        </string>
+        <string>
+            <plain>Когда жнецов он слышит громкий голос</plain>
+        </string>
+        <string>
+            <plain>И видит блеск серпов в руках у них?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не бойся умереть. Боится разве странник</plain>
+        </string>
+        <string>
+            <plain>Усталый, вечером увидев отчий дом?</plain>
+        </string>
+        <string>
+            <plain>Не с радостью ли он в конце скитаний</plain>
+        </string>
+        <string>
+            <plain>Желает встречи с благостным Отцом?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спаситель - наша жизнь и наше оправданье!</plain>
+        </string>
+        <string>
+            <plain>Для страха основанья в сердце больше нет!</plain>
+        </string>
+        <string>
+            <plain>Что в этом мире? Скорби да страданья.</plain>
+        </string>
+        <string>
+            <plain>А в мире горнем - вечный Божий свет!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не бойся умереть. Все Божий святые</plain>
+        </string>
+        <string>
+            <plain>В последний жизни час взирали в небеса.</plain>
+        </string>
+        <string>
+            <plain>И мы оставим скорби все земные</plain>
+        </string>
+        <string>
+            <plain>И перейдем в обители Отца.</plain>
+        </string>
+    </verse>
+</song>

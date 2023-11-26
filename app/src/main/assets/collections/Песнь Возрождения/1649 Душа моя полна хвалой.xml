@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1649" name="Душа моя полна хвалой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Душа моя полна хвалой</plain>
+        </string>
+        <string>
+            <plain>За дар любви Твоей святой.</plain>
+        </string>
+        <string>
+            <plain>Господь хранит меня всегда,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я знаю Господа,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа,</plain>
+        </string>
+        <string>
+            <plain>Всего дороже Он душе,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христос прошел весь путь земной</plain>
+        </string>
+        <string>
+            <plain>И нам Он дал пример Собой.</plain>
+        </string>
+        <string>
+            <plain>Он спас меня ценой креста,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь мой - свет, от бурь скала;</plain>
+        </string>
+        <string>
+            <plain>Мой челн ведет его рука.</plain>
+        </string>
+        <string>
+            <plain>В лучах Его сокроюсь я,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Воспойте все хвалу Христу,</plain>
+        </string>
+        <string>
+            <plain>Святому Богу нашему.</plain>
+        </string>
+        <string>
+            <plain>Он всех ведет нас в Дом Отца,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+</song>

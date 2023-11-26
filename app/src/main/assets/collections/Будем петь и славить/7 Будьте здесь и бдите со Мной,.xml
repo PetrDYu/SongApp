@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="7" name="Будьте здесь и бдите со Мной," canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Будьте здесь и бдите со Мной,</plain>
+        </string>
+        <string>
+            <plain>Бдите, молитесь, бдите, молитесь.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Bleibet hier und wachet mit mir.</plain>
+        </string>
+        <string>
+            <plain>Wachet und betet, wachet und betet.</plain>
+        </string>
+    </verse>
+</song>

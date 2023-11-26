@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1633" name="Летят года и без следа проходит день за днем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Летят года, и без следа проходит день за днем.</plain>
+        </string>
+        <string>
+            <plain>От новых дней и лет всегда благословений ждем.</plain>
+        </string>
+        <string>
+            <plain>И этот год, как все, уйдет, - и грустно на душе.</plain>
+        </string>
+        <string>
+            <plain>Что Бог сегодня не найдет святых плодов во мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А год уйдет и больше не вернется,</plain>
+        </string>
+        <string>
+            <plain>Не повторится в жизни никогда,</plain>
+        </string>
+        <string>
+            <plain>И только сердце трепетно забьется:</plain>
+        </string>
+        <string>
+            <plain>Что принесут бегущие года?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Уходит год и за собой пусть в вечность унесет</plain>
+        </string>
+        <string>
+            <plain>Все дни скитаний и забот, болезней и невзгод.</plain>
+        </string>
+        <string>
+            <plain>Летят года, и без следа проходит день за днем,</plain>
+        </string>
+        <string>
+            <plain>От новых дней и лет всегда благословений ждем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="917" name="Иисуса любовь чудесная чудесная чудесная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса любовь чудесная, чудесная, чудесная,</plain>
+        </string>
+        <string>
+            <plain>Иисуса любовь чудесная, любовь чудесная!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Высока, выше дальних звезд,</plain>
+        </string>
+        <string>
+            <plain>Глубока, глубже всяких вод,</plain>
+        </string>
+        <string>
+            <plain>Широка, ее не обоймешь.</plain>
+        </string>
+        <string>
+            <plain>Любовь чудесная!</plain>
+        </string>
+    </verse>
+</song>

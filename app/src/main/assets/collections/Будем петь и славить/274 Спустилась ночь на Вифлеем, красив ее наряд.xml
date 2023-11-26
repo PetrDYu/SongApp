@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="274" name="Спустилась ночь на Вифлеем, красив ее наряд" canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Спустилась ночь на Вифлеем, красив ее наряд.</plain>
+        </string>
+        <string>
+            <plain>Звезда с небес сияет всем, но люди крепко спят.</plain>
+        </string>
+        <string>
+            <plain>... но люди крепко спят.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В хлеву за городом большим в яслях лежит Христос.</plain>
+        </string>
+        <string>
+            <plain>Склонились ангелы над Ним и хороводы звезд.</plain>
+        </string>
+        <string>
+            <plain>... и хороводы звезд.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С хвалою пастыри пришли, забыв свои шатры.</plain>
+        </string>
+        <string>
+            <plain>Волхвы с востока принесли священные дары.</plain>
+        </string>
+        <string>
+            <plain>... священные дары.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Для всех народов и племен настал спасенья срок.</plain>
+        </string>
+        <string>
+            <plain>Здесь исполнение времен – отныне с нами Бог!</plain>
+        </string>
+        <string>
+            <plain>... отныне с нами Бог!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мария держит на руках Того, Кто нас хранит.</plain>
+        </string>
+        <string>
+            <plain>Хвала с земли и в небесах, а мир, как прежде, спит.</plain>
+        </string>
+        <string>
+            <plain>... а мир, как прежде, спит.</plain>
+        </string>
+    </verse>
+</song>

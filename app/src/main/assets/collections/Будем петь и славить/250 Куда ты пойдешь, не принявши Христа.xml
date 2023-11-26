@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="250" name="Куда ты пойдешь, не принявши Христа" canon="false" text="Ф.М. Дэвиса" textRus="Д. Ясько" music="Ф.М. Дэвиса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Куда ты пойдешь, не принявши Христа?</plain>
+        </string>
+        <string>
+            <plain>Зачем во грехах умирать?</plain>
+        </string>
+        <string>
+            <plain>Спасенье и жизнь предлагает Христос –</plain>
+        </string>
+        <string>
+            <plain>Прими же Его благодать!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Куда ты пойдешь, куда ты пойдешь?</plain>
+        </string>
+        <string>
+            <plain>Куда ты пойдешь, не принявши Христа?</plain>
+        </string>
+        <string>
+            <plain>Куда ты пойдешь?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Куда ты пойдешь? Во Христе жизнь и свет.</plain>
+        </string>
+        <string>
+            <plain>Он хочет быть другом твоим,</plain>
+        </string>
+        <string>
+            <plain>Тебя охранять средь житейских бед,</plain>
+        </string>
+        <string>
+            <plain>Поддерживать Духом Святым.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос приходил пострадать за людей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грешных с Отцом примирить.</plain>
+        </string>
+        <string>
+            <plain>Он умер за всех; Его кровь сильна</plain>
+        </string>
+        <string>
+            <plain>Грехи и пороки омыть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Послушай, о друг, не отвергни Христа,</plain>
+        </string>
+        <string>
+            <plain>Блаженство для всех только в Нем.</plain>
+        </string>
+        <string>
+            <plain>Доверься Ему, в Нем пребудь всегда –</plain>
+        </string>
+        <string>
+            <plain>Тебя Он введет в чудный дом.</plain>
+        </string>
+    </verse>
+</song>

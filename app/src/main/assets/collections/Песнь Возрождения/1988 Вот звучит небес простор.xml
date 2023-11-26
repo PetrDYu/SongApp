@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1988" name="Вот звучит небес простор" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот звучит небес простор;</plain>
+        </string>
+        <string>
+            <plain>Ангельский ликует хор.</plain>
+        </string>
+        <string>
+            <plain>"На земле да будет мир,</plain>
+        </string>
+        <string>
+            <plain>Божий Сын явился в мир".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пенье, пенье, с хорами небес,</plain>
+        </string>
+        <string>
+            <plain>Смертный, вознеси Творцу чудес.</plain>
+        </string>
+        <string>
+            <plain>Слушай, смертный, радости пенье,</plain>
+        </string>
+        <string>
+            <plain>Слушай, полное небесных чувств.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он пришел... На небе пенье,</plain>
+        </string>
+        <string>
+            <plain>Озарилися поля,</plain>
+        </string>
+        <string>
+            <plain>Сонмы арф несут хваленье,</plain>
+        </string>
+        <string>
+            <plain>В тьме ночной светла земля.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он пришел, как Посвященный,</plain>
+        </string>
+        <string>
+            <plain>С славой неба и светил;</plain>
+        </string>
+        <string>
+            <plain>Что разрушил грех свершенный.</plain>
+        </string>
+        <string>
+            <plain>То Он смертью примирил.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Слава в вышних Богу,</plain>
+        </string>
+        <string>
+            <plain>Слава, честь Христу, хвала. Он пришел...</plain>
+        </string>
+        <string>
+            <plain>И подвиг трудный Совершить Он восхотел.</plain>
+        </string>
+        <string>
+            <plain>Хор небес оставил чудный. Он на скорбь людей призрел.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Он пришел... в нужде рожденный,</plain>
+        </string>
+        <string>
+            <plain>Повелитель неземной;</plain>
+        </string>
+        <string>
+            <plain>Род людской, грехом сраженный.</plain>
+        </string>
+        <string>
+            <plain>Князю мира честь воспой.</plain>
+        </string>
+    </verse>
+</song>

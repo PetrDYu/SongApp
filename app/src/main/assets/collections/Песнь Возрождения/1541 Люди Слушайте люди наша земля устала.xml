@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1541" name="Люди Слушайте люди наша земля устала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люди! Слушайте, люди, наша земля устала;</plain>
+        </string>
+        <string>
+            <plain>Люди, роковая бездна навсегда укроет, и возврата нет.</plain>
+        </string>
+        <string>
+            <plain>Сердце, подскажи любезно, кто нас успокоит.</plain>
+        </string>
+        <string>
+            <plain>Кто нам даст ответ?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С вашим сознанием ждет Он свидания.</plain>
+        </string>
+        <string>
+            <plain>Ваш разрешить вопрос.</plain>
+        </string>
+        <string>
+            <plain>Он - сострадающий и всех спасающий.</plain>
+        </string>
+        <string>
+            <plain>Имя Ему - Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люди, думайте, люди, думайте, не медлите.</plain>
+        </string>
+        <string>
+            <plain>Люди, посмотрите, люди: жизнь идет бесцельно, почему молчите?</plain>
+        </string>
+        <string>
+            <plain>Рядом, здесь и там, повсюду, Только б вы желали повстречаться с Ним.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Люди, думайте, люди, чтобы не стало поздно.</plain>
+        </string>
+        <string>
+            <plain>Люди, каждый стук сердечный отдается нежно очень много лет.</plain>
+        </string>
+        <string>
+            <plain>Люди, жизнь так скоротечна, а душа тревожно не дает ответ.</plain>
+        </string>
+    </verse>
+</song>

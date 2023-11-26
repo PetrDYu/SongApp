@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2040" name="В минуты печали в минуты бессилья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В минуты печали, в минуты бессилья,</plain>
+        </string>
+        <string>
+            <plain>Душевного стона на долгом пути</plain>
+        </string>
+        <string>
+            <plain>Нам слышится голос Христа Иисуса:</plain>
+        </string>
+        <string>
+            <plain>"Взгляни на Голгофу, на Голгофу взгляни".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Когда ты не можешь ответить сердечно</plain>
+        </string>
+        <string>
+            <plain>На чье-то тревожное слово "прости",</plain>
+        </string>
+        <string>
+            <plain>Взгляни и учись, как прощает всех грешных</plain>
+        </string>
+        <string>
+            <plain>Христос на Голгофе, на Голгофу взгляни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда в твоем сердце, под пеплом холодным</plain>
+        </string>
+        <string>
+            <plain>Погасли последние искры любви,</plain>
+        </string>
+        <string>
+            <plain>Однажды ещё уходя от Голгофы,</plain>
+        </string>
+        <string>
+            <plain>Взгляни на нее, на Голгофу взгляни.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смотри на Голгофу, смотри постоянно,</plain>
+        </string>
+        <string>
+            <plain>И в солнце и в дождь, на рассвете, в ночи,</plain>
+        </string>
+        <string>
+            <plain>Когда будешь счастлив, когда ты устанешь,</plain>
+        </string>
+        <string>
+            <plain>Смотри на Голгофу, на Голгофу смотри.</plain>
+        </string>
+    </verse>
+</song>

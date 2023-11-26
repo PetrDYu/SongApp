@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="178" name="Воспряньте воспойте ликуйте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспряньте, воспойте, ликуйте,</plain>
+        </string>
+        <string>
+            <plain>Омытые кровью Христа!</plain>
+        </string>
+        <string>
+            <plain>Вы новую песню воспойте</plain>
+        </string>
+        <string>
+            <plain>Тому, Кто вас спас от греха.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ликуйте! Ликуйте!</plain>
+        </string>
+        <string>
+            <plain>Воспойте и славьте Христа!</plain>
+        </string>
+        <string>
+            <plain>Ликуйте! Ликуйте!</plain>
+        </string>
+        <string>
+            <plain>Воспойте и славьте Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прославим Того, Кто на землю</plain>
+        </string>
+        <string>
+            <plain>Сошел, чтобы нас оправдать,</plain>
+        </string>
+        <string>
+            <plain>Спасти нас ценой Своей крови</plain>
+        </string>
+        <string>
+            <plain>И счастье навеки нам дать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он силу нам даст и победу,</plain>
+        </string>
+        <string>
+            <plain>На битву с грехом укрепит,</plain>
+        </string>
+        <string>
+            <plain>Любовью Своею поддержит</plain>
+        </string>
+        <string>
+            <plain>И духом Своим утвердит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Воспойте со всеми святыми</plain>
+        </string>
+        <string>
+            <plain>Хвалебную песню Тому,</plain>
+        </string>
+        <string>
+            <plain>Кто нас искупил Своей кровью,</plain>
+        </string>
+        <string>
+            <plain>О, слава навеки Ему!</plain>
+        </string>
+    </verse>
+</song>

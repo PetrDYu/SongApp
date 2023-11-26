@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="532" name="Выше светил небесных и тьмы земной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Выше светил небесных и тьмы земной,</plain>
+        </string>
+        <string>
+            <plain>В тени кущей чудесных наш край родной.</plain>
+        </string>
+        <string>
+            <plain>Там скорби не бывает, там ангелы поют</plain>
+        </string>
+        <string>
+            <plain>И Агнец освещает святой приют.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>За грех мой Он страданье пришел терпеть,</plain>
+        </string>
+        <string>
+            <plain>Грехов рукописанье кровью стереть;</plain>
+        </string>
+        <string>
+            <plain>Он смерть и поношенье принял от грешных рук.</plain>
+        </string>
+        <string>
+            <plain>И им обрел спасенье от вечных мук.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И вас теперь Спаситель к Себе зовет,</plain>
+        </string>
+        <string>
+            <plain>В надежную обитель Он вас введет.</plain>
+        </string>
+        <string>
+            <plain>Блаженный, кто услышит тот милосердный зов:</plain>
+        </string>
+        <string>
+            <plain>Господь его очистит от всех грехов.</plain>
+        </string>
+    </verse>
+</song>

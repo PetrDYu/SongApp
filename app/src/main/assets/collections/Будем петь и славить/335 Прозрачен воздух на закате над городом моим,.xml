@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="335" name="Прозрачен воздух на закате над городом моим," canon="false" text="Наоми Шемер" textRus="Хэйки и Нади Йенти" music="Наоми Шемер" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Прозрачен воздух на закате над городом моим,</plain>
+        </string>
+        <string>
+            <plain>Вечерним звоном ветер плачет, мечтой веков томим.</plain>
+        </string>
+        <string>
+            <plain>И камни дремлют, и деревья в безмолвии немом,</plain>
+        </string>
+        <string>
+            <plain>С сердечной раной разделенья живет, тоскует он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, Иерусалим, ты город света золотой,</plain>
+        </string>
+        <string>
+            <plain>Тебе во славу песнь слагаю, Иерусалим!</plain>
+        </string>
+        <string>
+            <plain>Иерусалим, Иерусалим, да будет мир стенам твоим!</plain>
+        </string>
+        <string>
+            <plain>Тебе во славу петь хочу я, Иерусалим!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Колодцы высохли, и площадь безлюдна и тиха,</plain>
+        </string>
+        <string>
+            <plain>Никто не ходит в старый город, всему виной стена.</plain>
+        </string>
+        <string>
+            <plain>В пещерах дико ветры воют, страдая о судьбе;</plain>
+        </string>
+        <string>
+            <plain>Пуста дорога к Иерихону и к храмовой горе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пою тебе, великий город, плету венки, любя.</plain>
+        </string>
+        <string>
+            <plain>Я наименьший из поэтов, ты в сердце у меня!</plain>
+        </string>
+        <string>
+            <plain>Твое названье – песнь святая, я наслаждаюсь им,</plain>
+        </string>
+        <string>
+            <plain>И губы шепчут, повторяя: мой Иерусалим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты видишь, город, мы вернулись на площади твои,</plain>
+        </string>
+        <string>
+            <plain>Базары жизнью забурлили, колодцы вновь полны.</plain>
+        </string>
+        <string>
+            <plain>Звук трубный громко раздается над старым городом;</plain>
+        </string>
+        <string>
+            <plain>Пещеры осветились солнцем – небесным золотом.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>АВИР АРИ́М ЦАЛУЛЬ КА-Я́ИН ВЭ-РЭАХ О́РАНИМ</plain>
+        </string>
+        <string>
+            <plain>НИСА БЭ-РУАХ А-АРБАИМ ИМ КОЛЬ ПААМОНИМ</plain>
+        </string>
+        <string>
+            <plain>УВТАРДЕМАТ ИЛАН ВА-ЭВЭН ШВУЯ БА-ХАЛОМА</plain>
+        </string>
+        <string>
+            <plain>А-ИР АШЕР БАДАД ЙОШЕВЕТ У-ВЭ-ЛИБА ХОМА</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>ЙЕРУША́ЛАИМ ШЭЛЬ ЗАА́В ВЭ-ШЭЛЬ НЕХО́ШЕТ</plain>
+        </string>
+        <string>
+            <plain>ВЭ-ШЭЛЬ О́Р ХА-ЛО ЛЕ-ХО́ЛЬ ШИРА́ИХ АНИ́ КИНО́Р</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

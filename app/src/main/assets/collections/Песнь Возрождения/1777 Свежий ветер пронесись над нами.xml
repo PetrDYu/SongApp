@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1777" name="Свежий ветер пронесись над нами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свежий ветер, пронесись над нами</plain>
+        </string>
+        <string>
+            <plain>И рассей весь мрак и облака,</plain>
+        </string>
+        <string>
+            <plain>Хоть мы свыклись с пасмурными днями,</plain>
+        </string>
+        <string>
+            <plain>Но нужда во свете велика.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Божий ветер силы благодатной,</plain>
+        </string>
+        <string>
+            <plain>Укрепи уставших и больных,</plain>
+        </string>
+        <string>
+            <plain>Вытесняй ты свежестью приятной</plain>
+        </string>
+        <string>
+            <plain>Затхлость в душах юных и седых.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бурный ветер, ветер испытаний,</plain>
+        </string>
+        <string>
+            <plain>Закаляй идущих за Христом,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в годину скорби и страданий</plain>
+        </string>
+        <string>
+            <plain>Не роптать, не падать под крестом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Свежий ветер, лишнее сметая,</plain>
+        </string>
+        <string>
+            <plain>Ты над нами пронесись опять,</plain>
+        </string>
+        <string>
+            <plain>Чтобы сад души, благоухая,</plain>
+        </string>
+        <string>
+            <plain>Разливал чудесный аромат.</plain>
+        </string>
+    </verse>
+</song>

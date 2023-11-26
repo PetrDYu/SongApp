@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1698" name="В Отчизне Небесной Христа озарённой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Отчизне Небесной, Христа озарённой</plain>
+        </string>
+        <string>
+            <plain>Известен нам город святой,</plain>
+        </string>
+        <string>
+            <plain>Светило его, как алмаз драгоценный,</plain>
+        </string>
+        <string>
+            <plain>Небесной горит красотой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Город! - повторяют невольно уста, -</plain>
+        </string>
+        <string>
+            <plain>Город, краше солнца твоя красота;</plain>
+        </string>
+        <string>
+            <plain>Город, дивный город Салима,</plain>
+        </string>
+        <string>
+            <plain>Вечный город Царя Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Из чистого золота город сияет,</plain>
+        </string>
+        <string>
+            <plain>Из ясписа стены блестят,</plain>
+        </string>
+        <string>
+            <plain>Прохожего путника взор привлекает</plain>
+        </string>
+        <string>
+            <plain>Их чистый, стеклянный наряд.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Двенадцать там врат, как двенадцать жемчужин,</plain>
+        </string>
+        <string>
+            <plain>Из золота улицы там,</plain>
+        </string>
+        <string>
+            <plain>Там солнечный свет совершенно не нужен,</plain>
+        </string>
+        <string>
+            <plain>И места не будет ночам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, город великий и город священный,</plain>
+        </string>
+        <string>
+            <plain>Дай больше тебя полюбить;</plain>
+        </string>
+        <string>
+            <plain>И в книге для жизни твоей драгоценной</plain>
+        </string>
+        <string>
+            <plain>Навеки записанным быть.</plain>
+        </string>
+    </verse>
+</song>

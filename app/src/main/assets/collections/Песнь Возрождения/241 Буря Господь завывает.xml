@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="241" name="Буря Господь завывает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Буря, Господь, завывает,</plain>
+        </string>
+        <string>
+            <plain>Как страшен сердитый гул!</plain>
+        </string>
+        <string>
+            <plain>Туча нам свет застилает,</plain>
+        </string>
+        <string>
+            <plain>Мы гибнем, а Ты заснул.</plain>
+        </string>
+        <string>
+            <plain>Или Тебя не тревожит,</plain>
+        </string>
+        <string>
+            <plain>Что смерть окружает нас?</plain>
+        </string>
+        <string>
+            <plain>Грозный вал наступает и может</plain>
+        </string>
+        <string>
+            <plain>Ладью поглотить тотчас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не даст Он Всесильный погибнуть нам.</plain>
+        </string>
+        <string>
+            <plain>"Услышат волны и ветер Мой глас,</plain>
+        </string>
+        <string>
+            <plain>Умолкнут тотчас".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже, в глубокой печали</plain>
+        </string>
+        <string>
+            <plain>Склоняю главу мою,</plain>
+        </string>
+        <string>
+            <plain>Душу грехи взволновали,</plain>
+        </string>
+        <string>
+            <plain>Спаси, о спаси, молю.</plain>
+        </string>
+        <string>
+            <plain>Сердце мое заливают</plain>
+        </string>
+        <string>
+            <plain>Потоки земных скорбей;</plain>
+        </string>
+        <string>
+            <plain>О, я гибну, к Тебе я взываю,</plain>
+        </string>
+        <string>
+            <plain>Покой дай душе моей!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Буря, Господь миновала,</plain>
+        </string>
+        <string>
+            <plain>И в сердце настал покой!</plain>
+        </string>
+        <string>
+            <plain>Солнце опять засияло</plain>
+        </string>
+        <string>
+            <plain>Над стихнувшей вдруг водой.</plain>
+        </string>
+        <string>
+            <plain>Будь же со мною, Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Твой мир Ты во мне храни</plain>
+        </string>
+        <string>
+            <plain>И в небесную Божью обитель</plain>
+        </string>
+        <string>
+            <plain>На вечный покой прими.</plain>
+        </string>
+    </verse>
+</song>

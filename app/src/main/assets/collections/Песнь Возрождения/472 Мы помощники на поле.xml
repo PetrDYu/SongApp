@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="472" name="Мы помощники на поле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы - помощники на поле;</plain>
+        </string>
+        <string>
+            <plain>Малы мы, но вот наш труд:</plain>
+        </string>
+        <string>
+            <plain>Собираем мы колосья,</plain>
+        </string>
+        <string>
+            <plain>Что при жатве упадут.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мы - помощники на поле,</plain>
+        </string>
+        <string>
+            <plain>Дети малые без сил;</plain>
+        </string>
+        <string>
+            <plain>А большие жнут колосья,</plain>
+        </string>
+        <string>
+            <plain>Что Господь им поручил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы - помощники на поле;</plain>
+        </string>
+        <string>
+            <plain>Малы мы, но Царь полей,</plain>
+        </string>
+        <string>
+            <plain>Наш Иисус, велик и силен</plain>
+        </string>
+        <string>
+            <plain>И Он любит труд детей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты работников смиренных,</plain>
+        </string>
+        <string>
+            <plain>О Господь, благослови,</plain>
+        </string>
+        <string>
+            <plain>Чтоб жнецы, пришедши с неба,</plain>
+        </string>
+        <string>
+            <plain>Встретили привет любви.</plain>
+        </string>
+    </verse>
+</song>

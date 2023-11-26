@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="375" name="Последний призыв раздается еще" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Последний призыв раздается еще,</plain>
+        </string>
+        <string>
+            <plain>О грешник беспечный, что медлишь ты все?</plain>
+        </string>
+        <string>
+            <plain>Спеши к Иисусу спасенье принять,</plain>
+        </string>
+        <string>
+            <plain>Пока ожидает тебя благодать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Последний призыв прозвучал для тебя;</plain>
+        </string>
+        <string>
+            <plain>Спеши же сегодня принять зов Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тебя на собранье Дух Божий привел,</plain>
+        </string>
+        <string>
+            <plain>Чтоб ты для души исцеленье нашел;</plain>
+        </string>
+        <string>
+            <plain>Чрез проповедь, пенье зовет Он: "Приди!"</plain>
+        </string>
+        <string>
+            <plain>Все ждет Он тебя, но ты медлишь идти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Собранье окончено, стало темно,</plain>
+        </string>
+        <string>
+            <plain>И замерли звуки призыва давно,</plain>
+        </string>
+        <string>
+            <plain>А в сердце Спаситель стучится и ждет.</plain>
+        </string>
+        <string>
+            <plain>Открой же Ему или скоро уйдет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Коль любишь ты жизнь, удаляйся от зла,</plain>
+        </string>
+        <string>
+            <plain>Союз со Христом заключи навсегда,</plain>
+        </string>
+        <string>
+            <plain>Иисуса сегодня принять поспеши,</plain>
+        </string>
+        <string>
+            <plain>Призыву последнему чутко внемли.</plain>
+        </string>
+    </verse>
+</song>

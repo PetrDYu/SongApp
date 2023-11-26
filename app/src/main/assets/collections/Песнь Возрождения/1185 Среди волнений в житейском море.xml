@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1185" name="Среди волнений в житейском море" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Среди волнений в житейском море.</plain>
+        </string>
+        <string>
+            <plain>Когда страданья волнуют грудь,</plain>
+        </string>
+        <string>
+            <plain>Я так нуждаюсь в Твоей опоре,</plain>
+        </string>
+        <string>
+            <plain>Молю, Спаситель, со мной пребудь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так жаждет сердце мое покоя.</plain>
+        </string>
+        <string>
+            <plain>Устал я, Боже, в борьбе земной.</plain>
+        </string>
+        <string>
+            <plain>Душа страдает в потоках горя,</plain>
+        </string>
+        <string>
+            <plain>О Милосердный, пребудь со мной!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вражда, неверье и лицемерье</plain>
+        </string>
+        <string>
+            <plain>- Зловещий отблеск греха огней;</plain>
+        </string>
+        <string>
+            <plain>Но знаю: Церковь живет в преддверии</plain>
+        </string>
+        <string>
+            <plain>Великих, славных грядущих дней.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю, Боже, что очень скоро</plain>
+        </string>
+        <string>
+            <plain>Придешь, положишь скорбям конец,</plain>
+        </string>
+        <string>
+            <plain>И тем, кто в Боге имел опору,</plain>
+        </string>
+        <string>
+            <plain>Подаришь в небе святой венец.</plain>
+        </string>
+    </verse>
+</song>

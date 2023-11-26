@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="806" name="Пусть на пороге неведомых дней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть на пороге неведомых дней</plain>
+        </string>
+        <string>
+            <plain>Сердце не дрогнет твое,</plain>
+        </string>
+        <string>
+            <plain>Пусть если даже и будет темней, -</plain>
+        </string>
+        <string>
+            <plain>Ты не страшись ничего.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Знай, по тропинке с тобою идет</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто весь мир победил;</plain>
+        </string>
+        <string>
+            <plain>Верь, что чрез скорбь Он тебя проведет,</plain>
+        </string>
+        <string>
+            <plain>Верь, и Он даст тебе сил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть на пороге неведомых дней</plain>
+        </string>
+        <string>
+            <plain>Силу черпает душа,</plain>
+        </string>
+        <string>
+            <plain>Силу, которую дал нам ручей,</plain>
+        </string>
+        <string>
+            <plain>Тот, что течет со креста.</plain>
+        </string>
+    </verse>
+</song>

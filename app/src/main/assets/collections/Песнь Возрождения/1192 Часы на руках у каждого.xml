@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1192" name="Часы на руках у каждого" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Часы на руках у каждого</plain>
+        </string>
+        <string>
+            <plain>Считают остатки дней.</plain>
+        </string>
+        <string>
+            <plain>В жизни есть много важного.</plain>
+        </string>
+        <string>
+            <plain>Но время всего ценней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жить на земле не триста лет,</plain>
+        </string>
+        <string>
+            <plain>А, может быть, шестьдесят.</plain>
+        </string>
+        <string>
+            <plain>А, может быть, только тридцать.</plain>
+        </string>
+        <string>
+            <plain>А может - и двадцать пять,</plain>
+        </string>
+        <string>
+            <plain>- Вот почему молиться старайся не забывать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Время - начальник строгий.</plain>
+        </string>
+        <string>
+            <plain>Стрелка бежит, бежит,</plain>
+        </string>
+        <string>
+            <plain>Всех торопит, ведь немного</plain>
+        </string>
+        <string>
+            <plain>Здесь остается жить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире дорог есть много,</plain>
+        </string>
+        <string>
+            <plain>Но коротка их нить.</plain>
+        </string>
+        <string>
+            <plain>Лишь тот, кто доверится</plain>
+        </string>
+        <string>
+            <plain>Богу, будет вовеки жить!</plain>
+        </string>
+    </verse>
+</song>

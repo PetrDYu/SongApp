@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="377" name="Бог всегда со мной, Бог всегда со мной" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог всегда со мной, Бог всегда со мной.</plain>
+        </string>
+        <string>
+            <plain>Ночью и днем, ночью и днем, Бог всегда со мной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог хранит меня, Бог хранит меня.</plain>
+        </string>
+        <string>
+            <plain>Ночью и днем, ночью и днем, Бог хранит меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любит Бог меня, любит Бог меня.</plain>
+        </string>
+        <string>
+            <plain>Ночью и днем, ночью и днем любит Бог меня.</plain>
+        </string>
+    </verse>
+</song>

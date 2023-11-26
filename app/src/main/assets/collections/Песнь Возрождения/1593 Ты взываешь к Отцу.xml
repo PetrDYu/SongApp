@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1593" name="Ты взываешь к Отцу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты взываешь к Отцу,</plain>
+        </string>
+        <string>
+            <plain>А ответа все нет,</plain>
+        </string>
+        <string>
+            <plain>И силы слабеют твои,</plain>
+        </string>
+        <string>
+            <plain>Но сердцу и сейчас</plain>
+        </string>
+        <string>
+            <plain>кто-то нежно говорит:</plain>
+        </string>
+        <string>
+            <plain>"Встань на колени".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Может быть, еще раз</plain>
+        </string>
+        <string>
+            <plain>В этот тихий час Нужно,</plain>
+        </string>
+        <string>
+            <plain>нужно тебе помолиться,</plain>
+        </string>
+        <string>
+            <plain>еще раз, еще раз</plain>
+        </string>
+        <string>
+            <plain>на колени склониться.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты взываешь к Отцу,</plain>
+        </string>
+        <string>
+            <plain>А ответа все нет,</plain>
+        </string>
+        <string>
+            <plain>И силы слабеют твои.</plain>
+        </string>
+        <string>
+            <plain>Но вспомни</plain>
+        </string>
+        <string>
+            <plain>Завет Иисуса Христа:</plain>
+        </string>
+        <string>
+            <plain>Молись постоянно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Надежда на Христа, слышишь, друг.</plain>
+        </string>
+        <string>
+            <plain>Никогда не постыжает;</plain>
+        </string>
+        <string>
+            <plain>Ведь слезы твои у Него сочтены,</plain>
+        </string>
+        <string>
+            <plain>С ответом не опоздает.</plain>
+        </string>
+    </verse>
+</song>

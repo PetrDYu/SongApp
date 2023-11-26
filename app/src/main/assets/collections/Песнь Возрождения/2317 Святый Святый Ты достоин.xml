@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2317" name="Святый Святый Ты достоин" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Святый, Святый, Ты достоин,</plain>
+        </string>
+        <string>
+            <plain>Воздаём Тебе всю честь.</plain>
+        </string>
+        <string>
+            <plain>Господь славы, Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Да святится имя Твоё.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Всё творены, все народы</plain>
+        </string>
+        <string>
+            <plain>Твоим словом да живут.</plain>
+        </string>
+        <string>
+            <plain>Твоё Царство да пребудет</plain>
+        </string>
+        <string>
+            <plain>На небесах и на земле.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да святится имя Твоё,</plain>
+        </string>
+        <string>
+            <plain>Да святится имя Твоё,</plain>
+        </string>
+        <string>
+            <plain>Да святится имя Твоё,</plain>
+        </string>
+        <string>
+            <plain>Царь царей, Бог богов,</plain>
+        </string>
+        <string>
+            <plain>Да святится имя Твоё.</plain>
+        </string>
+    </verse>
+</song>

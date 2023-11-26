@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="236" name="Спаситель мой живет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель мой живет!</plain>
+        </string>
+        <string>
+            <plain>Да будут далеки</plain>
+        </string>
+        <string>
+            <plain>От сердца ужасы забот,</plain>
+        </string>
+        <string>
+            <plain>Унынья и тоски!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он Сам вблизи меня,</plain>
+        </string>
+        <string>
+            <plain>И Он готов хранить</plain>
+        </string>
+        <string>
+            <plain>Мой дух от муки и огня</plain>
+        </string>
+        <string>
+            <plain>И мир мне подарить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И в сумраке ночей,</plain>
+        </string>
+        <string>
+            <plain>И пред толпой врагов,</plain>
+        </string>
+        <string>
+            <plain>И средь невидимых сетей –</plain>
+        </string>
+        <string>
+            <plain>Везде Он мой покров.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда в пути своем</plain>
+        </string>
+        <string>
+            <plain>Нежданно поскользнусь,</plain>
+        </string>
+        <string>
+            <plain>К груди Христа тотчас склонюсь</plain>
+        </string>
+        <string>
+            <plain>И укреплюся в Нем.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Зачем же мне скорбеть?</plain>
+        </string>
+        <string>
+            <plain>Припав к стопам святым,</plain>
+        </string>
+        <string>
+            <plain>Ему готов всегда я петь</plain>
+        </string>
+        <string>
+            <plain>И радоваться с Ним.</plain>
+        </string>
+    </verse>
+</song>

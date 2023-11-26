@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="595" name="Ныне все верные в мире ликуют" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ныне все верные в мире ликуют:</plain>
+        </string>
+        <string>
+            <plain>В небе все силы в Христе торжествуют,</plain>
+        </string>
+        <string>
+            <plain>Царь вам рожден! - воспевают в хвале.</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу, мир на земле!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава, слава,</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу, мир на земле!</plain>
+        </string>
+        <string>
+            <plain>Слава, слава!</plain>
+        </string>
+        <string>
+            <plain>Царь вам родился - Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пой, Вифлеем, Иисуса рожденье;</plain>
+        </string>
+        <string>
+            <plain>Радостно пой все живое творенье;</plain>
+        </string>
+        <string>
+            <plain>Пойте, святые, с венцом на челе:</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу, мир на земле!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Путь был указан от Бога звездою,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мудрецы поклонились с мольбою;</plain>
+        </string>
+        <string>
+            <plain>Много даров мудрецы принесли:</plain>
+        </string>
+        <string>
+            <plain>Знали, Младенец - Царь неба, земли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ирод, услышав о Царском рожденье,</plain>
+        </string>
+        <string>
+            <plain>В сердце замыслил свершить преступленье,</plain>
+        </string>
+        <string>
+            <plain>Тайно Младенца убить захотел,</plain>
+        </string>
+        <string>
+            <plain>Место рожденья искать повелел.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ночью Иосиф услышал веленье:</plain>
+        </string>
+        <string>
+            <plain>"Ирод задумал свершить убиенье,</plain>
+        </string>
+        <string>
+            <plain>Утром возьми ты Младенца и мать,</plain>
+        </string>
+        <string>
+            <plain>В бегстве не медли спасенья искать!"</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Ирод с войсками детей избивает,</plain>
+        </string>
+        <string>
+            <plain>Царь же Младенец в Египет вступает.</plain>
+        </string>
+        <string>
+            <plain>Дивно Младенец спасен был тогда,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Он после спас мир навсегда.</plain>
+        </string>
+    </verse>
+</song>

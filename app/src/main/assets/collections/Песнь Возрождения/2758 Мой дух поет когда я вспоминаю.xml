@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2758" name="Мой дух поет когда я вспоминаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой дух поет, когда я вспоминаю</plain>
+        </string>
+        <string>
+            <plain>Свой чудный путь хожденья со Христом.</plain>
+        </string>
+        <string>
+            <plain>Я по ступеням вверх за Ним шагаю</plain>
+        </string>
+        <string>
+            <plain>И сознаю, что мир - не вечный Дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пока живу, всем сердцем петь я буду</plain>
+        </string>
+        <string>
+            <plain>О том чудесном граде золотом.</plain>
+        </string>
+        <string>
+            <plain>Но день придет, и я Его увижу</plain>
+        </string>
+        <string>
+            <plain>И перейду в Небесный Дом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Земные вещи ценность потеряют,</plain>
+        </string>
+        <string>
+            <plain>Они ведь временно нам здесь даны,</plain>
+        </string>
+        <string>
+            <plain>Они так часто скорбь нам причиняют,</plain>
+        </string>
+        <string>
+            <plain>Пока идем к вратам родной страны.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Весь этот мир, что в горестях томится,</plain>
+        </string>
+        <string>
+            <plain>В тот дивный день ненужным стогет нам.</plain>
+        </string>
+        <string>
+            <plain>Душа, как птица, в небо устремится,</plain>
+        </string>
+        <string>
+            <plain>К Господним светлым, чистым небесам.</plain>
+        </string>
+    </verse>
+</song>

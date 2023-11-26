@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1814" name="Как много разных песен в этом мире" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как много разных песен в этом мире,</plain>
+        </string>
+        <string>
+            <plain>Где славится земная красота,</plain>
+        </string>
+        <string>
+            <plain>Где славит человек свои кумиры,</plain>
+        </string>
+        <string>
+            <plain>А у меня лишь песнь всегда одна.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пою о Боге я, об имени Великом,</plain>
+        </string>
+        <string>
+            <plain>О том, как любит Он, как сильно любит Он,</plain>
+        </string>
+        <string>
+            <plain>О том, что Он - мой Друг и мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>О том, что я от смерти Им спасен</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И эту песню петь не устаю я.</plain>
+        </string>
+        <string>
+            <plain>Она звучит в душе и наяву,</plain>
+        </string>
+        <string>
+            <plain>И ранним утром, днем и даже в полночь;</plain>
+        </string>
+        <string>
+            <plain>Я этой песней только и живу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я песнь пою, когда бывает грустно,</plain>
+        </string>
+        <string>
+            <plain>Когда врагом изранена душа.</plain>
+        </string>
+        <string>
+            <plain>Пою, и сердце наполняет чувство,</plain>
+        </string>
+        <string>
+            <plain>Где нет печали, а одна хвала.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я песнь мою хотел бы петь всем людям,</plain>
+        </string>
+        <string>
+            <plain>Хотелось бы, чтоб поняли ее.</plain>
+        </string>
+        <string>
+            <plain>Хотелось бы, чтоб в друге Иисусе</plain>
+        </string>
+        <string>
+            <plain>Нашли бы все спасение свое.</plain>
+        </string>
+    </verse>
+</song>

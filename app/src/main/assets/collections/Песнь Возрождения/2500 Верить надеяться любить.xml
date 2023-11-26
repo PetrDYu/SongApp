@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2500" name="Верить надеяться любить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верить, надеяться, любить</plain>
+        </string>
+        <string>
+            <plain>- больше в этой жизни ничего не надо.</plain>
+        </string>
+        <string>
+            <plain>Верить, надеяться, любить</plain>
+        </string>
+        <string>
+            <plain>- самая большая радость.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус понимает все</plain>
+        </string>
+        <string>
+            <plain>- трудностей в жизни много.</plain>
+        </string>
+        <string>
+            <plain>Он верою меня ведет</plain>
+        </string>
+        <string>
+            <plain>по жизненной трудной дороге.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И я иду за Ним,</plain>
+        </string>
+        <string>
+            <plain>любовью Его хранимый.</plain>
+        </string>
+        <string>
+            <plain>Моя рука в Его руке,</plain>
+        </string>
+        <string>
+            <plain>и я не разлучаюсь с Ним.</plain>
+        </string>
+    </verse>
+</song>

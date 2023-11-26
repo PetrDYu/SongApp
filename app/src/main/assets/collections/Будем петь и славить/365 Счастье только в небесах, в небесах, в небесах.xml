@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="365" name="Счастье только в небесах, в небесах, в небесах" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Счастье только в небесах, в небесах, в небесах.</plain>
+        </string>
+        <string>
+            <plain>Счастье только в небесах. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ночи нет там никогда, никогда, никогда.</plain>
+        </string>
+        <string>
+            <plain>Ночи нет там никогда. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Улицы из золота, чистого золота.</plain>
+        </string>
+        <string>
+            <plain>Улицы из золота. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там владычествует Бог, Бог святой, Бог святой.</plain>
+        </string>
+        <string>
+            <plain>Там владычествует Бог. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Путь туда – Господь Иисус, Божий Сын, Божий Сын.</plain>
+        </string>
+        <string>
+            <plain>Путь туда – Господь Иисус. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Вечно будет радость там, радость там, радость там.</plain>
+        </string>
+        <string>
+            <plain>Вечно будет радость там. Устремлюсь туда.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(3 р.)</plain>
+        </string>
+    </verse>
+</song>

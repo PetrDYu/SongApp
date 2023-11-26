@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3161" name="Записан в книгу жизни я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Записан в книгу жизни я</plain>
+        </string>
+        <string>
+            <plain>рукой Христа навечно,</plain>
+        </string>
+        <string>
+            <plain>сомненья все рассеял</plain>
+        </string>
+        <string>
+            <plain>Он, Его люблю сердечно.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, знаю я,</plain>
+        </string>
+        <string>
+            <plain>- аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>- я твёрдо знаю:</plain>
+        </string>
+        <string>
+            <plain>там записан я!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда-то был записан я,</plain>
+        </string>
+        <string>
+            <plain>как грешник, в книге чёрной.</plain>
+        </string>
+        <string>
+            <plain>Ту запись смыла кровь Христа,</plain>
+        </string>
+        <string>
+            <plain>Он снял с меня позор мой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хотя мой грех и был прощён,</plain>
+        </string>
+        <string>
+            <plain>печаль порой давила.</plain>
+        </string>
+        <string>
+            <plain>Теперь я Духом освящён,</plain>
+        </string>
+        <string>
+            <plain>живу я в полном мире.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть ищут мира сыновья</plain>
+        </string>
+        <string>
+            <plain>здесь славы быстротечной,</plain>
+        </string>
+        <string>
+            <plain>я рад, что Бог занёс меня</plain>
+        </string>
+        <string>
+            <plain>сам в книгу жизни вечной.</plain>
+        </string>
+    </verse>
+</song>

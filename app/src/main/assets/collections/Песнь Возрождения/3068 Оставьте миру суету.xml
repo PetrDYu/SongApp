@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3068" name="Оставьте миру суету" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Оставьте миру суету</plain>
+        </string>
+        <string>
+            <plain>и развлеченья все.</plain>
+        </string>
+        <string>
+            <plain>Я радость большую обрёл</plain>
+        </string>
+        <string>
+            <plain>с тех пор, как я в Христе!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастлив я,</plain>
+        </string>
+        <string>
+            <plain>свободен,</plain>
+        </string>
+        <string>
+            <plain>счастлив я!</plain>
+        </string>
+        <string>
+            <plain>Христос освободил меня</plain>
+        </string>
+        <string>
+            <plain>от всякого греха.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мирские наслаждения</plain>
+        </string>
+        <string>
+            <plain>не радуют меня.</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как знаю Я Христа,</plain>
+        </string>
+        <string>
+            <plain>Им наслаждаюсь я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как утром меркнет звёздный</plain>
+        </string>
+        <string>
+            <plain>блеск и исчезает тьма,</plain>
+        </string>
+        <string>
+            <plain>так похоть мира</plain>
+        </string>
+        <string>
+            <plain>из души исчезла навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мир новое значение</plain>
+        </string>
+        <string>
+            <plain>имеет для меня,</plain>
+        </string>
+        <string>
+            <plain>ведь с Богом примирение</plain>
+        </string>
+        <string>
+            <plain>имею чрез Христа.</plain>
+        </string>
+    </verse>
+</song>

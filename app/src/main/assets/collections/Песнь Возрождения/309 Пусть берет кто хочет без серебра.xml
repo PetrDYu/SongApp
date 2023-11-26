@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="309" name="Пусть берет кто хочет без серебра" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть берет, кто хочет, без серебра</plain>
+        </string>
+        <string>
+            <plain>Божий дар спасенья вечного добра!</plain>
+        </string>
+        <string>
+            <plain>Слушайте, идите и спешите взять</plain>
+        </string>
+        <string>
+            <plain>То, что Бог всем хочет дать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть берет бедняк! Пусть он даром пьет.</plain>
+        </string>
+        <string>
+            <plain>Вот уста Иисуса уж давно зовут:</plain>
+        </string>
+        <string>
+            <plain>"Воды жизни вечной без конца текут:</plain>
+        </string>
+        <string>
+            <plain>Даром пей, кто жаждет пить!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приходи, бери, о друг, поскорей!</plain>
+        </string>
+        <string>
+            <plain>Ныне день спасенья для души твоей;</plain>
+        </string>
+        <string>
+            <plain>Завтра будет поздно, уж не будет звать</plain>
+        </string>
+        <string>
+            <plain>Больше Божья благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть берет, кто хочет! Путь Божий прям,</plain>
+        </string>
+        <string>
+            <plain>Истинно, правдиво слово Бога к нам;</plain>
+        </string>
+        <string>
+            <plain>Все, что обещает, Он в любви дает,</plain>
+        </string>
+        <string>
+            <plain>Нищий духом да придет!</plain>
+        </string>
+    </verse>
+</song>

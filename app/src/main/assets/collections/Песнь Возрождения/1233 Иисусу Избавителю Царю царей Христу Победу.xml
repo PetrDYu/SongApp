@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1233" name="Иисусу Избавителю Царю царей Христу Победу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисусу, Избавителю,</plain>
+        </string>
+        <string>
+            <plain>Царю царей, Христу,</plain>
+        </string>
+        <string>
+            <plain>Победу, славу, честь, хвалу</plain>
+        </string>
+        <string>
+            <plain>Воздайте, весь народ.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть каждый воспоет (Пусть воспоет)</plain>
+        </string>
+        <string>
+            <plain>Пусть каждый воспоет (Пусть воспоет)</plain>
+        </string>
+        <string>
+            <plain>Ту повесть вечно новую.</plain>
+        </string>
+        <string>
+            <plain>Милость, радость Божию</plain>
+        </string>
+        <string>
+            <plain>Пусть каждый воспоет (Пусть воспоет).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он силу ада победил</plain>
+        </string>
+        <string>
+            <plain>И Кровь за нас пролил,</plain>
+        </string>
+        <string>
+            <plain>От вечной смерти искупил</plain>
+        </string>
+        <string>
+            <plain>И жизнь вовек дает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Придите, жаждущие все,</plain>
+        </string>
+        <string>
+            <plain>К живой воды реке!</plain>
+        </string>
+        <string>
+            <plain>И утоление душе,</plain>
+        </string>
+        <string>
+            <plain>Кто верует - найдет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Измучен ли грехами ты,</plain>
+        </string>
+        <string>
+            <plain>На крест, на крест гляди!</plain>
+        </string>
+        <string>
+            <plain>Христа распятого проси,</plain>
+        </string>
+        <string>
+            <plain>И в сердце мир войдет.</plain>
+        </string>
+    </verse>
+</song>

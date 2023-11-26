@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="773" name="Велик небесный наш Отец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Велик небесный наш Отец:</plain>
+        </string>
+        <string>
+            <plain>Творит Он чудеса.</plain>
+        </string>
+        <string>
+            <plain>Его могущества везде</plain>
+        </string>
+        <string>
+            <plain>Мы слышим голоса.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чудесно звезды поместил в кругу пустом,</plain>
+        </string>
+        <string>
+            <plain>Чудесно землю Он повесил ни на чем!</plain>
+        </string>
+        <string>
+            <plain>Но чтоб меня спасти и в Свой дом ввести –</plain>
+        </string>
+        <string>
+            <plain>Явил Он чудо вечной милости.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По всей земле, во всех делах</plain>
+        </string>
+        <string>
+            <plain>Бог виден нам во всем!</plain>
+        </string>
+        <string>
+            <plain>Но полноту Его любви –</plain>
+        </string>
+        <string>
+            <plain>Лишь в вечности поймем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Нем Писанье говорит,</plain>
+        </string>
+        <string>
+            <plain>Ему хвала звучит:</plain>
+        </string>
+        <string>
+            <plain>И в пенье птичек, и в цветах,</plain>
+        </string>
+        <string>
+            <plain>И в вечных небесах.</plain>
+        </string>
+    </verse>
+</song>

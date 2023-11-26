@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2248" name="О Боже мой зову к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Боже мой, зову к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Услышь меня, внемли мольбе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я здесь борюсь с грехом и злом,</plain>
+        </string>
+        <string>
+            <plain>Я изнемог в пути моём,</plain>
+        </string>
+        <string>
+            <plain>Теснят мне грудь печаль, тоска</plain>
+        </string>
+        <string>
+            <plain>О той Стране, где нет греха,</plain>
+        </string>
+        <string>
+            <plain>Где нет ни мук, ни гроз, ни зла,</plain>
+        </string>
+        <string>
+            <plain>Никто не льёт там горьких слёз.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там радость, мир, покой в сердцах,</plain>
+        </string>
+        <string>
+            <plain>Там чудный пирготов всем нам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, услышь Ты вопль мой,</plain>
+        </string>
+        <string>
+            <plain>Прими меня, теперь я Твой.</plain>
+        </string>
+    </verse>
+</song>

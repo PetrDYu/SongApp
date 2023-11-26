@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2221" name="На земле я имею дом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На земле я имею дом,</plain>
+        </string>
+        <string>
+            <plain>Каждый день и питьё, и пищу,</plain>
+        </string>
+        <string>
+            <plain>Но я помню всегда о том,</plain>
+        </string>
+        <string>
+            <plain>Что на небе моё жилище.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, я хочу к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты за мной приходи скорее.</plain>
+        </string>
+        <string>
+            <plain>В край, где больше не будет слёз,</plain>
+        </string>
+        <string>
+            <plain>Ты открой предо мною двери.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В край, где больше не будет бед,</plain>
+        </string>
+        <string>
+            <plain>Где не будет греха навеки.</plain>
+        </string>
+        <string>
+            <plain>Сердце рвётся туда, Христос,</plain>
+        </string>
+        <string>
+            <plain>Как росток - пробиваясь к свету.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Иисус, я хочу к Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты за мной приходи скорее.</plain>
+        </string>
+        <string>
+            <plain>В край, где больше не будет слёз,</plain>
+        </string>
+        <string>
+            <plain>Ты Открой предо мною двери.</plain>
+        </string>
+        <string>
+            <plain>Господи правый!</plain>
+        </string>
+        <string>
+            <plain>Дай мне прозренье,</plain>
+        </string>
+        <string>
+            <plain>Наполни благодатно Дни мои!</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Хоть и здесь на земле с Тобой</plain>
+        </string>
+        <string>
+            <plain>Предвкушаю блаженство рая;</plain>
+        </string>
+        <string>
+            <plain>Но стремится мой дух домой,</plain>
+        </string>
+        <string>
+            <plain>Словно птица к родному краю.</plain>
+        </string>
+    </verse>
+</song>

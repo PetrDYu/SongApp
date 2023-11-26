@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="501" name="Шалом, мои друзья Храни Господь ваш дом" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Шалом, мои друзья! Храни Господь ваш дом!</plain>
+        </string>
+        <string>
+            <plain>Пусть в сердце к вам войдет шалом, шалом.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И хоть не прост порой тот мир, где мы живем,</plain>
+        </string>
+        <string>
+            <plain>Пусть окружает нас шалом, шалом!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Открыта сердца дверь, живет Дух Божий в нем,</plain>
+        </string>
+        <string>
+            <plain>И наполняет нас шалом, шалом.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Улыбками сиять давайте день за днем.</plain>
+        </string>
+        <string>
+            <plain>Приносит радость нам шалом, шалом!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поднимем руки ввысь и к Богу воззовем:</plain>
+        </string>
+        <string>
+            <plain>«Пошли, Господь, нам всем шалом, шалом!»</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Нас не смутят пути, которыми пойдем.</plain>
+        </string>
+        <string>
+            <plain>Наградой будет нам шалом, шалом!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Войдем мы в град святой, там вечность обретем,</plain>
+        </string>
+        <string>
+            <plain>И вместе с ней Господь нам дарует шалом.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Нас не смутят пути, которыми пойдем.</plain>
+        </string>
+        <string>
+            <plain>Наградой будет нам шалом, шалом!</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

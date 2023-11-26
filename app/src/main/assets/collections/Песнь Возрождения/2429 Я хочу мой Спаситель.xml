@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2429" name="Я хочу мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>любить Тебя всей душою всегда,</plain>
+        </string>
+        <string>
+            <plain>Я хочу никогда не забыть,</plain>
+        </string>
+        <string>
+            <plain>Как Ты плакал, страдал за меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты спасены даром даёшь,</plain>
+        </string>
+        <string>
+            <plain>И я рад, что меня Ты купил,</plain>
+        </string>
+        <string>
+            <plain>Но как будто Ты всё вопиёшь</plain>
+        </string>
+        <string>
+            <plain>На кресте: "Отче Мой, Ты прости их, прости".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, дай помнить, что трудно было</plain>
+        </string>
+        <string>
+            <plain>На кресте Тебе нас искупить,</plain>
+        </string>
+        <string>
+            <plain>И дай в жизни иметь лишь одно:</plain>
+        </string>
+        <string>
+            <plain>Тебя сердцем всецело любить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хочу жить всей душой для Тебя,</plain>
+        </string>
+        <string>
+            <plain>Твой закон свято в жизни хранить,</plain>
+        </string>
+        <string>
+            <plain>Хочу всем возвестить, как, любя,</plain>
+        </string>
+        <string>
+            <plain>На кресте Ты всех грешных простил.</plain>
+        </string>
+    </verse>
+</song>

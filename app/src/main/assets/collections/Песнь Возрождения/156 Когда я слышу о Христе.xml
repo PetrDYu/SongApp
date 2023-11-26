@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="156" name="Когда я слышу о Христе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я слышу о Христе,</plain>
+        </string>
+        <string>
+            <plain>Я сердцем веселюсь</plain>
+        </string>
+        <string>
+            <plain>И воспеваю в простоте:</plain>
+        </string>
+        <string>
+            <plain>"Спаситель мой, Иисус!"</plain>
+        </string>
+        <string>
+            <plain>Когда на ров земного зла,</plain>
+        </string>
+        <string>
+            <plain>Где гибнул, оглянусь,</plain>
+        </string>
+        <string>
+            <plain>Тогда звучит моя хвала:</plain>
+        </string>
+        <string>
+            <plain>"Спаситель мой, Иисус!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты радость дал душе в удел,</plain>
+        </string>
+        <string>
+            <plain>И я о том молюсь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб целый мир Тебе воспел:</plain>
+        </string>
+        <string>
+            <plain>"Спаситель мой, Иисус!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В какой я бездне утопал,</plain>
+        </string>
+        <string>
+            <plain>При мысли я страшусь,</plain>
+        </string>
+        <string>
+            <plain>Но Ты меня и там взыскал,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Я одиноким был, но Ты</plain>
+        </string>
+        <string>
+            <plain>Вступил со мной в союз</plain>
+        </string>
+        <string>
+            <plain>И Сам ведешь средь темноты,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, Иисус!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пред Тобою мертвым был,</plain>
+        </string>
+        <string>
+            <plain>Но чуду я дивлюсь:</plain>
+        </string>
+        <string>
+            <plain>Ты дух мой к жизни воскресил,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Я пленник был, Ты не забыл</plain>
+        </string>
+        <string>
+            <plain>Меня средь тяжких уз</plain>
+        </string>
+        <string>
+            <plain>И от греха освободил,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, Иисус!</plain>
+        </string>
+    </verse>
+</song>

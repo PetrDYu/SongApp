@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3036" name="Не говорите мне о злате" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не говорите мне о злате,</plain>
+        </string>
+        <string>
+            <plain>благах, сокровищах земных:</plain>
+        </string>
+        <string>
+            <plain>мой взор они не привлекают,</plain>
+        </string>
+        <string>
+            <plain>я не нашёл блаженства в них.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Люби, что хочешь,</plain>
+        </string>
+        <string>
+            <plain>ну а я люблю Христа.</plain>
+        </string>
+        <string>
+            <plain>Он — жизнь моя.</plain>
+        </string>
+        <string>
+            <plain>Люби, что хочешь,</plain>
+        </string>
+        <string>
+            <plain>ну а я люблю Христа,</plain>
+        </string>
+        <string>
+            <plain>Он - цель моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Один Христос - моё богатство,</plain>
+        </string>
+        <string>
+            <plain>как дорог мне Спаситель мой!</plain>
+        </string>
+        <string>
+            <plain>Свой взор к Нему лишь направляю,</plain>
+        </string>
+        <string>
+            <plain>я в Нём нашёл душе покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всё то, что в мире - проходяще,</plain>
+        </string>
+        <string>
+            <plain>и пользы нет от благ плотских;</plain>
+        </string>
+        <string>
+            <plain>и всё, что создано руками,</plain>
+        </string>
+        <string>
+            <plain>погибнуть может в один миг.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Меня над всем возвысить может,</plain>
+        </string>
+        <string>
+            <plain>в борьбе со злом дал благодать;</plain>
+        </string>
+        <string>
+            <plain>сокровищ столько Он дарует,</plain>
+        </string>
+        <string>
+            <plain>что я несказанно богат.</plain>
+        </string>
+    </verse>
+</song>

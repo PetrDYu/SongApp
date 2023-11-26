@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2611" name="В Гефсиманский сад пойди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Гефсиманский сад пойди,</plain>
+        </string>
+        <string>
+            <plain>В искушенье чтоб не впасть,</plain>
+        </string>
+        <string>
+            <plain>На Спасителя гляди, на Его тяжелый час:</plain>
+        </string>
+        <string>
+            <plain>Слушай вздохи, плач и стон.</plain>
+        </string>
+        <string>
+            <plain>Научгись просить, как Он.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В суд неправедный пойди,</plain>
+        </string>
+        <string>
+            <plain>Посмотри, что там творят,</plain>
+        </string>
+        <string>
+            <plain>Как Владыку всей земли</plain>
+        </string>
+        <string>
+            <plain>Люди грешные язвят,</plain>
+        </string>
+        <string>
+            <plain>Больно на Него смотреть.</plain>
+        </string>
+        <string>
+            <plain>Научись, как Он, терпеть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На Голгофу поспеши,</plain>
+        </string>
+        <string>
+            <plain>Новый путь уразумей,</plain>
+        </string>
+        <string>
+            <plain>Агнец Божий на кресте</plain>
+        </string>
+        <string>
+            <plain>Умер в жертву за людей.</plain>
+        </string>
+        <string>
+            <plain>"Совершилось!" - произнес.</plain>
+        </string>
+        <string>
+            <plain>Пострадал за нас Христос!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К гробу новому пойди,</plain>
+        </string>
+        <string>
+            <plain>Где положен был Господь.</plain>
+        </string>
+        <string>
+            <plain>Там лишь плат и пелены,</plain>
+        </string>
+        <string>
+            <plain>А Христа во гробе нет.</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Он смерть попрал.</plain>
+        </string>
+        <string>
+            <plain>Нам путь жизни указал. Аминь.</plain>
+        </string>
+    </verse>
+</song>

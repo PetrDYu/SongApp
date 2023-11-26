@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2728" name="Спаситель путь мне указал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель путь мне указал</plain>
+        </string>
+        <string>
+            <plain>И за Собой повел,</plain>
+        </string>
+        <string>
+            <plain>И зову нежному я внял,</plain>
+        </string>
+        <string>
+            <plain>И за Христом пошел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К Тебе, Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Я прихожу с мольбой,</plain>
+        </string>
+        <string>
+            <plain>Вручаю жизнь мою Тебе,</plain>
+        </string>
+        <string>
+            <plain>И весь навек я Твой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вся жизнь моя текла рекой</plain>
+        </string>
+        <string>
+            <plain>Среди потоков слез,</plain>
+        </string>
+        <string>
+            <plain>Но Ты грехи мои, Христос,</plain>
+        </string>
+        <string>
+            <plain>На крест вознес Собой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Теперь иду я за Христом</plain>
+        </string>
+        <string>
+            <plain>И счастлив я в пути,</plain>
+        </string>
+        <string>
+            <plain>Огонь любви Твоей святой</plain>
+        </string>
+        <string>
+            <plain>Поможет мне идти.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Хвалу Тебе пою</plain>
+        </string>
+        <string>
+            <plain>Я за любовь Твою,</plain>
+        </string>
+        <string>
+            <plain>Что Кровью чистою омыл</plain>
+        </string>
+        <string>
+            <plain>Душу грешную.</plain>
+        </string>
+    </chorus>
+</song>

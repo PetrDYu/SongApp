@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="202" name="Я хочу за Тобою идти," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу за Тобою идти,</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель, куда б Ты ни вел.</plain>
+        </string>
+        <string>
+            <plain>Помоги крест тяжелый нести,</plain>
+        </string>
+        <string>
+            <plain>Чтоб без ропота, радостно шел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Если я упаду на пути,</plain>
+        </string>
+        <string>
+            <plain>Ты простри ко мне руку Свою.</plain>
+        </string>
+        <string>
+            <plain>Помоги за Тобою идти,</plain>
+        </string>
+        <string>
+            <plain>Ведь Тебя я, Спаситель, люблю.</plain>
+        </string>
+        <string>
+            <plain>Помоги за Тобою идти,</plain>
+        </string>
+        <string>
+            <plain>Ведь Тебя я люблю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мне легко за Тобою идти,</plain>
+        </string>
+        <string>
+            <plain>Когда все улыбается мне,</plain>
+        </string>
+        <string>
+            <plain>Но коль скорби придут, помоги</plain>
+        </string>
+        <string>
+            <plain>Мне достичь той небесной страны.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Положиться мне дай на Тебя,</plain>
+        </string>
+        <string>
+            <plain>Твердость веры во мне сохрани.</plain>
+        </string>
+        <string>
+            <plain>Ты страдал на кресте за меня,</plain>
+        </string>
+        <string>
+            <plain>Мне дано часть страданий нести.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но ведь я человек, без Тебя</plain>
+        </string>
+        <string>
+            <plain>Нету силы, я прах пред Тобой.</plain>
+        </string>
+        <string>
+            <plain>Вся надежда моя на Тебя:</plain>
+        </string>
+        <string>
+            <plain>Только Ты – моя радость, покой.</plain>
+        </string>
+    </verse>
+</song>

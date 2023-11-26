@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2891" name="Чудесный Спаситель Христос мой Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чудесный Спаситель - Христос, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>чудесный Спаситель живой!</plain>
+        </string>
+        <string>
+            <plain>В скале благодатной мне отдых даёт,</plain>
+        </string>
+        <string>
+            <plain>там радость и верный покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>не страшно грозы никакой.</plain>
+        </string>
+        <string>
+            <plain>Сокрыл Он меня в Своей вечной любви,</plain>
+        </string>
+        <string>
+            <plain>прикрыл меня нежной рукой,</plain>
+        </string>
+        <string>
+            <plain>прикрыл меня нежной рукой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чудесный Спаситель со мною всегда,</plain>
+        </string>
+        <string>
+            <plain>снимает мучительный гнёт,</plain>
+        </string>
+        <string>
+            <plain>хранит и спасает меня от вреда</plain>
+        </string>
+        <string>
+            <plain>и к славной победе ведёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не счесть Его милостей дивных ко мне,</plain>
+        </string>
+        <string>
+            <plain>безбрежен любви океан.</plain>
+        </string>
+        <string>
+            <plain>Пою пред народом, пою в тишине,</plain>
+        </string>
+        <string>
+            <plain>что дивный Спаситель мне дан.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Одетый в нетленье,</plain>
+        </string>
+        <string>
+            <plain>при звуках трубы,</plain>
+        </string>
+        <string>
+            <plain>я встречу Христа самого:</plain>
+        </string>
+        <string>
+            <plain>за жертву спасенья,</plain>
+        </string>
+        <string>
+            <plain>за всё,  кем Он был</plain>
+        </string>
+        <string>
+            <plain>пред всеми прославлю Его.</plain>
+        </string>
+    </verse>
+</song>

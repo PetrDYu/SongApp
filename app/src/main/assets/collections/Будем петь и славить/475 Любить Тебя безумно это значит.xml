@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="475" name="Любить Тебя безумно это значит" canon="false" text="Е. Гончаровой" textRus="" music="Е. Гончаровой" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Любить Тебя безумно – это значит</plain>
+        </string>
+        <string>
+            <plain>Для мира умереть и про себя забыть,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Когда всех слов Вселенной для Тебя не хватит,</plain>
+        </string>
+        <string>
+            <plain>Когда идти не можешь, хочется парить.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Любить Тебя безумно – значит верить:</plain>
+        </string>
+        <string>
+            <plain>Никто, ничто не в силах разлучить с Тобой.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Любовь безумную ничем нельзя измерить,</plain>
+        </string>
+        <string>
+            <plain>В ней Дух Небесный, вечный, неземной.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любить Тебя безумно – это значит</plain>
+        </string>
+        <string>
+            <plain>Не устрашиться сделать шаг в огонь,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Быть мужественной, когда сердце плачет,</plain>
+        </string>
+        <string>
+            <plain>И не отречься от Тебя, Благой.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

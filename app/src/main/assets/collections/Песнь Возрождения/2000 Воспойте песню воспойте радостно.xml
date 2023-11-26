@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2000" name="Воспойте песню воспойте радостно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспойте песню, воспойте радостно</plain>
+        </string>
+        <string>
+            <plain>Нашему Господу.</plain>
+        </string>
+        <string>
+            <plain>Пойте песню Господу.</plain>
+        </string>
+        <string>
+            <plain>Пойте нашему Спасителю.</plain>
+        </string>
+        <string>
+            <plain>Хвалите Его, Господа;</plain>
+        </string>
+        <string>
+            <plain>Хвалите все. Слава Богу в небесах,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слава вечно Богу и на земле.</plain>
+        </string>
+        <string>
+            <plain>Наш Господь Всемогущий Бог,</plain>
+        </string>
+        <string>
+            <plain>И море и землю Он сотворил,</plain>
+        </string>
+        <string>
+            <plain>И Он создал нас и все живущее.</plain>
+        </string>
+        <string>
+            <plain>Все падем пред нашим Богом и преклонимся,</plain>
+        </string>
+        <string>
+            <plain>Прославим Бога песнопением.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как прекрасно природу Бог сотворил,</plain>
+        </string>
+        <string>
+            <plain>Красотою небесною все озарил,</plain>
+        </string>
+        <string>
+            <plain>И на небе ярко звездочки горят,</plain>
+        </string>
+        <string>
+            <plain>И солнце, и луна блестят.</plain>
+        </string>
+        <string>
+            <plain>Преклонитесь и молитесь Богу!</plain>
+        </string>
+        <string>
+            <plain>Он придет, Господь, Он придет!</plain>
+        </string>
+        <string>
+            <plain>Он нам принесет правду и справедливость!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог еще раз на землю придет,</plain>
+        </string>
+        <string>
+            <plain>Правду и справедливость принесет.</plain>
+        </string>
+        <string>
+            <plain>Хвалите Бога нашего,</plain>
+        </string>
+        <string>
+            <plain>Слава Богу в небесах,</plain>
+        </string>
+        <string>
+            <plain>Слава вечно Богу и на земле.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2608" name="Боже мой на Тебя уповаю всегда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже мой, на Тебя уповаю всегда</plain>
+        </string>
+        <string>
+            <plain>И к Тебе возвожу мои взоры;</plain>
+        </string>
+        <string>
+            <plain>Сохрани Ты меня от неверных суда,</plain>
+        </string>
+        <string>
+            <plain>От людей, что злодействовать скоры.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Укажи мне Твой путь и наставь на стезю,</plain>
+        </string>
+        <string>
+            <plain>Что приводит к общенью с Тобою;</plain>
+        </string>
+        <string>
+            <plain>Возврати в мою грудь мир и радость Твою,</plain>
+        </string>
+        <string>
+            <plain>Дай идти мне дорогой прямою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вспомни милость Твою и щедроты Твои</plain>
+        </string>
+        <string>
+            <plain>И забудь все мои согрешенья!</plain>
+        </string>
+        <string>
+            <plain>Пред Тобою стою, слез горячих ручьи</plain>
+        </string>
+        <string>
+            <plain>Изливают мое сокрушены.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я душой одинок, я разбит, сокрушен,</plain>
+        </string>
+        <string>
+            <plain>С каждым днем мои силы слабеют...</plain>
+        </string>
+        <string>
+            <plain>О, не будь же далек, поспеши на мой стон,</plain>
+        </string>
+        <string>
+            <plain>Поддержи меня правдой Твоею.</plain>
+        </string>
+    </verse>
+</song>

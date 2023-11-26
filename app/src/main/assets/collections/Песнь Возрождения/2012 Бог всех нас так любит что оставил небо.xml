@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2012" name="Бог всех нас так любит что оставил небо" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог всех нас так любит, что оставил небо</plain>
+        </string>
+        <string>
+            <plain>и явился в грешном мире, чтоб людей спасти.</plain>
+        </string>
+        <string>
+            <plain>Чтобы всякий смертный, как бы ни бьл грешен,</plain>
+        </string>
+        <string>
+            <plain>вместо горя, скорби - счастье, радость мог найти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>чтобы быть распятым на древе, за тебя страдать,</plain>
+        </string>
+        <string>
+            <plain>а тебе отдать всю славу и любовь свою,</plain>
+        </string>
+        <string>
+            <plain>навсегда ввести в небесную семью.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Неужели в сердце для Христа нет места,</plain>
+        </string>
+        <string>
+            <plain>неужели не поймет оно его любви?</plain>
+        </string>
+        <string>
+            <plain>Неужель напрасно на кресте том страшном,</plain>
+        </string>
+        <string>
+            <plain>проливал он за тебя поток Святой Крови?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он нас всех так любит, что оставил небо,</plain>
+        </string>
+        <string>
+            <plain>и нет больше той цены, что за тебя Он дал.</plain>
+        </string>
+        <string>
+            <plain>Так приди ж сегодня на призыв Господень,</plain>
+        </string>
+        <string>
+            <plain>отзовись, ведь Он тебя так долго, долго ждал.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="689" name="Пробил уже разлуки час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пробил уже разлуки час,</plain>
+        </string>
+        <string>
+            <plain>Расстаться мы должны;</plain>
+        </string>
+        <string>
+            <plain>О том, как сердце в нас скорбит,</plain>
+        </string>
+        <string>
+            <plain>Ведь знает Бог да мы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Храни Господь твой путь всегда, доколе мы увидимся;</plain>
+        </string>
+        <string>
+            <plain>Храни Господь твой путь всегда, доколе свидимся!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Желанье есть, чтоб вместе жить,</plain>
+        </string>
+        <string>
+            <plain>Льем слезы из очей;</plain>
+        </string>
+        <string>
+            <plain>Но между нами Друг стоит,- Христос –</plain>
+        </string>
+        <string>
+            <plain>Утешитель скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да будет Бог с тобой в пути,</plain>
+        </string>
+        <string>
+            <plain>А также с нами здесь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб всем нам ближе подойти</plain>
+        </string>
+        <string>
+            <plain>К прекрасной родине небес.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пройдет скитанье жизни сей</plain>
+        </string>
+        <string>
+            <plain>И мы оставим мир;</plain>
+        </string>
+        <string>
+            <plain>Господь возьмет нас от скорбей</plain>
+        </string>
+        <string>
+            <plain>В Отцовский дом на вечный пир.</plain>
+        </string>
+    </verse>
+</song>

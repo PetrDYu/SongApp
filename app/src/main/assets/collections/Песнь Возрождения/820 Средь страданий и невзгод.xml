@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="820" name="Средь страданий и невзгод" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Средь страданий и невзгод</plain>
+        </string>
+        <string>
+            <plain>Твой народ, Господь, идет,</plain>
+        </string>
+        <string>
+            <plain>И в последние года</plain>
+        </string>
+        <string>
+            <plain>Он всем сердцем ждет Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, гряди скорей, Господь,</plain>
+        </string>
+        <string>
+            <plain>Моя радость, мой оплот!</plain>
+        </string>
+        <string>
+            <plain>От скорбей возьми меня</plain>
+        </string>
+        <string>
+            <plain>В те чудесные края.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слышны уж Твои шаги,</plain>
+        </string>
+        <string>
+            <plain>О Господь, скорей гряди!</plain>
+        </string>
+        <string>
+            <plain>В мире мрак, вражда и зло,</plain>
+        </string>
+        <string>
+            <plain>Ждем Тебя уже давно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай нам бодрствовать всегда,</plain>
+        </string>
+        <string>
+            <plain>Не уснуть чтоб никогда;</plain>
+        </string>
+        <string>
+            <plain>Сам Своей рукой храни</plain>
+        </string>
+        <string>
+            <plain>И в покой Свой нас введи.</plain>
+        </string>
+    </verse>
+</song>

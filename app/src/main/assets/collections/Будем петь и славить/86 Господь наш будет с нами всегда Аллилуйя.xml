@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="86" name="Господь наш будет с нами всегда Аллилуйя" canon="false" text="В. Шишкарева" textRus="" music="В. Шишкарева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Господь наш будет с нами всегда. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Не иссякнет живая вода. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Грех мира на кресте пригвоздил. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Господь наш зло и смерть победил. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Да любите друг друга, как Я возлюбил вас!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы – ветви, Ты – живая лоза. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Посмотрите друг другу в глаза. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Любите, откройте сердца. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Нашей песне не будет конца. Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

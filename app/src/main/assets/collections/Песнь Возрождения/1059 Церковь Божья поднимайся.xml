@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1059" name="Церковь Божья поднимайся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Церковь Божья, поднимайся!</plain>
+        </string>
+        <string>
+            <plain>К встрече ты приготовляйся.</plain>
+        </string>
+        <string>
+            <plain>Бог готовых лишь возьмет,</plain>
+        </string>
+        <string>
+            <plain>Скоро, скоро Он придет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Моя невеста, ты так устала.</plain>
+        </string>
+        <string>
+            <plain>Страдать так мало тебе осталось.</plain>
+        </string>
+        <string>
+            <plain>Ты потрудись здесь еще немного.</plain>
+        </string>
+        <string>
+            <plain>Там, в небесах, ты отдохнешь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Скоро будет избавленье.</plain>
+        </string>
+        <string>
+            <plain>Только в Боге утешенье!</plain>
+        </string>
+        <string>
+            <plain>О невеста, не страшись.</plain>
+        </string>
+        <string>
+            <plain>Твердо истины держись.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я ведь знаю, ты устала,</plain>
+        </string>
+        <string>
+            <plain>Ты так много пострадала.</plain>
+        </string>
+        <string>
+            <plain>Скоро будет кончен путь,</plain>
+        </string>
+        <string>
+            <plain>Скоро сможешь отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Только в небе будет радость.</plain>
+        </string>
+        <string>
+            <plain>Вкусишь там покоя сладость.</plain>
+        </string>
+        <string>
+            <plain>О невеста, ободрись!</plain>
+        </string>
+        <string>
+            <plain>Встань, для Бога потрудись!</plain>
+        </string>
+    </verse>
+</song>

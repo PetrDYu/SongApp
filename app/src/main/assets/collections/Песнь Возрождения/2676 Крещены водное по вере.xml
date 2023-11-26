@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2676" name="Крещены водное по вере" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Крещены водное по вере</plain>
+        </string>
+        <string>
+            <plain>Во имя Троицы святой,</plain>
+        </string>
+        <string>
+            <plain>Господь, в Твоей любви безмерной</plain>
+        </string>
+        <string>
+            <plain>Благословеньем удостой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рожденные свыше от Духа Святого,</plain>
+        </string>
+        <string>
+            <plain>Крещенные в смерть Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Мы мысли и чувства, и бодрую совесть</plain>
+        </string>
+        <string>
+            <plain>Сегодня, как жертву, несем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отверзи небо силой свыше,</plain>
+        </string>
+        <string>
+            <plain>Творец вселенной, Властелин.</plain>
+        </string>
+        <string>
+            <plain>О дай, чтоб каждый мог услышать,</plain>
+        </string>
+        <string>
+            <plain>Что он возлюбленный Твой сын.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай прикоснуться мне достойно</plain>
+        </string>
+        <string>
+            <plain>К святыням: хлебу и вину,</plain>
+        </string>
+        <string>
+            <plain>Дай вспомнить Твой Голгофский подвиг</plain>
+        </string>
+        <string>
+            <plain>И осознать вину свою.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="235" name="Помоги, Господь, помоги" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Помоги, Господь, помоги!</plain>
+        </string>
+        <string>
+            <plain>Укрепи мой дух, укрепи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>В мире зла я с Тобой не боюсь ничего,</plain>
+        </string>
+        <string>
+            <plain>В мире тьмы с Тобой мне светло.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отойдет весь страх далеко,</plain>
+        </string>
+        <string>
+            <plain>От молитвы станет легко.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На сердца людей всей земли</plain>
+        </string>
+        <string>
+            <plain>Ты излей, Господь, свет любви.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>В мире зла с Тобой будет им легко,</plain>
+        </string>
+        <string>
+            <plain>В мире тьмы им будет светло.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

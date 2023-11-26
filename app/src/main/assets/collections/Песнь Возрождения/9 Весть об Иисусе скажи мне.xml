@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="9" name="Весть об Иисусе скажи мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Весть об Иисусе скажи мне,</plain>
+        </string>
+        <string>
+            <plain>Все расскажи про Него;</plain>
+        </string>
+        <string>
+            <plain>Чудная повесть благая</plain>
+        </string>
+        <string>
+            <plain>Сердцу дороже всего.</plain>
+        </string>
+        <string>
+            <plain>Ангелов песнь повтори мне,</plain>
+        </string>
+        <string>
+            <plain>Песнь о Его рождестве:</plain>
+        </string>
+        <string>
+            <plain>Богу - хваленье на небе,</plain>
+        </string>
+        <string>
+            <plain>Мир и любовь на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Весть об Иисусе скажи мне,</plain>
+        </string>
+        <string>
+            <plain>Все расскажи про Него,</plain>
+        </string>
+        <string>
+            <plain>Чудная повесть благая</plain>
+        </string>
+        <string>
+            <plain>Сердцу дороже всего.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как Он в пустыне постился,</plain>
+        </string>
+        <string>
+            <plain>Как искушаем там был,</plain>
+        </string>
+        <string>
+            <plain>Как претерпел, расскажи мне,</plain>
+        </string>
+        <string>
+            <plain>И как за нас победил.</plain>
+        </string>
+        <string>
+            <plain>Как Он без крова скитался,</plain>
+        </string>
+        <string>
+            <plain>Всем помогал в их нужде;</plain>
+        </string>
+        <string>
+            <plain>Как Он людьми был отвержен,</plain>
+        </string>
+        <string>
+            <plain>В бедности жил и в труде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как ко кресту пригвоздили,</plain>
+        </string>
+        <string>
+            <plain>Как на кресте умирал,</plain>
+        </string>
+        <string>
+            <plain>В гроб как Его положили</plain>
+        </string>
+        <string>
+            <plain>И как из гроба восстал.</plain>
+        </string>
+        <string>
+            <plain>Чудную повесть скажи мне,</plain>
+        </string>
+        <string>
+            <plain>Как Он людей возлюбил;</plain>
+        </string>
+        <string>
+            <plain>Слава вовеки Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Он и мой грех искупил!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="528" name="Мой Господь, в этот час я склоняюсь в мольбе," canon="false" text="В. Кушнир" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Мой Господь, в этот час я склоняюсь в мольбе,</plain>
+        </string>
+        <string>
+            <plain>И все нужды мои приношу я Тебе.</plain>
+        </string>
+        <string>
+            <plain>В жизни бурь и тревог Ты укроешь меня,</plain>
+        </string>
+        <string>
+            <plain>Путь весь знаешь, мой Бог, он не скрыт от Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты, Господь, лишь Ты любовь моя,</plain>
+        </string>
+        <string>
+            <plain>В Тебе укроюсь я, ведь Ты моя защита и опора.</plain>
+        </string>
+        <string>
+            <plain>Ты, Господь, лишь Ты любовь моя,</plain>
+        </string>
+        <string>
+            <plain>Щит мой и скала, ведь Ты моя защита и опора.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не страшна мне с Тобой даже смертная тень,</plain>
+        </string>
+        <string>
+            <plain>Обрету я покой в небе в солнечный день.</plain>
+        </string>
+        <string>
+            <plain>Знаю: слезы мои Ты с любовью отрешь,</plain>
+        </string>
+        <string>
+            <plain>Все ошибки в пути Ты простишь и поймешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А пока на земле буду славить Тебя,</plain>
+        </string>
+        <string>
+            <plain>Буду сердцем я петь, ожидая, любя.</plain>
+        </string>
+        <string>
+            <plain>Знаю: скоро придешь, скоро встречу Тебя,</plain>
+        </string>
+        <string>
+            <plain>Свою Церковь возьмешь от скорбей и от зла.</plain>
+        </string>
+    </verse>
+</song>

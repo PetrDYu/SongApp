@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1450" name="Дорог немало есть но верная одна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дорог немало есть, но верная одна,</plain>
+        </string>
+        <string>
+            <plain>Через Голгофский холм ведет дорога эта,</plain>
+        </string>
+        <string>
+            <plain>Ее не знает мир, она лишь тем видна.</plain>
+        </string>
+        <string>
+            <plain>Кто сердцем осознал смысл Нового Завета.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос - дорога в жизнь, и нет пути другого,</plain>
+        </string>
+        <string>
+            <plain>Все остальные стези ведут лишь в суету;</plain>
+        </string>
+        <string>
+            <plain>Дорога ко Христу - дорога на Голгофу,</plain>
+        </string>
+        <string>
+            <plain>Дорога на Голгофу - дорога ко Христу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Без Бога не блуждать нельзя во тьме мирской,</plain>
+        </string>
+        <string>
+            <plain>Немало есть дорог, которые Голгофу,</plain>
+        </string>
+        <string>
+            <plain>Спускаясь под уклон, обходят стороной.</plain>
+        </string>
+        <string>
+            <plain>Дороги эти - вниз, а верная - на гору.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Коль дорог Иисус, иди скорей к Нему,</plain>
+        </string>
+        <string>
+            <plain>А без Христа душа потерпит катастрофу;</plain>
+        </string>
+        <string>
+            <plain>Неверья путь оставь - уводит он во тьму.</plain>
+        </string>
+        <string>
+            <plain>Дорога верная проходит чрез Голгофу.</plain>
+        </string>
+    </verse>
+</song>

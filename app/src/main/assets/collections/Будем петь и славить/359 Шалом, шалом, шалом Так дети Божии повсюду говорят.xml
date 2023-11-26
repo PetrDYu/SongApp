@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="359" name="Шалом, шалом, шалом Так дети Божии повсюду говорят" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Шалом, шалом, шалом! Так дети Божии повсюду говорят.</plain>
+        </string>
+        <string>
+            <plain>Шалом, шалом, шалом! От сердца мир всем подарить они хотят.</plain>
+        </string>
+        <string>
+            <plain>Шалом, шалом, шалом! С любовью мир они несут во все края.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Шалом алейхем! Мир всем да будет,</plain>
+        </string>
+        <string>
+            <plain>Я миром Божиим приветствую тебя.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Аллилуйя! Ааллилуйя! Шалом алейхем! Мир дал Господь.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Шалом! Аллилуйя! Славен Бог!</plain>
+        </string>
+    </verse>
+</song>

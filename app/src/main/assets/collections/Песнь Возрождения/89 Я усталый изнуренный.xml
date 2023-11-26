@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="89" name="Я усталый изнуренный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я усталый, изнуренный,</plain>
+        </string>
+        <string>
+            <plain>О Господь, к Тебе иду,</plain>
+        </string>
+        <string>
+            <plain>И, грехом обремененный,</plain>
+        </string>
+        <string>
+            <plain>Я к ногам Твоим паду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Господь! К тебе иду я,</plain>
+        </string>
+        <string>
+            <plain>Дух мой слабый оживи!</plain>
+        </string>
+        <string>
+            <plain>И Твой мир святой даруя,</plain>
+        </string>
+        <string>
+            <plain>Укрепи в Твоей любви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я несчастный мира житель,</plain>
+        </string>
+        <string>
+            <plain>Где покой душе найду?</plain>
+        </string>
+        <string>
+            <plain>Я пришел к Тебе, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>От Тебя я не уйду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, утешь мой дух печальный,</plain>
+        </string>
+        <string>
+            <plain>Дай теперь мне отдохнуть;</plain>
+        </string>
+        <string>
+            <plain>Помоги свершить мне дальний</plain>
+        </string>
+        <string>
+            <plain>И тернистый в мире путь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда средь болей жгучих</plain>
+        </string>
+        <string>
+            <plain>Я устану на пути,</plain>
+        </string>
+        <string>
+            <plain>На руках Твоих могучих,</plain>
+        </string>
+        <string>
+            <plain>Верю, будешь Ты нести.</plain>
+        </string>
+    </verse>
+</song>

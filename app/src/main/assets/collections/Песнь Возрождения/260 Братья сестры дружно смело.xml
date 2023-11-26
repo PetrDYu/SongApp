@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="260" name="Братья сестры дружно смело" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Братья, сестры, дружно, смело,</plain>
+        </string>
+        <string>
+            <plain>Как один народ,</plain>
+        </string>
+        <string>
+            <plain>Совершать Господне дело</plain>
+        </string>
+        <string>
+            <plain>Все пойдем вперед!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все вперед идите смело!</plain>
+        </string>
+        <string>
+            <plain>В бой за истину вперед!</plain>
+        </string>
+        <string>
+            <plain>Все вперед на Божье дело!</plain>
+        </string>
+        <string>
+            <plain>Со Христом на труд вперед!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нивы Божьи побелели,</plain>
+        </string>
+        <string>
+            <plain>Нас работа ждет.</plain>
+        </string>
+        <string>
+            <plain>К неземной победной цели</plain>
+        </string>
+        <string>
+            <plain>Все пойдем вперед.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скоро уж настанет время, -</plain>
+        </string>
+        <string>
+            <plain>Наш Господь придет.</plain>
+        </string>
+        <string>
+            <plain>Сеять Божьей правды семя</plain>
+        </string>
+        <string>
+            <plain>Все пойдем вперед.</plain>
+        </string>
+    </verse>
+</song>

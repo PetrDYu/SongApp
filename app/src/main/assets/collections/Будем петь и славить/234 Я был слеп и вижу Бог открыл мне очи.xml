@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="234" name="Я был слеп и вижу Бог открыл мне очи" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я был слеп – и вижу: Бог открыл мне очи!</plain>
+        </string>
+        <string>
+            <plain>Небо стало ближе, и я счастлив очень!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он вчера, сегодня и вовеки Тот же,</plain>
+        </string>
+        <string>
+            <plain>Мне любовь Господня с каждым днем дороже.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я был слеп – и вижу. О, какое счастье!</plain>
+        </string>
+        <string>
+            <plain>Позади обиды, позади ненастья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть смеются люди, что Христу я верю.</plain>
+        </string>
+        <string>
+            <plain>Тем, кто Бога любит, в рай открыты двери.</plain>
+        </string>
+    </verse>
+</song>

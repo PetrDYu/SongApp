@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2848" name="Из тёмной мрачной ночи Бог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Из тёмной, мрачной ночи Бог,</plain>
+        </string>
+        <string>
+            <plain>где под грехом я изнемог,</plain>
+        </string>
+        <string>
+            <plain>мне выйти в вечный свет помог,</plain>
+        </string>
+        <string>
+            <plain>мой путь светом озарил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В свете я Христа,</plain>
+        </string>
+        <string>
+            <plain>петь могу в восторге</plain>
+        </string>
+        <string>
+            <plain>в свете Христа!</plain>
+        </string>
+        <string>
+            <plain>В свете я Христа,</plain>
+        </string>
+        <string>
+            <plain>живу в свете я Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Теперь прошла вся темнота,</plain>
+        </string>
+        <string>
+            <plain>обрёл покой и счастье я;</plain>
+        </string>
+        <string>
+            <plain>и радостью душа полна с тех пор,</plain>
+        </string>
+        <string>
+            <plain>как Иисус мой свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус, как дорог стал ты мне Ты!</plain>
+        </string>
+        <string>
+            <plain>Я жажду лишь в Тебе пребыть и в Слове,</plain>
+        </string>
+        <string>
+            <plain>что велит мне жить во свете Твоём всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь, тебя благодарю,</plain>
+        </string>
+        <string>
+            <plain>Твою лишь волю я творю,</plain>
+        </string>
+        <string>
+            <plain>покой в Тебе лишь нахожу.</plain>
+        </string>
+        <string>
+            <plain>Ты - свет и спасенье мне.</plain>
+        </string>
+    </verse>
+</song>

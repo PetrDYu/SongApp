@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2524" name="О великий Иегова" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О великий Иегова,</plain>
+        </string>
+        <string>
+            <plain>Путь в пустыне освети.</plain>
+        </string>
+        <string>
+            <plain>И усталого, больного</plain>
+        </string>
+        <string>
+            <plain>Пилигрима Сам веди.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хлеб небесный, хлеб небесный</plain>
+        </string>
+        <string>
+            <plain>Дай мне, Боже, душу напитай!</plain>
+        </string>
+        <string>
+            <plain>Дай мне, дай мне, дай мне, дай мне</plain>
+        </string>
+        <string>
+            <plain>Хлеб небесный и им душу укрепляй!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть забот фонтан высокий,</plain>
+        </string>
+        <string>
+            <plain>Даст целительный ручей,</plain>
+        </string>
+        <string>
+            <plain>Пусть горит во тьме глубокой</plain>
+        </string>
+        <string>
+            <plain>Свет Божественных речей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Смерть и ад Христом попраны,</plain>
+        </string>
+        <string>
+            <plain>Небеса хвалой полны;</plain>
+        </string>
+        <string>
+            <plain>Я стою у Иордана</plain>
+        </string>
+        <string>
+            <plain>Обетованной страны.</plain>
+        </string>
+    </verse>
+</song>

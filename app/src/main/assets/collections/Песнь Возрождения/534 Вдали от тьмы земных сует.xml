@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="534" name="Вдали от тьмы земных сует" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вдали от тьмы земных сует</plain>
+        </string>
+        <string>
+            <plain>Есть край, где Божий свет</plain>
+        </string>
+        <string>
+            <plain>Сияет в радостных лучах,</plain>
+        </string>
+        <string>
+            <plain>Где блещет все в цветах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В тот край, в тот край</plain>
+        </string>
+        <string>
+            <plain>Стремлюсь всем сердцем я;</plain>
+        </string>
+        <string>
+            <plain>Нет больше счастья для меня:</plain>
+        </string>
+        <string>
+            <plain>Быть в вечном царстве дня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там вечная любовь царит</plain>
+        </string>
+        <string>
+            <plain>И верных веселит;</plain>
+        </string>
+        <string>
+            <plain>Там жизни вечная весна</plain>
+        </string>
+        <string>
+            <plain>Христом озарена.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там туч на своде неба нет,</plain>
+        </string>
+        <string>
+            <plain>Там буря не грозит;</plain>
+        </string>
+        <string>
+            <plain>Забыто зло житейских бед,</plain>
+        </string>
+        <string>
+            <plain>Не льет слеза с ланит.</plain>
+        </string>
+    </verse>
+</song>

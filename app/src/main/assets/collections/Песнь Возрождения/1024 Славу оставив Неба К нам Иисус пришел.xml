@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1024" name="Славу оставив Неба К нам Иисус пришел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Славу оставив Неба,</plain>
+        </string>
+        <string>
+            <plain>К нам Иисус пришел,</plain>
+        </string>
+        <string>
+            <plain>Смертью Своей спасенье</plain>
+        </string>
+        <string>
+            <plain>Нам приобрел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За грешных нас страдал Христос.</plain>
+        </string>
+        <string>
+            <plain>Нас любя, Он в жертву Сам Себя принес.</plain>
+        </string>
+        <string>
+            <plain>Мы спасены от власти тьмы -</plain>
+        </string>
+        <string>
+            <plain>Небо нам открыл страданьями Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Счастливы и свободны</plain>
+        </string>
+        <string>
+            <plain>Мы чрез Него теперь.</plain>
+        </string>
+        <string>
+            <plain>В царство Отца на небе</plain>
+        </string>
+        <string>
+            <plain>Открыта дверь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Следуя за Иисусом,</plain>
+        </string>
+        <string>
+            <plain>Неба достигнем мы.</plain>
+        </string>
+        <string>
+            <plain>Спасшему нас, там славу</plain>
+        </string>
+        <string>
+            <plain>Мы воздадим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К небу дверь всем открыта.</plain>
+        </string>
+        <string>
+            <plain>Друг мой, вошел ли ты?</plain>
+        </string>
+        <string>
+            <plain>Грешник, пока не поздно.</plain>
+        </string>
+        <string>
+            <plain>Скорей войди!</plain>
+        </string>
+    </verse>
+</song>

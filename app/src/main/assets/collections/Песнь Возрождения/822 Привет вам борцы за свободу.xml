@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="822" name="Привет вам борцы за свободу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Привет, вам, борцы за свободу,</plain>
+        </string>
+        <string>
+            <plain>Сердечный вам братский привет!</plain>
+        </string>
+        <string>
+            <plain>С любовью несли вы народу</plain>
+        </string>
+        <string>
+            <plain>Евангельской истины свет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тернистой и узкой тропою,</plain>
+        </string>
+        <string>
+            <plain>Встречая немало преград,</plain>
+        </string>
+        <string>
+            <plain>Вы шли со смиренной душою,</plain>
+        </string>
+        <string>
+            <plain>Не смея вернуться назад.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вы в ссылках и тюрьмах страдали,</plain>
+        </string>
+        <string>
+            <plain>Изведавши узы цепей,</plain>
+        </string>
+        <string>
+            <plain>Вы много скорбей испытали</plain>
+        </string>
+        <string>
+            <plain>От гордых, коварных людей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Безропотно вы умирали,</plain>
+        </string>
+        <string>
+            <plain>Молили Отца за врагов,</plain>
+        </string>
+        <string>
+            <plain>Вас многие братья встречали</plain>
+        </string>
+        <string>
+            <plain>Там, в вечном блаженстве святом.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мы вас никогда не забудем,</plain>
+        </string>
+        <string>
+            <plain>Борцы за свободу Христа!</plain>
+        </string>
+        <string>
+            <plain>Мы чтим вашу память и будем,</plain>
+        </string>
+        <string>
+            <plain>Как вы, жить во славу Христа.</plain>
+        </string>
+    </verse>
+</song>

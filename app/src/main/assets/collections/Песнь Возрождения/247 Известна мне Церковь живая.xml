@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="247" name="Известна мне Церковь живая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Известна мне Церковь живая,</plain>
+        </string>
+        <string>
+            <plain>Где сердцу отрадно так быть.</plain>
+        </string>
+        <string>
+            <plain>Христову любовь воспевая,</plain>
+        </string>
+        <string>
+            <plain>В ней жажду Его я хвалить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О друг, иди в Церковь живую!</plain>
+        </string>
+        <string>
+            <plain>Храм Божий и ты в ней найдешь;</plain>
+        </string>
+        <string>
+            <plain>На грудь Иисуса святую</plain>
+        </string>
+        <string>
+            <plain>Повергнись и мир обретешь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Известна ль вам Церковь живая,</plain>
+        </string>
+        <string>
+            <plain>К которой так сердце влечет?</plain>
+        </string>
+        <string>
+            <plain>Там к небу молитва святая</plain>
+        </string>
+        <string>
+            <plain>Горячим потоком течет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О странник! Ты знаешь, что миром</plain>
+        </string>
+        <string>
+            <plain>От Церкви той веет всегда;</plain>
+        </string>
+        <string>
+            <plain>Никто там не чувствует сирым,</plain>
+        </string>
+        <string>
+            <plain>Забытым себя никогда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ведь Церковь есть неба преддверье,</plain>
+        </string>
+        <string>
+            <plain>В ней милости Божьей престол;</plain>
+        </string>
+        <string>
+            <plain>Я был исцелен от неверья,</plain>
+        </string>
+        <string>
+            <plain>Как в Церковь Христову вошел.</plain>
+        </string>
+    </verse>
+</song>

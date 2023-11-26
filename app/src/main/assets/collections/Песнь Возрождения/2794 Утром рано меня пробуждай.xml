@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2794" name="Утром рано меня пробуждай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Утром рано меня пробуждай,</plain>
+        </string>
+        <string>
+            <plain>Чтобы встретил Тебя я с хвалой,</plain>
+        </string>
+        <string>
+            <plain>Вспоминая потерянный рай,</plain>
+        </string>
+        <string>
+            <plain>Прежде света земного с зарей...</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Утром рано меня пробуждай,</plain>
+        </string>
+        <string>
+            <plain>Гласом трубным, родным для души,</plain>
+        </string>
+        <string>
+            <plain>Чтоб, забывши о времени, встал</plain>
+        </string>
+        <string>
+            <plain>И прославил Тебя средь тиши!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Утром рано меня пробуждай,</plain>
+        </string>
+        <string>
+            <plain>Чтоб с росой, нисходящей с небес,</plain>
+        </string>
+        <string>
+            <plain>Мог обресть я Твою благодать,</plain>
+        </string>
+        <string>
+            <plain>Приносящую радость чудес!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Утром рано меня пробуждай,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в горе и тяжкой нужде</plain>
+        </string>
+        <string>
+            <plain>Мог я сил у Тебя почерпнуть,</plain>
+        </string>
+        <string>
+            <plain>Дабы быть Тебе верным в труде.</plain>
+        </string>
+    </verse>
+</song>

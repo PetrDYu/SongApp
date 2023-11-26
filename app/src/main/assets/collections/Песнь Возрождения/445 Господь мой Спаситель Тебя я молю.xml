@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="445" name="Господь мой Спаситель Тебя я молю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, мой Спаситель, Тебя я молю,</plain>
+        </string>
+        <string>
+            <plain>Твоей омой кровию душу мою.</plain>
+        </string>
+        <string>
+            <plain>Мне чистое  сердце пошли от Тебя</plain>
+        </string>
+        <string>
+            <plain>И снега белее соделай меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Снега белей, да, снега белей;</plain>
+        </string>
+        <string>
+            <plain>Омой меня, стану я снега белей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, мой Спаситель, внемли Ты мольбе</plain>
+        </string>
+        <string>
+            <plain>И Сам освяти меня в жертву Себе.</plain>
+        </string>
+        <string>
+            <plain>Всецело Тебе отдаю я себя.</plain>
+        </string>
+        <string>
+            <plain>Ах, снега белее соделай меня!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И с верою я принимаю Твой дар;</plain>
+        </string>
+        <string>
+            <plain>Очищено сердце любовью Твоей.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, молитве Спаситель мой внял</plain>
+        </string>
+        <string>
+            <plain>И сделал нечистое снега белей.</plain>
+        </string>
+    </verse>
+</song>

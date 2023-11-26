@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1012" name="Свято чтим мы это место" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свято чтим мы это место.</plain>
+        </string>
+        <string>
+            <plain>Где собрались мы опять.</plain>
+        </string>
+        <string>
+            <plain>Дай нам искренно всем вместе</plain>
+        </string>
+        <string>
+            <plain>Слово истины принять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приходи, приходи, приходи в Господень храм.</plain>
+        </string>
+        <string>
+            <plain>Приходи, приходи, приходи в Господень храм.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Здесь молитвы, песнопенья</plain>
+        </string>
+        <string>
+            <plain>Возношу к престолу я.</plain>
+        </string>
+        <string>
+            <plain>Исчезают все сомненья,</plain>
+        </string>
+        <string>
+            <plain>Вера ввысь влечет меня.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>В оный день грядущий славный,</plain>
+        </string>
+        <string>
+            <plain>Боже, Ты прими меня!</plain>
+        </string>
+        <string>
+            <plain>От забот тогда свободный,</plain>
+        </string>
+        <string>
+            <plain>Буду прославлять Тебя!</plain>
+        </string>
+    </chorus>
+</song>

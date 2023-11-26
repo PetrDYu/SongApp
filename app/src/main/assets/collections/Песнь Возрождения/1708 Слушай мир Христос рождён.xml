@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1708" name="Слушай мир Христос рождён" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слушай, мир, Христос рождён,</plain>
+        </string>
+        <string>
+            <plain>В бедных яслях помещен...</plain>
+        </string>
+        <string>
+            <plain>Это чудо из чудес, пойте, жители небес,</plain>
+        </string>
+        <string>
+            <plain>Вторьте, люди и Земля, милость Господа хваля.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слава Богу в небесах,</plain>
+        </string>
+        <string>
+            <plain>Мир творит Господь в сердцах</plain>
+        </string>
+        <string>
+            <plain>Божий Сын, оставив трон,</plain>
+        </string>
+        <string>
+            <plain>в мир страдать за нас пришёл,</plain>
+        </string>
+        <string>
+            <plain>Преклонившись перед Ним,</plain>
+        </string>
+        <string>
+            <plain>славу Богу воздадим...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Аллилуйя, Сын рождён,</plain>
+        </string>
+        <string>
+            <plain>в Человека воплощён,</plain>
+        </string>
+        <string>
+            <plain>Божий план осуществлён,</plain>
+        </string>
+        <string>
+            <plain>Иисусом наречён.</plain>
+        </string>
+        <string>
+            <plain>В сердце ты впусти Христа,</plain>
+        </string>
+        <string>
+            <plain>в Нём спасенья полнота.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2077" name="Где же мой блудный сын теперь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где же мой блудный сын теперь?</plain>
+        </string>
+        <string>
+            <plain>Я его всей душой люблю.</plain>
+        </string>
+        <string>
+            <plain>Надеждой и радостью он был,</plain>
+        </string>
+        <string>
+            <plain>О нём я Творца молю.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, где же мой сын теперь?</plain>
+        </string>
+        <string>
+            <plain>О, где же мой сын теперь?</plain>
+        </string>
+        <string>
+            <plain>О нём скорблю, ведь я его люблю...</plain>
+        </string>
+        <string>
+            <plain>О, где же мой сын теперь?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В детстве он чист бьи, как роса,</plain>
+        </string>
+        <string>
+            <plain>И молился всегда со мной.</plain>
+        </string>
+        <string>
+            <plain>В наш дом нисходили небеса,</plain>
+        </string>
+        <string>
+            <plain>Прекрасен он бьи душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сын мой, увижу ль я тебя</plain>
+        </string>
+        <string>
+            <plain>Таким приятным, как в годы те,</plain>
+        </string>
+        <string>
+            <plain>Когда весь наш дом ты оживлял</plain>
+        </string>
+        <string>
+            <plain>И радостным был везде?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто же, о, кто же за ним пойдёт</plain>
+        </string>
+        <string>
+            <plain>И домой возвратит его?</plain>
+        </string>
+        <string>
+            <plain>Каким бы он ни был, пусть придёт,</plain>
+        </string>
+        <string>
+            <plain>Я жду, я люблю его.</plain>
+        </string>
+    </verse>
+</song>

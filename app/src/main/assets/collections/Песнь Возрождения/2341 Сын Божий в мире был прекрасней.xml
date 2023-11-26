@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2341" name="Сын Божий в мире был прекрасней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сын Божий в мире был прекрасней</plain>
+        </string>
+        <string>
+            <plain>Всех человеческих сынов.</plain>
+        </string>
+        <string>
+            <plain>Моя вина, палач ужасный,</plain>
+        </string>
+        <string>
+            <plain>Обезобразила чело.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он за грехи мои изъязвлен был,</plain>
+        </string>
+        <string>
+            <plain>И ранами Его я исцелён.</plain>
+        </string>
+        <string>
+            <plain>Я буду петь хвалу, доколе жив.</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Навеки я спасён!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Глава терновником увита,</plain>
+        </string>
+        <string>
+            <plain>И по лицу струится кровь.</plain>
+        </string>
+        <string>
+            <plain>О, грешники, остановитесь,</plain>
+        </string>
+        <string>
+            <plain>Вы распинаете Любовь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Свершился план-предначертанье</plain>
+        </string>
+        <string>
+            <plain>Предвечной мудрости Творца:</plain>
+        </string>
+        <string>
+            <plain>Спасение ценой страданий,</plain>
+        </string>
+        <string>
+            <plain>Прощены кровию Христа.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2598" name="Когда Боже в тиши Я Тебя призываю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда, Боже, в тиши Я Тебя призываю,</plain>
+        </string>
+        <string>
+            <plain>Духом ты осени Все сильней и сильней.</plain>
+        </string>
+        <string>
+            <plain>Светом Ты озари, Удали все печали,</plain>
+        </string>
+        <string>
+            <plain>В сердце радость вдохни И меня оживи.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В этом мире земном Не нашел я отрады,</plain>
+        </string>
+        <string>
+            <plain>Счастья нету мне в нем, Счастья нету земли.</plain>
+        </string>
+        <string>
+            <plain>Суетой переполнен Мир бездарный, несчастный,</plain>
+        </string>
+        <string>
+            <plain>Злобой дышит кругом, Счастье только в Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже, шествую я По следам Твоей правды,</plain>
+        </string>
+        <string>
+            <plain>Много пролил я слез О Тебе, мой Христос.</plain>
+        </string>
+        <string>
+            <plain>Сердце плачет в груди От бесчестной неправды,</plain>
+        </string>
+        <string>
+            <plain>Перестанет рыдать Лишь с Тобой, мой Христос.</plain>
+        </string>
+    </verse>
+</song>

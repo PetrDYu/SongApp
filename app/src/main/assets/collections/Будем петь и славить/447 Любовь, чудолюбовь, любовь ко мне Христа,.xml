@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="447" name="Любовь, чудолюбовь, любовь ко мне Христа," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Любовь, чудо-любовь, любовь ко мне Христа,</plain>
+        </string>
+        <string>
+            <plain>Любовь, чудо-любовь крепка, нежна, чиста.</plain>
+        </string>
+        <string>
+            <plain>Глубже всех океанов, шире, шире морей,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Выше, выше небес надо мной Его любовь ко мне.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Любовь, чудо-любовь, любовь к тебе Христа,</plain>
+        </string>
+        <string>
+            <plain>Любовь, чудо-любовь крепка, нежна, чиста.</plain>
+        </string>
+        <string>
+            <plain>Глубже всех океанов, шире, шире морей,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Выше, выше небес над тобой Его любовь к тебе.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

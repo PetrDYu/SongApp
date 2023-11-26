@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="415" name="Все вы во Христа крестившиеся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все вы,</plain>
+        </string>
+        <string>
+            <plain>во Христа крестившиеся,</plain>
+        </string>
+        <string>
+            <plain>во Христа облеклись.</plain>
+        </string>
+    </verse>
+</song>

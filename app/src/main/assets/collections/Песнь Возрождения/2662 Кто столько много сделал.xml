@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2662" name="Кто столько много сделал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто столько много сделал,</plain>
+        </string>
+        <string>
+            <plain>Кто тихо-тихо пел,</plain>
+        </string>
+        <string>
+            <plain>Страданье, горе, беды</plain>
+        </string>
+        <string>
+            <plain>С любовью кто терпел?</plain>
+        </string>
+        <string>
+            <plain>Лишь ты, родная мама,</plain>
+        </string>
+        <string>
+            <plain>Одна могла так жить,</plain>
+        </string>
+        <string>
+            <plain>Для Божьей вечной славы</plain>
+        </string>
+        <string>
+            <plain>Всех деток возрастать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мамочка, о, мамочка,</plain>
+        </string>
+        <string>
+            <plain>Пусть Бог тебе за все воздаст,</plain>
+        </string>
+        <string>
+            <plain>Пусть там, в краю небесном,</plain>
+        </string>
+        <string>
+            <plain>Венец тебе даст золотой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В скорбях, лишеньях тяжких</plain>
+        </string>
+        <string>
+            <plain>Могла ты устоять.</plain>
+        </string>
+        <string>
+            <plain>И показала нам ты,</plain>
+        </string>
+        <string>
+            <plain>Как нужно путь свершать.</plain>
+        </string>
+        <string>
+            <plain>В болезнях кто помог нам</plain>
+        </string>
+        <string>
+            <plain>С слезами на глазах</plain>
+        </string>
+        <string>
+            <plain>В молитве к Богу славы,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Он внимал словам?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И чем же заслужили</plain>
+        </string>
+        <string>
+            <plain>Любви твоей такой,</plain>
+        </string>
+        <string>
+            <plain>И как нам жить придется</plain>
+        </string>
+        <string>
+            <plain>Без мамочки родной?</plain>
+        </string>
+        <string>
+            <plain>Прости нам, дорогая,</plain>
+        </string>
+        <string>
+            <plain>Что огорчали мы,</plain>
+        </string>
+        <string>
+            <plain>И верь, мы не забудем</plain>
+        </string>
+        <string>
+            <plain>Тебя все жизни дни.</plain>
+        </string>
+    </verse>
+</song>

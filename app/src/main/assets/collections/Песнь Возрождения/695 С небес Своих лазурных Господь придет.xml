@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="695" name="С небес Своих лазурных Господь придет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С небес Своих лазурных Господь придет;</plain>
+        </string>
+        <string>
+            <plain>Не спящих нас, а бодрых пусть Он найдет!</plain>
+        </string>
+        <string>
+            <plain>Светильники горящи в наших руках,</plain>
+        </string>
+        <string>
+            <plain>Любовь и ожиданье в наших сердцах!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все радости даруя, Господь придет!</plain>
+        </string>
+        <string>
+            <plain>Все небо "Аллилуйя!" Ему поет.</plain>
+        </string>
+        <string>
+            <plain>Земля вся обновится вечной красой</plain>
+        </string>
+        <string>
+            <plain>И славой озарится Его святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Забудем дни ненастья, Господь придет!</plain>
+        </string>
+        <string>
+            <plain>Настанет мир и счастье, Господь придет!</plain>
+        </string>
+        <string>
+            <plain>Исчезнут все сомненья, Господь придет!</plain>
+        </string>
+        <string>
+            <plain>И слезы и томленья, Господь придет!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он знает, как устали мы на пути,</plain>
+        </string>
+        <string>
+            <plain>Как редко отдыхали, свой крест несли;</plain>
+        </string>
+        <string>
+            <plain>Он снимет наше бремя, когда придет,</plain>
+        </string>
+        <string>
+            <plain>Близко блаженства время, Господь придет!</plain>
+        </string>
+    </verse>
+</song>

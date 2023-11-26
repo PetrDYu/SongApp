@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3231" name="Возьми же мои руки и Сам веди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возьми же мои руки и Сам веди</plain>
+        </string>
+        <string>
+            <plain>отныне и вовеки на всём пути.</plain>
+        </string>
+        <string>
+            <plain>Я сам идти по жизни здесь не могу,</plain>
+        </string>
+        <string>
+            <plain>но если Ты со мною, то я пойду.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Твою дай брать мне силу на всех путях,</plain>
+        </string>
+        <string>
+            <plain>даруй мне утешенье во всех скорбях.</plain>
+        </string>
+        <string>
+            <plain>У ног Твоих найду я душе покой,</plain>
+        </string>
+        <string>
+            <plain>всецело доверяя, пойду с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть силы ослабели, не виден свет</plain>
+        </string>
+        <string>
+            <plain>- Ты доведёшь до цели чрез тьму всех бед.</plain>
+        </string>
+        <string>
+            <plain>Возьми же мои руки и Сам веди</plain>
+        </string>
+        <string>
+            <plain>отныне и вовеки на всём пути.</plain>
+        </string>
+    </verse>
+</song>

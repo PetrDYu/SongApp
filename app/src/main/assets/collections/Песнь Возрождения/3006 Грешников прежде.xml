@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3006" name="Грешников прежде" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешников прежде</plain>
+        </string>
+        <string>
+            <plain>Иисус наш спасал</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+        <string>
+            <plain>Страждущим мир</plain>
+        </string>
+        <string>
+            <plain>и покой Он давал</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ныне Иисус</plain>
+        </string>
+        <string>
+            <plain>(да, ныне Иисус)</plain>
+        </string>
+        <string>
+            <plain>тот же, что был,</plain>
+        </string>
+        <string>
+            <plain>(тот же, что был),</plain>
+        </string>
+        <string>
+            <plain>да, тот же самый Он!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Другом Он был</plain>
+        </string>
+        <string>
+            <plain>для забытых в беде</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+        <string>
+            <plain>Многих спасал Он</plain>
+        </string>
+        <string>
+            <plain>в смертельной борьбе</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Много больных</plain>
+        </string>
+        <string>
+            <plain>Иисус исцелял</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+        <string>
+            <plain>Всем, кто к Нему</plain>
+        </string>
+        <string>
+            <plain>приходил, помогал</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он был скалой тем,</plain>
+        </string>
+        <string>
+            <plain>кто строил на Нём,</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+        <string>
+            <plain>Кто Ему верил,</plain>
+        </string>
+        <string>
+            <plain>не был посрамлён,</plain>
+        </string>
+        <string>
+            <plain>- тот же и ныне Он!</plain>
+        </string>
+    </verse>
+</song>

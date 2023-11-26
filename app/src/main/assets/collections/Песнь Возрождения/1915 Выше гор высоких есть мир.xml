@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1915" name="Выше гор высоких есть мир" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Выше гор высоких есть мир.</plain>
+        </string>
+        <string>
+            <plain>В селеньях Божьих есть покой;</plain>
+        </string>
+        <string>
+            <plain>Вечный покой.</plain>
+        </string>
+        <string>
+            <plain>Там вечный мир льется рекою.</plain>
+        </string>
+        <string>
+            <plain>Подожди, Скоро ты будешь там.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2117" name="Если тяжесть давит на земном пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если тяжесть давит на земном пути,</plain>
+        </string>
+        <string>
+            <plain>Трудно в гору круто вверх тебе идти,</plain>
+        </string>
+        <string>
+            <plain>Помни, что Спаситель Сам тебя ведёт,</plain>
+        </string>
+        <string>
+            <plain>Силу, помощь Он, как обещал, даёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Шествуй бодро, шествуй бодро дальше,</plain>
+        </string>
+        <string>
+            <plain>К Родине святой.</plain>
+        </string>
+        <string>
+            <plain>Скоро уж достигнем цели мы своей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Станет пусто, хмуро и темно кругом,</plain>
+        </string>
+        <string>
+            <plain>И лукавым больно ранен ты врагом.</plain>
+        </string>
+        <string>
+            <plain>Доверяй Вождю, ведь Он всегда с тобой,</plain>
+        </string>
+        <string>
+            <plain>Верны м Он путём ведёт тебя домой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Болен ли, уныл, готов ли утонуть,</plain>
+        </string>
+        <string>
+            <plain>Ни одной звезды нет, чтоб осветить твой путь,</plain>
+        </string>
+        <string>
+            <plain>Верь Спасителю, что этим Он путём</plain>
+        </string>
+        <string>
+            <plain>Верно приведёт в Свой Отчий дом.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="133" name="Велики и чудны дела Твои, Господи, Боже Вседержитель" canon="false" text="В. Коропа" textRus="" music="В. Коропа" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Велики и чудны дела Твои, Господи, Боже Вседержитель!</plain>
+        </string>
+        <string>
+            <plain>Праведны и истинны пути Твои, Царь святых!</plain>
+        </string>
+        <string>
+            <plain>Кто не убоится, не прославит Тебя, ибо Ты един свят!</plain>
+        </string>
+        <string>
+            <plain>Все народы поклонятся пред Тобой, ибо Ты един свят!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Свят, свят, ибо Ты един свят.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

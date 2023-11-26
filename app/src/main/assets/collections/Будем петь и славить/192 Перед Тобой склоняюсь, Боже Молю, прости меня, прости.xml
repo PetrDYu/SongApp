@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="192" name="Перед Тобой склоняюсь, Боже Молю, прости меня, прости" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Перед Тобой склоняюсь, Боже. Молю, прости меня, прости.</plain>
+        </string>
+        <string>
+            <plain>Теперь я понял, что дороже Тебя в сем мире не найти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Прости за то, что мало веры имею я на сей земле.</plain>
+        </string>
+        <string>
+            <plain>Прости, что сердце огрубело в тяжелой жизненной борьбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прости, что слезы раскаянья так редко застилают взор.</plain>
+        </string>
+        <string>
+            <plain>Даруй мне сильное желанье забыть скитаний всех позор.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Даруй, чтоб колос веры твердой возрос в душе моей больной</plain>
+        </string>
+        <string>
+            <plain>И чтоб смирился дух мой гордый перед Тобой, перед Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, уврачуй мне сердца раны своей могучею рукой,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пересмотри все жизни планы и дай мне радость и покой.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

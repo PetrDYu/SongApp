@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2632" name="На землю спускаются тени" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На землю спускаются тени,</plain>
+        </string>
+        <string>
+            <plain>И светлый окончился день.</plain>
+        </string>
+        <string>
+            <plain>В молитве склоняю колени,</plain>
+        </string>
+        <string>
+            <plain>Забыв про усталость и лень.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И, детской молитве внимая,</plain>
+        </string>
+        <string>
+            <plain>Господь посылает покой.</plain>
+        </string>
+        <string>
+            <plain>Пусть ночь за окном обнимает</plain>
+        </string>
+        <string>
+            <plain>Просторы могучей рукой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ни страхи, ночные, ни тени</plain>
+        </string>
+        <string>
+            <plain>- Ничто не нарушит мой сон.</plain>
+        </string>
+        <string>
+            <plain>Молитву мою, без сомненья,</plain>
+        </string>
+        <string>
+            <plain>Я верю, что слушает Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На землю спустилися тени,</plain>
+        </string>
+        <string>
+            <plain>Всё мирно уснуло в тиши.</plain>
+        </string>
+        <string>
+            <plain>Пред Богом склоняю колени</plain>
+        </string>
+        <string>
+            <plain>В объятьях ночной тишины.</plain>
+        </string>
+    </verse>
+</song>

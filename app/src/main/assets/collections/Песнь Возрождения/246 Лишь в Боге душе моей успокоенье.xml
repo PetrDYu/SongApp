@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="246" name="Лишь в Боге душе моей успокоенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лишь в Боге душе моей успокоенье,</plain>
+        </string>
+        <string>
+            <plain>Лишь Он мир дарует ей и утешенье.</plain>
+        </string>
+        <string>
+            <plain>Скала и опора мне - я в Нем покоюсь,</plain>
+        </string>
+        <string>
+            <plain>Пусть буря грозит душе - в Христе укроюсь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Спасенья оплот святой - мне защищенье;</plain>
+        </string>
+        <string>
+            <plain>В Нем счастлив средь бури злой, средь тьмы волненья,</plain>
+        </string>
+        <string>
+            <plain>Хоть ищут все духи зла тот мир встревожить,</plain>
+        </string>
+        <string>
+            <plain>В Нем силу душа нашла, Он превозможет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Блаженный приют душе у ног Иисуса;</plain>
+        </string>
+        <string>
+            <plain>Сомненья не страшны мне, к Нему стремлюся.</plain>
+        </string>
+        <string>
+            <plain>Покой я душе нашел, - Христос мне счастье,</plain>
+        </string>
+        <string>
+            <plain>В любви Его мир обрел среди ненастья.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3028" name="Про милость и суд петь я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Про милость и суд петь я</plain>
+        </string>
+        <string>
+            <plain>буду и Господа благодарить;</plain>
+        </string>
+        <string>
+            <plain>Хвалить Иисуса хочу я</plain>
+        </string>
+        <string>
+            <plain>за все, что во мне Он творит!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я славу Христу от сердца</plain>
+        </string>
+        <string>
+            <plain>пою за верность Его,</plain>
+        </string>
+        <string>
+            <plain>что я получил от Него!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я славлю Его за спасенье,</plain>
+        </string>
+        <string>
+            <plain>за то, что меня Он нашел;</plain>
+        </string>
+        <string>
+            <plain>простил все мои согрешенья,</plain>
+        </string>
+        <string>
+            <plain>на путь благодати привел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За Библию Бога я славлю,</plain>
+        </string>
+        <string>
+            <plain>за Слово с небесных высот;</plain>
+        </string>
+        <string>
+            <plain>что учит от зла удаляться</plain>
+        </string>
+        <string>
+            <plain>и к цели небесной ведет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть бури нередко бушуют</plain>
+        </string>
+        <string>
+            <plain>и дьявол подходит ко мне,</plain>
+        </string>
+        <string>
+            <plain>на небо я с верой взираю,</plain>
+        </string>
+        <string>
+            <plain>и Бог дает помощь в борьбе.</plain>
+        </string>
+    </verse>
+</song>

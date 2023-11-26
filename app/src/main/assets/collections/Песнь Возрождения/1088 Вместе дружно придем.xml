@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1088" name="Вместе дружно придем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вместе дружно придем,</plain>
+        </string>
+        <string>
+            <plain>Хвалу Богу споем.</plain>
+        </string>
+        <string>
+            <plain>Вместе дружно придем,</plain>
+        </string>
+        <string>
+            <plain>И услышат все!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Совершим большие дела,</plain>
+        </string>
+        <string>
+            <plain>И надежда станет светла.</plain>
+        </string>
+        <string>
+            <plain>Вместе дружно придем,</plain>
+        </string>
+        <string>
+            <plain>Хвалу Богу споем!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="404" name="Живой, живой, живой, всегда живой," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Живой, живой, живой, всегда живой,</plain>
+        </string>
+        <string>
+            <plain>О, Иисус живой, Господь всегда со мной.</plain>
+        </string>
+        <string>
+            <plain>Живой, живой, живой, всегда живой,</plain>
+        </string>
+        <string>
+            <plain>О, Иисус живой.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пой</plain>
+        </string>
+        <string>
+            <plain>Пой: Иисус живой, всегда живой!</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Пой</plain>
+        </string>
+        <string>
+            <plain>Пой: Иисус живой!</plain>
+        </string>
+    </verse>
+</song>

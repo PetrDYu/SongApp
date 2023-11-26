@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2112" name="Если будут скорби знаю лишь одно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если будут скорби, знаю лишь одно:</plain>
+        </string>
+        <string>
+            <plain>Все равно мне нужно славить Господа моего.</plain>
+        </string>
+        <string>
+            <plain>Мне трудно, но пусть никогда</plain>
+        </string>
+        <string>
+            <plain>Не умолкает Богу хвала.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Тебе пою,</plain>
+        </string>
+        <string>
+            <plain>С пеньем славы в Твой храм войду.</plain>
+        </string>
+        <string>
+            <plain>Буду вечно я петь Тебе</plain>
+        </string>
+        <string>
+            <plain>Там, на небесах, и здесь на земле.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус, я знаю, не дашь Ты свыше сил,</plain>
+        </string>
+        <string>
+            <plain>Верю, Твоё слово мне путь осветит.</plain>
+        </string>
+        <string>
+            <plain>Дай мне помнить, что любишь меня,</plain>
+        </string>
+        <string>
+            <plain>Не покинешь в беде никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже мой, Ты видишь, как тяжело идти,</plain>
+        </string>
+        <string>
+            <plain>Всюду эти скорби, как ураган в пути.</plain>
+        </string>
+        <string>
+            <plain>Я не знаю, куда мне идти;</plain>
+        </string>
+        <string>
+            <plain>Кто мне поможет, если не Ты?</plain>
+        </string>
+    </verse>
+</song>

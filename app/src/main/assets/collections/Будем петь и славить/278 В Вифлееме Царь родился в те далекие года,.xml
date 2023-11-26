@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="278" name="В Вифлееме Царь родился в те далекие года," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В Вифлееме Царь родился в те далекие года,</plain>
+        </string>
+        <string>
+            <plain>К нам на землю Бог явился, и зажглась Его звезда.</plain>
+        </string>
+        <string>
+            <plain>Пастухов, стада пасущих, свет великий осиял,</plain>
+        </string>
+        <string>
+            <plain>И тогда, идя в пещеру, каждый Бога прославлял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гори звезда, всегда гори, и светом новым озари</plain>
+        </string>
+        <string>
+            <plain>Тех, кто блуждает в темноте, – пусть весть услышат</plain>
+        </string>
+        <string>
+            <plain>о Христе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мудрецы, звезду увидев, в Вифлеем к Царю пошли,</plain>
+        </string>
+        <string>
+            <plain>На колени пред Ним пали и подарки принесли.</plain>
+        </string>
+        <string>
+            <plain>И теперь она сияет, Вифлеемская звезда,</plain>
+        </string>
+        <string>
+            <plain>Многие о ней узнают и поверят во Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Много звезд на небе светит, только светит всех сильней</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Та звезда, что возвестила Рождество Царя царей.</plain>
+        </string>
+        <string>
+            <plain>И когда Христа ты ищешь, подними глаза туда,</plain>
+        </string>
+        <string>
+            <plain>Где сияет вечным светом Вифлеемская звезда.</plain>
+        </string>
+    </verse>
+</song>

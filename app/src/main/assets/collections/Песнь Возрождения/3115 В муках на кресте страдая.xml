@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3115" name="В муках на кресте страдая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В муках на кресте страдая,</plain>
+        </string>
+        <string>
+            <plain>умер Божий Сын за нас;</plain>
+        </string>
+        <string>
+            <plain>пролил ась там кровь святая:</plain>
+        </string>
+        <string>
+            <plain>Агнец нас от смерти спас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, кровь святая,</plain>
+        </string>
+        <string>
+            <plain>славлю тебя!</plain>
+        </string>
+        <string>
+            <plain>Ты, кровь святая,</plain>
+        </string>
+        <string>
+            <plain>спасла меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Эта кровь твой</plain>
+        </string>
+        <string>
+            <plain>багряный очищает добела;</plain>
+        </string>
+        <string>
+            <plain>в ней дитем ты Божьим станешь</plain>
+        </string>
+        <string>
+            <plain>после гибельного сна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Эта кровь с креста струею</plain>
+        </string>
+        <string>
+            <plain>для тебя, душа, текла.</plain>
+        </string>
+        <string>
+            <plain>О, приди, омойся ею:</plain>
+        </string>
+        <string>
+            <plain>боль изгладит всю она.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Преклонись пред Ним в смиреньи,</plain>
+        </string>
+        <string>
+            <plain>верь в святую кровь Христа:</plain>
+        </string>
+        <string>
+            <plain>Он в награду даст спасенье</plain>
+        </string>
+        <string>
+            <plain>и омоет дочиста.</plain>
+        </string>
+    </verse>
+</song>

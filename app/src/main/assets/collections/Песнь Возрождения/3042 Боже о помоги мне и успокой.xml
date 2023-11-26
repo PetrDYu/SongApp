@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3042" name="Боже о помоги мне и успокой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, о помоги мне и успокой,</plain>
+        </string>
+        <string>
+            <plain>чтоб я всегда мог слышать голос лишь Твой,</plain>
+        </string>
+        <string>
+            <plain>чтоб я всегда мог слышать голос лишь Твой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Волю Твою хочилишь исполнять я;</plain>
+        </string>
+        <string>
+            <plain>как, Бог, тебе угодно, веди меня,</plain>
+        </string>
+        <string>
+            <plain>как, Бог, Тебе угодно, веди меня.</plain>
+        </string>
+        <string>
+            <plain>З Если же тьма скрывает всё предо мной,</plain>
+        </string>
+        <string>
+            <plain>Ты Своим светом вечным путь мне открой,</plain>
+        </string>
+        <string>
+            <plain>Ты своим светом вечным путь мне открой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, пребывай, Спаситель, со мной всегда</plain>
+        </string>
+        <string>
+            <plain>и помоги взирать мне лишь на Тебя,</plain>
+        </string>
+        <string>
+            <plain>и помоги взирать мне лишь на Тебя.</plain>
+        </string>
+    </verse>
+</song>

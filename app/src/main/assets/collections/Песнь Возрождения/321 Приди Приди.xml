@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="321" name="Приди Приди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди! Приди!</plain>
+        </string>
+        <string>
+            <plain>Сын заблудший к Отцу!</plain>
+        </string>
+        <string>
+            <plain>Ведь вдали от Отца</plain>
+        </string>
+        <string>
+            <plain>Тьма греха без конца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, заблудший друг, приди!</plain>
+        </string>
+        <string>
+            <plain>О, приди! Приди!</plain>
+        </string>
+        <string>
+            <plain>Друг, о, приди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди! Приди!</plain>
+        </string>
+        <string>
+            <plain>О, спеши в дом Отца!</plain>
+        </string>
+        <string>
+            <plain>Души верных, скорбя,</plain>
+        </string>
+        <string>
+            <plain>Ожидают тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди! Приди!</plain>
+        </string>
+        <string>
+            <plain>Дивно в доме Отца!</plain>
+        </string>
+        <string>
+            <plain>Пир всерадостный в нем</plain>
+        </string>
+        <string>
+            <plain>Пред Иисусом Христом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди! Приди!</plain>
+        </string>
+        <string>
+            <plain>О, как благ твой Отец!</plain>
+        </string>
+        <string>
+            <plain>Голос нежный, святой</plain>
+        </string>
+        <string>
+            <plain>Обещает покой.</plain>
+        </string>
+    </verse>
+</song>

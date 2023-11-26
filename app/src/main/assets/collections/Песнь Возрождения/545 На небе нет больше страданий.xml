@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="545" name="На небе нет больше страданий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На небе нет больше страданий,</plain>
+        </string>
+        <string>
+            <plain>Нет скорби житейской и бед,</plain>
+        </string>
+        <string>
+            <plain>Сердец тяжким горем разбитых</plain>
+        </string>
+        <string>
+            <plain>И песен унылых там нет.</plain>
+        </string>
+        <string>
+            <plain>Не виснут тяжелые тучи,</plain>
+        </string>
+        <string>
+            <plain>Нет темных ночей там и гроз,</plain>
+        </string>
+        <string>
+            <plain>Но все – лишь сиянье и радость,</plain>
+        </string>
+        <string>
+            <plain>Без плача, рыданий и слез.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Стремлюсь я в тот город прекрасный,</plain>
+        </string>
+        <string>
+            <plain>Христом приготовлен там он,</plain>
+        </string>
+        <string>
+            <plain>Где сонмы искупленных стройно</plain>
+        </string>
+        <string>
+            <plain>Поют, окружив белый трон.</plain>
+        </string>
+        <string>
+            <plain>Я сердцем тоскую по небу,</plain>
+        </string>
+        <string>
+            <plain>Там Господь приготовил мне дом,</plain>
+        </string>
+        <string>
+            <plain>Буду счастлив тогда, как узрю лик Христа</plain>
+        </string>
+        <string>
+            <plain>В том прекраснейшем граде златом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там нет ни богатых, ни бедных,</plain>
+        </string>
+        <string>
+            <plain>Не будет там вдов и сирот;</plain>
+        </string>
+        <string>
+            <plain>Там лиц нет усталых и бледных,</plain>
+        </string>
+        <string>
+            <plain>Для нищих - закрытых ворот.</plain>
+        </string>
+        <string>
+            <plain>Туда не войдут лицемеры,</plain>
+        </string>
+        <string>
+            <plain>И лживых туда не возьмут,</plain>
+        </string>
+        <string>
+            <plain>И те, кто здесь жили без веры,</plain>
+        </string>
+        <string>
+            <plain>Там места себе не найдут.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Заботы там будут забыты,</plain>
+        </string>
+        <string>
+            <plain>Не может нужда нас теснить,</plain>
+        </string>
+        <string>
+            <plain>Одежды там не обветшают,</plain>
+        </string>
+        <string>
+            <plain>Но вечно там будем носить.</plain>
+        </string>
+        <string>
+            <plain>Не будем там алкать и жаждать,</plain>
+        </string>
+        <string>
+            <plain>От бедности горькой страдать,</plain>
+        </string>
+        <string>
+            <plain>Но всю полноту и блаженство</plain>
+        </string>
+        <string>
+            <plain>Вовеки с Христом разделять.</plain>
+        </string>
+    </verse>
+</song>

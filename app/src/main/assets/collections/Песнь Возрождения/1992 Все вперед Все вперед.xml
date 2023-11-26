@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1992" name="Все вперед Все вперед" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все вперед! Все вперед.</plain>
+        </string>
+        <string>
+            <plain>Песню воспойте новую!</plain>
+        </string>
+        <string>
+            <plain>Будем любовь в Нем прославлять.</plain>
+        </string>
+        <string>
+            <plain>Милость Его и благодать.</plain>
+        </string>
+        <string>
+            <plain>Пойте, как Он ко мне был благ</plain>
+        </string>
+        <string>
+            <plain>И как хранит в Своих руках!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте о Боге вечной любви,</plain>
+        </string>
+        <string>
+            <plain>Спасшем меня для славы небес.</plain>
+        </string>
+        <string>
+            <plain>Все вперед! Все вперед!</plain>
+        </string>
+        <string>
+            <plain>Песню воспойте новую.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все вперед! Все вперед!</plain>
+        </string>
+        <string>
+            <plain>Песню воспойте новую.</plain>
+        </string>
+        <string>
+            <plain>Пойте: Он слово нам дарит.</plain>
+        </string>
+        <string>
+            <plain>Светлый в нем луч для нас горит.</plain>
+        </string>
+        <string>
+            <plain>Пойте о смерти на кресте,</plain>
+        </string>
+        <string>
+            <plain>О воцареньи в высоте.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все вперед! Все вперед!</plain>
+        </string>
+        <string>
+            <plain>Песню воспойте новую!</plain>
+        </string>
+        <string>
+            <plain>Пойте, как нас Он возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Души от ада искупил,</plain>
+        </string>
+        <string>
+            <plain>Как драгоценна кровь Христа,</plain>
+        </string>
+        <string>
+            <plain>В ней я спасен кровью креста.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все вперед! Все вперед!</plain>
+        </string>
+        <string>
+            <plain>Песню воспойте новую!</plain>
+        </string>
+        <string>
+            <plain>Пойте о том, как Он силен,</plain>
+        </string>
+        <string>
+            <plain>Как смерти власть разрушил Он.</plain>
+        </string>
+        <string>
+            <plain>Пойте, как мой Христос воскрес</plain>
+        </string>
+        <string>
+            <plain>И как Он дал мне свет с небес.</plain>
+        </string>
+    </verse>
+</song>

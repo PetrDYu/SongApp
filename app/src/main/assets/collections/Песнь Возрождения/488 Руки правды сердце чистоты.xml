@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="488" name="Руки правды сердце чистоты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Руки правды, сердце чистоты,</plain>
+        </string>
+        <string>
+            <plain>Жар молитвы - юных дней цветы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастье детям, счастье детям Он желает дать,</plain>
+        </string>
+        <string>
+            <plain>Счастье детям, счастье детям Он желает дать,</plain>
+        </string>
+        <string>
+            <plain>Счастье детям, счастье детям Он желает дать.</plain>
+        </string>
+        <string>
+            <plain>Божью волю, Божью волю будем исполнять,</plain>
+        </string>
+        <string>
+            <plain>Божью волю, Божью волю будем исполнять,</plain>
+        </string>
+        <string>
+            <plain>Божью волю, Божью волю будем исполнять.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Помощь, радость в мир мы понесем</plain>
+        </string>
+        <string>
+            <plain>И с любовью за Христом пойдем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем ближних, как себя, любить,</plain>
+        </string>
+        <string>
+            <plain>Честно, верно в этом мире жить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будем помнить с наших юных лет:</plain>
+        </string>
+        <string>
+            <plain>Он нас любит, сохранит средь бед.</plain>
+        </string>
+    </verse>
+</song>

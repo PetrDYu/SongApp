@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2999" name="Мы Спасителю гимн хвалы поём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы Спасителю гимн хвалы поём,</plain>
+        </string>
+        <string>
+            <plain>за истину всегда стоим.</plain>
+        </string>
+        <string>
+            <plain>Славим Господа мы в своих сердцах,</plain>
+        </string>
+        <string>
+            <plain>Его мы силой победим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте, да, славьте,</plain>
+        </string>
+        <string>
+            <plain>славьте Искупителя Христа!</plain>
+        </string>
+        <string>
+            <plain>О, славьте, да, славьте,</plain>
+        </string>
+        <string>
+            <plain>славьте Искупителя Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если вражье войско на нас пойдёт,</plain>
+        </string>
+        <string>
+            <plain>мы гимн победный воспоём,</plain>
+        </string>
+        <string>
+            <plain>ибо в нашем сердце Иисус живёт;</plain>
+        </string>
+        <string>
+            <plain>победу мы имеем в Нём.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да, Иисусу всякая власть дана</plain>
+        </string>
+        <string>
+            <plain>и в небесах, и на земле;</plain>
+        </string>
+        <string>
+            <plain>а иные царства покоя ждут,</plain>
+        </string>
+        <string>
+            <plain>- оно дано уж ныне мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скоро с трубным звуком Господь придёт</plain>
+        </string>
+        <string>
+            <plain>И всех, кто верно ждёт Его,</plain>
+        </string>
+        <string>
+            <plain>Он на облаках в небеса возьмёт,</plain>
+        </string>
+        <string>
+            <plain>чтоб были вечно у Него.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В месте, что Господь приготовил нам,</plain>
+        </string>
+        <string>
+            <plain>где мы вдали от всех невзгод,</plain>
+        </string>
+        <string>
+            <plain>будем прославлять мы Иисуса там</plain>
+        </string>
+        <string>
+            <plain>и чтить, как Господа господ.</plain>
+        </string>
+    </verse>
+</song>

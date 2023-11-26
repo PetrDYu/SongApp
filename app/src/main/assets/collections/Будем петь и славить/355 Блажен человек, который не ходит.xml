@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="355" name="Блажен человек, который не ходит" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Блажен человек, который не ходит</plain>
+        </string>
+        <string>
+            <plain>На совет нечестивых,</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Но в законе Господа воля его,</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И на закон Его уповает он день и ночь .</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>АШРЕ́Й АИ́Ш АШЕ́Р ЛО АЛА́Х БА́АЦА́Т РЕШАИ́М</plain>
+            <repeat id="3" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>КИ́ ИМ БЕ́ТОРА́Т А́ШЕ́М ХЕФЕЦО́</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>УВЕТО́РАТО ЙЭx̅ЭГЕ́ ЙОМА́М ВА́ЛАЙЛА́</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

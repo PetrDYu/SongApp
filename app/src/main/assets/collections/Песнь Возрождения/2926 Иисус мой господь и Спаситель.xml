@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2926" name="Иисус мой господь и Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, мой господь и Спаситель,</plain>
+        </string>
+        <string>
+            <plain>в смиреньи склоняю главу;</plain>
+        </string>
+        <string>
+            <plain>я умер для грешного мира,</plain>
+        </string>
+        <string>
+            <plain>отверг всю его суету.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, Ты - гончар, а я - глина</plain>
+        </string>
+        <string>
+            <plain>твори со мной, что угодно Тебе,</plain>
+        </string>
+        <string>
+            <plain>чтоб лик совершенный Иисуса</plain>
+        </string>
+        <string>
+            <plain>вполне отразился во мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус, помоги мне в служеньи,</plain>
+        </string>
+        <string>
+            <plain>чтоб души спасать для Тебя,</plain>
+        </string>
+        <string>
+            <plain>чтоб многим к небесному свету</plain>
+        </string>
+        <string>
+            <plain>путь жизнь указала моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай сил быть всегда терпеливым,</plain>
+        </string>
+        <string>
+            <plain>дай в вере мне полный покой;</plain>
+        </string>
+        <string>
+            <plain>дай мне поступать с моим братом,</plain>
+        </string>
+        <string>
+            <plain>как я поступал бы с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус, помоги мне быть верным,</plain>
+        </string>
+        <string>
+            <plain>разить неустанно врага,</plain>
+        </string>
+        <string>
+            <plain>чтоб в час окончания жизни</plain>
+        </string>
+        <string>
+            <plain>готов был я встретить Тебя.</plain>
+        </string>
+    </verse>
+</song>

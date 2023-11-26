@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2009" name="Благослови душа моя Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благослови, душа моя, Господа! (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Благослови, душа моя!</plain>
+        </string>
+        <string>
+            <plain>Бог твой прощает тебя,</plain>
+        </string>
+        <string>
+            <plain>Бог исцеляет тебя,</plain>
+        </string>
+        <string>
+            <plain>Бог твой спасает тебя,</plain>
+        </string>
+        <string>
+            <plain>Да славит Его вся земля!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь охраняет меня,</plain>
+        </string>
+        <string>
+            <plain>Господь окрыляет меня,</plain>
+        </string>
+        <string>
+            <plain>Благословляет меня,</plain>
+        </string>
+        <string>
+            <plain>Да славит Его вся земля!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Благослови, душа моя, Господа</plain>
+        </string>
+        <string>
+            <plain>- Аллилуйя! (2 р.)</plain>
+        </string>
+        <string>
+            <plain>Благослови, душа моя, Господа!</plain>
+        </string>
+    </verse>
+</song>

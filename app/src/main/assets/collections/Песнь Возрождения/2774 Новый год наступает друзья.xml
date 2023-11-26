@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2774" name="Новый год наступает друзья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Новый год наступает, друзья,</plain>
+        </string>
+        <string>
+            <plain>Неизвестные тайны храня.</plain>
+        </string>
+        <string>
+            <plain>Что же нового он принесет,</plain>
+        </string>
+        <string>
+            <plain>Этот новый, грядущий год?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Новый год настает,</plain>
+        </string>
+        <string>
+            <plain>Пусть он счастье несет.</plain>
+        </string>
+        <string>
+            <plain>Наше счастье лишь в том,</plain>
+        </string>
+        <string>
+            <plain>Чтоб идти нам со Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вновь придут для нас новые дни,</plain>
+        </string>
+        <string>
+            <plain>Полетят, как снежинки, они.</plain>
+        </string>
+        <string>
+            <plain>Новых радостей, новых невзгод</plain>
+        </string>
+        <string>
+            <plain>Новый год нам с собой принесет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастье в Боге превыше всего,</plain>
+        </string>
+        <string>
+            <plain>На земле нет ценней ничего.</plain>
+        </string>
+        <string>
+            <plain>Наше счастье - Христова любовь,</plain>
+        </string>
+        <string>
+            <plain>Мир и радость евангельских слов.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А снежинки, снежинки летят,</plain>
+        </string>
+        <string>
+            <plain>Они что-то напомнить хотят.</plain>
+        </string>
+        <string>
+            <plain>Нам напомнить, что зимний мороз</plain>
+        </string>
+        <string>
+            <plain>Дней грядущих есть точный прогноз.</plain>
+        </string>
+    </verse>
+</song>

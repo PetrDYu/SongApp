@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="385" name="Как прекрасен Божий мир Славьте Бога, славьте" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Как прекрасен Божий мир! Славьте Бога, славьте!</plain>
+        </string>
+        <string>
+            <plain>Пусть звучит златой эфир. Славьте Бога, славьте!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть повсюду на земле все поют лишь о Христе.</plain>
+        </string>
+        <string>
+            <plain>За Его заботу к нам в любви пой Ему, пой Ему, пой,</plain>
+        </string>
+        <string>
+            <plain>Его благодари.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На лугах цветы цветут. Пойте Богу, пойте!</plain>
+        </string>
+        <string>
+            <plain>Птицы радостно поют. Пойте Богу, пойте!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1768" name="Перед Твоим поникшим ликом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Перед Твоим поникшим ликом</plain>
+        </string>
+        <string>
+            <plain>Стою, распятый Иисус,</plain>
+        </string>
+        <string>
+            <plain>Тебе, мой Пастырь, мой Владыка,</plain>
+        </string>
+        <string>
+            <plain>Я в покаянии молюсь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты радостью прощенья душу озари.</plain>
+        </string>
+        <string>
+            <plain>Нежною рукою слезы с глаз отри.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прости, мой Бог, прости,</plain>
+        </string>
+        <string>
+            <plain>Владыка, Все согрешения мои,</plain>
+        </string>
+        <string>
+            <plain>Падений малых и великих</plain>
+        </string>
+        <string>
+            <plain>Молю, Господь, не помяни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Услышь мое Ты раскаянье</plain>
+        </string>
+        <string>
+            <plain>И муки совести сними.</plain>
+        </string>
+        <string>
+            <plain>В Тебе найду я оправданье</plain>
+        </string>
+        <string>
+            <plain>И выход из безбрежной тьмы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Прошу, рассей сомненья тучи,</plain>
+        </string>
+        <string>
+            <plain>Очисти веры небосвод,</plain>
+        </string>
+        <string>
+            <plain>Моя душа покой получит,</plain>
+        </string>
+        <string>
+            <plain>Когда простишь ее, Господь.</plain>
+        </string>
+    </verse>
+</song>

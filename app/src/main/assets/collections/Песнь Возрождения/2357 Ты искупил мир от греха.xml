@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2357" name="Ты искупил мир от греха" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты искупил мир от греха,</plain>
+        </string>
+        <string>
+            <plain>Ты дал ему любовь и свет,</plain>
+        </string>
+        <string>
+            <plain>Зажёг потухшие сердца</plain>
+        </string>
+        <string>
+            <plain>И дал надежду.</plain>
+        </string>
+        <string>
+            <plain>Мы пред Тобою предстоим,</plain>
+        </string>
+        <string>
+            <plain>И каждый дорог для Тебя.</plain>
+        </string>
+        <string>
+            <plain>За всё, Отец, благодарим</plain>
+        </string>
+        <string>
+            <plain>И превозносим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава Тебе и величье,</plain>
+        </string>
+        <string>
+            <plain>Слава в веках и народах!</plain>
+        </string>
+        <string>
+            <plain>Сила Твоя безгранична,</plain>
+        </string>
+        <string>
+            <plain>Милость Твоя во все роды.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2348" name="Тебе хочу я воспеть аллилуйя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебе хочу я воспеть аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>О, мой Господь, я Тобою дышу,</plain>
+        </string>
+        <string>
+            <plain>Благодарю я Тебя за спасенье,</plain>
+        </string>
+        <string>
+            <plain>И аллилуйя пою.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сила Твоя даже смерть победила.</plain>
+        </string>
+        <string>
+            <plain>Твоей любовью я сердце смирил,</plain>
+        </string>
+        <string>
+            <plain>Вечный мой Бог, я Тебя прославляю,</plain>
+        </string>
+        <string>
+            <plain>И аллилуйя пою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, мой Господь, Ты утешь меня в скорби,</plain>
+        </string>
+        <string>
+            <plain>Мир окружил меня мрачный и злой.</plain>
+        </string>
+        <string>
+            <plain>Дай Духа сил, я Тебя умоляю,</plain>
+        </string>
+        <string>
+            <plain>И аллилуйя пою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я так стремлюсь удостоиться чести,</plain>
+        </string>
+        <string>
+            <plain>Вечно с Тобой славить, имя Твое,</plain>
+        </string>
+        <string>
+            <plain>Чашу страданий с Тобой разделяю,</plain>
+        </string>
+        <string>
+            <plain>И аллилуйя пою.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2163" name="Как часто мы блуждаем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как часто мы блуждаем</plain>
+        </string>
+        <string>
+            <plain>И просто забываем,</plain>
+        </string>
+        <string>
+            <plain>Что миром правит суета.</plain>
+        </string>
+        <string>
+            <plain>Порой в любовь играем,</plain>
+        </string>
+        <string>
+            <plain>Грехов не замечаем,</plain>
+        </string>
+        <string>
+            <plain>А в сердце боль й пустота.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди к Иисусу и скажи:</plain>
+        </string>
+        <string>
+            <plain>"Я не могу так больше жить,</plain>
+        </string>
+        <string>
+            <plain>Я больше не хочу грешить, прости меня".</plain>
+        </string>
+        <string>
+            <plain>Приди к Иисусу и поверь,</plain>
+        </string>
+        <string>
+            <plain>Что жизнь изменится теперь</plain>
+        </string>
+        <string>
+            <plain>И что святая кровь Христа Спасёт тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь простит с любовью,</plain>
+        </string>
+        <string>
+            <plain>Он исцелит больного,</plain>
+        </string>
+        <string>
+            <plain>Наполнит сердце добротой.</plain>
+        </string>
+        <string>
+            <plain>Его любовь святая живёт и побеждает,</plain>
+        </string>
+        <string>
+            <plain>Приносит радость и покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="664" name="Здесь и там поля белеют" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Здесь и там поля белеют,</plain>
+        </string>
+        <string>
+            <plain>Глаз не видит им конца.</plain>
+        </string>
+        <string>
+            <plain>Ждут колосья золотые</plain>
+        </string>
+        <string>
+            <plain>Рук усердного жнеца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вышли делателей, Боже,</plain>
+        </string>
+        <string>
+            <plain>На созревшие поля,</plain>
+        </string>
+        <string>
+            <plain>Чтоб собрали все, что можно,</plain>
+        </string>
+        <string>
+            <plain>Пока жатва не прошла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вышли с раннею зарею,</plain>
+        </string>
+        <string>
+            <plain>В знойный полдень вышли их,</plain>
+        </string>
+        <string>
+            <plain>Вышли к вечеру на ниву</plain>
+        </string>
+        <string>
+            <plain>Поддержать жнецов Твоих.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верный труженик Господень,</plain>
+        </string>
+        <string>
+            <plain>Жни ячмень, пшеницу, рожь...</plain>
+        </string>
+        <string>
+            <plain>Жатва кончится, на отдых</plain>
+        </string>
+        <string>
+            <plain>В радость вечную войдешь.</plain>
+        </string>
+    </verse>
+</song>

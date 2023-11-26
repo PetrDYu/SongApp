@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1125" name="Голос Духа Святого зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Голос Духа Святого зовет,</plain>
+        </string>
+        <string>
+            <plain>грешных Он к Иисусу влечет.</plain>
+        </string>
+        <string>
+            <plain>О, друг. Он зовет и тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди (приди. Он зовет)</plain>
+        </string>
+        <string>
+            <plain>Приди (приди. Он зовет)</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему - в Нем счастье найдешь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Похоть мира жалеешь ли ты,</plain>
+        </string>
+        <string>
+            <plain>что к Иисусу ты медлишь придти?</plain>
+        </string>
+        <string>
+            <plain>Зачем от любви ты бежишь?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За тебя умер Он и страдал на кресте</plain>
+        </string>
+        <string>
+            <plain>- Дар спасенья тебе обещал,</plain>
+        </string>
+        <string>
+            <plain>так возьми ж Дар Иисуса теперь.</plain>
+        </string>
+    </verse>
+</song>

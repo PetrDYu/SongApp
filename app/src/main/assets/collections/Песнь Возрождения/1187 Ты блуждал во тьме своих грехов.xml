@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1187" name="Ты блуждал во тьме своих грехов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты блуждал во тьме своих грехов.</plain>
+        </string>
+        <string>
+            <plain>Потерял надежду и любовь.</plain>
+        </string>
+        <string>
+            <plain>Ты томился здесь своей душой</plain>
+        </string>
+        <string>
+            <plain>И хотел найти себе покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но никто помочь тебе не мог,</plain>
+        </string>
+        <string>
+            <plain>Только лишь один любящий Бог</plain>
+        </string>
+        <string>
+            <plain>На тебя с любовию взглянул.</plain>
+        </string>
+        <string>
+            <plain>В сердце силою Святой дохнул.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты в сомненьях падал на пути,</plain>
+        </string>
+        <string>
+            <plain>И не мог вперед уже</plain>
+        </string>
+        <string>
+            <plain>идти. Звал на помощь ты себе людей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб спасли тебя они скорей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты искал здесь в мире чистоту</plain>
+        </string>
+        <string>
+            <plain>- Повстречал обман и пустоту.</plain>
+        </string>
+        <string>
+            <plain>Твоя жизнь, как ночь, была темна.</plain>
+        </string>
+        <string>
+            <plain>Душу тяжко мучила она.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда от мрака ты прозрел.</plain>
+        </string>
+        <string>
+            <plain>Бог тебя любовию согрел,</plain>
+        </string>
+        <string>
+            <plain>И теперь ты в радости живешь.</plain>
+        </string>
+        <string>
+            <plain>Людям ты другим о том поешь.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Что никто спасти тебя не мог.</plain>
+        </string>
+        <string>
+            <plain>Только лишь один любящий Бог.</plain>
+        </string>
+        <string>
+            <plain>- На тебя с любовию взглянул -</plain>
+        </string>
+        <string>
+            <plain>В сердце силою Своей дохнул.</plain>
+        </string>
+    </chorus>
+</song>

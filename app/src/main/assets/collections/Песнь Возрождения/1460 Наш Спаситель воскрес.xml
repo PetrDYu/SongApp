@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1460" name="Наш Спаситель воскрес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наш Спаситель воскрес.</plain>
+        </string>
+        <string>
+            <plain>Зло и тьму победил,</plain>
+        </string>
+        <string>
+            <plain>Честь Ему до небес.</plain>
+        </string>
+        <string>
+            <plain>Что к спасенью дверь открыл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он воскрес, Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Славь Его, вся земля,</plain>
+        </string>
+        <string>
+            <plain>Он воистину воскрес,</plain>
+        </string>
+        <string>
+            <plain>Сделав чудо из чудес.</plain>
+        </string>
+        <string>
+            <plain>Друг, воскрес Он для тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Людям радость принес</plain>
+        </string>
+        <string>
+            <plain>Наш Спаситель Христос,</plain>
+        </string>
+        <string>
+            <plain>Мир Он всем подарил.</plain>
+        </string>
+        <string>
+            <plain>Светом правды озарил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг, воскресни и ты</plain>
+        </string>
+        <string>
+            <plain>В этот радостный день.</plain>
+        </string>
+        <string>
+            <plain>И прославь ты Творца,</plain>
+        </string>
+        <string>
+            <plain>Что к спасенью дверь открыл.</plain>
+        </string>
+    </verse>
+</song>

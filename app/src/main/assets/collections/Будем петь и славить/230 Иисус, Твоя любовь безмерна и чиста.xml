@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="230" name="Иисус, Твоя любовь безмерна и чиста" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, Твоя любовь безмерна и чиста!</plain>
+        </string>
+        <string>
+            <plain>Мне не хватает слов благодарить Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Меня к Себе принял Ты просто, без упреков.</plain>
+        </string>
+        <string>
+            <plain>Ты полюбил меня, когда я был далеко.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На жизненном пути тернистою тропою</plain>
+        </string>
+        <string>
+            <plain>Мне нелегко идти, но Ты теперь со мною.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебе я жизнь свою охотно посвящаю!</plain>
+        </string>
+        <string>
+            <plain>Хвалу Тебе пою! Тебя я прославляю!</plain>
+        </string>
+    </verse>
+</song>

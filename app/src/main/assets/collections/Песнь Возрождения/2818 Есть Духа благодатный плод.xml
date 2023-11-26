@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2818" name="Есть Духа благодатный плод" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть Духа благодатный плод,</plain>
+        </string>
+        <string>
+            <plain>в немногих душах он растет:</plain>
+        </string>
+        <string>
+            <plain>смиренье; Богом глубоко</plain>
+        </string>
+        <string>
+            <plain>в душе посажено оно.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ни драгоценный клад земной,</plain>
+        </string>
+        <string>
+            <plain>ни камень самый дорогой</plain>
+        </string>
+        <string>
+            <plain>так не украсит душу мне,</plain>
+        </string>
+        <string>
+            <plain>как полное смирение.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог, на весах Твоих лежал</plain>
+        </string>
+        <string>
+            <plain>когда-нибудь ценней кристалл,</plain>
+        </string>
+        <string>
+            <plain>чем жизнь, что отдана Тебе</plain>
+        </string>
+        <string>
+            <plain>с святым смирением в душе?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, Ты в глубине души</plain>
+        </string>
+        <string>
+            <plain>смиренья плод произрасти;</plain>
+        </string>
+        <string>
+            <plain>из всех сокрытых благ в Тебе,</plain>
+        </string>
+        <string>
+            <plain>в избытке дай смиренье мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мирская, гордость вся пройдет,</plain>
+        </string>
+        <string>
+            <plain>а с ней и слава, и почет;</plain>
+        </string>
+        <string>
+            <plain>Но кто в смирении живет,</plain>
+        </string>
+        <string>
+            <plain>на все века пребудет тот.</plain>
+        </string>
+    </verse>
+</song>

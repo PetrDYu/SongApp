@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1511" name="Радуйся небо звезды ликуйте ангелы пойте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радуйся, небо; звезды, ликуйте; ангелы, пойте.</plain>
+        </string>
+        <string>
+            <plain>Радуйся, небо: ныне пред нами мир и согласье.</plain>
+        </string>
+        <string>
+            <plain>Мир и согласье здесь сочетались, - Радуйся, небо.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радуйся, небо; звезды, ликуйте; ангелы, пойте.</plain>
+        </string>
+        <string>
+            <plain>Боже великий, здесь Твои дети, дай же им счастья.</plain>
+        </string>
+        <string>
+            <plain>Многие лета, многие лета, дай Твое счастье.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2537" name="Когда порвется жизни нить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда порвется жизни нить,</plain>
+        </string>
+        <string>
+            <plain>Земная смолкнет песнь моя,</plain>
+        </string>
+        <string>
+            <plain>Но вечно буду там хвалить</plain>
+        </string>
+        <string>
+            <plain>В чертогах горных у Царя!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скажу: Христом я искуплен,</plain>
+        </string>
+        <string>
+            <plain>Я милостью Его спасен!</plain>
+        </string>
+        <string>
+            <plain>Христом спасен! Скажу:</plain>
+        </string>
+        <string>
+            <plain>Христом я искуплен</plain>
+        </string>
+        <string>
+            <plain>И благодатию спасен!</plain>
+        </string>
+        <string>
+            <plain>Христом спасен!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда разрушится сей дом,</plain>
+        </string>
+        <string>
+            <plain>Теперь еще не знаю я,</plain>
+        </string>
+        <string>
+            <plain>Но знаю в небе со Христом</plain>
+        </string>
+        <string>
+            <plain>Готово место для меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда угаснет солнца свет</plain>
+        </string>
+        <string>
+            <plain>И день земной придет к концу,</plain>
+        </string>
+        <string>
+            <plain>Из уст Христа приняв привет,</plain>
+        </string>
+        <string>
+            <plain>Навек в покой Его войду.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Светильник веры пусть горит,</plain>
+        </string>
+        <string>
+            <plain>Я буду бодрствовать и ждать;</plain>
+        </string>
+        <string>
+            <plain>До смерти верным сохранит</plain>
+        </string>
+        <string>
+            <plain>Меня Христова благодать.</plain>
+        </string>
+    </verse>
+</song>

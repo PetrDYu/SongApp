@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1606" name="Вечность святых видится мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечность святых видится мне,</plain>
+        </string>
+        <string>
+            <plain>Дом мой небесный в родной стороне.</plain>
+        </string>
+        <string>
+            <plain>Ночью и днем вижу, как наяву.</plain>
+        </string>
+        <string>
+            <plain>Город святых, а над ним синеву.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там, только там небо чисто от гроз.</plain>
+        </string>
+        <string>
+            <plain>Там, только там в небе тесно от звезд.</plain>
+        </string>
+        <string>
+            <plain>Там звуки арф и повсюду цветы.</plain>
+        </string>
+        <string>
+            <plain>Там жизни всей моей мечты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Странник я здесь, трудно в пути.</plain>
+        </string>
+        <string>
+            <plain>Но уж немного осталось идти</plain>
+        </string>
+        <string>
+            <plain>Цепью земных бесконечных дорог,</plain>
+        </string>
+        <string>
+            <plain>Где даже сны в ожиданьи тревог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К небу дойти - вот цель моя.</plain>
+        </string>
+        <string>
+            <plain>Боже мой, умоляю Тебя:</plain>
+        </string>
+        <string>
+            <plain>Блудного сына к Себе Ты прими.</plain>
+        </string>
+        <string>
+            <plain>Лаской Отцовской меня обними.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2808" name="Кто помощь нам в болезни окажет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто помощь нам в болезни окажет,</plain>
+        </string>
+        <string>
+            <plain>и кто нас исцелит;</plain>
+        </string>
+        <string>
+            <plain>«Больным молитва веры поможет»,</plain>
+        </string>
+        <string>
+            <plain>- так Слово говорит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На Слово обетованья</plain>
+        </string>
+        <string>
+            <plain>я уповал не зря:</plain>
+        </string>
+        <string>
+            <plain>Рука Христа исцеленье</plain>
+        </string>
+        <string>
+            <plain>мгновенно принесла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любовь Христа пребудет вовеки,</plain>
+        </string>
+        <string>
+            <plain>рука Его сильна.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, что от всяких болезней</plain>
+        </string>
+        <string>
+            <plain>Он исцелит меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты полон, Бог, ко мне состраданья</plain>
+        </string>
+        <string>
+            <plain>и милости Отца</plain>
+        </string>
+        <string>
+            <plain>- Зачем терпеть мне муки, страданья?</plain>
+        </string>
+        <string>
+            <plain>Ты исцелишь меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Спаситель, Ты - мой врач и помощник,</plain>
+        </string>
+        <string>
+            <plain>когда страдаю я.</plain>
+        </string>
+        <string>
+            <plain>Нашёл я исцеленья источник,</plain>
+        </string>
+        <string>
+            <plain>Он исцелит меня.</plain>
+        </string>
+    </verse>
+</song>

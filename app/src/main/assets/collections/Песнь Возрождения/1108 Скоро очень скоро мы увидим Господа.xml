@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1108" name="Скоро очень скоро мы увидим Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скоро, очень скоро мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Скоро, очень скоро мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Скоро, очень скоро мы увидим Господа!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Аллилуйя, аллилуйя! Мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Радость будет там, мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Смерть побеждена, мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Болезни больше нет, мы увидим Господа!</plain>
+        </string>
+        <string>
+            <plain>Скоро, очень скоро мы увидим Господа!</plain>
+        </string>
+    </verse>
+</song>

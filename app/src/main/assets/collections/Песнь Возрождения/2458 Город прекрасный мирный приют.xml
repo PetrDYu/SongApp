@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2458" name="Город прекрасный мирный приют" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Город прекрасный, мирный приют,</plain>
+        </string>
+        <string>
+            <plain>Чудный, блаженный, слез там не льют,</plain>
+        </string>
+        <string>
+            <plain>Скоро ль врата откроются мне?</plain>
+        </string>
+        <string>
+            <plain>Скоро ль покой найду я в тебе?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Город прекрасный Бот основал,</plain>
+        </string>
+        <string>
+            <plain>Дом всем святым ддя жительства дал;</plain>
+        </string>
+        <string>
+            <plain>Город прекрасный, вечный приют,</plain>
+        </string>
+        <string>
+            <plain>Вот святые туда жить придут.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Город прекрасный, радостно в нем,</plain>
+        </string>
+        <string>
+            <plain>Славу небес мы там воспоем.</plain>
+        </string>
+        <string>
+            <plain>Сладостно будет нам со Христом,</plain>
+        </string>
+        <string>
+            <plain>Светлые стены в Граде златом,</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Город прекрасный, вечный покой,</plain>
+        </string>
+        <string>
+            <plain>В нем соберется народ святой,</plain>
+        </string>
+        <string>
+            <plain>Сильно желаю видеть тебя,</plain>
+        </string>
+        <string>
+            <plain>Город прекрас-ный ждет уж меня.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3093" name="Церковь ты земля святая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Церковь, ты - земля святая,</plain>
+        </string>
+        <string>
+            <plain>веет Божий Дух в тебе;</plain>
+        </string>
+        <string>
+            <plain>светишь ты, не угасая,</plain>
+        </string>
+        <string>
+            <plain>на незыблемой скале.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Церковь, ты - земля святая,</plain>
+        </string>
+        <string>
+            <plain>всем спасенным ты дана.</plain>
+        </string>
+        <string>
+            <plain>Церковь Божья, о благая,</plain>
+        </string>
+        <string>
+            <plain>ты свята во все века.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Церковь, ты - земля святая,</plain>
+        </string>
+        <string>
+            <plain>тесные твои врата;</plain>
+        </string>
+        <string>
+            <plain>не пройдет чрез двери рая</plain>
+        </string>
+        <string>
+            <plain>злостный грешник никогда.</plain>
+        </string>
+        <string>
+            <plain>З Для тебя, земля святая,</plain>
+        </string>
+        <string>
+            <plain>кровь Свою Христос пролил;</plain>
+        </string>
+        <string>
+            <plain>на кресте Он, умирая,</plain>
+        </string>
+        <string>
+            <plain>всех Своих освободил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Церковь, ты - земля святая,</plain>
+        </string>
+        <string>
+            <plain>ты - единство всех святых;</plain>
+        </string>
+        <string>
+            <plain>ведь любовь, не иссякая,</plain>
+        </string>
+        <string>
+            <plain>чудно связывает их.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Церковь, ты - земля святая,</plain>
+        </string>
+        <string>
+            <plain>Вождь и Пастырь твой - Господь;</plain>
+        </string>
+        <string>
+            <plain>верно стадо охраняя,</plain>
+        </string>
+        <string>
+            <plain>Он домой его ведет.</plain>
+        </string>
+    </verse>
+</song>

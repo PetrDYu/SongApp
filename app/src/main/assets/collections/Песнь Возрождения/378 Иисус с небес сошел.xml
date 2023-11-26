@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="378" name="Иисус с небес сошел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус с небес сошел,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мир сердцам послать.</plain>
+        </string>
+        <string>
+            <plain>На Голгофу крест Он нес,</plain>
+        </string>
+        <string>
+            <plain>Чтобы всем прощенье дать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Иисус! О Иисус!</plain>
+        </string>
+        <string>
+            <plain>Мы Тебя благодарим</plain>
+        </string>
+        <string>
+            <plain>Своей кровью Ты омыл</plain>
+        </string>
+        <string>
+            <plain>Все пороки и грехи,</plain>
+        </string>
+        <string>
+            <plain>Все прекрасным сделал Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Исцеленье Он давал</plain>
+        </string>
+        <string>
+            <plain>Людям тем, кто болен был.</plain>
+        </string>
+        <string>
+            <plain>Мертвых к жизни воскрешал,</plain>
+        </string>
+        <string>
+            <plain>Для добра лишь только жил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любит грешников Иисус,</plain>
+        </string>
+        <string>
+            <plain>Друг, и ты к Нему приди!</plain>
+        </string>
+        <string>
+            <plain>Исцелит Он твой недуг</plain>
+        </string>
+        <string>
+            <plain>И грехи твои простит.</plain>
+        </string>
+    </verse>
+</song>

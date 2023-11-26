@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1740" name="В этот мир ты пришел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В этот мир ты пришел,</plain>
+        </string>
+        <string>
+            <plain>И ты скоро уйдешь,</plain>
+        </string>
+        <string>
+            <plain>Будешь счастлив душой,</plain>
+        </string>
+        <string>
+            <plain>Если Бога найдешь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ветер, дождь и туман</plain>
+        </string>
+        <string>
+            <plain>Застилают глаза,</plain>
+        </string>
+        <string>
+            <plain>Но ты все же ищи</plain>
+        </string>
+        <string>
+            <plain>Иисуса Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он один лишь, поверь,</plain>
+        </string>
+        <string>
+            <plain>Может счастье послать,</plain>
+        </string>
+        <string>
+            <plain>Ты открой сердца дверь.</plain>
+        </string>
+        <string>
+            <plain>Чтобы правду познать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Без Христа мира нет,</plain>
+        </string>
+        <string>
+            <plain>Лишь одна суета;</plain>
+        </string>
+        <string>
+            <plain>Бог дарит жизнь и свет,</plain>
+        </string>
+        <string>
+            <plain>Только в Нем - полнота.</plain>
+        </string>
+    </verse>
+</song>

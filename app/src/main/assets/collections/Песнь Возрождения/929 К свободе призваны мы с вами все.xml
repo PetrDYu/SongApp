@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="929" name="К свободе призваны мы с вами все" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К свободе призваны мы с вами все,</plain>
+        </string>
+        <string>
+            <plain>Чтоб быть свободными нам на земле.</plain>
+        </string>
+        <string>
+            <plain>Весь мир во зле лежит, греху принадлежит,</plain>
+        </string>
+        <string>
+            <plain>В пороки погружен, грехом пленен.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>От уз греха и зла свободны мы,</plain>
+        </string>
+        <string>
+            <plain>Нам чужда суета, свободны мы.</plain>
+        </string>
+        <string>
+            <plain>От мира чтоб уйти, от всех развратных дел,</plain>
+        </string>
+        <string>
+            <plain>От оскверненья тел свободны мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так стойте ж, братья, все в свободе той!</plain>
+        </string>
+        <string>
+            <plain>Дарит свободу нам Христос благой.</plain>
+        </string>
+        <string>
+            <plain>Под знамя истины сердца направьте все,</plain>
+        </string>
+        <string>
+            <plain>Чтобы народ Его свободен был.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>От скверн, нечистоты свободны мы,</plain>
+        </string>
+        <string>
+            <plain>От пепла суеты свободны мы.</plain>
+        </string>
+        <string>
+            <plain>И от путей мирских, и от грехов земных,</plain>
+        </string>
+        <string>
+            <plain>И от тревог людских свободны мы!</plain>
+        </string>
+    </verse>
+</song>

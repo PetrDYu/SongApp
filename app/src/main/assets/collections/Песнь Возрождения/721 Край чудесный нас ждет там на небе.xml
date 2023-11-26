@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="721" name="Край чудесный нас ждет там на небе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Край чудесный нас ждет там на небе,</plain>
+        </string>
+        <string>
+            <plain>Где окончится труд и печаль!</plain>
+        </string>
+        <string>
+            <plain>От скорбей я стремлюсь к той Отчизне,</plain>
+        </string>
+        <string>
+            <plain>Где есть вечная радость и мир.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Край чудесный!</plain>
+        </string>
+        <string>
+            <plain>Край чудесный!</plain>
+        </string>
+        <string>
+            <plain>Сердце радостно рвется к тебе.</plain>
+        </string>
+        <string>
+            <plain>Край чудесный!</plain>
+        </string>
+        <string>
+            <plain>Край чудесный!</plain>
+        </string>
+        <string>
+            <plain>Там ведь ждет нас Спаситель к Себе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Край чудесный, где Ангелов пенье</plain>
+        </string>
+        <string>
+            <plain>Раздается, как шум многих вод,</plain>
+        </string>
+        <string>
+            <plain>Славу Агнцу возносят святые,</plain>
+        </string>
+        <string>
+            <plain>"Аллилуйя!" - они все поют.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Край чудесный, где в свете небесном</plain>
+        </string>
+        <string>
+            <plain>Будем видеть мы славу Творца;</plain>
+        </string>
+        <string>
+            <plain>В тени пальм и в долинах чудесных</plain>
+        </string>
+        <string>
+            <plain>Там я буду счастлив без конца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В край чудесный мы скоро прибудем</plain>
+        </string>
+        <string>
+            <plain>И увидим Того, Кто нам мил;</plain>
+        </string>
+        <string>
+            <plain>Там утихнет скорбящее сердце:</plain>
+        </string>
+        <string>
+            <plain>Ведь там вечная радость и мир.</plain>
+        </string>
+    </verse>
+</song>

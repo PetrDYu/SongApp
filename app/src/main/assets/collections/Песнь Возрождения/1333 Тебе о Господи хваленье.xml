@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1333" name="Тебе о Господи хваленье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебе, о Господи, хваленье</plain>
+        </string>
+        <string>
+            <plain>Мой дух стремится воссылать;</plain>
+        </string>
+        <string>
+            <plain>Но можно ли без вдохновенья</plain>
+        </string>
+        <string>
+            <plain>Твое величье прославлять?</plain>
+        </string>
+        <string>
+            <plain>Когда ж мне силу дашь Ты Сам,</plain>
+        </string>
+        <string>
+            <plain>Мой дух взнесется к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Влеки нас к Сыну, Бог-Зиждитель,</plain>
+        </string>
+        <string>
+            <plain>И Сын к Тебе нас приведет;</plain>
+        </string>
+        <string>
+            <plain>Воздвигни в нас Свою обитель,</plain>
+        </string>
+        <string>
+            <plain>Пролей в сердца Твой чудный свет;</plain>
+        </string>
+        <string>
+            <plain>Да вкусим вечный с Ним покой</plain>
+        </string>
+        <string>
+            <plain>И этот дар прославим Твой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твой Дух, ходатай пред Тобою,</plain>
+        </string>
+        <string>
+            <plain>За нас к Тебе вздыхает Сам</plain>
+        </string>
+        <string>
+            <plain>И нас с слезами и мольбою</plain>
+        </string>
+        <string>
+            <plain>Ведет с Собой к Твоим стопам;</plain>
+        </string>
+        <string>
+            <plain>И дай же нам у ног Твоих</plain>
+        </string>
+        <string>
+            <plain>Сложить наш крест скорбей земных.</plain>
+        </string>
+    </verse>
+</song>

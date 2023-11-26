@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2093" name="День уж прошёл вот ночь наступает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День уж прошёл, вот ночь наступает,</plain>
+        </string>
+        <string>
+            <plain>Солнышко скрылось где-то вдали.</plain>
+        </string>
+        <string>
+            <plain>А надо мною звёзды мерцают,</plain>
+        </string>
+        <string>
+            <plain>Манят к себе они.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, если 6 мог я звёздочкой ясной</plain>
+        </string>
+        <string>
+            <plain>В мраке полночном ярко гореть,</plain>
+        </string>
+        <string>
+            <plain>Путь освещая, людям внимая,</plain>
+        </string>
+        <string>
+            <plain>Любовью пламенеть!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как хочу я в милые дали</plain>
+        </string>
+        <string>
+            <plain>Сердцем подняться так высоко,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мои очи Край увидали,</plain>
+        </string>
+        <string>
+            <plain>Где хорошо, легко.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верю я, верю, что час тот настанет,</plain>
+        </string>
+        <string>
+            <plain>Мой Искупитель скоро придёт,</plain>
+        </string>
+        <string>
+            <plain>И к новой жизни дух мой воспрянет,</plain>
+        </string>
+        <string>
+            <plain>Там меня счастье ждёт.</plain>
+        </string>
+    </verse>
+</song>

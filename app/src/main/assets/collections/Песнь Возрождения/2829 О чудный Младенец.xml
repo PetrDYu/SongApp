@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2829" name="О чудный Младенец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О чудный Младенец,</plain>
+        </string>
+        <string>
+            <plain>Ты радость и счастье!</plain>
+        </string>
+        <string>
+            <plain>Склоняемся мы пред Тобой!</plain>
+        </string>
+        <string>
+            <plain>Твой лик нам сияет так ярко, как солнце,</plain>
+        </string>
+        <string>
+            <plain>в Тебе мы нашли мир, покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О чудный Младенец,</plain>
+        </string>
+        <string>
+            <plain>Ты - радость народам,</plain>
+        </string>
+        <string>
+            <plain>мы к яслям Твоим прибегаем с хвалой!</plain>
+        </string>
+        <string>
+            <plain>Мы славим спасенье, даренное людям;</plain>
+        </string>
+        <string>
+            <plain>Младенец, принёс Ты нам мир и покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Что, чудный Младенец,</plain>
+        </string>
+        <string>
+            <plain>на скорбную землю Тебя побудило прийти?</plain>
+        </string>
+        <string>
+            <plain>Ты знал, что Тебя здесь ждут горе,</plain>
+        </string>
+        <string>
+            <plain>мученья, на смерть не страшился пойти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О чудный Младенец,</plain>
+        </string>
+        <string>
+            <plain>благими устами сегодня мы славим Тебя;</plain>
+        </string>
+        <string>
+            <plain>поем пастухами, и вместе</plain>
+        </string>
+        <string>
+            <plain>с волхвами пусть наши звучат голоса.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О чудный Младенец,</plain>
+        </string>
+        <string>
+            <plain>себя мы как жертву к Твоим положили ногам.</plain>
+        </string>
+        <string>
+            <plain>Наполни сердца наши миром блаженным,</plain>
+        </string>
+        <string>
+            <plain>дай мысли небесные нам.</plain>
+        </string>
+    </verse>
+</song>

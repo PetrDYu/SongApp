@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2849" name="Земных забот уже не будет там" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Земных забот уже не будет там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем;</plain>
+        </string>
+        <string>
+            <plain>мы вечно со Христом пребудем там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там в Отечестве моем,</plain>
+        </string>
+        <string>
+            <plain>там, в Отечестве моем,</plain>
+        </string>
+        <string>
+            <plain>я знаю: жить я буду вечно</plain>
+        </string>
+        <string>
+            <plain>там, в Отечестве моем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не будет больше искушений там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем;</plain>
+        </string>
+        <string>
+            <plain>лишь радость и покой душевный там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скорбей и слез не будет там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем;</plain>
+        </string>
+        <string>
+            <plain>и все болезни мы забудем там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Блаженство вечное настанет там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем;</plain>
+        </string>
+        <string>
+            <plain>и вечно Бога будем славить там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Прощаний и разлук не будет там,</plain>
+        </string>
+        <string>
+            <plain>в Отечестве моем.</plain>
+        </string>
+        <string>
+            <plain>Не хочешь ли принять решенье:</plain>
+        </string>
+        <string>
+            <plain>жить в Отечестве моем?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1109" name="Верую В единого Бога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верую! В единого Бога:</plain>
+        </string>
+        <string>
+            <plain>Отца Всемогущего, Творца неба и земли,</plain>
+        </string>
+        <string>
+            <plain>Всего видимого и невидимого,</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сына Божьего, Единородного,</plain>
+        </string>
+        <string>
+            <plain>от Отца рожденного Прежде всех веков.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Свет от света Бога истинного,</plain>
+        </string>
+        <string>
+            <plain>от Бога истинного Рожденного,</plain>
+        </string>
+        <string>
+            <plain>несотворенного, единородного,</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Ради нас, людей, и ради нашего спасения</plain>
+        </string>
+        <string>
+            <plain>Он с неба сошел.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>И тело принял от девы Марии и стал человеком.</plain>
+        </string>
+        <string>
+            <plain>Распятым был, за нас страдал, и погребенным был!</plain>
+        </string>
+        <string>
+            <plain>Но в третий день воскрес: как было написано!</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>И вновь придет во славе судить живых и мертвых,</plain>
+        </string>
+        <string>
+            <plain>Его же Царству не будет конца!</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>И в Духа Святого, Господа животворного,</plain>
+        </string>
+        <string>
+            <plain>пришедшего от Отца миров.</plain>
+        </string>
+        <string>
+            <plain>Ему, с Отцом и Сыном, поклонение,</plain>
+        </string>
+        <string>
+            <plain>И слава, провозглашенные чрез пророков.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Признаю одно крещение и прощение грехов.</plain>
+        </string>
+        <string>
+            <plain>Ожидаю воскресения мертвых</plain>
+        </string>
+        <string>
+            <plain>И жизни будущего века! Аминь!</plain>
+        </string>
+    </chorus>
+</song>

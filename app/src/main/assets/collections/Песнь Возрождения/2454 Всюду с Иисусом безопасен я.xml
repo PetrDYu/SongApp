@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2454" name="Всюду с Иисусом безопасен я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всюду с Иисусом безопасен я,</plain>
+        </string>
+        <string>
+            <plain>Всюду в этом мире Он ведет меня;</plain>
+        </string>
+        <string>
+            <plain>Без него увянет радость вся моя,</plain>
+        </string>
+        <string>
+            <plain>Если ж с Иисусом, не страшуся я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всюду с Ним, всюду с Ним безопасен я,</plain>
+        </string>
+        <string>
+            <plain>Всюду в этом мире Он ведет меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Всюду с Иисусом я не сам один,</plain>
+        </string>
+        <string>
+            <plain>Коль друзья изменят, я ведь буду с Ним;</plain>
+        </string>
+        <string>
+            <plain>Хоть бывает страшен путь мой много раз,</plain>
+        </string>
+        <string>
+            <plain>Всюду с Иисусом - песни всякий час.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всюду с Иисусом я спокойно сплю,</plain>
+        </string>
+        <string>
+            <plain>Если смерть постигнет, я не устрашусь.</plain>
+        </string>
+        <string>
+            <plain>Знаю, Он пробудит, сладкий даст приют,</plain>
+        </string>
+        <string>
+            <plain>Где святые песни радостно поют.</plain>
+        </string>
+    </verse>
+</song>

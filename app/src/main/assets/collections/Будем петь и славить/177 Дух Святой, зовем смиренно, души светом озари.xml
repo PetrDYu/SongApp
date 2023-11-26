@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="177" name="Дух Святой, зовем смиренно, души светом озари" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, зовем смиренно, души светом озари.</plain>
+        </string>
+        <string>
+            <plain>Ты сиял средь тьмы вселенной прежде солнца и зари.</plain>
+        </string>
+        <string>
+            <plain>Ты творил, и в нашем сердце Сам обитель сотвори</plain>
+        </string>
+        <string>
+            <plain>И огнем спасительным гори.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Огонь небесный, сойди скорей</plain>
+        </string>
+        <string>
+            <plain>И теплотою Своей cогрей.</plain>
+        </string>
+        <string>
+            <plain>Дорогой трудной к Отчизне чудной</plain>
+        </string>
+        <string>
+            <plain>Мы пойдем уверенней, бодрей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой, о Гость небесный, Ты доступен, близок стал.</plain>
+        </string>
+        <string>
+            <plain>Искупивший смертью крестной Твой приход пообещал.</plain>
+        </string>
+        <string>
+            <plain>Сокруши греха твердыню, мощь разбей греховных скал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб о Боге каждый услыхал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух Святой, вовеки сущий, силой верных наполняй.</plain>
+        </string>
+        <string>
+            <plain>Теплотой, Тебе присущей, дело Церкви созидай.</plain>
+        </string>
+        <string>
+            <plain>Властвуй нашим помышленьем, обличай и утешай.</plain>
+        </string>
+        <string>
+            <plain>Пробуди уснувший русский край!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2773" name="Нет небу синему конца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нет небу синему конца</plain>
+        </string>
+        <string>
+            <plain>- Во всем видна любовь Творца,</plain>
+        </string>
+        <string>
+            <plain>Сияет солнце в голубой дали,</plain>
+        </string>
+        <string>
+            <plain>Как необъятный мир любви.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь прекрасна и любовь нежна,</plain>
+        </string>
+        <string>
+            <plain>Она Спасителем с небес дана.</plain>
+        </string>
+        <string>
+            <plain>Как солнца луч среди заоблачных миров.</plain>
+        </string>
+        <string>
+            <plain>Пусть никогда не угасает в вас любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христос принес огонь любви,</plain>
+        </string>
+        <string>
+            <plain>Чтоб люди свято жить могли,</plain>
+        </string>
+        <string>
+            <plain>Любовью вечной возлюбил весь мир,</plain>
+        </string>
+        <string>
+            <plain>Чтобы, как Он, любили мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Средь мрака жизненных невзгод,</plain>
+        </string>
+        <string>
+            <plain>Среди туманов, непогод,</plain>
+        </string>
+        <string>
+            <plain>Под шум дождей, под шум ветров</plain>
+        </string>
+        <string>
+            <plain>Хранить же будем ту любовь.</plain>
+        </string>
+    </verse>
+</song>

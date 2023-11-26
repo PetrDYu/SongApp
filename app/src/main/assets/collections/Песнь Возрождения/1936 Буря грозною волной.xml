@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1936" name="Буря грозною волной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Буря грозною волной</plain>
+        </string>
+        <string>
+            <plain>Воет и бушует.</plain>
+        </string>
+        <string>
+            <plain>Смерть над бедною землей</plain>
+        </string>
+        <string>
+            <plain>На костях пирует.</plain>
+        </string>
+        <string>
+            <plain>Где найду спасенья щит?</plain>
+        </string>
+        <string>
+            <plain>Кто от смерти охранит?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он нас спасет,</plain>
+        </string>
+        <string>
+            <plain>Спасет один Господь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Буря все грозней, грозней,</plain>
+        </string>
+        <string>
+            <plain>Волны заливают.</plain>
+        </string>
+        <string>
+            <plain>Божьи руки от скорбей</plain>
+        </string>
+        <string>
+            <plain>В мире нас спасают.</plain>
+        </string>
+        <string>
+            <plain>Он Помощник нам везде:</plain>
+        </string>
+        <string>
+            <plain>На земле и на воде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Буря топит уж ладью,</plain>
+        </string>
+        <string>
+            <plain>Виден мрак могилы;</plain>
+        </string>
+        <string>
+            <plain>Возьми за руку мою,</plain>
+        </string>
+        <string>
+            <plain>Дай мне новой силы.</plain>
+        </string>
+        <string>
+            <plain>Дай, чтоб стал я на скалу</plain>
+        </string>
+        <string>
+            <plain>И воспел Тебе хвалу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Буря стихнет навсегда,</plain>
+        </string>
+        <string>
+            <plain>Смолкнут воды жизни.</plain>
+        </string>
+        <string>
+            <plain>И мы будем плыть туда,</plain>
+        </string>
+        <string>
+            <plain>Где покой отчизны.</plain>
+        </string>
+        <string>
+            <plain>Там мы вечно воспоем</plain>
+        </string>
+        <string>
+            <plain>Пред Спасителем Христом.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Христос нас спас;</plain>
+        </string>
+        <string>
+            <plain>Ему хвала вовек!</plain>
+        </string>
+    </chorus>
+</song>

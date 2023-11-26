@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3034" name="Мёртвый миру и заботам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мёртвый миру и заботам,</plain>
+        </string>
+        <string>
+            <plain>мёртвый весь я для греха:</plain>
+        </string>
+        <string>
+            <plain>жить хочу лишь для Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Он зовёт Своё дитя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь смотрю на Иисуса,</plain>
+        </string>
+        <string>
+            <plain>на Иисуса, на Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Лишь смотрю на Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Он лишь мир вселит в меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не хочу я те богатства,</plain>
+        </string>
+        <string>
+            <plain>что пройдут здесь на земле;</plain>
+        </string>
+        <string>
+            <plain>я стремлюсь лишь к Иисусу,</plain>
+        </string>
+        <string>
+            <plain>у Него богатства все.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если дует грозный ветер</plain>
+        </string>
+        <string>
+            <plain>и в беде моя ладья,</plain>
+        </string>
+        <string>
+            <plain>то мой любящий Спаситель</plain>
+        </string>
+        <string>
+            <plain>помогает мне всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда в конце сей жизни</plain>
+        </string>
+        <string>
+            <plain>буду я один, тогда</plain>
+        </string>
+        <string>
+            <plain>всё ж бесстрашен, ведь с Иисусом</plain>
+        </string>
+        <string>
+            <plain>быть могу уверен я.</plain>
+        </string>
+    </verse>
+</song>

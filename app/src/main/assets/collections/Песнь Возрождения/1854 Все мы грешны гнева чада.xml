@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1854" name="Все мы грешны гнева чада" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все мы грешны, гнева чада.</plain>
+        </string>
+        <string>
+            <plain>Ты, Единый, благ! Ты для нас,</plain>
+        </string>
+        <string>
+            <plain>Господь, отрада,</plain>
+        </string>
+        <string>
+            <plain>Без Тебя - мы прах.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все виновны пред Тобою,</plain>
+        </string>
+        <string>
+            <plain>Должен нас закон судить;</plain>
+        </string>
+        <string>
+            <plain>Все нечисты мы душою,</plain>
+        </string>
+        <string>
+            <plain>Чем себя омыть?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Спаситель! Оправданье</plain>
+        </string>
+        <string>
+            <plain>Людям только Ты,</plain>
+        </string>
+        <string>
+            <plain>Дай понять Твое страданье</plain>
+        </string>
+        <string>
+            <plain>Детям суеты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смой все наши согрешенья</plain>
+        </string>
+        <string>
+            <plain>Кровию Твоей Святой;</plain>
+        </string>
+        <string>
+            <plain>В ней одной нам избавленье,</plain>
+        </string>
+        <string>
+            <plain>Счастье и покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1856" name="Воспой Всевышнего Творца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспой Всевышнего Творца!</plain>
+        </string>
+        <string>
+            <plain>Крепкая Создателя держава,</plain>
+        </string>
+        <string>
+            <plain>Светла Его на небе слава,</plain>
+        </string>
+        <string>
+            <plain>Там выше бурей и морей,</plain>
+        </string>
+        <string>
+            <plain>Одеян тихою зарей,</plain>
+        </string>
+        <string>
+            <plain>Царит наш дивный Бог спокойно,</plain>
+        </string>
+        <string>
+            <plain>И царства звезд под Ним сияют</plain>
+        </string>
+        <string>
+            <plain>Полны величием своим.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но с высоты Своих небес</plain>
+        </string>
+        <string>
+            <plain>Он ищет милосердным оком</plain>
+        </string>
+        <string>
+            <plain>В краю земли, в краю далеком,</plain>
+        </string>
+        <string>
+            <plain>Где грудь, истлевшая от слез.</plain>
+        </string>
+        <string>
+            <plain>Где грешник, всеми позабыт</plain>
+        </string>
+        <string>
+            <plain>К Нему с молитвою вздыхает;</plain>
+        </string>
+        <string>
+            <plain>К нему Он руку простирает</plain>
+        </string>
+        <string>
+            <plain>И утешать его спешит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2715" name="Иди дорогой одинокою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иди дорогой одинокою,</plain>
+        </string>
+        <string>
+            <plain>Я встретил Странника с крестом.</plain>
+        </string>
+        <string>
+            <plain>Он шел, согнувшись с ношей тяжкою,</plain>
+        </string>
+        <string>
+            <plain>И мне сказал, дав знак рукой:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Возьми свой крест, иди за Мною,</plain>
+        </string>
+        <string>
+            <plain>Тебя давно Я оправдал.</plain>
+        </string>
+        <string>
+            <plain>- И как могу Ему я отказать,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он мне все отдал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Заговорил со мной, и сразу я</plain>
+        </string>
+        <string>
+            <plain>Узнал, что это Иисус.</plain>
+        </string>
+        <string>
+            <plain>Он дал мне в жизни наставление,</plain>
+        </string>
+        <string>
+            <plain>Как Некто, шедший в Эммаус.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тот крест нести я буду до конца,</plain>
+        </string>
+        <string>
+            <plain>До достижения ненца,</plain>
+        </string>
+        <string>
+            <plain>Доколе Он Своей десницею</plain>
+        </string>
+        <string>
+            <plain>Не снимет ношу Сам с меня.</plain>
+        </string>
+    </verse>
+</song>

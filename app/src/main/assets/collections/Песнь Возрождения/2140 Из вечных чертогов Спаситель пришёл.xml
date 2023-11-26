@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2140" name="Из вечных чертогов Спаситель пришёл" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Из вечных чертогов Спаситель пришёл,</plain>
+        </string>
+        <string>
+            <plain>Чтоб умереть за нас.</plain>
+        </string>
+        <string>
+            <plain>В муках креста Он весь мир приобрёл</plain>
+        </string>
+        <string>
+            <plain>И человека спас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он согласился крест нести,</plain>
+        </string>
+        <string>
+            <plain>Много терпеть, чтоб нас спасти.</plain>
+        </string>
+        <string>
+            <plain>И на Голгофе в горести Славу свою Он сложил.</plain>
+        </string>
+        <string>
+            <plain>Он согласился крест принять</plain>
+        </string>
+        <string>
+            <plain>И со злодеями страдать</plain>
+        </string>
+        <string>
+            <plain>И за грех мой так умирать,</plain>
+        </string>
+        <string>
+            <plain>Да, Он все победил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как ужасно Господь наш страдал,</plain>
+        </string>
+        <string>
+            <plain>Приняв позор грехов.</plain>
+        </string>
+        <string>
+            <plain>Много терпел Он и выкуп нам дал</plain>
+        </string>
+        <string>
+            <plain>В муках земных оков.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ныне спеши ко Христу ты с грехом</plain>
+        </string>
+        <string>
+            <plain>И всю вину сложи.</plain>
+        </string>
+        <string>
+            <plain>Вспомни, что Он за тебя был казнён,</plain>
+        </string>
+        <string>
+            <plain>Ныне к Нему ты спеши.</plain>
+        </string>
+    </verse>
+</song>

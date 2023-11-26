@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3080" name="Вернись заблудший сын домой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вернись, заблудший сын, домой:</plain>
+        </string>
+        <string>
+            <plain>тебя Спаситель ждет!</plain>
+        </string>
+        <string>
+            <plain>Приди, как есть, в грехах своих:</plain>
+        </string>
+        <string>
+            <plain>Господь тебя спасет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди, заблудший сын, домой,</plain>
+        </string>
+        <string>
+            <plain>в Отцовский дом приди!</plain>
+        </string>
+        <string>
+            <plain>Он ждет, что ты придешь с мольбой;</plain>
+        </string>
+        <string>
+            <plain>вернись домой, не жди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вернись, заблудшая душа:</plain>
+        </string>
+        <string>
+            <plain>тебя Он исцелит.</plain>
+        </string>
+        <string>
+            <plain>Приди теперь, впусти Христа:</plain>
+        </string>
+        <string>
+            <plain>Он счастье всем дарит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вернись, оставь свой грех сейчас,</plain>
+        </string>
+        <string>
+            <plain>и Божьим стань дитем.</plain>
+        </string>
+        <string>
+            <plain>Да, в этот благодатный час</plain>
+        </string>
+        <string>
+            <plain>приди в Отцовский дом!</plain>
+        </string>
+    </verse>
+</song>

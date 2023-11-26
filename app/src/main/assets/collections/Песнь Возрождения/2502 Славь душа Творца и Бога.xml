@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2502" name="Славь душа Творца и Бога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Славь, душа, Творца и Бога!</plain>
+        </string>
+        <string>
+            <plain>Он нас любит без конца.</plain>
+        </string>
+        <string>
+            <plain>Он открыл Свои чертоги,</plain>
+        </string>
+        <string>
+            <plain>Он послал Свой мир в сердца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Славь премудрого Творца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славь за все благодеянья,</plain>
+        </string>
+        <string>
+            <plain>что в нужде являл отцам,</plain>
+        </string>
+        <string>
+            <plain>Избавлял их от страданья,</plain>
+        </string>
+        <string>
+            <plain>воздавал не по делам!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Дивен Бог теперь и к нам.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Как отец детей жалеет,</plain>
+        </string>
+        <string>
+            <plain>принимать всегда готов.</plain>
+        </string>
+        <string>
+            <plain>Водит милостью Своею,</plain>
+        </string>
+        <string>
+            <plain>охраняет от врагов.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Славь Творца вовек веков!</plain>
+        </string>
+    </chorus>
+</song>

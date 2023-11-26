@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3183" name="Мы счастливая семья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы - счастливая семья,</plain>
+        </string>
+        <string>
+            <plain>все Иисуса любим,</plain>
+        </string>
+        <string>
+            <plain>и Его мы никогда</plain>
+        </string>
+        <string>
+            <plain>огорчать не будем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Громко славим мы Христа</plain>
+        </string>
+        <string>
+            <plain>и поём от счастья.</plain>
+        </string>
+        <string>
+            <plain>Он для нас любви звезда,</plain>
+        </string>
+        <string>
+            <plain>и зовёт нас «братья».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Впредь хотим всё больше</plain>
+        </string>
+        <string>
+            <plain>мы для Христа трудиться,</plain>
+        </string>
+        <string>
+            <plain>чтобы многие могли</plain>
+        </string>
+        <string>
+            <plain>к Богу обратиться.</plain>
+        </string>
+    </verse>
+</song>

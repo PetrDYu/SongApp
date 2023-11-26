@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3251" name="С Сердцем сокрушенным я прихожу к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С Сердцем сокрушенным я прихожу к Тебе,</plain>
+        </string>
+        <string>
+            <plain>жажду отдых и покой найти;</plain>
+        </string>
+        <string>
+            <plain>о, услышь меня и дай исцеленье мне,</plain>
+        </string>
+        <string>
+            <plain>от греха меня освободи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот иду, о Боже, я, хочешь рассудить меня?</plain>
+        </string>
+        <string>
+            <plain>Все свои грехи несу к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Вот иду я, вот иду я (Боже мой):</plain>
+        </string>
+        <string>
+            <plain>дай, Господь, покой моей душе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Со смиренным я умом прихожу, Господь,</plain>
+        </string>
+        <string>
+            <plain>ношу тяжкую с меня сними!</plain>
+        </string>
+        <string>
+            <plain>Будет щедро награжден, кто Твой крест несет.</plain>
+        </string>
+        <string>
+            <plain>В жертву Ты меня, Господи прими.</plain>
+        </string>
+        <string>
+            <plain>З я иду, Господь, к Тебе, страх в моей душе,</plain>
+        </string>
+        <string>
+            <plain>от греховной жизни я устал;</plain>
+        </string>
+        <string>
+            <plain>пред Тобой, Господь склонился я здесь в мольбе,</plain>
+        </string>
+        <string>
+            <plain>чтобы Ты покой душевный дал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прихожу, Господь, к Тебе слабый и больной,</plain>
+        </string>
+        <string>
+            <plain>лик Твой ясный пусть ведет меня;</plain>
+        </string>
+        <string>
+            <plain>я без милости Твоей здесь томлюсь душой;</plain>
+        </string>
+        <string>
+            <plain>дай, Господь, мне жить лишь для Тебя.</plain>
+        </string>
+    </verse>
+</song>

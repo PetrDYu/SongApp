@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2693" name="Отчего мой Бог нежданно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отчего мой Бог нежданно</plain>
+        </string>
+        <string>
+            <plain>От меня сокрыл Свой лик?</plain>
+        </string>
+        <string>
+            <plain>Лягу ль спать, встаю ли рано,</plain>
+        </string>
+        <string>
+            <plain>Я печален, я уныл.</plain>
+        </string>
+        <string>
+            <plain>Взор Твой больше не сияет</plain>
+        </string>
+        <string>
+            <plain>Над восторженной душой.</plain>
+        </string>
+        <string>
+            <plain>Светоч веры угасает,</plain>
+        </string>
+        <string>
+            <plain>В сердце сумрак настает.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если я в смоем хожденье</plain>
+        </string>
+        <string>
+            <plain>Согрешил, в пути упал,</plain>
+        </string>
+        <string>
+            <plain>Накажи за преступлиенье</plain>
+        </string>
+        <string>
+            <plain>Иль прости, как Ты прощал.</plain>
+        </string>
+        <string>
+            <plain>Накажи железным жезлом,</plain>
+        </string>
+        <string>
+            <plain>Но любви не отнимай,</plain>
+        </string>
+        <string>
+            <plain>Взором благостным, любезным</plain>
+        </string>
+        <string>
+            <plain>На меня, Отец, взирай.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="109" name="Бог есть любовь о какое счастье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог есть любовь; о какое счастье!</plain>
+        </string>
+        <string>
+            <plain>Бог есть любовь, Он нас возлюбил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть всякий радостно поет и славит,</plain>
+        </string>
+        <string>
+            <plain>Его да славит; Бог есть любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог есть любовь, Он послал к нам Сына,</plain>
+        </string>
+        <string>
+            <plain>Бог естьлюбовь, Он избавил нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог есть любовь, мы греху служили;</plain>
+        </string>
+        <string>
+            <plain>Бог есть любовь, Он освободил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мой Искупитель меня избавил,</plain>
+        </string>
+        <string>
+            <plain>Мой Искупитель меня простил.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Тебя я буду вечно петь и славить,</plain>
+        </string>
+        <string>
+            <plain>Я буду славить Твою любовь.</plain>
+        </string>
+    </chorus>
+</song>

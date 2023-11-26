@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1463" name="Снова над грешной землей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Снова над грешной землей</plain>
+        </string>
+        <string>
+            <plain>Песня хваленья летит,</plain>
+        </string>
+        <string>
+            <plain>Мир оглашая собой,</plain>
+        </string>
+        <string>
+            <plain>Пасхальным приветом звучит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Да, Он из мертвых воскрес.</plain>
+        </string>
+        <string>
+            <plain>Царь всей земли и небес.</plain>
+        </string>
+        <string>
+            <plain>Он, победив смерть и ад.</plain>
+        </string>
+        <string>
+            <plain>Нам двери открыл в Отчий град.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог проявил к нам любовь,</plain>
+        </string>
+        <string>
+            <plain>Мучим в страданьях был.</plain>
+        </string>
+        <string>
+            <plain>Он драгоценную кровь</plain>
+        </string>
+        <string>
+            <plain>Свою за нас, грешных, пролил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вздрогнут пусть горы и лес,</plain>
+        </string>
+        <string>
+            <plain>Бог - наш Спаситель - воскрес!</plain>
+        </string>
+        <string>
+            <plain>О, возликуем, друзья,</plain>
+        </string>
+        <string>
+            <plain>И эхом пусть вторит земля.</plain>
+        </string>
+    </verse>
+</song>

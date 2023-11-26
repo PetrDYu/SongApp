@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2217" name="Мы прощаемся сегодня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы прощаемся сегодня</plain>
+        </string>
+        <string>
+            <plain>С годом, улетевшим вмиг,</plain>
+        </string>
+        <string>
+            <plain>И пускай любовь Господня</plain>
+        </string>
+        <string>
+            <plain>В новый год нас всех хранит.</plain>
+        </string>
+        <string>
+            <plain>Улетели безвозвратно</plain>
+        </string>
+        <string>
+            <plain>Наши прожитые дни,</plain>
+        </string>
+        <string>
+            <plain>Вспомнить будет нам приятно,</plain>
+        </string>
+        <string>
+            <plain>Что с Христом мы не одни.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благодарим за этот год Тебя,</plain>
+        </string>
+        <string>
+            <plain>Господь наш, За то, что Ты нас хранил,</plain>
+        </string>
+        <string>
+            <plain>За чудный мир и Твой покой, .</plain>
+        </string>
+        <string>
+            <plain>За чудеса благодарим, Господь, Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Время быстро приближает</plain>
+        </string>
+        <string>
+            <plain>Всех нас в чудный дом Отца,</plain>
+        </string>
+        <string>
+            <plain>И спасённые все знают:</plain>
+        </string>
+        <string>
+            <plain>Времени там нет конца.</plain>
+        </string>
+        <string>
+            <plain>Так летите ж поскорее</plain>
+        </string>
+        <string>
+            <plain>Вы, земные все года!</plain>
+        </string>
+        <string>
+            <plain>Пусть любовь сердца согреет.</plain>
+        </string>
+        <string>
+            <plain>Чтоб войти нам в небеса.</plain>
+        </string>
+    </verse>
+</song>

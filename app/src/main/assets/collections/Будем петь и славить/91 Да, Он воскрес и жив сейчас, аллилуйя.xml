@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="91" name="Да, Он воскрес и жив сейчас, аллилуйя" canon="false" text="общины Emmanuel" textRus="" music="общины Emmanuel" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Да, Он воскрес и жив сейчас, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>И Он сегодня среди нас, аллилуйя!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Женам, пришедшим ко гробу Его плакать над Ним,</plain>
+        </string>
+        <string>
+            <plain>Ангел явился и возвестил: «Он стал живым!»</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Когда же двое в Эммаус шли, Он рядом был.</plain>
+        </string>
+        <string>
+            <plain>И с ними хлеб Он преломил – лик Свой открыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда собрались они, и дух возгорелся в них,</plain>
+        </string>
+        <string>
+            <plain>То разом воскликнули все, кто там был в тот славный миг:</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус сказал: «Пусть за вами идут страны и города,</plain>
+        </string>
+        <string>
+            <plain>Я вас не оставлю, с вами Я здесь буду всегда».</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="41" name="Будь милосерд ко мне Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будь милосерд ко мне, Христос!</plain>
+        </string>
+        <string>
+            <plain>Прости виновного во всем.</plain>
+        </string>
+        <string>
+            <plain>Я скорбь к Тебе свою принес,</plain>
+        </string>
+        <string>
+            <plain>Я прихожу к Тебе с грехом.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В грехах запятнан без числа,</plain>
+        </string>
+        <string>
+            <plain>Обременен делами зла;</plain>
+        </string>
+        <string>
+            <plain>Но велика Твоя любовь!</plain>
+        </string>
+        <string>
+            <plain>Их может смыть святая кровь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От всех грехов меня омой</plain>
+        </string>
+        <string>
+            <plain>И дух смущенный успокой.</plain>
+        </string>
+        <string>
+            <plain>Прости меня, Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Да буду я теперь уж Твой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Со мной на суд Ты не входи,</plain>
+        </string>
+        <string>
+            <plain>Кто будет чист перед Тобой?</plain>
+        </string>
+        <string>
+            <plain>Меня по милости прости,</plain>
+        </string>
+        <string>
+            <plain>Своею кровию омой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ведь грешников Ты Сам зовешь,</plain>
+        </string>
+        <string>
+            <plain>Прощенье им Твое даешь;</plain>
+        </string>
+        <string>
+            <plain>И я на призыв Твой спешу,</plain>
+        </string>
+        <string>
+            <plain>Прощенья, Господи, прошу!</plain>
+        </string>
+    </verse>
+</song>

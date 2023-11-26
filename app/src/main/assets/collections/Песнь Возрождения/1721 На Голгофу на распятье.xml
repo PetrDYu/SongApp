@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1721" name="На Голгофу на распятье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На Голгофу, на распятье</plain>
+        </string>
+        <string>
+            <plain>Сына Божия ведут,</plain>
+        </string>
+        <string>
+            <plain>Сквозь побои и проклятья</plain>
+        </string>
+        <string>
+            <plain>Он свершает неба труд.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Люди, взгляните, люди, на тот холм,</plain>
+        </string>
+        <string>
+            <plain>Где в муках умирает Он...</plain>
+        </string>
+        <string>
+            <plain>Там слышен смех, глумится люд,</plain>
+        </string>
+        <string>
+            <plain>А Он свершает неба труд.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На Голгофе три распятья:</plain>
+        </string>
+        <string>
+            <plain>Два разбойника и Он,</plain>
+        </string>
+        <string>
+            <plain>Распростер Свои объятья,</plain>
+        </string>
+        <string>
+            <plain>Будто всех обнять готов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На Голгофе шум смолкает,</plain>
+        </string>
+        <string>
+            <plain>Тьма объемлет все кругом.</plain>
+        </string>
+        <string>
+            <plain>Слышно там, как люд стенает:</plain>
+        </string>
+        <string>
+            <plain>"Нами Бог ведь был казнён!"</plain>
+        </string>
+    </verse>
+</song>

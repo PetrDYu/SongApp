@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="381" name="Иисус Христос воскрес Аллилуйя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус Христос воскрес! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Ангел возгласил с небес: «Аллилуйя!»</plain>
+        </string>
+        <string>
+            <plain>Радость наша велика! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Славят небо и земля: «Аллилуйя!»</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Будем воспевать Христа. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Смерть уже побеждена. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Умер Он, чтоб нас спасти. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>В небо к Богу привести. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славят юные сердца – аллилуйя! –</plain>
+        </string>
+        <string>
+            <plain>Победителя Христа. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Жизнь Иисусу посвятим. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>И навеки будем с Ним. Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

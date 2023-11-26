@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="165" name="Как счастлив я ныне в Иисусе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как счастлив я ныне в Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Словами не выразить мне, -</plain>
+        </string>
+        <string>
+            <plain>Мои согрешенья простил Он,</plain>
+        </string>
+        <string>
+            <plain>Привлек мое сердце к Себе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В Нем я счастлив вовек,</plain>
+        </string>
+        <string>
+            <plain>В Нем я счастлив вовек,</plain>
+        </string>
+        <string>
+            <plain>Голгофская кровь очистила вновь;</plain>
+        </string>
+        <string>
+            <plain>Да, в Нем я счастлив вовек.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвалу приношу Иисусу,-</plain>
+        </string>
+        <string>
+            <plain>Он сделался Другом моим;</plain>
+        </string>
+        <string>
+            <plain>Я раньше блуждал в беззаконье,</plain>
+        </string>
+        <string>
+            <plain>А ныне Им в правде водим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я счастлив: Иисус - мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Одна из Его я овец,</plain>
+        </string>
+        <string>
+            <plain>Мне дан Дух Святой, Утешитель,</plain>
+        </string>
+        <string>
+            <plain>Сам Бог - мой небесный Отец.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И ты, брат мой, грешный, несчастный,</plain>
+        </string>
+        <string>
+            <plain>Внемли Его гласу любви:</plain>
+        </string>
+        <string>
+            <plain>Готов и тебе Он дать счастье –</plain>
+        </string>
+        <string>
+            <plain>К Нему с верой взор обрати.</plain>
+        </string>
+    </verse>
+</song>

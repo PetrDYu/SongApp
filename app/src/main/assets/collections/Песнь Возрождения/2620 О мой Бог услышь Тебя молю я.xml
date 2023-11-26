@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2620" name="О мой Бог услышь Тебя молю я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О мой Бог, услышь, Тебя молю я</plain>
+        </string>
+        <string>
+            <plain>В немощи моей и нищете.</plain>
+        </string>
+        <string>
+            <plain>Видишь, Боже, как изнемогаю,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне в жизненной борьбе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Трудно, о как трудно мне идти здесь,</plain>
+        </string>
+        <string>
+            <plain>Сам ведь видишь Ты, о Мой Господь,</plain>
+        </string>
+        <string>
+            <plain>Часто падаю и устаю я,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне в жизненной борьбе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В мире, как идти христианину</plain>
+        </string>
+        <string>
+            <plain>Как мирское зло царит повсюду.</plain>
+        </string>
+        <string>
+            <plain>Ты веди меня, Господь, прошу я,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне в жизненной борьбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Часто искушенья нас тревожат</plain>
+        </string>
+        <string>
+            <plain>И мешают в тьме мирской светить.</plain>
+        </string>
+        <string>
+            <plain>Под крестом и нашею своею,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне, Господи, идти.</plain>
+        </string>
+    </verse>
+</song>

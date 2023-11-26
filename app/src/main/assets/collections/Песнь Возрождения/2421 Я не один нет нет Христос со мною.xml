@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2421" name="Я не один нет нет Христос со мною" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я не один, нет, нет, Христос со мною,</plain>
+        </string>
+        <string>
+            <plain>не бейся сердце трепетно в груди,</plain>
+        </string>
+        <string>
+            <plain>Но всякий час стремись к Нему с мольбою,</plain>
+        </string>
+        <string>
+            <plain>скажи Ему: "Вот я, меня веди".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благодари, когда благословенья,</plain>
+        </string>
+        <string>
+            <plain>как дождь обильный наполняют грудь,</plain>
+        </string>
+        <string>
+            <plain>за дар щедрот и за души спасены,</plain>
+        </string>
+        <string>
+            <plain>благодари, мой друг, и не забудь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благодари, когда скрываешь вежды</plain>
+        </string>
+        <string>
+            <plain>во дни скорбей, паденья и нужды.</plain>
+        </string>
+        <string>
+            <plain>Пусть и они не сокрушат надежды,</plain>
+        </string>
+        <string>
+            <plain>рожденной в бурях на земном пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если в жизни встретятся лишенья,</plain>
+        </string>
+        <string>
+            <plain>мой путь внезапно вдруг покроет мгла.</plain>
+        </string>
+        <string>
+            <plain>Ты удали тогда мое сомненье,</plain>
+        </string>
+        <string>
+            <plain>дай не забыть Твои, Господь, слова:</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="559" name="Брат верь Верь без смущенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Брат, верь! Верь без смущенья!</plain>
+        </string>
+        <string>
+            <plain>Хотя борьба долга,</plain>
+        </string>
+        <string>
+            <plain>С тобою Бог спасенья</plain>
+        </string>
+        <string>
+            <plain>И Он сразит врага.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Брат, верь, брат, верь,</plain>
+        </string>
+        <string>
+            <plain>Хоть ночь вокруг темна;</plain>
+        </string>
+        <string>
+            <plain>Брат, верь, брат, верь,</plain>
+        </string>
+        <string>
+            <plain>Заря уже видна!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Верь! Страшны искушенья,</plain>
+        </string>
+        <string>
+            <plain>Опасен вихрь невзгод,</plain>
+        </string>
+        <string>
+            <plain>Но в жизни без паденья</plain>
+        </string>
+        <string>
+            <plain>Тебя Он проведет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Из жизни помертвелой</plain>
+        </string>
+        <string>
+            <plain>Спасти Бог может нас;</plain>
+        </string>
+        <string>
+            <plain>О, верь Ему всецело,</plain>
+        </string>
+        <string>
+            <plain>Везде и всякий час!</plain>
+        </string>
+    </verse>
+</song>

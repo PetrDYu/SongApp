@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1089" name="Осанна осанна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Осанна, осанна!</plain>
+        </string>
+        <string>
+            <plain>Осанна в вышних Богу,</plain>
+        </string>
+        <string>
+            <plain>Осанна в вышних Богу.</plain>
+        </string>
+        <string>
+            <plain>Превозносим Тебя Сердцем, полным хвалы!</plain>
+        </string>
+        <string>
+            <plain>Будь превознесен. Господь!</plain>
+        </string>
+        <string>
+            <plain>Осанна в вышних Богу!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слава, слава, Слава Тебе, Царь царей!</plain>
+        </string>
+        <string>
+            <plain>Превозносим тебя</plain>
+        </string>
+        <string>
+            <plain>Сердцем, полным хвалы!</plain>
+        </string>
+        <string>
+            <plain>Будь превознесен.</plain>
+        </string>
+        <string>
+            <plain>Господь. Слава Тебе, Царь царей!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы любим, мы любим.</plain>
+        </string>
+        <string>
+            <plain>Мы любим Тебя, Царь царей!</plain>
+        </string>
+        <string>
+            <plain>Мы любим Тебя, Царь царей!</plain>
+        </string>
+        <string>
+            <plain>Превозносим Тебя Сердцем, полным хвалы!</plain>
+        </string>
+        <string>
+            <plain>Будь превознесен, Господь!</plain>
+        </string>
+        <string>
+            <plain>Мы любим Тебя, Царь царей!</plain>
+        </string>
+    </verse>
+</song>

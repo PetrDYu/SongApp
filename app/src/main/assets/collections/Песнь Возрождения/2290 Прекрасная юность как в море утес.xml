@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2290" name="Прекрасная юность как в море утес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прекрасная юность, как в море утес</plain>
+        </string>
+        <string>
+            <plain>Он солнечный свет отражает.</plain>
+        </string>
+        <string>
+            <plain>Как жизнь хороша, если рядом</plain>
+        </string>
+        <string>
+            <plain>Христос Тобою и мной управляет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Расскажи, юность, правду не скрой,</plain>
+        </string>
+        <string>
+            <plain>Когда будем прощаться с тобой,</plain>
+        </string>
+        <string>
+            <plain>И наставь нас на истинный путь,</plain>
+        </string>
+        <string>
+            <plain>Не забудь, не забудь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы юность оставим, дни быстро пройдут,</plain>
+        </string>
+        <string>
+            <plain>Расстаться мы с ней можем смело,</plain>
+        </string>
+        <string>
+            <plain>Когда не напрасно жить будем и труд</plain>
+        </string>
+        <string>
+            <plain>Внесем мы для общего дела.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И юность тогда только плод принесет,</plain>
+        </string>
+        <string>
+            <plain>Когда расцветать она будет,</plain>
+        </string>
+        <string>
+            <plain>Как ранней весной, когда сад расцветет,</plain>
+        </string>
+        <string>
+            <plain>Хозяин снять плод не забудет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А дни убегают, проходят года,</plain>
+        </string>
+        <string>
+            <plain>Совсем мы прожили немного.</plain>
+        </string>
+        <string>
+            <plain>И хочется только, чтоб юность всегда</plain>
+        </string>
+        <string>
+            <plain>Любила и славила Бога.</plain>
+        </string>
+    </verse>
+</song>

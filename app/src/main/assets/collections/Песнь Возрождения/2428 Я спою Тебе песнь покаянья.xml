@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2428" name="Я спою Тебе песнь покаянья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я спою Тебе песнь покаянья,</plain>
+        </string>
+        <string>
+            <plain>Свою горькую песню спою,</plain>
+        </string>
+        <string>
+            <plain>Я кручину и слёзы страдания</plain>
+        </string>
+        <string>
+            <plain>Пред Тобой, мой Господь, изолью.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пред Тобой, пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Пред Тобой свою долю страдания,</plain>
+        </string>
+        <string>
+            <plain>Пред Тобой, мой Господь, изолью.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты прости, Претерпевший мучения,</plain>
+        </string>
+        <string>
+            <plain>Я заставил страдать Тебя вновь.</plain>
+        </string>
+        <string>
+            <plain>Но я гибну, и ради спасения</plain>
+        </string>
+        <string>
+            <plain>-Я Твою призываю любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты возьми меня в руки пречистые,</plain>
+        </string>
+        <string>
+            <plain>Заблудился я в жизни моей,</plain>
+        </string>
+        <string>
+            <plain>Погрузился я в тину нечистую</plain>
+        </string>
+        <string>
+            <plain>Мелких помыслов, мелких страстей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Твоя Божья рука милосердная</plain>
+        </string>
+        <string>
+            <plain>Меня вывела из мрачных оков,</plain>
+        </string>
+        <string>
+            <plain>Зато вечно Тебя я прославлю</plain>
+        </string>
+        <string>
+            <plain>За Твою ко мне, Боже, любовь.</plain>
+        </string>
+    </verse>
+</song>

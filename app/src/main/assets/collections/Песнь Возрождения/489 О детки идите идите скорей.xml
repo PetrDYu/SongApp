@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="489" name="О детки идите идите скорей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О детки, идите, идите скорей</plain>
+        </string>
+        <string>
+            <plain>В пещеру и к яслям спешите живей!</plain>
+        </string>
+        <string>
+            <plain>В такую святую и дивную ночь</plain>
+        </string>
+        <string>
+            <plain>Родился Сын Божий, чтоб людям помочь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Смотрите, как в яслях Спаситель лежит,</plain>
+        </string>
+        <string>
+            <plain>Смотрите, как свет Его чудный горит;</plain>
+        </string>
+        <string>
+            <plain>Небесный Младенец прекрасен и мил,</plain>
+        </string>
+        <string>
+            <plain>Милей и приятнее ангельских сил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лежит Он, ах, детки, в соломе для нас,</plain>
+        </string>
+        <string>
+            <plain>Мария, Иосиф с любовью глядят.</plain>
+        </string>
+        <string>
+            <plain>Пришли пастухи поклониться Христу,</plain>
+        </string>
+        <string>
+            <plain>Хор ангелов славу воспели Ему.</plain>
+        </string>
+    </verse>
+</song>

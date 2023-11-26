@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1294" name="Я не хочу полуправды" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я не хочу полуправды,</plain>
+        </string>
+        <string>
+            <plain>Я не хочу полуцели,</plain>
+        </string>
+        <string>
+            <plain>Я не хочу, чтобы струны</plain>
+        </string>
+        <string>
+            <plain>В сердце напрасно звенели.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я не хочу полуверы,</plain>
+        </string>
+        <string>
+            <plain>Жалких, слепых рассуждений,</plain>
+        </string>
+        <string>
+            <plain>Я не хочу трепетаний,</plain>
+        </string>
+        <string>
+            <plain>В сердце бессильных стремлений.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если отдаться - навеки,</plain>
+        </string>
+        <string>
+            <plain>Если любить - так всецело,</plain>
+        </string>
+        <string>
+            <plain>Так, чтобы пламенем жарким</plain>
+        </string>
+        <string>
+            <plain>Сердце победно горело.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я не хочу полужизни,</plain>
+        </string>
+        <string>
+            <plain>Робкой, бесцветной, бездушной,</plain>
+        </string>
+        <string>
+            <plain>Я не хочу полусмерти</plain>
+        </string>
+        <string>
+            <plain>Жалкой, бесплодной, ненужной.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Пусть же в горниле страданий</plain>
+        </string>
+        <string>
+            <plain>Грешное "я" умирает,</plain>
+        </string>
+        <string>
+            <plain>Пламенем в сердце свободном</plain>
+        </string>
+        <string>
+            <plain>Новая жизнь воскресает.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Я не хочу полуправды,</plain>
+        </string>
+        <string>
+            <plain>Я не хочу полуцели,</plain>
+        </string>
+        <string>
+            <plain>Пусть порываются струны</plain>
+        </string>
+        <string>
+            <plain>Лишь бы не даром звенели!</plain>
+        </string>
+    </verse>
+</song>

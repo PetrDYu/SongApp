@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2356" name="Ты должен петь во что бы то ни стало" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты должен петь во что бы то ни стало,</plain>
+        </string>
+        <string>
+            <plain>Над миром песнь твоя должна звенеть.</plain>
+        </string>
+        <string>
+            <plain>Хотя бы сердце плакало, рыдало,</plain>
+        </string>
+        <string>
+            <plain>Ты должен петь, ты должен петь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хоть песнь твоя одних приводит в ярость,</plain>
+        </string>
+        <string>
+            <plain>Другим она - целительный бальзам.</plain>
+        </string>
+        <string>
+            <plain>И пусть она утешит чью-то старость,</plain>
+        </string>
+        <string>
+            <plain>Направит юность к светлым небесам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты должен петь, пусть песнь твоя несётся</plain>
+        </string>
+        <string>
+            <plain>К сердцам, что страждут в горе и скорбях.</plain>
+        </string>
+        <string>
+            <plain>Пускай она там нежно отзовётся</plain>
+        </string>
+        <string>
+            <plain>В мелодиях и в трепетных стихах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты должен петь, пока благословляет</plain>
+        </string>
+        <string>
+            <plain>Творец и твой, и мой нелёгкий труд,</plain>
+        </string>
+        <string>
+            <plain>Пока сердечный бой не затихает,</plain>
+        </string>
+        <string>
+            <plain>Пока теплится в груди жизнь твоя.</plain>
+        </string>
+    </verse>
+</song>

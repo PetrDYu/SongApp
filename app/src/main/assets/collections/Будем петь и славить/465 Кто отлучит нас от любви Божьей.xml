@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="465" name="Кто отлучит нас от любви Божьей" canon="false" text="М. Винецкой" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Кто отлучит нас от любви Божьей</plain>
+        </string>
+        <string>
+            <plain>В Господе нашем Христе Иисусе?</plain>
+        </string>
+        <string>
+            <plain>Ни меч, ни голод, ни скорбь, ни стужа</plain>
+        </string>
+        <string>
+            <plain>С Господом нас не разлучит!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ни глубь морская, ни ширь земная,</plain>
+        </string>
+        <string>
+            <plain>Ни то, что было, ни то, что будет,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Не отлучит нас от любви Божьей,</plain>
+        </string>
+        <string>
+            <plain>С Господом нас не разлучит!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто отлучит нас от любви Божьей</plain>
+        </string>
+        <string>
+            <plain>В Господе нашем Христе Иисусе?</plain>
+        </string>
+        <string>
+            <plain>Ни жизнь, ни ангел, ни смерть, ни демон</plain>
+        </string>
+        <string>
+            <plain>С Господом нас не разлучит!</plain>
+        </string>
+    </verse>
+</song>

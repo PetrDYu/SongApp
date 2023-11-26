@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2247" name="Новый год наступил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Новый год наступил,</plain>
+        </string>
+        <string>
+            <plain>Я к Тебе приступил.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, я молю, пробуждение</plain>
+        </string>
+        <string>
+            <plain>Ты в сердцах соверши И спасти поспеши</plain>
+        </string>
+        <string>
+            <plain>Наших дней на земле поколение.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, как радостно жить</plain>
+        </string>
+        <string>
+            <plain>И Тебя лишь любить</plain>
+        </string>
+        <string>
+            <plain>Всюду пламенем ярко горящим!</plain>
+        </string>
+        <string>
+            <plain>Пробуждай же людей, Иисус Назорей,</plain>
+        </string>
+        <string>
+            <plain>Под луной и под солнцем палящим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пробуждается год,</plain>
+        </string>
+        <string>
+            <plain>Новый год над землёй,</plain>
+        </string>
+        <string>
+            <plain>Новый свет, свет любви и прощенья.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, О, Творец милосердный,</plain>
+        </string>
+        <string>
+            <plain>Отец, Молим, прости, пошли пробуждены.</plain>
+        </string>
+    </verse>
+</song>

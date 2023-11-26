@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2094" name="Море житейское шумит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Море житейское шумит,</plain>
+        </string>
+        <string>
+            <plain>Волны свои раскидывает,</plain>
+        </string>
+        <string>
+            <plain>Челн мой по морю плывет,</plain>
+        </string>
+        <string>
+            <plain>Волны его заливают.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, поспеши!</plain>
+        </string>
+        <string>
+            <plain>Протяни милости руку,</plain>
+        </string>
+        <string>
+            <plain>Приди с любовью своей,</plain>
+        </string>
+        <string>
+            <plain>Разбей ты сердечную муку.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тяжко мне жить без Тебя,</plain>
+        </string>
+        <string>
+            <plain>Я отчужденный от мира,</plain>
+        </string>
+        <string>
+            <plain>Всеми разбитый людьми,</plain>
+        </string>
+        <string>
+            <plain>Исчерпана вся моя сила.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грех побеждает меня,</plain>
+        </string>
+        <string>
+            <plain>Нет во мне силы сражаться,</plain>
+        </string>
+        <string>
+            <plain>В сердце не стало огня,</plain>
+        </string>
+        <string>
+            <plain>Враг надо мной стал смеяться.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я без Тебя сирота,</plain>
+        </string>
+        <string>
+            <plain>Так одиноко страдаю,</plain>
+        </string>
+        <string>
+            <plain>Когда же придешь Ты ко мне?</plain>
+        </string>
+        <string>
+            <plain>Скажи, мой Господь, умоляю.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хочу же я встретить Тебя,</plain>
+        </string>
+        <string>
+            <plain>Прильнуть же к груди Твоей сильной,</plain>
+        </string>
+        <string>
+            <plain>О, помоги мне, Христос,</plain>
+        </string>
+        <string>
+            <plain>Благослови Ты обильно.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О, поспеши!</plain>
+        </string>
+        <string>
+            <plain>Протяни милости руку,</plain>
+        </string>
+        <string>
+            <plain>Приди с любовью Своей,</plain>
+        </string>
+        <string>
+            <plain>Разбей Ты сердечную муку.</plain>
+        </string>
+    </verse>
+</song>

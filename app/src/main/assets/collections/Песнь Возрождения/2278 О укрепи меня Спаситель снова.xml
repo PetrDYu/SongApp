@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2278" name="О укрепи меня Спаситель снова" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, укрепи меня, Спаситель, снова,</plain>
+        </string>
+        <string>
+            <plain>Я изнемог среди житейских битв.</plain>
+        </string>
+        <string>
+            <plain>Один Ты знаешь недуги больного</plain>
+        </string>
+        <string>
+            <plain>И можешь сострадать душе моей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты положи на сердце веру к жизни</plain>
+        </string>
+        <string>
+            <plain>И исцели меня от многих ран.</plain>
+        </string>
+        <string>
+            <plain>Тогда предстану пред Тобою чистым</plain>
+        </string>
+        <string>
+            <plain>И вновь пойду дорогой в Ханаан!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Направь Ты сердце для молитвы,</plain>
+        </string>
+        <string>
+            <plain>Польётся в радости восторг души.</plain>
+        </string>
+        <string>
+            <plain>Я воспою Тебе с благодареньем</plain>
+        </string>
+        <string>
+            <plain>За всю любовь и милости ко мне.</plain>
+        </string>
+    </verse>
+</song>

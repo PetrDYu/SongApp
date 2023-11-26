@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2815" name="Славный Сион благодатный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Славный Сион, благодатный,</plain>
+        </string>
+        <string>
+            <plain>святая ты Божья гора!</plain>
+        </string>
+        <string>
+            <plain>Нашли мы в тебе мир небесный,</plain>
+        </string>
+        <string>
+            <plain>прошла заблуждения тьма.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радостно мы, радостно мы,</plain>
+        </string>
+        <string>
+            <plain>славим Сион, тебя!</plain>
+        </string>
+        <string>
+            <plain>Радостно мы, радостно мы,</plain>
+        </string>
+        <string>
+            <plain>славим Сион, тебя!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радостно вести вниманием,</plain>
+        </string>
+        <string>
+            <plain>что всем есть свобода в тебе;</plain>
+        </string>
+        <string>
+            <plain>Мы в стенах твоих пребываем,</plain>
+        </string>
+        <string>
+            <plain>Всевышнего град на земле.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страшная тьма наполняла</plain>
+        </string>
+        <string>
+            <plain>греховные наши сердца,</plain>
+        </string>
+        <string>
+            <plain>но святость твоя засияла,</plain>
+        </string>
+        <string>
+            <plain>- нашла утешенье душа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чудный Сион, полный счастья,</plain>
+        </string>
+        <string>
+            <plain>к тебе мы пришли наконец,</plain>
+        </string>
+        <string>
+            <plain>и тысячи шествуют с нами</plain>
+        </string>
+        <string>
+            <plain>в святом ликованье сердец.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Чудный Сион, вестник мира,</plain>
+        </string>
+        <string>
+            <plain>давно о тебе я слыхал,</plain>
+        </string>
+        <string>
+            <plain>когда ж для меня ты открылся,</plain>
+        </string>
+        <string>
+            <plain>всю пр ел есть твою увидал.</plain>
+        </string>
+    </verse>
+</song>

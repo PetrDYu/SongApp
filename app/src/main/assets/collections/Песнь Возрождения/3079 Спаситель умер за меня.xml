@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3079" name="Спаситель умер за меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель умер за меня</plain>
+        </string>
+        <string>
+            <plain>и снял с меня вину.</plain>
+        </string>
+        <string>
+            <plain>Спасти Он хочет и тебя</plain>
+        </string>
+        <string>
+            <plain>- открой же дверь Ему!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дни сочтены - впусти Христа,</plain>
+        </string>
+        <string>
+            <plain>стоит Он у двери!</plain>
+        </string>
+        <string>
+            <plain>Принес Он счастье для тебя</plain>
+        </string>
+        <string>
+            <plain>- о грешник отвори!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О грешник, поклонись Христу,</plain>
+        </string>
+        <string>
+            <plain>скажи, что на душе.</plain>
+        </string>
+        <string>
+            <plain>Он знает всю твою нужду,</plain>
+        </string>
+        <string>
+            <plain>готов помочь тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уж много лет Он день за днем</plain>
+        </string>
+        <string>
+            <plain>стучится в дверь твою.</plain>
+        </string>
+        <string>
+            <plain>Оставь же мир и все, что в нем,</plain>
+        </string>
+        <string>
+            <plain>скорей приди к Нему!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди, пока есть благодать,</plain>
+        </string>
+        <string>
+            <plain>и сердца дверь открой,</plain>
+        </string>
+        <string>
+            <plain>свою ты жизнь Христу отдай,</plain>
+        </string>
+        <string>
+            <plain>ведь путь короток твой.</plain>
+        </string>
+    </verse>
+</song>

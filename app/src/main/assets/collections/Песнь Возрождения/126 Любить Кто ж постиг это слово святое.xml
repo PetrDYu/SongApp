@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="126" name="Любить Кто ж постиг это слово святое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любить! Кто ж постиг это слово святое?</plain>
+        </string>
+        <string>
+            <plain>Кто ж вник в его смысл и значенье?</plain>
+        </string>
+        <string>
+            <plain>Любить - это значит на счастье чужое</plain>
+        </string>
+        <string>
+            <plain>Смотреть со слезой умиленья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Любить - это с ближним, как с другом и братом,</plain>
+        </string>
+        <string>
+            <plain>Делить его горе, мученье;</plain>
+        </string>
+        <string>
+            <plain>Быть недругам - другом, прощать виноватым,</plain>
+        </string>
+        <string>
+            <plain>Уняв в себе злобу презренья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любить - это значит смотреть с сожаленьем</plain>
+        </string>
+        <string>
+            <plain>На зло и пороки людские;</plain>
+        </string>
+        <string>
+            <plain>Заблудшим людям указать путь к спасенью,</plain>
+        </string>
+        <string>
+            <plain>Давая советы благие.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любить - это значит для счастья другого</plain>
+        </string>
+        <string>
+            <plain>Отречься от личных стремлений;</plain>
+        </string>
+        <string>
+            <plain>Любить - это Бога великое слово,</plain>
+        </string>
+        <string>
+            <plain>Но кто ж его понял значенье?</plain>
+        </string>
+    </verse>
+</song>

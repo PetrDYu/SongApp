@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2051" name="Возлюбил людей Спаситель в деле доказал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возлюбил людей Спаситель - в деле доказал:</plain>
+        </string>
+        <string>
+            <plain>На кресте святые руки каждый увидал.</plain>
+        </string>
+        <string>
+            <plain>За тебя, меня страдая, умер Он любя,</plain>
+        </string>
+        <string>
+            <plain>Кровь святую проливая, нам спасены дал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Воистину воскрес!" - звучат слова,</plain>
+        </string>
+        <string>
+            <plain>Воистину ожил Христос тогда,</plain>
+        </string>
+        <string>
+            <plain>Воистину живет Христос</plain>
+        </string>
+        <string>
+            <plain>Всегда внаших сердцах (в сердцах).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все греховное отвергнув, принимай Христа.</plain>
+        </string>
+        <string>
+            <plain>Его руки полны счастья, их ищи всегда.</plain>
+        </string>
+        <string>
+            <plain>Это радость, это счастье, - путь на небеса.</plain>
+        </string>
+        <string>
+            <plain>Ведь Христос воскрес из мертвых - верим ты и я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И хотя проходят годы, в даль бегут века,</plain>
+        </string>
+        <string>
+            <plain>нашей жизни дни немноги выбирай Христа.</plain>
+        </string>
+        <string>
+            <plain>Иисус оставил путь Свой, по нему пойдем,</plain>
+        </string>
+        <string>
+            <plain>И к небесному чертогу только с Ним дойдем.</plain>
+        </string>
+    </verse>
+</song>

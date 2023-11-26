@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3234" name="Уж древние обетованья гласят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж древние обетованья гласят:</plain>
+        </string>
+        <string>
+            <plain>святую страну дети Божьи узрят.</plain>
+        </string>
+        <string>
+            <plain>Лишь верой одной её могут</plain>
+        </string>
+        <string>
+            <plain>сыны Авраама - не счесть их ряды.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Войдут в землю дети веры живой,</plain>
+        </string>
+        <string>
+            <plain>Бог сам их ведёт всесильною рукой.</plain>
+        </string>
+        <string>
+            <plain>О, слава Иисусу! Весь я Его.</plain>
+        </string>
+        <string>
+            <plain>Для мира я умер, живу для Него.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Подобно войскам фараона, грехи</plain>
+        </string>
+        <string>
+            <plain>чрез плод покаяния в бездну ушли.</plain>
+        </string>
+        <string>
+            <plain>И дальше наш путь чрез пустыню лежал,</plain>
+        </string>
+        <string>
+            <plain>на этом пути Бог нас вёл, сохранял.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы падали духом - Христос ободрял,</plain>
+        </string>
+        <string>
+            <plain>учил нас идти, веры щит предлагал.</plain>
+        </string>
+        <string>
+            <plain>Чрез веру нашли мы небесный покой,</plain>
+        </string>
+        <string>
+            <plain>и «Аминь» сказал наш Спаситель благой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как дорог покой, что мы В Нём обрели,</plain>
+        </string>
+        <string>
+            <plain>когда полноту мы спасенья нашли!</plain>
+        </string>
+        <string>
+            <plain>О мир, полный мир, ты наполнил мне грудь</plain>
+        </string>
+        <string>
+            <plain>и дал мне небесную радость вдохнуть!</plain>
+        </string>
+    </verse>
+</song>

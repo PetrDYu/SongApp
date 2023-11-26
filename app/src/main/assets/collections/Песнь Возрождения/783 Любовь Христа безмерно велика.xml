@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="783" name="Любовь Христа безмерно велика" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь Христа безмерно велика,</plain>
+        </string>
+        <string>
+            <plain>Начала нет и льется, как река,</plain>
+        </string>
+        <string>
+            <plain>И как волна лобзает берега,</plain>
+        </string>
+        <string>
+            <plain>И глубока, светла и широка.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И если б не было любви,</plain>
+        </string>
+        <string>
+            <plain>Любви Христа, мы б не смогли</plain>
+        </string>
+        <string>
+            <plain>Иметь надежду вечно жить</plain>
+        </string>
+        <string>
+            <plain>И, как Спаситель, всех людей любить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди скорей, скорей, тебя Он ждет,</plain>
+        </string>
+        <string>
+            <plain>Давно стоит у каменных ворот,</plain>
+        </string>
+        <string>
+            <plain>Стучит к тебе, открой, уже пора,</plain>
+        </string>
+        <string>
+            <plain>Прими любовь без злата, серебра.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, если б знал живущий на земле</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа, лишь ею дышат все!</plain>
+        </string>
+        <string>
+            <plain>И если б Бог любовь отнял на миг,</plain>
+        </string>
+        <string>
+            <plain>То этот мир давно б уже погиб.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он возлюбил тебя, меня давно.</plain>
+        </string>
+        <string>
+            <plain>Он возлюбил и тех, кто лишь одно</plain>
+        </string>
+        <string>
+            <plain>Твердили: "Нет!" И поднимали смех,</plain>
+        </string>
+        <string>
+            <plain>А Он с любовью призывает всех.</plain>
+        </string>
+    </verse>
+</song>

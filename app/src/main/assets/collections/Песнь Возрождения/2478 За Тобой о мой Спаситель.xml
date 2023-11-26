@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2478" name="За Тобой о мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За Тобой, о, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Всюду следовать готов.</plain>
+        </string>
+        <string>
+            <plain>Я тебе лишь доверяюсь,</plain>
+        </string>
+        <string>
+            <plain>Я познал Твою любовь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>По Твоим следам, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Всюду следовать готов.</plain>
+        </string>
+        <string>
+            <plain>Неизменно, непрестанно,</plain>
+        </string>
+        <string>
+            <plain>Как послушный раб Христов.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть и труден путь тернистый,</plain>
+        </string>
+        <string>
+            <plain>Устает дух слабый мой.</plain>
+        </string>
+        <string>
+            <plain>Все же следовать я буду</plain>
+        </string>
+        <string>
+            <plain>Неуклонно за Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если встречу искушены</plain>
+        </string>
+        <string>
+            <plain>Иль опасность на пути,</plain>
+        </string>
+        <string>
+            <plain>Ты даруешь мне терпенье</plain>
+        </string>
+        <string>
+            <plain>По следам Твоим идти.</plain>
+        </string>
+    </verse>
+</song>

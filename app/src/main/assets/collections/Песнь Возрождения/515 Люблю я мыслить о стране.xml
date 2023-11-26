@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="515" name="Люблю я мыслить о стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю я мыслить о стране,</plain>
+        </string>
+        <string>
+            <plain>Где ангелы живут</plain>
+        </string>
+        <string>
+            <plain>И в яркой снежной белизне</plain>
+        </string>
+        <string>
+            <plain>О Господе поют.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Греха не будет,</plain>
+        </string>
+        <string>
+            <plain>Греха не будет,</plain>
+        </string>
+        <string>
+            <plain>Греха не будет,</plain>
+        </string>
+        <string>
+            <plain>Греха не будет там!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люблю я мыслить о стране,</plain>
+        </string>
+        <string>
+            <plain>Где Бог любви царит,</plain>
+        </string>
+        <string>
+            <plain>Где краше лилий по весне</plain>
+        </string>
+        <string>
+            <plain>Цвет радости горит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Люблю я мыслить о стране,</plain>
+        </string>
+        <string>
+            <plain>Где путники земли,</plain>
+        </string>
+        <string>
+            <plain>Проливши кровь в святой войне</plain>
+        </string>
+        <string>
+            <plain>Венец побед нашли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Люблю я мыслить о стране,</plain>
+        </string>
+        <string>
+            <plain>Где после битвы злой</plain>
+        </string>
+        <string>
+            <plain>Откроют вход свободный мне</plain>
+        </string>
+        <string>
+            <plain>И я найду покой.</plain>
+        </string>
+    </verse>
+</song>

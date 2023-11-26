@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="20" name="Там, где есть любовь и милость," canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Там, где есть любовь и милость,</plain>
+        </string>
+        <string>
+            <plain>Там, где есть любовь, там и есть Бог.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Ubi caritas et amor, ubi caritas Deus ibi est.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="165" name="Муж скорбей так назван Тот, Кто с заоблачных высот" canon="false" text="Ф. П. Брисса" textRus="Д. Ясько" music="Ф. П. Брисса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>«Муж скорбей» – так назван Тот, Кто с заоблачных высот</plain>
+        </string>
+        <string>
+            <plain>Приходил спасти народ. «Аллилуйя, наш Спаситель!»</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Скорбь и боль изведал Он, был поруган, осужден,</plain>
+        </string>
+        <string>
+            <plain>К древу смерти пригвожден. «Аллилуйя, наш Спаситель!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы греха и зла полны, Агнец Божий, только Ты</plain>
+        </string>
+        <string>
+            <plain>Искупил нас от вины. «Аллилуйя, наш Спаситель!»</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>«Совершилось!» – возгласил, за виновных смерть вкусил,</plain>
+        </string>
+        <string>
+            <plain>В небо с радостью вступил. «Аллилуйя, наш Спаситель!»</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В день, когда опять придет взять искупленный народ,</plain>
+        </string>
+        <string>
+            <plain>Каждый верный воспоет: «Аллилуйя! Наш Спаситель!»</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1528" name="Бывает любовь до гроба" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бывает любовь до гроба,</plain>
+        </string>
+        <string>
+            <plain>если влюблены оба.</plain>
+        </string>
+        <string>
+            <plain>Как это поётся в песне:</plain>
+        </string>
+        <string>
+            <plain>готовы и на смерть вместе.</plain>
+        </string>
+        <string>
+            <plain>Бывает любовь лучистая,</plain>
+        </string>
+        <string>
+            <plain>умеет божиться истово,</plain>
+        </string>
+        <string>
+            <plain>Бывает, в любви изменяют,</plain>
+        </string>
+        <string>
+            <plain>бывает любовь, бывает...</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но я знаю любовь бесконечных границ.</plain>
+        </string>
+        <string>
+            <plain>Перед ней все легенды померкли.</plain>
+        </string>
+        <string>
+            <plain>Что сильнее смертей и тверда, как гранит?</plain>
+        </string>
+        <string>
+            <plain>Это дружба Христа и Церкви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бывает любовь как подвиг,</plain>
+        </string>
+        <string>
+            <plain>забывшая сон и отдых.</plain>
+        </string>
+        <string>
+            <plain>Бывает любовь и верная,</plain>
+        </string>
+        <string>
+            <plain>бывает, что в жизни первая.</plain>
+        </string>
+        <string>
+            <plain>Бывает, в любовь играют,</plain>
+        </string>
+        <string>
+            <plain>бывает любовь... бывает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бывает любовь как пламя,</plain>
+        </string>
+        <string>
+            <plain>Любовь - это жизни знамя,</plain>
+        </string>
+        <string>
+            <plain>И пусть не смущает возраст:</plain>
+        </string>
+        <string>
+            <plain>любить никогда не поздно.</plain>
+        </string>
+        <string>
+            <plain>Бывает любовь и нежная,</plain>
+        </string>
+        <string>
+            <plain>покорная и мятежная,</plain>
+        </string>
+        <string>
+            <plain>Бывает, её и не знают,</plain>
+        </string>
+        <string>
+            <plain>бывает любовь... бывает.</plain>
+        </string>
+    </verse>
+</song>

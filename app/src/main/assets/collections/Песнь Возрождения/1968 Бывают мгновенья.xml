@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1968" name="Бывают мгновенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бывают мгновенья:</plain>
+        </string>
+        <string>
+            <plain>Как днем облака,</plain>
+        </string>
+        <string>
+            <plain>В жилище мышленья</plain>
+        </string>
+        <string>
+            <plain>Нисходит тоска.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тоска без причины.</plain>
+        </string>
+        <string>
+            <plain>Без слов, без мыслей.</plain>
+        </string>
+        <string>
+            <plain>Нет горше кручины,</plain>
+        </string>
+        <string>
+            <plain>Нет скорби темней.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как камень, сгибает</plain>
+        </string>
+        <string>
+            <plain>Тростник полевой,</plain>
+        </string>
+        <string>
+            <plain>Тоска угнетает</plain>
+        </string>
+        <string>
+            <plain>Душевный покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как в ночь непогода</plain>
+        </string>
+        <string>
+            <plain>Темна у реки,</plain>
+        </string>
+        <string>
+            <plain>Не видно исхода</plain>
+        </string>
+        <string>
+            <plain>Для мрачной тоски.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В томленьи и муке</plain>
+        </string>
+        <string>
+            <plain>Доносятся к ней</plain>
+        </string>
+        <string>
+            <plain>Откуда-то звуки</plain>
+        </string>
+        <string>
+            <plain>Нежданных песней.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Те звуки печальны,</plain>
+        </string>
+        <string>
+            <plain>Но сладки, как звон;</plain>
+        </string>
+        <string>
+            <plain>И тихи, как дальний</plain>
+        </string>
+        <string>
+            <plain>Молитвенный стон.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Той муки сердечной</plain>
+        </string>
+        <string>
+            <plain>Где корень сокрыт?</plain>
+        </string>
+        <string>
+            <plain>По родине вечной</plain>
+        </string>
+        <string>
+            <plain>Тоска в ней звучит.</plain>
+        </string>
+    </verse>
+</song>

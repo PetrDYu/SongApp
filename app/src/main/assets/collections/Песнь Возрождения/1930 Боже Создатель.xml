@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1930" name="Боже Создатель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Создатель!</plain>
+        </string>
+        <string>
+            <plain>Ты создал от века нас</plain>
+        </string>
+        <string>
+            <plain>Делать благое</plain>
+        </string>
+        <string>
+            <plain>В этой земной жизни.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, Ты знаешь.</plain>
+        </string>
+        <string>
+            <plain>Мы лишь злое делали,</plain>
+        </string>
+        <string>
+            <plain>Лишь согрешенья:</plain>
+        </string>
+        <string>
+            <plain>Смерть нам воздаянье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы погибали.</plain>
+        </string>
+        <string>
+            <plain>Но Ты Сына послал к нам;</plain>
+        </string>
+        <string>
+            <plain>Умер Он в муке,</plain>
+        </string>
+        <string>
+            <plain>Жизнь вечную дал нам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Радость какая!</plain>
+        </string>
+        <string>
+            <plain>От греха свободны мы:</plain>
+        </string>
+        <string>
+            <plain>Вечно мы с святыми</plain>
+        </string>
+        <string>
+            <plain>Будем там на небе.</plain>
+        </string>
+    </verse>
+</song>

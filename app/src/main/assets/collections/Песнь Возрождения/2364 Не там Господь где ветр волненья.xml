@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2364" name="Не там Господь где ветр волненья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не там Господь, где ветр волненья</plain>
+        </string>
+        <string>
+            <plain>Дух разделенья возбуждает.</plain>
+        </string>
+        <string>
+            <plain>Не там Господь, где ветр волненья</plain>
+        </string>
+        <string>
+            <plain>Дух разделенья возбуждает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но там Господь, где дух общенья,</plain>
+        </string>
+        <string>
+            <plain>Дух мира души наполняет,</plain>
+        </string>
+        <string>
+            <plain>Дух мира души наполняет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не там Господь, где вихрь гоненья</plain>
+        </string>
+        <string>
+            <plain>В него надежду потрясает,</plain>
+        </string>
+        <string>
+            <plain>Не там Господь, гце вихрь гоненья</plain>
+        </string>
+        <string>
+            <plain>В него надежду потрясает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не там Господь, где огнь сомненья</plain>
+        </string>
+        <string>
+            <plain>Любовь и ревность сожигает,</plain>
+        </string>
+        <string>
+            <plain>Не там Господь, где огнь сомненья</plain>
+        </string>
+        <string>
+            <plain>Любовь и ревность сожигает.</plain>
+        </string>
+    </verse>
+</song>

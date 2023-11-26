@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="284" name="Эту песню в сердце нам вложил Иисус," canon="false" text="Г. Кендрика" textRus="А. Черняка" music="Г. Кендрика" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Эту песню в сердце нам вложил Иисус,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Эту песню радости, что не отнять.</plain>
+        </string>
+        <string>
+            <plain>Эту песню в сердце нам вложил Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Он нас научил, как жить в согласии, –</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Разные народы, расы, племена,</plain>
+        </string>
+        <string>
+            <plain>Он нас научил в согласьи жить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Он призвал нас быть одной семьею</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И любить друг друга, как Он любит нас.</plain>
+        </string>
+        <string>
+            <plain>Он призвал нас быть одной семьей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Он унес печаль – и мы ликуем все,</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Слезы будут только лишь от радости.</plain>
+        </string>
+        <string>
+            <plain>Он унес печаль – ликуем все.</plain>
+        </string>
+    </verse>
+</song>

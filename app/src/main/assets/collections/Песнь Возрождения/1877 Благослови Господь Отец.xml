@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1877" name="Благослови Господь Отец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благослови, Господь Отец,</plain>
+        </string>
+        <string>
+            <plain>Ты для трапезы дар земной,</plain>
+        </string>
+        <string>
+            <plain>Который дал в любви святой</plain>
+        </string>
+        <string>
+            <plain>Мне в пищу Ты, благой Творец!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты удостой Твой дар вкусить</plain>
+        </string>
+        <string>
+            <plain>Для плоти немощной моей;</plain>
+        </string>
+        <string>
+            <plain>Чтоб крест твой радостно носить,</plain>
+        </string>
+        <string>
+            <plain>Благословение излей! Аминь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3005" name="Таится враг на жизненном пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Таится враг на жизненном пути,</plain>
+        </string>
+        <string>
+            <plain>желая вред мне принести,</plain>
+        </string>
+        <string>
+            <plain>но побеждаю я,</plain>
+        </string>
+        <string>
+            <plain>не сдамся никогда,</plain>
+        </string>
+        <string>
+            <plain>верным буду до конца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Побеждаю я, да, побеждаю я,</plain>
+        </string>
+        <string>
+            <plain>здесь побеждаю я с Иисусом.</plain>
+        </string>
+        <string>
+            <plain>Хоть жаркая борьба,</plain>
+        </string>
+        <string>
+            <plain>я говорю всегда,</plain>
+        </string>
+        <string>
+            <plain>что побеждаю я с Иисусом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть битва будет очень тяжела,</plain>
+        </string>
+        <string>
+            <plain>и сила вражья велика;</plain>
+        </string>
+        <string>
+            <plain>хоть жарко будет мне</plain>
+        </string>
+        <string>
+            <plain>в духовной с Ним борьбе</plain>
+        </string>
+        <string>
+            <plain>- побеждаю я в Христе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все души, что искуплены Христом,</plain>
+        </string>
+        <string>
+            <plain>готовы к битве с злым врагом;</plain>
+        </string>
+        <string>
+            <plain>ряды борцов стоят,</plain>
+        </string>
+        <string>
+            <plain>не повернут назад:</plain>
+        </string>
+        <string>
+            <plain>с Иисусом победят.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я радостно всегда вперёд иду,</plain>
+        </string>
+        <string>
+            <plain>Иисусу верно я служу;</plain>
+        </string>
+        <string>
+            <plain>с Ним я непобедим</plain>
+        </string>
+        <string>
+            <plain>и непоколебим</plain>
+        </string>
+        <string>
+            <plain>с войском всем Его святым.</plain>
+        </string>
+    </verse>
+</song>

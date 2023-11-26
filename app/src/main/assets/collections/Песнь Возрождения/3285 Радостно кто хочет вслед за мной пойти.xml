@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3285" name="Радостно кто хочет вслед за мной пойти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>«Радостно кто хочет вслед за мной пойти,</plain>
+        </string>
+        <string>
+            <plain>повсюду весть благую грешникам нести?</plain>
+        </string>
+        <string>
+            <plain>Посвятит себя кто делу Моему</plain>
+        </string>
+        <string>
+            <plain>и охотно скажет: «Я, Господь, пойду!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>«Кто трудиться хочет?</plain>
+        </string>
+        <string>
+            <plain>Кто за Мной пойдёт?»</plain>
+        </string>
+        <string>
+            <plain>- Поспеши с ответом:</plain>
+        </string>
+        <string>
+            <plain>скоро ночь придёт.</plain>
+        </string>
+        <string>
+            <plain>Кто охотно скажет:</plain>
+        </string>
+        <string>
+            <plain>«О пошли меня, быть твоим</plain>
+        </string>
+        <string>
+            <plain>посланником желаю я!»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И не ради славы и богатств земных</plain>
+        </string>
+        <string>
+            <plain>- из любви к погибшим приглашай же их,</plain>
+        </string>
+        <string>
+            <plain>вдоль дороги иди же, вдоль оград ищи,</plain>
+        </string>
+        <string>
+            <plain>многих убеди же ко Христу прийти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто бесстрашно хочет тяжкий труд нести,</plain>
+        </string>
+        <string>
+            <plain>чрез борьбу и слёзы, может быть, пройти?</plain>
+        </string>
+        <string>
+            <plain>Души выводи ты из греховной тьмы,</plain>
+        </string>
+        <string>
+            <plain>к Господу Иисусу путь им укажи.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто, не уставая, будет так идти,</plain>
+        </string>
+        <string>
+            <plain>пока Бог не скажет: «В твой покой войди!»</plain>
+        </string>
+        <string>
+            <plain>О, возьми меня, Бог, я хочу вполне</plain>
+        </string>
+        <string>
+            <plain>свои силы, время посвятить Тебе!</plain>
+        </string>
+    </verse>
+</song>

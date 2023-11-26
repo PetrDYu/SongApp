@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2900" name="Гимн победы на Сионе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Гимн победы на Сионе</plain>
+        </string>
+        <string>
+            <plain>снова слышим мы,</plain>
+        </string>
+        <string>
+            <plain>- возвращаются к Сиону</plain>
+        </string>
+        <string>
+            <plain>пленники из тьмы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Песня радостно звучит,</plain>
+        </string>
+        <string>
+            <plain>то народ Христа в Сион,</plain>
+        </string>
+        <string>
+            <plain>домой спешит,</plain>
+        </string>
+        <string>
+            <plain>в Сион спешит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Песни громко раздаются,</plain>
+        </string>
+        <string>
+            <plain>весть несётся вдаль,</plain>
+        </string>
+        <string>
+            <plain>ангел с неба возвещает:</plain>
+        </string>
+        <string>
+            <plain>«Вавилон уж пал!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Радостная песнь свободы</plain>
+        </string>
+        <string>
+            <plain>слышится вдали:</plain>
+        </string>
+        <string>
+            <plain>Мы из рабства Вавилона</plain>
+        </string>
+        <string>
+            <plain>навсегда ушли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Песни радости с Сиона</plain>
+        </string>
+        <string>
+            <plain>слух ласкают мне;</plain>
+        </string>
+        <string>
+            <plain>вечное блаженство</plain>
+        </string>
+        <string>
+            <plain>я нашёл в Христе.</plain>
+        </string>
+    </verse>
+</song>

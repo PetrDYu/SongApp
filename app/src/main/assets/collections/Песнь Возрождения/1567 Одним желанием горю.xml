@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1567" name="Одним желанием горю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Одним желанием горю.</plain>
+        </string>
+        <string>
+            <plain>Живу одной мечтой:</plain>
+        </string>
+        <string>
+            <plain>Нести спасения зарю</plain>
+        </string>
+        <string>
+            <plain>В поток людской.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Гори, прекрасная звезда.</plain>
+        </string>
+        <string>
+            <plain>Дорогу освещай,</plain>
+        </string>
+        <string>
+            <plain>Любовь Спасителя Христа</plain>
+        </string>
+        <string>
+            <plain>Всем людям возвещай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вокруг темно. Осенний мрак</plain>
+        </string>
+        <string>
+            <plain>Вселяет в сердце страх,</plain>
+        </string>
+        <string>
+            <plain>Но я иду, и свет добра</plain>
+        </string>
+        <string>
+            <plain>Держу в руках.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Студеный ветер на пути</plain>
+        </string>
+        <string>
+            <plain>Пророчит мне беду.</plain>
+        </string>
+        <string>
+            <plain>И нелегко подчас идти,</plain>
+        </string>
+        <string>
+            <plain>Но я иду.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Сквозь зной палящий, холода</plain>
+        </string>
+        <string>
+            <plain>Спешу на каждый зов.</plain>
+        </string>
+        <string>
+            <plain>А впереди идет Звезда</plain>
+        </string>
+        <string>
+            <plain>- Христа любовь.</plain>
+        </string>
+    </verse>
+</song>

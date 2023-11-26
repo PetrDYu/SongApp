@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1513" name="В теле душа как бумага в конверте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В теле душа, как бумага в конверте,</plain>
+        </string>
+        <string>
+            <plain>Жизнь нас несет, как письмо;</plain>
+        </string>
+        <string>
+            <plain>Неумолимые ножницы смерти</plain>
+        </string>
+        <string>
+            <plain>Скоро разрежут его.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь пройдет, как дуновенье,</plain>
+        </string>
+        <string>
+            <plain>Одной свечой, пустеет вдруг земля.</plain>
+        </string>
+        <string>
+            <plain>И, чтоб одной звездой богаче стало</plain>
+        </string>
+        <string>
+            <plain>Небо, вера чудотворная нужна.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вынет Господь из конверта, из тела</plain>
+        </string>
+        <string>
+            <plain>Душу, и в этом письме</plain>
+        </string>
+        <string>
+            <plain>Он прочитает о том, что ты сделал</plain>
+        </string>
+        <string>
+            <plain>Здесь для Него на земле.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В день тысяч сто отправляется писем,</plain>
+        </string>
+        <string>
+            <plain>В вечность идет адресат:</plain>
+        </string>
+        <string>
+            <plain>От содержания жизни зависит</plain>
+        </string>
+        <string>
+            <plain>Будущность - ад или рай.</plain>
+        </string>
+    </verse>
+</song>

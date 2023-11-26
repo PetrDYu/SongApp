@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="972" name="О небо голубое небо" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О небо, голубое небо!</plain>
+        </string>
+        <string>
+            <plain>Люблю я наблюдать твою красу,</plain>
+        </string>
+        <string>
+            <plain>Когда в час ранний пред рассветом</plain>
+        </string>
+        <string>
+            <plain>Кропишь на землю ты свою росу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О небо, дорогое небо,</plain>
+        </string>
+        <string>
+            <plain>Как много скрыто в синеве твоей!</plain>
+        </string>
+        <string>
+            <plain>За ней все вечно и все ново,</plain>
+        </string>
+        <string>
+            <plain>Там все сокровище души моей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люблю я утреннее небо,</plain>
+        </string>
+        <string>
+            <plain>Светлеющее пред рассветом дня,</plain>
+        </string>
+        <string>
+            <plain>Когда, мрак ночи разгоняя,</plain>
+        </string>
+        <string>
+            <plain>Восходит солнце, полное огня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как часто взор мой привлекаешь</plain>
+        </string>
+        <string>
+            <plain>Своею беспредельной высотой</plain>
+        </string>
+        <string>
+            <plain>И тихо мне напоминаешь</plain>
+        </string>
+        <string>
+            <plain>Свое начало - день второй.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Когда Творец, мир созидая,</plain>
+        </string>
+        <string>
+            <plain>Сияньем лика разгонял Он мрак,</plain>
+        </string>
+        <string>
+            <plain>Великой силой обладая, Сказал:</plain>
+        </string>
+        <string>
+            <plain>"Да будет свет!" - И стало так.</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>С тех пор зовут тебя все небом,</plain>
+        </string>
+        <string>
+            <plain>Сам Бог тебе такое имя дал.</plain>
+        </string>
+        <string>
+            <plain>Луну и звезды дал в объятья</plain>
+        </string>
+        <string>
+            <plain>И множеством созвездий увенчал.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда же ночью очень темной</plain>
+        </string>
+        <string>
+            <plain>Лазурных красок не видать в тебе,</plain>
+        </string>
+        <string>
+            <plain>То звездочки, мерцая ровно,</plain>
+        </string>
+        <string>
+            <plain>На миг не замолкают о тебе.</plain>
+        </string>
+    </verse>
+</song>

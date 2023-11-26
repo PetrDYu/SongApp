@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="596" name="Радостно славлю я Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радостно славлю я Христа,</plain>
+        </string>
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Быв рожден, как дитя,</plain>
+        </string>
+        <string>
+            <plain>Был Он в ясли положен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Царь Иисус в пещере</plain>
+        </string>
+        <string>
+            <plain>Кротко возлежал,</plain>
+        </string>
+        <string>
+            <plain>Пастухов и мудрецов</plain>
+        </string>
+        <string>
+            <plain>К яслям привлекал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радостно славлю я Христа,</plain>
+        </string>
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Быв рожден, как дитя,</plain>
+        </string>
+        <string>
+            <plain>Был Он в ясли положен.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Пастухи у ясель</plain>
+        </string>
+        <string>
+            <plain>Славили Творца,</plain>
+        </string>
+        <string>
+            <plain>Пусть теперь Ему поют</plain>
+        </string>
+        <string>
+            <plain>Всех людей сердца.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Радостно славлю я Христа,</plain>
+        </string>
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Быв рожден, как дитя,</plain>
+        </string>
+        <string>
+            <plain>Был Он в ясли положен.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Славьте Иисуса все места!</plain>
+        </string>
+        <string>
+            <plain>Мудрецы с дарами</plain>
+        </string>
+        <string>
+            <plain>Ко Христу пришли,</plain>
+        </string>
+        <string>
+            <plain>Принесем Ему и мы</plain>
+        </string>
+        <string>
+            <plain>Все дары земли.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2895" name="Радость радость непрестанно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радость, радость; непрестанно!</plain>
+        </string>
+        <string>
+            <plain>Будем радостны всегда!</plain>
+        </string>
+        <string>
+            <plain>Луч отрады, Богом данной,</plain>
+        </string>
+        <string>
+            <plain>не погаснет никогда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радость, радость непрестанно!</plain>
+        </string>
+        <string>
+            <plain>Будем радостны всегда!</plain>
+        </string>
+        <string>
+            <plain>Луч отрады, Богом данной,</plain>
+        </string>
+        <string>
+            <plain>не погаснет никогда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог нас сам ведёт за руки,</plain>
+        </string>
+        <string>
+            <plain>помогает нам в борьбе;</plain>
+        </string>
+        <string>
+            <plain>нас хранит от бед и муки,</plain>
+        </string>
+        <string>
+            <plain>нашей внемлет Он мольбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>По следам пойдём Христовым,</plain>
+        </string>
+        <string>
+            <plain>будем льнуть к рукам Его,</plain>
+        </string>
+        <string>
+            <plain>чтоб под бременем суровым</plain>
+        </string>
+        <string>
+            <plain>не пропасть нам без Него .</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Радость веры, жизнь дающей,</plain>
+        </string>
+        <string>
+            <plain>пусть, как солнце, в нас горит!</plain>
+        </string>
+        <string>
+            <plain>Любит всех нас Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>много благ Он нам дарит.</plain>
+        </string>
+    </verse>
+</song>

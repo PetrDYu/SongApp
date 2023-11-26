@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="740" name="Вот прошли тысячелетья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот прошли тысячелетья...</plain>
+        </string>
+        <string>
+            <plain>Над землей, над миром этим</plain>
+        </string>
+        <string>
+            <plain>Все по-прежнему нам светит солнца свет.</plain>
+        </string>
+        <string>
+            <plain>Но настанет это время:</plain>
+        </string>
+        <string>
+            <plain>День суда и воскресенья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб открыто нам пред Богом дать ответ.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О день суда!</plain>
+        </string>
+        <string>
+            <plain>За все года дашь тогда</plain>
+        </string>
+        <string>
+            <plain>За жизнь прожитую отчет.</plain>
+        </string>
+        <string>
+            <plain>О человек, твой краток век,</plain>
+        </string>
+        <string>
+            <plain>Торопись теперь спастись!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Образ смертного приемля,</plain>
+        </string>
+        <string>
+            <plain>Божий Сын пришел на землю,</plain>
+        </string>
+        <string>
+            <plain>Всех, кто гласу Его внемлют, чтоб спасти.</plain>
+        </string>
+        <string>
+            <plain>От греха и преступленья</plain>
+        </string>
+        <string>
+            <plain>Совершил Он искупленье,</plain>
+        </string>
+        <string>
+            <plain>Всякий может в Нем спасенье обрести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог зовет, и неизвестно</plain>
+        </string>
+        <string>
+            <plain>Сколь продлится зов небесный</plain>
+        </string>
+        <string>
+            <plain>Над землей, над миром грешным, друг спеши!</plain>
+        </string>
+        <string>
+            <plain>Жизни вечный дар, вещая,</plain>
+        </string>
+        <string>
+            <plain>Бог не завтра обещает,</plain>
+        </string>
+        <string>
+            <plain>Но сегодня предлагает для души.</plain>
+        </string>
+    </verse>
+</song>

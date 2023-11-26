@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="288" name="Людям блуждающим путь укажите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Людям блуждающим путь укажите,</plain>
+        </string>
+        <string>
+            <plain>Близких к паденью держите рукой!</plain>
+        </string>
+        <string>
+            <plain>Всем погибающим правду скажите,</plain>
+        </string>
+        <string>
+            <plain>Вновь пробудите уснувших душой!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Людям блуждающим</plain>
+        </string>
+        <string>
+            <plain>Путь укажите,</plain>
+        </string>
+        <string>
+            <plain>Близких к паденью</plain>
+        </string>
+        <string>
+            <plain>Держите рукой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Весть искупления всем понесите,</plain>
+        </string>
+        <string>
+            <plain>Всех умоляйте к Иисусу прийти!</plain>
+        </string>
+        <string>
+            <plain>Подвиг спасения славьте, хвалите,</plain>
+        </string>
+        <string>
+            <plain>Чтобы несчастный мог счастье найти!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В сердце, страдающем в скорби суровой,</plain>
+        </string>
+        <string>
+            <plain>Праздник Дух Божий лишь может создать;</plain>
+        </string>
+        <string>
+            <plain>Верой сияющим слугам Христовым</plain>
+        </string>
+        <string>
+            <plain>Дано о том на земле возвещать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не принуждение тяжкого долга –</plain>
+        </string>
+        <string>
+            <plain>Звать к бесконечному счастью людей;</plain>
+        </string>
+        <string>
+            <plain>Но наслаждение в жизни недолгой,</plain>
+        </string>
+        <string>
+            <plain>Но утешенье безрадостных дней.</plain>
+        </string>
+    </verse>
+</song>

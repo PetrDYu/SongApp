@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2778" name="Большого призвания нет у меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Большого призвания нет у меня,</plain>
+        </string>
+        <string>
+            <plain>Способностей мало и сила мала,</plain>
+        </string>
+        <string>
+            <plain>Но в малом стараюсь быть верным слугой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Он всегда рад и доволен был мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой уголок, мой маленький мир,</plain>
+        </string>
+        <string>
+            <plain>В нем верно служу, как Учитель учил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть я в уголке незаметно живу,</plain>
+        </string>
+        <string>
+            <plain>Спасителю радостно в нем я служу.</plain>
+        </string>
+        <string>
+            <plain>И в малом стараюсь быть верным слугой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Он всегда рад и доволен был мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда же Учитель мой из уголка</plain>
+        </string>
+        <string>
+            <plain>Введет меня в Царствие Бога Отца,</plain>
+        </string>
+        <string>
+            <plain>И станет мне ясно тогда до конца,</plain>
+        </string>
+        <string>
+            <plain>Что лучшим был мой уголок для меня.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2090" name="Дай мне подойти к Тебе поближе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дай мне подойти к Тебе поближе,</plain>
+        </string>
+        <string>
+            <plain>Ноги пригво-ждённые обнять,</plain>
+        </string>
+        <string>
+            <plain>Дай склониться пред</plain>
+        </string>
+        <string>
+            <plain>Тобой пониже,</plain>
+        </string>
+        <string>
+            <plain>Раны от гвоздей поцеловать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я - виновник Твоего страданья,</plain>
+        </string>
+        <string>
+            <plain>Я - виновник всех тяжёлых мук.</plain>
+        </string>
+        <string>
+            <plain>Как бы я хотел своим признаньем</plain>
+        </string>
+        <string>
+            <plain>Вырвать гвозди из пронзённых рук!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты висишь, весь истекая кровью,</plain>
+        </string>
+        <string>
+            <plain>Так Своё созданы возлюбя,</plain>
+        </string>
+        <string>
+            <plain>Что готов обнять Своей любовью</plain>
+        </string>
+        <string>
+            <plain>Даже тех, кто распинал Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не напрасны все мои стремленья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Твои страданья обияснить.</plain>
+        </string>
+        <string>
+            <plain>Дай, Господь, чтоб каждое мгновенье</plain>
+        </string>
+        <string>
+            <plain>В жизни сей Тебе мог посвятить.</plain>
+        </string>
+    </verse>
+</song>

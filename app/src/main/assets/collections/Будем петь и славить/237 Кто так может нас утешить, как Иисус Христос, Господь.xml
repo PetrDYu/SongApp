@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="237" name="Кто так может нас утешить, как Иисус Христос, Господь" canon="false" text="Т. Харриса" textRus="" music="Т. Харриса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Кто так может нас утешить, как Иисус Христос, Господь?</plain>
+        </string>
+        <string>
+            <plain>Верный, любящий, безгрешный, неизменный в род и род.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус мне в сердце входит, больше жизни для меня.</plain>
+        </string>
+        <string>
+            <plain>Он любовью наполняет, Бога в Нем увидел я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он всех любит беспредельно, в Нем все блага нам даны.</plain>
+        </string>
+        <string>
+            <plain>Божья милость выше неба, глубже всякой глубины.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Искупленья дар духовный кто нам может объяснить?</plain>
+        </string>
+        <string>
+            <plain>Как мой грех багрово-темный Он умеет убелить?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он все нужды восполняет, полнота блаженства в Нем.</plain>
+        </string>
+        <string>
+            <plain>Он открыл нам двери рая, для меня Он все во всем.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В Новом Иерусалиме, дивной радостью горя,</plain>
+        </string>
+        <string>
+            <plain>Буду вечно со святыми прославлять Христа Царя.</plain>
+        </string>
+    </verse>
+</song>

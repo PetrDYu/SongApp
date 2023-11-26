@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2452" name="О как прекрасен Ты Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, как прекрасен Ты, Господь,</plain>
+        </string>
+        <string>
+            <plain>О, как прекрасен Ты, Господь,</plain>
+        </string>
+        <string>
+            <plain>О, как прекрасен, О, как прекрасен,</plain>
+        </string>
+        <string>
+            <plain>О, как прекрасен Ты, Господь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты ярче света утренней зари,</plain>
+        </string>
+        <string>
+            <plain>Прекраснее, чем все цветы земли.</plain>
+        </string>
+        <string>
+            <plain>Всегда помочь спешишь,</plain>
+        </string>
+        <string>
+            <plain>Когда молюсь в тиши,</plain>
+        </string>
+        <string>
+            <plain>О, как прекрасен Ты, Господь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты кровь пролил, чтоб грех мой искупить,</plain>
+        </string>
+        <string>
+            <plain>От рабства смерти к жизни воскресить.</plain>
+        </string>
+        <string>
+            <plain>Хоть мир лежит во зле,</plain>
+        </string>
+        <string>
+            <plain>Ты - путь спасенья всем.</plain>
+        </string>
+        <string>
+            <plain>О, как прекрасен Ты, Господь.</plain>
+        </string>
+    </verse>
+</song>

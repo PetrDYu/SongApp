@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1859" name="Восхвалим мы Творца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Восхвалим мы Творца</plain>
+        </string>
+        <string>
+            <plain>И сердцем, и устами!</plain>
+        </string>
+        <string>
+            <plain>Творит Он чудеса</plain>
+        </string>
+        <string>
+            <plain>И в нас и перед нами.</plain>
+        </string>
+        <string>
+            <plain>С начала наших дней</plain>
+        </string>
+        <string>
+            <plain>И в наступивший час</plain>
+        </string>
+        <string>
+            <plain>Щедротой Он Своей</plain>
+        </string>
+        <string>
+            <plain>Обогащает нас.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Да будет Он для нас</plain>
+        </string>
+        <string>
+            <plain>Живительной отрадой!</plain>
+        </string>
+        <string>
+            <plain>Да правит нами Он,</plain>
+        </string>
+        <string>
+            <plain>Как пастырь, среди стада.</plain>
+        </string>
+        <string>
+            <plain>Да не оставит нас</plain>
+        </string>
+        <string>
+            <plain>Он милостию впредь</plain>
+        </string>
+        <string>
+            <plain>И да утешит нас,</plain>
+        </string>
+        <string>
+            <plain>Когда начнем скорбеть!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала и честь тебе</plain>
+        </string>
+        <string>
+            <plain>И слава благостыне</plain>
+        </string>
+        <string>
+            <plain>Твоей, Отец и Сын,</plain>
+        </string>
+        <string>
+            <plain>И Дух, всегда и ныне!</plain>
+        </string>
+        <string>
+            <plain>Господь, одним Тобой</plain>
+        </string>
+        <string>
+            <plain>Живут сердца святых;</plain>
+        </string>
+        <string>
+            <plain>Для них в Тебе покой,</plain>
+        </string>
+        <string>
+            <plain>В Тебе отрада их.</plain>
+        </string>
+    </verse>
+</song>

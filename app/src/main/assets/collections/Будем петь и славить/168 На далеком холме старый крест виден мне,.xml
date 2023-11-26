@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="168" name="На далеком холме старый крест виден мне," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>На далеком холме старый крест виден мне,</plain>
+        </string>
+        <string>
+            <plain>Знак позора, страданий и мук.</plain>
+        </string>
+        <string>
+            <plain>О кресте мы поем, потому что на нем</plain>
+        </string>
+        <string>
+            <plain>Был распят лучший грешников Друг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Старый крест осудил суету,</plain>
+        </string>
+        <string>
+            <plain>Дал покой для усталых сердец.</plain>
+        </string>
+        <string>
+            <plain>Я душою прильнул ко кресту,</plain>
+        </string>
+        <string>
+            <plain>Чрез него обрету я венец.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Старый крест позабыт. Мир в погибель спешит.</plain>
+        </string>
+        <string>
+            <plain>Крест Христов – наша сила и честь.</plain>
+        </string>
+        <string>
+            <plain>Вечный с неба сходил, на земле в теле жил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб его на Голгофу отнесть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Старый крест обагрен, но не страшен мне он,</plain>
+        </string>
+        <string>
+            <plain>В нем открылась нам Божья любовь:</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса Христа пролилась со креста,</plain>
+        </string>
+        <string>
+            <plain>Чтоб меня искупить от грехов.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Старый крест возвещать и к Христу призывать –</plain>
+        </string>
+        <string>
+            <plain>Вот на что я себя отдаю.</plain>
+        </string>
+        <string>
+            <plain>По скитаньи земном перейду в вечный дом,</plain>
+        </string>
+        <string>
+            <plain>Он меня примет в славу Свою.</plain>
+        </string>
+    </verse>
+</song>

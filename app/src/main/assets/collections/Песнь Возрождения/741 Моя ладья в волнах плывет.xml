@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="741" name="Моя ладья в волнах плывет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Моя ладья в волнах плывет</plain>
+        </string>
+        <string>
+            <plain>Туда, к тем берегам;</plain>
+        </string>
+        <string>
+            <plain>Сквозь бури рев ее ведет</plain>
+        </string>
+        <string>
+            <plain>Мой верный капитан.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, не страшись, не долог путь,</plain>
+        </string>
+        <string>
+            <plain>Уж видны берега;</plain>
+        </string>
+        <string>
+            <plain>И слышно, как хвалу поют</plain>
+        </string>
+        <string>
+            <plain>Друзья у ног Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты знаешь ли тот дивный край,</plain>
+        </string>
+        <string>
+            <plain>Где Родина моя,</plain>
+        </string>
+        <string>
+            <plain>Где братья ждут, где вечный рай?</plain>
+        </string>
+        <string>
+            <plain>Ах, встречу ль там тебя?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мой челн благую весть несет</plain>
+        </string>
+        <string>
+            <plain>Всем гибнущим в волнах:</plain>
+        </string>
+        <string>
+            <plain>Христос спасает и дает</plain>
+        </string>
+        <string>
+            <plain>Блаженство в небесах.</plain>
+        </string>
+    </verse>
+</song>

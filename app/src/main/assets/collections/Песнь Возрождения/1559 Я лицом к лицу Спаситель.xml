@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1559" name="Я лицом к лицу Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я лицом к лицу, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Жить с Тобой хочу всегда.</plain>
+        </string>
+        <string>
+            <plain>Ты ведь мой руководитель,</plain>
+        </string>
+        <string>
+            <plain>Ты и умер за меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я лицом к лицу увижусь</plain>
+        </string>
+        <string>
+            <plain>С Ним в лазурных небесах,</plain>
+        </string>
+        <string>
+            <plain>Где небесные все силы</plain>
+        </string>
+        <string>
+            <plain>Славят в звонких голосах.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я сейчас Тебя не вижу,</plain>
+        </string>
+        <string>
+            <plain>Только верой познаю.</plain>
+        </string>
+        <string>
+            <plain>Но в блаженный день грядущий,</plain>
+        </string>
+        <string>
+            <plain>В славе я Тебя узрю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, какое счастье видеть</plain>
+        </string>
+        <string>
+            <plain>Там Спасителя Христа.</plain>
+        </string>
+        <string>
+            <plain>И Его любовь прославят</plain>
+        </string>
+        <string>
+            <plain>Всех искупленных уста.</plain>
+        </string>
+    </verse>
+</song>

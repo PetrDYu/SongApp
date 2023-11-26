@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="175" name="Я жажду петь во всякий час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я жажду петь во всякий час,</plain>
+        </string>
+        <string>
+            <plain>Печаль и слезы прочь!</plain>
+        </string>
+        <string>
+            <plain>Христос - мой Друг, меня Он спас,</plain>
+        </string>
+        <string>
+            <plain>Со мной Он день и ночь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте, пойте, пойте песнь Ему!</plain>
+        </string>
+        <string>
+            <plain>Пойте, пойте песнь!</plain>
+        </string>
+        <string>
+            <plain>Пойте песнь Ему!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я плакал в день, как увидал,</plain>
+        </string>
+        <string>
+            <plain>Как за вину мою</plain>
+        </string>
+        <string>
+            <plain>Христос в страданье умирал!</plain>
+        </string>
+        <string>
+            <plain>Теперь же я пою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда тяжел греха искус,</plain>
+        </string>
+        <string>
+            <plain>Пою я: мой Иисус!</plain>
+        </string>
+        <string>
+            <plain>Хоть слезы близки иногда,</plain>
+        </string>
+        <string>
+            <plain>Но я пою всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я буду всем повествовать</plain>
+        </string>
+        <string>
+            <plain>О Господе моем,</plain>
+        </string>
+        <string>
+            <plain>Пока не станет воспевать</plain>
+        </string>
+        <string>
+            <plain>Весь грешный мир о Нем.</plain>
+        </string>
+    </verse>
+</song>

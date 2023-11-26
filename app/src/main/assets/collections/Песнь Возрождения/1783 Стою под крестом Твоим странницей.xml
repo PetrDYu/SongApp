@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1783" name="Стою под крестом Твоим странницей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стою под крестом Твоим странницей...</plain>
+        </string>
+        <string>
+            <plain>Я долго искала Тебя</plain>
+        </string>
+        <string>
+            <plain>И в мире была изгнанницей,</plain>
+        </string>
+        <string>
+            <plain>Тоскуя, любя и скорбя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Незнатная и небогатая.</plain>
+        </string>
+        <string>
+            <plain>Надежду боясь потерять,</plain>
+        </string>
+        <string>
+            <plain>Стою пред Твоим распятием.</plain>
+        </string>
+        <string>
+            <plain>Не смея и слова сказать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И только лишь взглядом о милости</plain>
+        </string>
+        <string>
+            <plain>Тебя попросить я могу:</plain>
+        </string>
+        <string>
+            <plain>Своею Божественной силою</plain>
+        </string>
+        <string>
+            <plain>Ты душу согрей мою.</plain>
+        </string>
+    </verse>
+</song>

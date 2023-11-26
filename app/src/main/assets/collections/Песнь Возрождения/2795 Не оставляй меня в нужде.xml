@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2795" name="Не оставляй меня в нужде" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не оставляй меня в нужде!</plain>
+        </string>
+        <string>
+            <plain>С мольбою я к Тебе взываю.</plain>
+        </string>
+        <string>
+            <plain>Всего сильнее я желаю</plain>
+        </string>
+        <string>
+            <plain>Быть ближе, Господи, к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не оставляй меня в нужде,</plain>
+        </string>
+        <string>
+            <plain>Когда от суеты устану,</plain>
+        </string>
+        <string>
+            <plain>И маловерье точит раны</plain>
+        </string>
+        <string>
+            <plain>- Ты помоги моей беде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не оставляй меня в нужде,</plain>
+        </string>
+        <string>
+            <plain>В борьбе с грехом дай Своей силы.</plain>
+        </string>
+        <string>
+            <plain>Дай помнить: все, что в жизни было,</plain>
+        </string>
+        <string>
+            <plain>Ты никогда не вспомнишь мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не оставляй меня в нужде!</plain>
+        </string>
+        <string>
+            <plain>И дай, Завет Твой постигая,</plain>
+        </string>
+        <string>
+            <plain>Знать, что ничья любовь другая</plain>
+        </string>
+        <string>
+            <plain>Дверь жизни не откроет мне.</plain>
+        </string>
+    </verse>
+</song>

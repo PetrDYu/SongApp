@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1703" name="Прости за то что дни уходят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прости за то, что дни уходят,</plain>
+        </string>
+        <string>
+            <plain>А труд Твой некому свершать,</plain>
+        </string>
+        <string>
+            <plain>За то, что мало кто находит</plain>
+        </string>
+        <string>
+            <plain>Пути, как грешников спасать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Прости, что черствою душою</plain>
+        </string>
+        <string>
+            <plain>Твои веленья позабыв,</plain>
+        </string>
+        <string>
+            <plain>Мы грубы сердцем пред Тобою</plain>
+        </string>
+        <string>
+            <plain>И не спешим на Твой призыв.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прости нас, любящий Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Как жалких грешников, прости.</plain>
+        </string>
+        <string>
+            <plain>Сними вину, наш Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Дай нам подняться и идти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Давайте друг друга любить,</plain>
+        </string>
+        <string>
+            <plain>С Христом наша радость и счастье.</plain>
+        </string>
+        <string>
+            <plain>Печали нам надо забыть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вновь возвратилось участье.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты вспомни о доме родном,</plain>
+        </string>
+        <string>
+            <plain>Молитвы, идущие к Богу,</plain>
+        </string>
+        <string>
+            <plain>И сердце твое пусть огнем</plain>
+        </string>
+        <string>
+            <plain>Согреет Иисус дорогой.</plain>
+        </string>
+    </verse>
+    <chorus number="5">
+        <string>
+            <plain>Нежное сердце, какое ты, сердце,</plain>
+        </string>
+        <string>
+            <plain>Скажи же ты нежно, скажи,</plain>
+        </string>
+        <string>
+            <plain>Что в лютый мороз позволяет нам греться -</plain>
+        </string>
+        <string>
+            <plain>Ответы в душе напиши.</plain>
+        </string>
+    </chorus>
+</song>

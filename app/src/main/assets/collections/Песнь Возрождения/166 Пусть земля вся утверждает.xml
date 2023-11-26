@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="166" name="Пусть земля вся утверждает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть земля вся утверждает,</plain>
+        </string>
+        <string>
+            <plain>Что Тобой я не спасен,</plain>
+        </string>
+        <string>
+            <plain>Дух мой песню воспевает:</plain>
+        </string>
+        <string>
+            <plain>"Принят раб Твой на Сион!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радуйтесь со мною, люди!</plain>
+        </string>
+        <string>
+            <plain>Нет сомненья: "Я спасен!"</plain>
+        </string>
+        <string>
+            <plain>Пусть весь мир твердит иное:</plain>
+        </string>
+        <string>
+            <plain>Знаю я, Христом спасен!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если б ангел сам явился</plain>
+        </string>
+        <string>
+            <plain>И сказал: "Не обращен!"</plain>
+        </string>
+        <string>
+            <plain>И тогда б я не смутился,</plain>
+        </string>
+        <string>
+            <plain>Помня вечный Твой закон.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ум мой усомнится,</plain>
+        </string>
+        <string>
+            <plain>Призову Тебя душой;</plain>
+        </string>
+        <string>
+            <plain>Ты придешь и ум смирится,</plain>
+        </string>
+        <string>
+            <plain>И настанет Твой покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Знаю я, в кого я верю;</plain>
+        </string>
+        <string>
+            <plain>Дух мой в Нем несокрушим;</plain>
+        </string>
+        <string>
+            <plain>Жизни всякую потерю</plain>
+        </string>
+        <string>
+            <plain>С радостью снесу я с Ним.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Каждый миг Его я слышу,</plain>
+        </string>
+        <string>
+            <plain>Каждый миг с Ним говорю;</plain>
+        </string>
+        <string>
+            <plain>Он любовь дарит мне свыше</plain>
+        </string>
+        <string>
+            <plain>И Его огнем горю.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Нету места для сомненья</plain>
+        </string>
+        <string>
+            <plain>В сердце избранных Тобой;</plain>
+        </string>
+        <string>
+            <plain>В час минутного затменья</plain>
+        </string>
+        <string>
+            <plain>Будь на страже, Пастырь мой!</plain>
+        </string>
+    </verse>
+</song>

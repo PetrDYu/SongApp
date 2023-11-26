@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="242" name="Будем петь подвигаясь с надеждой вперед" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будем петь, подвигаясь с надеждой вперед</plain>
+        </string>
+        <string>
+            <plain>По дороге к небесному миру красот!</plain>
+        </string>
+        <string>
+            <plain>Будем петь о покое, что странников ждет</plain>
+        </string>
+        <string>
+            <plain>По ту сторону тесных заветных ворот.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будем петь о покое, что странников ждет</plain>
+        </string>
+        <string>
+            <plain>По ту сторону тесных заветных ворот.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В час, когда мы устанем под ношей идти</plain>
+        </string>
+        <string>
+            <plain>И на землю падем отдохнуть на пути,</plain>
+        </string>
+        <string>
+            <plain>Будем петь, и усталость тотчас же пройдет,</plain>
+        </string>
+        <string>
+            <plain>И Спаситель в нас новую силу вольет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Средь борьбы будем петь песнь побед с торжеством;</plain>
+        </string>
+        <string>
+            <plain>А в несчастьях, что Бог Всемогущий пошлет,</plain>
+        </string>
+        <string>
+            <plain>Песнь хваленья Ему за любовь воспоем;</plain>
+        </string>
+        <string>
+            <plain>Будем петь Ему песни покорных детей.</plain>
+        </string>
+    </verse>
+</song>

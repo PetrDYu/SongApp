@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1227" name="Забудь вчерашнюю обиду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Забудь вчерашнюю обиду</plain>
+        </string>
+        <string>
+            <plain>Покрой любовию, прости,</plain>
+        </string>
+        <string>
+            <plain>Прости от сердца, не для вида,</plain>
+        </string>
+        <string>
+            <plain>И брата с миром отпусти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Примиритесь, друзья, примиритесь,</plain>
+        </string>
+        <string>
+            <plain>В новый день не несите вражду.</plain>
+        </string>
+        <string>
+            <plain>Ради Бога друг друга простите,</plain>
+        </string>
+        <string>
+            <plain>И ненастные тучи пройдут.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Быть может, брат виновен во многом,</plain>
+        </string>
+        <string>
+            <plain>Разбойник, мытарь, блудный сын,</plain>
+        </string>
+        <string>
+            <plain>Но он давно прощенный Богом,</plain>
+        </string>
+        <string>
+            <plain>А ты ему не все простил.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Примиритесь, друзья, примиритесь,</plain>
+        </string>
+        <string>
+            <plain>В новый день не несите вражду.</plain>
+        </string>
+        <string>
+            <plain>Ради Бога друг друга простите,</plain>
+        </string>
+        <string>
+            <plain>И ненастные тучи пройдут.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Пусть никогда во гневе вашем</plain>
+        </string>
+        <string>
+            <plain>На небе солнце не зайдет.</plain>
+        </string>
+        <string>
+            <plain>Любите недруга, прощайте,</plain>
+        </string>
+        <string>
+            <plain>Как вас самих простил Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Примиритесь, друзья, примиритесь,</plain>
+        </string>
+        <string>
+            <plain>В новый день не несите вражду.</plain>
+        </string>
+        <string>
+            <plain>Ради Бога друг друга простите,</plain>
+        </string>
+        <string>
+            <plain>И ненастные тучи пройдут.</plain>
+        </string>
+    </chorus>
+</song>

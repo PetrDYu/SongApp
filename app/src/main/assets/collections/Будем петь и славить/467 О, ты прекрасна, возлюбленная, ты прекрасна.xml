@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="467" name="О, ты прекрасна, возлюбленная, ты прекрасна" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>О, ты прекрасна, возлюбленная, ты прекрасна!</plain>
+        </string>
+        <string>
+            <plain>Глаза голубиные сияют, словно звезды.</plain>
+        </string>
+        <string>
+            <plain>О, ты прекрасна, возлюбленная, ты прекрасна!</plain>
+        </string>
+        <string>
+            <plain>Светла, словно солнце и, как луна, прекрасна!</plain>
+        </string>
+        <string>
+            <plain>Положи меня, как печать, как печать, на сердце твое!</plain>
+        </string>
+        <string>
+            <plain>Положи, как перстень, меня, положи на руку твою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Крепка, как смерть, любовь,</plain>
+        </string>
+        <string>
+            <plain>Люта, как преисподняя, ревность.</plain>
+        </string>
+        <string>
+            <plain>И реки не зальют,</plain>
+        </string>
+        <string>
+            <plain>Не смогут потушить любви!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>О, ты прекрасен, возлюбленный, как ты прекрасен!</plain>
+        </string>
+        <string>
+            <plain>Подобен Ливану, величествен, как кедры.</plain>
+        </string>
+        <string>
+            <plain>О, ты прекрасен, возлюбленный, как ты прекрасен!</plain>
+        </string>
+        <string>
+            <plain>Как миро разлитое, святое твое имя.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Я сошел в ореховый сад поглядеть на зелень долин,</plain>
+        </string>
+        <string>
+            <plain>Посмотреть, цветет ли лоза, поглядеть, расцвел ли гранат.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, ты прекрасна, возлюбленная, ты прекрасна!</plain>
+        </string>
+        <string>
+            <plain>Мне голос твой слышен, твой голос голубиный.</plain>
+        </string>
+        <string>
+            <plain>О, ты прекрасна, возлюбленная, ты прекрасна!</plain>
+        </string>
+        <string>
+            <plain>Мед сотовый каплет из уст твоих, невеста.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Положи меня, как печать, как печать, на сердце твое!</plain>
+        </string>
+        <string>
+            <plain>Положи, как перстень, меня, положи на руку твою.</plain>
+        </string>
+    </verse>
+</song>

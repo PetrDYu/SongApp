@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1741" name="Годы Годы юности летят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Годы! Годы юности летят.</plain>
+        </string>
+        <string>
+            <plain>Годы! Им возврата нет назад.</plain>
+        </string>
+        <string>
+            <plain>Годы в вечность нас несут с собой.</plain>
+        </string>
+        <string>
+            <plain>Годы! Дни уходят чередой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Годы изменяют в жизни нас.</plain>
+        </string>
+        <string>
+            <plain>Годы! Безвозвратен каждый час.</plain>
+        </string>
+        <string>
+            <plain>Годы! Ты совсем уже седой.</plain>
+        </string>
+        <string>
+            <plain>Годы что свершили над тобой?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Годы! С каждым часом ближе дом.</plain>
+        </string>
+        <string>
+            <plain>Годы! Скоро встреча со Христом.</plain>
+        </string>
+        <string>
+            <plain>Годы! Скоро полночь, год уйдет.</plain>
+        </string>
+        <string>
+            <plain>Годы! Скоро наш Господь придет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Годы! Будь готов войти с Христом.</plain>
+        </string>
+        <string>
+            <plain>Годы! В вечный славный Божий дом.</plain>
+        </string>
+        <string>
+            <plain>Годы! Там святые без числа. Годы!</plain>
+        </string>
+        <string>
+            <plain>Все поет Христу: "Хвала!"</plain>
+        </string>
+    </verse>
+</song>

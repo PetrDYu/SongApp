@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3048" name="Ликуй душа праведная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ликуй душа праведная,</plain>
+        </string>
+        <string>
+            <plain>что любишь ты Христа,</plain>
+        </string>
+        <string>
+            <plain>что жизнь твоя победная</plain>
+        </string>
+        <string>
+            <plain>Ему посвящена;</plain>
+        </string>
+        <string>
+            <plain>что жизнь твоя победная</plain>
+        </string>
+        <string>
+            <plain>Ему посвящена!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ликуй, что любит Он тебя,</plain>
+        </string>
+        <string>
+            <plain>что вечно Он с тобой,</plain>
+        </string>
+        <string>
+            <plain>что ты теперь Его дитя</plain>
+        </string>
+        <string>
+            <plain>и в Нём нашёл покой;</plain>
+        </string>
+        <string>
+            <plain>что ты теперь Его дитя</plain>
+        </string>
+        <string>
+            <plain>и в Нём нашёл покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ликуй, что благодать Его</plain>
+        </string>
+        <string>
+            <plain>и счастье - твой удел,</plain>
+        </string>
+        <string>
+            <plain>что ты своё спасение,</plain>
+        </string>
+        <string>
+            <plain>жизнь вечную нашёл;</plain>
+        </string>
+        <string>
+            <plain>что ты своё спасение,</plain>
+        </string>
+        <string>
+            <plain>жизнь вечную нашёл.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ликуй, благодари Христа</plain>
+        </string>
+        <string>
+            <plain>и пой, моя душа,</plain>
+        </string>
+        <string>
+            <plain>о радости, что без конца</plain>
+        </string>
+        <string>
+            <plain>Христом тебе дана;</plain>
+        </string>
+        <string>
+            <plain>о радости, что без конца</plain>
+        </string>
+        <string>
+            <plain>Христом тебе дана!</plain>
+        </string>
+    </verse>
+</song>

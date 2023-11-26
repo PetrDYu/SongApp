@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2789" name="Смотрю я за пределы дней грядущих" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Смотрю я за пределы дней грядущих,</plain>
+        </string>
+        <string>
+            <plain>Там мне видна небесная заря.</plain>
+        </string>
+        <string>
+            <plain>Уходят тени ужасов гнетущих,</plain>
+        </string>
+        <string>
+            <plain>Стихает все, когда молюся я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Душа моя, как голубь, ввысь взлетает,</plain>
+        </string>
+        <string>
+            <plain>Бог открывает дверь общенья мне.</plain>
+        </string>
+        <string>
+            <plain>Меня он слышит и грехи прощает,</plain>
+        </string>
+        <string>
+            <plain>Я приближаюсь к небесам в мольбе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Печаль и скорбь у ног Его слагаю,</plain>
+        </string>
+        <string>
+            <plain>Отрёт Он слезы горькие мои.</plain>
+        </string>
+        <string>
+            <plain>И славу Божью верой созерцаю,</plain>
+        </string>
+        <string>
+            <plain>И приближаюсь к небесам в мольбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как в молитве бремя мое тает,</plain>
+        </string>
+        <string>
+            <plain>И тают горы горечи во мне.</plain>
+        </string>
+        <string>
+            <plain>Спаситель с нежностью меня встречает,</plain>
+        </string>
+        <string>
+            <plain>Я приближаюсь к небесам в мольбе.</plain>
+        </string>
+    </verse>
+</song>

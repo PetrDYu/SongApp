@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1189" name="Хвала Тебе наш Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвала Тебе, наш Господь!</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе, Бог святой,</plain>
+        </string>
+        <string>
+            <plain>Хвала за Иисуса, Сына Твоего.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Теперь слабый скажет: "Я силен!"</plain>
+        </string>
+        <string>
+            <plain>Бедный скажет: "Я богат!"</plain>
+        </string>
+        <string>
+            <plain>Благодаря тому, что Бог нам дал,</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала Тебе, наш Господь!</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе, Бог святой,</plain>
+        </string>
+        <string>
+            <plain>Хвала за Иисуса, Сына Твоего.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Теперь слабый скажет: "Я силен!"</plain>
+        </string>
+        <string>
+            <plain>Бедный скажет: "Я богат!"</plain>
+        </string>
+        <string>
+            <plain>Благодаря тому, что Бог нам дал, хвала!</plain>
+        </string>
+    </verse>
+</song>

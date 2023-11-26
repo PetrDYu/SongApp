@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2039" name="Владыка в небесах Владыка на земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Владыка в небесах, Владыка на земле,</plain>
+        </string>
+        <string>
+            <plain>Благодарю за всё, что Тьт даруешь мне (2 р.).</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Творение Твоё премудро и прекрасно.</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя за то, что небо ясно,</plain>
+        </string>
+        <string>
+            <plain>За тонкость облаков, парящих в вышине,</plain>
+        </string>
+        <string>
+            <plain>За яркость солнечных лучей,</plain>
+        </string>
+        <string>
+            <plain>За одуванчик на лугу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодарю Тебя за утро и закат,</plain>
+        </string>
+        <string>
+            <plain>За песни соловья и розы аромат,</plain>
+        </string>
+        <string>
+            <plain>За солнца яркий свет, что днём сияет мне,</plain>
+        </string>
+        <string>
+            <plain>За каждый прожитый мной день,</plain>
+        </string>
+        <string>
+            <plain>За всё Тебя благодарю.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, дивный мой Творец, Создатель всей Вселенной!</plain>
+        </string>
+        <string>
+            <plain>Прими из уст моих из сердца поклоненье.</plain>
+        </string>
+        <string>
+            <plain>За подвиг на кресте, За счастье, что в Тебе,</plain>
+        </string>
+        <string>
+            <plain>За всё хочу я каждый день</plain>
+        </string>
+        <string>
+            <plain>Тебя, Господь, благодарить.</plain>
+        </string>
+    </verse>
+</song>

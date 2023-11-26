@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="876" name="Год минувший прошел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Год минувший прошел,</plain>
+        </string>
+        <string>
+            <plain>Как туман над землею.</plain>
+        </string>
+        <string>
+            <plain>Новый год настает,</plain>
+        </string>
+        <string>
+            <plain>Что с собой принесет?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Где бы ни был я,</plain>
+        </string>
+        <string>
+            <plain>Ты меня не покинь</plain>
+        </string>
+        <string>
+            <plain>В этом новом году,</plain>
+        </string>
+        <string>
+            <plain>Я молю, я прошу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знаешь ты, дорогой</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель благой,</plain>
+        </string>
+        <string>
+            <plain>Как меня сохранить</plain>
+        </string>
+        <string>
+            <plain>В час нужды, в час невзгод.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, дай мне сохранить</plain>
+        </string>
+        <string>
+            <plain>В трудный час для меня</plain>
+        </string>
+        <string>
+            <plain>Веру, радость, любовь,</plain>
+        </string>
+        <string>
+            <plain>Души верность Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Горе ль, радость порой,</plain>
+        </string>
+        <string>
+            <plain>Что с собой принесет</plain>
+        </string>
+        <string>
+            <plain>Новый год, я молю:</plain>
+        </string>
+        <string>
+            <plain>Боже мой, будь со мной!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Новый год, новый год</plain>
+        </string>
+        <string>
+            <plain>Что с собой принесет</plain>
+        </string>
+        <string>
+            <plain>Знаешь Ты, дорогой</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель благой.</plain>
+        </string>
+    </verse>
+</song>

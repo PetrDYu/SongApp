@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1789" name="Улетели вдаль морозы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Улетели вдаль морозы,</plain>
+        </string>
+        <string>
+            <plain>За Полярным кругом скрылись...</plain>
+        </string>
+        <string>
+            <plain>Закудрявились березы,</plain>
+        </string>
+        <string>
+            <plain>Нежной зеленью покрылись.</plain>
+        </string>
+        <string>
+            <plain>Над морями, над лесами.</plain>
+        </string>
+        <string>
+            <plain>Над веселым светлым лугом</plain>
+        </string>
+        <string>
+            <plain>Голубыми небесами</plain>
+        </string>
+        <string>
+            <plain>Потянулись птицы с юга.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Зазвенели в небе песни,</plain>
+        </string>
+        <string>
+            <plain>Город солнцу улыбался...</plain>
+        </string>
+        <string>
+            <plain>В этот тихий день воскресный</plain>
+        </string>
+        <string>
+            <plain>Со свободой я прощался:</plain>
+        </string>
+        <string>
+            <plain>"Ты прощай, Сибирь родная,</plain>
+        </string>
+        <string>
+            <plain>Не забыть друзей мне лица!"</plain>
+        </string>
+        <string>
+            <plain>Сердце сжалось, замирая,</plain>
+        </string>
+        <string>
+            <plain>И забилось, словно птица.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Загремел засов железный.</plain>
+        </string>
+        <string>
+            <plain>Как в старинной русской были,</plain>
+        </string>
+        <string>
+            <plain>И в острог угрюмый, тесный</plain>
+        </string>
+        <string>
+            <plain>Сердце вольное сокрыли.</plain>
+        </string>
+        <string>
+            <plain>Сердце, сердце! Прочь тревогу!</plain>
+        </string>
+        <string>
+            <plain>Будем жить и верить будем!</plain>
+        </string>
+        <string>
+            <plain>Мы с тобою служим Богу</plain>
+        </string>
+        <string>
+            <plain>И в тюрьме послужим людям!</plain>
+        </string>
+    </verse>
+</song>

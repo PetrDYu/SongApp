@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2394" name="Что пользы человеку от всех его трудов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что пользы человеку от всех его трудов?</plain>
+        </string>
+        <string>
+            <plain>Когда не знаешь Бога, ты в вечность не готов.</plain>
+        </string>
+        <string>
+            <plain>Что пользы, коль имеешь ты горы серебра?</plain>
+        </string>
+        <string>
+            <plain>Придет смерть за тобою, спасут ль они тебя?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог благословляет каждого из нас,</plain>
+        </string>
+        <string>
+            <plain>Всем напоминает:</plain>
+        </string>
+        <string>
+            <plain>близок смертный час!</plain>
+        </string>
+        <string>
+            <plain>Всех Он призывает подойти к Нему,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вручить всем пропуск в вечную страну.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Текут все реки в море, а жизнь к концу идет.</plain>
+        </string>
+        <string>
+            <plain>И рано или поздно ты все равно умрешь.</plain>
+        </string>
+        <string>
+            <plain>Не во власти человека жить вечно на земле,</plain>
+        </string>
+        <string>
+            <plain>Заботишься о плоти - подумай о душе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет памяти о прежнем, но помнит вечный Бог</plain>
+        </string>
+        <string>
+            <plain>О каждом человеке: кто, где и как живет.</plain>
+        </string>
+        <string>
+            <plain>И если ты пред Богом не склонишься сейчас,</plain>
+        </string>
+        <string>
+            <plain>Навеки для мучений останешься в грехах.</plain>
+        </string>
+    </verse>
+</song>

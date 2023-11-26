@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2658" name="Тот Кто ведает мирами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тот, Кто ведает мирами</plain>
+        </string>
+        <string>
+            <plain>И вселенную создал,</plain>
+        </string>
+        <string>
+            <plain>Он, обвитый пеленами,</plain>
+        </string>
+        <string>
+            <plain>В Вифлеемских яслях спал.</plain>
+        </string>
+        <string>
+            <plain>Не сидел Он на престоле</plain>
+        </string>
+        <string>
+            <plain>Из сияющих камней,</plain>
+        </string>
+        <string>
+            <plain>Он явился здесь в юдоли,</plain>
+        </string>
+        <string>
+            <plain>В наш несчастный мир скорбей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В вышине за облаками</plain>
+        </string>
+        <string>
+            <plain>Там, где ангелы живут,</plain>
+        </string>
+        <string>
+            <plain>Все своими голосами</plain>
+        </string>
+        <string>
+            <plain>Его славят и поют:</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Его ангелы воспели,</plain>
+        </string>
+        <string>
+            <plain>Прославляли пастухи,</plain>
+        </string>
+        <string>
+            <plain>И со славою и честью</plain>
+        </string>
+        <string>
+            <plain>Поклонились мудрецы.</plain>
+        </string>
+        <string>
+            <plain>Принесем и мы хвалены</plain>
+        </string>
+        <string>
+            <plain>Ему жизнию своей.</plain>
+        </string>
+        <string>
+            <plain>С Богом даст Он примирены</plain>
+        </string>
+        <string>
+            <plain>И спасет Своих детей.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Ты достоин прославленья</plain>
+        </string>
+        <string>
+            <plain>В небесах и на земле</plain>
+        </string>
+        <string>
+            <plain>И святого поклоненья.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Честь Тебе!</plain>
+        </string>
+    </chorus>
+</song>

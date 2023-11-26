@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="449" name="Я Тебя ищу, Тебя зову, Боже мой милый" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Я Тебя ищу, Тебя зову, Боже мой милый.</plain>
+        </string>
+        <string>
+            <plain>Я Тебя молю: услышь мою, Боже, молитву.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Как стремится лань к потокам вод, я Тебя ищу и жажду.</plain>
+        </string>
+        <string>
+            <plain>Будь источником воды живой, избавь от жажды.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как пустыня страждет без воды, я Тебя ищу и жажду.</plain>
+        </string>
+        <string>
+            <plain>Напои пустые борозды росою влажной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как дитя повсюду ищет мать, я Тебя ищу и жажду.</plain>
+        </string>
+        <string>
+            <plain>Мир, что Ты в молчаньи можешь дать, даруй однажды.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И как странник ждет зари лучи, я Тебя ищу и жажду.</plain>
+        </string>
+        <string>
+            <plain>Ты, как день, сияющий в ночи, свет жизни каждой.</plain>
+        </string>
+    </verse>
+</song>

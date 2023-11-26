@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="14" name="О Господь Иисус, куда идти нам" canon="false" text="" textRus="Ю. Пастернака" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>О Господь Иисус, куда идти нам?</plain>
+        </string>
+        <string>
+            <plain>У Тебя слова вечной жизни.</plain>
+        </string>
+        <string>
+            <plain>Ты – Мессия, Ты – Мессия,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Сын Бога вечно живого.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Herr, wohin, wohin sollen wir gehen? (О…)</plain>
+        </string>
+        <string>
+            <plain>Du hast Worte ewigen Lebens. (О…)</plain>
+        </string>
+        <string>
+            <plain>Du bist Christus, du bist Christus,</plain>
+        </string>
+        <string>
+            <plain>Sohn des lebendigen Gottes.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2080" name="Горит огонь любви чудесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горит огонь любви чудесной</plain>
+        </string>
+        <string>
+            <plain>В сердцах у наших молодых.</plain>
+        </string>
+        <string>
+            <plain>Друзья, давайте пожелаем</plain>
+        </string>
+        <string>
+            <plain>Им счастья в этот славный день.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будьте вы радостны,</plain>
+        </string>
+        <string>
+            <plain>Будьте счастливы,</plain>
+        </string>
+        <string>
+            <plain>Пусть огонь горит в душе</plain>
+        </string>
+        <string>
+            <plain>И не гаснет никогда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чтоб ваша жизнь благоухала</plain>
+        </string>
+        <string>
+            <plain>На зов Спасителя хвалить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб окружающим сказала,</plain>
+        </string>
+        <string>
+            <plain>Как нужно верить и любить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сияют лица, пенье льётся,</plain>
+        </string>
+        <string>
+            <plain>Все с пожеланьями спешат.</plain>
+        </string>
+        <string>
+            <plain>И даже солнышко смеется,</plain>
+        </string>
+        <string>
+            <plain>И ветер также свадьбе рад.</plain>
+        </string>
+    </verse>
+</song>

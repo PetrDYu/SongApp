@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2383" name="Хочу я петь о Господе моем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочу я петь о Господе моем,</plain>
+        </string>
+        <string>
+            <plain>Он душу спас, ведет меня в Свой дом.</plain>
+        </string>
+        <string>
+            <plain>Он посылает силу мне Свою,</plain>
+        </string>
+        <string>
+            <plain>Вот потому о Нем всегда пою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не умолкай, моя душа, а пой,</plain>
+        </string>
+        <string>
+            <plain>Хоть трудно петь тебе средь бури злой.</plain>
+        </string>
+        <string>
+            <plain>Он слышит песнь твою, не унывай,</plain>
+        </string>
+        <string>
+            <plain>Он Сам ведет тебя в небесный край.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лукавый шепчет: "Для кого поешь?</plain>
+        </string>
+        <string>
+            <plain>Ты согрешил, за это ты умрешь".</plain>
+        </string>
+        <string>
+            <plain>"Да, я умру, но с песней на устах,</plain>
+        </string>
+        <string>
+            <plain>Прощен мой грех, я буду в небесах".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друзья, давайте вместе воспоем</plain>
+        </string>
+        <string>
+            <plain>Хвалебный Богу нашему псалом,</plain>
+        </string>
+        <string>
+            <plain>За жертву Сына Божия Христа,</plain>
+        </string>
+        <string>
+            <plain>За кровь, пролитую за нас с креста.</plain>
+        </string>
+        <string>
+            <plain>Вот потому о Нем всегда пою, пою, пою.</plain>
+        </string>
+    </verse>
+</song>

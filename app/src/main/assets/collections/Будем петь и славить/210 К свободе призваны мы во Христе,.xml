@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="210" name="К свободе призваны мы во Христе," canon="false" text="В. Теппоне" textRus="" music="В. Теппоне" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>К свободе призваны мы во Христе,</plain>
+        </string>
+        <string>
+            <plain>Чтоб быть свободными здесь на земле.</plain>
+        </string>
+        <string>
+            <plain>Весь мир во зле лежит, греху принадлежит,</plain>
+        </string>
+        <string>
+            <plain>В пороки погружен, грехом пленен.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>От уз греха и зла свободны мы,</plain>
+        </string>
+        <string>
+            <plain>Нам чужда суета, свободны мы.</plain>
+        </string>
+        <string>
+            <plain>От всех путей мирских и от страстей плотских,</plain>
+        </string>
+        <string>
+            <plain>И от тревог людских свободны мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От скверн нечистоты свободны мы,</plain>
+        </string>
+        <string>
+            <plain>От плена суеты свободны мы.</plain>
+        </string>
+        <string>
+            <plain>От мира, что истлел, от всех порочных дел,</plain>
+        </string>
+        <string>
+            <plain>От оскверненья тел свободны мы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так стойте, братья, все в свободе той!</plain>
+        </string>
+        <string>
+            <plain>Дарит свободу нам Христос благой.</plain>
+        </string>
+        <string>
+            <plain>Познаньем истины сердца нам просвети,</plain>
+        </string>
+        <string>
+            <plain>Чтобы народ Его свободным был.</plain>
+        </string>
+    </verse>
+</song>

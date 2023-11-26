@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3246" name="О в Духе поклоняйтесь все Отцу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, в Духе поклоняйтесь все Отцу!</plain>
+        </string>
+        <string>
+            <plain>За чудо благодати честь Творцу!</plain>
+        </string>
+        <string>
+            <plain>Ему да будет слава и хвала!</plain>
+        </string>
+        <string>
+            <plain>Надёжно нас ведёт Его рука.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Честь Творцу, что Он нас в крови омыл!</plain>
+        </string>
+        <string>
+            <plain>Честь Творцу - нас к Себе Он возвратил!</plain>
+        </string>
+        <string>
+            <plain>От души служите все Ему, пусть</plain>
+        </string>
+        <string>
+            <plain>с вами ангелы поют хвалу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чтоб нас спасти, явился Божий Сын,</plain>
+        </string>
+        <string>
+            <plain>за нас Он был поруган и гоним.</plain>
+        </string>
+        <string>
+            <plain>С хвалой воспойте Божью благодать,</plain>
+        </string>
+        <string>
+            <plain>чтоб люди все могли об этом знать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух свыше освещает душу нам,</plain>
+        </string>
+        <string>
+            <plain>ведёт нас без пороков к небесам!</plain>
+        </string>
+        <string>
+            <plain>Принять достоин славу Он и честь,</plain>
+        </string>
+        <string>
+            <plain>выводит нас из тьмы благая весть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог триединый, что на небесах,</plain>
+        </string>
+        <string>
+            <plain>живущий у Своих детей в сердцах!</plain>
+        </string>
+        <string>
+            <plain>Мы славим сердцем Сына и Отца</plain>
+        </string>
+        <string>
+            <plain>и слушаемся Духа мы всегда.</plain>
+        </string>
+    </verse>
+</song>

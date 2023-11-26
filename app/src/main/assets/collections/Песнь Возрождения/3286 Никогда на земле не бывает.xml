@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3286" name="Никогда на земле не бывает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Никогда на земле не бывает</plain>
+        </string>
+        <string>
+            <plain>друг на друга похожих годов.</plain>
+        </string>
+        <string>
+            <plain>Что-то новое нас ожидает,</plain>
+        </string>
+        <string>
+            <plain>встретить новые дни будь готов.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будут новые ветры и бури</plain>
+        </string>
+        <string>
+            <plain>проверять христиан на земле</plain>
+        </string>
+        <string>
+            <plain>Мир решил потушить факел веры</plain>
+        </string>
+        <string>
+            <plain>обольщением новым и злым.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будут новые скорби разлуки,</plain>
+        </string>
+        <string>
+            <plain>Будут новые стоны в слезах,</plain>
+        </string>
+        <string>
+            <plain>И молитв пламенеющих звуки,</plain>
+        </string>
+        <string>
+            <plain>устремятся опять к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но не только горящие печи,</plain>
+        </string>
+        <string>
+            <plain>и не только разлуки одни,</plain>
+        </string>
+        <string>
+            <plain>Будут с близкими новые встречи</plain>
+        </string>
+        <string>
+            <plain>Будут новые светлые дни.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Будут новые гимны победы</plain>
+        </string>
+        <string>
+            <plain>Благодарности Богу звучать</plain>
+        </string>
+        <string>
+            <plain>Будем новые с неба ответы</plain>
+        </string>
+        <string>
+            <plain>Дорогие друзья получать.</plain>
+        </string>
+    </chorus>
+</song>

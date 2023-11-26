@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1751" name="Знаете это же чудо" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знаете, это же чудо,</plain>
+        </string>
+        <string>
+            <plain>Что мы Христа познали</plain>
+        </string>
+        <string>
+            <plain>И что дорогой трудной</plain>
+        </string>
+        <string>
+            <plain>К светлой шагаем дали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аккомпанирует ветер</plain>
+        </string>
+        <string>
+            <plain>Нашим хорошим песням...</plain>
+        </string>
+        <string>
+            <plain>Даже печали встретить</plain>
+        </string>
+        <string>
+            <plain>Легче, когда мы вместе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вместе легко идти нам,</plain>
+        </string>
+        <string>
+            <plain>В деле сильны мы вместе,</plain>
+        </string>
+        <string>
+            <plain>К небу летят мотивы</plain>
+        </string>
+        <string>
+            <plain>Наших призывных песен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы еще здесь остались,</plain>
+        </string>
+        <string>
+            <plain>Мы на пути к Отчизне,</plain>
+        </string>
+        <string>
+            <plain>Но не дадим печали</plain>
+        </string>
+        <string>
+            <plain>Укорениться в жизни.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лучше за дело взяться,</plain>
+        </string>
+        <string>
+            <plain>А не грустить в ненастье.</plain>
+        </string>
+        <string>
+            <plain>Если уж разобраться,</plain>
+        </string>
+        <string>
+            <plain>Мы же - владельцы счастья!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1614" name="Ты не грусти что так жизнь быстро мчится" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты не грусти, что так жизнь быстро мчится,</plain>
+        </string>
+        <string>
+            <plain>И годы летят чередой,</plain>
+        </string>
+        <string>
+            <plain>И улетают, как быстрые птицы,</plain>
+        </string>
+        <string>
+            <plain>На крыльях неся нас с собой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты не грусти, что старость подходит,</plain>
+        </string>
+        <string>
+            <plain>И кроет главу седина.</plain>
+        </string>
+        <string>
+            <plain>Что светлая молодость так быстро уходит,</plain>
+        </string>
+        <string>
+            <plain>И что не вернется назад.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты не грусти, что уж с смертью сближенье.</plain>
+        </string>
+        <string>
+            <plain>Ведь цель у тебя - Сам Христос.</plain>
+        </string>
+        <string>
+            <plain>Ведь Он на кресте приобрел нам спасенье</plain>
+        </string>
+        <string>
+            <plain>И страшные муки понес.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты не грусти, что с землей расстаемся,</plain>
+        </string>
+        <string>
+            <plain>И близится жизни конец,</plain>
+        </string>
+        <string>
+            <plain>И ты расстаешься с тяжелой дорогой,</plain>
+        </string>
+        <string>
+            <plain>А в небе тебя ждет Отец.</plain>
+        </string>
+    </verse>
+</song>

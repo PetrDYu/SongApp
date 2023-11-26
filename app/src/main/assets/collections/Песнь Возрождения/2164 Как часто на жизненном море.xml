@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2164" name="Как часто на жизненном море" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как часто на жизненном море</plain>
+        </string>
+        <string>
+            <plain>Людской безутешной молвы</plain>
+        </string>
+        <string>
+            <plain>В неравном, но ревностном споре</plain>
+        </string>
+        <string>
+            <plain>С волной состязаемся мы.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Стою я у берега моря,</plain>
+        </string>
+        <string>
+            <plain>И грустно, и радостно мне.</plain>
+        </string>
+        <string>
+            <plain>Сияют, как яркие зори,</plain>
+        </string>
+        <string>
+            <plain>Христовы следы на волне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И море навеки утихнет,</plain>
+        </string>
+        <string>
+            <plain>Мы верим, по слову Творца!</plain>
+        </string>
+        <string>
+            <plain>И в сердце луч радости вспыхнет,</plain>
+        </string>
+        <string>
+            <plain>И счастью не будет конца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы ждём сокровенное время:</plain>
+        </string>
+        <string>
+            <plain>Спаситель придёт, словно тать,</plain>
+        </string>
+        <string>
+            <plain>Со страждущих снимется бремя,</plain>
+        </string>
+        <string>
+            <plain>Они перестанут рыдать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О море, ты в бурях жестоких</plain>
+        </string>
+        <string>
+            <plain>Волнуешь людской океан,</plain>
+        </string>
+        <string>
+            <plain>Терзаешь порой одиноких,</plain>
+        </string>
+        <string>
+            <plain>Невинных ни в чём христиан.</plain>
+        </string>
+    </verse>
+</song>

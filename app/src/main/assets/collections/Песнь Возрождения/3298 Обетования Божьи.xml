@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3298" name="Обетования Божьи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Обетования Божьи</plain>
+        </string>
+        <string>
+            <plain>не поколеблются,</plain>
+        </string>
+        <string>
+            <plain>сам Иисус утвердил</plain>
+        </string>
+        <string>
+            <plain>их в день искупления.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Небо, земля исчезнут,</plain>
+        </string>
+        <string>
+            <plain>солнце, луна - померкнут,</plain>
+        </string>
+        <string>
+            <plain>верь и вовек пребудут</plain>
+        </string>
+        <string>
+            <plain>- обетованья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вспомни ты жизнь Авраама,</plain>
+        </string>
+        <string>
+            <plain>взор подними Свой ввысь.</plain>
+        </string>
+        <string>
+            <plain>К звёздам в смирении взирая,</plain>
+        </string>
+        <string>
+            <plain>верою укрепись.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верь, если тьма окружает,</plain>
+        </string>
+        <string>
+            <plain>верь хоть надежды нет.</plain>
+        </string>
+        <string>
+            <plain>Скоро опять засияет</plain>
+        </string>
+        <string>
+            <plain>радостный солнца веет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верь, хоть друзья изменяют,</plain>
+        </string>
+        <string>
+            <plain>только один Христос верен,</plain>
+        </string>
+        <string>
+            <plain>не оставляет нас</plain>
+        </string>
+        <string>
+            <plain>среди жизненных слёз.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Верь же свой путь продолжая,</plain>
+        </string>
+        <string>
+            <plain>в дивный Отцовский дом.</plain>
+        </string>
+        <string>
+            <plain>Во, что веришь страдая.</plain>
+        </string>
+        <string>
+            <plain>Ясно ты узришь в Нём.</plain>
+        </string>
+    </verse>
+</song>

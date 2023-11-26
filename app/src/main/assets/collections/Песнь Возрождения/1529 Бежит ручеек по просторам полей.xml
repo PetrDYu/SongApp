@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1529" name="Бежит ручеек по просторам полей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бежит ручеек по просторам полей,</plain>
+        </string>
+        <string>
+            <plain>Журчит, пробиваясь сквозь груды камней,</plain>
+        </string>
+        <string>
+            <plain>Стремится он слиться с широкой рекой.</plain>
+        </string>
+        <string>
+            <plain>Что воды несут его к глади морской.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боится ручей не достигнуть реки.</plain>
+        </string>
+        <string>
+            <plain>Боится ручей потеряться в степи,</plain>
+        </string>
+        <string>
+            <plain>Засыплет песок его, высушит зной</plain>
+        </string>
+        <string>
+            <plain>И ввек не гулять ему вольной рекой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так, где бы я ни был заброшен судьбой,</plain>
+        </string>
+        <string>
+            <plain>Стремлюсь быть в общении Церкви живой.</plain>
+        </string>
+        <string>
+            <plain>Она утешает, мне силу дает,</plain>
+        </string>
+        <string>
+            <plain>И к вечным обителям душу зовет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не мало преград на тернистом пути,</plain>
+        </string>
+        <string>
+            <plain>И к вечности мне одному не дойти,</plain>
+        </string>
+        <string>
+            <plain>Но Церковь, как мать, дорогое дитя</plain>
+        </string>
+        <string>
+            <plain>За руку ведет, ободряет меня.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я знаю, не мало меня еще ждет</plain>
+        </string>
+        <string>
+            <plain>Больших неудач и суровых невзгод.</plain>
+        </string>
+        <string>
+            <plain>Но как бы не труден мой путь был земной,</plain>
+        </string>
+        <string>
+            <plain>Я в Церкви найду отдых, мир и покой...</plain>
+        </string>
+    </verse>
+</song>

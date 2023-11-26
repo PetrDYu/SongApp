@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1173" name="Прости за время что прожито" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прости за время, что прожито.</plain>
+        </string>
+        <string>
+            <plain>За дни бесплодные прости.</plain>
+        </string>
+        <string>
+            <plain>За все, что помню, что забыто,</plain>
+        </string>
+        <string>
+            <plain>Прости как грешника, прости.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Прости меня, со мною будь,</plain>
+        </string>
+        <string>
+            <plain>Не оставляй меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прости, что часто огорчаю</plain>
+        </string>
+        <string>
+            <plain>Тебя, Господь, в моем пути,</plain>
+        </string>
+        <string>
+            <plain>Что часто так ослабеваю</plain>
+        </string>
+        <string>
+            <plain>И не могу вперед идти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прости, что часто мало веры,</plain>
+        </string>
+        <string>
+            <plain>Я устаю в земной борьбе.</plain>
+        </string>
+        <string>
+            <plain>Но у Тебя любви - без меры,</plain>
+        </string>
+        <string>
+            <plain>И потому иду к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хочу Тебе отдать, о, Боже,</plain>
+        </string>
+        <string>
+            <plain>Всю жизнь мою, мои мечты,</plain>
+        </string>
+        <string>
+            <plain>Я верю: Ты во всем поможешь,</plain>
+        </string>
+        <string>
+            <plain>Моя надежда - только Ты.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3152" name="Весь я был в душевных ранах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Весь я был в душевных ранах,</plain>
+        </string>
+        <string>
+            <plain>без друзей, в большой беде,</plain>
+        </string>
+        <string>
+            <plain>но нашёл меня Спаситель,</plain>
+        </string>
+        <string>
+            <plain>исцеленье дал Он мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, душа с греховным грузом,</plain>
+        </string>
+        <string>
+            <plain>нужен друг тебе в беде?</plain>
+        </string>
+        <string>
+            <plain>- Другом избери Иисуса,</plain>
+        </string>
+        <string>
+            <plain>верен будет Он тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как душа во тьме томилась,</plain>
+        </string>
+        <string>
+            <plain>света жаждала она!</plain>
+        </string>
+        <string>
+            <plain>Если б ночь греха продлилась,</plain>
+        </string>
+        <string>
+            <plain>страшным был бы день суда.</plain>
+        </string>
+        <string>
+            <plain>З Жил без Божьего я мира</plain>
+        </string>
+        <string>
+            <plain>и без радости в душе,</plain>
+        </string>
+        <string>
+            <plain>обречён я был на муки,</plain>
+        </string>
+        <string>
+            <plain>грехи простил Он мне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Во грехе была жизнь горькой,</plain>
+        </string>
+        <string>
+            <plain>сладкой стала во Христе.</plain>
+        </string>
+        <string>
+            <plain>Не страшусь теперь суда я,</plain>
+        </string>
+        <string>
+            <plain>ведь спасенье дал Он мне.</plain>
+        </string>
+    </verse>
+</song>

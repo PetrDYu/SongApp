@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1560" name="Я не один на земном пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я не один на земном пути.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус, близок Иисус.</plain>
+        </string>
+        <string>
+            <plain>Нам помогает рукой любви.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Солнышко ли в небесах блестит.</plain>
+        </string>
+        <string>
+            <plain>Тучами ли небосвод закрыт.</plain>
+        </string>
+        <string>
+            <plain>Взором любви Он за мной следит.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Близок Иисус всегда.</plain>
+        </string>
+        <string>
+            <plain>Он сохранит от зла;</plain>
+        </string>
+        <string>
+            <plain>К светлой Отчизне ведет меня.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радостно песню ли я пою.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус, близок Иисус,</plain>
+        </string>
+        <string>
+            <plain>Или на битву с грехом встаю,</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Если вдруг в жизни обманут я.</plain>
+        </string>
+        <string>
+            <plain>Иль позабыли меня друзья.</plain>
+        </string>
+        <string>
+            <plain>Он не изменит мне никогда.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Во дни скитаний, в часы тревог</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус, близок Иисус;</plain>
+        </string>
+        <string>
+            <plain>Жажду идти в Дом Отца скорей.</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Плача долиною проходя.</plain>
+        </string>
+        <string>
+            <plain>Не убоюсь я угрозы зла.</plain>
+        </string>
+        <string>
+            <plain>Сильной храним я рукой Христа,</plain>
+        </string>
+        <string>
+            <plain>Близок Иисус Спаситель.</plain>
+        </string>
+    </verse>
+</song>

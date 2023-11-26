@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="69" name="Он есть Господь, Бог Всемогущий," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Он есть Господь, Бог Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Он есть Господь, Бог Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Он есть Бог сильный, вечная крепость.</plain>
+        </string>
+        <string>
+            <plain>Он есть Господь, твой Бог, Спаситель твой.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя, пой аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Пой аллилуйя, пой аллилуйя.</plain>
+        </string>
+        <string>
+            <plain>Он есть Бог сильный, вечная крепость.</plain>
+        </string>
+        <string>
+            <plain>Он есть Господь, твой Бог, Спаситель твой.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

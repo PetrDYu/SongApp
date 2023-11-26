@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="32" name="Внемли Господу, слушай глас Его" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Внемли Господу, слушай глас Его.</plain>
+        </string>
+        <string>
+            <plain>Пребывающие в Нем силы обновят.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Внемли Господу, Дух Святой впусти.</plain>
+        </string>
+        <string>
+            <plain>Где Дух Божий обитает, чудный мир царит.</plain>
+        </string>
+    </verse>
+</song>

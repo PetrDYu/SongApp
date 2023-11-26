@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="66" name="Хоть я спасен Твоим призваньем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть я спасен Твоим призваньем</plain>
+        </string>
+        <string>
+            <plain>И утверж-ден в любви святой,</plain>
+        </string>
+        <string>
+            <plain>Но все же беден я познаньем.</plain>
+        </string>
+        <string>
+            <plain>За ним иду к Тебе с мольбой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хочу я большего познанья</plain>
+        </string>
+        <string>
+            <plain>Тебя и мудрости Твоей</plain>
+        </string>
+        <string>
+            <plain>В чудесных тайнах мирозданья,</plain>
+        </string>
+        <string>
+            <plain>В судьбах народов и царей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу познать Тебя в Писанье,</plain>
+        </string>
+        <string>
+            <plain>В страницах Библии святой;</plain>
+        </string>
+        <string>
+            <plain>Но больше я хочу познанья</plain>
+        </string>
+        <string>
+            <plain>В общенье радостном с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хочу познать Твои желанья</plain>
+        </string>
+        <string>
+            <plain>И вечный смысл путей Твоих;</plain>
+        </string>
+        <string>
+            <plain>Познать Твои обетованья:</plain>
+        </string>
+        <string>
+            <plain>О, как я мало знаю их!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хочу я знать, когда Всевластный</plain>
+        </string>
+        <string>
+            <plain>Великий Бог доволен мной,</plain>
+        </string>
+        <string>
+            <plain>И знать, когда Твой образ ясный</plain>
+        </string>
+        <string>
+            <plain>Померкнет тихо предо мной.</plain>
+        </string>
+    </verse>
+</song>

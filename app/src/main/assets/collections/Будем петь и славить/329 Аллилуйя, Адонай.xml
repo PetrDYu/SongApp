@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="329" name="Аллилуйя, Адонай" canon="false" text="Рахели Борски" textRus="И. Языковой, Ю. Пастернака" music="Рахели Борски" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Аллилуйя, Адонай!</plain>
+        </string>
+        <string>
+            <plain>Пойте, все народы, славьте Бога, все племена!</plain>
+        </string>
+        <string>
+            <plain>Ибо милость Его велика к нам и истина Божья вовек!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилу, аллилуйя,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>АЛЭЛУ́ ЭТ АДОНА́Й КО́ЛЬ ГОИ́М</plain>
+        </string>
+        <string>
+            <plain>ШАБЭХУ́x̅У КО́ЛЬ А-УМИ́М</plain>
+        </string>
+        <string>
+            <plain>КИ́ ГАВА́Р АЛЕ́ЙНУ ХАСДО́</plain>
+        </string>
+        <string>
+            <plain>ВЭ-ЭМЭ́Т АДОНА́Й ЛЭОЛА́М</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>А́ЛЭЛУ АЛЭЛУЯ</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>А́ЛЭЛУЯ́</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2669" name="И всето Ты терпишь И всето Ты сносишь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>И все-то Ты терпишь, И все-то Ты сносишь!</plain>
+        </string>
+        <string>
+            <plain>Провины мои на Голгофу уносишь,</plain>
+        </string>
+        <string>
+            <plain>И там их опять и опять оставляешь,</plain>
+        </string>
+        <string>
+            <plain>Ты их распинаешь, Ты их убиваешь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как смею смотреть в Твои светлые очи?</plain>
+        </string>
+        <string>
+            <plain>Прости меня. Отче, прости меня, Отче!</plain>
+        </string>
+        <string>
+            <plain>Я сердцем прощены Его ощущаю</plain>
+        </string>
+        <string>
+            <plain>И слышу душою: "Прощаю... прощаю".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>А я их опять и опять воскрешаю,</plain>
+        </string>
+        <string>
+            <plain>И делу святому тем только мешаю</plain>
+        </string>
+        <string>
+            <plain>Своими грехами, своими слезами,</plain>
+        </string>
+        <string>
+            <plain>Своими бесстыжими злыми глазами.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Но только иди и впредь не греши,</plain>
+        </string>
+        <string>
+            <plain>Не пачкай очищенной Мною души".</plain>
+        </string>
+    </verse>
+</song>

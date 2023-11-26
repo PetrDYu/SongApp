@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2624" name="Я знаю Он в жизни моей стал опорой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, Он в жизни моей стал опорой.</plain>
+        </string>
+        <string>
+            <plain>Я чувствую силу Его любви.</plain>
+        </string>
+        <string>
+            <plain>Все тайны, все тайны мои на ладонях</plain>
+        </string>
+        <string>
+            <plain>Раскрытых пред Ним лежат.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В сердце моем одна тоска,</plain>
+        </string>
+        <string>
+            <plain>Что долго к Голгофе я шла,</plain>
+        </string>
+        <string>
+            <plain>Боже, прости, прости меня,</plain>
+        </string>
+        <string>
+            <plain>Что долго к Голгофе я шла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К Голгофе, к Голгофе Христовых страданий</plain>
+        </string>
+        <string>
+            <plain>Я тяжкое бремя свое принесла</plain>
+        </string>
+        <string>
+            <plain>И слезы, и плач моего раскаянья</plain>
+        </string>
+        <string>
+            <plain>Чтоб снять у подножья креста.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он жизнь мою украсил цветами</plain>
+        </string>
+        <string>
+            <plain>Прекрасной, невиданной красоты.</plain>
+        </string>
+        <string>
+            <plain>О, Боже, Ты видишь мое желанье:</plain>
+        </string>
+        <string>
+            <plain>К Голгофе хотя б одного привести.</plain>
+        </string>
+    </verse>
+</song>

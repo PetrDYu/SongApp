@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="936" name="Мама это имя мне мило" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Мама" - это имя мне мило,</plain>
+        </string>
+        <string>
+            <plain>Полно оно ласки, любви.</plain>
+        </string>
+        <string>
+            <plain>Мама на руках нас носила</plain>
+        </string>
+        <string>
+            <plain>И нас охраняла в любви.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мама, сколько ты пережила,</plain>
+        </string>
+        <string>
+            <plain>Мама, сколько скорби снесла.</plain>
+        </string>
+        <string>
+            <plain>Нас ты берегла и хранила,</plain>
+        </string>
+        <string>
+            <plain>Мама, дорогая моя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто нас в неудачах утешит,</plain>
+        </string>
+        <string>
+            <plain>Кто нас безвозмездно простит?</plain>
+        </string>
+        <string>
+            <plain>Кто нас ободрит и излечит,</plain>
+        </string>
+        <string>
+            <plain>В горе и в нужде защитит?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поздно, поздно будет у гроба</plain>
+        </string>
+        <string>
+            <plain>Плакать и терзаться душой.</plain>
+        </string>
+        <string>
+            <plain>Дети! Вашей краткой дорогой</plain>
+        </string>
+        <string>
+            <plain>Скоро придет гостья с косой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Сей, друг, но учти: жать придется</plain>
+        </string>
+        <string>
+            <plain>То, что насадила рука.</plain>
+        </string>
+        <string>
+            <plain>Чти мать, и тогда улыбнется</plain>
+        </string>
+        <string>
+            <plain>Счастьем жизнь в печали твоей.</plain>
+        </string>
+    </verse>
+</song>

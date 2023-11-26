@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2636" name="Иерусалим Иерусалим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Небесный город, сколько света и тепла!</plain>
+        </string>
+        <string>
+            <plain>Строитель и Художник Сам Творец!</plain>
+        </string>
+        <string>
+            <plain>Иерусалим - обитель счастья и добра,</plain>
+        </string>
+        <string>
+            <plain>Где нуждам и скорбям придет конец.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Отечество мое лишь там,</plain>
+        </string>
+        <string>
+            <plain>Лишь там найду покой,</plain>
+        </string>
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Смелее взор и тверже шаг,</plain>
+        </string>
+        <string>
+            <plain>Мы к вечности идем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иерусалим, Какая радость будет там,</plain>
+        </string>
+        <string>
+            <plain>Когда мы встретимся лицом к лицу</plain>
+        </string>
+        <string>
+            <plain>С Царем Салима, - Он приготовил место нам,</plain>
+        </string>
+        <string>
+            <plain>И всех людей зовет придти к Отцу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К Иерусалиму Мы идем чрез скорбь и мрак,</plain>
+        </string>
+        <string>
+            <plain>Но солнце правды светит впереди</plain>
+        </string>
+        <string>
+            <plain>- К Иерусалиму. Зачем же унываешь ты?</plain>
+        </string>
+        <string>
+            <plain>Ведь Сам Христос с тобой, И цель ясна.</plain>
+        </string>
+    </verse>
+</song>

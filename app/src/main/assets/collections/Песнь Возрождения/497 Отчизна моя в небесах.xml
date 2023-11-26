@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="497" name="Отчизна моя в небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отчизна моя в небесах,</plain>
+        </string>
+        <string>
+            <plain>К ней стремится и рвется душа:</plain>
+        </string>
+        <string>
+            <plain>Там святые в бессмертных лучах,</plain>
+        </string>
+        <string>
+            <plain>Там струится живая река.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В небесах, в небесах,</plain>
+        </string>
+        <string>
+            <plain>Отчизна моя в небесах;</plain>
+        </string>
+        <string>
+            <plain>В небесах, в небесах,</plain>
+        </string>
+        <string>
+            <plain>Отчизна моя в небесах.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь меня ждет в небесах,</plain>
+        </string>
+        <string>
+            <plain>Он готовит обитель Свою;</plain>
+        </string>
+        <string>
+            <plain>Отдых мирный на злачных лугах</plain>
+        </string>
+        <string>
+            <plain>В Его светлом, блаженном раю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уж скоро мне быть в небесах,</plain>
+        </string>
+        <string>
+            <plain>Скоро кончится путь мой земной;</plain>
+        </string>
+        <string>
+            <plain>Там мне встретятся в райских вратах</plain>
+        </string>
+        <string>
+            <plain>Те, что верою жили святой.</plain>
+        </string>
+    </verse>
+</song>

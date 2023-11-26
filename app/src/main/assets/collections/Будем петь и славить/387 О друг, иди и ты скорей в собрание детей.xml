@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="387" name="О друг, иди и ты скорей в собрание детей" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О друг, иди и ты скорей в собрание детей.</plain>
+        </string>
+        <string>
+            <plain>Мы будем песни воспевать, Бога прославлять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иди! Иди! Иди, Тебя зовем мы!</plain>
+        </string>
+        <string>
+            <plain>Иди! Иди! Мы радостно споем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христа мы будем прославлять за милость, благодать,</plain>
+        </string>
+        <string>
+            <plain>За то, что каждый день и час в пути хранит Он нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвалу Ему мы принесем за дар Его щедрот</plain>
+        </string>
+        <string>
+            <plain>И за Его прекрасный дом, что в вышине нас ждет.</plain>
+        </string>
+    </verse>
+</song>

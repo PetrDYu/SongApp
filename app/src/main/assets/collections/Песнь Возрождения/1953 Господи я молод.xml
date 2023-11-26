@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1953" name="Господи я молод" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи, я молод</plain>
+        </string>
+        <string>
+            <plain>И меня страшит</plain>
+        </string>
+        <string>
+            <plain>Жизни этой молот;</plain>
+        </string>
+        <string>
+            <plain>Я душой разбит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Жизни этой время</plain>
+        </string>
+        <string>
+            <plain>Для души моей</plain>
+        </string>
+        <string>
+            <plain>Тяжкий крест и бремя,</plain>
+        </string>
+        <string>
+            <plain>Ряд одних скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На кресты взирая,</plain>
+        </string>
+        <string>
+            <plain>Страшно в жизнь вступить,</plain>
+        </string>
+        <string>
+            <plain>Мысль приходит злая:</plain>
+        </string>
+        <string>
+            <plain>Хочется не жить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В этот час жестокий</plain>
+        </string>
+        <string>
+            <plain>Мысль к Тебе летит,</plain>
+        </string>
+        <string>
+            <plain>Дай чтоб путь далекий</plain>
+        </string>
+        <string>
+            <plain>Сердцу был открыт.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Дай понять мне точно</plain>
+        </string>
+        <string>
+            <plain>Жизни этой ход,</plain>
+        </string>
+        <string>
+            <plain>Яд тропы порочной,</plain>
+        </string>
+        <string>
+            <plain>Чад земных невзгод.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Дай, поняв, смириться,</plain>
+        </string>
+        <string>
+            <plain>На Твой путь вступить.</plain>
+        </string>
+        <string>
+            <plain>Духом ободриться,</plain>
+        </string>
+        <string>
+            <plain>Радость получить.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Но всего дороже:</plain>
+        </string>
+        <string>
+            <plain>Встань передо мной,</plain>
+        </string>
+        <string>
+            <plain>Чтоб отныне, Боже,</plain>
+        </string>
+        <string>
+            <plain>Шел я за Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>В радости веселой</plain>
+        </string>
+        <string>
+            <plain>Сгинет скорбь, тоска,</plain>
+        </string>
+        <string>
+            <plain>Жизнь тропы тяжелой</plain>
+        </string>
+        <string>
+            <plain>Станет мне легка.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="280" name="Прячась в пустыне сухой в нищете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прячась в пустыне сухой в нищете,</plain>
+        </string>
+        <string>
+            <plain>Звали к Спасителю десять больных:</plain>
+        </string>
+        <string>
+            <plain>"Нас Ты помилуй!" - Очистил Он их.</plain>
+        </string>
+        <string>
+            <plain>Славить пришел один - где ж девять те?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Где ж девять те?</plain>
+        </string>
+        <string>
+            <plain>Где ж девять те?</plain>
+        </string>
+        <string>
+            <plain>Очистил Он десять</plain>
+        </string>
+        <string>
+            <plain>Где ж девять те?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пав пред Иисусом в толпе, в тесноте,</plain>
+        </string>
+        <string>
+            <plain>Лишь Самарянин Его прославлял</plain>
+        </string>
+        <string>
+            <plain>За исцеленье, что Он даровал.</plain>
+        </string>
+        <string>
+            <plain>Кротко спросил Христос: "Где ж девять те?"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Кто, Назарянин? - так спрашивал люд. –</plain>
+        </string>
+        <string>
+            <plain>Мог ли Мессия прийти в простоте?"</plain>
+        </string>
+        <string>
+            <plain>Многие души чудес только ждут</plain>
+        </string>
+        <string>
+            <plain>И для них чудо есть: где ж девять те?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Видим мы взоры людей на Христе,</plain>
+        </string>
+        <string>
+            <plain>Слышим вопросы с насмешкой: "Кто Он?"</plain>
+        </string>
+        <string>
+            <plain>Ими отвергнут Христос, осужден,</plain>
+        </string>
+        <string>
+            <plain>Но вот свидетели - где ж девять те?</plain>
+        </string>
+    </verse>
+</song>

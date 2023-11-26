@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="298" name="Есть место есть Господь в чертог зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть место, есть! Господь в чертог зовет,</plain>
+        </string>
+        <string>
+            <plain>В чертог святой Он Сам тебя введет;</plain>
+        </string>
+        <string>
+            <plain>Тебя зовут, ты зов не отклони,</plain>
+        </string>
+        <string>
+            <plain>Тебя там ждут, туда, туда входи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Есть место, есть!</plain>
+        </string>
+        <string>
+            <plain>Есть место, есть!</plain>
+        </string>
+        <string>
+            <plain>О, поспеши войти!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прекрасен пир в чертоге золотом;</plain>
+        </string>
+        <string>
+            <plain>Тебя Господь зовет быть гостем в нем;</plain>
+        </string>
+        <string>
+            <plain>Есть место там и дверь не заперта:</plain>
+        </string>
+        <string>
+            <plain>Ее открыл Спаситель для тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он многих грешников принял туда.</plain>
+        </string>
+        <string>
+            <plain>Но там еще есть место для тебя;</plain>
+        </string>
+        <string>
+            <plain>Они омыты кровию Христа,</plain>
+        </string>
+        <string>
+            <plain>Христос зовет - омоет и тебя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Входи, входи! Пир этот для тебя,</plain>
+        </string>
+        <string>
+            <plain>И чаша там веселием полна;</plain>
+        </string>
+        <string>
+            <plain>Все счастье там, вся радость, о входи!</plain>
+        </string>
+        <string>
+            <plain>Господь зовет, ты голосу внемли!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Светилу дня не долго уж сиять</plain>
+        </string>
+        <string>
+            <plain>Ночная тьма готова все объять;</plain>
+        </string>
+        <string>
+            <plain>Настанет ночь, закроются врата,</plain>
+        </string>
+        <string>
+            <plain>Ужасный вопль услышишь ты тогда:</plain>
+        </string>
+        <string>
+            <plain>Нет места, нет! Затворены врата!</plain>
+        </string>
+    </verse>
+</song>

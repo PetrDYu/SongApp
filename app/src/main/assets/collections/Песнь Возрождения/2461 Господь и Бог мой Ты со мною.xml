@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2461" name="Господь и Бог мой Ты со мною" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь и Бог мой, Ты со мною,</plain>
+        </string>
+        <string>
+            <plain>Твоим дыханьем я живу.</plain>
+        </string>
+        <string>
+            <plain>Живой и трепетной душою</plain>
+        </string>
+        <string>
+            <plain>Тебя повсюду нахожу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пойду ли в лес иль выйду в поле,</plain>
+        </string>
+        <string>
+            <plain>Услышу говор ручейка,</plain>
+        </string>
+        <string>
+            <plain>Иль рокот ветра на просторе,</plain>
+        </string>
+        <string>
+            <plain>Везде видна рука Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В цветеньи сада, в звуках гимна,</plain>
+        </string>
+        <string>
+            <plain>Иль в звонкой трели соловья,</plain>
+        </string>
+        <string>
+            <plain>Она и в малом и в великом,</plain>
+        </string>
+        <string>
+            <plain>Везде видна рука Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Она видна в улыбке детской,</plain>
+        </string>
+        <string>
+            <plain>В мерцаньи звезд, сияньи дня,</plain>
+        </string>
+        <string>
+            <plain>В разумной мысли, жаре сердца,</plain>
+        </string>
+        <string>
+            <plain>Везде видна рука Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И это счастье - видеть всюду</plain>
+        </string>
+        <string>
+            <plain>Твои следы, Твое тепло,</plain>
+        </string>
+        <string>
+            <plain>Благодарить Тебя я буду</plain>
+        </string>
+        <string>
+            <plain>За жизнь, за разум, за добро.</plain>
+        </string>
+    </verse>
+</song>

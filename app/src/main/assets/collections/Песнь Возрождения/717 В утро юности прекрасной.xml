@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="717" name="В утро юности прекрасной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В утро юности прекрасной,</plain>
+        </string>
+        <string>
+            <plain>Жизни радостной рассвет,</plain>
+        </string>
+        <string>
+            <plain>Мы спешим на призыв властный</plain>
+        </string>
+        <string>
+            <plain>Исполнять Христа завет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Для труда на Божьей ниве</plain>
+        </string>
+        <string>
+            <plain>Мы готовы все отдать;</plain>
+        </string>
+        <string>
+            <plain>О, не будем же ленивы,</plain>
+        </string>
+        <string>
+            <plain>Пока день, не будем спать!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любим имя Иисуса</plain>
+        </string>
+        <string>
+            <plain>И о Нем благовестим;</plain>
+        </string>
+        <string>
+            <plain>Мы о милости Христовой</plain>
+        </string>
+        <string>
+            <plain>Людям грешным возвестим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Посвятим же силы, время</plain>
+        </string>
+        <string>
+            <plain>Для спасенья душ людей,</plain>
+        </string>
+        <string>
+            <plain>Облегчая жизни бремя</plain>
+        </string>
+        <string>
+            <plain>Им трудом любви своей.</plain>
+        </string>
+    </verse>
+</song>

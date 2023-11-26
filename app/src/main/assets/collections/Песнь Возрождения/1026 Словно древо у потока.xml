@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1026" name="Словно древо у потока" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словно древо у потока,</plain>
+        </string>
+        <string>
+            <plain>Бог меня здесь возрастил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я в жизни без порока</plain>
+        </string>
+        <string>
+            <plain>Плод во время приносил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я не пошатнусь,</plain>
+        </string>
+        <string>
+            <plain>я не пошатнусь!</plain>
+        </string>
+        <string>
+            <plain>Якорь мой в руке Иисуса</plain>
+        </string>
+        <string>
+            <plain>- Я не пошатнусь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть меня постигнет буря,</plain>
+        </string>
+        <string>
+            <plain>Я сквозь тучи Бога зрю</plain>
+        </string>
+        <string>
+            <plain>И с надеждою в лазури</plain>
+        </string>
+        <string>
+            <plain>Вижу светлую зарю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если тьмой душа объята</plain>
+        </string>
+        <string>
+            <plain>Так, что выхода ей нет,</plain>
+        </string>
+        <string>
+            <plain>Милость Божия богата:</plain>
+        </string>
+        <string>
+            <plain>Превращает тьму во свет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как предстану я пред Богом,</plain>
+        </string>
+        <string>
+            <plain>Вместе с чадами Его,</plain>
+        </string>
+        <string>
+            <plain>Имя восхвалю с восторгом</plain>
+        </string>
+        <string>
+            <plain>Иисуса моего.</plain>
+        </string>
+    </verse>
+</song>

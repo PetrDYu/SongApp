@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="701" name="Навеки не оставлю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Навеки не оставлю</plain>
+        </string>
+        <string>
+            <plain>Святую Библию;</plain>
+        </string>
+        <string>
+            <plain>Я в ней нашел спасенье</plain>
+        </string>
+        <string>
+            <plain>И радость вечную.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Никогда, никогда</plain>
+        </string>
+        <string>
+            <plain>Я Библию не оставлю,</plain>
+        </string>
+        <string>
+            <plain>Никогда, никогда,</plain>
+        </string>
+        <string>
+            <plain>Эту книгу Божию.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда я в искушеньях</plain>
+        </string>
+        <string>
+            <plain>И угрожает враг,</plain>
+        </string>
+        <string>
+            <plain>Она ведет к победе</plain>
+        </string>
+        <string>
+            <plain>И освещает мрак.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда мой путь потерян</plain>
+        </string>
+        <string>
+            <plain>Среди житейских волн,</plain>
+        </string>
+        <string>
+            <plain>То к пристани Голгофы</plain>
+        </string>
+        <string>
+            <plain>Ведет она мой челн.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я ей лишь доверяю,</plain>
+        </string>
+        <string>
+            <plain>В ней истина и свет,</plain>
+        </string>
+        <string>
+            <plain>Она - источник жизни,</plain>
+        </string>
+        <string>
+            <plain>Ей в мире равной нет.</plain>
+        </string>
+    </verse>
+</song>

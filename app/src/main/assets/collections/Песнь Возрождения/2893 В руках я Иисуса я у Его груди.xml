@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2893" name="В руках я Иисуса я у Его груди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В руках я Иисуса, я у Его груди,</plain>
+        </string>
+        <string>
+            <plain>навек покои мне дал Он в Своей ко мне любви.</plain>
+        </string>
+        <string>
+            <plain>На небесах есть радость о том, что я спасён;</plain>
+        </string>
+        <string>
+            <plain>там ждёт меня Отец мой, там даст мне место Он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В руках я Иисуса,</plain>
+        </string>
+        <string>
+            <plain>я у Его груди,</plain>
+        </string>
+        <string>
+            <plain>навек покой мне дал Он</plain>
+        </string>
+        <string>
+            <plain>в Своей ко мне любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В руках я Иисуса, вдали от всех забот;</plain>
+        </string>
+        <string>
+            <plain>не страшны искушенья, грех в сердце не войдёт.</plain>
+        </string>
+        <string>
+            <plain>Никто меня не может от Господа отнять,</plain>
+        </string>
+        <string>
+            <plain>здесь для Него готов я трудиться и страдать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В руках я Иисуса, Он умер за меня,</plain>
+        </string>
+        <string>
+            <plain>и на Него лишь только надежда вся моя.</plain>
+        </string>
+        <string>
+            <plain>О, скоро избавленье, ночь зла пройдёт как тень,</plain>
+        </string>
+        <string>
+            <plain>и после этой ночи настанет вечный день.</plain>
+        </string>
+    </verse>
+</song>

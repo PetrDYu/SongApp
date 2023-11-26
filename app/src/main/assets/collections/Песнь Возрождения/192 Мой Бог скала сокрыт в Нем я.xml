@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="192" name="Мой Бог скала сокрыт в Нем я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Бог - скала, сокрыт в Нем я;</plain>
+        </string>
+        <string>
+            <plain>Покров во время бури.</plain>
+        </string>
+        <string>
+            <plain>В покой Свой ввел Господь меня,</plain>
+        </string>
+        <string>
+            <plain>Покров во время бури.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус мой - источник в земле сухой,</plain>
+        </string>
+        <string>
+            <plain>В земле сухой, в земле сухой;</plain>
+        </string>
+        <string>
+            <plain>Иисус мой - источник в земле сухой,</plain>
+        </string>
+        <string>
+            <plain>Покров во время бури.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И если враг меня страшит,</plain>
+        </string>
+        <string>
+            <plain>Меня Спаситель защитит.</plain>
+        </string>
+        <string>
+            <plain>Встают ли горы предо мной,</plain>
+        </string>
+        <string>
+            <plain>"Не бойся!"- слышу: "Я с тобой!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мой Бог, Отец, покров святой</plain>
+        </string>
+        <string>
+            <plain>Покров во время бури,</plain>
+        </string>
+        <string>
+            <plain>Я жажду жить одним Тобой,</plain>
+        </string>
+        <string>
+            <plain>Покров во время бури.</plain>
+        </string>
+    </verse>
+</song>

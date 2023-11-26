@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2262" name="О мой друг постой ты и послушай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О мой друг, постой ты и послушай,</plain>
+        </string>
+        <string>
+            <plain>Что тебе я расскажу о Христе,</plain>
+        </string>
+        <string>
+            <plain>Он зовет и всех нас очень любит,</plain>
+        </string>
+        <string>
+            <plain>Утешение Он каждому дает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Завтра, завтра, завтра</plain>
+        </string>
+        <string>
+            <plain>Будет поздно,</plain>
+        </string>
+        <string>
+            <plain>Поспеши сегодня.</plain>
+        </string>
+        <string>
+            <plain>Иисус тебя зовет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он с лица сотрет слезу рукою,</plain>
+        </string>
+        <string>
+            <plain>И утешит сердце бедное твое,</plain>
+        </string>
+        <string>
+            <plain>Поведет вперед Своей тропою,</plain>
+        </string>
+        <string>
+            <plain>Не покинет Он вовек дитя Свое.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ты на Его зов ответишь,</plain>
+        </string>
+        <string>
+            <plain>Если ты к Нему навстречу поспешишь,</plain>
+        </string>
+        <string>
+            <plain>В книгу жизни Он тебя запишет,</plain>
+        </string>
+        <string>
+            <plain>В чудном городе небесном будешь жить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он зовет, ты не спеши отвергнуть,</plain>
+        </string>
+        <string>
+            <plain>О, подумай, что же в мир тебя влечет,</plain>
+        </string>
+        <string>
+            <plain>Разве мир тебе Его заменит,</plain>
+        </string>
+        <string>
+            <plain>Разве мир тебя возлюбит так, как Он.</plain>
+        </string>
+    </verse>
+</song>

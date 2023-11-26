@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="688" name="Не ужасайся не страшись" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не ужасайся, не страшись,</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+        <string>
+            <plain>Под сень Его всегда стремись,</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог сохранит тебя,</plain>
+        </string>
+        <string>
+            <plain>Рукой Своей среди скорбей,</plain>
+        </string>
+        <string>
+            <plain>Рукой Своей среди скорбей</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Постигнет ли невзгоды час –</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+        <string>
+            <plain>Услышишь бури грозный глас –</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Долиной смерти путь пойдет –</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя,</plain>
+        </string>
+        <string>
+            <plain>К желанной цели доведет.</plain>
+        </string>
+        <string>
+            <plain>Бог сохранит тебя.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2447" name="Вот стали Вы теперь друзья супруги" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот стали Вы теперь друзья, супруги,</plain>
+        </string>
+        <string>
+            <plain>Он - муж тебе, а ты - его жена.</plain>
+        </string>
+        <string>
+            <plain>И с нежностью друг другу дали руки.</plain>
+        </string>
+        <string>
+            <plain>Любите друг друга, любите всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь - частица рая на планете,</plain>
+        </string>
+        <string>
+            <plain>Она однажды Богом нам дана.</plain>
+        </string>
+        <string>
+            <plain>И что бы ни случилось вдруг на свете,</plain>
+        </string>
+        <string>
+            <plain>Любите всю жизнь, любите всегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все встретитесь вы в жизни, дорогие,</plain>
+        </string>
+        <string>
+            <plain>Неясностей, вопросов жизнь полна.</plain>
+        </string>
+        <string>
+            <plain>И чтобы ни случилось вдруг на свете,</plain>
+        </string>
+        <string>
+            <plain>Любите всю жизнь, любите всегда.</plain>
+        </string>
+    </verse>
+</song>

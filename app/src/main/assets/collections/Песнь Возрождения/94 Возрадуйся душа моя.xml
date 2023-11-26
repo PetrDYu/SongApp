@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="94" name="Возрадуйся душа моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возрадуйся, душа моя,</plain>
+        </string>
+        <string>
+            <plain>Христа Иисуса славословь!</plain>
+        </string>
+        <string>
+            <plain>Хвалы лишь ждет Он от меня,</plain>
+        </string>
+        <string>
+            <plain>О, как нежна Его любовь!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он видел, как я грех творил,</plain>
+        </string>
+        <string>
+            <plain>Но все ж меня Он возлюбил</plain>
+        </string>
+        <string>
+            <plain>И спас меня, проливши кровь:</plain>
+        </string>
+        <string>
+            <plain>Как велика Его любовь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть на меня весь ад идет</plain>
+        </string>
+        <string>
+            <plain>И осаждает сердце  вновь;</plain>
+        </string>
+        <string>
+            <plain>Меня Он к небу доведет:</plain>
+        </string>
+        <string>
+            <plain>О, как сильна Его любовь!</plain>
+        </string>
+    </verse>
+</song>

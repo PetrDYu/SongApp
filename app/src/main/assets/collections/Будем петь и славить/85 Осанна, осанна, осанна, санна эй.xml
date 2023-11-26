@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="85" name="Осанна, осанна, осанна, санна эй" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Осанна, осанна, осанна, санна эй!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Все придите, песню споем,</plain>
+        </string>
+        <string>
+            <plain>Будем славить Бога в любви.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Все придите, песню споем,</plain>
+        </string>
+        <string>
+            <plain>Радость пусть наполнит сердца.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Все придите, песню споем,</plain>
+        </string>
+        <string>
+            <plain>Нам Господь любовь подарил.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Все придите, песню споем,</plain>
+        </string>
+        <string>
+            <plain>Пусть земля и небо поют.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Все придите, песню споем,</plain>
+        </string>
+        <string>
+            <plain>Будем славить Бога в любви.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

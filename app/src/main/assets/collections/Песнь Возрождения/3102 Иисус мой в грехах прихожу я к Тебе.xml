@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3102" name="Иисус мой в грехах прихожу я к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус мой, в грехах прихожу я к Тебе:</plain>
+        </string>
+        <string>
+            <plain>омой их в потоке святом!</plain>
+        </string>
+        <string>
+            <plain>Войди и живи Ты отныне во мне,</plain>
+        </string>
+        <string>
+            <plain>будь первым Ты в сердце моем!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь первым Ты в сердце моем,</plain>
+        </string>
+        <string>
+            <plain>будь первым Ты в сердце моем!</plain>
+        </string>
+        <string>
+            <plain>Войди в дверь, Спаситель теперь,</plain>
+        </string>
+        <string>
+            <plain>будь первым Ты в сердце моем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, приведи меня ближе к Себе,</plain>
+        </string>
+        <string>
+            <plain>с Тобою хочу быть вдвоем.</plain>
+        </string>
+        <string>
+            <plain>Я в вере живой приближаюсь к Тебе</plain>
+        </string>
+        <string>
+            <plain>- будь первым в сердце моем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не должен я в вечную гибель идти:</plain>
+        </string>
+        <string>
+            <plain>читаю я в Слове Твоем.</plain>
+        </string>
+        <string>
+            <plain>Ты дело Своей благодати сверши,</plain>
+        </string>
+        <string>
+            <plain>будь первым Ты в сердцем моем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь, Ты - мой свет и спасенье мое,</plain>
+        </string>
+        <string>
+            <plain>я в мире живу со Христом.</plain>
+        </string>
+        <string>
+            <plain>Себя отдаю во владенье Твое</plain>
+        </string>
+        <string>
+            <plain>- будь первым Ты в сердце моем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2375" name="Учитель мой не оставляй меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Учитель мой, не оставляй меня,</plain>
+        </string>
+        <string>
+            <plain>Ведь я так слаб и мне нужна опора.</plain>
+        </string>
+        <string>
+            <plain>И лишь с Тобой смогу я устоять</plain>
+        </string>
+        <string>
+            <plain>В борьбе с волнами жизненного моря.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Учитель мой, не оставляй меня.</plain>
+        </string>
+        <string>
+            <plain>Ты дал мне жизнь, ведь я Твое творены;</plain>
+        </string>
+        <string>
+            <plain>Ты дал мне искорку сердечного огня,</plain>
+        </string>
+        <string>
+            <plain>Душе моей послал освобождены.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Учитель мой, не оставляй меня,</plain>
+        </string>
+        <string>
+            <plain>Веди Своей могучего рукою;</plain>
+        </string>
+        <string>
+            <plain>Ты знаешь все, и пусть душа моя</plain>
+        </string>
+        <string>
+            <plain>Согрета будет лишь Твоей любовью.</plain>
+        </string>
+    </verse>
+</song>

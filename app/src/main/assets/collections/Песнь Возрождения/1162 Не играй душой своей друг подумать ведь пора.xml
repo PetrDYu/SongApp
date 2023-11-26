@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1162" name="Не играй душой своей друг подумать ведь пора" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не играй душой своей, друг, - подумать ведь пора.</plain>
+        </string>
+        <string>
+            <plain>Дух не раз твердил: "Покайся!" Ты ж - поныне раб греха.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Старая твоя природа умереть совсем должна.</plain>
+        </string>
+        <string>
+            <plain>Не давай душе погибнуть, ведь от Господа она.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь земная скоротечна - смерть не вечно будет ждать,</plain>
+        </string>
+        <string>
+            <plain>и тогда тебе придется пред лицом Судьи стоять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Откажись от мира зла и скажи Иисусу: "Да!"</plain>
+        </string>
+        <string>
+            <plain>Не отвергни благодать, чтоб навек не опоздать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так оставь же путь порочный и обманы суеты -</plain>
+        </string>
+        <string>
+            <plain>Будет радоваться небо, что в числе спасенных ты.</plain>
+        </string>
+    </verse>
+</song>

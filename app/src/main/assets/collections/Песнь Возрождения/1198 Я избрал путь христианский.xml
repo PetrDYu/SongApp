@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1198" name="Я избрал путь христианский" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я избрал путь христианский,</plain>
+        </string>
+        <string>
+            <plain>Путь тернистый и святой,</plain>
+        </string>
+        <string>
+            <plain>И иду тропою узкой в вечность,</plain>
+        </string>
+        <string>
+            <plain>Где найду покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христианская надежда.</plain>
+        </string>
+        <string>
+            <plain>Ты влечешь меня вперед...</plain>
+        </string>
+        <string>
+            <plain>Христианская надежда</plain>
+        </string>
+        <string>
+            <plain>- Самый светлый огонек.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радость сердце окрыляет.</plain>
+        </string>
+        <string>
+            <plain>Хоть дорога тяжела.</plain>
+        </string>
+        <string>
+            <plain>С неба помощь обещает</plain>
+        </string>
+        <string>
+            <plain>Веры твердая рука.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Царство Божье наполняет</plain>
+        </string>
+        <string>
+            <plain>Сердца хижину мою.</plain>
+        </string>
+        <string>
+            <plain>Хоть и слаб - Бог помогает.</plain>
+        </string>
+        <string>
+            <plain>Верю: к цели я дойду.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Буду вечно с Иисусом</plain>
+        </string>
+        <string>
+            <plain>У груди Его лежать.</plain>
+        </string>
+        <string>
+            <plain>Своим духом с Ним сольюся,</plain>
+        </string>
+        <string>
+            <plain>Чтобы с Богом обитать.</plain>
+        </string>
+    </verse>
+</song>

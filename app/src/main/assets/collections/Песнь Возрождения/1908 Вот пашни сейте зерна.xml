@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1908" name="Вот пашни сейте зерна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот пашни: сейте зерна</plain>
+        </string>
+        <string>
+            <plain>В сторонке от дорог,</plain>
+        </string>
+        <string>
+            <plain>И влагой животворной</plain>
+        </string>
+        <string>
+            <plain>Польет их вечный Бог;</plain>
+        </string>
+        <string>
+            <plain>Пошлет Он снег зимою,</plain>
+        </string>
+        <string>
+            <plain>Жару живых лучей</plain>
+        </string>
+        <string>
+            <plain>Грядущею весною,</plain>
+        </string>
+        <string>
+            <plain>И дар дождливых дней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нам даны все блага</plain>
+        </string>
+        <string>
+            <plain>С равнин родной страны;</plain>
+        </string>
+        <string>
+            <plain>Хвала Христу, хвала</plain>
+        </string>
+        <string>
+            <plain>Христу За всю любовь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ведь Он Один Создатель</plain>
+        </string>
+        <string>
+            <plain>Живущего всего;</plain>
+        </string>
+        <string>
+            <plain>Планет Он основатель,</plain>
+        </string>
+        <string>
+            <plain>Поля, цветы - Его;</plain>
+        </string>
+        <string>
+            <plain>Ему моря послушны,</plain>
+        </string>
+        <string>
+            <plain>Питает пташек Он,</plain>
+        </string>
+        <string>
+            <plain>Не будем равнодушны.</plain>
+        </string>
+        <string>
+            <plain>Почтим Его закон.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христу споем напевы</plain>
+        </string>
+        <string>
+            <plain>За воздух и за свет.</plain>
+        </string>
+        <string>
+            <plain>За жатву, за посевы.</plain>
+        </string>
+        <string>
+            <plain>За опыт прошлых лет.</plain>
+        </string>
+        <string>
+            <plain>Прими же приношенья,</plain>
+        </string>
+        <string>
+            <plain>Господь, за клад даров;</plain>
+        </string>
+        <string>
+            <plain>Прими в Твое владенье</plain>
+        </string>
+        <string>
+            <plain>Сердца Твоих рабов.</plain>
+        </string>
+    </verse>
+</song>

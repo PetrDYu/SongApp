@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2786" name="Иисуса голос слышал я вчера" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса голос слышал я вчера:</plain>
+        </string>
+        <string>
+            <plain>"Приди ко Мне, мой друг, не откажи",</plain>
+        </string>
+        <string>
+            <plain>- И и пришел, Он принял и меня, .</plain>
+        </string>
+        <string>
+            <plain>Нашел с Иисусом новую я жизнь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тот нежный голос слышишь ты теперь,</plain>
+        </string>
+        <string>
+            <plain>Оставь свой грех И с Богом примирись.</plain>
+        </string>
+        <string>
+            <plain>Приди к Христу, пока открыта дверь,</plain>
+        </string>
+        <string>
+            <plain>И с Ним найдешь ты радостную жизнь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисуса голос слышу я сегодня:</plain>
+        </string>
+        <string>
+            <plain>"Иди со Мной в небесный Ханаан",</plain>
+        </string>
+        <string>
+            <plain>- И я иду, меня рука Господня</plain>
+        </string>
+        <string>
+            <plain>Ведет бесстрашно но земным путям.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисуса голос я услышу завтра:</plain>
+        </string>
+        <string>
+            <plain>"Мой верный раб, войди на брачный пир".</plain>
+        </string>
+        <string>
+            <plain>И я войду, с Иисусом в небесах я</plain>
+        </string>
+        <string>
+            <plain>Узнаю и любовь, и вечный мир.</plain>
+        </string>
+    </verse>
+</song>

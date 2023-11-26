@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2234" name="Наша надежда Ты Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наша надежда - Ты, Христос.</plain>
+        </string>
+        <string>
+            <plain>Ты - наше счастье и мечты.</plain>
+        </string>
+        <string>
+            <plain>Ты - наша радость, Ты - наша жизнь.</plain>
+        </string>
+        <string>
+            <plain>Ты счастье и мечты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На Тебя мы уповаем,</plain>
+        </string>
+        <string>
+            <plain>на Тебя жизнь полагаем,</plain>
+        </string>
+        <string>
+            <plain>на Тебя взор устремляем</plain>
+        </string>
+        <string>
+            <plain>- ввысь к небесам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты пострадал за нас - Христос.</plain>
+        </string>
+        <string>
+            <plain>Ты на кресте пролил свою кровь.</plain>
+        </string>
+        <string>
+            <plain>Ты нам спасены ныне принёс.</plain>
+        </string>
+        <string>
+            <plain>Ты нас избавил от горя и слёз.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не в силах мы оценить ту любовь,</plain>
+        </string>
+        <string>
+            <plain>Которую Ты открыл для нас вновь.</plain>
+        </string>
+        <string>
+            <plain>Ты с неба доброту, кротость принёс.</plain>
+        </string>
+        <string>
+            <plain>Дай светлый разум понять это всё.</plain>
+        </string>
+    </verse>
+</song>

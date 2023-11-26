@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3001" name="Спаситель к Твоей дай груди мне прильнуть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель, к Твоей дай груди мне прильнуть,</plain>
+        </string>
+        <string>
+            <plain>здесь жажду души утолю;</plain>
+        </string>
+        <string>
+            <plain>все похоти мира меня не влекут,</plain>
+        </string>
+        <string>
+            <plain>ищу я лишь близость Твою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, ближе к Тебе,</plain>
+        </string>
+        <string>
+            <plain>да, ближе к Тебе,</plain>
+        </string>
+        <string>
+            <plain>чтоб голос Твой</plain>
+        </string>
+        <string>
+            <plain>слышен был мне!</plain>
+        </string>
+        <string>
+            <plain>Хочу быть с Тобой,</plain>
+        </string>
+        <string>
+            <plain>да, лишь только с Тобой;</plain>
+        </string>
+        <string>
+            <plain>ближе, Бог мой, к Тебе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, к Себе ближе меня привлекай,</plain>
+        </string>
+        <string>
+            <plain>хочу каждый день так я жить;</plain>
+        </string>
+        <string>
+            <plain>и ночью, и днём Ты во мне пребывай,</plain>
+        </string>
+        <string>
+            <plain>чтоб я для других мог светить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Подобно Христу можем мы победить,</plain>
+        </string>
+        <string>
+            <plain>коль будем послушны во всём;</plain>
+        </string>
+        <string>
+            <plain>не можем же мы равнодушными быть,</plain>
+        </string>
+        <string>
+            <plain>коль в свете мы Божьем живём.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>С тех пор, как к небесной я цели стремлюсь,</plain>
+        </string>
+        <string>
+            <plain>Бог счастье в избытке дал мне.</plain>
+        </string>
+        <string>
+            <plain>Но как будет чудно с Тобой, Иисус,</plain>
+        </string>
+        <string>
+            <plain>в блаженной небесной стране!</plain>
+        </string>
+    </verse>
+</song>

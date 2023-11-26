@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2638" name="Воскресшему служу я со мной Он во все дни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воскресшему служу я, со мной Он во все дни;</plain>
+        </string>
+        <string>
+            <plain>Свою любовь даруя, меня Он возродил.</plain>
+        </string>
+        <string>
+            <plain>Его я вижу руку, Его я слышу глас,</plain>
+        </string>
+        <string>
+            <plain>И в тьме ночной Он со мной во всякий час.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он жив! (Он жив!)</plain>
+        </string>
+        <string>
+            <plain>Идет со мной, дает покой,</plain>
+        </string>
+        <string>
+            <plain>ведет меня вперед.</plain>
+        </string>
+        <string>
+            <plain>Он жив! (Он жив!)</plain>
+        </string>
+        <string>
+            <plain>Спасены совершив,</plain>
+        </string>
+        <string>
+            <plain>Хотите знать, живет Он где?</plain>
+        </string>
+        <string>
+            <plain>Живет Он и во мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вокруг себя я вижу Господню доброту;</plain>
+        </string>
+        <string>
+            <plain>Чем скорби ко мне ближе, тем ближе я к Христу.</plain>
+        </string>
+        <string>
+            <plain>Чрез бури и волненья в небесный дом ведет,</plain>
+        </string>
+        <string>
+            <plain>А в славный час Он всех нас к Себе возьмет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ликуйте, христиане, возвысьте голос свой;</plain>
+        </string>
+        <string>
+            <plain>Пред Господом предстанем с весельем и хвалой.</plain>
+        </string>
+        <string>
+            <plain>Надежда удрученных, опора в час невзгод,</plain>
+        </string>
+        <string>
+            <plain>Нам жизнь дарит и хранит Христос Господь.</plain>
+        </string>
+    </verse>
+</song>

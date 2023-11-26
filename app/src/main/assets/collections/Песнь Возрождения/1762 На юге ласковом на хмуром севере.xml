@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1762" name="На юге ласковом на хмуром севере" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На юге ласковом, на хмуром севере</plain>
+        </string>
+        <string>
+            <plain>- Везде, где межи Церкви пролегли,</plain>
+        </string>
+        <string>
+            <plain>Служите Господу со всем усердием,</plain>
+        </string>
+        <string>
+            <plain>И скорбь и радость братства разделив.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Служенье любящих, служенье искренних</plain>
+        </string>
+        <string>
+            <plain>Проявится не только на словах:</plain>
+        </string>
+        <string>
+            <plain>Кто Иисусу служит, тот поистине</plain>
+        </string>
+        <string>
+            <plain>Для ближнего - евангельский слуга.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отрадно для души Христа учение,</plain>
+        </string>
+        <string>
+            <plain>Но поощренья в нем для плоти нет;</plain>
+        </string>
+        <string>
+            <plain>Служите Господу без развлечения,</plain>
+        </string>
+        <string>
+            <plain>Забавы - это признак детских лет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Служите Господу в святом собрании,</plain>
+        </string>
+        <string>
+            <plain>Где льются звуки песен и молитв;</plain>
+        </string>
+        <string>
+            <plain>Служите и под свист ветров в изгнании,</plain>
+        </string>
+        <string>
+            <plain>Когда душа тоскует и болит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И если недруг вас привел в смущение,</plain>
+        </string>
+        <string>
+            <plain>И если друг поднял на вас пяту,</plain>
+        </string>
+        <string>
+            <plain>При ободрении, при поношении</plain>
+        </string>
+        <string>
+            <plain>Служите верно Господу Христу!</plain>
+        </string>
+    </verse>
+</song>

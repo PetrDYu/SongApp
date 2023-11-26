@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2894" name="О Библия слова твои" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Библия, слова твои</plain>
+        </string>
+        <string>
+            <plain>звучат через века;</plain>
+        </string>
+        <string>
+            <plain>о весть божественной</plain>
+        </string>
+        <string>
+            <plain>любви, как ты мне дорога!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О книга книг, где благодать</plain>
+        </string>
+        <string>
+            <plain>открыта для души!</plain>
+        </string>
+        <string>
+            <plain>Наставник ты и свет в пути,</plain>
+        </string>
+        <string>
+            <plain>чтоб не ошиблись мы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О Библия, ты с высоты</plain>
+        </string>
+        <string>
+            <plain>даруешь силу мне;</plain>
+        </string>
+        <string>
+            <plain>на вечном Слове истины</plain>
+        </string>
+        <string>
+            <plain>стою, как на скале.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Библия, ты - ясный</plain>
+        </string>
+        <string>
+            <plain>свет в моей борьбе земной;</plain>
+        </string>
+        <string>
+            <plain>ты есть путеводитель мой,</plain>
+        </string>
+        <string>
+            <plain>ведущий в дом родной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты путеводная звезда</plain>
+        </string>
+        <string>
+            <plain>здесь на пути земном;</plain>
+        </string>
+        <string>
+            <plain>кто за тобой идёт всегда,</plain>
+        </string>
+        <string>
+            <plain>придёт в небесный дом.</plain>
+        </string>
+    </verse>
+</song>

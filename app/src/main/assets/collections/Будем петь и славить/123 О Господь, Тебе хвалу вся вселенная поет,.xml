@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="123" name="О Господь, Тебе хвалу вся вселенная поет," canon="false" text="" textRus="М. Винецкой" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, Тебе хвалу вся вселенная поет,</plain>
+        </string>
+        <string>
+            <plain>Прославляют небеса вечную любовь Твою.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ангелы, ангелы, херувимы, серафимы</plain>
+        </string>
+        <string>
+            <plain>Славят Творца, славят Творца: Духа, Сына и Отца.::</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О Господь, Тебе хвалу вся вселенная поет,</plain>
+        </string>
+        <string>
+            <plain>Славят горы и моря вечную любовь Твою.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И поля, и луга, рыбы речные, звери лесные –</plain>
+        </string>
+        <string>
+            <plain>Все, что растет, все, что живет, – славу Господу поет.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Господь, Тебе хвалу вся вселенная поет,</plain>
+        </string>
+        <string>
+            <plain>Крестную любовь Твою воспевает Твой народ.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Слава! Слава! Духу Святому, Духу Святому,</plain>
+        </string>
+        <string>
+            <plain>Слава Отцу, слава Отцу, слава Господу Христу!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

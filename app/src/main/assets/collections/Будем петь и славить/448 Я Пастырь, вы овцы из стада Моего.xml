@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="448" name="Я Пастырь, вы овцы из стада Моего" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Я – Пастырь, вы – овцы из стада Моего.</plain>
+        </string>
+        <string>
+            <plain>Тем, кто придет ко Мне, жизнь вечную Я дам.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Ты – Пастырь, мы – овцы из стада Твоего.</plain>
+        </string>
+        <string>
+            <plain>Тем, кто придет к Тебе, жизнь вечную Ты дашь.</plain>
+        </string>
+    </verse>
+</song>

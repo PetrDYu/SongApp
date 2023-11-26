@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="927" name="Когда Царь соберет все народы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда Царь соберет все народы,</plain>
+        </string>
+        <string>
+            <plain>Поставит пред троном в тот час</plain>
+        </string>
+        <string>
+            <plain>Дать отчет за все прошлые годы,</plain>
+        </string>
+        <string>
+            <plain>Что же сказано будет про нас?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жнец в гумно соберет всю пшеницу,</plain>
+        </string>
+        <string>
+            <plain>А солому сожжет Он огнем.</plain>
+        </string>
+        <string>
+            <plain>Тогда как устоим мы пред троном,</plain>
+        </string>
+        <string>
+            <plain>Коль восстанут святые с гробов?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Одним скажет: "Раб верный и добрый".</plain>
+        </string>
+        <string>
+            <plain>И в вечное Царство войдут.</plain>
+        </string>
+        <string>
+            <plain>Другим приговор будет суровый:</plain>
+        </string>
+        <string>
+            <plain>От славы Христовой умрут.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На детей Он с улыбкой посмотрит -</plain>
+        </string>
+        <string>
+            <plain>Печать Его будут иметь,</plain>
+        </string>
+        <string>
+            <plain>Их в небесную славу оденет,</plain>
+        </string>
+        <string>
+            <plain>Они с торжеством будут петь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Посему будем ждать и молиться</plain>
+        </string>
+        <string>
+            <plain>Со светильником в наших руках,</plain>
+        </string>
+        <string>
+            <plain>Когда с неба Господь возвратится.</plain>
+        </string>
+        <string>
+            <plain>Брат, будем готовы на брак!</plain>
+        </string>
+    </verse>
+</song>

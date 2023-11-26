@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="7" name="Благословений потоки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословений потоки</plain>
+        </string>
+        <string>
+            <plain>Бог обещал ниспослать,</plain>
+        </string>
+        <string>
+            <plain>Ближним, чужим и далеким</plain>
+        </string>
+        <string>
+            <plain>Радость небесную дать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благословенья</plain>
+        </string>
+        <string>
+            <plain>С неба польются дождем.</plain>
+        </string>
+        <string>
+            <plain>Падают капля за каплей,</plain>
+        </string>
+        <string>
+            <plain>Боже, потоков мы ждем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благословений потоки</plain>
+        </string>
+        <string>
+            <plain>Все освежат, оживят;</plain>
+        </string>
+        <string>
+            <plain>Нивы, холмы и дороги</plain>
+        </string>
+        <string>
+            <plain>Жизнью опять закипят.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благословений потоки,</plain>
+        </string>
+        <string>
+            <plain>Господи, свыше пошли!</plain>
+        </string>
+        <string>
+            <plain>В дом Твой введи одиноких,</plain>
+        </string>
+        <string>
+            <plain>Словом больных исцели.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Благословений потоки</plain>
+        </string>
+        <string>
+            <plain>Да наполняют весь дом.</plain>
+        </string>
+        <string>
+            <plain>Чувствуем наши пороки,</plain>
+        </string>
+        <string>
+            <plain>Падаем ниц пред Христом.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Благословений потоки</plain>
+        </string>
+        <string>
+            <plain>Бог в Свое время пошлет,</plain>
+        </string>
+        <string>
+            <plain>Если во свете мы ходим,</plain>
+        </string>
+        <string>
+            <plain>Если Он с нами живет.</plain>
+        </string>
+    </verse>
+</song>

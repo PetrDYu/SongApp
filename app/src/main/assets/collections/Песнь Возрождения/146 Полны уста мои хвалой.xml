@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="146" name="Полны уста мои хвалой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Полны уста мои хвалой:</plain>
+        </string>
+        <string>
+            <plain>Печаль моя прошла;</plain>
+        </string>
+        <string>
+            <plain>Христу пою теперь душой,</plain>
+        </string>
+        <string>
+            <plain>Христу звучит хвала.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвала Христу, Хвала Христу,</plain>
+        </string>
+        <string>
+            <plain>Хвала Христу вовек!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда Господь мой на кресте</plain>
+        </string>
+        <string>
+            <plain>За грех мой умирал,</plain>
+        </string>
+        <string>
+            <plain>Скорбело сердце во Христе</plain>
+        </string>
+        <string>
+            <plain>И Он за нас взывал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть искушения порой</plain>
+        </string>
+        <string>
+            <plain>Заставят дух страдать,</plain>
+        </string>
+        <string>
+            <plain>"Христос! Ты Бог, Спаситель мой! " –</plain>
+        </string>
+        <string>
+            <plain>Я буду повторять.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Спасенья радостную весть</plain>
+        </string>
+        <string>
+            <plain>Спеши другим сказать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб их для Бога приобресть</plain>
+        </string>
+        <string>
+            <plain>И с ними воспевать.</plain>
+        </string>
+    </verse>
+</song>

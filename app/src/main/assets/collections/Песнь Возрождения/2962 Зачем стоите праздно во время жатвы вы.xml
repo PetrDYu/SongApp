@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2962" name="Зачем стоите праздно во время жатвы вы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Зачем стоите праздно во время жатвы вы?</plain>
+        </string>
+        <string>
+            <plain>Жнецы все собирают уж спелые снопы.</plain>
+        </string>
+        <string>
+            <plain>О, слушай зов сердечный со всех краев земли:</plain>
+        </string>
+        <string>
+            <plain>«Придите, помогите, ведь грех тяготит!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто хочет для Иисуса пойти через моря,</plain>
+        </string>
+        <string>
+            <plain>чрез горы и долины в далекие края?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Зачем стоите праздно? Ведь нива уж бела.</plain>
+        </string>
+        <string>
+            <plain>Жнецов совсем немного, а жатва велика.</plain>
+        </string>
+        <string>
+            <plain>Господь зовет: «Идите, не тратьте время</plain>
+        </string>
+        <string>
+            <plain>зря и ниву уберите, уж близок день суда».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Зачем стоите праздно? Уж вечер настает,</plain>
+        </string>
+        <string>
+            <plain>часов во дне двенадцать, и ночь затем придет.</plain>
+        </string>
+        <string>
+            <plain>Свидетельствуй, будь верным, при обретай друзей;</plain>
+        </string>
+        <string>
+            <plain>награда ждет на небе в конце свершенных дней.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь, здесь больше праздно я не хочу стоять.</plain>
+        </string>
+        <string>
+            <plain>О, помогите с любовью все о Тебе сказать!</plain>
+        </string>
+        <string>
+            <plain>Куда пошлешь, я готов свой крест нести,</plain>
+        </string>
+        <string>
+            <plain>к ногам Твоим хочу я заблудших привести.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Кто хочет у заборов и в зарослях густых</plain>
+        </string>
+        <string>
+            <plain>сказать заблудшим душам, что умер Он за них?</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2456" name="В школе Божьей мы только дети" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В школе Божьей мы только дети,</plain>
+        </string>
+        <string>
+            <plain>Только малые ученики.</plain>
+        </string>
+        <string>
+            <plain>Если ходим в Его мы свете,</plain>
+        </string>
+        <string>
+            <plain>Под водительством сильной руки.</plain>
+        </string>
+        <string>
+            <plain>Он Своим, нам, дает уроки,</plain>
+        </string>
+        <string>
+            <plain>Его голос мы слышим в тиши.</plain>
+        </string>
+        <string>
+            <plain>Нежный, тихий, порою строгий,</plain>
+        </string>
+        <string>
+            <plain>Все для радости нашей души.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Его лекции нам понятны,</plain>
+        </string>
+        <string>
+            <plain>Учит нас на родном языке.</plain>
+        </string>
+        <string>
+            <plain>Говорит Он нам просто, внятно</plain>
+        </string>
+        <string>
+            <plain>И тогда, когда мы вдалеке.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он подходит к каждому близко,</plain>
+        </string>
+        <string>
+            <plain>Помогает усвоить урок,</plain>
+        </string>
+        <string>
+            <plain>Над упавшими склоняется низко,</plain>
+        </string>
+        <string>
+            <plain>Удлиняя прощения срок.</plain>
+        </string>
+    </verse>
+</song>

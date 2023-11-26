@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3044" name="Господь да будет воля Твоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, да будет воля Твоя;</plain>
+        </string>
+        <string>
+            <plain>сделай безропотным Ты меня.</plain>
+        </string>
+        <string>
+            <plain>Только одно прошу, Боже мой:</plain>
+        </string>
+        <string>
+            <plain>милость мне дай и будь Ты со мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да будет день за днём воля Твоя.</plain>
+        </string>
+        <string>
+            <plain>Иду с Тобой вдвоём - воля Твоя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, да будет воля Твоя!</plain>
+        </string>
+        <string>
+            <plain>О, освяти Ты Духом меня,</plain>
+        </string>
+        <string>
+            <plain>чтоб побеждать я мог день за днём,</plain>
+        </string>
+        <string>
+            <plain>верным остаться в битве с врагом.</plain>
+        </string>
+        <string>
+            <plain>З Господь, да будет воля Твоя!</plain>
+        </string>
+        <string>
+            <plain>Сокрой в Себе навечно меня.</plain>
+        </string>
+        <string>
+            <plain>Тебя любить хочу я всегда,</plain>
+        </string>
+        <string>
+            <plain>не огорчать и жить для Тебя.</plain>
+        </string>
+    </verse>
+</song>

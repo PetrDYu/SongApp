@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1368" name="В духе радостном" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В духе радостном.</plain>
+        </string>
+        <string>
+            <plain>Отец, Пред Тобою предстоим</plain>
+        </string>
+        <string>
+            <plain>И за пищу от сердец</plain>
+        </string>
+        <string>
+            <plain>Мы тебя благодарим.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Чрез Спасителя к Тебе</plain>
+        </string>
+        <string>
+            <plain>С благодарностью зовем</plain>
+        </string>
+        <string>
+            <plain>И в торжественной мольбе</plain>
+        </string>
+        <string>
+            <plain>Мы хвалу Тебе несем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="23" name="Вспомни меня, Иисус, когда приидешь в Твое Царство" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Вспомни меня, Иисус, когда приидешь в Твое Царство.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Jesus, remember me when you come into your kingdom.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

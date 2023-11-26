@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="625" name="Христа Творца святых чудес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христа, Творца святых чудес,</plain>
+        </string>
+        <string>
+            <plain>Прославьте все сердечным пеньем!</plain>
+        </string>
+        <string>
+            <plain>Ликуйте с радостным хваленьем:</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Христос воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Какой восторг - Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>В груди весельем сердце бьется;</plain>
+        </string>
+        <string>
+            <plain>И всюду песнь теперь поется:</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Христос воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>По всей вселенной до небес</plain>
+        </string>
+        <string>
+            <plain>Хвала из уст народа льется;</plain>
+        </string>
+        <string>
+            <plain>И песнь восторженно поется:</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Христос воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебе, Спаситель, Божий Сын,</plain>
+        </string>
+        <string>
+            <plain>Тебе и слава, и хваленье,</plain>
+        </string>
+        <string>
+            <plain>Величье, честь и поклоненье</plain>
+        </string>
+        <string>
+            <plain>Во веки вечные! Аминь!</plain>
+        </string>
+    </verse>
+</song>

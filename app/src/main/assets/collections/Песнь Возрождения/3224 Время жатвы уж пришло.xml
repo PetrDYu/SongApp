@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3224" name="Время жатвы уж пришло" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Время жатвы уж пришло,</plain>
+        </string>
+        <string>
+            <plain>урожай поспел давно</plain>
+        </string>
+        <string>
+            <plain>вот идут с серпами на поля жнецы.</plain>
+        </string>
+        <string>
+            <plain>В имени Христа они</plain>
+        </string>
+        <string>
+            <plain>от зари и до зари</plain>
+        </string>
+        <string>
+            <plain>собирают всюду спелые снопы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Время жатвы, время жатвы уж пришло,</plain>
+        </string>
+        <string>
+            <plain>собрались жнецы, жнецы Христа давно.</plain>
+        </string>
+        <string>
+            <plain>Вот они к народам всей земли спешат,</plain>
+        </string>
+        <string>
+            <plain>для Христа они снопы соберут вблизи, вдали.</plain>
+        </string>
+        <string>
+            <plain>Хочешь ли и ты снопы собрать?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Эти злачные поля,</plain>
+        </string>
+        <string>
+            <plain>говорит Христос, - земля;</plain>
+        </string>
+        <string>
+            <plain>жатва есть кончина века на земле.</plain>
+        </string>
+        <string>
+            <plain>Кто не хочет свято жить,</plain>
+        </string>
+        <string>
+            <plain>но христианином слыть,</plain>
+        </string>
+        <string>
+            <plain>не найдёт спасенье в вечности себе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто последует за Ним</plain>
+        </string>
+        <string>
+            <plain>праведным путём, святым,</plain>
+        </string>
+        <string>
+            <plain>тот причислен будет к стаду Пастыря.</plain>
+        </string>
+        <string>
+            <plain>Кто ставит мир греха,</plain>
+        </string>
+        <string>
+            <plain>исповедует Христа,</plain>
+        </string>
+        <string>
+            <plain>тот в конце получит славу от Отца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Встань, мой брат, и труд свершай,</plain>
+        </string>
+        <string>
+            <plain>гласу Божьему внимай,</plain>
+        </string>
+        <string>
+            <plain>всех зови к спасенью, кто беспечно спит!</plain>
+        </string>
+        <string>
+            <plain>Ныне в благодатный час</plain>
+        </string>
+        <string>
+            <plain>Бога будь готов встречать,</plain>
+        </string>
+        <string>
+            <plain>прежде чем труба седьмая протрубит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="84" name="Отче Небесный Боже могучий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отче Небесный, Боже могучий,</plain>
+        </string>
+        <string>
+            <plain>Ты Утешитель, Дух правды Ты,</plain>
+        </string>
+        <string>
+            <plain>Ты вездесущий и всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Будь, Боже, с нами, нас освяти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Отче, Источник счастья для многих,</plain>
+        </string>
+        <string>
+            <plain>Нас, уповающих, не забывай;</plain>
+        </string>
+        <string>
+            <plain>В наших сердцах поселись Ты убогих,</plain>
+        </string>
+        <string>
+            <plain>Благослови нас, счастье нам дай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отче, избавь нас от всяких падений,</plain>
+        </string>
+        <string>
+            <plain>Души укрась чистотою Твоей;</plain>
+        </string>
+        <string>
+            <plain>Дай нам в делах и святых песнопеньях</plain>
+        </string>
+        <string>
+            <plain>Больше прославить Тебя средь людей.</plain>
+        </string>
+    </verse>
+</song>

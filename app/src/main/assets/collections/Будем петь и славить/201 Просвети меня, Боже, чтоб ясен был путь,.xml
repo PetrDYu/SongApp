@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="201" name="Просвети меня, Боже, чтоб ясен был путь," canon="false" text="Ф. Годинер" textRus="" music="Ф. Годинер" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Просвети меня, Боже, чтоб ясен был путь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы сердце в Тебе утвердилось.</plain>
+        </string>
+        <string>
+            <plain>Укрепи на пути, чтоб с него не свернуть,</plain>
+        </string>
+        <string>
+            <plain>Ниспошли мне поддержку и силу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>О Иисусе, приди.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+            <plain>О, Иисус, в мое сердце приди.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Переплавь меня, Боже, пошли на труды,</plain>
+        </string>
+        <string>
+            <plain>На Твои побелевшие нивы.</plain>
+        </string>
+        <string>
+            <plain>О, признай меня верным и Духом веди,</plain>
+        </string>
+        <string>
+            <plain>Дай мне быть до конца терпеливым.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Причасти меня чаши страданий Твоих,</plain>
+        </string>
+        <string>
+            <plain>Помоги устоять в искушеньях.</plain>
+        </string>
+        <string>
+            <plain>Дай пройти до конца среди верных Твоих,</plain>
+        </string>
+        <string>
+            <plain>Благовествуя людям спасенье.</plain>
+        </string>
+    </verse>
+</song>

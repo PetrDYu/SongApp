@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="580" name="Боже видишь Ты страданье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, видишь Ты страданье</plain>
+        </string>
+        <string>
+            <plain>На земном моем пути,</plain>
+        </string>
+        <string>
+            <plain>Устаю я от скитанья,</plain>
+        </string>
+        <string>
+            <plain>Но хочу с Тобой идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И я знаю, что с Тобою</plain>
+        </string>
+        <string>
+            <plain>В этой жизни я пройду</plain>
+        </string>
+        <string>
+            <plain>И над слабостью земною</plain>
+        </string>
+        <string>
+            <plain>Знак победы я найду.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слезы, горе и страданье</plain>
+        </string>
+        <string>
+            <plain>Часты на пути моем.</plain>
+        </string>
+        <string>
+            <plain>Ты, как Друг мой неизменный,</plain>
+        </string>
+        <string>
+            <plain>Утешающий во всем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как порою сердце стонет</plain>
+        </string>
+        <string>
+            <plain>Под ярмом нужды земной,</plain>
+        </string>
+        <string>
+            <plain>И страшусь, что все потонет</plain>
+        </string>
+        <string>
+            <plain>В море бедствий подо мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как мне дорого общенье</plain>
+        </string>
+        <string>
+            <plain>Со святыми на земле!</plain>
+        </string>
+        <string>
+            <plain>Но и это наслажденье</plain>
+        </string>
+        <string>
+            <plain>Не всегда возможно мне.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>От меня друзья далеко,</plain>
+        </string>
+        <string>
+            <plain>Нет того, кто б мог понять.</plain>
+        </string>
+        <string>
+            <plain>Ты как Друг мой неизменный,</plain>
+        </string>
+        <string>
+            <plain>Ты один все можешь знать.</plain>
+        </string>
+    </verse>
+</song>

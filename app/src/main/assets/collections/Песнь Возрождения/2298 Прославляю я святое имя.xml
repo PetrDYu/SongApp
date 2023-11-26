@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2298" name="Прославляю я святое имя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прославляю я святое имя,</plain>
+        </string>
+        <string>
+            <plain>Им зажглась в моей душе Его любовь.</plain>
+        </string>
+        <string>
+            <plain>Кто с души снимает бремя,</plain>
+        </string>
+        <string>
+            <plain>Благодати дарит время,</plain>
+        </string>
+        <string>
+            <plain>На Голгофе проливал святую кровь,</plain>
+        </string>
+        <string>
+            <plain>Луч надежды в сердце зажигает вновь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Имя Иисус, это имя Иисус,</plain>
+        </string>
+        <string>
+            <plain>Знаю, имя Иисус - это жизнь моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Призыву Его народы внемлют,</plain>
+        </string>
+        <string>
+            <plain>Отрекаясь от грехов, идут за Ним.</plain>
+        </string>
+        <string>
+            <plain>Он опять придёт на землю,</plain>
+        </string>
+        <string>
+            <plain>Прозвучит над всей Вселенной</plain>
+        </string>
+        <string>
+            <plain>Его голос многих шумных вод,</plain>
+        </string>
+        <string>
+            <plain>Он для нас Свои объятья распахнёт.</plain>
+        </string>
+    </verse>
+</song>

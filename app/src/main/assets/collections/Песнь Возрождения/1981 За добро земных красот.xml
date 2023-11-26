@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1981" name="За добро земных красот" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За добро земных красот,</plain>
+        </string>
+        <string>
+            <plain>За дары твоих высот,</plain>
+        </string>
+        <string>
+            <plain>За любовь, что с первых дней</plain>
+        </string>
+        <string>
+            <plain>Окружает жизнь детей;</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>За лучи светил Твоих,</plain>
+        </string>
+        <string>
+            <plain>За цветы Твоих полей,</plain>
+        </string>
+        <string>
+            <plain>И за каждый данный миг</plain>
+        </string>
+        <string>
+            <plain>В свете дня, во тьме ночей;</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За родителей, друзей,</plain>
+        </string>
+        <string>
+            <plain>Близких иль чужих людей,</plain>
+        </string>
+        <string>
+            <plain>За стремления к добру</plain>
+        </string>
+        <string>
+            <plain>В нашу юную пору;</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И за церковь, что к Тебе</plain>
+        </string>
+        <string>
+            <plain>Из народов всех и стран</plain>
+        </string>
+        <string>
+            <plain>Жертву уст несет в мольбе;</plain>
+        </string>
+        <string>
+            <plain>И за дар, что свыше дан;</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И за всякий вышний дар,</plain>
+        </string>
+        <string>
+            <plain>Что даешь Ты нам, Отец,</plain>
+        </string>
+        <string>
+            <plain>За твой зов, молитвы жар.</plain>
+        </string>
+        <string>
+            <plain>За обещанный венец,</plain>
+        </string>
+        <string>
+            <plain>- Мы тебе, Отец поем</plain>
+        </string>
+        <string>
+            <plain>Эту песнь, хвалы псалом.</plain>
+        </string>
+    </verse>
+</song>

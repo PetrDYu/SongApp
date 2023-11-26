@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="384" name="Не знав Иисуса я жизни не знал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не знав Иисуса, я жизни не знал,</plain>
+        </string>
+        <string>
+            <plain>Грехами объятый, во тьме я дремал.</plain>
+        </string>
+        <string>
+            <plain>Вдруг слышится - глас Божий с неба гласит:</plain>
+        </string>
+        <string>
+            <plain>"Он любит, Он любит", - так дивно звучит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я был омрачен, теперь я спасен,</plain>
+        </string>
+        <string>
+            <plain>Он любит, Он любит, как сладок тот звон.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда истомлен я в житейской борьбе,</plain>
+        </string>
+        <string>
+            <plain>Мой дух не находит покоя нигде,</plain>
+        </string>
+        <string>
+            <plain>Тогда слышу голос, что с неба гласит:</plain>
+        </string>
+        <string>
+            <plain>"Он любит, Он любит", - так дивно звучит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христу я доверился, Им лишь живу,</plain>
+        </string>
+        <string>
+            <plain>Средь смертной долины без страха иду.</plain>
+        </string>
+        <string>
+            <plain>И Он не оставит! Тот голос твердит:</plain>
+        </string>
+        <string>
+            <plain>"Он любит, Он любит", - так дивно звучит.</plain>
+        </string>
+    </verse>
+</song>

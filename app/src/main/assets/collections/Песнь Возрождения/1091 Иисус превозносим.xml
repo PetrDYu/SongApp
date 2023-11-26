@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1091" name="Иисус превозносим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, превозносим</plain>
+        </string>
+        <string>
+            <plain>Твое имя. Ты - Царь,</plain>
+        </string>
+        <string>
+            <plain>Пребывающий среди нас</plain>
+        </string>
+        <string>
+            <plain>И наполняющий сердца!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мы поклоняемся Тебе, Господь!</plain>
+        </string>
+        <string>
+            <plain>Ты - Бог на небе и на земле,</plain>
+        </string>
+        <string>
+            <plain>Ты - Бог на небе и на земле.</plain>
+        </string>
+        <string>
+            <plain>Ты - Князь мира во веки веков!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус, Ты достоин</plain>
+        </string>
+        <string>
+            <plain>Вечной славы от нас!</plain>
+        </string>
+        <string>
+            <plain>Возвещать буду всякий день</plain>
+        </string>
+        <string>
+            <plain>Великолепие Твое!</plain>
+        </string>
+    </verse>
+</song>

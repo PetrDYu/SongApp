@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1458" name="К Голгофе к Голгофе Христовых страданий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К Голгофе, к Голгофе Христовых страданий</plain>
+        </string>
+        <string>
+            <plain>Я тяжкое бремя свое принесла,</plain>
+        </string>
+        <string>
+            <plain>И слезы и плач моего раскаянья</plain>
+        </string>
+        <string>
+            <plain>Омыл у подножья креста Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В сердце моем одна тоска,</plain>
+        </string>
+        <string>
+            <plain>Что долго к Голгофе я шла,</plain>
+        </string>
+        <string>
+            <plain>Боже, прости, прости меня,</plain>
+        </string>
+        <string>
+            <plain>Что долго к Тебе я шла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И путь мой совсем не украшен цветами.</plain>
+        </string>
+        <string>
+            <plain>Растут на нем только одни шипы.</plain>
+        </string>
+        <string>
+            <plain>О, Боже, Ты знаешь мое желанье:</plain>
+        </string>
+        <string>
+            <plain>К Голгофе хотя б одного привести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю. Ты в жизни моей стал опорой,</plain>
+        </string>
+        <string>
+            <plain>Я чувствую силу Твоей любви.</plain>
+        </string>
+        <string>
+            <plain>Все тайны, все тайны мои на ладонях</plain>
+        </string>
+        <string>
+            <plain>Раскрыты пред взором Твоим святым.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>В сердце моем одна мечта,</plain>
+        </string>
+        <string>
+            <plain>Что скоро я встречу Христа,</plain>
+        </string>
+        <string>
+            <plain>И в небесах ждут меня,</plain>
+        </string>
+        <string>
+            <plain>Ему буду петь до конца.</plain>
+        </string>
+    </chorus>
+</song>

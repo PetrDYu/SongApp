@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2837" name="На руках Христа покоюсь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На руках Христа покоюсь,</plain>
+        </string>
+        <string>
+            <plain>сладостно и чудно жить с Ним;</plain>
+        </string>
+        <string>
+            <plain>беззаботно день проходит,</plain>
+        </string>
+        <string>
+            <plain>Иисусом я храним.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастлив с Иисусом,</plain>
+        </string>
+        <string>
+            <plain>на руках Иисуса</plain>
+        </string>
+        <string>
+            <plain>Счастлив с Иисусом,</plain>
+        </string>
+        <string>
+            <plain>на руках Иисуса</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На руках Христа покоюсь,</plain>
+        </string>
+        <string>
+            <plain>Он, Сын Божий, дал спасенье;</plain>
+        </string>
+        <string>
+            <plain>я надежно в нем укроюсь,</plain>
+        </string>
+        <string>
+            <plain>и в нужде Бог - помощь мне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На руках Христа покоюсь,</plain>
+        </string>
+        <string>
+            <plain>в сердце мир Он сохраняет</plain>
+        </string>
+        <string>
+            <plain>и во всем благословляет.</plain>
+        </string>
+        <string>
+            <plain>Верой на земле живу.</plain>
+        </string>
+    </verse>
+</song>

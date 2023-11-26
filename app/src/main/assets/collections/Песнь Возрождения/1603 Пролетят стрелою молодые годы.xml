@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1603" name="Пролетят стрелою молодые годы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пролетят стрелою молодые годы,</plain>
+        </string>
+        <string>
+            <plain>Истомится сердце от скорбей, тревоги.</plain>
+        </string>
+        <string>
+            <plain>Одряхлеет тело, ослабеют силы,</plain>
+        </string>
+        <string>
+            <plain>Станет душу мучить близкий час могилы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастлив тот, кто может</plain>
+        </string>
+        <string>
+            <plain>В старости глубокой</plain>
+        </string>
+        <string>
+            <plain>Вспомнить без упрека</plain>
+        </string>
+        <string>
+            <plain>О весне далекой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И ничто не будет радовать сознанье,</plain>
+        </string>
+        <string>
+            <plain>овладеет сердцем горечь и страданье.</plain>
+        </string>
+        <string>
+            <plain>Кто в годах увядших видит лишь утрату</plain>
+        </string>
+        <string>
+            <plain>И не служит правде, истине и брату.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, друзья, не тратьте бесполезно годы.</plain>
+        </string>
+        <string>
+            <plain>Сейте мир и правду, не страшась невзгоды.</plain>
+        </string>
+        <string>
+            <plain>Помогайте ближним, ободряйте брата,</plain>
+        </string>
+        <string>
+            <plain>В старости чтоб вспомнить юность без утраты.</plain>
+        </string>
+    </verse>
+</song>

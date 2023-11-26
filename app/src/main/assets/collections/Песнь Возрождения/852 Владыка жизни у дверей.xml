@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="852" name="Владыка жизни у дверей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Владыка жизни у дверей!</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто за грешных смерть понес,</plain>
+        </string>
+        <string>
+            <plain>Грядет собрать своих детей</plain>
+        </string>
+        <string>
+            <plain>С долины скорбных слез.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У дверей стоит Он, у дверей!</plain>
+        </string>
+        <string>
+            <plain>Он грядет к нам,</plain>
+        </string>
+        <string>
+            <plain>Вскоре Он грядет к нам</plain>
+        </string>
+        <string>
+            <plain>Для спасения людей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаменья убеждают нас,</plain>
+        </string>
+        <string>
+            <plain>Все умножаясь с каждым днем,</plain>
+        </string>
+        <string>
+            <plain>Что близок, близок славный час.</plain>
+        </string>
+        <string>
+            <plain>Которого мы ждем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь в мире нет отрады нам.</plain>
+        </string>
+        <string>
+            <plain>Жизнь горе, страх и скорбь дарит.</plain>
+        </string>
+        <string>
+            <plain>Когда ж придет Спаситель Сам,</plain>
+        </string>
+        <string>
+            <plain>- Всех счастьем озарит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь всю землю обновит.</plain>
+        </string>
+        <string>
+            <plain>Там вечно мы пребудем все.</plain>
+        </string>
+        <string>
+            <plain>И в райской славе будем жить.</plain>
+        </string>
+        <string>
+            <plain>Ходить в Его красе.</plain>
+        </string>
+    </verse>
+</song>

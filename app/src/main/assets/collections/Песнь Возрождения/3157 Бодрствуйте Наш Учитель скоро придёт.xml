@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3157" name="Бодрствуйте Наш Учитель скоро придёт" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бодрствуйте! Наш Учитель скоро придёт.</plain>
+        </string>
+        <string>
+            <plain>Лампы свои возьмите, вот, Он идёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бодрствуйте!</plain>
+        </string>
+        <string>
+            <plain>Вот, время не ждёт!</plain>
+        </string>
+        <string>
+            <plain>Бодрствуйте!</plain>
+        </string>
+        <string>
+            <plain>Наш Учитель скоро придёт!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бодрствуйте! Наш Учитель уж при двери.</plain>
+        </string>
+        <string>
+            <plain>Временем дорожите, Он уж вблизи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бодрствуйте! Близко время вечного дня,</plain>
+        </string>
+        <string>
+            <plain>когда Он возвратиться в славе Отца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бодрствуйте и спешите встретить Христа!</plain>
+        </string>
+        <string>
+            <plain>О, все святые, ждите: встреча близка!</plain>
+        </string>
+    </verse>
+</song>

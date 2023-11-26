@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="55" name="Начинается дождь, дождь, дождь," canon="false" text="" textRus="Ю. Пастернака" music="Шотландская народная" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Начинается дождь, дождь, дождь,</plain>
+        </string>
+        <string>
+            <plain>И слышится голос –</plain>
+        </string>
+        <string>
+            <plain>Это Отец Небесный нас призывает:</plain>
+        </string>
+        <string>
+            <plain>«Если жаждет душа твоя, дитя,</plain>
+        </string>
+        <string>
+            <plain>Я дам тебе Духа».</plain>
+        </string>
+        <string>
+            <plain>Только выйди и руки воздень к небесам –</plain>
+        </string>
+        <string>
+            <plain>Начинается дождь.</plain>
+        </string>
+    </verse>
+</song>

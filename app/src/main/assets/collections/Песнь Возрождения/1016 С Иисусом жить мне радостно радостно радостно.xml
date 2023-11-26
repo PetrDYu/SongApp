@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1016" name="С Иисусом жить мне радостно радостно радостно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С Иисусом жить мне радостно,</plain>
+        </string>
+        <string>
+            <plain>радостно, радостно,</plain>
+        </string>
+        <string>
+            <plain>Он нас ведет по пастбищам,</plain>
+        </string>
+        <string>
+            <plain>по злачным пастбищам!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Иисус, Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Ты вечно мой,</plain>
+        </string>
+        <string>
+            <plain>Ты вечно будешь мой</plain>
+        </string>
+        <string>
+            <plain>наилучший Друг!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Меня Он смертью искупил,</plain>
+        </string>
+        <string>
+            <plain>искупил, искупил</plain>
+        </string>
+        <string>
+            <plain>И от оков освободил,</plain>
+        </string>
+        <string>
+            <plain>меня освободил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он Дух Святой мне ниспослал,</plain>
+        </string>
+        <string>
+            <plain>ниспослал, ниспослал,</plain>
+        </string>
+        <string>
+            <plain>Тем Духом Он меня крестил</plain>
+        </string>
+        <string>
+            <plain>и сердце оживил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Его всем сердцем я люблю,</plain>
+        </string>
+        <string>
+            <plain>я люблю, я люблю</plain>
+        </string>
+        <string>
+            <plain>И жизнь свою я отдаю</plain>
+        </string>
+        <string>
+            <plain>Иисусу моему.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я Бога буду прославлять,</plain>
+        </string>
+        <string>
+            <plain>прославлять, прославлять</plain>
+        </string>
+        <string>
+            <plain>За милость ту великую</plain>
+        </string>
+        <string>
+            <plain>и радость вечную.</plain>
+        </string>
+    </verse>
+</song>

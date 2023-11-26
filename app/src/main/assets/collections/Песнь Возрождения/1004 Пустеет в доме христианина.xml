@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1004" name="Пустеет в доме христианина" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пустеет в доме христианина.</plain>
+        </string>
+        <string>
+            <plain>Взрослеют дочери, сыновья.</plain>
+        </string>
+        <string>
+            <plain>А так недавно, как рой пчелиный,</plain>
+        </string>
+        <string>
+            <plain>Росла здесь дружная детвора.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Над колыбелью склонялась мама.</plain>
+        </string>
+        <string>
+            <plain>Благословляя наш тихий сон.</plain>
+        </string>
+        <string>
+            <plain>Не раз рассветы она встречала</plain>
+        </string>
+        <string>
+            <plain>За своей стиркой и за шитьем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Летело время, росли заботы.</plain>
+        </string>
+        <string>
+            <plain>Ей часто виделось по ночам,</plain>
+        </string>
+        <string>
+            <plain>Что дети выросли и вся работа</plain>
+        </string>
+        <string>
+            <plain>Теперь уж делится пополам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но самой светлой мечтой, заветной</plain>
+        </string>
+        <string>
+            <plain>Для нее было - нам передать</plain>
+        </string>
+        <string>
+            <plain>Свою надежду, большую веру</plain>
+        </string>
+        <string>
+            <plain>И в руки Бога нас всех отдать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Пустеет в доме христианина,</plain>
+        </string>
+        <string>
+            <plain>Уходят дочери, сыновья.</plain>
+        </string>
+        <string>
+            <plain>Желает мама им жить счастливо</plain>
+        </string>
+        <string>
+            <plain>И просит помнить ее всегда.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>И будет тихо и непривычно</plain>
+        </string>
+        <string>
+            <plain>В когда-то шумной, большой семье...</plain>
+        </string>
+        <string>
+            <plain>И только мама молиться будет</plain>
+        </string>
+        <string>
+            <plain>За своих дочерей, сыновей.</plain>
+        </string>
+    </verse>
+</song>

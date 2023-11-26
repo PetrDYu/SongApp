@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="522" name="Бедная, бросаемая бурею," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бедная, бросаемая бурею,</plain>
+        </string>
+        <string>
+            <plain>Церковь, голубица ты Моя,</plain>
+        </string>
+        <string>
+            <plain>Ободрись, воспрянь и восклони главу –</plain>
+        </string>
+        <string>
+            <plain>Вот уже иду забрать тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Славная Церковь, славная Церковь,</plain>
+        </string>
+        <string>
+            <plain>Славная Церковь, Невеста Моя!</plain>
+        </string>
+        <string>
+            <plain>В силе великой, в славе небесной</plain>
+        </string>
+        <string>
+            <plain>Ты будешь явлена в этом мире зла.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Твои камни будут на рубине,</plain>
+        </string>
+        <string>
+            <plain>Из сапфиров сделаю основу,</plain>
+        </string>
+        <string>
+            <plain>Все ворота будут из жемчужин,</plain>
+        </string>
+        <string>
+            <plain>Драгоценным камнем огражу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Многие восстанут на тебя,</plain>
+        </string>
+        <string>
+            <plain>Мысля тебе сделать много зла.</plain>
+        </string>
+        <string>
+            <plain>Будь тверда, верна, неустрашима,</plain>
+        </string>
+        <string>
+            <plain>Помни, что Моя это война.</plain>
+        </string>
+    </verse>
+</song>

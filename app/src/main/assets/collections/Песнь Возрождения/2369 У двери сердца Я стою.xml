@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2369" name="У двери сердца Я стою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У двери сердца Я стою,</plain>
+        </string>
+        <string>
+            <plain>Там ясли Я найти хочу.</plain>
+        </string>
+        <string>
+            <plain>Хочу Я близко к ним прильнуть</plain>
+        </string>
+        <string>
+            <plain>И в яслях отдохнуть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я жду (2 р.), Я жду (2 р.).</plain>
+        </string>
+        <string>
+            <plain>Покой Я дать хочу,</plain>
+        </string>
+        <string>
+            <plain>Дать сердцу радость и покой</plain>
+        </string>
+        <string>
+            <plain>В любви Моей святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ещё, ещё Я раз стучу,</plain>
+        </string>
+        <string>
+            <plain>Покой Я дать тебе хочу,</plain>
+        </string>
+        <string>
+            <plain>Спасенье, радость и покой</plain>
+        </string>
+        <string>
+            <plain>В любви Своей святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда уйду Я от тебя,</plain>
+        </string>
+        <string>
+            <plain>Утрата будет велика,</plain>
+        </string>
+        <string>
+            <plain>Уйдет и радость, и покой,</plain>
+        </string>
+        <string>
+            <plain>Погибнешь ты душой.</plain>
+        </string>
+    </verse>
+</song>

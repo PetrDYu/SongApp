@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2284" name="Поднимаю очи вверх бросаю взгляд" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Поднимаю очи вверх, бросаю взгляд,</plain>
+        </string>
+        <string>
+            <plain>Голубые дали всё к себе манят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Небо голубое, тайна всех времён</plain>
+        </string>
+        <string>
+            <plain>Я живу тобою, я тобой пленён.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И когда порото тучи скроют синь,</plain>
+        </string>
+        <string>
+            <plain>Я томлюсь душою, я тогда один.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Почему, скажу вам, я стремлюсь туда:</plain>
+        </string>
+        <string>
+            <plain>Потому что скоро встречу там Христа.</plain>
+        </string>
+    </verse>
+</song>

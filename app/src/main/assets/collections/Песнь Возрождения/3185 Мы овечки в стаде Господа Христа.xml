@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3185" name="Мы овечки в стаде Господа Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы - овечки в стаде Господа Христа.</plain>
+        </string>
+        <string>
+            <plain>Любит нас наш пастырь, ведёт в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В жизни мы стремимся маячком сиять.</plain>
+        </string>
+        <string>
+            <plain>Путь из тьмы ко свету многим показать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Многих уж направил слабый свет вдали;</plain>
+        </string>
+        <string>
+            <plain>те, что так сияют - на святом пути.</plain>
+        </string>
+    </verse>
+</song>

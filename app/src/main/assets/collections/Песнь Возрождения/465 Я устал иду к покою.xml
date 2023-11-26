@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="465" name="Я устал иду к покою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я устал, иду к покою,</plain>
+        </string>
+        <string>
+            <plain>Боже, очи мне закрой</plain>
+        </string>
+        <string>
+            <plain>И с любовью будь со мною,</plain>
+        </string>
+        <string>
+            <plain>Будь Хранитель верный мой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И сегодня, без сомненья,</plain>
+        </string>
+        <string>
+            <plain>Я виновен пред Тобой:</plain>
+        </string>
+        <string>
+            <plain>Дай мне всех грехов прощенье,</plain>
+        </string>
+        <string>
+            <plain>Телу - сон, душе - покой.</plain>
+        </string>
+    </verse>
+</song>

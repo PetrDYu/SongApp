@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2167" name="Когда всё надоело И нету сил идти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда всё надоело И нету сил идти,</plain>
+        </string>
+        <string>
+            <plain>Когда проблемы душат</plain>
+        </string>
+        <string>
+            <plain>И дьявол на пути,</plain>
+        </string>
+        <string>
+            <plain>Знай, что нужно сделать</plain>
+        </string>
+        <string>
+            <plain>В такой жестокий час:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господа прославить (3 р.)</plain>
+        </string>
+        <string>
+            <plain>И громко, громко восклицать.</plain>
+        </string>
+        <string>
+            <plain>О, пой аллилуйя! (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Господа прославить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Одно, Господь, желанье На сердце у меня:</plain>
+        </string>
+        <string>
+            <plain>Пусть те, кто ищут, Те кто страждут,</plain>
+        </string>
+        <string>
+            <plain>Пусть найдут Тебя.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, что нужно сделать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб увидеть чудеса.</plain>
+        </string>
+    </verse>
+</song>

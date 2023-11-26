@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2492" name="Когда б душа моя Тебя не знала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда б душа моя Тебя не знала</plain>
+        </string>
+        <string>
+            <plain>И кровь Твоя за нас бы не взывала,</plain>
+        </string>
+        <string>
+            <plain>К кому б прибег тогда беднейший из людей</plain>
+        </string>
+        <string>
+            <plain>С печалью своей. И буду, и буду я жить!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Без помощи погиб бы я, конечно,</plain>
+        </string>
+        <string>
+            <plain>Но Ты, Господь, нас любишь бесконечно:</plain>
+        </string>
+        <string>
+            <plain>Ты, Ты один спасены, радость, жизнь моя.</plain>
+        </string>
+        <string>
+            <plain>И буду, и буду жить я!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1113" name="Аллилуйя Аллилуйя Ты наш Бог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Ты - наш Бог!</plain>
+        </string>
+        <string>
+            <plain>В благодати Ты велик, в милосердьи терпелив.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Ты - наш Бог.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Наш Отец</plain>
+        </string>
+        <string>
+            <plain>Окружил заботой всех, не иссякнуть ей вовек.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Наш Отец!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Иисус!</plain>
+        </string>
+        <string>
+            <plain>Твои муки на кресте принесли спасенье мне.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя, Иисус!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Дух Святой!</plain>
+        </string>
+        <string>
+            <plain>Жизнь и силу Ты даешь, Духом к небу нас влечешь.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя, Дух Святой!</plain>
+        </string>
+    </verse>
+</song>

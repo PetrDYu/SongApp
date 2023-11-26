@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="326" name="Аллилуйя, аллилуйя, играйте на кимвалах" canon="false" text="" textRus="Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Аллилуйя, аллилуйя, играйте на кимвалах.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя, кимвалах сладкозвучных.</plain>
+        </string>
+        <string>
+            <plain>Все живое хвалит Его. Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Все живое хвалит Его. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>А́ЛЭЛУ́Я А́ЛЭЛУЯ́ БЕ-ЦИ́ЛЦЕЛЕ́Й ШАМА́</plain>
+        </string>
+        <string>
+            <plain>А́ЛЭЛУ́Я А́ЛЭЛУЯ́ БЕ-ЦИ́ЛЦЕЛЕ́Й ТРУА́</plain>
+        </string>
+        <string>
+            <plain>КО́ЛЬ А-НШАМА́ ТЕ́АЛЭЛЬ Я́ А́ЛЭЛУ́Я, А́ЛЭЛУЯ́</plain>
+        </string>
+        <string>
+            <plain>КО́ЛЬ А-НШАМА́ ТЭ́АЛЭЛЬ Я́ А́ЛЭЛУ́Я</plain>
+        </string>
+    </verse>
+</song>

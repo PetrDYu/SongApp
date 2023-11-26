@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="911" name="Звездочка горит в небе над землей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звездочка горит в небе над землей,</plain>
+        </string>
+        <string>
+            <plain>А вокруг холодный сумрак ночи царит.</plain>
+        </string>
+        <string>
+            <plain>Но чем ночь темней, тем она ясней</plain>
+        </string>
+        <string>
+            <plain>Для людей лучом путеводным блестит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>А светильник веры твой едва горит,</plain>
+        </string>
+        <string>
+            <plain>Его тусклый пламень прячешь ты от людей.</plain>
+        </string>
+        <string>
+            <plain>А они, в грехах, к гибели идут,</plain>
+        </string>
+        <string>
+            <plain>Тщетно ищут света во мраке ночей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Звездочкой гори веры и любви!</plain>
+        </string>
+        <string>
+            <plain>Пусть вокруг потоки льются крови и слез.</plain>
+        </string>
+        <string>
+            <plain>В лучший мир с собой ты людей зови,</plain>
+        </string>
+        <string>
+            <plain>В мир, где солнцем счастья сияет Христос.</plain>
+        </string>
+    </verse>
+</song>

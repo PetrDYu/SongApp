@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2650" name="Скоро друг усталый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скоро, друг усталый,</plain>
+        </string>
+        <string>
+            <plain>Кончен долгий путь,</plain>
+        </string>
+        <string>
+            <plain>Скоро можно будет</plain>
+        </string>
+        <string>
+            <plain>Сердцу отдохнуть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Близок твой Спаситель, - страшись;</plain>
+        </string>
+        <string>
+            <plain>Верный Он хранитель, - ободрись!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В темную минуту</plain>
+        </string>
+        <string>
+            <plain>Потерял ли ты</plain>
+        </string>
+        <string>
+            <plain>Веру и силу Божью</plain>
+        </string>
+        <string>
+            <plain>И покой души?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Обещанья вечны:</plain>
+        </string>
+        <string>
+            <plain>Не изменит Бог.</plain>
+        </string>
+        <string>
+            <plain>Он - твоя защита</plain>
+        </string>
+        <string>
+            <plain>От земных тревог.</plain>
+        </string>
+    </verse>
+</song>

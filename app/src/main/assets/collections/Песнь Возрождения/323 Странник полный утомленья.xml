@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="323" name="Странник полный утомленья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Странник, полный утомленья!</plain>
+        </string>
+        <string>
+            <plain>Слушай весть твоих друзей:</plain>
+        </string>
+        <string>
+            <plain>Бог устроил пир спасенья</plain>
+        </string>
+        <string>
+            <plain>Для души твоей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все для пиршества готово,</plain>
+        </string>
+        <string>
+            <plain>Иисус тебя зовет;</plain>
+        </string>
+        <string>
+            <plain>Отчего ж не примешь зова?</plain>
+        </string>
+        <string>
+            <plain>Что же дух твой робкий ждет?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если грех твой удручает,</plain>
+        </string>
+        <string>
+            <plain>Приходи: Бог снимет гнет,</plain>
+        </string>
+        <string>
+            <plain>Он простить тебя желает;</plain>
+        </string>
+        <string>
+            <plain>Что же дух твой робкий ждет?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ты нечист душою,</plain>
+        </string>
+        <string>
+            <plain>Чище Он, чем морем вод,</plain>
+        </string>
+        <string>
+            <plain>Убелит тебя Собою:</plain>
+        </string>
+        <string>
+            <plain>Что же дух твой робкий ждет?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Посмотри на одеянье,</plain>
+        </string>
+        <string>
+            <plain>Что Он всем гостям дает;</plain>
+        </string>
+        <string>
+            <plain>В Нем прощенье, оправданье:</plain>
+        </string>
+        <string>
+            <plain>Что же дух твой робкий ждет?</plain>
+        </string>
+    </verse>
+</song>

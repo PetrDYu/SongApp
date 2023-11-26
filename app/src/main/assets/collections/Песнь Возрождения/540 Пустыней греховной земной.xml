@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="540" name="Пустыней греховной земной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пустыней греховной, земной,</plain>
+        </string>
+        <string>
+            <plain>Где неправды гнетущий обман,</plain>
+        </string>
+        <string>
+            <plain>Я к Отчизне иду неземной</plain>
+        </string>
+        <string>
+            <plain>По кровавым следам христиан.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В край родной, неземной</plain>
+        </string>
+        <string>
+            <plain>От обмана мирской суеты</plain>
+        </string>
+        <string>
+            <plain>Я иду и приду</plain>
+        </string>
+        <string>
+            <plain>К незакатному солнцу любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Темнеет вечерняя мгла,</plain>
+        </string>
+        <string>
+            <plain>Длится тяжкий и скорбный мой путь,</plain>
+        </string>
+        <string>
+            <plain>Но не гаснет надежда моя:</plain>
+        </string>
+        <string>
+            <plain>Я в Отчизне моей отдохну.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иди же смелее вперед</plain>
+        </string>
+        <string>
+            <plain>За Христом, не пугаясь врага,</plain>
+        </string>
+        <string>
+            <plain>Скоро кончится путь наш земной,</plain>
+        </string>
+        <string>
+            <plain>Засияют Сиона врата.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ведь там ожидают меня</plain>
+        </string>
+        <string>
+            <plain>Все омытые кровью Христа,</plain>
+        </string>
+        <string>
+            <plain>Они встретят, любовью горя,</plain>
+        </string>
+        <string>
+            <plain>Пилигрима усталой земли.</plain>
+        </string>
+    </verse>
+</song>

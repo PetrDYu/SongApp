@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1242" name="Льются песни радостной рекою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Льются песни радостной рекою</plain>
+        </string>
+        <string>
+            <plain>-- У друзей большое торжество.</plain>
+        </string>
+        <string>
+            <plain>Без слов сегодня ясно,</plain>
+        </string>
+        <string>
+            <plain>Какой сегодня праздник.</plain>
+        </string>
+        <string>
+            <plain>Какой сегодня праздник у друзей!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сколько теплоты и нежной ласки.</plain>
+        </string>
+        <string>
+            <plain>Сколько красоты и доброты</plain>
+        </string>
+        <string>
+            <plain>На этом светлом месте</plain>
+        </string>
+        <string>
+            <plain>Жених дарит невесте,</plain>
+        </string>
+        <string>
+            <plain>Жених дарит невесте дорогой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Это потому, что между ними</plain>
+        </string>
+        <string>
+            <plain>Первая любовь горит огнем,</plain>
+        </string>
+        <string>
+            <plain>И два сегодня сердца</plain>
+        </string>
+        <string>
+            <plain>Слились в одно навечно,</plain>
+        </string>
+        <string>
+            <plain>Слились в одно навечно, навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Разделяя эту радость брака.</plain>
+        </string>
+        <string>
+            <plain>Мы хотим, чтоб видели друзья</plain>
+        </string>
+        <string>
+            <plain>И в будущем сказали:</plain>
+        </string>
+        <string>
+            <plain>"У ...... и у ...... Хорошая, при мерная семья".</plain>
+        </string>
+    </verse>
+</song>

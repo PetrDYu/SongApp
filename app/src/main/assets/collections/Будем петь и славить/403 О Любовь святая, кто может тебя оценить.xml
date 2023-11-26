@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="403" name="О Любовь святая, кто может тебя оценить" canon="false" text="" textRus="" music="" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>О Любовь святая, кто может тебя оценить?</plain>
+        </string>
+        <string>
+            <plain>Не способен весь мир тебя вместить.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Высока, как небо, Господа любовь,</plain>
+        </string>
+        <string>
+            <plain>В ней – обилье хлеба, клад святых даров.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Широка, как море, Божия любовь,</plain>
+        </string>
+        <string>
+            <plain>Среди бурь и в море нам она поет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Глубока, как бездны, к нам Отца любовь,</plain>
+        </string>
+        <string>
+            <plain>Льет, как купол звездный, свет она Христов.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Добротой безмерной Бог любви объят.</plain>
+        </string>
+        <string>
+            <plain>Он от жизни скверной всех избавить рад.</plain>
+        </string>
+    </verse>
+</song>

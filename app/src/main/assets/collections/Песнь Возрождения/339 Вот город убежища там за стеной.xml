@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="339" name="Вот город убежища там за стеной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот город убежища там, за стеной,</plain>
+        </string>
+        <string>
+            <plain>К нему поспешает беглец молодой;</plain>
+        </string>
+        <string>
+            <plain>Бежит он, усталый, по степи сухой</plain>
+        </string>
+        <string>
+            <plain>И слышит он крики врагов за собой;</plain>
+        </string>
+        <string>
+            <plain>Убежище близко, но близко враги:</plain>
+        </string>
+        <string>
+            <plain>Беги же скорее, несчастный, беги!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Нигде на земле нет, беглец, для тебя</plain>
+        </string>
+        <string>
+            <plain>Ни места покоя, ни крова жилья.</plain>
+        </string>
+        <string>
+            <plain>Но меч, отточенный враждебной рукой,</plain>
+        </string>
+        <string>
+            <plain>Повсюду висит над твоей головой.</plain>
+        </string>
+        <string>
+            <plain>Убежище близко, но близко враги:</plain>
+        </string>
+        <string>
+            <plain>Беги же скорее, несчастный, беги!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот город убежища, тихий приют,</plain>
+        </string>
+        <string>
+            <plain>В нем искони мир и согласье живут;</plain>
+        </string>
+        <string>
+            <plain>Он создан для счастья, свободы, труда,</plain>
+        </string>
+        <string>
+            <plain>И мститель, и враг не проникнет туда.</plain>
+        </string>
+        <string>
+            <plain>Убежище близко, но близко враги;</plain>
+        </string>
+        <string>
+            <plain>Беги же скорее, несчастный, беги!</plain>
+        </string>
+    </verse>
+</song>

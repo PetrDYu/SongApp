@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2010" name="Плещутся волны восторга" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Плещутся волны восторга,</plain>
+        </string>
+        <string>
+            <plain>Счастьем искрятся глаза.</plain>
+        </string>
+        <string>
+            <plain>В вихре торжественном, плавном,</plain>
+        </string>
+        <string>
+            <plain>Юные бьются сердца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть будет небо отверстым</plain>
+        </string>
+        <string>
+            <plain>К вашим молитвам всегда,</plain>
+        </string>
+        <string>
+            <plain>Ярче всех звезд пусть сияёт</plain>
+        </string>
+        <string>
+            <plain>Вашего счастья звезда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Перед нарядом невесты</plain>
+        </string>
+        <string>
+            <plain>Блекнет снегов, белизна.</plain>
+        </string>
+        <string>
+            <plain>Пусть же красивой, чудесной</plain>
+        </string>
+        <string>
+            <plain>жизнь будет ваша всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Летом, зимой, в зной иль в стужу,</plain>
+        </string>
+        <string>
+            <plain>При завываньи ветров,</plain>
+        </string>
+        <string>
+            <plain>В чистых сердцах сохраните</plain>
+        </string>
+        <string>
+            <plain>Райский подарок - любовь.</plain>
+        </string>
+    </verse>
+</song>

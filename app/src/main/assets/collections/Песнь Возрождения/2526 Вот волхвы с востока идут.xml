@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2526" name="Вот волхвы с востока идут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот, волхвы с востока идут,</plain>
+        </string>
+        <string>
+            <plain>Взяв дары, не глядя на труд,</plain>
+        </string>
+        <string>
+            <plain>Чрез пустыню к Божью Сыну</plain>
+        </string>
+        <string>
+            <plain>Долгий свершают путь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, чудная волхвов звезда!</plain>
+        </string>
+        <string>
+            <plain>Ты светила им тогда.</plain>
+        </string>
+        <string>
+            <plain>Просвещая, ободряя,</plain>
+        </string>
+        <string>
+            <plain>Нас веди к ногам Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В Вифлееме Царь нам рожден!</plain>
+        </string>
+        <string>
+            <plain>Золотом почту Его трон.</plain>
+        </string>
+        <string>
+            <plain>Вековечно, бесконечно</plain>
+        </string>
+        <string>
+            <plain>Царствовать будет Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ладан в дар несу я Христу!</plain>
+        </string>
+        <string>
+            <plain>Он с небес пришел в нищету.</plain>
+        </string>
+        <string>
+            <plain>Песнопенья и моленья</plain>
+        </string>
+        <string>
+            <plain>Наши придут к Нему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смирны горькой запах благой</plain>
+        </string>
+        <string>
+            <plain>- Дар Младенцу в знак роковой:</plain>
+        </string>
+        <string>
+            <plain>За виновных умерщвленный</plain>
+        </string>
+        <string>
+            <plain>Ляжет во гроб чужой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Славен Он, Воскресший Господь!</plain>
+        </string>
+        <string>
+            <plain>Царь и Бог страдал за народ.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Небо Ему поет.</plain>
+        </string>
+    </verse>
+</song>

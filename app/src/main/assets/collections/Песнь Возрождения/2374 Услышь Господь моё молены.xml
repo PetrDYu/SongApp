@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2374" name="Услышь Господь моё молены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Услышь, Господь, моё молены,</plain>
+        </string>
+        <string>
+            <plain>Бессилен я, дай силы мне.</plain>
+        </string>
+        <string>
+            <plain>К Тебе всю жизнь моё стремлены,</plain>
+        </string>
+        <string>
+            <plain>Чтоб свято жить мне на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я здесь не свой (2 р.), страна чужая.</plain>
+        </string>
+        <string>
+            <plain>И для души (2 р.) всё чуждо мне.</plain>
+        </string>
+        <string>
+            <plain>Я рвусь душой к просторам рая,</plain>
+        </string>
+        <string>
+            <plain>Где ярче, лучше и светлей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я рвусь туда, где руки брата</plain>
+        </string>
+        <string>
+            <plain>Не обагрит людская кровь,</plain>
+        </string>
+        <string>
+            <plain>Где жизнь чиста, где мило, свято,</plain>
+        </string>
+        <string>
+            <plain>Где вместо воздуха - любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Моя мечта - Страна святая,</plain>
+        </string>
+        <string>
+            <plain>Привольно там душе с Христом.</plain>
+        </string>
+        <string>
+            <plain>Там не настигнет ложь людская</plain>
+        </string>
+        <string>
+            <plain>И брат не станет злым врагом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там не восстанет жизнь плотская</plain>
+        </string>
+        <string>
+            <plain>В борьбе смертельной на мой дух.</plain>
+        </string>
+        <string>
+            <plain>Хочу я, на Христа взирая,</plain>
+        </string>
+        <string>
+            <plain>Здесь свято жить, идя домой.</plain>
+        </string>
+    </verse>
+</song>

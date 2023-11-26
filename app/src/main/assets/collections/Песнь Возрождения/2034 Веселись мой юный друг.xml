@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2034" name="Веселись мой юный друг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Веселись, мой юный друг,</plain>
+        </string>
+        <string>
+            <plain>Во дни юности твоей.</plain>
+        </string>
+        <string>
+            <plain>Знай, предстанешь ты на суд</plain>
+        </string>
+        <string>
+            <plain>В день, когда Господь придёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Грех оставь и суету</plain>
+        </string>
+        <string>
+            <plain>И приди ты ко Христу,</plain>
+        </string>
+        <string>
+            <plain>С юных лет до седины</plain>
+        </string>
+        <string>
+            <plain>Только Господу служи.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По ведению очей</plain>
+        </string>
+        <string>
+            <plain>Путь греховный ты избрал,</plain>
+        </string>
+        <string>
+            <plain>А на путь Господних дней</plain>
+        </string>
+        <string>
+            <plain>Ты войти не пожелал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знай, что путь греховных дел</plain>
+        </string>
+        <string>
+            <plain>Прямо в ад тебя ведёт.</plain>
+        </string>
+        <string>
+            <plain>Кто на путь Христа пойдёт,</plain>
+        </string>
+        <string>
+            <plain>В Край блаженный тот войдёт.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто для Бога жизнь свою</plain>
+        </string>
+        <string>
+            <plain>С юных лет всю посвятил,</plain>
+        </string>
+        <string>
+            <plain>Тот навеки со Христом</plain>
+        </string>
+        <string>
+            <plain>Без конца будет счастлив.</plain>
+        </string>
+    </verse>
+</song>

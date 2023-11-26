@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="318" name="Небосвод уже темнеет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небосвод уже темнеет,</plain>
+        </string>
+        <string>
+            <plain>Ночь забвенья настает;</plain>
+        </string>
+        <string>
+            <plain>Может быть, теперь Создатель</plain>
+        </string>
+        <string>
+            <plain>Дух твой в вечность отзовет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И тогда ты правду вспомнишь,</plain>
+        </string>
+        <string>
+            <plain>Что в Евангелье читал,</plain>
+        </string>
+        <string>
+            <plain>И тогда ты будешь плакать,</plain>
+        </string>
+        <string>
+            <plain>Что Христа ты не принял.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но, увы! Уж будет поздно,</plain>
+        </string>
+        <string>
+            <plain>Там нельзя уж возвратить</plain>
+        </string>
+        <string>
+            <plain>То, что в жизни раз отвергнул,</plain>
+        </string>
+        <string>
+            <plain>И нельзя о том просить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Книги жизни там открыты,</plain>
+        </string>
+        <string>
+            <plain>Перекличка там идет;</plain>
+        </string>
+        <string>
+            <plain>Кто в той книге не записан,</plain>
+        </string>
+        <string>
+            <plain>В царство Божье не войдет.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О мой друг, сомненья полный!</plain>
+        </string>
+        <string>
+            <plain>Не теряй напрасно дней,</plain>
+        </string>
+        <string>
+            <plain>Но, приняв призыв небесный,</plain>
+        </string>
+        <string>
+            <plain>Обратись к Отцу скорей!</plain>
+        </string>
+    </verse>
+</song>

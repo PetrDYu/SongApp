@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="334" name="Единому Богу слава, единому Богу слава" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Единому Богу слава, единому Богу слава.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Слава Отцу и Сыну и Святому Духу во веки веков. Аминь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>КАВО́Д Л-ЭЛОИ́М ЭХА́Д КАВО́Д Л-ЭЛОИ́М ЭХА́Д</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>А́-АВ А-БЭ́Н ВЭ-РУА́Х  А-КОДЕ́Ш</plain>
+        </string>
+        <string>
+            <plain>МЭ-О́ЛАМ ВЭ-АД-О́ЛАМ АМЭ́Н</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

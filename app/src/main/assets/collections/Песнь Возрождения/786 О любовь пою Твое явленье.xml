@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="786" name="О любовь пою Твое явленье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О любовь, пою Твое явленье,</plain>
+        </string>
+        <string>
+            <plain>Возвещаю всем благую весть:</plain>
+        </string>
+        <string>
+            <plain>Что для нас Спаситель с неба послан</plain>
+        </string>
+        <string>
+            <plain>Мир и счастье грешникам принесть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Его любовь есть чудная,</plain>
+        </string>
+        <string>
+            <plain>Его любовь есть дивная</plain>
+        </string>
+        <string>
+            <plain>Он возлюбил меня,</plain>
+        </string>
+        <string>
+            <plain>На крест отдал Себя –</plain>
+        </string>
+        <string>
+            <plain>Его любовь есть чудная!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О любовь, явленная в Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Когда Он здесь в мире с нами жил,</plain>
+        </string>
+        <string>
+            <plain>Он - безгрешный, наш Христос Спаситель,</plain>
+        </string>
+        <string>
+            <plain>На кресте спасенье совершил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О любовь! Бальзам на раны сердца,</plain>
+        </string>
+        <string>
+            <plain>Щит душе от бури и невзгод,</plain>
+        </string>
+        <string>
+            <plain>Овладей моим Ты всем сознаньем,</plain>
+        </string>
+        <string>
+            <plain>Направляй меня в Отцовский дом.</plain>
+        </string>
+    </verse>
+</song>

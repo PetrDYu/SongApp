@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2634" name="Я иду тропинкою что Христом проложена" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду тропинкою, что Христом проложена.</plain>
+        </string>
+        <string>
+            <plain>Терны, камни острые ранят ноги мне.</plain>
+        </string>
+        <string>
+            <plain>Но стремлюсь я в край святой, Господом обещанный</plain>
+        </string>
+        <string>
+            <plain>Для спасенных искренних, верных на земле.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Та тропа тернистая к вечности направлена,</plain>
+        </string>
+        <string>
+            <plain>Где уставших путников ждет Спаситель Сам.</plain>
+        </string>
+        <string>
+            <plain>Чтоб к Иисусу путь найти, Библия оставлена,</plain>
+        </string>
+        <string>
+            <plain>Направляет путников прямо к небесам.</plain>
+        </string>
+    </verse>
+</song>

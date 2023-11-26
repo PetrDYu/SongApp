@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="530" name="Страны богатства я достиг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страны богатства я достиг:</plain>
+        </string>
+        <string>
+            <plain>И мед, и хлеб в моих руках;</plain>
+        </string>
+        <string>
+            <plain>В стране той вечный день горит,</plain>
+        </string>
+        <string>
+            <plain>Там ночи мрак навек забыт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О чудный край, приют сердец!</plain>
+        </string>
+        <string>
+            <plain>Стою я на горе твоей,</plain>
+        </string>
+        <string>
+            <plain>Смотрю я в даль седых морей,</plain>
+        </string>
+        <string>
+            <plain>И там в лучах блестит дворец;</plain>
+        </string>
+        <string>
+            <plain>Я вижу берег неземной,</plain>
+        </string>
+        <string>
+            <plain>Свет неба и свой дом родной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спаситель мой идет со мной,</plain>
+        </string>
+        <string>
+            <plain>Общенье мне дает с Собой;</plain>
+        </string>
+        <string>
+            <plain>Меня рукой ведет Он Сам</plain>
+        </string>
+        <string>
+            <plain>Чрез край богатства к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Деревья в той стране цветут</plain>
+        </string>
+        <string>
+            <plain>И аромат повсюду льют;</plain>
+        </string>
+        <string>
+            <plain>Везде журчит волной вода,</plain>
+        </string>
+        <string>
+            <plain>Цветы не вянут никогда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И ветерок, лаская слух,</plain>
+        </string>
+        <string>
+            <plain>Несет с высот чудесный звук</plain>
+        </string>
+        <string>
+            <plain>То песня ангелов святых,</plain>
+        </string>
+        <string>
+            <plain>Поющих счастье душ людских.</plain>
+        </string>
+    </verse>
+</song>

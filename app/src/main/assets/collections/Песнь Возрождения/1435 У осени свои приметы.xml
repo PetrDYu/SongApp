@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1435" name="У осени свои приметы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У осени свои приметы,</plain>
+        </string>
+        <string>
+            <plain>Свои законы и запреты:</plain>
+        </string>
+        <string>
+            <plain>Каким бы день прекрасным не был.</plain>
+        </string>
+        <string>
+            <plain>Все чаще тучи хмурят небо.</plain>
+        </string>
+        <string>
+            <plain>Все чаще лист кружится с клена.</plain>
+        </string>
+        <string>
+            <plain>Все ниже ветер травы клонит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юности года, юности года.</plain>
+        </string>
+        <string>
+            <plain>Юности года летят, как птица.</plain>
+        </string>
+        <string>
+            <plain>Юность никогда, юность никогда</plain>
+        </string>
+        <string>
+            <plain>Больше на земле не повторится.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>У осени свои напевы,</plain>
+        </string>
+        <string>
+            <plain>В них много грусти, мало гнева.</plain>
+        </string>
+        <string>
+            <plain>Мы принимаем без упрека</plain>
+        </string>
+        <string>
+            <plain>Нам жизнью данные уроки:</plain>
+        </string>
+        <string>
+            <plain>Все то, что было - не случайно,</plain>
+        </string>
+        <string>
+            <plain>А все, что будет - скрыто тайной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У осени свои невзгоды,</plain>
+        </string>
+        <string>
+            <plain>Нас незаметно старят годы,</plain>
+        </string>
+        <string>
+            <plain>Болезни точат дух и тело.</plain>
+        </string>
+        <string>
+            <plain>Уже не так мы сильны, смелы.</plain>
+        </string>
+        <string>
+            <plain>С годами, это знает каждый,</plain>
+        </string>
+        <string>
+            <plain>В душе растет к спасенью жажда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>У осени своя тревога,</plain>
+        </string>
+        <string>
+            <plain>Старея, люди ищут Бога,</plain>
+        </string>
+        <string>
+            <plain>Ему вручают дней остаток,</plain>
+        </string>
+        <string>
+            <plain>Вдруг осознав, что срок их краток.</plain>
+        </string>
+        <string>
+            <plain>И жизнь тогда уж не прервется.</plain>
+        </string>
+        <string>
+            <plain>Хоть юность больше не вернется.</plain>
+        </string>
+    </verse>
+</song>

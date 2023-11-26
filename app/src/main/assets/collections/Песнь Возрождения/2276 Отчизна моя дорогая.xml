@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2276" name="Отчизна моя дорогая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отчизна моя дорогая,</plain>
+        </string>
+        <string>
+            <plain>Приют беспризорных сердец!</plain>
+        </string>
+        <string>
+            <plain>Как часто к тебе я взываю</plain>
+        </string>
+        <string>
+            <plain>Душою усталой своей.</plain>
+        </string>
+        <string>
+            <plain>Ты манишь меня словно птицу</plain>
+        </string>
+        <string>
+            <plain>В далёкий чертог золотой,</plain>
+        </string>
+        <string>
+            <plain>А сердце сильнее стучится</plain>
+        </string>
+        <string>
+            <plain>При мысли о встрече с тобой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отчизна моя дорогая,</plain>
+        </string>
+        <string>
+            <plain>Ты ждёшь меня, верю, ты ждёшь.</plain>
+        </string>
+        <string>
+            <plain>Ты всем, кто в борьбе побеждает,</plain>
+        </string>
+        <string>
+            <plain>Победную песню даёшь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Несут меня юные грёзы</plain>
+        </string>
+        <string>
+            <plain>На призрачный отблеск огней.</plain>
+        </string>
+        <string>
+            <plain>Ты нежно отрёшь мои слезы</plain>
+        </string>
+        <string>
+            <plain>Рукой материнской своей.</plain>
+        </string>
+        <string>
+            <plain>Отчизна моя дорогая!</plain>
+        </string>
+        <string>
+            <plain>Скорей бы достигнуть тебя,</plain>
+        </string>
+        <string>
+            <plain>В боренье земном укрепляет</plain>
+        </string>
+        <string>
+            <plain>Незримая сила твоя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я жду этой встречи желанной,</plain>
+        </string>
+        <string>
+            <plain>Как узник свободу свою,</plain>
+        </string>
+        <string>
+            <plain>Борюсь и молюсь непрестанно,</plain>
+        </string>
+        <string>
+            <plain>И плачу порой, и стремлюсь.</plain>
+        </string>
+        <string>
+            <plain>Отчизна моя дорогая!</plain>
+        </string>
+        <string>
+            <plain>Как рвусь я в объятья твои!</plain>
+        </string>
+        <string>
+            <plain>О, как я хочу, умирая,</plain>
+        </string>
+        <string>
+            <plain>Назвать тебя домом своим.</plain>
+        </string>
+    </verse>
+</song>

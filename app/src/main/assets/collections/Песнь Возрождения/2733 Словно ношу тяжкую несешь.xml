@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2733" name="Словно ношу тяжкую несешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словно ношу тяжкую несешь,</plain>
+        </string>
+        <string>
+            <plain>От сна греховного не можешь ты проснуться.</plain>
+        </string>
+        <string>
+            <plain>Без Бога по жизни ты идешь,</plain>
+        </string>
+        <string>
+            <plain>Рукой до счастья хочешь дотянуться.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как сухая пожелтевшая листва,</plain>
+        </string>
+        <string>
+            <plain>Что с деревьев ветер обрывает,</plain>
+        </string>
+        <string>
+            <plain>Словно грустная осенняя пора</plain>
+        </string>
+        <string>
+            <plain>- Так без Бога жизнь твоя земная.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаешь ты, идя здесь поземле,</plain>
+        </string>
+        <string>
+            <plain>Что ждет тебя за жизненным порогом?</plain>
+        </string>
+        <string>
+            <plain>Там вечность ожидает впереди,</plain>
+        </string>
+        <string>
+            <plain>А ты еще не примирился с Богом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А Христос все смотрит на тебя</plain>
+        </string>
+        <string>
+            <plain>И к тебе протягивает руки,</plain>
+        </string>
+        <string>
+            <plain>Сегодня Он ждет тебя любя,</plain>
+        </string>
+        <string>
+            <plain>Ведь жизнь без Бога для души приносит муки.</plain>
+        </string>
+    </verse>
+</song>

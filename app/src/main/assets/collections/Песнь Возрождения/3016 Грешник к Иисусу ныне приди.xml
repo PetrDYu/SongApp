@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3016" name="Грешник к Иисусу ныне приди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешник, к Иисусу ныне приди!</plain>
+        </string>
+        <string>
+            <plain>Он призывает - о, поспеши!</plain>
+        </string>
+        <string>
+            <plain>С сердцем разбитым приди, человек;</plain>
+        </string>
+        <string>
+            <plain>Он даст спасенье, радость навек.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Полную радость ты обретёшь,</plain>
+        </string>
+        <string>
+            <plain>если к Иисусу ныне придёшь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Грешник, приди же, время не ждёт!</plain>
+        </string>
+        <string>
+            <plain>Приди к Иисусу: Он всех зовёт.</plain>
+        </string>
+        <string>
+            <plain>Хочешь ты мир и покой обрести,</plain>
+        </string>
+        <string>
+            <plain>клад вместо пепла - ныне приди!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грешник, к Иисусу ныне приди!</plain>
+        </string>
+        <string>
+            <plain>Он жизнь и свет твой — о, поспеши,</plain>
+        </string>
+        <string>
+            <plain>Богу всесильному в ноги пади.</plain>
+        </string>
+        <string>
+            <plain>О друг, не медли, Он ведь вблизи!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Грешник, приди же к Богу любви!</plain>
+        </string>
+        <string>
+            <plain>Друг мой сердечный, ныне приди!</plain>
+        </string>
+        <string>
+            <plain>Следуй охотно и грех презирай,</plain>
+        </string>
+        <string>
+            <plain>сердце всецело Богу отдай.</plain>
+        </string>
+    </verse>
+</song>

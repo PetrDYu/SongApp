@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3256" name="Если труд мой окончен и Спаситель придёт" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если труд мой окончен, и Спаситель придёт,</plain>
+        </string>
+        <string>
+            <plain>дух мой там со святыми гимн Ему воспоёт.</plain>
+        </string>
+        <string>
+            <plain>Я тогда буду с ними в небесах</plain>
+        </string>
+        <string>
+            <plain>и в общении с Богом - как возрадуюсь я!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дом, дом чудный, небесный, родной,</plain>
+        </string>
+        <string>
+            <plain>там от забот и тревог всех покой.</plain>
+        </string>
+        <string>
+            <plain>Ждут друзья мои встречи со мной.</plain>
+        </string>
+        <string>
+            <plain>Скоро приду я домой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если труд мой окончен, жизни путь позади,</plain>
+        </string>
+        <string>
+            <plain>и Господь возвратится, чтоб нас в небо ввести,</plain>
+        </string>
+        <string>
+            <plain>я забуду страданья и печаль навсегда.</plain>
+        </string>
+        <string>
+            <plain>Там в небесной отчизне будет радость в веках.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если труд мой окончен, и исполнен мой долг,</plain>
+        </string>
+        <string>
+            <plain>поспешу я немедля в мой небесный чертог.</plain>
+        </string>
+        <string>
+            <plain>Будет горе забыто и исчезнет земля.</plain>
+        </string>
+        <string>
+            <plain>Там, где нет искушений, буду с Господом я.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если труд мой окончен, я из мира уйду.</plain>
+        </string>
+        <string>
+            <plain>Если Господа в славе в облаках я узрю,</plain>
+        </string>
+        <string>
+            <plain>буду там со святыми в вечной радости я,</plain>
+        </string>
+        <string>
+            <plain>где одно желанье: видеть облик Христа.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2695" name="Ведь пред Тобой открыто все" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ведь пред Тобой открыто все,</plain>
+        </string>
+        <string>
+            <plain>Нам нечего таить.</plain>
+        </string>
+        <string>
+            <plain>И сердца помышления</plain>
+        </string>
+        <string>
+            <plain>Ты можешь все узреть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Куда бы я идти хотел,</plain>
+        </string>
+        <string>
+            <plain>Я знаю, что Ты там.</plain>
+        </string>
+        <string>
+            <plain>И в море темном, и в вышине</plain>
+        </string>
+        <string>
+            <plain>- Везде Ты близок нам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И пред моим рождением,</plain>
+        </string>
+        <string>
+            <plain>Господь, Ты знал меня.</plain>
+        </string>
+        <string>
+            <plain>Твоя рука пронзенная</plain>
+        </string>
+        <string>
+            <plain>К Себе ведет меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, ведь вся вселенная</plain>
+        </string>
+        <string>
+            <plain>- Дело Твоих рук.</plain>
+        </string>
+        <string>
+            <plain>Прославить я хочу Тебя</plain>
+        </string>
+        <string>
+            <plain>- Возликовал мой дух.</plain>
+        </string>
+    </verse>
+</song>

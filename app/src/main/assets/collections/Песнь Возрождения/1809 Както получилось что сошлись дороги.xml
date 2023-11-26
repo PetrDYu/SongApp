@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1809" name="Както получилось что сошлись дороги" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как-то получилось, что сошлись дороги,</plain>
+        </string>
+        <string>
+            <plain>Вовсе непохожи, но сошлись в одну,</plain>
+        </string>
+        <string>
+            <plain>Если вдруг в дороге грусть тебя встревожит.</plain>
+        </string>
+        <string>
+            <plain>Знай, что я с любовью руку протяну.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Если вдруг несчастье на тебя нагрянет,  А-а</plain>
+        </string>
+        <string>
+            <plain>Если на ресницах заблестит слеза,</plain>
+        </string>
+        <string>
+            <plain>Знай, что сквозь туманы Я с любовью гляну</plain>
+        </string>
+        <string>
+            <plain>Осторожно в самые глаза.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С другом можно плакать, можно и молиться,</plain>
+        </string>
+        <string>
+            <plain>С другом можно просто сидя помолчать,</plain>
+        </string>
+        <string>
+            <plain>Кто сказал, что с другом можно не считаться,</plain>
+        </string>
+        <string>
+            <plain>Друга первым делом нужно уважать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Разве друга ищут, разве выбирают?</plain>
+        </string>
+        <string>
+            <plain>Друг к тебе приходит только невзначай,</plain>
+        </string>
+        <string>
+            <plain>Да и другом разве каждого считают?</plain>
+        </string>
+        <string>
+            <plain>Недруга от друга надо отличать.</plain>
+        </string>
+    </verse>
+</song>

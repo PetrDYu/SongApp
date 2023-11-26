@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="435" name="Дух Создатель, приди" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Дух Создатель, приди!</plain>
+        </string>
+        <string>
+            <plain>Красотой Своей освети.</plain>
+        </string>
+        <string>
+            <plain>Дух благодати и любви,</plain>
+        </string>
+        <string>
+            <plain>Наши сердца воспламени.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, Ты – Господень дар,</plain>
+        </string>
+        <string>
+            <plain>Источник жизни и любовь.</plain>
+        </string>
+        <string>
+            <plain>Огонь и нежность наших душ</plain>
+        </string>
+        <string>
+            <plain>Во имя Божье Ты творишь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты знаешь слабость наших душ,</plain>
+        </string>
+        <string>
+            <plain>Своей любовью нас спаси.</plain>
+        </string>
+        <string>
+            <plain>Ты – Сына глас в душе Отца,</plain>
+        </string>
+        <string>
+            <plain>Молиться Ты нас научи.</plain>
+        </string>
+    </verse>
+</song>

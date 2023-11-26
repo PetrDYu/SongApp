@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1186" name="Твои небеса и Твоя земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Твои небеса и Твоя земля</plain>
+        </string>
+        <string>
+            <plain>и что наполняет ее.</plain>
+        </string>
+        <string>
+            <plain>Ты видишь пути и знаешь дела,</plain>
+        </string>
+        <string>
+            <plain>И все помышленья мои.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иду ли я, отдыхаю ли, и Ты окружаешь меня,</plain>
+        </string>
+        <string>
+            <plain>И все пути мои известны лишь Тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И в тайне сердечной Ты знаешь меня.</plain>
+        </string>
+        <string>
+            <plain>Желания знаешь мои.</plain>
+        </string>
+        <string>
+            <plain>Ничто от Тебя не сокрыто,</plain>
+        </string>
+        <string>
+            <plain>Мой Бог, Ты - сила и слава моя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За все остаюсь благодарен Тебе,</plain>
+        </string>
+        <string>
+            <plain>За милость Твою, за любовь!</plain>
+        </string>
+        <string>
+            <plain>И дальше храни Ты меня, мой Господь</plain>
+        </string>
+        <string>
+            <plain>- с Тобой лишь хочу я идти.</plain>
+        </string>
+    </verse>
+</song>

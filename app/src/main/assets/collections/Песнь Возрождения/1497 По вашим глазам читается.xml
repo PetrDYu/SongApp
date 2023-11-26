@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1497" name="По вашим глазам читается" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>По вашим глазам читается:</plain>
+        </string>
+        <string>
+            <plain>Что дал Господь - сбывается;</plain>
+        </string>
+        <string>
+            <plain>И каждый улыбается.</plain>
+        </string>
+        <string>
+            <plain>Желая счастья вам.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Друг друга любить в сознании</plain>
+        </string>
+        <string>
+            <plain>Вы дали обещание.</plain>
+        </string>
+        <string>
+            <plain>И ваше сочетание</plain>
+        </string>
+        <string>
+            <plain>Пусть Бог благословит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>По вашим глазам читается:</plain>
+        </string>
+        <string>
+            <plain>Что дал Господь - сбывается.</plain>
+        </string>
+        <string>
+            <plain>И все мы улыбаемся,</plain>
+        </string>
+        <string>
+            <plain>Желая счастья вам.</plain>
+        </string>
+    </verse>
+</song>

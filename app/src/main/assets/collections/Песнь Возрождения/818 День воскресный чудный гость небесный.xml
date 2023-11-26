@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="818" name="День воскресный чудный гость небесный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День воскресный, чудный гость небесный,</plain>
+        </string>
+        <string>
+            <plain>Радостно приветствуем тебя.</plain>
+        </string>
+        <string>
+            <plain>Ты даруешь нам свой мир чудесный,</plain>
+        </string>
+        <string>
+            <plain>Сладкий отдых после дней труда.</plain>
+        </string>
+        <string>
+            <plain>Но еще великий день мы ждем,</plain>
+        </string>
+        <string>
+            <plain>Когда в вечный мы покой войдем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тот войдет туда, кто здесь всецело</plain>
+        </string>
+        <string>
+            <plain>Жизнь свою для Бога посвятил,</plain>
+        </string>
+        <string>
+            <plain>До конца кто устоял и смело</plain>
+        </string>
+        <string>
+            <plain>Шел вперед и в битве победил.</plain>
+        </string>
+        <string>
+            <plain>Тот небесный отдых обретет,</plain>
+        </string>
+        <string>
+            <plain>В бесконечный он покой войдет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О небесная страна святая!</plain>
+        </string>
+        <string>
+            <plain>Нет в тебе земных скорбей и слез,</plain>
+        </string>
+        <string>
+            <plain>Бесконечный мир, блаженство рая</plain>
+        </string>
+        <string>
+            <plain>И, как солнце, там всегда Христос.</plain>
+        </string>
+        <string>
+            <plain>О Господь, веди и нас туда,</plain>
+        </string>
+        <string>
+            <plain>Где наш вечный отдых от труда.</plain>
+        </string>
+    </verse>
+</song>

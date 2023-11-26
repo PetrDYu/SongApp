@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2856" name="Господь мы радостно к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, мы радостно к Тебе</plain>
+        </string>
+        <string>
+            <plain>приходим с торжеством</plain>
+        </string>
+        <string>
+            <plain>и людям всюду и везде</plain>
+        </string>
+        <string>
+            <plain>благую весть несём.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспой, воспой от сердца Христа!</plain>
+        </string>
+        <string>
+            <plain>Он сам нас ведёт, и Он есть наш Царь.</plain>
+        </string>
+        <string>
+            <plain>За Ним мы идём, послушны Ему</plain>
+        </string>
+        <string>
+            <plain>и вместе приносим Иисусу хвалу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любовь, что Ты нам даровал,</plain>
+        </string>
+        <string>
+            <plain>не гаснет никогда;</plain>
+        </string>
+        <string>
+            <plain>и если кто-то духом пал,</plain>
+        </string>
+        <string>
+            <plain>Ты верным был всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты укрываешь нас в Себе</plain>
+        </string>
+        <string>
+            <plain>как ночью, так и днём;</plain>
+        </string>
+        <string>
+            <plain>поэтому, Господь,</plain>
+        </string>
+        <string>
+            <plain>Тебе мы славу воздаём.</plain>
+        </string>
+    </verse>
+</song>

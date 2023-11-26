@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1788" name="Ты тверже алмаза и крепче гранита" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты тверже алмаза и крепче гранита,</plain>
+        </string>
+        <string>
+            <plain>Гонимая Церковь Христа,</plain>
+        </string>
+        <string>
+            <plain>Изранена в битвах, жестоко избита,</plain>
+        </string>
+        <string>
+            <plain>Идешь, не чуждаясь креста.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты легких дорог и путей не искала,</plain>
+        </string>
+        <string>
+            <plain>Не ведом тебе компромисс,</plain>
+        </string>
+        <string>
+            <plain>В часы испытанья в проломе стояла,</plain>
+        </string>
+        <string>
+            <plain>Подняв знамя истины ввысь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сибирь для детей твоих стала могилой,</plain>
+        </string>
+        <string>
+            <plain>Их вьюги встречали в пути...</plain>
+        </string>
+        <string>
+            <plain>Но снова Бог крепкий дает тебе силу</plain>
+        </string>
+        <string>
+            <plain>Евангелье миру нести.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скитанья и скорби, страданья и слезы</plain>
+        </string>
+        <string>
+            <plain>Бессильны спасенных склонить.</plain>
+        </string>
+        <string>
+            <plain>С молитвой они одолеют угрозы,</plain>
+        </string>
+        <string>
+            <plain>Бог силу им даст победить.</plain>
+        </string>
+    </verse>
+</song>

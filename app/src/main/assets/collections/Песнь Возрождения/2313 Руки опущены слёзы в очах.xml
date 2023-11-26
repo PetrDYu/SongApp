@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2313" name="Руки опущены слёзы в очах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Руки опущены, слёзы в очах.</plain>
+        </string>
+        <string>
+            <plain>Люди, прислушайтесь к свисту бича.</plain>
+        </string>
+        <string>
+            <plain>Сбылось пророчество, лик Твой в крови,</plain>
+        </string>
+        <string>
+            <plain>Смех и пощёчины, крики "Распни!".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это моя вина, это мои дела,</plain>
+        </string>
+        <string>
+            <plain>Это мои слова ранят Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Крест поношения, слёзы и боль.</plain>
+        </string>
+        <string>
+            <plain>Щедрой жестокостью платим порой.</plain>
+        </string>
+        <string>
+            <plain>Вместо награды - зло, вместо хвалы - хула</plain>
+        </string>
+        <string>
+            <plain>Божьему Сыну на плечи легла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ветер бушует, луч солнца угас,</plain>
+        </string>
+        <string>
+            <plain>Веет соблазном дьявола глас:</plain>
+        </string>
+        <string>
+            <plain>"Что же на помощь Отца не зовёшь?</plain>
+        </string>
+        <string>
+            <plain>Или пощады и милости ждёшь?".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Руки опущены, слёзы н очах.</plain>
+        </string>
+        <string>
+            <plain>Люди, прислушайтесь к свисту бича.</plain>
+        </string>
+        <string>
+            <plain>Сбылось пророчество, лик Твой в крови,</plain>
+        </string>
+        <string>
+            <plain>Смех и пощёчины, крики "Распни!".</plain>
+        </string>
+    </verse>
+</song>

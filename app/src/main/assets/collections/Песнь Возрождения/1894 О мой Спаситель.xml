@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1894" name="О мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О мой Спаситель! Как Ты дорог для меня!</plain>
+        </string>
+        <string>
+            <plain>Я все богатства принял от Тебя.</plain>
+        </string>
+        <string>
+            <plain>Но Ты всех дороже тем, что в гибельном пути</plain>
+        </string>
+        <string>
+            <plain>Ты подал мне руку, чтоб меня спасти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ближе, все ближе</plain>
+        </string>
+        <string>
+            <plain>Я стремлюсь, Господь, к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Ближе, все ближе,</plain>
+        </string>
+        <string>
+            <plain>Помоги Ты мне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О мой Спаситель! Ты дороже всех других,</plain>
+        </string>
+        <string>
+            <plain>Близких, знакомых, всех друзей, родных.</plain>
+        </string>
+        <string>
+            <plain>На пути тяжелом жизни горестной земной</plain>
+        </string>
+        <string>
+            <plain>Ты даешь мне силу и Твой мир святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О мой Спаситель! Другом будь Ты мне всехда,</plain>
+        </string>
+        <string>
+            <plain>Грех мой очисти Кровью Христа,</plain>
+        </string>
+        <string>
+            <plain>Чтобы со святыми мог я радостно сказать,</plain>
+        </string>
+        <string>
+            <plain>Что омыт я Кровию через благодать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О мой Спаситель! За других молю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Чтобы к познанью Ты привел сердца.</plain>
+        </string>
+        <string>
+            <plain>Дар Святого Духа, о, пошли Ты нам скорей,</plain>
+        </string>
+        <string>
+            <plain>Новой силой жизни с высоты повей.</plain>
+        </string>
+    </verse>
+</song>

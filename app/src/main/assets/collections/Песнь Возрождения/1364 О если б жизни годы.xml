@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1364" name="О если б жизни годы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, если б жизни годы</plain>
+        </string>
+        <string>
+            <plain>На поприще земли</plain>
+        </string>
+        <string>
+            <plain>Без скорби и невзгоды.</plain>
+        </string>
+        <string>
+            <plain>Но в радости текли!</plain>
+        </string>
+        <string>
+            <plain>- Тогда б любовью страстной</plain>
+        </string>
+        <string>
+            <plain>Ты землю возлюбил,</plain>
+        </string>
+        <string>
+            <plain>И смерти вид ужасный</plain>
+        </string>
+        <string>
+            <plain>Тебя б всегда страшил, -</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но если скорбь земная</plain>
+        </string>
+        <string>
+            <plain>Вдруг сердце посетит,</plain>
+        </string>
+        <string>
+            <plain>К дверям иного края</plain>
+        </string>
+        <string>
+            <plain>Невольно мысль летит...</plain>
+        </string>
+        <string>
+            <plain>От горя удаленный,</plain>
+        </string>
+        <string>
+            <plain>Желанный мир иной</plain>
+        </string>
+        <string>
+            <plain>В душе твоей смущенной</plain>
+        </string>
+        <string>
+            <plain>Вдруг станет как живой.</plain>
+        </string>
+    </verse>
+</song>

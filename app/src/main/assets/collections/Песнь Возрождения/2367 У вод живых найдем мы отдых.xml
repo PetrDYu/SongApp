@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2367" name="У вод живых найдем мы отдых" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У вод живых найдем мы отдых</plain>
+        </string>
+        <string>
+            <plain>С Иисусом без труда.</plain>
+        </string>
+        <string>
+            <plain>И на полях жить благородных</plain>
+        </string>
+        <string>
+            <plain>будем с Ним всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У вод живых найдем мы отдых,</plain>
+        </string>
+        <string>
+            <plain>Да, у вод живых наш отдых.</plain>
+        </string>
+        <string>
+            <plain>Там среди святой природы</plain>
+        </string>
+        <string>
+            <plain>Буреет мы вкушать плоды.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как сладок будет этот отдых</plain>
+        </string>
+        <string>
+            <plain>Утомленным в пути</plain>
+        </string>
+        <string>
+            <plain>В небесных тех краях свободных</plain>
+        </string>
+        <string>
+            <plain>На злачной пажити.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Придите все друзья Христовы</plain>
+        </string>
+        <string>
+            <plain>К ручью воды живой.</plain>
+        </string>
+        <string>
+            <plain>И сердцем будьте все гомоны</plain>
+        </string>
+        <string>
+            <plain>Наследовать покой.</plain>
+        </string>
+    </verse>
+</song>

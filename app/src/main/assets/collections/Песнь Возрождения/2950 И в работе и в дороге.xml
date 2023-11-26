@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2950" name="И в работе и в дороге" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>И в работе, и в дороге</plain>
+        </string>
+        <string>
+            <plain>в мыслях я с Христом всегда;</plain>
+        </string>
+        <string>
+            <plain>говорит Он, Пастырь добрый,</plain>
+        </string>
+        <string>
+            <plain>мне, что я Его дитя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, что может быть прекрасней</plain>
+        </string>
+        <string>
+            <plain>в этом мире суеты,</plain>
+        </string>
+        <string>
+            <plain>Чем с Иисусом жить в согласьи,</plain>
+        </string>
+        <string>
+            <plain>мир и радость в Нём найти?</plain>
+        </string>
+        <string>
+            <plain>Чем с Иисусом жить в согласьи,</plain>
+        </string>
+        <string>
+            <plain>мир и радость в Нём найти.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он меня здесь не оставит</plain>
+        </string>
+        <string>
+            <plain>без защиты никогда;</plain>
+        </string>
+        <string>
+            <plain>уповать не перестанет</plain>
+        </string>
+        <string>
+            <plain>на Него душа моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Разлучить меня не сможет</plain>
+        </string>
+        <string>
+            <plain>жизнь или смерть с Христом моим.</plain>
+        </string>
+        <string>
+            <plain>Он один всегда поможет</plain>
+        </string>
+        <string>
+            <plain>тем, кто следует за Ним.</plain>
+        </string>
+    </verse>
+</song>

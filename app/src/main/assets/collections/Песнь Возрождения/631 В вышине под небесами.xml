@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="631" name="В вышине под небесами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В вышине под небесами</plain>
+        </string>
+        <string>
+            <plain>Звонко льется пенье,</plain>
+        </string>
+        <string>
+            <plain>Господу хваленье;</plain>
+        </string>
+        <string>
+            <plain>Ангелы поют хорами</plain>
+        </string>
+        <string>
+            <plain>В торжествующей хвале.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте, пойте Богу славы,</plain>
+        </string>
+        <string>
+            <plain>Восклицайте дружно Господу земли!</plain>
+        </string>
+        <string>
+            <plain>Пойте, пойте Богу славы,</plain>
+        </string>
+        <string>
+            <plain>Пойте Господу земли!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Милосердье возвещайте:</plain>
+        </string>
+        <string>
+            <plain>Бог наш – возлюбивший</plain>
+        </string>
+        <string>
+            <plain>Грешников погибших.</plain>
+        </string>
+        <string>
+            <plain>Взор к Голгофе устремляйте,</plain>
+        </string>
+        <string>
+            <plain>Умер там за нас Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Муж скорбей за нас страдает;</plain>
+        </string>
+        <string>
+            <plain>Он, в венце терновом</plain>
+        </string>
+        <string>
+            <plain>Пред концом суровым,</plain>
+        </string>
+        <string>
+            <plain>Смерть и власть греха свергает</plain>
+        </string>
+        <string>
+            <plain>И страдальцам мир дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он разрушил узы тленья</plain>
+        </string>
+        <string>
+            <plain>И воскрес в день третий</plain>
+        </string>
+        <string>
+            <plain>Рано на рассвете.</plain>
+        </string>
+        <string>
+            <plain>О, воспойте песнь хваленья:</plain>
+        </string>
+        <string>
+            <plain>Подарил нам жизнь Христос.</plain>
+        </string>
+    </verse>
+</song>

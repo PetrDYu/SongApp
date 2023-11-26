@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="394" name="Принят раб Твой на Сион" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Принят раб Твой на Сион;</plain>
+        </string>
+        <string>
+            <plain>Далеко скитался он</plain>
+        </string>
+        <string>
+            <plain>От Твоей Святой горы,</plain>
+        </string>
+        <string>
+            <plain>Расточал Твои дары.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Принят он на Сион!</plain>
+        </string>
+        <string>
+            <plain>Теперь он Твой, да, принят он!</plain>
+        </string>
+        <string>
+            <plain>Принят раб Твой на Сион!</plain>
+        </string>
+        <string>
+            <plain>Он теперь Твой гражданин навсегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Много, много он грешил,</plain>
+        </string>
+        <string>
+            <plain>Но Ты грешного простил;</plain>
+        </string>
+        <string>
+            <plain>И отныне он спасен,</plain>
+        </string>
+        <string>
+            <plain>С ним ликует весь Сион.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как прекрасен Твой Сион!</plain>
+        </string>
+        <string>
+            <plain>В вышине я вижу трон;</plain>
+        </string>
+        <string>
+            <plain>Слышу я: звучит на нем</plain>
+        </string>
+        <string>
+            <plain>Вечной радости псалом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там лучи земных светил</plain>
+        </string>
+        <string>
+            <plain>Свет Твой дивный заменил;</plain>
+        </string>
+        <string>
+            <plain>Там прекрасный сад цветет</plain>
+        </string>
+        <string>
+            <plain>И в нем зреет вечный плод.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Выше всех вершин Сион!</plain>
+        </string>
+        <string>
+            <plain>Над землей вознесся он;</plain>
+        </string>
+        <string>
+            <plain>Я еще внизу горы,</plain>
+        </string>
+        <string>
+            <plain>Но Ты дал Свои дары.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Я вкушаю их душой</plain>
+        </string>
+        <string>
+            <plain>И счастлив перед Тобой;</plain>
+        </string>
+        <string>
+            <plain>Сколь же будет день светлей</plain>
+        </string>
+        <string>
+            <plain>На верху горы Твоей!</plain>
+        </string>
+    </verse>
+</song>

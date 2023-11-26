@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2670" name="Плывет красавицалуна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Плывет красавица-луна,</plain>
+        </string>
+        <string>
+            <plain>Всем щедро свет свой льет она.</plain>
+        </string>
+        <string>
+            <plain>В мгновенье эти небосвод</plain>
+        </string>
+        <string>
+            <plain>К Тебе, Спаситель, свет свой льет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все сокровенное души</plain>
+        </string>
+        <string>
+            <plain>Тебе я говорю в тиши.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Никто из ближних не поймет,</plain>
+        </string>
+        <string>
+            <plain>Вдруг почему душа взгрустнет!</plain>
+        </string>
+        <string>
+            <plain>Понять Один лишь можешь</plain>
+        </string>
+        <string>
+            <plain>Ты Мои желанья и мечты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Опять весна журчит вокруг,</plain>
+        </string>
+        <string>
+            <plain>Растаял лед, проснулся луг,</plain>
+        </string>
+        <string>
+            <plain>Но мне милей небес простор,</plain>
+        </string>
+        <string>
+            <plain>- Куда я поднимаю взор.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И счастье в том, что Ты со мной,</plain>
+        </string>
+        <string>
+            <plain>Мой Иисус - Друг неземной,</plain>
+        </string>
+        <string>
+            <plain>Роптать Тобой не велено,</plain>
+        </string>
+        <string>
+            <plain>Возможно, мне так суждено.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вот светит небо за рекой,</plain>
+        </string>
+        <string>
+            <plain>День предвещается зарей.</plain>
+        </string>
+        <string>
+            <plain>Заветной цели день придет</plain>
+        </string>
+        <string>
+            <plain>- Хвалены дух мой воспоет!</plain>
+        </string>
+    </verse>
+</song>

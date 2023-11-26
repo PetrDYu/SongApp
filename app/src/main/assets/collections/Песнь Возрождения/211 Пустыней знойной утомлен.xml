@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="211" name="Пустыней знойной утомлен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пустыней знойной утомлен,</plain>
+        </string>
+        <string>
+            <plain>Под сень креста иду;</plain>
+        </string>
+        <string>
+            <plain>От мира скорби удален,</plain>
+        </string>
+        <string>
+            <plain>Где лучше сень найду?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Там чистая струя бежит</plain>
+        </string>
+        <string>
+            <plain>И вольно и светло,</plain>
+        </string>
+        <string>
+            <plain>Она мне жажду утолит,</plain>
+        </string>
+        <string>
+            <plain>Что лучше быть могло?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душе измученной покой</plain>
+        </string>
+        <string>
+            <plain>Нашел я у креста,</plain>
+        </string>
+        <string>
+            <plain>И там сложить я посох мой</plain>
+        </string>
+        <string>
+            <plain>Желал бы навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Под сенью мирной и святой,</plain>
+        </string>
+        <string>
+            <plain>Как странник на земле,</plain>
+        </string>
+        <string>
+            <plain>Нашел себе я кров родной,</plain>
+        </string>
+        <string>
+            <plain>Не надо лучше мне.</plain>
+        </string>
+    </verse>
+</song>

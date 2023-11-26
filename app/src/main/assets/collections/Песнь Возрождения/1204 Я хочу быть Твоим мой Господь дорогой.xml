@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1204" name="Я хочу быть Твоим мой Господь дорогой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу быть Твоим, мой Господь дорогой,</plain>
+        </string>
+        <string>
+            <plain>Я хочу в чистоте проводить свои дни.</plain>
+        </string>
+        <string>
+            <plain>Я хочу каждый день и ночною порой</plain>
+        </string>
+        <string>
+            <plain>Твое Имя шептать и лелеять в груди.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я хочу быть Твоим,</plain>
+        </string>
+        <string>
+            <plain>Твое Имя шептать</plain>
+        </string>
+        <string>
+            <plain>День и ночь, день и ночь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я хочу, чтобы сердце свой жизненный срок</plain>
+        </string>
+        <string>
+            <plain>В каждом стуке своем прославляло Тебя!</plain>
+        </string>
+        <string>
+            <plain>Я хочу, чтобы каждый почувствовать мог.</plain>
+        </string>
+        <string>
+            <plain>Как Тебе благодарен, что любишь меня!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу, чтобы подвиг Голгофский сиял</plain>
+        </string>
+        <string>
+            <plain>Перед взором сердечных духовных очей.</plain>
+        </string>
+        <string>
+            <plain>Чтоб Тобою я жил и Тобою дышал.</plain>
+        </string>
+        <string>
+            <plain>Чтобы Ты был дороже мне жизни моей!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты страдал за меня. Ты пролил Свою кровь.</plain>
+        </string>
+        <string>
+            <plain>Ты воскрес для того, чтоб явить славу вновь.</plain>
+        </string>
+        <string>
+            <plain>Хочешь Ты, чтобы я эту жертву ценил,</plain>
+        </string>
+        <string>
+            <plain>И всем сердцем любил, и Тобою лишь жил.</plain>
+        </string>
+    </verse>
+</song>

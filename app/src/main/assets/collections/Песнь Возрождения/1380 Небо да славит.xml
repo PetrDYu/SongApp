@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1380" name="Небо да славит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небо да славит,</plain>
+        </string>
+        <string>
+            <plain>Песнь да направит!</plain>
+        </string>
+        <string>
+            <plain>Ангелы, пойте,</plain>
+        </string>
+        <string>
+            <plain>Встречу устройте!</plain>
+        </string>
+        <string>
+            <plain>Скорби и смерть перенес,</plain>
+        </string>
+        <string>
+            <plain>К небу вознесся Христос.</plain>
+        </string>
+        <string>
+            <plain>Честь Ему!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>К трону придите.</plain>
+        </string>
+        <string>
+            <plain>Главы склоните;</plain>
+        </string>
+        <string>
+            <plain>Хоры, ликуйте,</plain>
+        </string>
+        <string>
+            <plain>В Нем торжествуйте;</plain>
+        </string>
+        <string>
+            <plain>Верных сердца да несут</plain>
+        </string>
+        <string>
+            <plain>Пенье, молитву и труд.</plain>
+        </string>
+        <string>
+            <plain>Честь Ему!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В выси небесной,</plain>
+        </string>
+        <string>
+            <plain>В славе чудесной Ты,</plain>
+        </string>
+        <string>
+            <plain>Вознесенный,</plain>
+        </string>
+        <string>
+            <plain>Славим вселенной.</plain>
+        </string>
+        <string>
+            <plain>В мире, в страданьи, в борьбе</plain>
+        </string>
+        <string>
+            <plain>Служим мы верно Тебе,</plain>
+        </string>
+        <string>
+            <plain>Лишь Тебе!</plain>
+        </string>
+    </verse>
+</song>

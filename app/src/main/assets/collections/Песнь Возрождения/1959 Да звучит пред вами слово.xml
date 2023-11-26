@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1959" name="Да звучит пред вами слово" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Да звучит пред вами слово:</plain>
+        </string>
+        <string>
+            <plain>"Проповедуйте Христа"</plain>
+        </string>
+        <string>
+            <plain>И зовите вестью новой</plain>
+        </string>
+        <string>
+            <plain>Мир к подножию креста.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Проповедуйте в собраньях,</plain>
+        </string>
+        <string>
+            <plain>В городе, на площадях,</plain>
+        </string>
+        <string>
+            <plain>И друзьям в служебных зданьях,</plain>
+        </string>
+        <string>
+            <plain>И в семье, и в поездах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Проповедуйте в сияньи</plain>
+        </string>
+        <string>
+            <plain>Ранних, утренних лучей,</plain>
+        </string>
+        <string>
+            <plain>Проповедуйте в молчаньи</plain>
+        </string>
+        <string>
+            <plain>Полдня, вечера, ночей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В зной и холод, поздно ль, рано ль,</plain>
+        </string>
+        <string>
+            <plain>- Проповедуйте Христа,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в жизни, Богом данной,</plain>
+        </string>
+        <string>
+            <plain>Не остаться без плода.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Проповедуйте повсюду</plain>
+        </string>
+        <string>
+            <plain>В Божьих пламенных речах,</plain>
+        </string>
+        <string>
+            <plain>Дайте место Божью чуду:</plain>
+        </string>
+        <string>
+            <plain>Возрождению в сердцах.</plain>
+        </string>
+    </verse>
+</song>

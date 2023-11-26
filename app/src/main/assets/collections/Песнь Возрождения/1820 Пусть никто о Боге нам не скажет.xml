@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1820" name="Пусть никто о Боге нам не скажет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть никто о Боге нам не скажет,</plain>
+        </string>
+        <string>
+            <plain>Пусть умолкнут песни в тишине...</plain>
+        </string>
+        <string>
+            <plain>Дух Святой духовные пейзажи</plain>
+        </string>
+        <string>
+            <plain>Пишет на духовном полотне.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой, таинственный и нежный.</plain>
+        </string>
+        <string>
+            <plain>Истинный Художник красоты.</plain>
+        </string>
+        <string>
+            <plain>Душу, как виссоном белоснежным.</plain>
+        </string>
+        <string>
+            <plain>Он одел в одежды чистоты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кисть Его в душе изображает</plain>
+        </string>
+        <string>
+            <plain>Мир духовный, мир иных красот.</plain>
+        </string>
+        <string>
+            <plain>Штрих один, - и счастье сияет,</plain>
+        </string>
+        <string>
+            <plain>Штрих второй, - и радость расцветет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И роса жемчужинками ляжет,</plain>
+        </string>
+        <string>
+            <plain>Жаждущую душу освежит, -</plain>
+        </string>
+        <string>
+            <plain>Пусть никто о Боге нам не скажет, -</plain>
+        </string>
+        <string>
+            <plain>Тихо скажет красота души!</plain>
+        </string>
+    </verse>
+</song>

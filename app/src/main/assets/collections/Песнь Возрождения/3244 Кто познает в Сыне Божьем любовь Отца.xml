@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3244" name="Кто познает в Сыне Божьем любовь Отца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто познает в Сыне Божьем любовь Отца?</plain>
+        </string>
+        <string>
+            <plain>О Иисус, дороже всех Ты мне!</plain>
+        </string>
+        <string>
+            <plain>Ты оставил Свой престол чудный в небесах,</plain>
+        </string>
+        <string>
+            <plain>смертью крестной дал спасенье мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Силу чудотворную</plain>
+        </string>
+        <string>
+            <plain>во Христе прославляйте все!</plain>
+        </string>
+        <string>
+            <plain>О, имя лишь одно</plain>
+        </string>
+        <string>
+            <plain>что Господом дано,</plain>
+        </string>
+        <string>
+            <plain>превыше нам всего!</plain>
+        </string>
+        <string>
+            <plain>(нам всего!)</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О спасённые, пусть гусли сильней звучат,</plain>
+        </string>
+        <string>
+            <plain>пойте песни о любви Христа!</plain>
+        </string>
+        <string>
+            <plain>От грехов Он нас омыл и очистил нас,</plain>
+        </string>
+        <string>
+            <plain>в Нём дана спасенья полнота.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Со святыми пусть хор ангелов воспоёт,</plain>
+        </string>
+        <string>
+            <plain>пусть весь мир наполнится хвалой!</plain>
+        </string>
+        <string>
+            <plain>Вечно будем славить Бога за благодать,</plain>
+        </string>
+        <string>
+            <plain>что в Иисусе мы нашли покой!</plain>
+        </string>
+    </verse>
+</song>

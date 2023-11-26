@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1918" name="Горе и скорбь пройдут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горе и скорбь пройдут,</plain>
+        </string>
+        <string>
+            <plain>Нас радости в небе ждут;</plain>
+        </string>
+        <string>
+            <plain>Страданье земное проходит</plain>
+        </string>
+        <string>
+            <plain>И вечная жизнь с неба к нам придет.</plain>
+        </string>
+        <string>
+            <plain>Да, грех и скорбь пройдут,</plain>
+        </string>
+        <string>
+            <plain>Нас радости в небе ждут.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь делает скорби</plain>
+        </string>
+        <string>
+            <plain>Человекам во благо навек,</plain>
+        </string>
+        <string>
+            <plain>Он Сам им помогает</plain>
+        </string>
+        <string>
+            <plain>И дает подкрепленье в борьбе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он делает радость из печали.</plain>
+        </string>
+        <string>
+            <plain>Из скорби добро творит Всесильный.</plain>
+        </string>
+        <string>
+            <plain>Для любящих Бога все ко благу</plain>
+        </string>
+        <string>
+            <plain>Он любовь дарует всем смертным.</plain>
+        </string>
+        <string>
+            <plain>Господь подкрепляет ослабевших,</plain>
+        </string>
+        <string>
+            <plain>Голодным дает Он пищу</plain>
+        </string>
+        <string>
+            <plain>И жаждущим воду живую.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, велик Ты в любви,</plain>
+        </string>
+        <string>
+            <plain>Велик Ты в милосердьи к слабым</plain>
+        </string>
+        <string>
+            <plain>Господь, велик Ты в милосердьи к слабым.</plain>
+        </string>
+        <string>
+            <plain>Ныне мы приходим,</plain>
+        </string>
+        <string>
+            <plain>Мы склонились пред Тобой;</plain>
+        </string>
+        <string>
+            <plain>К Тебе ныне мы приходим.</plain>
+        </string>
+        <string>
+            <plain>Приближаемся к Тебе.</plain>
+        </string>
+    </verse>
+</song>

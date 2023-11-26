@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="331" name="Будет слышен в селеньях Иуды" canon="false" text="" textRus="Н. Чернышев" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Будет слышен в селеньях Иуды</plain>
+        </string>
+        <string>
+            <plain>И на улицах Иерусалима</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Голос радости и веселья,</plain>
+        </string>
+        <string>
+            <plain>Голос невесты и голос жениха.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>О́Д ЙИША́МА БЭ-А́РЭЙ ЕУ́ДА</plain>
+        </string>
+        <string>
+            <plain>У-ВЭ-ХУ́ЦОТ ЙЕРУ́ШАЛАИ́М</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>КО́ЛЬ САСО́Н ВЭ-КО́ЛЬ СИ́МХА</plain>
+        </string>
+        <string>
+            <plain>КО́ЛЬ ХАТА́Н ВЭ-КО́ЛЬ КАЛА́</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

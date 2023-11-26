@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2325" name="Со мной ли Он когда в сердце стон" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Со мной ли Он, когда в сердце стон,</plain>
+        </string>
+        <string>
+            <plain>Когда горе сжимает грудь,</plain>
+        </string>
+        <string>
+            <plain>Когда ряд забот с каждым днём растёт,</plain>
+        </string>
+        <string>
+            <plain>И так труден жизненный путь?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О да, всегда</plain>
+        </string>
+        <string>
+            <plain>Христос со мной,</plain>
+        </string>
+        <string>
+            <plain>Он тронут моей нуждой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Со мной ли Он, когда омрачён</plain>
+        </string>
+        <string>
+            <plain>Путь мой тучей скорбей и бед?</plain>
+        </string>
+        <string>
+            <plain>Когда ясный день скроет ночи тень,</plain>
+        </string>
+        <string>
+            <plain>Подаст ли Он помощь и свет?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Со мной ли Он, когда путь пройдём</plain>
+        </string>
+        <string>
+            <plain>И "прощайте" скажу друзьям,</plain>
+        </string>
+        <string>
+            <plain>Сердце кончит труд, в вечность отзовут;</plain>
+        </string>
+        <string>
+            <plain>Будет ли Он со мною и там?</plain>
+        </string>
+    </verse>
+</song>

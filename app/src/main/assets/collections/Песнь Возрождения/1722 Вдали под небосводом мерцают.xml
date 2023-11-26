@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1722" name="Вдали под небосводом мерцают" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вдали, под небосводом, мерцают</plain>
+        </string>
+        <string>
+            <plain>Звезды, свой путь там совершают,</plain>
+        </string>
+        <string>
+            <plain>И день и ночь они напоминают:</plain>
+        </string>
+        <string>
+            <plain>Вот он, посмотрите, чудный Бог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвала Творцу, хвала, от сердца</plain>
+        </string>
+        <string>
+            <plain>Мы воспоем подвиг Христа,</plain>
+        </string>
+        <string>
+            <plain>И всегда будем помнить и любить,</plain>
+        </string>
+        <string>
+            <plain>Как возлюбил Он этот мир,</plain>
+        </string>
+        <string>
+            <plain>Святую кровь невинную пролил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И всё вокруг мы видим, созерцаем,</plain>
+        </string>
+        <string>
+            <plain>Будто бы в сознаньи понимаем,</plain>
+        </string>
+        <string>
+            <plain>Но почему сердца не принимают</plain>
+        </string>
+        <string>
+            <plain>Доброго любимого Творца?!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сегодня - благодать и день спасенья,</plain>
+        </string>
+        <string>
+            <plain>Завтра - нет! Не отложи на время</plain>
+        </string>
+        <string>
+            <plain>Призыв Христа, Его святое слово,</plain>
+        </string>
+        <string>
+            <plain>Пусть оно коснётся и тебя.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1152" name="Купи милый друг тот елей благодатный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Купи, милый друг, тот елей благодатный.</plain>
+        </string>
+        <string>
+            <plain>Пока продается, купи!</plain>
+        </string>
+        <string>
+            <plain>Доверху наполни сосуд твой елеем, -</plain>
+        </string>
+        <string>
+            <plain>Навстречу Христа выходи!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Когда же наполнишь, поправь свой светильник,</plain>
+        </string>
+        <string>
+            <plain>Огонь в своем сердце зажги.</plain>
+        </string>
+        <string>
+            <plain>Придет твой Спаситель, приветливо скажет:</plain>
+        </string>
+        <string>
+            <plain>"В покой Мой блаженный войди".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знай, милый мой друг, если ты не ответишь</plain>
+        </string>
+        <string>
+            <plain>На зов Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>То вскоре услышишь печальное слово:</plain>
+        </string>
+        <string>
+            <plain>"Тебе уготована тьма".</plain>
+        </string>
+    </verse>
+</song>

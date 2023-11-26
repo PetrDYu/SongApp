@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2749" name="Тихий вечер опустился над водою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихий вечер опустился над водою,</plain>
+        </string>
+        <string>
+            <plain>Бригантина поднимает паруса.</plain>
+        </string>
+        <string>
+            <plain>Пригласите же сегодня вы с собою</plain>
+        </string>
+        <string>
+            <plain>Друга верного - Спасителя Христа.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пусть всегда Он будет вашим Капитаном,</plain>
+        </string>
+        <string>
+            <plain>В дальнем плаванье направит путь ваш Сам,</plain>
+        </string>
+        <string>
+            <plain>Чтобы вы в общенье с Богом непрестанно</plain>
+        </string>
+        <string>
+            <plain>К вечной пристани стремились, к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ну, а если буря в жизни вдруг настанет,</plain>
+        </string>
+        <string>
+            <plain>Знайте: штормы повинуются Ему.</plain>
+        </string>
+        <string>
+            <plain>Скажет слово Он, и буря перестанет,</plain>
+        </string>
+        <string>
+            <plain>Если только обратитесь вы к Нему.</plain>
+        </string>
+    </verse>
+</song>

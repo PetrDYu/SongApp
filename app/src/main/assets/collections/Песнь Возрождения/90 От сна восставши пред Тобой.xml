@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="90" name="От сна восставши пред Тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От сна восставши, пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Творец мой, предстою.</plain>
+        </string>
+        <string>
+            <plain>Благоговейною душой</plain>
+        </string>
+        <string>
+            <plain>Тебя, Господь, молю.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я мирно ночью почивал,</plain>
+        </string>
+        <string>
+            <plain>Прикрыт, храним от зла,</plain>
+        </string>
+        <string>
+            <plain>Пока день новый не настал,</plain>
+        </string>
+        <string>
+            <plain>Пока заря взошла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Храни меня от зла и днем,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мирно мне пройти</plain>
+        </string>
+        <string>
+            <plain>Твоим спасительным путем</plain>
+        </string>
+        <string>
+            <plain>И кротко крест нести.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пошли мне Духа благодать</plain>
+        </string>
+        <string>
+            <plain>Ходить всегда с Тобой;</plain>
+        </string>
+        <string>
+            <plain>Когда ж захочешь жизнь прервать</plain>
+        </string>
+        <string>
+            <plain>Прими дух слабый мой.</plain>
+        </string>
+    </verse>
+</song>

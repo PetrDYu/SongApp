@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="901" name="Если твой дух утомится" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если твой дух утомится</plain>
+        </string>
+        <string>
+            <plain>В трудной житейской борьбе,</plain>
+        </string>
+        <string>
+            <plain>Друг мой, начни ты молиться</plain>
+        </string>
+        <string>
+            <plain>- Это даст силу тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто и кто утомленный,</plain>
+        </string>
+        <string>
+            <plain>К Богу пусть тот воззовет.</plain>
+        </string>
+        <string>
+            <plain>Сердцу, усталому в жизни,</plain>
+        </string>
+        <string>
+            <plain>Силу молитва дает.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если заботы с нуждою</plain>
+        </string>
+        <string>
+            <plain>Давят усталую грудь,</plain>
+        </string>
+        <string>
+            <plain>Бог да пребудет с тобою</plain>
+        </string>
+        <string>
+            <plain>И уравняет твой путь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если мечты и желанья</plain>
+        </string>
+        <string>
+            <plain>В жизни разбиты твои,</plain>
+        </string>
+        <string>
+            <plain>Не оставляй упованья в силу</plain>
+        </string>
+        <string>
+            <plain>Христовой любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если болезнь и страданья</plain>
+        </string>
+        <string>
+            <plain>Душу твою потрясут,</plain>
+        </string>
+        <string>
+            <plain>В тяжкие дни испытанья</plain>
+        </string>
+        <string>
+            <plain>Слезы из глаз потекут,</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Друг мой, то нужно молиться,</plain>
+        </string>
+        <string>
+            <plain>Сила, поверь же в мольбе.</plain>
+        </string>
+        <string>
+            <plain>Ею твой дух укрепится,</plain>
+        </string>
+        <string>
+            <plain>И станет легче тебе.</plain>
+        </string>
+    </verse>
+</song>

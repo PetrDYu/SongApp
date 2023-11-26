@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="262" name="О малый город Вифлеем, ты спал спокойным сном," canon="false" text="Ф. Брукса" textRus="" music="Л.Х. Реднера" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О малый город Вифлеем, ты спал спокойным сном,</plain>
+        </string>
+        <string>
+            <plain>Когда рождался новый день в безмолвии ночном.</plain>
+        </string>
+        <string>
+            <plain>Внезапно тьму рассеял небесный, дивный свет;</plain>
+        </string>
+        <string>
+            <plain>Родился Тот, Кого народ ждал много, много лет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сошел Христос в долину слез, чтоб в небо нас привесть,</plain>
+        </string>
+        <string>
+            <plain>И в царство зла с небес пришла Евангельская весть.</plain>
+        </string>
+        <string>
+            <plain>О звезды! весть о Чудном несите вдаль и вширь</plain>
+        </string>
+        <string>
+            <plain>И пойте песнь Тому, Кто есть, Кто всем дарует мир.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В тиши ночной дар неземной спустился к нам с высот.</plain>
+        </string>
+        <string>
+            <plain>Людским сердцам Господь всегда дары в тиши дает.</plain>
+        </string>
+        <string>
+            <plain>Неслышно и незримо, средь шума, бурь и гроз</plain>
+        </string>
+        <string>
+            <plain>Готовым ждать, Его принять является Христос.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О Божий Сын, нас не покинь, приди в любви Своей,</plain>
+        </string>
+        <string>
+            <plain>Грех изгони и в наши дни родись в сердцах людей.</plain>
+        </string>
+        <string>
+            <plain>Хор ангелов небесных поет о Боге сил.</plain>
+        </string>
+        <string>
+            <plain>Приди сейчас, вселися в нас, Иисус Эммануил!</plain>
+        </string>
+    </verse>
+</song>

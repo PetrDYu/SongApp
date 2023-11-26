@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="364" name="Бог любит малых воробьев, от гибели храня" canon="false" text="М. Страуб" textRus="" music="С.В. Страуба" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог любит малых воробьев, от гибели храня;</plain>
+        </string>
+        <string>
+            <plain>И если пташек любит Бог, Он любит и меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, любит Он! Да, любит Он!</plain>
+        </string>
+        <string>
+            <plain>Я знаю: любит Он!</plain>
+        </string>
+        <string>
+            <plain>Он любит маленьких детей,</plain>
+        </string>
+        <string>
+            <plain>Он любит и меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог любит лилию в полях у тихого ручья,</plain>
+        </string>
+        <string>
+            <plain>И если любит Он цветы, Он любит и меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог сотворил цветы и птиц, их светом осеня,</plain>
+        </string>
+        <string>
+            <plain>Он не забудет и детей, Он любит и меня.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="301" name="Под влияньем наставлений" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Под влияньем наставлений</plain>
+        </string>
+        <string>
+            <plain>Пред собранием Твоим</plain>
+        </string>
+        <string>
+            <plain>Пали люди на колени</plain>
+        </string>
+        <string>
+            <plain>С сокрушением святым.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, Духом животворным</plain>
+        </string>
+        <string>
+            <plain>На сердца друзей повей,</plain>
+        </string>
+        <string>
+            <plain>Дай слова устам покорным,</plain>
+        </string>
+        <string>
+            <plain>Дай молитву горячей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отгони от уст дрожащих</plain>
+        </string>
+        <string>
+            <plain>Ложный стыд и страх плотской;</plain>
+        </string>
+        <string>
+            <plain>Вдохнови друзей молчащих</plain>
+        </string>
+        <string>
+            <plain>Пламенеющей мольбой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, не дай, чтоб пропустили</plain>
+        </string>
+        <string>
+            <plain>Этот дивный миг они,</plain>
+        </string>
+        <string>
+            <plain>Чтоб теперь не угасили</plain>
+        </string>
+        <string>
+            <plain>В сердце чудные огни.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Дай Тебе душой отдаться</plain>
+        </string>
+        <string>
+            <plain>На служенье навсегда,</plain>
+        </string>
+        <string>
+            <plain>На пути не колебаться</plain>
+        </string>
+        <string>
+            <plain>Во все дни и все года.</plain>
+        </string>
+    </verse>
+</song>

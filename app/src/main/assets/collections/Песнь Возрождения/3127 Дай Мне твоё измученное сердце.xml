@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3127" name="Дай Мне твоё измученное сердце" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дай Мне твоё измученное сердце,</plain>
+        </string>
+        <string>
+            <plain>больное, слабое отдай.</plain>
+        </string>
+        <string>
+            <plain>Тебе все слёзы жгучие отру Я,</plain>
+        </string>
+        <string>
+            <plain>приди и на Меня взирай!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дай сердце Мне в нужде, в беде:</plain>
+        </string>
+        <string>
+            <plain>купил тебя Собою Я!</plain>
+        </string>
+        <string>
+            <plain>Дай сердце Мне,</plain>
+        </string>
+        <string>
+            <plain>всё сердце Мне,</plain>
+        </string>
+        <string>
+            <plain>на крест взгляни</plain>
+        </string>
+        <string>
+            <plain>и ввек живи!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай сердце Мне - найдёшь покой</plain>
+        </string>
+        <string>
+            <plain>блаженный, который миру незнаком.</plain>
+        </string>
+        <string>
+            <plain>Я дам свободу от греха и гнёта,</plain>
+        </string>
+        <string>
+            <plain>зажгу тебя святым огнём!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай сердце Мне, и Я пойду</plain>
+        </string>
+        <string>
+            <plain>с тобою, тебя Я верно поведу.</plain>
+        </string>
+        <string>
+            <plain>И если ты оступишься ногою,</plain>
+        </string>
+        <string>
+            <plain>не бойся: Я тебя держу!</plain>
+        </string>
+    </verse>
+</song>

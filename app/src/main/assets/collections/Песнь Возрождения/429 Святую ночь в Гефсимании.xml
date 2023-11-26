@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="429" name="Святую ночь в Гефсимании" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Святую ночь в Гефсимании</plain>
+        </string>
+        <string>
+            <plain>Забыть я не могу,</plain>
+        </string>
+        <string>
+            <plain>Как в смертной скорби и тоске</plain>
+        </string>
+        <string>
+            <plain>Молился Он Отцу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не забуду я! Не забуду я!</plain>
+        </string>
+        <string>
+            <plain>Забуду ль? Никогда!</plain>
+        </string>
+        <string>
+            <plain>В саду молившего</plain>
+        </string>
+        <string>
+            <plain>Отца Святого Агнца</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ночной порой в саду один</plain>
+        </string>
+        <string>
+            <plain>Он слезы проливал,</plain>
+        </string>
+        <string>
+            <plain>И за меня, за грешника,</plain>
+        </string>
+        <string>
+            <plain>Жестоко так страдал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Остыну ль верою в Тебя,</plain>
+        </string>
+        <string>
+            <plain>В сомненье ли впаду,</plain>
+        </string>
+        <string>
+            <plain>О Иисус, напомни мне,</plain>
+        </string>
+        <string>
+            <plain>Что было там в саду.</plain>
+        </string>
+    </verse>
+</song>

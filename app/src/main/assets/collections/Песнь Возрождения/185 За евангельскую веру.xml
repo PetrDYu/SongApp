@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="185" name="За евангельскую веру" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За евангельскую веру,</plain>
+        </string>
+        <string>
+            <plain>За Христа мы постоим;</plain>
+        </string>
+        <string>
+            <plain>Следуя Его примеру,</plain>
+        </string>
+        <string>
+            <plain>Все вперед, вперед за Ним!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дружной, радостной семьею,</plain>
+        </string>
+        <string>
+            <plain>Как один Его народ,</plain>
+        </string>
+        <string>
+            <plain>Одним сердцем и душою</plain>
+        </string>
+        <string>
+            <plain>За Христом вперед, вперед!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жарок бой и страшно пламя</plain>
+        </string>
+        <string>
+            <plain>И колеблются места;</plain>
+        </string>
+        <string>
+            <plain>Подымите выше знамя</plain>
+        </string>
+        <string>
+            <plain>Победителя Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире жизни равнодушной</plain>
+        </string>
+        <string>
+            <plain>Наш Христос пренебрежен;</plain>
+        </string>
+        <string>
+            <plain>Постоим единодушно</plain>
+        </string>
+        <string>
+            <plain>За Его святой закон.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Крепость веры, дщерь Сиона,</plain>
+        </string>
+        <string>
+            <plain>Будем дружно защищать;</plain>
+        </string>
+        <string>
+            <plain>И оружьем Гедеона</plain>
+        </string>
+        <string>
+            <plain>Вражью силу отражать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Подвиг правды, труд суровый</plain>
+        </string>
+        <string>
+            <plain>Будем смело совершать</plain>
+        </string>
+        <string>
+            <plain>И шатры любви Христовой</plain>
+        </string>
+        <string>
+            <plain>Будем в мире расширять.</plain>
+        </string>
+    </verse>
+</song>

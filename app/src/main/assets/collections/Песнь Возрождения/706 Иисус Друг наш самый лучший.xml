@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="706" name="Иисус Друг наш самый лучший" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус - Друг наш самый лучший!</plain>
+        </string>
+        <string>
+            <plain>Тяготят ли нас заботы дня,-</plain>
+        </string>
+        <string>
+            <plain>Сердца раны исцелит, силу, бодрость Он вселит.</plain>
+        </string>
+        <string>
+            <plain>Да, Иисус - Друг наш самый лучший.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус - Друг наш самый лучший,</plain>
+        </string>
+        <string>
+            <plain>Иисус - Друг наш самый лучший,</plain>
+        </string>
+        <string>
+            <plain>Внемлет нашей Он мольбе и поддержит нас в беде,</plain>
+        </string>
+        <string>
+            <plain>Да, Иисус - Друг наш самый лучший.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В Иисусе нашел я Друга,</plain>
+        </string>
+        <string>
+            <plain>Мир и радость Он душе дает,</plain>
+        </string>
+        <string>
+            <plain>Опираясь на Него, не боюсь я ничего.</plain>
+        </string>
+        <string>
+            <plain>Да, Иисус - Друг наш самый лучший.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прохожу ли чрез воды скорби,</plain>
+        </string>
+        <string>
+            <plain>Волны грозные шумят кругом,</plain>
+        </string>
+        <string>
+            <plain>Страх мне душу не теснит, ведь, Господь меня хранит!</plain>
+        </string>
+        <string>
+            <plain>Да, Иисус - Друг наш самый лучший!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда все мы соберемся</plain>
+        </string>
+        <string>
+            <plain>В светлой Родине на небесах,</plain>
+        </string>
+        <string>
+            <plain>Как восхвалим мы тогда имя чудное Христа!</plain>
+        </string>
+        <string>
+            <plain>Да, Иисус - Друг наш самый лучший!</plain>
+        </string>
+    </verse>
+</song>

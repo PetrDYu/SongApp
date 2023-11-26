@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="291" name="О возвещайте вы о Христе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, возвещайте вы о Христе,</plain>
+        </string>
+        <string>
+            <plain>Кто нам дарует жизнь в полноте, -</plain>
+        </string>
+        <string>
+            <plain>О, прославляйте Его любовь,</plain>
+        </string>
+        <string>
+            <plain>Дело Иисуса воспойте вновь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, возвещайте вы о Христе!</plain>
+        </string>
+        <string>
+            <plain>За нас Он умер на кресте;</plain>
+        </string>
+        <string>
+            <plain>Он открыл небо для всех нас,</plain>
+        </string>
+        <string>
+            <plain>Ему вы пойте во всякий час.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, возвещайте вы о Христе,</plain>
+        </string>
+        <string>
+            <plain>Все победила Его рука, -</plain>
+        </string>
+        <string>
+            <plain>Городом будьте на высоте,</plain>
+        </string>
+        <string>
+            <plain>Что виден миру издалека.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, возвещайте о Нем сердца,</plain>
+        </string>
+        <string>
+            <plain>И о спасенье для всех людей, -</plain>
+        </string>
+        <string>
+            <plain>Как Он исполнил завет Отца,</plain>
+        </string>
+        <string>
+            <plain>Что сотворил Он в любви своей.</plain>
+        </string>
+    </verse>
+</song>

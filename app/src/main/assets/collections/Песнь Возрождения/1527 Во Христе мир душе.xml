@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1527" name="Во Христе мир душе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Во Христе мир душе</plain>
+        </string>
+        <string>
+            <plain>поспеши обрести.</plain>
+        </string>
+        <string>
+            <plain>Кто грехом утружден.</plain>
+        </string>
+        <string>
+            <plain>Даст покой только Он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Друг, утомленный в пути.</plain>
+        </string>
+        <string>
+            <plain>Мира душе не найти.</plain>
+        </string>
+        <string>
+            <plain>Если Христа ты замедлишь принять,</plain>
+        </string>
+        <string>
+            <plain>Можешь навек опоздать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я не мало блуждал</plain>
+        </string>
+        <string>
+            <plain>И все счастье искал.</plain>
+        </string>
+        <string>
+            <plain>Всюду тьма, а не свет.</plain>
+        </string>
+        <string>
+            <plain>Значит счастья там нет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но души чистота</plain>
+        </string>
+        <string>
+            <plain>Для тебя у Христа,</plain>
+        </string>
+        <string>
+            <plain>Чтоб ты счастье познал.</plain>
+        </string>
+        <string>
+            <plain>Он жестоко страдал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не страшися суда</plain>
+        </string>
+        <string>
+            <plain>И не бойся стыда.</plain>
+        </string>
+        <string>
+            <plain>Чтоб ты счастье познал,</plain>
+        </string>
+        <string>
+            <plain>Он жестоко страдал.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Друг, утомленный в пути.</plain>
+        </string>
+        <string>
+            <plain>Мир во Христе обрети,</plain>
+        </string>
+        <string>
+            <plain>Верой Христа постарайся принять.</plain>
+        </string>
+        <string>
+            <plain>Вечное счастье познать.</plain>
+        </string>
+    </chorus>
+</song>

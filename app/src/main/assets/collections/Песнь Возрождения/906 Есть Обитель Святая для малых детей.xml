@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="906" name="Есть Обитель Святая для малых детей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть Обитель Святая для малых детей,</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель туда их принял,</plain>
+        </string>
+        <string>
+            <plain>Вечным светом небесным  Он их осиял,</plain>
+        </string>
+        <string>
+            <plain>Далеко от греха и скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Песне ангельской вторят они всей душой,</plain>
+        </string>
+        <string>
+            <plain>Прославляя Иисуса Христа.</plain>
+        </string>
+        <string>
+            <plain>Агнец Божий, избавивший их от греха,</plain>
+        </string>
+        <string>
+            <plain>Он узреть им дал лик Свой Святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он их в доме Отца Своего водворил,</plain>
+        </string>
+        <string>
+            <plain>Хлебом жизни питает их Сам.</plain>
+        </string>
+        <string>
+            <plain>Нет уж голода их благодарным сердцам,</plain>
+        </string>
+        <string>
+            <plain>Он навеки его утолил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он поит их живительной, чистой водой,</plain>
+        </string>
+        <string>
+            <plain>Обнимает любовью Своей,</plain>
+        </string>
+        <string>
+            <plain>Утешает на лоне Своем Он детей,</plain>
+        </string>
+        <string>
+            <plain>Там им вечный, блаженный покой.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Чудный Божий приют,</plain>
+        </string>
+        <string>
+            <plain>Чудный Божий приют</plain>
+        </string>
+        <string>
+            <plain>Уготован для малых детей!</plain>
+        </string>
+        <string>
+            <plain>Там уста их полны</plain>
+        </string>
+        <string>
+            <plain>Непрестанной хвалы.</plain>
+        </string>
+        <string>
+            <plain>Чудный Божий приют для детей!</plain>
+        </string>
+    </chorus>
+</song>

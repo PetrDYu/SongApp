@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1670" name="Я цвет жизни своей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я цвет жизни своей</plain>
+        </string>
+        <string>
+            <plain>Посвящаю Тебе.</plain>
+        </string>
+        <string>
+            <plain>Славить в юности я</plain>
+        </string>
+        <string>
+            <plain>Хочу Бога сильней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Буду петь лишь Тебе,</plain>
+        </string>
+        <string>
+            <plain>Тебя славить всегда,</plain>
+        </string>
+        <string>
+            <plain>Вжертву голос я свой</plain>
+        </string>
+        <string>
+            <plain>Посвящу для Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лет немного прошло,</plain>
+        </string>
+        <string>
+            <plain>Как я Богу служу.</plain>
+        </string>
+        <string>
+            <plain>Но хочу навсегда</plain>
+        </string>
+        <string>
+            <plain>Я отдаться Ему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В пору юности мы будем</plain>
+        </string>
+        <string>
+            <plain>Богу служить</plain>
+        </string>
+        <string>
+            <plain>И красу юных лет</plain>
+        </string>
+        <string>
+            <plain>Для Творца лишь дарить.</plain>
+        </string>
+    </verse>
+</song>

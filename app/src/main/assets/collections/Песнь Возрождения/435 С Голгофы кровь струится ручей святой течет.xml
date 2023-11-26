@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="435" name="С Голгофы кровь струится ручей святой течет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С Голгофы кровь струится, ручей святой течет;</plain>
+        </string>
+        <string>
+            <plain>В нем грешник убелится, лишь к Господу придет.</plain>
+        </string>
+        <string>
+            <plain>Христос зовет с любовью к спасенью грешных всех:</plain>
+        </string>
+        <string>
+            <plain>"Я Сам Своею кровью готов омыть ваш грех".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, Иисус на Голгофе кровь дорогую пролил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грешникам спасенье дать.</plain>
+        </string>
+        <string>
+            <plain>Да, грешникам спасенье дать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда греха оковы теснят нас тяжело,</plain>
+        </string>
+        <string>
+            <plain>Лишь вспомним: мы - Христовы - и будет нам легко.</plain>
+        </string>
+        <string>
+            <plain>Господь хранит, спасает от пагубных сетей;</plain>
+        </string>
+        <string>
+            <plain>Он нас оберегает среди земных стезей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Источник, людям данный, блаженства и даров</plain>
+        </string>
+        <string>
+            <plain>Открыл нам путь желанный к стране святых духов.</plain>
+        </string>
+        <string>
+            <plain>Там святость, совершенство, там радости венец,</plain>
+        </string>
+        <string>
+            <plain>Там песни, там блаженство, там счастье для сердец.</plain>
+        </string>
+    </verse>
+</song>

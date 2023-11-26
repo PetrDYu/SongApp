@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1180" name="Слышна в мире весть о том повсюду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышна в мире весть о том повсюду:</plain>
+        </string>
+        <string>
+            <plain>Властелин искупленной души,</plain>
+        </string>
+        <string>
+            <plain>Святостью и славой озаренный.</plain>
+        </string>
+        <string>
+            <plain>За невестой - Церковью - спешит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как прекрасно чудное венчанье</plain>
+        </string>
+        <string>
+            <plain>У престола Господа Отца,</plain>
+        </string>
+        <string>
+            <plain>Где небесных хоров ликованье.</plain>
+        </string>
+        <string>
+            <plain>Счастье и блаженство без конца!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>День придет, и встреча та настанет</plain>
+        </string>
+        <string>
+            <plain>На ладонях белых облаков.</plain>
+        </string>
+        <string>
+            <plain>И невеста перед Ним предстанет</plain>
+        </string>
+        <string>
+            <plain>Сохранившей верность и любовь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Торжествуй, наследница Христова,</plain>
+        </string>
+        <string>
+            <plain>- На тебе спасения печать.</plain>
+        </string>
+        <string>
+            <plain>Бодрствуй и молись и будь готова</plain>
+        </string>
+        <string>
+            <plain>Господа желанного встречать.</plain>
+        </string>
+    </verse>
+</song>

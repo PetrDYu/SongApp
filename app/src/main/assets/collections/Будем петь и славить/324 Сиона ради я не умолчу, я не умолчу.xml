@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="324" name="Сиона ради я не умолчу, я не умолчу" canon="false" text="Нэнси Себастьян" textRus="И. Языковой, Ю. Пастернака" music="Нэнси Себастьян" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Сиона ради я не умолчу, я не умолчу.</plain>
+        </string>
+        <string>
+            <plain>Иерусалима ради нет покоя мне, я не умолчу.</plain>
+        </string>
+        <string>
+            <plain>Чтобы правда Его явилась всем, я не умолчу,</plain>
+        </string>
+        <string>
+            <plain>И спасения свет воссиял для всех, я не умолчу.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>ЛЭМА́АН ЦИ́ОН ЛО́ ЭХЭШЭ́</plain>
+        </string>
+        <string>
+            <plain>ЛО́ ЛО́ ЭХЭШЭ́</plain>
+        </string>
+        <string>
+            <plain>УЛМА́АН ЙЕРУШАЛА́ИМ ЛО́ ЭШКО́Т</plain>
+        </string>
+        <string>
+            <plain>ЛО́ ЛО́ ЭХЭШЭ́</plain>
+        </string>
+        <string>
+            <plain>АД ЙЭЦЭ́ КА́НОГА́ ЦИДКА́</plain>
+        </string>
+        <string>
+            <plain>ЛО́ ЛО́ ЭХЭШЭ́</plain>
+        </string>
+        <string>
+            <plain>ВИШУ́АТА́ КЭЛАПИ́Д ИВА́Р</plain>
+        </string>
+        <string>
+            <plain>ЛО́ ЛО́ ЭХЭШЭ́</plain>
+        </string>
+    </verse>
+</song>

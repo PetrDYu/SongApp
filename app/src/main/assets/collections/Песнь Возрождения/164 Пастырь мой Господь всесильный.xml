@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="164" name="Пастырь мой Господь всесильный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пастырь мой - Господь всесильный,</plain>
+        </string>
+        <string>
+            <plain>С Ним нужды не знаю я,</plain>
+        </string>
+        <string>
+            <plain>И на пажити обильной</plain>
+        </string>
+        <string>
+            <plain>Он покоит Сам меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Путь мой Пастырь направляет</plain>
+        </string>
+        <string>
+            <plain>К тихим сладостным водам;</plain>
+        </string>
+        <string>
+            <plain>Душу Он мне подкрепляет,</plain>
+        </string>
+        <string>
+            <plain>По Своим ведет стезям.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если я пойду долиной,</plain>
+        </string>
+        <string>
+            <plain>Где лишь тьма и смерть царят –</plain>
+        </string>
+        <string>
+            <plain>Ковы зла на миг единый</plain>
+        </string>
+        <string>
+            <plain>Сердца мне не устрашат.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Добрый Пастырь! Ты со мною,</plain>
+        </string>
+        <string>
+            <plain>Посох Твой и жезл святой</plain>
+        </string>
+        <string>
+            <plain>К мир вечному, к покою</plain>
+        </string>
+        <string>
+            <plain>Дух направят слабый мой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Из любви меня жалея,</plain>
+        </string>
+        <string>
+            <plain>Ты даришь трапезу мне.</plain>
+        </string>
+        <string>
+            <plain>И меня струей елея</plain>
+        </string>
+        <string>
+            <plain>Умастил Ты в тишине.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О, как радостно и дивно</plain>
+        </string>
+        <string>
+            <plain>Под Твоим покровом жить,</plain>
+        </string>
+        <string>
+            <plain>Быть с Тобою непрерывно</plain>
+        </string>
+        <string>
+            <plain>И Твоим путем ходить!</plain>
+        </string>
+    </verse>
+</song>

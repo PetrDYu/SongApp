@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="397" name="Все Иисусу отдаю я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все Иисусу отдаю я,</plain>
+        </string>
+        <string>
+            <plain>Весь Ему принадлежу;</plain>
+        </string>
+        <string>
+            <plain>В упованье и смиренье</plain>
+        </string>
+        <string>
+            <plain>Пред лицом Его хожу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все я отдаю,</plain>
+        </string>
+        <string>
+            <plain>Все я отдаю;</plain>
+        </string>
+        <string>
+            <plain>Все Тебе, мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Все я отдаю.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все Иисусу отдаю я,</plain>
+        </string>
+        <string>
+            <plain>Все кладу к Его ногам.</plain>
+        </string>
+        <string>
+            <plain>Суету отверг земную,</plain>
+        </string>
+        <string>
+            <plain>Направляюсь к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все Иисусу отдаю я,</plain>
+        </string>
+        <string>
+            <plain>Весь хочу Христовым быть.</plain>
+        </string>
+        <string>
+            <plain>Дух Предвечный да научит</plain>
+        </string>
+        <string>
+            <plain>Знать Христа, Христа любить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все Иисусу отдаю я.</plain>
+        </string>
+        <string>
+            <plain>Боже, храм во мне создай!</plain>
+        </string>
+        <string>
+            <plain>Благодатью и любовью</plain>
+        </string>
+        <string>
+            <plain>Ум и сердце наполняй.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Все Иисусу отдаю я.</plain>
+        </string>
+        <string>
+            <plain>Чудо Он во мне свершил:</plain>
+        </string>
+        <string>
+            <plain>Мир и радость дал святую.</plain>
+        </string>
+        <string>
+            <plain>Слава, слава Богу сил!</plain>
+        </string>
+    </verse>
+</song>

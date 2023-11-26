@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3163" name="Кто пред Судьёю устоит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто пред Судьёю устоит?</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>Спеши, о грешник, путь открыт!</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В небо кто войдёт?</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>В небо кто войдёт?</plain>
+        </string>
+        <string>
+            <plain>Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О грешник, к Господу приди!</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>- Очистит кровь твои грехи.</plain>
+        </string>
+        <string>
+            <plain>Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто ещё любит этот мир,</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>Войдёт ли он на брачный пир?</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Быть вы должны белей, чем снег,</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>- иначе вам страдать вовек!</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хочешь ты счастье обрести?</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+        <string>
+            <plain>- Заблудший, к Господу приди!</plain>
+        </string>
+        <string>
+            <plain>- Бога узрит лишь тот, кто чист!</plain>
+        </string>
+    </verse>
+</song>

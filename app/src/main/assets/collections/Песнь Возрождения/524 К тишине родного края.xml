@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="524" name="К тишине родного края" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К тишине родного края</plain>
+        </string>
+        <string>
+            <plain>Возношусь я всей душой;</plain>
+        </string>
+        <string>
+            <plain>Радость чистая, святая</plain>
+        </string>
+        <string>
+            <plain>Светлой там течет рекой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я к Отчизне рвусь душою,</plain>
+        </string>
+        <string>
+            <plain>Направляя к небу взор,</plain>
+        </string>
+        <string>
+            <plain>Там, где цепью золотою</plain>
+        </string>
+        <string>
+            <plain>Звезд блистает дивный хор.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там в садах тенистых рая</plain>
+        </string>
+        <string>
+            <plain>Миром расцвели поля;</plain>
+        </string>
+        <string>
+            <plain>Льется песнь не умолкая,</plain>
+        </string>
+        <string>
+            <plain>Всемогущего хваля.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там бежит источник счастья,</plain>
+        </string>
+        <string>
+            <plain>Напояя все кругом;</plain>
+        </string>
+        <string>
+            <plain>Нет ни бури, ни ненастья, -</plain>
+        </string>
+        <string>
+            <plain>Иисус там все во всем.</plain>
+        </string>
+    </verse>
+</song>

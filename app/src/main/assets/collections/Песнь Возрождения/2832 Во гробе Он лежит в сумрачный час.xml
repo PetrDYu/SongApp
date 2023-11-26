@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2832" name="Во гробе Он лежит в сумрачный час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Во гробе Он лежит в сумрачный час.</plain>
+        </string>
+        <string>
+            <plain>Божий любимый Сын умер за нас.</plain>
+        </string>
+        <string>
+            <plain>Слушай, ангел говорит:</plain>
+        </string>
+        <string>
+            <plain>«Господь воскрес из мертвых!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Весть несется вдаль:</plain>
+        </string>
+        <string>
+            <plain>Иисус, Сын Божий смерть попрал!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Счастлив я и рад -</plain>
+        </string>
+        <string>
+            <plain>победил Он смерть и ад!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На утренней заре к гробу идет</plain>
+        </string>
+        <string>
+            <plain>Мария с Магдалы, мази несет.</plain>
+        </string>
+        <string>
+            <plain>Слушай, ангел говорит:</plain>
+        </string>
+        <string>
+            <plain>«Господь воскрес из мертвых!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дело спасения Он совершил,</plain>
+        </string>
+        <string>
+            <plain>любовь безмерную Он нас дарил.</plain>
+        </string>
+        <string>
+            <plain>Слушай, ангел говорит:</plain>
+        </string>
+        <string>
+            <plain>«Господь воскрес из мертвых!»</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все, в чем дыханье есть, Бога хвалил,</plain>
+        </string>
+        <string>
+            <plain>песню хвалы Ему ты вознеси!</plain>
+        </string>
+        <string>
+            <plain>Слушай, ангел говорит:</plain>
+        </string>
+        <string>
+            <plain>«Господь воскрес из мертвых!»</plain>
+        </string>
+    </verse>
+</song>

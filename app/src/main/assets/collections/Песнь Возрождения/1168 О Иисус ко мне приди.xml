@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1168" name="О Иисус ко мне приди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Иисус, ко мне приди!</plain>
+        </string>
+        <string>
+            <plain>Будь со мною впереди,</plain>
+        </string>
+        <string>
+            <plain>Окружи меня вокруг,</plain>
+        </string>
+        <string>
+            <plain>О, приди, мой лучший Друг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, приди, о, приди, о, приди,</plain>
+        </string>
+        <string>
+            <plain>Мой лучший Друг.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как жажду я Тебя,</plain>
+        </string>
+        <string>
+            <plain>Как сладка Твоя вода.</plain>
+        </string>
+        <string>
+            <plain>Призываю я Тебя:</plain>
+        </string>
+        <string>
+            <plain>Будь со мною навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В развлеченьях счастья нет,</plain>
+        </string>
+        <string>
+            <plain>В них погибель, а не свет.</plain>
+        </string>
+        <string>
+            <plain>Пребывание Твое</plain>
+        </string>
+        <string>
+            <plain>- вот желание мое!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не открою никому дверь,</plain>
+        </string>
+        <string>
+            <plain>И в сердце не приму.</plain>
+        </string>
+        <string>
+            <plain>Лишь Тебе открою дверь.</plain>
+        </string>
+        <string>
+            <plain>О, войди, Христос, теперь!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Называю одного</plain>
+        </string>
+        <string>
+            <plain>Лишь Тебя своим Вождем.</plain>
+        </string>
+        <string>
+            <plain>Будь для сердца моего,</plain>
+        </string>
+        <string>
+            <plain>Агнец страждущий, Царем!</plain>
+        </string>
+    </verse>
+</song>

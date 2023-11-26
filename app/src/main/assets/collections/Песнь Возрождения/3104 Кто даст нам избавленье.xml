@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3104" name="Кто даст нам избавленье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто даст нам избавленье</plain>
+        </string>
+        <string>
+            <plain>от всякого греха,</plain>
+        </string>
+        <string>
+            <plain>кто новое творенье</plain>
+        </string>
+        <string>
+            <plain>свершит из нас тогда?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Один Спаситель может</plain>
+        </string>
+        <string>
+            <plain>прийти на помощь нам.</plain>
+        </string>
+        <string>
+            <plain>Как прежде Он поможет</plain>
+        </string>
+        <string>
+            <plain>и даст покой сердцам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто грех кровавый снимет,</plain>
+        </string>
+        <string>
+            <plain>изгладит всю вину;</plain>
+        </string>
+        <string>
+            <plain>кто их навек утопит</plain>
+        </string>
+        <string>
+            <plain>в морскую глубину?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто может в благодати</plain>
+        </string>
+        <string>
+            <plain>нас каждый день хранить,</plain>
+        </string>
+        <string>
+            <plain>чтоб чисто нам и свято,</plain>
+        </string>
+        <string>
+            <plain>по воле Божьей жить?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто может нас в болезнях</plain>
+        </string>
+        <string>
+            <plain>чудесно исцелять?</plain>
+        </string>
+        <string>
+            <plain>И кто помочь мне сможет здесь</plain>
+        </string>
+        <string>
+            <plain>в мой предсмертный час?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Кто даст живую веру,</plain>
+        </string>
+        <string>
+            <plain>чтоб Слово исполнять</plain>
+        </string>
+        <string>
+            <plain>и по Его примеру</plain>
+        </string>
+        <string>
+            <plain>свидетельство давать?</plain>
+        </string>
+    </verse>
+</song>

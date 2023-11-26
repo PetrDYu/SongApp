@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="987" name="Плачет Христос на Голгофе распятый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Плачет Христос, на Голгофе распятый.</plain>
+        </string>
+        <string>
+            <plain>Плачет, скорбя на Кресте.</plain>
+        </string>
+        <string>
+            <plain>Мир же, греховною тьмою объятый.</plain>
+        </string>
+        <string>
+            <plain>Нужд не имеет в Христе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Плачет Христос и молитвы возносит</plain>
+        </string>
+        <string>
+            <plain>Он за людей-палачей.</plain>
+        </string>
+        <string>
+            <plain>"Отче, прости им" - у Бога Он просит.</plain>
+        </string>
+        <string>
+            <plain>Плачет за слабых детей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Плачет Христос каждый час и минуту,</plain>
+        </string>
+        <string>
+            <plain>Плачет Он также сейчас,</plain>
+        </string>
+        <string>
+            <plain>Видя наш грех и неверия смуту.</plain>
+        </string>
+        <string>
+            <plain>Плачет Он, плачет о нас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Плачет Христос. И рыдания эти</plain>
+        </string>
+        <string>
+            <plain>В сердце звучат каждый час.</plain>
+        </string>
+        <string>
+            <plain>Плачет о том, что так холодны дети,</plain>
+        </string>
+        <string>
+            <plain>Плачет о немощных нас.</plain>
+        </string>
+    </verse>
+</song>

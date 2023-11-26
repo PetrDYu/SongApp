@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1065" name="Я знаю край без солнечного света" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю край без солнечного света,</plain>
+        </string>
+        <string>
+            <plain>Где дивный свет от Божьего лица</plain>
+        </string>
+        <string>
+            <plain>Сияет там, сияет без конца,</plain>
+        </string>
+        <string>
+            <plain>И там вовек не увядает лето.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я знаю край, где вечно много хлеба,</plain>
+        </string>
+        <string>
+            <plain>И нет нужды, нет жалкого раба,</plain>
+        </string>
+        <string>
+            <plain>И не дымит фабричная труба</plain>
+        </string>
+        <string>
+            <plain>Прозрачного, лазоревого неба.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю край, где волки и ягненок,</plain>
+        </string>
+        <string>
+            <plain>И лев, и барс пасутся вместе там,</plain>
+        </string>
+        <string>
+            <plain>Пасутся там по нивам и лугам,</plain>
+        </string>
+        <string>
+            <plain>И водит их там маленький ребенок.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я знаю край, увы, так мало знаю!</plain>
+        </string>
+        <string>
+            <plain>О том совсем не знаю ничего.</plain>
+        </string>
+        <string>
+            <plain>Что Бог готовит любящим Его,</plain>
+        </string>
+        <string>
+            <plain>Не видел глаз и ухо не слыхало!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я знаю край, где вечною любовью.</plain>
+        </string>
+        <string>
+            <plain>Одной семьей живет святой народ,</plain>
+        </string>
+        <string>
+            <plain>Где брат на брата не идет войной,</plain>
+        </string>
+        <string>
+            <plain>Святой земли не обагряют кровью.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О дивный край, о если б удалось</plain>
+        </string>
+        <string>
+            <plain>Хотя б во сне его мне увидать!</plain>
+        </string>
+        <string>
+            <plain>То я о нем желал бы рассказать,</plain>
+        </string>
+        <string>
+            <plain>Но слов таких нигде бы не нашлося.</plain>
+        </string>
+    </verse>
+</song>

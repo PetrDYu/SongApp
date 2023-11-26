@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1572" name="О свет незримый радость благодатная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, свет незримый, радость благодатная,</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос - спасение души,</plain>
+        </string>
+        <string>
+            <plain>Любовь Твоя такая необъятная,</plain>
+        </string>
+        <string>
+            <plain>Она сильнее зла и больше тьмы.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я без Тебя дорогами неверными</plain>
+        </string>
+        <string>
+            <plain>Блуждал так долго, плача и скорбя.</plain>
+        </string>
+        <string>
+            <plain>Людей и жизнь назвал тогда я скверными,</plain>
+        </string>
+        <string>
+            <plain>И не хотел я знать и звать Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не знал того, что нет границ прощению.</plain>
+        </string>
+        <string>
+            <plain>Как нет границ любви Твоей ко мне.</plain>
+        </string>
+        <string>
+            <plain>Но ждал я от Тебя лишь только мщения</plain>
+        </string>
+        <string>
+            <plain>За зло души, погрязшей в вечной тьме.</plain>
+        </string>
+    </verse>
+</song>

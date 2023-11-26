@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1933" name="В краю небес в краю небес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В краю небес, в краю небес,</plain>
+        </string>
+        <string>
+            <plain>Звучит там песнь святая;</plain>
+        </string>
+        <string>
+            <plain>Звучит там песнь святая;</plain>
+        </string>
+        <string>
+            <plain>В стране любви, в стране чудес,</plain>
+        </string>
+        <string>
+            <plain>В стране любви, в стране чудес,</plain>
+        </string>
+        <string>
+            <plain>Там песнь звучит,</plain>
+        </string>
+        <string>
+            <plain>Там песнь звучит,</plain>
+        </string>
+        <string>
+            <plain>Все небо оглашая.</plain>
+        </string>
+        <string>
+            <plain>Все небо оглашая.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Небесный хор, небесный хор.</plain>
+        </string>
+        <string>
+            <plain>Его я слышу в мире;</plain>
+        </string>
+        <string>
+            <plain>Его я слышу в мире;</plain>
+        </string>
+        <string>
+            <plain>Лучем небес горит мой взор,</plain>
+        </string>
+        <string>
+            <plain>Лучем небес горит мой взор,</plain>
+        </string>
+        <string>
+            <plain>Хочу там петь</plain>
+        </string>
+        <string>
+            <plain>Хочу там петь</plain>
+        </string>
+        <string>
+            <plain>На вечном Божьем пире.</plain>
+        </string>
+        <string>
+            <plain>На вечном Божьем пире.</plain>
+        </string>
+    </verse>
+</song>

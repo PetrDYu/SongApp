@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2712" name="Звучи моя песня звучи о Христе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звучи, моя песня, звучи о Христе,</plain>
+        </string>
+        <string>
+            <plain>Как умер Он н муках на скорбном кресте.</plain>
+        </string>
+        <string>
+            <plain>Лети по просторам прискорбной земли,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грешников души спасены нашли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лети, лети без страха, лети</plain>
+        </string>
+        <string>
+            <plain>Сквозь мрак и сомненье, лети.</plain>
+        </string>
+        <string>
+            <plain>И если преграды ты встретишь в пути,</plain>
+        </string>
+        <string>
+            <plain>Навстречу им смело лети.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты им расскажи, что жизнь так коротка,</plain>
+        </string>
+        <string>
+            <plain>Как жизнь одинокого в тюле цветка.</plain>
+        </string>
+        <string>
+            <plain>Живет он и дышит прохладой утра,</plain>
+        </string>
+        <string>
+            <plain>Увянет, коль скоро настанет жара.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты им расскажи, как Христос возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Как в тяжких страданиях Кровь Он пролил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб каждый, кто в мире живет без Христа,</plain>
+        </string>
+        <string>
+            <plain>Мог счастье найти у подножья креста.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2905" name="Отец мой небесный меня бережёт" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отец мой небесный меня бережёт,</plain>
+        </string>
+        <string>
+            <plain>мой чёлн днём и ночью Он верно ведёт.</plain>
+        </string>
+        <string>
+            <plain>Через бури и волны хранит Он меня,</plain>
+        </string>
+        <string>
+            <plain>ничто мне не страшно - Его я дитя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Его я дитя,</plain>
+        </string>
+        <string>
+            <plain>родное дитя;</plain>
+        </string>
+        <string>
+            <plain>Он любит,</plain>
+        </string>
+        <string>
+            <plain>как Отец меня,</plain>
+        </string>
+        <string>
+            <plain>Его я дитя!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В горниле страдания пусть буду, в огне,</plain>
+        </string>
+        <string>
+            <plain>- Спаситель со мной, Он подаст руку мне.</plain>
+        </string>
+        <string>
+            <plain>«Будь стойким!» - звучит нежный голос Христа;</plain>
+        </string>
+        <string>
+            <plain>огонь мне не страшен - Его я дитя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И кажется: тучи скрывают Христа,</plain>
+        </string>
+        <string>
+            <plain>Он всё же со мной, Его помощь близка.</plain>
+        </string>
+        <string>
+            <plain>Пусть ветер бушует и буря сильна,</plain>
+        </string>
+        <string>
+            <plain>меня сохранит Он - Его я дитя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Его я дитя, Он повсюду со мной,</plain>
+        </string>
+        <string>
+            <plain>хоть в мрачном ущелье иду я порой.</plain>
+        </string>
+        <string>
+            <plain>От страха и зла сохранит Он меня,</plain>
+        </string>
+        <string>
+            <plain>возьмёт меня в небо - Его я дитя.</plain>
+        </string>
+    </verse>
+</song>

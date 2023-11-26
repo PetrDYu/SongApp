@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2673" name="Оставив груз житейский за порогом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Оставив груз житейский за порогом,</plain>
+        </string>
+        <string>
+            <plain>Быть может, кто-то слышит в первый раз</plain>
+        </string>
+        <string>
+            <plain>О жизни вечной, о душе, о Боге,</plain>
+        </string>
+        <string>
+            <plain>О самом главном, в сущности, для вас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь зовет, не будьте равнодушны,</plain>
+        </string>
+        <string>
+            <plain>Он хочет сердце ваше обновить.</plain>
+        </string>
+        <string>
+            <plain>Не заглушайте голоса Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Не заглушайте голоса любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Душа бессмертная в оковах тленья</plain>
+        </string>
+        <string>
+            <plain>Тоскует о лазурных не-бесах,</plain>
+        </string>
+        <string>
+            <plain>Ей от греха земного притяженья</plain>
+        </string>
+        <string>
+            <plain>Дает свободу вера во Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не уходи, реши сегодня, срочно</plain>
+        </string>
+        <string>
+            <plain>Вопрос, где будешь вечность проводить.</plain>
+        </string>
+        <string>
+            <plain>Мы на планете - временные гости,</plain>
+        </string>
+        <string>
+            <plain>А будущее - вечность - впереди.</plain>
+        </string>
+    </verse>
+</song>

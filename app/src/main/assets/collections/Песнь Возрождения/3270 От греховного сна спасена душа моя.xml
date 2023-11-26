@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3270" name="От греховного сна спасена душа моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От греховного сна спасена душа моя!</plain>
+        </string>
+        <string>
+            <plain>Долго сердце томилось во тьме,</plain>
+        </string>
+        <string>
+            <plain>но теперь утешенье Господь мне даровал,</plain>
+        </string>
+        <string>
+            <plain>вместо горя дал радость Он мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я спасён чрез Христа!</plain>
+        </string>
+        <string>
+            <plain>Агнец Божий избавил меня!</plain>
+        </string>
+        <string>
+            <plain>Я во свете хожу и свободен от греха,</plain>
+        </string>
+        <string>
+            <plain>Агнец Божий избавил меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чрез Христа я спасён от смертельных,</plain>
+        </string>
+        <string>
+            <plain>тёмных сил, над врагом мне победа дана.</plain>
+        </string>
+        <string>
+            <plain>О, как чуден поток, что с креста Его течёт,</plain>
+        </string>
+        <string>
+            <plain>чрез Него примирён с Богом я!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От греха я свободен и в свете</plain>
+        </string>
+        <string>
+            <plain>я хожу - эти блага с небес мне даны.</plain>
+        </string>
+        <string>
+            <plain>Страх во мне побеждён, ведь Господь - опора мне,</plain>
+        </string>
+        <string>
+            <plain>Он - мой щит от смертельной стрелы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы Христом спасены и избрали узкий путь,</plain>
+        </string>
+        <string>
+            <plain>что Спаситель для нас проложил.</plain>
+        </string>
+        <string>
+            <plain>Где от сердца поют, боль и скорби прочь уйдут</plain>
+        </string>
+        <string>
+            <plain>- словом правды Он путь осветил.</plain>
+        </string>
+    </verse>
+</song>

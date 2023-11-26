@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3267" name="Брат мой жизнь твоя в Иисусе сокрыта" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Брат мой, жизнь твоя в Иисусе сокрыта?</plain>
+        </string>
+        <string>
+            <plain>В сердце нет высокомерия зла?</plain>
+        </string>
+        <string>
+            <plain>Если гонит мир тебя открыто,</plain>
+        </string>
+        <string>
+            <plain>то решишься ль Бога возвещать?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь сокрыта (во Христе),</plain>
+        </string>
+        <string>
+            <plain>жизнь сокрыта (во Христе?)</plain>
+        </string>
+        <string>
+            <plain>Нет порока ли в твоей душе?</plain>
+        </string>
+        <string>
+            <plain>Жизнь сокрыта (во Христе),</plain>
+        </string>
+        <string>
+            <plain>жизнь сокрыта (во Христе),</plain>
+        </string>
+        <string>
+            <plain>глубоко сокрыта во Христе?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если бури жизни страшно бушуют,</plain>
+        </string>
+        <string>
+            <plain>искушения грозят тебе,</plain>
+        </string>
+        <string>
+            <plain>можешь ли тогда совсем без страха</plain>
+        </string>
+        <string>
+            <plain>и решительно стоять в борьбе?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если в час тяжелых мук и страданий</plain>
+        </string>
+        <string>
+            <plain>опечален ты и слёзы в глазах,</plain>
+        </string>
+        <string>
+            <plain>- хватит сил сказать: «То - воля Божья!»,</plain>
+        </string>
+        <string>
+            <plain>Бога славить с радостью в устах?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если смертный час нежданно настанет,</plain>
+        </string>
+        <string>
+            <plain>ты готов из этой жизни уйти?</plain>
+        </string>
+        <string>
+            <plain>Сможешь не боясь тогда предстать</plain>
+        </string>
+        <string>
+            <plain>ты пред престолом Высшего Судьи?</plain>
+        </string>
+    </verse>
+</song>

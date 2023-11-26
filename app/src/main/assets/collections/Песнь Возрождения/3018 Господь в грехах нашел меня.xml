@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3018" name="Господь в грехах нашел меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь в грехах нашел меня,</plain>
+        </string>
+        <string>
+            <plain>любовь мне дал Свою;</plain>
+        </string>
+        <string>
+            <plain>Ему служу всем сердцем я</plain>
+        </string>
+        <string>
+            <plain>и к небесам иду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, иго благо,</plain>
+        </string>
+        <string>
+            <plain>и бремя легко:</plain>
+        </string>
+        <string>
+            <plain>я испытал, что это так;</plain>
+        </string>
+        <string>
+            <plain>служить прекрасно,</plain>
+        </string>
+        <string>
+            <plain>и грех далеко</plain>
+        </string>
+        <string>
+            <plain>- как счастливая и рад!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Другого нет, как мой Господь,</plain>
+        </string>
+        <string>
+            <plain>я только с Ним иду;</plain>
+        </string>
+        <string>
+            <plain>Его любви поток даёт</plain>
+        </string>
+        <string>
+            <plain>мне воду и еду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Превыше жизни я ценю</plain>
+        </string>
+        <string>
+            <plain>тот благодатный свет.</plain>
+        </string>
+        <string>
+            <plain>Он бурю усмирил во мне,</plain>
+        </string>
+        <string>
+            <plain>влечёт меня к Себе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Грех часто обольщал</plain>
+        </string>
+        <string>
+            <plain>меня мирскою красотой,</plain>
+        </string>
+        <string>
+            <plain>но у Христа так счастлив я,</plain>
+        </string>
+        <string>
+            <plain>служу я всей душой.</plain>
+        </string>
+    </verse>
+</song>

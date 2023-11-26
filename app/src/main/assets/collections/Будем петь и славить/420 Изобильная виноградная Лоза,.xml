@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="420" name="Изобильная виноградная Лоза," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Изобильная виноградная Лоза,</plain>
+        </string>
+        <string>
+            <plain>Ты спасение мое, утешение мое и прохлада;</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И нектар любви Твоей мою душу до корней пропитал.</plain>
+        </string>
+        <string>
+            <plain>Я теплом Твоим согрет, мне другого счастья нет и не надо.</plain>
+        </string>
+        <string>
+            <plain>(и не надо)</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Изобильная виноградная Лоза,</plain>
+        </string>
+        <string>
+            <plain>Я в томленье засыхал, но погибнуть мне не дал Виноградарь.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Ты покой и полнота, и любовь Твоя чиста, как слеза.</plain>
+        </string>
+        <string>
+            <plain>Я теплом Твоим согрет, мне другого счастья нет и не надо.</plain>
+        </string>
+        <string>
+            <plain>(и не надо)</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Изобильная виноградная Лоза,</plain>
+        </string>
+        <string>
+            <plain>Быть одною из ветвей мне по милости Твоей, как награда.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Помоги Ты мне цвести, помоги плоды Тебе принести.</plain>
+        </string>
+        <string>
+            <plain>Я теплом Твоим согрет, мне другого счастья нет и не надо.</plain>
+        </string>
+        <string>
+            <plain>(и не надо)</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Я теплом Твоим согрет, мне другого счастья нет и не надо.</plain>
+        </string>
+    </verse>
+</song>

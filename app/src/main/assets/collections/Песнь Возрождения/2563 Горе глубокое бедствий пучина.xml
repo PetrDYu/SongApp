@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2563" name="Горе глубокое бедствий пучина" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горе глубокое, бедствий пучина...</plain>
+        </string>
+        <string>
+            <plain>Тяжелым бывает мой путь,</plain>
+        </string>
+        <string>
+            <plain>Но на Голгофе спасенья причина,</plain>
+        </string>
+        <string>
+            <plain>Стараюсь туда я взглянуть,</plain>
+        </string>
+        <string>
+            <plain>- Сразу Спаситель меня подкрепляет,</plain>
+        </string>
+        <string>
+            <plain>Он взором любви со креста</plain>
+        </string>
+        <string>
+            <plain>Веру, надежду мне в душу вселяет</plain>
+        </string>
+        <string>
+            <plain>И молвит, как другу, спроста:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Ведь Я страдал за тебя,</plain>
+        </string>
+        <string>
+            <plain>Весь твой грех Я взял на Себя,</plain>
+        </string>
+        <string>
+            <plain>О, Я страдал за тебя".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Божье величье никак не вмещаю,</plain>
+        </string>
+        <string>
+            <plain>Его доброту и любовь!</plain>
+        </string>
+        <string>
+            <plain>Пролил за грешников, твердо я знаю,</plain>
+        </string>
+        <string>
+            <plain>Спаситель невинную кровь!</plain>
+        </string>
+        <string>
+            <plain>Только Голгофа дает мне спасены,</plain>
+        </string>
+        <string>
+            <plain>Голгофа мне силу дает!</plain>
+        </string>
+        <string>
+            <plain>Дальше иду, получив подкреплены,</plain>
+        </string>
+        <string>
+            <plain>Меня свет Голгофы влечет.</plain>
+        </string>
+    </verse>
+</song>

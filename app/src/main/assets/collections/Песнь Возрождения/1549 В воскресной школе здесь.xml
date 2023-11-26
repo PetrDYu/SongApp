@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1549" name="В воскресной школе здесь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В воскресной школе здесь</plain>
+        </string>
+        <string>
+            <plain>Мы собрались сейчас;</plain>
+        </string>
+        <string>
+            <plain>Спаситель обещал придти,</plain>
+        </string>
+        <string>
+            <plain>Чтоб осчастливить нас.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, дети, в этот день</plain>
+        </string>
+        <string>
+            <plain>Воспойте песнь Творцу,</plain>
+        </string>
+        <string>
+            <plain>Как  ангелы поют хвалу</plain>
+        </string>
+        <string>
+            <plain>Пред Ним лицом к лицу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда же Божий Сын</plain>
+        </string>
+        <string>
+            <plain>К Себе нас привлечет.</plain>
+        </string>
+        <string>
+            <plain>Вселенная воскресный гимн</plain>
+        </string>
+        <string>
+            <plain>Тогда Ему споет.</plain>
+        </string>
+    </verse>
+</song>

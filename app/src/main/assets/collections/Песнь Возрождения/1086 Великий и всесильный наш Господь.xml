@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1086" name="Великий и всесильный наш Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Великий и всесильный наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Любимый наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Любимый наш Господь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И знамя веры высоко подняв.</plain>
+        </string>
+        <string>
+            <plain>Прославим Творца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Великий и всесильный наш Господь.</plain>
+        </string>
+        <string>
+            <plain>Любимый наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Любимый наш Господь.</plain>
+        </string>
+    </verse>
+</song>

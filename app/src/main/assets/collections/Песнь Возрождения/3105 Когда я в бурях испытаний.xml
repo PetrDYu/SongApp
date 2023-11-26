@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3105" name="Когда я в бурях испытаний" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я в бурях испытаний,</plain>
+        </string>
+        <string>
+            <plain>и враг грозит моей душе,</plain>
+        </string>
+        <string>
+            <plain>я уголок найду желанный,</plain>
+        </string>
+        <string>
+            <plain>чтоб быть с Творцом наедине.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Наедине с Христом чудесно,</plain>
+        </string>
+        <string>
+            <plain>от суеты мирской вдали!</plain>
+        </string>
+        <string>
+            <plain>Там я найду покой небесный,</plain>
+        </string>
+        <string>
+            <plain>в общении с Господом в тиши.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда Христа скрывают тучи,</plain>
+        </string>
+        <string>
+            <plain>и я тону в большой нужде,</plain>
+        </string>
+        <string>
+            <plain>я укрепить могу лишь душу</plain>
+        </string>
+        <string>
+            <plain>в молитве с Ним наедине.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь силу новую черпаю,</plain>
+        </string>
+        <string>
+            <plain>чтоб победить в святой войне,</plain>
+        </string>
+        <string>
+            <plain>и наставлениям внимаю</plain>
+        </string>
+        <string>
+            <plain>в общении с Ним наедине.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда последний час настанет,</plain>
+        </string>
+        <string>
+            <plain>и смерть приблизится ко мне,</plain>
+        </string>
+        <string>
+            <plain>когда придется мир оставить,</plain>
+        </string>
+        <string>
+            <plain>как чудно с Ним наедине!</plain>
+        </string>
+    </verse>
+</song>

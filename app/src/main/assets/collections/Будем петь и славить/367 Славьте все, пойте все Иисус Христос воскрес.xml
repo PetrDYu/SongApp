@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="367" name="Славьте все, пойте все Иисус Христос воскрес" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Славьте все, пойте все: Иисус Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Эта песнь, эта песнь пусть несется до небес.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте, люди, радостно: жив Христос, Он воскрес!</plain>
+        </string>
+        <string>
+            <plain>Пойте дружно, голоса, воспоем хвалу и честь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он нас спас, оправдал, на кресте Он пострадал</plain>
+        </string>
+        <string>
+            <plain>И воскрес, смерть попрал, радость вечную нам дал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славьте все, пойте все: Иисус Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Эта песнь, эта песнь пусть несется до небес.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3123" name="Свят Он Свят Он" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свят Он! Свят Он,</plain>
+        </string>
+        <string>
+            <plain>Бог наш всемогущий,</plain>
+        </string>
+        <string>
+            <plain>небес Владыка.</plain>
+        </string>
+        <string>
+            <plain>Царь Он небесный.</plain>
+        </string>
+        <string>
+            <plain>Честь Ему и слава,</plain>
+        </string>
+        <string>
+            <plain>и хвала вовек!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Свят Он! Свят Он!</plain>
+        </string>
+        <string>
+            <plain>Свят Он, Бог всемогущий!</plain>
+        </string>
+        <string>
+            <plain>В Слове Своём Он</plain>
+        </string>
+        <string>
+            <plain>призывает свято жить.</plain>
+        </string>
+        <string>
+            <plain>В Слове Своём Он</plain>
+        </string>
+        <string>
+            <plain>жить призывает</plain>
+        </string>
+        <string>
+            <plain>свято, свято, свято.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Святы, святы</plain>
+        </string>
+        <string>
+            <plain>в небесах жилища.</plain>
+        </string>
+        <string>
+            <plain>Кто это знает,</plain>
+        </string>
+        <string>
+            <plain>но не внимает,</plain>
+        </string>
+        <string>
+            <plain>тот не попадет</plain>
+        </string>
+        <string>
+            <plain>в святой небесный град.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Свята, свята</plain>
+        </string>
+        <string>
+            <plain>здесь Его воинство,</plain>
+        </string>
+        <string>
+            <plain>заветы зная и полагая</plain>
+        </string>
+        <string>
+            <plain>жизнь к ногам Господним</plain>
+        </string>
+        <string>
+            <plain>из любви к Нему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Величаво</plain>
+        </string>
+        <string>
+            <plain>властвует Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Ангелы славят,</plain>
+        </string>
+        <string>
+            <plain>почести дарят</plain>
+        </string>
+        <string>
+            <plain>имени святому</plain>
+        </string>
+        <string>
+            <plain>нашего Творца.</plain>
+        </string>
+    </verse>
+</song>

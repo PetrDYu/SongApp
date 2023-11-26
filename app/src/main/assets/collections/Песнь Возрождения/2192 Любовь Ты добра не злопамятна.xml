@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2192" name="Любовь Ты добра не злопамятна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь! Ты добра, не злопамятна,</plain>
+        </string>
+        <string>
+            <plain>Обиды не помнишь и дня,</plain>
+        </string>
+        <string>
+            <plain>Порою сурово, но праведно</plain>
+        </string>
+        <string>
+            <plain>Во всем неподкупный судья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Откуда такая нежданная</plain>
+        </string>
+        <string>
+            <plain>Ко мне постучалась ты вдруг,</plain>
+        </string>
+        <string>
+            <plain>Как жизнь хороша и желанная,</plain>
+        </string>
+        <string>
+            <plain>Верна, как испытанный друг.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С тобой только зорька лучистая</plain>
+        </string>
+        <string>
+            <plain>Сравниться на небе смогла б.</plain>
+        </string>
+        <string>
+            <plain>Какая ты светлая, чистая,</plain>
+        </string>
+        <string>
+            <plain>А может, ты с неба пришла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если ты искра лишь малая</plain>
+        </string>
+        <string>
+            <plain>Его лучезарного дня,</plain>
+        </string>
+        <string>
+            <plain>Какая же та необъятная,</plain>
+        </string>
+        <string>
+            <plain>Что любит на небе меня.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2549" name="Когдато в свете без теней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда-то в свете без теней,</plain>
+        </string>
+        <string>
+            <plain>не здесь, а там в краю родном,</plain>
+        </string>
+        <string>
+            <plain>Прочтем значение скорбей</plain>
+        </string>
+        <string>
+            <plain>и сокровенное поймем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всецело Богу доверяй:</plain>
+        </string>
+        <string>
+            <plain>Он нас ведет прямым путем;</plain>
+        </string>
+        <string>
+            <plain>Теперь темно, но близок рай, а там?</plain>
+        </string>
+        <string>
+            <plain>А там мы все поймем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Найдем потерянную нить,</plain>
+        </string>
+        <string>
+            <plain>закончим начатое днем,</plain>
+        </string>
+        <string>
+            <plain>Все тайны сможем уяснить</plain>
+        </string>
+        <string>
+            <plain>и все земное там поймет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Зачем темнело все вокруг,</plain>
+        </string>
+        <string>
+            <plain>успеха не было ни в чем,</plain>
+        </string>
+        <string>
+            <plain>А песня обрывалась вдруг,</plain>
+        </string>
+        <string>
+            <plain>- в стране небесной мы поймем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог знает все, Он держит ключ,</plain>
+        </string>
+        <string>
+            <plain>Он нас ведет в небесный дом...</plain>
+        </string>
+        <string>
+            <plain>Там зноя нет, ни грозных туч,</plain>
+        </string>
+        <string>
+            <plain>там свет и мир, там все поймем.</plain>
+        </string>
+    </verse>
+</song>

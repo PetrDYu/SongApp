@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1504" name="Любите друг друга вы нежно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любите друг друга вы нежно.</plain>
+        </string>
+        <string>
+            <plain>Храните любовь в чистоте;</plain>
+        </string>
+        <string>
+            <plain>Тогда в вашей жизни не нужно</plain>
+        </string>
+        <string>
+            <plain>Искать будет счастья нигде.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все счастье в любви и согласии,</plain>
+        </string>
+        <string>
+            <plain>Вам будет всегда хорошо.</plain>
+        </string>
+        <string>
+            <plain>Богатство, как тень, проходяще,</plain>
+        </string>
+        <string>
+            <plain>Не нужно вам будет оно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сегодня вы радостно вместе</plain>
+        </string>
+        <string>
+            <plain>Стоите пред нами, друзья,</plain>
+        </string>
+        <string>
+            <plain>Одежды на вас так красивы,</plain>
+        </string>
+        <string>
+            <plain>И счастье сияет в глазах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А если и бедность коснется,</plain>
+        </string>
+        <string>
+            <plain>Вам в жизни не страшна она.</plain>
+        </string>
+        <string>
+            <plain>Вам счастье любви улыбнется,</plain>
+        </string>
+        <string>
+            <plain>И жизнь будет вам хороша.</plain>
+        </string>
+    </verse>
+</song>

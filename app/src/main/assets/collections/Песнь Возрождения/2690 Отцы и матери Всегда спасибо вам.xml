@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2690" name="Отцы и матери Всегда спасибо вам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отцы и матери Всегда спасибо вам</plain>
+        </string>
+        <string>
+            <plain>За все, за все.</plain>
+        </string>
+        <string>
+            <plain>За то, что с детства нас, к Христу направили,</plain>
+        </string>
+        <string>
+            <plain>И с Ним мы радостно теперь живем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О дай, Господь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вместе с вами мы</plain>
+        </string>
+        <string>
+            <plain>На небесах Христа прославили.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>А сколько слез пришлось</plain>
+        </string>
+        <string>
+            <plain>Пролить за деток вам,</plain>
+        </string>
+        <string>
+            <plain>Молить Творца о том, Чтоб Он вас спас.</plain>
+        </string>
+        <string>
+            <plain>И Бог услышал все молитвы слезные,</plain>
+        </string>
+        <string>
+            <plain>И каждый день от зла хранит Он нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не знаем сколько нам</plain>
+        </string>
+        <string>
+            <plain>Подарит жизни Бог,</plain>
+        </string>
+        <string>
+            <plain>Быть может, много лет Иль год один,</plain>
+        </string>
+        <string>
+            <plain>Но быть душою мы и сердцем схожими,</plain>
+        </string>
+        <string>
+            <plain>Отцы и матери, на вас хотим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Отцы и матери:</plain>
+        </string>
+        <string>
+            <plain>Детей не знающих Еще Христа,</plain>
+        </string>
+        <string>
+            <plain>Молитесь все сильней, чтоб не утратили</plain>
+        </string>
+        <string>
+            <plain>Свое наследие вы для Христа.</plain>
+        </string>
+    </verse>
+</song>

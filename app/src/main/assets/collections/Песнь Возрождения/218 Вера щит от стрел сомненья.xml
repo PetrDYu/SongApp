@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="218" name="Вера щит от стрел сомненья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вера - щит от стрел сомненья.</plain>
+        </string>
+        <string>
+            <plain>Посох путникам-борцам;</plain>
+        </string>
+        <string>
+            <plain>Вера - луч среди затменья.</plain>
+        </string>
+        <string>
+            <plain>Путь из бездны к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Верой дух живущих дышит;</plain>
+        </string>
+        <string>
+            <plain>Где бессилен гордый ум.</plain>
+        </string>
+        <string>
+            <plain>Там он верой чуткой слышит</plain>
+        </string>
+        <string>
+            <plain>Вечный голос Божьих дум.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Светлой верой окрыленный.</plain>
+        </string>
+        <string>
+            <plain>Человек на труд спешит;</plain>
+        </string>
+        <string>
+            <plain>Ею, в битве побежденный.</plain>
+        </string>
+        <string>
+            <plain>Вновь он пламенем горит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вера мост живой возводит</plain>
+        </string>
+        <string>
+            <plain>Между небом и землей;</plain>
+        </string>
+        <string>
+            <plain>Верой житель мира ходит</plain>
+        </string>
+        <string>
+            <plain>По путям волны морской.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вера силой вдохновляет</plain>
+        </string>
+        <string>
+            <plain>Обессиленных борцов;</plain>
+        </string>
+        <string>
+            <plain>Вера царства побеждает.</plain>
+        </string>
+        <string>
+            <plain>Сокрушает власть грехов.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Вера с нас недуг снимает,</plain>
+        </string>
+        <string>
+            <plain>Воскрешает мертвецов,</plain>
+        </string>
+        <string>
+            <plain>В час унынья утешает</plain>
+        </string>
+        <string>
+            <plain>Человеческих сынов.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Вера грешников спасает</plain>
+        </string>
+        <string>
+            <plain>И сквозь тень грядущих благ</plain>
+        </string>
+        <string>
+            <plain>Взорам нашим открывает</plain>
+        </string>
+        <string>
+            <plain>Славу Бога в небесах.</plain>
+        </string>
+    </verse>
+</song>

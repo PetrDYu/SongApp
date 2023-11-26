@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="97" name="Через хлеб и вино мы с Тобою одно" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Через хлеб и вино мы с Тобою одно</plain>
+        </string>
+        <string>
+            <plain>Единое, брат Иисус.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Если, братья, между нами любовь,</plain>
+        </string>
+        <string>
+            <plain>Он приходит, Он приходит к нам вновь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если в мире и согласьи живем,</plain>
+        </string>
+        <string>
+            <plain>Мы достойно Твое имя несем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если в сердце мы прощаем врага,</plain>
+        </string>
+        <string>
+            <plain>Значит, в сердце принимаем Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если близко нам страданье людей,</plain>
+        </string>
+        <string>
+            <plain>Бог Вселенной примет нас, как детей.</plain>
+        </string>
+    </verse>
+</song>

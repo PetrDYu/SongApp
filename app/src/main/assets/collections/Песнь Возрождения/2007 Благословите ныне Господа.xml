@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2007" name="Благословите ныне Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословите ныне Господа,</plain>
+        </string>
+        <string>
+            <plain>Рабы его, во время ночи,</plain>
+        </string>
+        <string>
+            <plain>И поднимите к небу очи</plain>
+        </string>
+        <string>
+            <plain>В молитве пламенной, святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вы поднимите руки ваши</plain>
+        </string>
+        <string>
+            <plain>К творцу, сидящему на троне,</plain>
+        </string>
+        <string>
+            <plain>В Своём блистающем Сионе,</plain>
+        </string>
+        <string>
+            <plain>Что краше всех земных красот.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И, если вам придётся даже</plain>
+        </string>
+        <string>
+            <plain>Идти среди земных пустынь,</plain>
+        </string>
+        <string>
+            <plain>То Он наполнит ваши чаши</plain>
+        </string>
+        <string>
+            <plain>Блогословением. Аминь.</plain>
+        </string>
+    </verse>
+</song>

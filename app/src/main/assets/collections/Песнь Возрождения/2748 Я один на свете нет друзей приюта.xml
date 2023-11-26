@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2748" name="Я один на свете нет друзей приюта" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я один на свете, нет друзей, приюта,</plain>
+        </string>
+        <string>
+            <plain>Слепнут мои очи от тоски и слез.</plain>
+        </string>
+        <string>
+            <plain>В горе и тревоге каждая минута.</plain>
+        </string>
+        <string>
+            <plain>Что мне делать ныне, подскажи, Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не нашел я в мире ласки, утешенья,</plain>
+        </string>
+        <string>
+            <plain>Грех ненасытимый жалил, как змея,</plain>
+        </string>
+        <string>
+            <plain>Слыша мои вопли, слыша сокрушенья,</plain>
+        </string>
+        <string>
+            <plain>Отгони, Господь мой, иль погибну я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Сын мой одинокий, дорогое чадо,</plain>
+        </string>
+        <string>
+            <plain>- Мне ответил нежно благостный Господь</plain>
+        </string>
+        <string>
+            <plain>Вывожу немедля Я тебя из ада,</plain>
+        </string>
+        <string>
+            <plain>Возвращаю дух твой, укрепляю плоть".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я теперь со всеми на Господней ниве,</plain>
+        </string>
+        <string>
+            <plain>Изменил Спаситель сразу жизнь мою.</plain>
+        </string>
+        <string>
+            <plain>Бывши несчастливым, ныне всех счастливей,</plain>
+        </string>
+        <string>
+            <plain>И о том повсюду я теперь пою.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3011" name="Я однажды держался греховных путей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я однажды держался греховных путей,</plain>
+        </string>
+        <string>
+            <plain>жил лишь, как нравится плоти моей.</plain>
+        </string>
+        <string>
+            <plain>Иисус возлюбил меня горячо,</plain>
+        </string>
+        <string>
+            <plain>пришёл Он, поднять меня высоко.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Извлёк Он меня из болота греха,</plain>
+        </string>
+        <string>
+            <plain>поднял высоко, вот Его я дитя.</plain>
+        </string>
+        <string>
+            <plain>Привёл Он меня к благодатным путям,</plain>
+        </string>
+        <string>
+            <plain>и радостно я иду к небесам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Был однажды вдали от Спасителя я,</plain>
+        </string>
+        <string>
+            <plain>жил я в пороках, не зная Христа;</plain>
+        </string>
+        <string>
+            <plain>но видел Он, как я пал глубоко,</plain>
+        </string>
+        <string>
+            <plain>пришёл Он поднять меня высоко.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Был однажды мой дом на сыпучем песке,</plain>
+        </string>
+        <string>
+            <plain>я лишь стремился к мирской суете;</plain>
+        </string>
+        <string>
+            <plain>слепой, я от Бога был далеко</plain>
+        </string>
+        <string>
+            <plain>- в любви Он меня поднял высоко.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да, я ныне спасён, в мире с Богом живу,</plain>
+        </string>
+        <string>
+            <plain>шествую к небу. О, слава Ему!</plain>
+        </string>
+        <string>
+            <plain>Свободный от ига кровью Его,</plain>
+        </string>
+        <string>
+            <plain>я рад: Он меня поднял высоко.</plain>
+        </string>
+    </verse>
+</song>

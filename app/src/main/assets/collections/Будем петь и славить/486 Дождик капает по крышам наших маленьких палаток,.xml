@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="486" name="Дождик капает по крышам наших маленьких палаток," canon="false" text="М. Дрондина" textRus="" music="М. Дрондина" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дождик капает по крышам наших маленьких палаток,</plain>
+        </string>
+        <string>
+            <plain>А потом проглянет солнце, и тепло придет потом.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И опять – благословенье, солнце и мельканье радуг…</plain>
+        </string>
+        <string>
+            <plain>Мы в общении друг с другом вместе с Господом живем.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой над нами веет, нас с тобой соединяя,</plain>
+        </string>
+        <string>
+            <plain>И молитвы наши к небу Он доносит все сильней.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Песни новые кружатся, взоры к небу направляя,</plain>
+        </string>
+        <string>
+            <plain>И Господь нас охраняет под ладонию Своей.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы меняемся с тобою в этом тихом дуновенье,</plain>
+        </string>
+        <string>
+            <plain>Что-то в сердце происходит в тихом веянье с небес.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И становится все глубже вера в вечное спасенье,</plain>
+        </string>
+        <string>
+            <plain>И все ярче в небе звезды, и все ближе мир чудес.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И незримою любовью наполняет наши Кущи</plain>
+        </string>
+        <string>
+            <plain>И деревья, и поляну, и палатки, и сердца.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Солнце светит, веет ветер. С нами Бог наш Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>И любовь Его все ближе. И так будет до конца.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

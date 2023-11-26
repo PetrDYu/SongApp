@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="874" name="Где нет угроз не мучит страх" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где нет угроз, не мучит страх,</plain>
+        </string>
+        <string>
+            <plain>Превыше звезд на небесах</plain>
+        </string>
+        <string>
+            <plain>Желанный дом и мир красот</plain>
+        </string>
+        <string>
+            <plain>В краю родном спасенных ждет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Вечный Дом, где радость и свет.</plain>
+        </string>
+        <string>
+            <plain>О вечный день, где вечера нет.</plain>
+        </string>
+        <string>
+            <plain>Господь зовет, и мы идем,</plain>
+        </string>
+        <string>
+            <plain>Любовь ведет нас в Вечный Дом!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там неземной ликует хор,</plain>
+        </string>
+        <string>
+            <plain>Течет река живой воды,</plain>
+        </string>
+        <string>
+            <plain>Там чистотой сияет взор,</plain>
+        </string>
+        <string>
+            <plain>Награда ждет за все труды.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Угасший день взойдет светлей,</plain>
+        </string>
+        <string>
+            <plain>Наполнит Бог хвалой уста.</plain>
+        </string>
+        <string>
+            <plain>Своих родных, своих друзей</plain>
+        </string>
+        <string>
+            <plain>Мы там найдем у ног Христа.</plain>
+        </string>
+    </verse>
+</song>

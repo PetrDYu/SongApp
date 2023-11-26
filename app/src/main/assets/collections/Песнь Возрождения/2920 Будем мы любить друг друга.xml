@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2920" name="Будем мы любить друг друга" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будем мы любить друг друга,</plain>
+        </string>
+        <string>
+            <plain>как Христос нас возлюбил,</plain>
+        </string>
+        <string>
+            <plain>и на деле всем покажем,</plain>
+        </string>
+        <string>
+            <plain>что любовью мы горим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сердцем ближних всех любите,</plain>
+        </string>
+        <string>
+            <plain>как Христос нам повелел,</plain>
+        </string>
+        <string>
+            <plain>и в нужде им помогите,</plain>
+        </string>
+        <string>
+            <plain>сейте семя добрых дел.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если сердцу одиноко</plain>
+        </string>
+        <string>
+            <plain>и в глазах слеза блестит,</plain>
+        </string>
+        <string>
+            <plain>слово нежное с любовью</plain>
+        </string>
+        <string>
+            <plain>чудеса в душе творит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Помогайте всем упавшим</plain>
+        </string>
+        <string>
+            <plain>снова к Господу прильнуть,</plain>
+        </string>
+        <string>
+            <plain>их участьем окружите,</plain>
+        </string>
+        <string>
+            <plain>укажите, верный путь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>0, как много душ скорбящих</plain>
+        </string>
+        <string>
+            <plain>в этом мире, полном слёз!</plain>
+        </string>
+        <string>
+            <plain>Утешайте их любовью той,</plain>
+        </string>
+        <string>
+            <plain>что нам Господь принёс.</plain>
+        </string>
+    </verse>
+</song>

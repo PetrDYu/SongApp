@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2109" name="Дух Святой Дух Утешитель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, Дух Утешитель</plain>
+        </string>
+        <string>
+            <plain>К нам приди Ты в этот час,</plain>
+        </string>
+        <string>
+            <plain>Сам Ты устрой свою обитель</plain>
+        </string>
+        <string>
+            <plain>В нашем сердце в этот час.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сам Ты знаешь, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Я нуждаюсь лишь в Тебе,</plain>
+        </string>
+        <string>
+            <plain>Чтоб провел меня через скорби</plain>
+        </string>
+        <string>
+            <plain>В Твои чудные края.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Где обители святые,</plain>
+        </string>
+        <string>
+            <plain>Где Спаситель Сам живет,</plain>
+        </string>
+        <string>
+            <plain>Пред престолом белым Божьиьм,</plain>
+        </string>
+        <string>
+            <plain>Хор небесный там поет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Удостой меня,</plain>
+        </string>
+        <string>
+            <plain>Спаситель Быть Твоим учеником,</plain>
+        </string>
+        <string>
+            <plain>Сам возьми меня за руку</plain>
+        </string>
+        <string>
+            <plain>И веди Твоим путем.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>По пути Твоем, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Я хочу всегда идти,</plain>
+        </string>
+        <string>
+            <plain>Твое иго же святое</plain>
+        </string>
+        <string>
+            <plain>Я хочу всегда нести.</plain>
+        </string>
+    </verse>
+</song>

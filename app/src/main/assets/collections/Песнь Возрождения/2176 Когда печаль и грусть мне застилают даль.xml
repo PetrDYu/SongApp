@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2176" name="Когда печаль и грусть мне застилают даль" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда печаль и грусть мне застилают даль,</plain>
+        </string>
+        <string>
+            <plain>На сердце тяжело и на глазах печаль</plain>
+        </string>
+        <string>
+            <plain>- Я прихожу к цветам, смотрю на их убор,</plain>
+        </string>
+        <string>
+            <plain>Вдыхаю аромат, и вновь светлеет взор.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бывает иногда в глазах блеснет слеза,</plain>
+        </string>
+        <string>
+            <plain>Как раннею зарей на лепестках роса.</plain>
+        </string>
+        <string>
+            <plain>Я вновь иду к цветам, смотрю на их убор,</plain>
+        </string>
+        <string>
+            <plain>Вдыхаю аромат, и вновь светлеет взор.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю, - есть Цветок, Он лучше лилий, роз.</plain>
+        </string>
+        <string>
+            <plain>Прекрасен тот Цветок - мой распятый Христос.</plain>
+        </string>
+        <string>
+            <plain>Во всех своих скорбях к Нему я прихожу,</plain>
+        </string>
+        <string>
+            <plain>В Нем счастье, мир, покой всегда я нахожу.</plain>
+        </string>
+    </verse>
+</song>

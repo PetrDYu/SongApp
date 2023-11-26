@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1586" name="Я блудный сын прости меня Отец мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я - блудный сын, прости меня. Отец мой,</plain>
+        </string>
+        <string>
+            <plain>Я - блудный сын, прости меня, прости.</plain>
+        </string>
+        <string>
+            <plain>Я от Тебя ушел, блуждал далеко,</plain>
+        </string>
+        <string>
+            <plain>И вот теперь я возвратился вновь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я - блудный сын, прости меня, Отец мой,</plain>
+        </string>
+        <string>
+            <plain>Я - блудный сын, будь милостив ко мне.</plain>
+        </string>
+        <string>
+            <plain>Я расточил богатства в сне греховном.</plain>
+        </string>
+        <string>
+            <plain>И жалок, беден я пришел к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я - блудный сын, будь милостив ко мне Ты,</plain>
+        </string>
+        <string>
+            <plain>Я - блудный сын, прости грехи, прости.</plain>
+        </string>
+        <string>
+            <plain>Как стыдно мне, что я Твои заветы</plain>
+        </string>
+        <string>
+            <plain>Все позабыл на жизненном пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я - блудный сын, прости меня, Отец мой,</plain>
+        </string>
+        <string>
+            <plain>Я - блудный сын, наполни силой вновь.</plain>
+        </string>
+        <string>
+            <plain>К детям Своим Ты вновь меня причисли</plain>
+        </string>
+        <string>
+            <plain>И возврати ко мне Свою любовь.</plain>
+        </string>
+    </verse>
+</song>

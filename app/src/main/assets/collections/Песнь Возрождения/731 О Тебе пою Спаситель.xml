@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="731" name="О Тебе пою Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Тебе пою, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Этот гимн души моей</plain>
+        </string>
+        <string>
+            <plain>На пути земном в обитель,</plain>
+        </string>
+        <string>
+            <plain>На пути борьбы, скорбей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В этом гимне - утешенье,</plain>
+        </string>
+        <string>
+            <plain>Зов небесной красоты,</plain>
+        </string>
+        <string>
+            <plain>В нем и сила и забвенье,</plain>
+        </string>
+        <string>
+            <plain>Этот гимн, Спаситель, - Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Труден путь, но гимн прекрасный</plain>
+        </string>
+        <string>
+            <plain>Помогает мне идти</plain>
+        </string>
+        <string>
+            <plain>И Христовой силой властной</plain>
+        </string>
+        <string>
+            <plain>Дух мой радует в пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда приду я в вечность,</plain>
+        </string>
+        <string>
+            <plain>Этот гимн опять спою,</plain>
+        </string>
+        <string>
+            <plain>Гимн святой и бесконечный</plain>
+        </string>
+        <string>
+            <plain>Про святую жизнь в раю.</plain>
+        </string>
+    </verse>
+</song>

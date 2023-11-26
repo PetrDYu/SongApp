@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="871" name="В час молитвы в час прощенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В час молитвы, в час прощенья,</plain>
+        </string>
+        <string>
+            <plain>В час твоей души больной,</plain>
+        </string>
+        <string>
+            <plain>В час приятный, в час спасенья</plain>
+        </string>
+        <string>
+            <plain>Не придешь ли, брат, домой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Почему не теперь?</plain>
+        </string>
+        <string>
+            <plain>Не откроешь сердца дверь?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Далеко ты заблудился</plain>
+        </string>
+        <string>
+            <plain>От Христа в путях земли.</plain>
+        </string>
+        <string>
+            <plain>За Тебя Он там смирился.</plain>
+        </string>
+        <string>
+            <plain>О, приди, мой друг, в мольбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не найдешь ты утешенья</plain>
+        </string>
+        <string>
+            <plain>В грешном мире сем, брат мой,</plain>
+        </string>
+        <string>
+            <plain>Но в Иисусе в день спасенья</plain>
+        </string>
+        <string>
+            <plain>Вечный обретешь покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поспеши прийти к Нему ты</plain>
+        </string>
+        <string>
+            <plain>И взыщи прощение.</plain>
+        </string>
+        <string>
+            <plain>Дай Ему свои обеты</plain>
+        </string>
+        <string>
+            <plain>- Прийми искупление.</plain>
+        </string>
+    </verse>
+</song>

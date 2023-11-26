@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="897" name="Если грех тебя теснит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если грех тебя теснит,</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Если враг тебе грозит,</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С верой на Него взирай,</plain>
+        </string>
+        <string>
+            <plain>на Него лишь уповай,</plain>
+        </string>
+        <string>
+            <plain>Лишь Его словам внимай,</plain>
+        </string>
+        <string>
+            <plain>все скажи Иисусу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иль заботы тяготят</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Ты не бойся, пусть грозят</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Путь твой узок, одинок</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Иль наградою высок</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И в работе, и в труде</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Обещает Он помочь</plain>
+        </string>
+        <string>
+            <plain>- все скажи Иисусу.</plain>
+        </string>
+    </verse>
+</song>

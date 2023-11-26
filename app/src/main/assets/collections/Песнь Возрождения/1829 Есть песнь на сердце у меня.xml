@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1829" name="Есть песнь на сердце у меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть песнь на сердце у меня,</plain>
+        </string>
+        <string>
+            <plain>Во мне звучит всегда она,</plain>
+        </string>
+        <string>
+            <plain>Я о любви Христа пою,</plain>
+        </string>
+        <string>
+            <plain>О вечной радости в раю.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я буду петь ее до дня,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь возьмет меня,</plain>
+        </string>
+        <string>
+            <plain>Я буду петь и в небесах</plain>
+        </string>
+        <string>
+            <plain>О дивных Божиих делах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но чья душа еще молчит,</plain>
+        </string>
+        <string>
+            <plain>В ком песнь спасенья не звучит.</plain>
+        </string>
+        <string>
+            <plain>Спешите все к Христу теперь</plain>
+        </string>
+        <string>
+            <plain>Пока еще открыта дверь.</plain>
+        </string>
+    </verse>
+</song>

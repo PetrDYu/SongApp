@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3072" name="Я некогда жил в беспросветных грехах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я некогда жил в беспросветных грехах</plain>
+        </string>
+        <string>
+            <plain>и в сердце моем жили гордость и страх.</plain>
+        </string>
+        <string>
+            <plain>Нашел тут меня Иисус, и домой</plain>
+        </string>
+        <string>
+            <plain>меня Он привел, и дал мир и покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Теперь я у ног Иисуса сижу,</plain>
+        </string>
+        <string>
+            <plain>внимаю Ему,</plain>
+        </string>
+        <string>
+            <plain>взгляд с Него не свожу;</plain>
+        </string>
+        <string>
+            <plain>победу имею я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Держал меня долго в плену сатана.</plain>
+        </string>
+        <string>
+            <plain>Я знал что я был раб порока и зла.</plain>
+        </string>
+        <string>
+            <plain>Поэтому я к Иисусу пришел,</plain>
+        </string>
+        <string>
+            <plain>- оковы упали, и мир я обрел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И совесть моя обличала меня,</plain>
+        </string>
+        <string>
+            <plain>страх душу терзал: «Я погиб!» - думал я.</plain>
+        </string>
+        <string>
+            <plain>Но слава Иисусу! Я ныне спасен</plain>
+        </string>
+        <string>
+            <plain>и кровью Агнца прощенье обрел.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В душе было горе, вокруг - пустота.</plain>
+        </string>
+        <string>
+            <plain>Была благодать и любовь мне чужда.</plain>
+        </string>
+        <string>
+            <plain>Но тут на меня мой Спаситель взглянул,</plain>
+        </string>
+        <string>
+            <plain>меня из любви Он к Себе притянул.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="293" name="Грешных всех Христос зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешных всех Христос зовет</plain>
+        </string>
+        <string>
+            <plain>И на правый путь ведет;</plain>
+        </string>
+        <string>
+            <plain>Их один лишь Он спасет;</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всякий званный да придет!</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+        <string>
+            <plain>Всякий званный да придет!</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друг, ты сбился на пути;</plain>
+        </string>
+        <string>
+            <plain>Чтоб заблудшего вести,</plain>
+        </string>
+        <string>
+            <plain>За тобой Господь идет;</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, придите ко Христу!</plain>
+        </string>
+        <string>
+            <plain>Даст Он счастья полноту</plain>
+        </string>
+        <string>
+            <plain>И в сердца покой прольет;</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, мужайтеся, друзья!</plain>
+        </string>
+        <string>
+            <plain>Крови чистая струя</plain>
+        </string>
+        <string>
+            <plain>Вас омоет и спасет;</plain>
+        </string>
+        <string>
+            <plain>Грешных всех Христос зовет!</plain>
+        </string>
+    </verse>
+</song>

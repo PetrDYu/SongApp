@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3288" name="Жизнь моя как море бурное" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь моя как море бурное,</plain>
+        </string>
+        <string>
+            <plain>как разъяренный океан.</plain>
+        </string>
+        <string>
+            <plain>Господи, во время трудное</plain>
+        </string>
+        <string>
+            <plain>укрепи меня Ты Сам.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я иду, но сколько трудностей</plain>
+        </string>
+        <string>
+            <plain>мне приходится встречать,</plain>
+        </string>
+        <string>
+            <plain>Господи, дай больше мудрости,</plain>
+        </string>
+        <string>
+            <plain>грех и зло все побеждать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир клеймит позором здесь</plain>
+        </string>
+        <string>
+            <plain>меня и смеётся надо мной.</plain>
+        </string>
+        <string>
+            <plain>О мой Бог, взираю на Тебя</plain>
+        </string>
+        <string>
+            <plain>всей душой живу с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Песнь моя к Тебе возносится,</plain>
+        </string>
+        <string>
+            <plain>песнь моя к Тебе летит.</plain>
+        </string>
+        <string>
+            <plain>Боже мой, мне очень хочется</plain>
+        </string>
+        <string>
+            <plain>одному Тебе служить.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Знаю я Твоё могущество</plain>
+        </string>
+        <string>
+            <plain>усмиряешь бури вой.</plain>
+        </string>
+        <string>
+            <plain>Ты даёшь мне преимущество</plain>
+        </string>
+        <string>
+            <plain>быть твоим, о Боже мой.</plain>
+        </string>
+    </chorus>
+</song>

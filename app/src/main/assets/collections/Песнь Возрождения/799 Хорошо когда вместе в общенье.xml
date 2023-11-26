@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="799" name="Хорошо когда вместе в общенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хорошо, когда вместе в общенье</plain>
+        </string>
+        <string>
+            <plain>Мы сольемся единой хвалой;</plain>
+        </string>
+        <string>
+            <plain>Хорошо, когда скорби в терпенье</plain>
+        </string>
+        <string>
+            <plain>Переносим с надеждой живой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хорошо, если сердце свободно,</plain>
+        </string>
+        <string>
+            <plain>Хорошо, если нету в нем зла!</plain>
+        </string>
+        <string>
+            <plain>Хорошо, хорошо и спокойно</plain>
+        </string>
+        <string>
+            <plain>В той душе, где всегда тишина.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хорошо, когда душу и тело</plain>
+        </string>
+        <string>
+            <plain>Мы вполне для Христа отдаем.</plain>
+        </string>
+        <string>
+            <plain>Хорошо, когда в битве мы смелы,</plain>
+        </string>
+        <string>
+            <plain>Когда действуем так, как поем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хорошо, когда бури, невзгоды</plain>
+        </string>
+        <string>
+            <plain>Нашу душу порой всколыхнут,</plain>
+        </string>
+        <string>
+            <plain>Когда чувствуем тяжесть дороги,</plain>
+        </string>
+        <string>
+            <plain>Когда труден наш жизненный путь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хорошо с Иисусом повсюду,</plain>
+        </string>
+        <string>
+            <plain>С Ним легко, ведь Он бремя несет.</plain>
+        </string>
+        <string>
+            <plain>Хорошо нам открыть сердце Другу.</plain>
+        </string>
+        <string>
+            <plain>А наш Друг - Иисус - все поймет.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хорошо! Как мы счастливы с Богом,</plain>
+        </string>
+        <string>
+            <plain>Не покинет Он нас никогда!</plain>
+        </string>
+        <string>
+            <plain>По тернистым житейским дорогам</plain>
+        </string>
+        <string>
+            <plain>Хорошо с Иисусом всегда!</plain>
+        </string>
+    </verse>
+</song>

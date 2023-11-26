@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1929" name="Светлый рай Светлый рай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Светлый рай! Светлый рай</plain>
+        </string>
+        <string>
+            <plain>Ожидает в небесах</plain>
+        </string>
+        <string>
+            <plain>Тех, кто с верою живою</plain>
+        </string>
+        <string>
+            <plain>Отдались Христу душою,</plain>
+        </string>
+        <string>
+            <plain>И раскаялись в грехах,</plain>
+        </string>
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+        <string>
+            <plain>Что разбойнику Христос</plain>
+        </string>
+        <string>
+            <plain>Обещал открыть навеки.</plain>
+        </string>
+        <string>
+            <plain>Где текут блаженства реки,</plain>
+        </string>
+        <string>
+            <plain>Где ни горя нет, ни слез,</plain>
+        </string>
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+        <string>
+            <plain>Просветленный верой взор</plain>
+        </string>
+        <string>
+            <plain>Чрез завесу вечной жизни</plain>
+        </string>
+        <string>
+            <plain>Видит радости отчизны</plain>
+        </string>
+        <string>
+            <plain>И небес святой простор,</plain>
+        </string>
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+        <string>
+            <plain>Хоть я грешен, слаб и наг,</plain>
+        </string>
+        <string>
+            <plain>Все ж, по милости Христовой,</plain>
+        </string>
+        <string>
+            <plain>Я наследник жизни новой</plain>
+        </string>
+        <string>
+            <plain>В том раю на небесах.</plain>
+        </string>
+        <string>
+            <plain>Светлый рай! Светлый рай!</plain>
+        </string>
+    </verse>
+</song>

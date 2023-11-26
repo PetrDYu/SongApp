@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3043" name="Что может быть блаженней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что может быть блаженней</plain>
+        </string>
+        <string>
+            <plain>и что прекрасней быть,</plain>
+        </string>
+        <string>
+            <plain>как жизнь свою служенью</plain>
+        </string>
+        <string>
+            <plain>Иисусу посвятить!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Спасителя люблю я,</plain>
+        </string>
+        <string>
+            <plain>Его закон храня,</plain>
+        </string>
+        <string>
+            <plain>и имя Иисуса</plain>
+        </string>
+        <string>
+            <plain>так сладко для меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вблизи Христа прекрасно,</plain>
+        </string>
+        <string>
+            <plain>и радостны сердца,</plain>
+        </string>
+        <string>
+            <plain>как будто видим ясно</plain>
+        </string>
+        <string>
+            <plain>мы лик Его всегда!</plain>
+        </string>
+        <string>
+            <plain>З Душа в мольбе взывает,</plain>
+        </string>
+        <string>
+            <plain>хотя молчат уста,</plain>
+        </string>
+        <string>
+            <plain>и мысли улетают</plain>
+        </string>
+        <string>
+            <plain>всё выше в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Обильно посылает</plain>
+        </string>
+        <string>
+            <plain>нам всё Его рука;</plain>
+        </string>
+        <string>
+            <plain>все могут, кто желает,</plain>
+        </string>
+        <string>
+            <plain>Его иметь всегда.</plain>
+        </string>
+    </verse>
+</song>

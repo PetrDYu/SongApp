@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2228" name="Народ новый восстаёт в стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Народ новый восстаёт в стране,</plain>
+        </string>
+        <string>
+            <plain>Святой народ, все цепи зла он разорвёт.</plain>
+        </string>
+        <string>
+            <plain>Народ, познавший Божью силу,</plain>
+        </string>
+        <string>
+            <plain>Штурмует ад, его врата не устоят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Содрогнётся ад, всё царство тьмы,</plain>
+        </string>
+        <string>
+            <plain>Рухнут все твердыни сатаны.</plain>
+        </string>
+        <string>
+            <plain>Знают все враги, что дни их сочтены.</plain>
+        </string>
+        <string>
+            <plain>Пленники грека увидят свет,</plain>
+        </string>
+        <string>
+            <plain>Нет цепей и рабства больше нет,</plain>
+        </string>
+        <string>
+            <plain>Мы возьмём всё то, что нам принадлежит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Помазал Бог тебя, Помазал Бог меня.</plain>
+        </string>
+        <string>
+            <plain>Победу дал Он церкви, Он её хранит.</plain>
+        </string>
+        <string>
+            <plain>Господь послал тебя, Господь послал меня,</plain>
+        </string>
+        <string>
+            <plain>Никто перед тобой не устоит!</plain>
+        </string>
+    </verse>
+</song>

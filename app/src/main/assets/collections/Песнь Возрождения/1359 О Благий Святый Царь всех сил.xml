@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1359" name="О Благий Святый Царь всех сил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Благий, Святый Царь всех сил!</plain>
+        </string>
+        <string>
+            <plain>Все, что в мире есть.</plain>
+        </string>
+        <string>
+            <plain>Ты совершил.</plain>
+        </string>
+        <string>
+            <plain>Бог-Творец! Бог-Творец!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пред Тобой мы с мольбой</plain>
+        </string>
+        <string>
+            <plain>Предстоим:</plain>
+        </string>
+        <string>
+            <plain>Мир Твой дай нам - созданьям Твоим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В вере истинной нас соблюди</plain>
+        </string>
+        <string>
+            <plain>И в надежде Твоей утверди,</plain>
+        </string>
+        <string>
+            <plain>Возгревай любовь в нашей груди.</plain>
+        </string>
+        <string>
+            <plain>Светом правды святой нас веди.</plain>
+        </string>
+        <string>
+            <plain>В небеса! В небеса!</plain>
+        </string>
+    </verse>
+</song>

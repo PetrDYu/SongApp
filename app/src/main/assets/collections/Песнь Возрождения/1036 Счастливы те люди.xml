@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1036" name="Счастливы те люди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Кто учит Библию.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Кто Богу молится.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Кто свыше рождены.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Которых друг - Христос.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Счастливы те люди,</plain>
+        </string>
+        <string>
+            <plain>Где все в любви живут.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Светильник чей горит.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Кто встретится с Христом.</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Счастливы те люди.</plain>
+        </string>
+        <string>
+            <plain>Споем Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

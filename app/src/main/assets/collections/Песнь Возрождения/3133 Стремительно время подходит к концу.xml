@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3133" name="Стремительно время подходит к концу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стремительно время подходит к концу,</plain>
+        </string>
+        <string>
+            <plain>да, до смерти всего только шаг.</plain>
+        </string>
+        <string>
+            <plain>Бог скоро представит людей всех к суду.</plain>
+        </string>
+        <string>
+            <plain>Да, до смерти всего только шаг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, всего только шаг, только лишь шаг,</plain>
+        </string>
+        <string>
+            <plain>да, до смерти всего только шаг!</plain>
+        </string>
+        <string>
+            <plain>О грешник, проснись, к Христу обратись,</plain>
+        </string>
+        <string>
+            <plain>ведь до смерти всего только шаг!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Земной человек, ты уж близок к концу,</plain>
+        </string>
+        <string>
+            <plain>ведь до смерти всего только шаг.</plain>
+        </string>
+        <string>
+            <plain>Дни жизни как ветер летят в пустоту,</plain>
+        </string>
+        <string>
+            <plain>и до смерти всего только шаг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Блуждаешь ты в мраке греховных страстей,</plain>
+        </string>
+        <string>
+            <plain>но до смерти всего только шаг.</plain>
+        </string>
+        <string>
+            <plain>Закроется дверь, о, приди же скорей,</plain>
+        </string>
+        <string>
+            <plain>ведь до смерти всего только шаг!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Уж близок конец, бедный грешник, внемли,</plain>
+        </string>
+        <string>
+            <plain>что до смерти всего только шаг.</plain>
+        </string>
+        <string>
+            <plain>В Иисусе - спасенье, к Нему поспеши прежде,</plain>
+        </string>
+        <string>
+            <plain>чем ты свершишь этот шаг!</plain>
+        </string>
+    </verse>
+</song>

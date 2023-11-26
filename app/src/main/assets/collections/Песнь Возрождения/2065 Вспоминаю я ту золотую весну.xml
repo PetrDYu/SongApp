@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2065" name="Вспоминаю я ту золотую весну" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вспоминаю я ту золотую весну,</plain>
+        </string>
+        <string>
+            <plain>Юность светлую, дни незабвенные,</plain>
+        </string>
+        <string>
+            <plain>Вспоминаю я маму родную свою,</plain>
+        </string>
+        <string>
+            <plain>Ее руки и волосы светлые.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Знаю, мама моя, что тебе нелегко,</plain>
+        </string>
+        <string>
+            <plain>Ты растишь сыновей, Ты растишь дочерей,</plain>
+        </string>
+        <string>
+            <plain>Отдаешь им любовь и все в жизни своей</plain>
+        </string>
+        <string>
+            <plain>Бережешь ты для нас, непослушных детей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Твои руки уже от работы дрожат</plain>
+        </string>
+        <string>
+            <plain>И походка уж стала нетвердая,</plain>
+        </string>
+        <string>
+            <plain>И глаза твои многое мне говорят</plain>
+        </string>
+        <string>
+            <plain>О бессонных ночах проведенных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты ведь тоже когда-то была молодой.</plain>
+        </string>
+        <string>
+            <plain>Помнишь, мама, сама все, наверно.</plain>
+        </string>
+        <string>
+            <plain>Путь нелегкий был пройден, родная тобой,</plain>
+        </string>
+        <string>
+            <plain>Испытала ты много, конечно.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="457" name="Благословенно имя Творца Вселенной" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Благословенно имя Творца Вселенной.</plain>
+        </string>
+        <string>
+            <plain>Отныне и вовек Господу хвала!</plain>
+        </string>
+        <string>
+            <plain>Благословенно имя Его святое,</plain>
+        </string>
+        <string>
+            <plain>Над небесами слава Его.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Sit nomen Domini sit benedictum.</plain>
+        </string>
+        <string>
+            <plain>Nunc et in saecula benedictum.</plain>
+        </string>
+    </verse>
+</song>

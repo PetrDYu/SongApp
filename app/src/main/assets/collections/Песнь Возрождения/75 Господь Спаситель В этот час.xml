@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="75" name="Господь Спаситель В этот час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, Спаситель! В этот час</plain>
+        </string>
+        <string>
+            <plain>Взгляни с высот Твоих на нас,</plain>
+        </string>
+        <string>
+            <plain>Среди холодной пустоты</plain>
+        </string>
+        <string>
+            <plain>Зажги огонь Свой, Боже, Ты!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сердца к молитве приготовь</plain>
+        </string>
+        <string>
+            <plain>И освяти уста Ты вновь!</plain>
+        </string>
+        <string>
+            <plain>Даруй нам веры благодать,</plain>
+        </string>
+        <string>
+            <plain>Дай, Боже, вновь Тебя познать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И дай увидеть мощь Твою</plain>
+        </string>
+        <string>
+            <plain>В Тобой обещанном краю,</plain>
+        </string>
+        <string>
+            <plain>Где все мы пред Твоим лицом</plain>
+        </string>
+        <string>
+            <plain>Забудем мир с его грехом.</plain>
+        </string>
+    </verse>
+</song>

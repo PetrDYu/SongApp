@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2825" name="Наш Господь в долине восседает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наш Господь в долине восседает,</plain>
+        </string>
+        <string>
+            <plain>чтоб судить народы все;</plain>
+        </string>
+        <string>
+            <plain>Словом истины Он призывает</plain>
+        </string>
+        <string>
+            <plain>отовсюду всех к Себе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слушайте, народы все,</plain>
+        </string>
+        <string>
+            <plain>да, слушайте, народы все,</plain>
+        </string>
+        <string>
+            <plain>Божье Слово в полноте,</plain>
+        </string>
+        <string>
+            <plain>да Божье Слово в полноте!</plain>
+        </string>
+        <string>
+            <plain>Вас оно ль освободит,</plain>
+        </string>
+        <string>
+            <plain>да, вас оно ль освободит,</plain>
+        </string>
+        <string>
+            <plain>Или свет вас обличит</plain>
+        </string>
+        <string>
+            <plain>(вас обличит)?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вострубите, поднимите знамя,</plain>
+        </string>
+        <string>
+            <plain>благовестники Христа!</plain>
+        </string>
+        <string>
+            <plain>Правду сделайте для всех</plain>
+        </string>
+        <string>
+            <plain>весами и мерилом для суда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтоб возвышенное низким стало,</plain>
+        </string>
+        <string>
+            <plain>и что низко — высоко,</plain>
+        </string>
+        <string>
+            <plain>перекуйте на мечи орала,</plain>
+        </string>
+        <string>
+            <plain>не страшись врага никто.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В ход серпы пустите к зрелой жатве,</plain>
+        </string>
+        <string>
+            <plain>пока солнце не зашло!</plain>
+        </string>
+        <string>
+            <plain>Бог зовёт в Сион!</plain>
+        </string>
+        <string>
+            <plain>Не пейте больше вавилонское вино!</plain>
+        </string>
+    </verse>
+</song>

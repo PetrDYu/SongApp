@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="728" name="Мы идем идем в страну где скорби нет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы идем, идем в страну, где скорби нет,</plain>
+        </string>
+        <string>
+            <plain>Где сияет вечно, вечно Божий свет;</plain>
+        </string>
+        <string>
+            <plain>Древо жизни там, растут плоды всегда,</plain>
+        </string>
+        <string>
+            <plain>Зла, тревог, вражды не будет никогда!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Поспеши к Иисусу</plain>
+        </string>
+        <string>
+            <plain>(Друг, приди скорей к Иисусу),</plain>
+        </string>
+        <string>
+            <plain>Он тебя спасет</plain>
+        </string>
+        <string>
+            <plain>(Он тебя введет в тот край)</plain>
+        </string>
+        <string>
+            <plain>И твою Он душу</plain>
+        </string>
+        <string>
+            <plain>(Вечную твою Он душу)</plain>
+        </string>
+        <string>
+            <plain>В рай с Собой введет</plain>
+        </string>
+        <string>
+            <plain>(Приведет в Свой рай)!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В той стране мы встретим всех своих друзей,</plain>
+        </string>
+        <string>
+            <plain>Что страдали здесь средь горестных скорбей,</plain>
+        </string>
+        <string>
+            <plain>В золотых венцах Христу они поют</plain>
+        </string>
+        <string>
+            <plain>И в блаженстве неба вечно там живут.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Торжеству спасенных там предела нет,</plain>
+        </string>
+        <string>
+            <plain>Пажити живые, неба Божий свет...</plain>
+        </string>
+        <string>
+            <plain>В любви бесконечной жизнь там без конца,</plain>
+        </string>
+        <string>
+            <plain>В Духе, под охраной Сына и Отца.</plain>
+        </string>
+    </verse>
+</song>

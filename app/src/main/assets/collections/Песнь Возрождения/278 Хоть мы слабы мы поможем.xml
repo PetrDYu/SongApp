@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="278" name="Хоть мы слабы мы поможем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть мы слабы, мы поможем</plain>
+        </string>
+        <string>
+            <plain>Созидать Сионский храм;</plain>
+        </string>
+        <string>
+            <plain>Все надежды мы возложим</plain>
+        </string>
+        <string>
+            <plain>На Христа: Он помощь нам!</plain>
+        </string>
+        <string>
+            <plain>Вольный труд, как он ни мал,</plain>
+        </string>
+        <string>
+            <plain>Принимать Он обещал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, осанна Божью Сыну,</plain>
+        </string>
+        <string>
+            <plain>Ибо Он так любит нас;</plain>
+        </string>
+        <string>
+            <plain>Соблюдемте, как святыню,</plain>
+        </string>
+        <string>
+            <plain>Свыше данный нам указ.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Много душ идут опасной</plain>
+        </string>
+        <string>
+            <plain>Иль неверною тропой,</plain>
+        </string>
+        <string>
+            <plain>Но Господень голос ясный</plain>
+        </string>
+        <string>
+            <plain>Их зовет на труд святой.</plain>
+        </string>
+        <string>
+            <plain>Мы, призванные Христом,</plain>
+        </string>
+        <string>
+            <plain>Будем строить Божий дом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтобы вскоре и повсюду</plain>
+        </string>
+        <string>
+            <plain>Виден был духовный храм,</plain>
+        </string>
+        <string>
+            <plain>Где любви Христовой чудо</plain>
+        </string>
+        <string>
+            <plain>Открывалось бы сердцам, -</plain>
+        </string>
+        <string>
+            <plain>Боже наш! Пусть власть Твоя</plain>
+        </string>
+        <string>
+            <plain>Обоймет людей сердца!</plain>
+        </string>
+    </verse>
+</song>

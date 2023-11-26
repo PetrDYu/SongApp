@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2986" name="Бог премудрый и святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог премудрый и святой,</plain>
+        </string>
+        <string>
+            <plain>я склоняюсь пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>вглубь моей души взгляни,</plain>
+        </string>
+        <string>
+            <plain>в святости меня храни.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог любви, Бог добра,</plain>
+        </string>
+        <string>
+            <plain>верно Ты веди меня;</plain>
+        </string>
+        <string>
+            <plain>Бог любви и мудрости,</plain>
+        </string>
+        <string>
+            <plain>душу Ты мою храни!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог всесильный и благой,</plain>
+        </string>
+        <string>
+            <plain>будь Ты каждый час со мной,</plain>
+        </string>
+        <string>
+            <plain>силу дай и благодать,</plain>
+        </string>
+        <string>
+            <plain>верно Слово исполнять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Неизменный Бог любви,</plain>
+        </string>
+        <string>
+            <plain>Ты вдали и Ты вблизи;</plain>
+        </string>
+        <string>
+            <plain>благодатью без числа</plain>
+        </string>
+        <string>
+            <plain>окружаешь Ты меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог небесной святости,</plain>
+        </string>
+        <string>
+            <plain>Ты всегда во мне живи,</plain>
+        </string>
+        <string>
+            <plain>чтобы образ Твой во мне</plain>
+        </string>
+        <string>
+            <plain>увидали люди все.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вечный Бог, Твоя рука</plain>
+        </string>
+        <string>
+            <plain>будет пусть со мной всегда;</plain>
+        </string>
+        <string>
+            <plain>Бог, неведающий лжи,</plain>
+        </string>
+        <string>
+            <plain>верно Ты меня веди.</plain>
+        </string>
+    </verse>
+</song>

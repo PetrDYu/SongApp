@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2566" name="На далеком холме средь деревьев и скал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На далеком холме средь деревьев и скал,</plain>
+        </string>
+        <string>
+            <plain>Сквозь седые века, старый крест простоял.</plain>
+        </string>
+        <string>
+            <plain>Миллионы людей у подножья креста</plain>
+        </string>
+        <string>
+            <plain>Свое счастье нашли, там однажды был я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Старый крест, не броский, но лишь в нем</plain>
+        </string>
+        <string>
+            <plain>Сила есть, Сегодня может он</plain>
+        </string>
+        <string>
+            <plain>Исцелять разбитые, больные сердца,</plain>
+        </string>
+        <string>
+            <plain>Каждому пришедшему открыть небеса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Между небом святым и греховной .землей</plain>
+        </string>
+        <string>
+            <plain>Пропасть злая лежит, разделяя собой.</plain>
+        </string>
+        <string>
+            <plain>Хочешь - верь, хочешь - нет, слушай слово</plain>
+        </string>
+        <string>
+            <plain>Творца: Крест - единственный мост от земли в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Иисус дорогой, у подножья креста</plain>
+        </string>
+        <string>
+            <plain>Сквозь седые века я увидел Тебя:</plain>
+        </string>
+        <string>
+            <plain>На пронзенных руках незастывшая кровь,</plain>
+        </string>
+        <string>
+            <plain>А в прекрасных глазах Божья к людям любовь.</plain>
+        </string>
+    </verse>
+</song>

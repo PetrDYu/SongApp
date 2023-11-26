@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1177" name="Сам Спаситель приглашает нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сам Спаситель приглашает нас:</plain>
+        </string>
+        <string>
+            <plain>"О, приди! О, приди!"</plain>
+        </string>
+        <string>
+            <plain>Слушай, друг, призывный, нежный глас.</plain>
+        </string>
+        <string>
+            <plain>О, заблудший грешник, к Богу приди!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нежный голос мне звучит.</plain>
+        </string>
+        <string>
+            <plain>Мир душе моей дарит.</plain>
+        </string>
+        <string>
+            <plain>В Нем нашел я свой покой,</plain>
+        </string>
+        <string>
+            <plain>Иисус - Спаситель мой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Зов любви Твоей услышал я:</plain>
+        </string>
+        <string>
+            <plain>"О, приди! О, приди!"</plain>
+        </string>
+        <string>
+            <plain>Он к вратам небес привел меня,</plain>
+        </string>
+        <string>
+            <plain>И тебя, о грешник. Он зовет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Голос милости Твоей звучал:</plain>
+        </string>
+        <string>
+            <plain>"О, приди! О, приди!"</plain>
+        </string>
+        <string>
+            <plain>И Ему я трепетно внимал!</plain>
+        </string>
+        <string>
+            <plain>Я нашел спасенье, друг, о, приди!</plain>
+        </string>
+    </verse>
+</song>

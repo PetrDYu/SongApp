@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2599" name="Если солнце в тучах скрылось" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если солнце в тучах скрылось,</plain>
+        </string>
+        <string>
+            <plain>Темен путь перед тобой,</plain>
+        </string>
+        <string>
+            <plain>Если сердце утомилось</plain>
+        </string>
+        <string>
+            <plain>Постоянною борьбой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В те минуты, брат мой милый,</plain>
+        </string>
+        <string>
+            <plain>Знаешь ты, куда спешить.</plain>
+        </string>
+        <string>
+            <plain>Ты усталый (и унылый),</plain>
+        </string>
+        <string>
+            <plain>Знаешь, где (тоску) излить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В тихой кроткой ты молитве</plain>
+        </string>
+        <string>
+            <plain>Пред Отцом склони главу,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Он в житейской битве</plain>
+        </string>
+        <string>
+            <plain>Проявил любовь Свою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но ведь много есть несчастных,</plain>
+        </string>
+        <string>
+            <plain>Тех страдающих, больных,</plain>
+        </string>
+        <string>
+            <plain>Кто не знает о прекрасных</plain>
+        </string>
+        <string>
+            <plain>Божьих милостях святых.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И о них в мольбе пред Богом</plain>
+        </string>
+        <string>
+            <plain>Также вспомни ты порой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб и в сердце их убогом</plain>
+        </string>
+        <string>
+            <plain>Засиял Христа покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1582" name="Иисус Твое Имя выше" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, Твое Имя выше</plain>
+        </string>
+        <string>
+            <plain>Горных пиков и всех имен,</plain>
+        </string>
+        <string>
+            <plain>Лишь Тобою вселенная дышит.</plain>
+        </string>
+        <string>
+            <plain>Как цветок, что весной рожден.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Преклонить пред Тобою колени</plain>
+        </string>
+        <string>
+            <plain>За великое счастье чту.</plain>
+        </string>
+        <string>
+            <plain>Повергаю мои моленья,</plain>
+        </string>
+        <string>
+            <plain>Доверяю мою мечту.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я хочу, я прошу, мой Боже,</plain>
+        </string>
+        <string>
+            <plain>Чтоб для многих тысяч людей</plain>
+        </string>
+        <string>
+            <plain>Твое Имя стало дороже</plain>
+        </string>
+        <string>
+            <plain>Всех сокровищ и жизни всей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Зори Божьей любви не погасли,</plain>
+        </string>
+        <string>
+            <plain>День придет тот, и я воспою</plain>
+        </string>
+        <string>
+            <plain>Красоту Вифлеемских яслей</plain>
+        </string>
+        <string>
+            <plain>С миллионами душ в раю.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1900" name="Бог сказал пред всей вселенной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог сказал пред всей вселенной.</plain>
+        </string>
+        <string>
+            <plain>Что Он слышит веры зов</plain>
+        </string>
+        <string>
+            <plain>И мольбу души смиренной...</plain>
+        </string>
+        <string>
+            <plain>Не забыл Своих Он слов.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иногда, в часы роптании,</plain>
+        </string>
+        <string>
+            <plain>Говоришь ты: У Него</plain>
+        </string>
+        <string>
+            <plain>Я просил с небес даяний:</plain>
+        </string>
+        <string>
+            <plain>Он не дал ни одного".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но в часы успокоенья</plain>
+        </string>
+        <string>
+            <plain>Испытай, мой друг, себя;</plain>
+        </string>
+        <string>
+            <plain>Ты молился, полн сомненья,</plain>
+        </string>
+        <string>
+            <plain>Затаенный грех любя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сбрось греховный гнет сомненья</plain>
+        </string>
+        <string>
+            <plain>И опять к Нему приди,</plain>
+        </string>
+        <string>
+            <plain>И ответы на моленья</plain>
+        </string>
+        <string>
+            <plain>Зазвучат в твоей груди.</plain>
+        </string>
+    </verse>
+</song>

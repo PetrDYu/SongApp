@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2028" name="В день торжественный для вас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В день торжественный для вас</plain>
+        </string>
+        <string>
+            <plain>Мы хотим поздравить вас,</plain>
+        </string>
+        <string>
+            <plain>Пожелать вам много счастья,</plain>
+        </string>
+        <string>
+            <plain>Уберечь вас от ненастья.</plain>
+        </string>
+        <string>
+            <plain>Будьте нежны вы друг с другом,</plain>
+        </string>
+        <string>
+            <plain>Сердцем преданны всегда.</plain>
+        </string>
+        <string>
+            <plain>И любовь всю жизнь, как солнце,</plain>
+        </string>
+        <string>
+            <plain>Пусть сияет в вас, друзья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастливого пути желаем мы для вас.</plain>
+        </string>
+        <string>
+            <plain>Пусть сбудутся мечты,</plain>
+        </string>
+        <string>
+            <plain>что задумали, у вас.</plain>
+        </string>
+        <string>
+            <plain>(Не забудьте и о нас).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будьте вы всегда вдвоем,</plain>
+        </string>
+        <string>
+            <plain>Будьте вы всегда с Христом,</plain>
+        </string>
+        <string>
+            <plain>Ведь вдвоем легко идти,</plain>
+        </string>
+        <string>
+            <plain>А без Бога не дойти.</plain>
+        </string>
+        <string>
+            <plain>Он поможет вам в пути,</plain>
+        </string>
+        <string>
+            <plain>через годы перейти,</plain>
+        </string>
+        <string>
+            <plain>Так к Отчизне вы дойдете,</plain>
+        </string>
+        <string>
+            <plain>и лишь там вы отдохнете.</plain>
+        </string>
+    </verse>
+</song>

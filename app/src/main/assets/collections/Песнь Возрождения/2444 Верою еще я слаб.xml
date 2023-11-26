@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2444" name="Верою еще я слаб" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верою еще я слаб,</plain>
+        </string>
+        <string>
+            <plain>Но служить Христу стараюсь,</plain>
+        </string>
+        <string>
+            <plain>И желаю, чтоб росла</plain>
+        </string>
+        <string>
+            <plain>Веточка любви святая.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус, Ты научи</plain>
+        </string>
+        <string>
+            <plain>Быть родителям послушным,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мстит-ты лучи</plain>
+        </string>
+        <string>
+            <plain>Я понес потом заблудшим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Незаметно подрасту,</plain>
+        </string>
+        <string>
+            <plain>Крылья веры я расправлю,</plain>
+        </string>
+        <string>
+            <plain>Так хочу служить Христу,</plain>
+        </string>
+        <string>
+            <plain>Как служил апостол Павел.</plain>
+        </string>
+    </verse>
+</song>

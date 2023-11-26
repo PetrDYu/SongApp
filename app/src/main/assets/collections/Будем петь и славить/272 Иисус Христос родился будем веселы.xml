@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="272" name="Иисус Христос родился будем веселы" canon="false" text="" textRus="М. Винецкой" music="М.М. Миодушевского" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус Христос родился – будем веселы!</plain>
+        </string>
+        <string>
+            <plain>Радуйтесь, земля и небо, пойте, ангелы!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава, слава, слава в вышних Богу!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>или: ::Gloria, gloria in excelsis Deo!::</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На колени вол с осленком перед Ним встают,</plain>
+        </string>
+        <string>
+            <plain>В новорожденном Младенце Бога узнают.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Три волхва из стран далеких в Вифлеем идут,</plain>
+        </string>
+        <string>
+            <plain>Ладан, золото и смирну Господу несут.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пастухи спешат к вертепу, их ведет звезда.</plain>
+        </string>
+        <string>
+            <plain>Поспешим и мы на праздник славить Господа.</plain>
+        </string>
+    </verse>
+</song>

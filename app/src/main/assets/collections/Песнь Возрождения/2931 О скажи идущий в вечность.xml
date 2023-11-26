@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2931" name="О скажи идущий в вечность" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О скажи, идущий в вечность,</plain>
+        </string>
+        <string>
+            <plain>ты свободен от грехов?</plain>
+        </string>
+        <string>
+            <plain>Подтверждаешь своей жизнью,</plain>
+        </string>
+        <string>
+            <plain>что в душе живёт любовь?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да! Да! Да!</plain>
+        </string>
+        <string>
+            <plain>На истинном пути я!</plain>
+        </string>
+        <string>
+            <plain>И славлю Бога всей душой</plain>
+        </string>
+        <string>
+            <plain>за благодать спасенья!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Богу безвозвратно отдал</plain>
+        </string>
+        <string>
+            <plain>сердце и всего себя?</plain>
+        </string>
+        <string>
+            <plain>Умер полностью для мира</plain>
+        </string>
+        <string>
+            <plain>и живёшь ли для Христа?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты живёшь по воле Божьей?</plain>
+        </string>
+        <string>
+            <plain>Наставляет Дух тебя?</plain>
+        </string>
+        <string>
+            <plain>Славишь ли устами Бога?</plain>
+        </string>
+        <string>
+            <plain>Речь твоя любви полна?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вытираешь слёзы вдовам?</plain>
+        </string>
+        <string>
+            <plain>Сиротам ты хлеб даёшь?</plain>
+        </string>
+        <string>
+            <plain>Утешаешь ли скорбящих?</plain>
+        </string>
+        <string>
+            <plain>Ближнего нужду несёшь?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Бедных грешников зовёшь ли</plain>
+        </string>
+        <string>
+            <plain>на небесный, узкий путь?</plain>
+        </string>
+        <string>
+            <plain>Брат мой, только так победно</plain>
+        </string>
+        <string>
+            <plain>можем странствовать мы тут!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2687" name="Благодать и любовь от Отца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодать и любовь от Отца,</plain>
+        </string>
+        <string>
+            <plain>От Отца бесконечной вселенной.</plain>
+        </string>
+        <string>
+            <plain>Никогда, никогда, никогда, никогда</plain>
+        </string>
+        <string>
+            <plain>Не получишь за злато и деньги.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты привык все оплачивать точно,</plain>
+        </string>
+        <string>
+            <plain>Даром только лишь нищим даешь.</plain>
+        </string>
+        <string>
+            <plain>Никогда, никогда не получишь прощенья,</plain>
+        </string>
+        <string>
+            <plain>Если нищим к Нему не придешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Своей славы не даст Бог иной,</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса - единственный путь.</plain>
+        </string>
+        <string>
+            <plain>Никогда человека, пришедшего к Богу,</plain>
+        </string>
+        <string>
+            <plain>Иисус не желает забыть.</plain>
+        </string>
+    </verse>
+</song>

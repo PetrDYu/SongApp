@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="372" name="Когда Иисус явился в мир как ты, как он, как я " canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Когда Иисус явился в мир – как ты, как он, как я –</plain>
+        </string>
+        <string>
+            <plain>Его укачивала Мать в соломенных яслях.</plain>
+        </string>
+        <string>
+            <plain>Был слишком беден и уныл Его земной чертог,</plain>
+        </string>
+        <string>
+            <plain>Но ангел пастухам открыл, что здесь родился Бог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, (5 р.) маленький Иисус!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда Иисус младенцем был – как ты, как он, как я –</plain>
+        </string>
+        <string>
+            <plain>Пришла в Иерусалимский Храм Священная семья.</plain>
+        </string>
+        <string>
+            <plain>Там на пороге в Божий Дом их встретил Симеон</plain>
+        </string>
+        <string>
+            <plain>И, воздавая Богу честь, Дитя восславил он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда Иисус ребенком был – как ты, как он, как я –</plain>
+        </string>
+        <string>
+            <plain>Он в Назарете тихом жил, и с Ним Его семья.</plain>
+        </string>
+        <string>
+            <plain>Ему про древний свой народ рассказывала Мать,</plain>
+        </string>
+        <string>
+            <plain>Иосиф плотничать учил и Библию читать.</plain>
+        </string>
+    </verse>
+</song>

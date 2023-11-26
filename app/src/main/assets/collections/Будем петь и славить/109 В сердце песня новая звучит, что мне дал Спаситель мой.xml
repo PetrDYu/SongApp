@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="109" name="В сердце песня новая звучит, что мне дал Спаситель мой" canon="false" text="Л. Б. Бриджерса" textRus="" music="Л. Б. Бриджерса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В сердце песня новая звучит, что мне дал Спаситель мой:</plain>
+        </string>
+        <string>
+            <plain>Я с тобою всюду, Я – твой щит, не пугайся тьмы земной!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, мой Спаситель, радость мне дает,</plain>
+        </string>
+        <string>
+            <plain>Восполняет нужды, в Нем душа всегда поет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь мою терзал грех и порок, весь разбитый я страдал,</plain>
+        </string>
+        <string>
+            <plain>Но Господь меня к Себе привлек, песню новую мне дал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я питаюсь от Его стола, сплю я под Его крылом.</plain>
+        </string>
+        <string>
+            <plain>Лик Его не закрывает мгла, я всегда пою о Нем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть порой чрез воды Он ведет и страшат меня труды,</plain>
+        </string>
+        <string>
+            <plain>Хоть встречаю длинный ряд невзгод, но везде Его следы.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Скоро Он придет опять с небес и возьмет меня к Себе,</plain>
+        </string>
+        <string>
+            <plain>С Ним войду я в светлый мир чудес царствовать на высоте.</plain>
+        </string>
+    </verse>
+</song>

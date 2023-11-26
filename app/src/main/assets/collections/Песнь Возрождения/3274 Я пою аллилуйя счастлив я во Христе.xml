@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3274" name="Я пою аллилуйя счастлив я во Христе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я пою: аллилуйя, счастлив я во Христе!</plain>
+        </string>
+        <string>
+            <plain>Сердце радостью безмерной наполняет Он мне.</plain>
+        </string>
+        <string>
+            <plain>На Него уповаю, ведь Его я дитя.</plain>
+        </string>
+        <string>
+            <plain>И в Спасителе Иисусе я так счастлив всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Моя радость в Христе!</plain>
+        </string>
+        <string>
+            <plain>Моя радость в Христе!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Счастлив я во Христе!</plain>
+        </string>
+        <string>
+            <plain>Да, радость в Христе</plain>
+        </string>
+        <string>
+            <plain>и блаженство душе.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Моя радость — в Христе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я живу для Иисуса, я - Его навсегда,</plain>
+        </string>
+        <string>
+            <plain>на груди Его покоясь, в безопасности я.</plain>
+        </string>
+        <string>
+            <plain>С каждым днём ярче светит свет Его на пути,</plain>
+        </string>
+        <string>
+            <plain>ободряет мою душу, чтоб за Ним вслед идти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В двери рая со славой я однажды войду,</plain>
+        </string>
+        <string>
+            <plain>с хором ангелов пред троном песнь Ему воспою.</plain>
+        </string>
+        <string>
+            <plain>Вечно буду вблизи Иисуса я пребывать,</plain>
+        </string>
+        <string>
+            <plain>со спасёнными я буду Его восхвалять.</plain>
+        </string>
+    </verse>
+</song>

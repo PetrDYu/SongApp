@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="256" name="Мы ждем, когда Спаситель наш придет" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Мы ждем, когда Спаситель наш придет</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Мы ждем, когда Спаситель</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain>наш придет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ему мы «аллилуйя!» воспоем.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Ему мы «аллилуйя!»</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+            <plain>воспоем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Мы все Его здесь встретим на пути</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Мы все Его здесь встретим</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+            <plain>на пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>О грешник, устоишь ли на пути?</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Спеши Его здесь встретить</plain>
+            <repeat id="7" rep_rate="3" is_opening="false" />
+            <plain>на пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="8" rep_rate="-1" is_opening="true" />
+            <plain>Христос придет, чтоб взять нас от земли.</plain>
+            <repeat id="8" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="9" rep_rate="-1" is_opening="true" />
+            <plain>Христос придет, чтоб взять нас</plain>
+            <repeat id="9" rep_rate="3" is_opening="false" />
+            <plain>от земли.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <repeat id="10" rep_rate="-1" is_opening="true" />
+            <plain>И в небе «аллилуйя!» воспоем.</plain>
+            <repeat id="10" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="11" rep_rate="-1" is_opening="true" />
+            <plain>И в небе «аллилуйя!»</plain>
+            <repeat id="11" rep_rate="3" is_opening="false" />
+            <plain>воспоем.</plain>
+        </string>
+    </chorus>
+</song>

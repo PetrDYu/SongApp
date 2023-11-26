@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3170" name="Ты Духом Бог Святым" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты Духом, Бог, Святым</plain>
+        </string>
+        <string>
+            <plain>запечатли меня.</plain>
+        </string>
+        <string>
+            <plain>Хочу я быть слугой Твоим</plain>
+        </string>
+        <string>
+            <plain>и ныне, и в веках.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, войди ко мне</plain>
+        </string>
+        <string>
+            <plain>и сердца дверь замкни,</plain>
+        </string>
+        <string>
+            <plain>храни его Ты в чистоте,</plain>
+        </string>
+        <string>
+            <plain>и в нём один живи!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Теперь прошу, Господь,</plain>
+        </string>
+        <string>
+            <plain>грех в сердце не впусти:</plain>
+        </string>
+        <string>
+            <plain>лишь так я в близости Твоей</plain>
+        </string>
+        <string>
+            <plain>могу уверен быть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты, Царь, Свой храм святой</plain>
+        </string>
+        <string>
+            <plain>в моей душе построй.</plain>
+        </string>
+        <string>
+            <plain>Хочу служить Тебе, Отец</plain>
+        </string>
+        <string>
+            <plain>и Сын, и Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И с помощью Твоей</plain>
+        </string>
+        <string>
+            <plain>я заключу союз,</plain>
+        </string>
+        <string>
+            <plain>чтоб с каждым днём служить</plain>
+        </string>
+        <string>
+            <plain>верней всем сердцем, мой Иисус.</plain>
+        </string>
+    </verse>
+</song>

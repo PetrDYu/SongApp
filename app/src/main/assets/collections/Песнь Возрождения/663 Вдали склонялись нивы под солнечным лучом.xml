@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="663" name="Вдали склонялись нивы под солнечным лучом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вдали склонялись нивы под солнечным лучом,</plain>
+        </string>
+        <string>
+            <plain>Жнецы, народ счастливый, шли каждый со снопом.</plain>
+        </string>
+        <string>
+            <plain>Больной глядел уныло из дома своего:</plain>
+        </string>
+        <string>
+            <plain>"Я слаб, к труду нет силы для дела Твоего".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но к ночи путник дальний пришел к дверям его;</plain>
+        </string>
+        <string>
+            <plain>Стакан с водой кристальной он вынес для него;</plain>
+        </string>
+        <string>
+            <plain>Когда же, освеженный, тот путник вдаль ушел,</plain>
+        </string>
+        <string>
+            <plain>Он сноп позолоченный в своих дверях нашел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И Богу со слезами сказал он: "Сноп один</plain>
+        </string>
+        <string>
+            <plain>Принес я, но не мною он связан, Властелин.</plain>
+        </string>
+        <string>
+            <plain>Воды во имя Бога прохожему я дал;</plain>
+        </string>
+        <string>
+            <plain>Наутро у порога сноп этот увидал".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И слово в утешенье услышал он: "За твой</plain>
+        </string>
+        <string>
+            <plain>Поступок в награжденье оставлен сноп живой;</plain>
+        </string>
+        <string>
+            <plain>И если кто, страдая, не в силах жать в полях,</plain>
+        </string>
+        <string>
+            <plain>Тот, скорбным помогая, найдет свой сноп в дверях".</plain>
+        </string>
+    </verse>
+</song>

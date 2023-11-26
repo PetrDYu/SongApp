@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1120" name="Вот дремлет Гефсиманский сад" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот дремлет Гефсиманский сад...</plain>
+        </string>
+        <string>
+            <plain>Друзья Иисуса мирно спят,</plain>
+        </string>
+        <string>
+            <plain>А в отдалении, один,</plain>
+        </string>
+        <string>
+            <plain>К Отцу взывает Божий Сын.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он на коленях, лик святой</plain>
+        </string>
+        <string>
+            <plain>Склонил Господь к земле сырой,</plain>
+        </string>
+        <string>
+            <plain>И стон молящейся души</plain>
+        </string>
+        <string>
+            <plain>Раздался в дремлющей тиши.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Пусть минет чаша мук Меня!</plain>
+        </string>
+        <string>
+            <plain>...Но воля не Моя - Твоя...</plain>
+        </string>
+        <string>
+            <plain>Отец, да будет так, иду!"</plain>
+        </string>
+        <string>
+            <plain>- И тихо было все в саду.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И капал пот с лица Христа,</plain>
+        </string>
+        <string>
+            <plain>Как капли крови со креста.</plain>
+        </string>
+        <string>
+            <plain>И Ангел Божий тут стоял,</plain>
+        </string>
+        <string>
+            <plain>И Сына Божья подкреплял.</plain>
+        </string>
+    </verse>
+</song>

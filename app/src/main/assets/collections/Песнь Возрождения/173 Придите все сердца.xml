@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="173" name="Придите все сердца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Придите все сердца,</plain>
+        </string>
+        <string>
+            <plain>Кто любит труд Отца!</plain>
+        </string>
+        <string>
+            <plain>И пойте, окруживши трон,</plain>
+        </string>
+        <string>
+            <plain>Со всеми (вместе) кто спасен.</plain>
+        </string>
+        <string>
+            <plain>Со всеми (вместе) кто спасен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Идем мы к Сиону,</plain>
+        </string>
+        <string>
+            <plain>В радостный, чудный Сион,</plain>
+        </string>
+        <string>
+            <plain>Идем мы прямо к Сиону,</plain>
+        </string>
+        <string>
+            <plain>В украшенный город Творца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть те лишь не поют,</plain>
+        </string>
+        <string>
+            <plain>Кто Господа не чтут,</plain>
+        </string>
+        <string>
+            <plain>Но дети Божьи пусть поют,</plain>
+        </string>
+        <string>
+            <plain>Забыв (навек) печаль и труд.</plain>
+        </string>
+        <string>
+            <plain>Забыв (навек) печаль и труд.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уж ныне нам Сион</plain>
+        </string>
+        <string>
+            <plain>Сменяет песнью стон,</plain>
+        </string>
+        <string>
+            <plain>Пока еще мы не пришли</plain>
+        </string>
+        <string>
+            <plain>К полям (благим) святой земли.</plain>
+        </string>
+        <string>
+            <plain>К полям (благим) святой земли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А там, где нет обид,</plain>
+        </string>
+        <string>
+            <plain>Пусть вечно песнь звучит;</plain>
+        </string>
+        <string>
+            <plain>С Эммануилом мы идем</plain>
+        </string>
+        <string>
+            <plain>В мир лучший, в (дивный) вечный дом.</plain>
+        </string>
+        <string>
+            <plain>В мир лучший, в (дивный) вечный дом.</plain>
+        </string>
+    </verse>
+</song>

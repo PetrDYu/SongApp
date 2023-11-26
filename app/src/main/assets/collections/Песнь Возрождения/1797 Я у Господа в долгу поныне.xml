@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1797" name="Я у Господа в долгу поныне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я у Господа в долгу поныне:</plain>
+        </string>
+        <string>
+            <plain>Каждый день живу Его даяньем.</plain>
+        </string>
+        <string>
+            <plain>Жизнь моя в единородном Сыне,</plain>
+        </string>
+        <string>
+            <plain>За меня Он перенес страданья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как не быть мне благодарным Богу?!</plain>
+        </string>
+        <string>
+            <plain>Его имя славно и чудесно.</plain>
+        </string>
+        <string>
+            <plain>Я возьму с собой в мою дорогу</plain>
+        </string>
+        <string>
+            <plain>Эту нескончаемую песню.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Велика любовь Его и милость,</plain>
+        </string>
+        <string>
+            <plain>Сколько благ дает Он ежедневно!</plain>
+        </string>
+        <string>
+            <plain>Благодать Его не прекратилась.</plain>
+        </string>
+        <string>
+            <plain>Он - даятель каждое мгновенье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сколько дней продлится непогода,</plain>
+        </string>
+        <string>
+            <plain>Кроме Бога кто об этом скажет?</plain>
+        </string>
+        <string>
+            <plain>А пока дает Он нам свободу</plain>
+        </string>
+        <string>
+            <plain>И победу над коварством вражьим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хорошо, что Бог спасать умеет,</plain>
+        </string>
+        <string>
+            <plain>Я пришел к Нему -больной, калека.</plain>
+        </string>
+        <string>
+            <plain>Бесконечно любит и жалеет</plain>
+        </string>
+        <string>
+            <plain>Бог Свое творенье - человека.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="229" name="Построил на крови Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Построил на крови Христа</plain>
+        </string>
+        <string>
+            <plain>Навек надежду я свою;</plain>
+        </string>
+        <string>
+            <plain>Других имен не признаю,</plain>
+        </string>
+        <string>
+            <plain>Лишь верю имени Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Стою я на скале Христа,</plain>
+        </string>
+        <string>
+            <plain>В других основах лишь песок.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лицо ль Его сокроет мгла,</plain>
+        </string>
+        <string>
+            <plain>Я благодатию креплюсь;</plain>
+        </string>
+        <string>
+            <plain>Среди волнений, бурь и зла</plain>
+        </string>
+        <string>
+            <plain>На якоре Его держусь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Его святой крови завет</plain>
+        </string>
+        <string>
+            <plain>Хранит меня в потоках бед;</plain>
+        </string>
+        <string>
+            <plain>Когда все рушится кругом,</plain>
+        </string>
+        <string>
+            <plain>Я нахожу опору в Нем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда ж со славой Он придет,</plain>
+        </string>
+        <string>
+            <plain>Пусть верным Он меня найдет,</plain>
+        </string>
+        <string>
+            <plain>Одетым в праведность, святым,</plain>
+        </string>
+        <string>
+            <plain>Чтоб без пятна предстать пред Ним.</plain>
+        </string>
+    </verse>
+</song>

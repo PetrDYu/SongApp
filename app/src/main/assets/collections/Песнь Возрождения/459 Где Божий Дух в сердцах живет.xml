@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="459" name="Где Божий Дух в сердцах живет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где Божий Дух в сердцах живет,</plain>
+        </string>
+        <string>
+            <plain>Там счастье, там любовь</plain>
+        </string>
+        <string>
+            <plain>Не только милых обоймет,</plain>
+        </string>
+        <string>
+            <plain>Но также и врагов.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Твою любовь, Господь, пошли;</plain>
+        </string>
+        <string>
+            <plain>Любовью той нас озари;</plain>
+        </string>
+        <string>
+            <plain>Соделай так из двух одно,</plain>
+        </string>
+        <string>
+            <plain>Чтоб имя славилось Твое.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Где Божия любовь царит,</plain>
+        </string>
+        <string>
+            <plain>Там - мир, там нет вражды;</plain>
+        </string>
+        <string>
+            <plain>В опасностях Господь хранит,</plain>
+        </string>
+        <string>
+            <plain>И нет ни в чем нужды.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Где Божия любовь царит,</plain>
+        </string>
+        <string>
+            <plain>В народе иль в семье,</plain>
+        </string>
+        <string>
+            <plain>Где жизнью Бог руководит,</plain>
+        </string>
+        <string>
+            <plain>Лишь счастье там вполне.</plain>
+        </string>
+    </verse>
+</song>

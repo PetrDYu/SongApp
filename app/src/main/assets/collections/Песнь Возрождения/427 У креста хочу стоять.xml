@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="427" name="У креста хочу стоять" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У креста хочу стоять,</plain>
+        </string>
+        <string>
+            <plain>Созерцать душою,</plain>
+        </string>
+        <string>
+            <plain>Как с Голгофы благодать</plain>
+        </string>
+        <string>
+            <plain>В мир течет рекою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У креста, у креста</plain>
+        </string>
+        <string>
+            <plain>Честь моя и слава.</plain>
+        </string>
+        <string>
+            <plain>Там спасенья полнота,</plain>
+        </string>
+        <string>
+            <plain>На блаженство - право.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>У креста меня нашли</plain>
+        </string>
+        <string>
+            <plain>Благодать и сила,</plain>
+        </string>
+        <string>
+            <plain>И звезда святой любви</plain>
+        </string>
+        <string>
+            <plain>Путь мой озарила.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У креста открылся мне</plain>
+        </string>
+        <string>
+            <plain>Кроткий Агнец Божий,</plain>
+        </string>
+        <string>
+            <plain>Он привлек меня к Себе,</plain>
+        </string>
+        <string>
+            <plain>Стал всего дороже.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>У креста я буду ждать</plain>
+        </string>
+        <string>
+            <plain>С верой и надеждой,</plain>
+        </string>
+        <string>
+            <plain>Пока Бог велит принять</plain>
+        </string>
+        <string>
+            <plain>В царство безмятежных.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="609" name="Кто в убогих яслях спит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто в убогих яслях спит?</plain>
+        </string>
+        <string>
+            <plain>Чей Младенец там лежит?</plain>
+        </string>
+        <string>
+            <plain>Он - Господь, Христос, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Божий Сын, наш Избавитель.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы к ногам Его падем,</plain>
+        </string>
+        <string>
+            <plain>Возгласим Его царем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто толпе там говорит?</plain>
+        </string>
+        <string>
+            <plain>Кто страдальцам мир дарит?</plain>
+        </string>
+        <string>
+            <plain>Кто же Он, к кому несут</plain>
+        </string>
+        <string>
+            <plain>Всех больных, слепых ведут?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто там плачет и стоит</plain>
+        </string>
+        <string>
+            <plain>На земле, где Лазарь спит?</plain>
+        </string>
+        <string>
+            <plain>Кто так радостно толпой</plain>
+        </string>
+        <string>
+            <plain>Встречен пеньем и хвалой?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто в саду, припав лицом,</plain>
+        </string>
+        <string>
+            <plain>Так взывает пред Отцом</plain>
+        </string>
+        <string>
+            <plain>В теле чьем терзался дух</plain>
+        </string>
+        <string>
+            <plain>Посреди злодеев двух?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Кто воскрес, чтоб всех спасти</plain>
+        </string>
+        <string>
+            <plain>И заблудших всех найти?</plain>
+        </string>
+        <string>
+            <plain>Кто над всей землей царит</plain>
+        </string>
+        <string>
+            <plain>И вселенную хранит?</plain>
+        </string>
+    </verse>
+</song>

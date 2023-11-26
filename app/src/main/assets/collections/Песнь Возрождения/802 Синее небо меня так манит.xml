@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="802" name="Синее небо меня так манит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Синее небо меня так манит,</plain>
+        </string>
+        <string>
+            <plain>Знаю, что там мой Спаситель Христос.</plain>
+        </string>
+        <string>
+            <plain>Все в этом мире бесследно канет,</plain>
+        </string>
+        <string>
+            <plain>В небе не будет скорби и слез.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О это небо! Как ты прекрасно,</plain>
+        </string>
+        <string>
+            <plain>Ты отраженье Божьей любви!</plain>
+        </string>
+        <string>
+            <plain>Где бы взять крылья, чтобы подняться</plain>
+        </string>
+        <string>
+            <plain>И пребывать у Христовой груди (навсегда)?!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Создано небо Божьей рукою,</plain>
+        </string>
+        <string>
+            <plain>Месяц и звезды, наша земля...</plain>
+        </string>
+        <string>
+            <plain>Я восхищаюсь всей красотою,</plain>
+        </string>
+        <string>
+            <plain>Прелестью неба, прелестью дня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Небо, влечешь ты к себе страдальца,</plain>
+        </string>
+        <string>
+            <plain>Который в узах, в стенах один.</plain>
+        </string>
+        <string>
+            <plain>Ты как бы молвишь: "Друг, не печалься,</plain>
+        </string>
+        <string>
+            <plain>Будешь ты Богом дальше храним".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Небо, влеки же меня в обитель,</plain>
+        </string>
+        <string>
+            <plain>Чтобы, скитаясь на этой земле,</plain>
+        </string>
+        <string>
+            <plain>Я всегда помнил: там мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Он меня примет скоро к Себе.</plain>
+        </string>
+    </verse>
+</song>

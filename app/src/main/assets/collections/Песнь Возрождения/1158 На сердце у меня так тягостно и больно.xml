@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1158" name="На сердце у меня так тягостно и больно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На сердце у меня так тягостно и больно.</plain>
+        </string>
+        <string>
+            <plain>Шипами острыми усеян жизни путь.</plain>
+        </string>
+        <string>
+            <plain>Вокруг все веселы, счастливы и довольны,</plain>
+        </string>
+        <string>
+            <plain>А мне хотелось бы немного отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, Господи, как трудно в этом мире</plain>
+        </string>
+        <string>
+            <plain>Нести сей крест, возложенный Тобой.</plain>
+        </string>
+        <string>
+            <plain>Дай силы мне, чтоб я, без укоризны,</plain>
+        </string>
+        <string>
+            <plain>Терпел без ропота, не падая душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда же смолкнут грозной бури волны.</plain>
+        </string>
+        <string>
+            <plain>Ты скажешь им: "Довольно, перестань",</plain>
+        </string>
+        <string>
+            <plain>- Взгляни: уж кладези души страданья полны,</plain>
+        </string>
+        <string>
+            <plain>И слезы горя уже льются через край.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не плачь, душа, что скорби окружают,</plain>
+        </string>
+        <string>
+            <plain>Тебе нет счастья в мире на земле.</plain>
+        </string>
+        <string>
+            <plain>Все счастье там, где мирно отдыхают</plain>
+        </string>
+        <string>
+            <plain>Святые, кончившие путь свой на земле.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3118" name="Я за Христом иду без страха я живу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я за Христом иду, без страха я живу,</plain>
+        </string>
+        <string>
+            <plain>хоть враг преследует меня;</plain>
+        </string>
+        <string>
+            <plain>когда я искушен, я верою силен,</plain>
+        </string>
+        <string>
+            <plain>чрез благодать укрыт в Нем я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иду я, иду я,</plain>
+        </string>
+        <string>
+            <plain>иду я за Христом всегда.</plain>
+        </string>
+        <string>
+            <plain>Иду я, иду я:</plain>
+        </string>
+        <string>
+            <plain>Он ведет меня ведь в небеса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я рядом с Ним иду и помощь нахожу,</plain>
+        </string>
+        <string>
+            <plain>Он чрез опасности ведет;</plain>
+        </string>
+        <string>
+            <plain>бьют волны высоко - я знаю лишь одно:</plain>
+        </string>
+        <string>
+            <plain>что он со мной всегда идет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иду Его стезёй, Он - попечитель мой;</plain>
+        </string>
+        <string>
+            <plain>мир больше не влечет меня;</plain>
+        </string>
+        <string>
+            <plain>я не гляжу назад, но устремляю взгляд</plain>
+        </string>
+        <string>
+            <plain>к моим богатствам в небесах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я с Ним хочу идти по узкому пути,</plain>
+        </string>
+        <string>
+            <plain>что к вечной радости ведет.</plain>
+        </string>
+        <string>
+            <plain>Кто умер за меня, того прославлю</plain>
+        </string>
+        <string>
+            <plain>я там, где хор ангелов поет.</plain>
+        </string>
+    </verse>
+</song>

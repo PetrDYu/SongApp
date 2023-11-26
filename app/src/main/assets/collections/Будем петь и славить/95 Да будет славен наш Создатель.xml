@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="95" name="Да будет славен наш Создатель" canon="false" text="по мотивам св. Франциска Ассизского" textRus="" music="" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Да будет славен наш Создатель.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Laudato si o mi Signore.</plain>
+            <repeat id="1" rep_rate="4" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Через всякое творенье воздается Богу слава,</plain>
+        </string>
+        <string>
+            <plain>Через все, что есть на свете, через солнце, звезды, ветер.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Через травы и деревья, и весеннее цветенье,</plain>
+        </string>
+        <string>
+            <plain>Через реки, через горы, через скалы, через море.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Через все плоды земные, через все труды земные,</plain>
+        </string>
+        <string>
+            <plain>Через яблоки в саду, через лилии в цвету.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все Творцу хвалу возносит и Его, ликуя, славит,</plain>
+        </string>
+        <string>
+            <plain>Пусть такой хвалебной песней наша жизнь с тобою станет.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(Аминь. – в конце)</plain>
+        </string>
+    </verse>
+</song>

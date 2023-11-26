@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2043" name="В моей жизни славься" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В моей жизни славься</plain>
+        </string>
+        <string>
+            <plain>Господь, славься Господь.</plain>
+        </string>
+        <string>
+            <plain>В моей жизни славься,</plain>
+        </string>
+        <string>
+            <plain>великий Бог.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В моей жизни славься,</plain>
+        </string>
+        <string>
+            <plain>Господь, славься,Господь!</plain>
+        </string>
+        <string>
+            <plain>В моей песне славься,</plain>
+        </string>
+        <string>
+            <plain>великий Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В моей церкви славься,</plain>
+        </string>
+        <string>
+            <plain>Господь, славься,</plain>
+        </string>
+        <string>
+            <plain>Господь! В моей церкви</plain>
+        </string>
+        <string>
+            <plain>славься, великий Бог.</plain>
+        </string>
+    </verse>
+</song>

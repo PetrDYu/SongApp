@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2886" name="Я хочу быть Твоим мой Господь дорогой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу быть Твоим, мой Господь дорогой,</plain>
+        </string>
+        <string>
+            <plain>я хочу в чистоте проводить свои дни.</plain>
+        </string>
+        <string>
+            <plain>Я хочу каждый день и ночною порой</plain>
+        </string>
+        <string>
+            <plain>Твоё имя шептать и лелеять в груди.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я хочу быть Твоим,</plain>
+        </string>
+        <string>
+            <plain>Твоё имя шептать</plain>
+        </string>
+        <string>
+            <plain>день и ночь,</plain>
+        </string>
+        <string>
+            <plain>день и ночь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я хочу, чтобы сердце в свой жизненный срок</plain>
+        </string>
+        <string>
+            <plain>каждым стуком своим пр ославляло Тебя,</plain>
+        </string>
+        <string>
+            <plain>чтоб во всякое время я чувствовать мог,</plain>
+        </string>
+        <string>
+            <plain>что Ты близок ко мне, что Ты любишь меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу, чтобы подвиг Голгофский сиял</plain>
+        </string>
+        <string>
+            <plain>постоянно пред взором сердечных очей;</plain>
+        </string>
+        <string>
+            <plain>чтоб Тобою я жил и Тобою дышал;</plain>
+        </string>
+        <string>
+            <plain>чтоб Ты был мне дороже всей жизни моей.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3291" name="Эта ночь тихая была" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Эта ночь тихая была</plain>
+        </string>
+        <string>
+            <plain>В тишине спала вся земля</plain>
+        </string>
+        <string>
+            <plain>Лишь Отец слышал Сына Своего,</plain>
+        </string>
+        <string>
+            <plain>Как молил Тот с горечью Его.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сын молил небесного Отца:</plain>
+        </string>
+        <string>
+            <plain>«Да минует чаша сия Меня,</plain>
+        </string>
+        <string>
+            <plain>Но да будет воля не Моя,</plain>
+        </string>
+        <string>
+            <plain>А да будет воля лишь Твоя».</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сын просил силы у Отца:</plain>
+        </string>
+        <string>
+            <plain>«О прими и выслушай Меня,</plain>
+        </string>
+        <string>
+            <plain>Я Тебя прославил и любя,</plain>
+        </string>
+        <string>
+            <plain>Тяжесть мира, взял всю на Себя».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Эта ночь тихая была</plain>
+        </string>
+        <string>
+            <plain>В тишине спала вся земля</plain>
+        </string>
+        <string>
+            <plain>Лишь Отец слышал Сына Своего,</plain>
+        </string>
+        <string>
+            <plain>Как молил Тот с горечью Его.</plain>
+        </string>
+    </verse>
+</song>

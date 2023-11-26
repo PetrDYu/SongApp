@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3220" name="О чудный Сион ты невеста Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О чудный Сион, ты - невеста Христа,</plain>
+        </string>
+        <string>
+            <plain>мы видим твой свет издали! Народам,</plain>
+        </string>
+        <string>
+            <plain>сидящим во тьме, засиял ты,</plain>
+        </string>
+        <string>
+            <plain>и тысячи к свету пришли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О чудный Сион, ты - отчизна спасённых,</plain>
+        </string>
+        <string>
+            <plain>Небесный Отец сам построил тебя.</plain>
+        </string>
+        <string>
+            <plain>Мы радостно славу твою воспеваем,</plain>
+        </string>
+        <string>
+            <plain>ты - город свободы, отчизна моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Твой блеск затуманен был папскою тьмой,</plain>
+        </string>
+        <string>
+            <plain>но в слабом сиянии дня старательным</plain>
+        </string>
+        <string>
+            <plain>поиском истины Божьей дорога</plain>
+        </string>
+        <string>
+            <plain>к тебе вновь видна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты снова сияешь, как в утренний час,</plain>
+        </string>
+        <string>
+            <plain>твой свет виден в мире везде.</plain>
+        </string>
+        <string>
+            <plain>Святые назад возвращаются с пеньем,</plain>
+        </string>
+        <string>
+            <plain>небесный Сион, все к тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сион благодатный, твой свет никогда</plain>
+        </string>
+        <string>
+            <plain>не должен померкнуть для нас.</plain>
+        </string>
+        <string>
+            <plain>Ты блеск совершенный, вокруг излучаешь</plain>
+        </string>
+        <string>
+            <plain>прекрасней, чем чистый алмаз.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Небесная слава сияет в тебе,</plain>
+        </string>
+        <string>
+            <plain>Сион, о невеста Христа.</plain>
+        </string>
+        <string>
+            <plain>Уж скоро придёт за тобой твой</plain>
+        </string>
+        <string>
+            <plain>Спаситель, навек ты Ему отдана.</plain>
+        </string>
+    </verse>
+</song>

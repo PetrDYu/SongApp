@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1943" name="Вот вечер тени спадают" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот вечер, тени спадают</plain>
+        </string>
+        <string>
+            <plain>На тихую страну;</plain>
+        </string>
+        <string>
+            <plain>Вот пташки умолкают,</plain>
+        </string>
+        <string>
+            <plain>Мы слышим лишь одну.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>За гору солнце заходит,</plain>
+        </string>
+        <string>
+            <plain>За яркий небосклон.</plain>
+        </string>
+        <string>
+            <plain>А там звезда восходит,</plain>
+        </string>
+        <string>
+            <plain>И в сердце сходит сон.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Покой на души спадает;</plain>
+        </string>
+        <string>
+            <plain>Небесный звездный хор -</plain>
+        </string>
+        <string>
+            <plain>Природа засыпает;</plain>
+        </string>
+        <string>
+            <plain>Не дремлет Божий взор.</plain>
+        </string>
+    </verse>
+</song>

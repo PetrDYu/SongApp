@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="186" name="Ты знаешь путь хоть я его не знаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты знаешь путь, хоть я его не знаю,</plain>
+        </string>
+        <string>
+            <plain>Сознанье это мне дает покой;</plain>
+        </string>
+        <string>
+            <plain>К чему тревожиться мне и страшиться</plain>
+        </string>
+        <string>
+            <plain>И день и ночь, всегда томясь душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты знаешь путь, Ты также знаешь время,</plain>
+        </string>
+        <string>
+            <plain>Твой план давно уж для меня готов,</plain>
+        </string>
+        <string>
+            <plain>И славлю я, Господь, Тебя сердечно</plain>
+        </string>
+        <string>
+            <plain>За милости, заботы и любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты знаешь все: откуда ветры дуют</plain>
+        </string>
+        <string>
+            <plain>И бурю жизни укрощаешь Ты!</plain>
+        </string>
+        <string>
+            <plain>Пусть неизвестно мне, куда иду я,</plain>
+        </string>
+        <string>
+            <plain>Но я спокоен - путь мой знаешь Ты.</plain>
+        </string>
+    </verse>
+</song>

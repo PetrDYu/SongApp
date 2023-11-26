@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="238" name="Спаситель, мысли о Тебе дают сердцам покой" canon="false" text="св. Бернарда Клервоского" textRus="Д. Ясько" music="Дж. Дайкс" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель, мысли о Тебе дают сердцам покой;</plain>
+        </string>
+        <string>
+            <plain>Блаженство – лик Твой созерцать и быть всегда с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Твое святое имя нам приятней и славней,</plain>
+        </string>
+        <string>
+            <plain>Чем звуки музыки, чем храм, чем слава всех людей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Надежда кающихся душ, покров для тех, кто наг,</plain>
+        </string>
+        <string>
+            <plain>Бессильным - самый лучший Друг, и к ищущим так благ.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Найти Христа важней всего, ни словом, ни пером</plain>
+        </string>
+        <string>
+            <plain>Не описать любви Его, ни благ, сокрытых в Нем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="106" name="Пой аллилуйя Господу" canon="false" text="" textRus="" music="Л. Стассен" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя Господу!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя!</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain>(Аллилуйя!)</plain>
+        </string>
+        <string>
+            <plain>Пой аллилуйя Господу!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Творец наш дивен и велик!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Творец наш дивен!</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+            <plain>(Аллилуйя!)</plain>
+        </string>
+        <string>
+            <plain>Творец наш дивен и велик!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Господь простил нам все грехи!</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Господь простил нам!</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+            <plain>(Аллилуйя!)</plain>
+        </string>
+        <string>
+            <plain>Господь простил нам все грехи!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Воздайте славу Господу!</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Воздайте славу!</plain>
+            <repeat id="7" rep_rate="3" is_opening="false" />
+            <plain>(Аллилуйя!)</plain>
+        </string>
+        <string>
+            <plain>Воздайте славу Господу!</plain>
+        </string>
+    </verse>
+</song>

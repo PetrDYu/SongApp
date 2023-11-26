@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="17" name="Как радостно как сладко для сердец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как радостно, как сладко для сердец</plain>
+        </string>
+        <string>
+            <plain>Собраться пред Отцом в святом собранье</plain>
+        </string>
+        <string>
+            <plain>И петь о том, как любит нас Отец</plain>
+        </string>
+        <string>
+            <plain>И как Создатель милует созданье.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Какое счастье для верных</plain>
+        </string>
+        <string>
+            <plain>- Общенье иметь со Христом!</plain>
+        </string>
+        <string>
+            <plain>Общенье душ нелицемерных,</plain>
+        </string>
+        <string>
+            <plain>Объятых Божиим огнем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тогда незримый Гость приходит к нам</plain>
+        </string>
+        <string>
+            <plain>И между нас с светильником проходит,</plain>
+        </string>
+        <string>
+            <plain>И освещает наш духовный храм,</plain>
+        </string>
+        <string>
+            <plain>И в нем звезда Господняя восходит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И свет снаружи с светом изнутри,</plain>
+        </string>
+        <string>
+            <plain>Сливаясь на пиру любви, сияют;</plain>
+        </string>
+        <string>
+            <plain>На лицах ярко отблески зари</plain>
+        </string>
+        <string>
+            <plain>Огнем небес напевы вдохновляют.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И лыются песни огненной рекой,</plain>
+        </string>
+        <string>
+            <plain>Как сладкий звон, звучит Господне слово;</plain>
+        </string>
+        <string>
+            <plain>Сердца трепещут радостной мольбой,</plain>
+        </string>
+        <string>
+            <plain>И дышит счастьем общество Христово.</plain>
+        </string>
+    </verse>
+</song>

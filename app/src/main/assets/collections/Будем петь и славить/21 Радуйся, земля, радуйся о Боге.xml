@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="21" name="Радуйся, земля, радуйся о Боге" canon="false" text="" textRus="" music="общины Taizé" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Радуйся, земля, радуйся о Боге.</plain>
+        </string>
+        <string>
+            <plain>Вся земля, прославляй Бога своего.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя.</plain>
+            <repeat id="0" rep_rate="6" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Jubilate Deo omnis terra.</plain>
+        </string>
+        <string>
+            <plain>Servite Domino in lætitia.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Alleluia, alleluia in lætitia.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="337" name="Где будешь вечность проводить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где будешь вечность проводить? –</plain>
+        </string>
+        <string>
+            <plain>Звучит вопрос ко мне, к тебе.</plain>
+        </string>
+        <string>
+            <plain>Какой ответ найдешь в себе,</plain>
+        </string>
+        <string>
+            <plain>Где будешь вечность проводить?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жизнь вечности!</plain>
+        </string>
+        <string>
+            <plain>Где будешь вечность проводить?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Уж многие к Христу пришли,</plain>
+        </string>
+        <string>
+            <plain>Оставили греху служить</plain>
+        </string>
+        <string>
+            <plain>И рай небес в удел нашли.</plain>
+        </string>
+        <string>
+            <plain>Где будешь вечность проводить?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Оставив узкий путь невзгод,</plain>
+        </string>
+        <string>
+            <plain>Решил ты на другой вступить.</plain>
+        </string>
+        <string>
+            <plain>Какой конец тебя там ждет?</plain>
+        </string>
+        <string>
+            <plain>Где будешь вечность проводить?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, в этот самый час поверь!</plain>
+        </string>
+        <string>
+            <plain>Отдайся ты Ему теперь</plain>
+        </string>
+        <string>
+            <plain>И поспеши всем возвестить:</plain>
+        </string>
+        <string>
+            <plain>С Ним буду вечность проводить!</plain>
+        </string>
+    </verse>
+</song>

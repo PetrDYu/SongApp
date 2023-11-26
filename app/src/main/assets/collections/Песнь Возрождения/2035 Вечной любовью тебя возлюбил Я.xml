@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2035" name="Вечной любовью тебя возлюбил Я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечной любовью тебя возлюбил Я,</plain>
+        </string>
+        <string>
+            <plain>О, не тоскуй же, мой друг.</plain>
+        </string>
+        <string>
+            <plain>Если в борьбе ты совсем обессилел</plain>
+        </string>
+        <string>
+            <plain>И потемнело вокруг;</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Я возлюбил тебя вечной любовью",</plain>
+        </string>
+        <string>
+            <plain>- Так Иисус говорит.</plain>
+        </string>
+        <string>
+            <plain>Он драгоценной, невинного кровью</plain>
+        </string>
+        <string>
+            <plain>Нас от греха искупил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не унывай, не печалься, но помни:</plain>
+        </string>
+        <string>
+            <plain>Вечно Он любит тебя.</plain>
+        </string>
+        <string>
+            <plain>Пусть поднимаются грозные тучи,</plain>
+        </string>
+        <string>
+            <plain>Верь, снизойдёт тишина.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Помни, не вечны твои испытанья,</plain>
+        </string>
+        <string>
+            <plain>Вечна Христова любовь. Скоро</plain>
+        </string>
+        <string>
+            <plain>Он снимет то бремя скитанья,</plain>
+        </string>
+        <string>
+            <plain>Мир нам пошлёт за борьбой.</plain>
+        </string>
+    </verse>
+</song>

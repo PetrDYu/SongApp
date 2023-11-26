@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2227" name="На пути иду я к небу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На пути иду я к небу,</plain>
+        </string>
+        <string>
+            <plain>Пенье там и блеск путей.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>К той святой стране небесной,</plain>
+        </string>
+        <string>
+            <plain>Где ни тьмы нет, ни ночей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>навсегда, навсегда.</plain>
+        </string>
+        <string>
+            <plain>О, слава, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>я иду в страну святую.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>О, слава, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Я иду в страну святую,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Навсегда, навсегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На пути иду я к небу,</plain>
+        </string>
+        <string>
+            <plain>В город чудный, золотой.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Божья там сияет,</plain>
+        </string>
+        <string>
+            <plain>Там несказанный покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На пути иду я к небу,</plain>
+        </string>
+        <string>
+            <plain>Счастья чистого стране,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Там народы все согласно</plain>
+        </string>
+        <string>
+            <plain>В снежной ходят белизне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На пути иду я к небу,</plain>
+        </string>
+        <string>
+            <plain>Там увижу лик Христа,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Зазвучит в небесном доме</plain>
+        </string>
+        <string>
+            <plain>Всех искупленных хвала.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="551" name="Чудный Сион благодатный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чудный Сион благодатный!</plain>
+        </string>
+        <string>
+            <plain>Вечный в тебе покой.</plain>
+        </string>
+        <string>
+            <plain>В сердце елей твой отрадный</plain>
+        </string>
+        <string>
+            <plain>Льется живой струей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чудный Сион, край небесный!</plain>
+        </string>
+        <string>
+            <plain>Дух мой парит к тебе.</plain>
+        </string>
+        <string>
+            <plain>Светит твой мир мне чудесный</plain>
+        </string>
+        <string>
+            <plain>В тяжкой земной борьбе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там бесконечно сияет</plain>
+        </string>
+        <string>
+            <plain>Божьей любви заря;</plain>
+        </string>
+        <string>
+            <plain>Голос святых восхваляет</plain>
+        </string>
+        <string>
+            <plain>Господа и Царя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог наш созиждет в Сионе</plain>
+        </string>
+        <string>
+            <plain>Город Иерусалим</plain>
+        </string>
+        <string>
+            <plain>И воцарится на троне,</plain>
+        </string>
+        <string>
+            <plain>И все верные с Ним.</plain>
+        </string>
+    </verse>
+</song>

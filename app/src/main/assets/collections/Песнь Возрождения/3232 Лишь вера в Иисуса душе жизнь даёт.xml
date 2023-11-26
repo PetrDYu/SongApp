@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3232" name="Лишь вера в Иисуса душе жизнь даёт" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лишь вера в Иисуса душе жизнь даёт</plain>
+        </string>
+        <string>
+            <plain>и в чудный небесный поток нас ведёт.</plain>
+        </string>
+        <string>
+            <plain>Христос с нас оковы греховные снял</plain>
+        </string>
+        <string>
+            <plain>и в вечное Царство Своё нас призвал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тот поток живой воды</plain>
+        </string>
+        <string>
+            <plain>льётся из Христа груди.</plain>
+        </string>
+        <string>
+            <plain>Тот поток живой воды (живой воды)</plain>
+        </string>
+        <string>
+            <plain>всё льётся их Христа груди.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О чудный поток, что спасенье даёт!</plain>
+        </string>
+        <string>
+            <plain>Он свыше для всех полноводно течёт.</plain>
+        </string>
+        <string>
+            <plain>В небесной красе, как кристалл он блестит,</plain>
+        </string>
+        <string>
+            <plain>куда он проникнет, там ночь убежит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Невеста и Дух призывают: «Приди!</plain>
+        </string>
+        <string>
+            <plain>Кто жаждет, пусть пьёт из потока воды».</plain>
+        </string>
+        <string>
+            <plain>Он сердце пустынное в сад превратит,</plain>
+        </string>
+        <string>
+            <plain>в котором Садовник плод Духа растит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Плод Духа Святого: мир, радость, любовь,</plain>
+        </string>
+        <string>
+            <plain>души доброта с ними рядом растёт.</plain>
+        </string>
+        <string>
+            <plain>Терпенье, и вера, и кротость видны</plain>
+        </string>
+        <string>
+            <plain>у тех, кто Господними стали детьми.</plain>
+        </string>
+    </verse>
+</song>

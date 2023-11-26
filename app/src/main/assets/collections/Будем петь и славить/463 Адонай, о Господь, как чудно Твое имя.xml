@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="463" name="Адонай, о Господь, как чудно Твое имя" canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Адонай, о Господь, как чудно Твое имя</plain>
+        </string>
+        <string>
+            <plain>По всей земле, по всей земле!</plain>
+        </string>
+        <string>
+            <plain>Адонай, и небес превыше Твоя слава,</plain>
+        </string>
+        <string>
+            <plain>Небес превыше Твоя слава!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Из улыбок детских и из детских уст,</plain>
+        </string>
+        <string>
+            <plain>Из улыбок детских уготовал Ты хвалу.</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы – защита от врагов Твоих,</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы врагов Твоих заставит замолчать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вижу над собой небес огромный свод,</plain>
+        </string>
+        <string>
+            <plain>Вижу я чудесные дела перстов Твоих,</plain>
+        </string>
+        <string>
+            <plain>Звезды и луну в ночи, и солнце днем.</plain>
+        </string>
+        <string>
+            <plain>Воспою, как благ и как велик Всевышний Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что пред этим человек, но Ты, Господь,</plain>
+        </string>
+        <string>
+            <plain>Помнишь и пасешь его рукой Твоей святой.</plain>
+        </string>
+        <string>
+            <plain>Что пред этим сын Адама, но Ты, Бог,</plain>
+        </string>
+        <string>
+            <plain>Любишь и хранишь, и посещаешь дом его.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты даруешь жизнь, даруешь свет и мир.</plain>
+        </string>
+        <string>
+            <plain>Славою и честью человека увенчал.</plain>
+        </string>
+        <string>
+            <plain>Перед сонмом ангелов не умалил,</plain>
+        </string>
+        <string>
+            <plain>Повелел ему Твоей Вселенной управлять.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Все Ты положил, Господь, к ногам его:</plain>
+        </string>
+        <string>
+            <plain>Всех зверей в лесу и в море рыб, и в небе птиц.</plain>
+        </string>
+        <string>
+            <plain>Человека Ты вознес над тварью всей.</plain>
+        </string>
+        <string>
+            <plain>Адонай, хочу благодарить Тебя всегда!</plain>
+        </string>
+    </verse>
+</song>

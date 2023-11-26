@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2443" name="Венец златой венец лавровый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Венец златой, венец лавровый</plain>
+        </string>
+        <string>
+            <plain>На голове Твоей сиял,</plain>
+        </string>
+        <string>
+            <plain>Но принял Ты венец терновый,</plain>
+        </string>
+        <string>
+            <plain>А золотой покорно снял.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С чела по каплям пот струился,</plain>
+        </string>
+        <string>
+            <plain>Бежали в нем ручьи крови,</plain>
+        </string>
+        <string>
+            <plain>Но Ты не плакал, Ты молился</plain>
+        </string>
+        <string>
+            <plain>Отцу Великому любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что за причина побудила</plain>
+        </string>
+        <string>
+            <plain>Тебя венок терновый взять?</plain>
+        </string>
+        <string>
+            <plain>Какой закон, какая сила</plain>
+        </string>
+        <string>
+            <plain>Тебя заставили страдать?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты в мир пришел, как врач бесценны й,</plain>
+        </string>
+        <string>
+            <plain>Оставив пышный царский трон,</plain>
+        </string>
+        <string>
+            <plain>Любви безмерной луч нетленный</plain>
+        </string>
+        <string>
+            <plain>Тому причина и закон.</plain>
+        </string>
+    </verse>
+</song>

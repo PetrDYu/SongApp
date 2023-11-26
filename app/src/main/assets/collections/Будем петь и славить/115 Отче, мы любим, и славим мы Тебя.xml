@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="115" name="Отче, мы любим, и славим мы Тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Отче, мы любим, и славим мы Тебя</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+        <string>
+            <plain>Славим мы Тебя, славим мы Тебя,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус, мы любим, и славим мы Тебя</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+        <string>
+            <plain>Славим мы Тебя, славим мы Тебя,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух Святой, мы любим, и славим мы Тебя</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+        <string>
+            <plain>Славим мы Тебя, славим мы Тебя,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя на земле.</plain>
+        </string>
+    </verse>
+</song>

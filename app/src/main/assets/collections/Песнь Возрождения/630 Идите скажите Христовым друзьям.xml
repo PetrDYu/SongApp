@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="630" name="Идите скажите Христовым друзьям" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Идите, скажите Христовым друзьям:</plain>
+        </string>
+        <string>
+            <plain>Воскрес Он из гроба и нет Его там!</plain>
+        </string>
+        <string>
+            <plain>Любимый Учитель придет к ним опять,</plain>
+        </string>
+        <string>
+            <plain>Чтоб радовать их и в любви наставлять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скажите: Сын Божий из мертвых воскрес!</plain>
+        </string>
+        <string>
+            <plain>Скажите всем смертным: Сын Божий воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Идите, несите ту весть и Петру,</plain>
+        </string>
+        <string>
+            <plain>Кто трижды отрекся пред Ним поутру,</plain>
+        </string>
+        <string>
+            <plain>Кто стонет теперь от печали и слез;</plain>
+        </string>
+        <string>
+            <plain>Скажите: из мертвых воспрянул Христос!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть ты малодушно Ему изменял,</plain>
+        </string>
+        <string>
+            <plain>Не для осужденья тебя Он восстал;</plain>
+        </string>
+        <string>
+            <plain>Он грех твой простил и навеки забыл</plain>
+        </string>
+        <string>
+            <plain>И путь тебе к жизни блаженной открыл.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не для серафимов, любимцев Творца,</plain>
+        </string>
+        <string>
+            <plain>Не для беспечальных, безгрешных людей –</plain>
+        </string>
+        <string>
+            <plain>Воскрес Он, чтоб грешников скорбных сердца</plain>
+        </string>
+        <string>
+            <plain>Увидели славу Его алтарей.</plain>
+        </string>
+    </verse>
+</song>

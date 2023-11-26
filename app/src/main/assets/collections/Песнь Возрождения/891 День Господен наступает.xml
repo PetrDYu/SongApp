@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="891" name="День Господен наступает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День Господен наступает,</plain>
+        </string>
+        <string>
+            <plain>Издали уж виден свет.</plain>
+        </string>
+        <string>
+            <plain>И всех спящих пробуждает</plain>
+        </string>
+        <string>
+            <plain>Утра радостный рассвет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слыша зов Его, мужайтесь,</plain>
+        </string>
+        <string>
+            <plain>Меч духовный обнажив.</plain>
+        </string>
+        <string>
+            <plain>Вы за Господа сражайтесь,</plain>
+        </string>
+        <string>
+            <plain>Шлем спасенья возложив.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вождь ваш верен! В битвах бранных</plain>
+        </string>
+        <string>
+            <plain>Смелость в сердце сохраним.</plain>
+        </string>
+        <string>
+            <plain>Легион ведет избранных</plain>
+        </string>
+        <string>
+            <plain>Сам Христос: мы победим!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все вперёд, не унывая,</plain>
+        </string>
+        <string>
+            <plain>Козней не боясь врага.</plain>
+        </string>
+        <string>
+            <plain>На Начальника взирая,</plain>
+        </string>
+        <string>
+            <plain>Нам победа дорога.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>При развернутых знаменах,</plain>
+        </string>
+        <string>
+            <plain>Проносясь чрез все места.</plain>
+        </string>
+        <string>
+            <plain>Пойте в громких антифонах:</plain>
+        </string>
+        <string>
+            <plain>Близко царствие Христа!</plain>
+        </string>
+    </verse>
+</song>

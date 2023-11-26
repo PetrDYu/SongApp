@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1480" name="Идем мы тернистой дорогой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Идем мы тернистой дорогой.</plain>
+        </string>
+        <string>
+            <plain>Несем людям весть о любви.</plain>
+        </string>
+        <string>
+            <plain>Встречаем так часто невзгоды,</plain>
+        </string>
+        <string>
+            <plain>И сердце так стонет в груди.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда мы свой путь здесь пройдем.</plain>
+        </string>
+        <string>
+            <plain>Тогда мы войдем в Отчий дом.</plain>
+        </string>
+        <string>
+            <plain>И там мы поймем навсегда,</plain>
+        </string>
+        <string>
+            <plain>Что значит любить до конца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И пусть нас не любят повсюду.</plain>
+        </string>
+        <string>
+            <plain>Пусть гонят, как гнали Христа.</plain>
+        </string>
+        <string>
+            <plain>Но Он ведь сказал: "Не забуду.</plain>
+        </string>
+        <string>
+            <plain>Лишь только любите Меня".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам жить суждено так немного,</plain>
+        </string>
+        <string>
+            <plain>И то лишь страданья одни.</plain>
+        </string>
+        <string>
+            <plain>Такая уж наша дорога,</plain>
+        </string>
+        <string>
+            <plain>Чтоб крест христианский нести.</plain>
+        </string>
+    </verse>
+</song>

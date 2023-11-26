@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2522" name="Христос здесь мысли о Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос, здесь мысли о Тебе</plain>
+        </string>
+        <string>
+            <plain>Приносят мир сердцам...</plain>
+        </string>
+        <string>
+            <plain>Какая ж радость будет там</plain>
+        </string>
+        <string>
+            <plain>В обители Отца!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не скажет сердце, ни уста,</plain>
+        </string>
+        <string>
+            <plain>Нет ничего славней</plain>
+        </string>
+        <string>
+            <plain>Святого имени Христа,</plain>
+        </string>
+        <string>
+            <plain>Владыки всех людей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Надежда кающихся душ,</plain>
+        </string>
+        <string>
+            <plain>Отрада всем простым,</plain>
+        </string>
+        <string>
+            <plain>Ты каждого к Себе влечешь,</plain>
+        </string>
+        <string>
+            <plain>К смиренным близок Ты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А те; кого принял в Свой дом?</plain>
+        </string>
+        <string>
+            <plain>Язык не передаст,</plain>
+        </string>
+        <string>
+            <plain>Какой любовью дышат в Нем,</plain>
+        </string>
+        <string>
+            <plain>Какую дал им часть.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="282" name="Радуйтесь всегда, молитесь непрестанно," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Радуйтесь всегда, молитесь непрестанно,</plain>
+        </string>
+        <string>
+            <plain>За все благодарите.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Ибо такова о вас воля Божия во Христе Иисусе.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Лобзанием святым приветствуйте друг друга</plain>
+        </string>
+        <string>
+            <plain>И будьте в мире меж собой.</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Испытывайте все, хорошего держитесь,</plain>
+        </string>
+        <string>
+            <plain>Не угашайте Духа.</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Итак, не будем спать, ведь все мы – дети света.</plain>
+        </string>
+        <string>
+            <plain>Да будет с нами благодать.</plain>
+            <repeat id="4" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Пребудет в полноте ваш дух, душа и тело</plain>
+        </string>
+        <string>
+            <plain>В пришествие Господне.</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

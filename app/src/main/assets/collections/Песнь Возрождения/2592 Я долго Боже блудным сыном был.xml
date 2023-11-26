@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2592" name="Я долго Боже блудным сыном был" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я долго, Боже, блудным сыном был,</plain>
+        </string>
+        <string>
+            <plain>В долине зла и смертной тени жил.</plain>
+        </string>
+        <string>
+            <plain>Сегодня голос Твой услышал я.</plain>
+        </string>
+        <string>
+            <plain>Мой Отец, прости меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Неправедны пути, Господь, мои;</plain>
+        </string>
+        <string>
+            <plain>Изранены стопы, душа болит.</plain>
+        </string>
+        <string>
+            <plain>Во всех моих хожденьях каюсь я</plain>
+        </string>
+        <string>
+            <plain>Мой Отец, прости меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я слышал: Ты для грешных в мир пришел,</plain>
+        </string>
+        <string>
+            <plain>За них страдал, за них на крест пошел.</plain>
+        </string>
+        <string>
+            <plain>К Твоей любви в сей час взываю я.</plain>
+        </string>
+        <string>
+            <plain>Мой Отец, прости меня.</plain>
+        </string>
+    </verse>
+</song>

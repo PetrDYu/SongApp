@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="478" name="Вот Иисус зовет детей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот Иисус зовет детей,</plain>
+        </string>
+        <string>
+            <plain>Он сегодня нас зовет;</plain>
+        </string>
+        <string>
+            <plain>По пути блаженных дней</plain>
+        </string>
+        <string>
+            <plain>Он пришедших поведет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус зовет детей;</plain>
+        </string>
+        <string>
+            <plain>Он зовет, Он зовет!</plain>
+        </string>
+        <string>
+            <plain>Слушайте, Он зовет:</plain>
+        </string>
+        <string>
+            <plain>"О, придите ко Мне!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Юные сердца! Христу</plain>
+        </string>
+        <string>
+            <plain>Дайте веры чистоту.</plain>
+        </string>
+        <string>
+            <plain>Пойте, юные уста,</plain>
+        </string>
+        <string>
+            <plain>Прославляя дар Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизни юные! Скорей</plain>
+        </string>
+        <string>
+            <plain>Дайте Богу утро дней.</plain>
+        </string>
+        <string>
+            <plain>Вот Иисус зовет опять:</plain>
+        </string>
+        <string>
+            <plain>Поспешите зов принять.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1671" name="Слово с небес хоть одно нам пошли" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слово с небес хоть одно нам пошли,</plain>
+        </string>
+        <string>
+            <plain>К славе небесной сердца приобщи.</plain>
+        </string>
+        <string>
+            <plain>Нам расскажи, что мы будем иметь</plain>
+        </string>
+        <string>
+            <plain>В жизни бессмертной на Новой Земле.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Звезды далекие в чуткой тиши</plain>
+        </string>
+        <string>
+            <plain>Слушают песни спасенной души.</plain>
+        </string>
+        <string>
+            <plain>Много на свете чудес, но лишь там</plain>
+        </string>
+        <string>
+            <plain>Нет и числа всем святым чудесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слово пошли мне с небесных высот.</plain>
+        </string>
+        <string>
+            <plain>Слово, что к радостной жизни ведет.</plain>
+        </string>
+        <string>
+            <plain>Будешь ли Ты там меня поджидать,</plain>
+        </string>
+        <string>
+            <plain>Выйдешь ли нежно мне руку пожать?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Розы цветут, и зимой хороши.</plain>
+        </string>
+        <string>
+            <plain>Впрочем, там нет и не будет зимы.</plain>
+        </string>
+        <string>
+            <plain>Нет там осенних и пасмурных туч,</plain>
+        </string>
+        <string>
+            <plain>Светит Христос, словно солнечный луч.</plain>
+        </string>
+    </verse>
+</song>

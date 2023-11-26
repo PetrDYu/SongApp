@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="15" name="Ты помощь мне Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты - помощь мне, Господь,</plain>
+        </string>
+        <string>
+            <plain>На всякий час;</plain>
+        </string>
+        <string>
+            <plain>И мир дарует мне</plain>
+        </string>
+        <string>
+            <plain>Твой нежный глас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К Тебе мое стремленье</plain>
+        </string>
+        <string>
+            <plain>Во всякий час с нуждой,</plain>
+        </string>
+        <string>
+            <plain>В Тебе мое спасенье,</plain>
+        </string>
+        <string>
+            <plain>В Тебе покой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты - помощь мне, Господь,</plain>
+        </string>
+        <string>
+            <plain>Пребудь вблизи</plain>
+        </string>
+        <string>
+            <plain>И искушенья власть</plain>
+        </string>
+        <string>
+            <plain>Сам отрази.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты - помощь мне, Господь,</plain>
+        </string>
+        <string>
+            <plain>Среди скорбей!</plain>
+        </string>
+        <string>
+            <plain>Приди, вселись и Сам</plain>
+        </string>
+        <string>
+            <plain>Твой свет пролей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты - помощь мне, Господь,</plain>
+        </string>
+        <string>
+            <plain>Мной управляй</plain>
+        </string>
+        <string>
+            <plain>И, как Ты обещал,</plain>
+        </string>
+        <string>
+            <plain>Не оставляй.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты - помощь мне, Господь,</plain>
+        </string>
+        <string>
+            <plain>Мой Царь, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Чтоб силой я Твоей</plain>
+        </string>
+        <string>
+            <plain>Все превозмог.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="56" name="Господь Ты Избавитель мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! Ты - Избавитель мой;</plain>
+        </string>
+        <string>
+            <plain>Я - Твой удел и достоянье;</plain>
+        </string>
+        <string>
+            <plain>Ты приобрел меня Собой,</plain>
+        </string>
+        <string>
+            <plain>Твоею кровью и страданьем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я верю, любящий Иисус, -</plain>
+        </string>
+        <string>
+            <plain>С Тобою вечен мой союз,</plain>
+        </string>
+        <string>
+            <plain>С Тобою вечен мой союз</plain>
+        </string>
+        <string>
+            <plain>И Ты всегда со мною.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты - мой Учитель всеблагой,</plain>
+        </string>
+        <string>
+            <plain>Я - ученик Твой маловерный;</plain>
+        </string>
+        <string>
+            <plain>Ты наставляешь разум мой</plain>
+        </string>
+        <string>
+            <plain>В любви Твоей святой, безмерной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты - Пастырь верный, сильный мой,</plain>
+        </string>
+        <string>
+            <plain>А я - овца Господня стада,</plain>
+        </string>
+        <string>
+            <plain>Ведя тернистою тропой,</plain>
+        </string>
+        <string>
+            <plain>Ты разрушаешь все преграды.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты - милосердный мой Отец,</plain>
+        </string>
+        <string>
+            <plain>А я - дитя Твое вовеки;</plain>
+        </string>
+        <string>
+            <plain>Ты дал мне жизнь, как Твой венец,</plain>
+        </string>
+        <string>
+            <plain>Себя явил Ты в человеке.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты - все во всем, вся полнота,</plain>
+        </string>
+        <string>
+            <plain>А я ничто, я - прах могилы;</plain>
+        </string>
+        <string>
+            <plain>Но Сам Ты жертвою креста</plain>
+        </string>
+        <string>
+            <plain>Воздвиг меня и дал мне силы.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Ты - свет, а я светильник Твой;</plain>
+        </string>
+        <string>
+            <plain>Да озарит Твое сиянье,</plain>
+        </string>
+        <string>
+            <plain>Как тьму Египта, мрак земной;</plain>
+        </string>
+        <string>
+            <plain>Да примет мир Твои даянья!</plain>
+        </string>
+    </verse>
+</song>

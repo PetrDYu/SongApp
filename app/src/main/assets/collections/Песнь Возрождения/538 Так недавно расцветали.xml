@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="538" name="Так недавно расцветали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Так недавно расцветали</plain>
+        </string>
+        <string>
+            <plain>Чудные цветы в полях;</plain>
+        </string>
+        <string>
+            <plain>Птички громко распевали,</plain>
+        </string>
+        <string>
+            <plain>Славя Бога в небесах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мрак осенний, мрак мертвящий</plain>
+        </string>
+        <string>
+            <plain>Воцарился везде на полях,</plain>
+        </string>
+        <string>
+            <plain>Все на свете преходяще, -</plain>
+        </string>
+        <string>
+            <plain>Вечность там, на небесах.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все недавно зеленело,</plain>
+        </string>
+        <string>
+            <plain>Ликовало все кругом;</plain>
+        </string>
+        <string>
+            <plain>А теперь все потемнело,</plain>
+        </string>
+        <string>
+            <plain>Словно мир перед судом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так недавно мы играли</plain>
+        </string>
+        <string>
+            <plain>Беззаботными детьми,</plain>
+        </string>
+        <string>
+            <plain>Ни тревог тогда не знали,</plain>
+        </string>
+        <string>
+            <plain>Ни вражды между людьми.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так недавно мы горели</plain>
+        </string>
+        <string>
+            <plain>Светлой юности огнем,</plain>
+        </string>
+        <string>
+            <plain>На земле свершить хотели</plain>
+        </string>
+        <string>
+            <plain>Подвиг чудный со Христом.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Но увы, цветы завяли,</plain>
+        </string>
+        <string>
+            <plain>Светлая весна прошла;</plain>
+        </string>
+        <string>
+            <plain>Дни болезни и печали</plain>
+        </string>
+        <string>
+            <plain>Осень жизни принесла.</plain>
+        </string>
+    </verse>
+</song>

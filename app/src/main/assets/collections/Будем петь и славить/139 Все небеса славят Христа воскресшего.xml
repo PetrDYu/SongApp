@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="139" name="Все небеса славят Христа воскресшего" canon="false" text="Н. Ричардса, Т. Ричардса, Т. Феттке" textRus="" music="Н. Ричардса, Т. Ричардса, Т. Феттке" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Все небеса славят Христа воскресшего;</plain>
+        </string>
+        <string>
+            <plain>Сравнится ль кто с сияньем красоты Его?</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ведь Агнец, Божий Сын, /ведь Агнец, Божий Сын/</plain>
+        </string>
+        <string>
+            <plain>Небесный занял трон, /небесный занял трон/</plain>
+        </string>
+        <string>
+            <plain>Поклонимся пред Ним, /поклонимся пред Ним/</plain>
+        </string>
+        <string>
+            <plain>Достоин славы Он!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Провозглашу славу Христа воскресшего,</plain>
+        </string>
+        <string>
+            <plain>Кто был распят, чтоб примирить людей с Творцом.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Навеки будет Он /навеки будет Он/</plain>
+        </string>
+        <string>
+            <plain>На троне царствовать, /на троне царствовать/</plain>
+        </string>
+        <string>
+            <plain>Колени преклоню /колени преклоню/</plain>
+        </string>
+        <string>
+            <plain>Я только перед Ним.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

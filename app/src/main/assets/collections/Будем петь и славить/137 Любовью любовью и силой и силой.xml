@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="137" name="Любовью любовью и силой и силой" canon="false" text="" textRus="" music="" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Любовью (любовью) и силой (и силой)</plain>
+        </string>
+        <string>
+            <plain>Жизнь наполни мне, Господь.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Тебе я поклонюсь всем сердцем моим,</plain>
+        </string>
+        <string>
+            <plain>Тебе я поклонюсь всем разумом моим,</plain>
+        </string>
+        <string>
+            <plain>Тебе я поклонюсь всей силой моей,</plain>
+        </string>
+        <string>
+            <plain>Ведь Ты – мой Бог (Ты мой Бог),</plain>
+        </string>
+        <string>
+            <plain>Мой Царь и мой Бог.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тебя я возлюблю всем сердцем моим,</plain>
+        </string>
+        <string>
+            <plain>Тебя я возлюблю всем разумом моим,</plain>
+        </string>
+        <string>
+            <plain>Тебе я возлюблю всей силой моей,</plain>
+        </string>
+        <string>
+            <plain>Ведь Ты – мой Бог (Ты мой Бог),</plain>
+        </string>
+        <string>
+            <plain>Мой Царь и мой Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я буду прославлять всем сердцем моим,</plain>
+        </string>
+        <string>
+            <plain>Я буду прославлять всем разумом моим,</plain>
+        </string>
+        <string>
+            <plain>Я буду прославлять всей силой моей,</plain>
+        </string>
+        <string>
+            <plain>Ведь Ты – мой Бог (Ты мой Бог),</plain>
+        </string>
+        <string>
+            <plain>Мой Царь и мой Бог.</plain>
+        </string>
+    </verse>
+</song>

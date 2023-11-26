@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="821" name="Лишь одно у меня стремленье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лишь одно у меня стремленье:</plain>
+        </string>
+        <string>
+            <plain>Больше, Боже, Тебя любить,</plain>
+        </string>
+        <string>
+            <plain>Пред Тобою ходить в смиренье,</plain>
+        </string>
+        <string>
+            <plain>Твое славное имя чтить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь Одно, мой Господь,-</plain>
+        </string>
+        <string>
+            <plain>Жить с Тобой, для Тебя;</plain>
+        </string>
+        <string>
+            <plain>Лишь одно у меня –</plain>
+        </string>
+        <string>
+            <plain>Умереть на земле за Тебя!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лишь одно у меня стремленье:</plain>
+        </string>
+        <string>
+            <plain>Всей душою Тебя познать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Твое на кресте мученье</plain>
+        </string>
+        <string>
+            <plain>Мне во всей полноте понять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лишь одно у меня стремленье:</plain>
+        </string>
+        <string>
+            <plain>Возвещать о Тебе, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Бедным душам, кто в рабстве тленья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб и их оживить Ты мог.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лишь одно у меня стремленье:</plain>
+        </string>
+        <string>
+            <plain>За Тобою везде идти;</plain>
+        </string>
+        <string>
+            <plain>Пусть меня окружает презренье,</plain>
+        </string>
+        <string>
+            <plain>Но я знаю: Ты помощь в пути.</plain>
+        </string>
+    </verse>
+</song>

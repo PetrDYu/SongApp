@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1264" name="О сколько душ блуждают от Бога далеко" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, сколько душ блуждают от Бога далеко.</plain>
+        </string>
+        <string>
+            <plain>Средь мрачных скал, средь терний погибнуть им должно.</plain>
+        </string>
+        <string>
+            <plain>Без Пастыря блуждают, опасность им грозит.</plain>
+        </string>
+        <string>
+            <plain>Они идут, не зная, что смерть кругом царит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойдем искать заблудших, их к</plain>
+        </string>
+        <string>
+            <plain>Иисусу возвратим.</plain>
+        </string>
+        <string>
+            <plain>Можно будет ли нам в оный день сказать:</plain>
+        </string>
+        <string>
+            <plain>"Я сюда пришел с моим".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто жертвы не страшится, на все готов идти.</plain>
+        </string>
+        <string>
+            <plain>Чтоб тех овец заблудших от гибели спасти?</plain>
+        </string>
+        <string>
+            <plain>Кто указать пойдет им путь правды, дом Отца,</plain>
+        </string>
+        <string>
+            <plain>Любовью кто утешит разбитые сердца?</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Пойдем искать заблудших, их к</plain>
+        </string>
+        <string>
+            <plain>Иисусу возвратим.</plain>
+        </string>
+        <string>
+            <plain>Можно будет ли нам в оный день сказать:</plain>
+        </string>
+        <string>
+            <plain>"Я сюда пришел с моим".</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Какой восторг и радость при встрече Господа, Ты скажешь:</plain>
+        </string>
+        <string>
+            <plain>"Добрый Пастырь, овечка найдена.</plain>
+        </string>
+        <string>
+            <plain>В глуши она блуждала, измучена в беде,</plain>
+        </string>
+        <string>
+            <plain>Я взял ее больную, прошу, бери к Себе!"</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Пойдем искать заблудших, их к</plain>
+        </string>
+        <string>
+            <plain>Иисусу возвратим.</plain>
+        </string>
+        <string>
+            <plain>Можно будет ли нам в оный день сказать:</plain>
+        </string>
+        <string>
+            <plain>"Я сюда пришел с моим".</plain>
+        </string>
+    </chorus>
+</song>

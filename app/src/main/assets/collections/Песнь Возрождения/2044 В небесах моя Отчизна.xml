@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2044" name="В небесах моя Отчизна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В небесах моя Отчизна,</plain>
+        </string>
+        <string>
+            <plain>Где не будет больше слез.</plain>
+        </string>
+        <string>
+            <plain>Приготовил там обитель</plain>
+        </string>
+        <string>
+            <plain>Для меня мой друг Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В небе, в небе скоро буду я,</plain>
+        </string>
+        <string>
+            <plain>буду там, где ждут друзья,</plain>
+        </string>
+        <string>
+            <plain>Буду там, где мой Иисус,</plain>
+        </string>
+        <string>
+            <plain>Туда лишь я стремлюсь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там есть место для покоя,</plain>
+        </string>
+        <string>
+            <plain>От нужды и суеты.</plain>
+        </string>
+        <string>
+            <plain>Там любовь Христа святая</plain>
+        </string>
+        <string>
+            <plain>Всех в одно соединит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Отчизна дорогая,</plain>
+        </string>
+        <string>
+            <plain>Странник жаждет по тебе,</plain>
+        </string>
+        <string>
+            <plain>И, шаги все ускоряя,</plain>
+        </string>
+        <string>
+            <plain>Он спешит к родной стране.</plain>
+        </string>
+    </verse>
+</song>

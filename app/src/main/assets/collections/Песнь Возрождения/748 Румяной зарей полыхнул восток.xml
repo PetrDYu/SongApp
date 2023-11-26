@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="748" name="Румяной зарей полыхнул восток" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Румяной зарей полыхнул восток</plain>
+        </string>
+        <string>
+            <plain>И сумрак упал с ветвей.</plain>
+        </string>
+        <string>
+            <plain>"Вставайте, вставайте, день настает!" –</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И песнь его летела, как птица, в лесную даль.</plain>
+        </string>
+        <string>
+            <plain>Песнь про Того, Кто небо и землю создал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот пахарь выходит и вглубь земли</plain>
+        </string>
+        <string>
+            <plain>Зерно свое положил,</plain>
+        </string>
+        <string>
+            <plain>И дружные всходы в степи взошли,</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>И песнь его летела, как птица, в степную даль.</plain>
+        </string>
+        <string>
+            <plain>Песнь про Того, Кто небо и землю создал.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Вставай на заре твоих юных лет –</plain>
+        </string>
+        <string>
+            <plain>День жатвы уж настает!</plain>
+        </string>
+        <string>
+            <plain>Мир гибнет во зле, а работников нет,</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Чтоб песнь твоя летела, как птица, в земную даль.</plain>
+        </string>
+        <string>
+            <plain>Песнь про Того, Кто небо и землю создал.</plain>
+        </string>
+    </chorus>
+</song>

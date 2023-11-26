@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1201" name="Я на земле прохожий миру безмерно чужой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я на земле - прохожий, миру безмерно чужой.</plain>
+        </string>
+        <string>
+            <plain>Люди стремятся в космос, а я хочу домой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Без кораблей, без могучих ракет,</plain>
+        </string>
+        <string>
+            <plain>В мир желанный, в мир сладостных грез...</plain>
+        </string>
+        <string>
+            <plain>Путь мой лежит мимо дальних планет.</plain>
+        </string>
+        <string>
+            <plain>Там впереди - мой Христос!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир надо мной смеется, ложью, позором клеймит,</plain>
+        </string>
+        <string>
+            <plain>Но мой любимый Учитель ввысь мне стремиться велит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С Ним победить смогу я лютую злобу врага.</plain>
+        </string>
+        <string>
+            <plain>Дружба Христа и забота очень мне дорога!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Боже, даруй мне силы крест свой с терпеньем нести,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в святую обитель мог я свободно войти.</plain>
+        </string>
+    </verse>
+</song>

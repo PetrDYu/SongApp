@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3186" name="Несите весть что у креста" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Несите весть, что у креста</plain>
+        </string>
+        <string>
+            <plain>спасенье всем дано!</plain>
+        </string>
+        <string>
+            <plain>О, славьте радостно Христа</plain>
+        </string>
+        <string>
+            <plain>за благодать Его!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, радость, радость, радость</plain>
+        </string>
+        <string>
+            <plain>нам с небес, Господа, пошли!</plain>
+        </string>
+        <string>
+            <plain>Дай радость, радость, радость</plain>
+        </string>
+        <string>
+            <plain>нам в полноте Твоей любви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Источник радости даёт</plain>
+        </string>
+        <string>
+            <plain>нам силу для труда.</plain>
+        </string>
+        <string>
+            <plain>И эта радость в нас живёт,</plain>
+        </string>
+        <string>
+            <plain>всё новое творя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как чудно, коль очищен ты,</plain>
+        </string>
+        <string>
+            <plain>как золото в огне!</plain>
+        </string>
+        <string>
+            <plain>Источник радости открыл</plain>
+        </string>
+        <string>
+            <plain>Спаситель в сердце мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Служу здесь верно Господу,</plain>
+        </string>
+        <string>
+            <plain>живу лишь для Христа.</plain>
+        </string>
+        <string>
+            <plain>И эта радость, часть моя,</plain>
+        </string>
+        <string>
+            <plain>не меркнет никогда.</plain>
+        </string>
+    </verse>
+</song>

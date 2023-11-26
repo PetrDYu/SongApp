@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="160" name="Душа торжествуй в Иисусе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Душа, торжествуй в Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Грехи твои смыл Он с тебя;</plain>
+        </string>
+        <string>
+            <plain>Любовью тебя окружает,</plain>
+        </string>
+        <string>
+            <plain>Добром осыпает, любя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как счастлив я быть с Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Я отдых нашел у Него;</plain>
+        </string>
+        <string>
+            <plain>Он дал мне спокойствие, радость,</plain>
+        </string>
+        <string>
+            <plain>Участие в Царстве Его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как счастлив я быть с Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Святого Он Духа мне дал</plain>
+        </string>
+        <string>
+            <plain>Как сыну, наследнику царства,</plain>
+        </string>
+        <string>
+            <plain>Которое Он обещал.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Как счастлив я быть с Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Я бремя сложил у креста,</plain>
+        </string>
+        <string>
+            <plain>И мир я нашел и блаженство</plain>
+        </string>
+        <string>
+            <plain>У ног Иисуса Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Как счастлив я быть с Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Хотя бы мой путь был тернист,</plain>
+        </string>
+        <string>
+            <plain>Меня доведет Он до цели,</plain>
+        </string>
+        <string>
+            <plain>И стану душою я чист.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Как счастлив я быть с Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Всегда быть в общении с Ним,</plain>
+        </string>
+        <string>
+            <plain>Богатством Его наслаждаясь</plain>
+        </string>
+        <string>
+            <plain>И радуясь Им лишь одним.</plain>
+        </string>
+    </chorus>
+</song>

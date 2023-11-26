@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2277" name="О Ты в Чьём присутствии радостно быть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Ты, в Чьём присутствии радостно быть</plain>
+        </string>
+        <string>
+            <plain>Душе сокрушённой моей,</plain>
+        </string>
+        <string>
+            <plain>Хочу я Тебя непрестанно любить,</plain>
+        </string>
+        <string>
+            <plain>Спасаясь любовью Твоей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Со мною пребудь,</plain>
+        </string>
+        <string>
+            <plain>Спаситель, Господь,</plain>
+        </string>
+        <string>
+            <plain>С Тобою мне радостно быть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Твой голос мелодичнее арфы златой,</plain>
+        </string>
+        <string>
+            <plain>Твой мир предлагает вкушать.</plain>
+        </string>
+        <string>
+            <plain>Ливанские кедры, склонясь пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Все благоуханьем дышат.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Из уст Божьих льётся источник живой</plain>
+        </string>
+        <string>
+            <plain>И сад орошает в раю.</plain>
+        </string>
+        <string>
+            <plain>Там души спасённых объемлет покой,</plain>
+        </string>
+        <string>
+            <plain>Отведав спасенья струю.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пред ликом Твоим тьмы святых предстоят,</plain>
+        </string>
+        <string>
+            <plain>Бесчисленное множество.</plain>
+        </string>
+        <string>
+            <plain>И волю Твою рады все исполнять,</plain>
+        </string>
+        <string>
+            <plain>Венчая Твое Божество.</plain>
+        </string>
+    </verse>
+</song>

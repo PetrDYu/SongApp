@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="280" name="Носите бремена друг друга " canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Носите бремена друг друга –</plain>
+        </string>
+        <string>
+            <plain>Так исполните закон Христов.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Плод духа: любовь, радость,</plain>
+        </string>
+        <string>
+            <plain>Мир, долготерпение, благость, милосердие,</plain>
+        </string>
+        <string>
+            <plain>Вера, кротость, воздержанье – на таких закона нет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Поступайте по духу, братья!</plain>
+        </string>
+        <string>
+            <plain>Со страстьми и похотьми плоть свою распните.</plain>
+        </string>
+        <string>
+            <plain>Если Духом водимы, братья, на таких закона нет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если духом живем, братья,</plain>
+        </string>
+        <string>
+            <plain>Не тщеславьтесь, не раздражайтесь, не завидуйте.</plain>
+        </string>
+        <string>
+            <plain>Есть у нас еще время, братья, чтоб любовью всем служить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если кто согрешит, братья,</plain>
+        </string>
+        <string>
+            <plain>В мире и любви исправляйте такового,</plain>
+        </string>
+        <string>
+            <plain>В духе кротости наблюдайте, наблюдайте за собой.</plain>
+        </string>
+    </verse>
+</song>

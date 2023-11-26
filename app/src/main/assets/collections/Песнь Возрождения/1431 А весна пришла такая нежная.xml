@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1431" name="А весна пришла такая нежная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>А весна пришла такая нежная,</plain>
+        </string>
+        <string>
+            <plain>Были слышны так ее шаги.</plain>
+        </string>
+        <string>
+            <plain>"Здравствуй!" - ей сказал подснежник вежливо,</plain>
+        </string>
+        <string>
+            <plain>Поднимая к небу лепестки.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Весна вновь пришла,</plain>
+        </string>
+        <string>
+            <plain>посмотри вокруг.</plain>
+        </string>
+        <string>
+            <plain>А ты от Христа далеко, мой друг.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ожили и птицы, и растения.</plain>
+        </string>
+        <string>
+            <plain>Реки пробуждаются от сна.</plain>
+        </string>
+        <string>
+            <plain>Почему же ты стоишь растерянно?</plain>
+        </string>
+        <string>
+            <plain>Посмотри, уже пришла весна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Посмотри, какое небо синее.</plain>
+        </string>
+        <string>
+            <plain>Солнца луч тебе желает: "Встань,</plain>
+        </string>
+        <string>
+            <plain>И, стряхнув с себя сонливость зимнюю.</plain>
+        </string>
+        <string>
+            <plain>Прославляй Спасителя Христа!"</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Весна вновь пришла.</plain>
+        </string>
+        <string>
+            <plain>Посмотри вокруг.</plain>
+        </string>
+        <string>
+            <plain>Иди ко Христу поскорее, друг.</plain>
+        </string>
+    </chorus>
+</song>

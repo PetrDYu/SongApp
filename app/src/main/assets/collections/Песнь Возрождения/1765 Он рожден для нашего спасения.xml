@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1765" name="Он рожден для нашего спасения" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он рожден для нашего спасения.</plain>
+        </string>
+        <string>
+            <plain>Но, принесши миру благодать,</plain>
+        </string>
+        <string>
+            <plain>Сам прошел долиной унижения</plain>
+        </string>
+        <string>
+            <plain>И от мира должен был страдать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он рожден, чтоб осчастливить каждого.</plain>
+        </string>
+        <string>
+            <plain>Кто узрит в Нем Бога своего,</plain>
+        </string>
+        <string>
+            <plain>Но над Ним глумились злые граждане</plain>
+        </string>
+        <string>
+            <plain>В дорогом отечестве Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он рожден, чтоб светоч благовестия</plain>
+        </string>
+        <string>
+            <plain>Засиял в греховной темноте,</plain>
+        </string>
+        <string>
+            <plain>Чтобы и теперь на всяком месте мы</plain>
+        </string>
+        <string>
+            <plain>Возвещали людям о Христе.</plain>
+        </string>
+    </verse>
+</song>

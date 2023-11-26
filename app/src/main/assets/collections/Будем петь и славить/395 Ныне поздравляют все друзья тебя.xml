@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="395" name="Ныне поздравляют все друзья тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ныне поздравляют все друзья тебя</plain>
+        </string>
+        <string>
+            <plain>И тебе желают счастья и добра.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пусть пребудет Божий мир с тобой всегда</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И хранит тебя на многие года.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот уж (...) лет Господь тебя хранил.</plain>
+        </string>
+        <string>
+            <plain>Хочет Он, чтоб ты Ему всегда служил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть Господь Спаситель Сам тебя ведет</plain>
+        </string>
+        <string>
+            <plain>В вечную обитель, где Он Сам живет.</plain>
+        </string>
+    </verse>
+</song>

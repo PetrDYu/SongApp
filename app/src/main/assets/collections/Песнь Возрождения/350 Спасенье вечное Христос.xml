@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="350" name="Спасенье вечное Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спасенье вечное Христос</plain>
+        </string>
+        <string>
+            <plain>На землю к нам принес;</plain>
+        </string>
+        <string>
+            <plain>Он отразил греха напасть</plain>
+        </string>
+        <string>
+            <plain>И дал с Собой нам часть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О сердце, не смущайся, верь!</plain>
+        </string>
+        <string>
+            <plain>Прими Христа теперь!</plain>
+        </string>
+        <string>
+            <plain>О сердце, не смущайся, верь!</plain>
+        </string>
+        <string>
+            <plain>Прими Христа теперь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь нас грешных возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Себя не пощадил!</plain>
+        </string>
+        <string>
+            <plain>Он на кресте в предсмертный час</plain>
+        </string>
+        <string>
+            <plain>Отца молил о нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он жизнь нам, мертвым, подарил,</plain>
+        </string>
+        <string>
+            <plain>Рассеял мрак и тьму</plain>
+        </string>
+        <string>
+            <plain>И слово нам Свое вручил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб звать других к Нему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господне Слово - меч святой,</plain>
+        </string>
+        <string>
+            <plain>Поток воды живой;</plain>
+        </string>
+        <string>
+            <plain>Оно порок и грех казнит</plain>
+        </string>
+        <string>
+            <plain>И сердцу мир дарит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="485" name="Год к концу подошел, ибо время не ждет, но летит," canon="false" text="Ю. Шевчук" textRus="" music="Ю. Шевчук" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Год к концу подошел, ибо время не ждет, но летит,</plain>
+        </string>
+        <string>
+            <plain>И мы вспомним о том, как его мы пред Богом прошли.</plain>
+        </string>
+        <string>
+            <plain>Вспомним милость Христа, как Он нас ободрял на пути,</plain>
+        </string>
+        <string>
+            <plain>Как Он силу давал, когда сердце сжималось в груди.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Наша жизнь пролетит,</plain>
+        </string>
+        <string>
+            <plain>Словно пар над водой,</plain>
+        </string>
+    </chorus>
+    <verse number="0">
+        <string>
+            <plain>Как трава увядает в ночи.</plain>
+        </string>
+        <string>
+            <plain>Но не страшно нам жить,</plain>
+        </string>
+        <string>
+            <plain>Верой сердце полно,</plain>
+        </string>
+        <string>
+            <plain>Встреча с Богом нас ждет впереди.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Неизвестность, туман и сомненья порой тяготят,</plain>
+        </string>
+        <string>
+            <plain>Зло, пороки, обман с большей силой сердца леденят.</plain>
+        </string>
+        <string>
+            <plain>Враг пришел для того, чтоб похитить, убить, погубить,</plain>
+        </string>
+        <string>
+            <plain>Но мы верим в Того, Кто Крестом его смог победить.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>О Иисус, Ты наш пастырь,</plain>
+        </string>
+        <string>
+            <plain>В пути проводник –</plain>
+        </string>
+        <string>
+            <plain>Не заблудится даже простой,</plain>
+        </string>
+        <string>
+            <plain>Кто решится по узкой дороге идти,</plain>
+        </string>
+        <string>
+            <plain>Устремляясь вперед за Тобой.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>О Господь, помоги ценность мира за сор почитать,</plain>
+        </string>
+        <string>
+            <plain>А дар веры, любви в своем сердце всегда возгревать.</plain>
+        </string>
+        <string>
+            <plain>И нести собой жизнь, светом быть, осолять и спасать,</plain>
+        </string>
+        <string>
+            <plain>Верность в битве хранить и врагов своих благословлять.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Только с Тобой сможем мы</plain>
+        </string>
+        <string>
+            <plain>Год грядущий прожить</plain>
+        </string>
+        <string>
+            <plain>И с плодами святыми придти.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>О Христос, помоги так счислять наши дни,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мудрость в сердцах обрести.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1827" name="Встав сегодня утром рано" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Встав сегодня утром рано,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+        <string>
+            <plain>Попросил ли ты защиты,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как молитва помогает,</plain>
+        </string>
+        <string>
+            <plain>Ночью зажигает свет,</plain>
+        </string>
+        <string>
+            <plain>И когда изменят силы,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Божью милость людям надо,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+        <string>
+            <plain>И когда изменят силы,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир молитва охраняет,</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+        <string>
+            <plain>С верою молитесь Богу.</plain>
+        </string>
+        <string>
+            <plain>Помолился ль ты?</plain>
+        </string>
+    </verse>
+</song>

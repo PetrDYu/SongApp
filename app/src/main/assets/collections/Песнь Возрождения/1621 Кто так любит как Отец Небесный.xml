@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1621" name="Кто так любит как Отец Небесный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто так любит, как Отец Небесный,</plain>
+        </string>
+        <string>
+            <plain>Ласкою, вниманием даря?</plain>
+        </string>
+        <string>
+            <plain>Не о том ли я имею песни</plain>
+        </string>
+        <string>
+            <plain>В холод и метели января?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сколько лет прошло, а голос нежный</plain>
+        </string>
+        <string>
+            <plain>Раздается с каждым днем сильней:</plain>
+        </string>
+        <string>
+            <plain>"Я тебя в январь суровый, снежный</plain>
+        </string>
+        <string>
+            <plain>Обогрею ласкою Моей".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Позабуду грусти и печали.</plain>
+        </string>
+        <string>
+            <plain>Засияет небо бирюзой,</plain>
+        </string>
+        <string>
+            <plain>Ветер прилетит из синей дали,</plain>
+        </string>
+        <string>
+            <plain>Очищая жизни горизонт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И растают грозовые тучи,</plain>
+        </string>
+        <string>
+            <plain>Глянет солнце, светом осеня.</plain>
+        </string>
+        <string>
+            <plain>Это Бог Великий и могучий</plain>
+        </string>
+        <string>
+            <plain>Еще раз помиловал меня.</plain>
+        </string>
+    </verse>
+</song>

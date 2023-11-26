@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="52" name="В руки Твои, Господь, сердце отдаю" canon="false" text="Терезы Собешкоды" textRus="М. Винецкой, Ю. Пастернака" music="Терезы Собешкоды" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>В руки Твои, Господь, сердце отдаю.</plain>
+        </string>
+        <string>
+            <plain>Кровью Твоей, Господь, мою душу исцели.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Ты, только Ты можешь вглубь души войти,</plain>
+        </string>
+        <string>
+            <plain>Ты, только Ты можешь исцелить меня.</plain>
+        </string>
+    </verse>
+</song>

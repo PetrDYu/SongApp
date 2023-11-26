@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="803" name="В вечных обителях Божьего рая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В вечных обителях Божьего рая</plain>
+        </string>
+        <string>
+            <plain>Нас там Спаситель дивный ждет.</plain>
+        </string>
+        <string>
+            <plain>С радостию на пришельцев взирая,</plain>
+        </string>
+        <string>
+            <plain>Ангелы нас встретят у ворот.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нас спасенные у врат ждут (у врат жемчужных ждут),</plain>
+        </string>
+        <string>
+            <plain>С торжеством они нас в рай ведут (в светлый рай ведут).</plain>
+        </string>
+        <string>
+            <plain>Нас спасенные у врат ждут (у врат жемчужных ждут),</plain>
+        </string>
+        <string>
+            <plain>Песни славы Господу поют (они поют).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Многих там встретим любимых сердечно,</plain>
+        </string>
+        <string>
+            <plain>Что раньше нас пришли туда.</plain>
+        </string>
+        <string>
+            <plain>Агнцу там с радостию бесконечной</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы они поют всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там отдохнем в небесах у Иисуса</plain>
+        </string>
+        <string>
+            <plain>От всех трудов своих земных.</plain>
+        </string>
+        <string>
+            <plain>В этой надежде к Нему я стремлюся,</plain>
+        </string>
+        <string>
+            <plain>Чтоб увидеть сонм Его святых.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К сретенью Бога готовься, спасенный,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не остаться вне дверей,</plain>
+        </string>
+        <string>
+            <plain>Чтобы прославить душой восхищенной</plain>
+        </string>
+        <string>
+            <plain>День явления Царя царей.</plain>
+        </string>
+    </verse>
+</song>

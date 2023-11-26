@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="954" name="Не знаем часа когда придет Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не знаем часа, когда придет Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Но Слово Святое - вот наш утешитель.</plain>
+        </string>
+        <string>
+            <plain>Как радостно нам, что получим</plain>
+        </string>
+        <string>
+            <plain>Обитель Там, вверху в небесах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он придет, будем ждать и молиться.</plain>
+        </string>
+        <string>
+            <plain>Он придет, Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Он придет в облаках и в</plain>
+        </string>
+        <string>
+            <plain>Отеческой славе,</plain>
+        </string>
+        <string>
+            <plain>Нас возьмет в небеса!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Для мудрых есть свет. Кто желает спасенья,</plain>
+        </string>
+        <string>
+            <plain>Бог верным дает всем Свое откровенье.</plain>
+        </string>
+        <string>
+            <plain>И в Слове Своем дает всем приглашенье.</plain>
+        </string>
+        <string>
+            <plain>Нас возьмет в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Светильник зажжем, будем ждать и молиться.</plain>
+        </string>
+        <string>
+            <plain>Пока Он придет, будем все мы трудиться.</plain>
+        </string>
+        <string>
+            <plain>Когда же придет Он, начнем веселиться.</plain>
+        </string>
+        <string>
+            <plain>И пойдем в небеса!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="507" name="Только немного нам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Только немного нам</plain>
+        </string>
+        <string>
+            <plain>Осталось еще идти</plain>
+        </string>
+        <string>
+            <plain>По узким тернистым тропам</plain>
+        </string>
+        <string>
+            <plain>И бремя Христа нести.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если велит Сам Он,</plain>
+        </string>
+        <string>
+            <plain>Пока еще силы есть:</plain>
+        </string>
+        <string>
+            <plain>Трудися! С Ним крест на Сион</plain>
+        </string>
+        <string>
+            <plain>С Голгофы не трудно несть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Только немного дней</plain>
+        </string>
+        <string>
+            <plain>Осталось трудиться нам,</plain>
+        </string>
+        <string>
+            <plain>Мы скроемся вдаль от скорбей</plain>
+        </string>
+        <string>
+            <plain>И в славе пребудем там.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2853" name="Как много любовь воспевали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как много любовь воспевали</plain>
+        </string>
+        <string>
+            <plain>мы в песнях своих вновь и вновь,</plain>
+        </string>
+        <string>
+            <plain>но не удалось никому</plain>
+        </string>
+        <string>
+            <plain>всё ж посеять в избытке любовь!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисусу, источнику, - слава!</plain>
+        </string>
+        <string>
+            <plain>- детей Своих любящих так.</plain>
+        </string>
+        <string>
+            <plain>Он дарит любовь в полноте нам</plain>
+        </string>
+        <string>
+            <plain>и с нею победу всегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любовь, что Иисус даровал нам,</plain>
+        </string>
+        <string>
+            <plain>сердца наполняет всегда;</plain>
+        </string>
+        <string>
+            <plain>ведёт нас она к вечной жизни,</plain>
+        </string>
+        <string>
+            <plain>к небесному граду Отца!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь терпелива, спокойна</plain>
+        </string>
+        <string>
+            <plain>и зла никому не чинит,</plain>
+        </string>
+        <string>
+            <plain>и малого не презирает,</plain>
+        </string>
+        <string>
+            <plain>а каждого любит, мирит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Давайте не только же в песнях</plain>
+        </string>
+        <string>
+            <plain>любовь Иисуса хвалить,</plain>
+        </string>
+        <string>
+            <plain>а Господу с радостью жертвы</plain>
+        </string>
+        <string>
+            <plain>любви от души приносить!</plain>
+        </string>
+    </verse>
+</song>

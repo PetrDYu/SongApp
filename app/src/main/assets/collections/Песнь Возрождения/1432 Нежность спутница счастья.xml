@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1432" name="Нежность спутница счастья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нежность - спутница счастья,</plain>
+        </string>
+        <string>
+            <plain>Светлой волной к сердцу прильнет,</plain>
+        </string>
+        <string>
+            <plain>Станет маленькой частью</plain>
+        </string>
+        <string>
+            <plain>Солнца большого, холод уйдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Люди, нежность нужна вам,</plain>
+        </string>
+        <string>
+            <plain>Словно солнечный свет.</plain>
+        </string>
+        <string>
+            <plain>Меркнут разум и слава,</plain>
+        </string>
+        <string>
+            <plain>Если нежности нет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С нею в сердце растают</plain>
+        </string>
+        <string>
+            <plain>Мелкие льдинки наших обид.</plain>
+        </string>
+        <string>
+            <plain>Слезы с ней высыхают,</plain>
+        </string>
+        <string>
+            <plain>Песня о счастье в сердце звучит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нежность нам помогает</plain>
+        </string>
+        <string>
+            <plain>Здесь, в этой жизни лучшими быть.</plain>
+        </string>
+        <string>
+            <plain>Добрый след оставляет.</plain>
+        </string>
+        <string>
+            <plain>Учит нас нежно, верно любить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2681" name="Пред тобой лежит дорога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пред тобой лежит дорога,</plain>
+        </string>
+        <string>
+            <plain>Весь заросший узкий путь.</plain>
+        </string>
+        <string>
+            <plain>О тернистую дорогу</plain>
+        </string>
+        <string>
+            <plain>Колешь ноги; раны жгут.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не робей, пусть песня льется,</plain>
+        </string>
+        <string>
+            <plain>Видна Родина твоя.</plain>
+        </string>
+        <string>
+            <plain>Все в любви там встрепенется,</plain>
+        </string>
+        <string>
+            <plain>С пеньем Господа хваля.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О иди, еще немного,</plain>
+        </string>
+        <string>
+            <plain>Скоро, скоро ты придешь.</plain>
+        </string>
+        <string>
+            <plain>В лучезарности чертога</plain>
+        </string>
+        <string>
+            <plain>Отдых, радость ,ты найдешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А пока, пока мы в теле,</plain>
+        </string>
+        <string>
+            <plain>Будем думать лишь о том,</plain>
+        </string>
+        <string>
+            <plain>Как достичь небесной цели,</plain>
+        </string>
+        <string>
+            <plain>Как войти ,в небесный дом.</plain>
+        </string>
+    </verse>
+</song>

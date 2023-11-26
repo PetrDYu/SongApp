@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="182" name="Я знаю жив Христос Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, жив Христос Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Он место дать мне обещал;</plain>
+        </string>
+        <string>
+            <plain>Он дверь открыл мне жизни вечной</plain>
+        </string>
+        <string>
+            <plain>И чадом Божиим назвал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Никто не может взять меня</plain>
+        </string>
+        <string>
+            <plain>Из рук Спасителя Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ведь здесь я только жду призыва,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь придет за мной,</plain>
+        </string>
+        <string>
+            <plain>Когда возьмет меня от мира</plain>
+        </string>
+        <string>
+            <plain>И приведет меня домой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всецело сердцем доверяю</plain>
+        </string>
+        <string>
+            <plain>Тому, Кто распят за меня;</plain>
+        </string>
+        <string>
+            <plain>Я голосу Его внимаю:</plain>
+        </string>
+        <string>
+            <plain>"О, приходи! Я жду тебя".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я побежден Его любовью,</plain>
+        </string>
+        <string>
+            <plain>Он за меня Страдальцем стал,</plain>
+        </string>
+        <string>
+            <plain>Он истекал пречистой кровью</plain>
+        </string>
+        <string>
+            <plain>И жизнь мне смертью крестной дал.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Спаситель мой придет уж скоро</plain>
+        </string>
+        <string>
+            <plain>И Сам меня туда возьмет,</plain>
+        </string>
+        <string>
+            <plain>Где под лучом Христова взора</plain>
+        </string>
+        <string>
+            <plain>Мой дух навеки воспоет.</plain>
+        </string>
+    </verse>
+</song>

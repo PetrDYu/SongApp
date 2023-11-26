@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="83" name="Как часто жизнью утомленный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как часто жизнью утомленный,</plain>
+        </string>
+        <string>
+            <plain>Разбитый грозною волной,</plain>
+        </string>
+        <string>
+            <plain>Молюсь я с верой умиленной:</plain>
+        </string>
+        <string>
+            <plain>О Боже мой, пошли покой!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пошли покой примиренья,</plain>
+        </string>
+        <string>
+            <plain>Пошли покой утешенья,</plain>
+        </string>
+        <string>
+            <plain>Пошли желанный покой.</plain>
+        </string>
+        <string>
+            <plain>О Боже мой, пошли покой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Скажи ветрам, пусть смолкнут бури,</plain>
+        </string>
+        <string>
+            <plain>Пролей на волны Твой елей.</plain>
+        </string>
+        <string>
+            <plain>Пусть луч отверстой мне лазури</plain>
+        </string>
+        <string>
+            <plain>Рассеет мрак плотских страстей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вновь оживи покой сознанья,</plain>
+        </string>
+        <string>
+            <plain>Что я навек спасен Тобой,</plain>
+        </string>
+        <string>
+            <plain>Что и в минуту испытанья</plain>
+        </string>
+        <string>
+            <plain>И в час невзгоды - Ты со мной!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И Он мольбе моей внимает:</plain>
+        </string>
+        <string>
+            <plain>Дает покой душе моей</plain>
+        </string>
+        <string>
+            <plain>И дивной речью обещает</plain>
+        </string>
+        <string>
+            <plain>Мне дать покой еще славней.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Покой не смерти, не забвенья</plain>
+        </string>
+        <string>
+            <plain>В могиле гибнущих веков,</plain>
+        </string>
+        <string>
+            <plain>Покой же жизни, воскресенья</plain>
+        </string>
+        <string>
+            <plain>В раю обновленных миров.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Покой не мрачного застоя,</plain>
+        </string>
+        <string>
+            <plain>Покой в потоке вечных сил,</plain>
+        </string>
+        <string>
+            <plain>В полете ангельского строя,</plain>
+        </string>
+        <string>
+            <plain>В теченье света без светил.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Покой не одинокой клети,</plain>
+        </string>
+        <string>
+            <plain>Покой под звукиголосов,</plain>
+        </string>
+        <string>
+            <plain>Поющих Богу в вечном свете</plain>
+        </string>
+        <string>
+            <plain>Хвалу искупленных сынов.</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Покой от зла, его дыханья</plain>
+        </string>
+        <string>
+            <plain>В победе вечного добра,</plain>
+        </string>
+        <string>
+            <plain>Покой от скорби и страданья</plain>
+        </string>
+        <string>
+            <plain>В лучах бессмертного утра.</plain>
+        </string>
+    </verse>
+</song>

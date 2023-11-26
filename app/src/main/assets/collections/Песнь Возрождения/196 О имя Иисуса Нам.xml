@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="196" name="О имя Иисуса Нам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О имя Иисуса! Нам</plain>
+        </string>
+        <string>
+            <plain>Так сладостно оно!</plain>
+        </string>
+        <string>
+            <plain>Спасенье, счастие сердцам</plain>
+        </string>
+        <string>
+            <plain>От Бога в Нем дано.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В Нем исцеленье тяжких ран</plain>
+        </string>
+        <string>
+            <plain>И язв души больной;</plain>
+        </string>
+        <string>
+            <plain>В Нем утешенье христиан</plain>
+        </string>
+        <string>
+            <plain>Среди борьбы земной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В Нем мой маяк, к Нему плыву</plain>
+        </string>
+        <string>
+            <plain>И направляю путь;</plain>
+        </string>
+        <string>
+            <plain>В Нем пристань, где склоню главу,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вечно отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В Иисусе Бог мне не судья,</plain>
+        </string>
+        <string>
+            <plain>Он друг и пастырь мой;</plain>
+        </string>
+        <string>
+            <plain>Он мой покров и жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>И радость, и покой.</plain>
+        </string>
+    </verse>
+</song>

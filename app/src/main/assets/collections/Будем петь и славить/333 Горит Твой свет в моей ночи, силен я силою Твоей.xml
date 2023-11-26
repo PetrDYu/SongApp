@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="333" name="Горит Твой свет в моей ночи, силен я силою Твоей" canon="false" text="Джоэля Чернофа, Дэниэла бен Йосефа" textRus="И. Языковой, Ю. Пастернака" music="Джоэля Чернофа, Дэниэла бен Йосефа" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Горит Твой свет в моей ночи, силен я силою Твоей.</plain>
+        </string>
+        <string>
+            <plain>Ты утолил мою печаль, ЭЛИ ЭЛИ ЭЛИ Й-ДИ ДИ.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Меня мой Бог усыновил, в долине слез меня нашел.</plain>
+        </string>
+        <string>
+            <plain>Тебе, как птица, воспою, ЭЛИ ЭЛИ ЭЛИ Й-ДИ ДИ.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Лай, лай, лай...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А-ЦУР ШЭ́ЛЬ АМ ИСРАЭ́ЛЬ – желанье всех сынов земли,</plain>
+        </string>
+        <string>
+            <plain>Надежда всех Твоих детей, ЭЛИ ЭЛИ ЭЛИ Й-ДИ ДИ.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Лай, лай, лай...</plain>
+        </string>
+    </verse>
+</song>

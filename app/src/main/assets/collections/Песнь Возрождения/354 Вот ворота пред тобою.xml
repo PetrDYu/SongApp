@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="354" name="Вот ворота пред тобою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот ворота пред тобою</plain>
+        </string>
+        <string>
+            <plain>И за ними два пути.</plain>
+        </string>
+        <string>
+            <plain>Друг мой, робкою душою</plain>
+        </string>
+        <string>
+            <plain>Избери, каким идти!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Через тесные ворота</plain>
+        </string>
+        <string>
+            <plain>Видна узкая стезя;</plain>
+        </string>
+        <string>
+            <plain>Там вдали леса, болота,</plain>
+        </string>
+        <string>
+            <plain>Терн и бури ждут тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чрез широкие ворота</plain>
+        </string>
+        <string>
+            <plain>Путь пространный видишь ты</plain>
+        </string>
+        <string>
+            <plain>И на нем толпу без счета,</plain>
+        </string>
+        <string>
+            <plain>Пир и праздник суеты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За тропой борьбы, тревоги –</plain>
+        </string>
+        <string>
+            <plain>Солнца луч и рай цветов,</plain>
+        </string>
+        <string>
+            <plain>А в конце другой дороги –</plain>
+        </string>
+        <string>
+            <plain>Ночь гнетущая и ров.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вот ворота пред тобою</plain>
+        </string>
+        <string>
+            <plain>И за ними два пути.</plain>
+        </string>
+        <string>
+            <plain>Друг мой, робкою душою</plain>
+        </string>
+        <string>
+            <plain>Избери, каким идти!</plain>
+        </string>
+    </verse>
+</song>

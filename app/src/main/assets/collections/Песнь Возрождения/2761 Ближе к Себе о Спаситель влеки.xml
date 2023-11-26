@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2761" name="Ближе к Себе о Спаситель влеки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ближе к Себе, о Спаситель, влеки,</plain>
+        </string>
+        <string>
+            <plain>Ввериться дай Твоей дивной любви,</plain>
+        </string>
+        <string>
+            <plain>Тяжесть сомнений Тебе приношу,</plain>
+        </string>
+        <string>
+            <plain>О облегчи, о сними, я прошу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О мой Спаситель, дай чтобы я</plain>
+        </string>
+        <string>
+            <plain>Умер для мира, жил для Тебя,</plain>
+        </string>
+        <string>
+            <plain>Куплен страданий Твоих я ценой,</plain>
+        </string>
+        <string>
+            <plain>Дивный Спаситель, я Твой, Ты мой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ближе к Себе, о Спаситель, влеки,</plain>
+        </string>
+        <string>
+            <plain>В узком пути Сам за руку веди.</plain>
+        </string>
+        <string>
+            <plain>Путь я один совершить не могу,</plain>
+        </string>
+        <string>
+            <plain>Вместе с Тобой же я к цели приду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ближе к Себе, о Спаситель, влеки,</plain>
+        </string>
+        <string>
+            <plain>Духом Святым Ты меня крести,</plain>
+        </string>
+        <string>
+            <plain>Чтоб искушения яд побеждать</plain>
+        </string>
+        <string>
+            <plain>Жизнью, делами Тебя прославлять.</plain>
+        </string>
+    </verse>
+</song>

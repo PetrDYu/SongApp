@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="345" name="Устало сердце ноют ноги" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Устало сердце, ноют ноги,</plain>
+        </string>
+        <string>
+            <plain>Спасенье мучились найти,</plain>
+        </string>
+        <string>
+            <plain>Но вы не знаете дороги,</plain>
+        </string>
+        <string>
+            <plain>Какой вам надобно идти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вступите на дорогу веры,</plain>
+        </string>
+        <string>
+            <plain>К злым не ходите на совет,</plain>
+        </string>
+        <string>
+            <plain>Любите всех людей без меры –</plain>
+        </string>
+        <string>
+            <plain>И раем станет этот свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Доколе вам кривить душою,</plain>
+        </string>
+        <string>
+            <plain>Молиться: "Господи, прости!"</plain>
+        </string>
+        <string>
+            <plain>И сердцем, дышащим враждою,</plain>
+        </string>
+        <string>
+            <plain>Дорогой Каина идти?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Читайте с верой книгу Божью,</plain>
+        </string>
+        <string>
+            <plain>Спешите сил в ней почерпнуть,</plain>
+        </string>
+        <string>
+            <plain>Она покажет в бездорожье</plain>
+        </string>
+        <string>
+            <plain>К спасенью узкий, верный путь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2418" name="Я молился раз и ждал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я молился раз (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Я молился два (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Чтоб от тьмы и зла земного</plain>
+        </string>
+        <string>
+            <plain>Бог меня хранил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И услышал я в мольбе:</plain>
+        </string>
+        <string>
+            <plain>"Помогу тебе в беде,</plain>
+        </string>
+        <string>
+            <plain>На земле и на воде Я помогу тебе".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я молился раз (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Я молился два (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Средь волны неверия</plain>
+        </string>
+        <string>
+            <plain>Чтоб я не утопал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я молился раз (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Я молился два (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Чтобы Бог меня усльшал,</plain>
+        </string>
+        <string>
+            <plain>Путь мой охранял.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я молился раз (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Я молился два (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Чтобы Христос среди страданий</plain>
+        </string>
+        <string>
+            <plain>Лучший дал удел.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я молился раз (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Я молился два (и ждал),</plain>
+        </string>
+        <string>
+            <plain>Чтобы Бог мне дал награду,</plain>
+        </string>
+        <string>
+            <plain>Путь мой увенчал.</plain>
+        </string>
+    </verse>
+</song>

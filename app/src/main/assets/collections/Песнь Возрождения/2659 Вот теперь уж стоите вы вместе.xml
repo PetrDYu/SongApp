@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2659" name="Вот теперь уж стоите вы вместе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот теперь уж стоите вы вместе,</plain>
+        </string>
+        <string>
+            <plain>Путь дорога теперь вам одна,</plain>
+        </string>
+        <string>
+            <plain>Вы сегодня жених и невеста,</plain>
+        </string>
+        <string>
+            <plain>Вы теперь уж навеки друзья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А уж завтра начнут вас, наверно,</plain>
+        </string>
+        <string>
+            <plain>Называть только муж и жена,</plain>
+        </string>
+        <string>
+            <plain>Так любите друг друга вы нежно,</plain>
+        </string>
+        <string>
+            <plain>Вы теперь уж навеки друзья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь земная мятежна, суетна,</plain>
+        </string>
+        <string>
+            <plain>В мире много коварства и зла,</plain>
+        </string>
+        <string>
+            <plain>Но любите друг друга вы нежно,</plain>
+        </string>
+        <string>
+            <plain>Вы теперь уж навеки друзья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что вас встретит в пути - неизвестно,</plain>
+        </string>
+        <string>
+            <plain>Счастье, радость иль скорбь, иль нужда.</plain>
+        </string>
+        <string>
+            <plain>Все ж любите друг друга вы нежно,</plain>
+        </string>
+        <string>
+            <plain>Вы теперь уж навеки друзья.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чтоб любить беспредельно и нежно</plain>
+        </string>
+        <string>
+            <plain>В свете истины Божьей всегда,</plain>
+        </string>
+        <string>
+            <plain>Друг за друга молитесь прилежно,</plain>
+        </string>
+        <string>
+            <plain>Вы Христовы навеки друзья.</plain>
+        </string>
+    </verse>
+</song>

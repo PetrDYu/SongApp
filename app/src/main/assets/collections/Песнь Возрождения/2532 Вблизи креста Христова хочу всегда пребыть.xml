@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2532" name="Вблизи креста Христова хочу всегда пребыть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вблизи креста Христова хочу всегда пребыть:</plain>
+        </string>
+        <string>
+            <plain>Там от скалы высокой тень, там отдых от борьбы;</plain>
+        </string>
+        <string>
+            <plain>Там страннику надежный дом, защита от невзгод:</plain>
+        </string>
+        <string>
+            <plain>Там от страданий отдохнем и от земных забот.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Там на кресте Христовом узрел я в свете дня</plain>
+        </string>
+        <string>
+            <plain>Страдальца, верного Отцу, что умер за меня.</plain>
+        </string>
+        <string>
+            <plain>Душой прильнувши ко кресту я глубже сознаю</plain>
+        </string>
+        <string>
+            <plain>Любви Господней полноту и пустоту мою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вблизи креста Христова пребуду до конца.</plain>
+        </string>
+        <string>
+            <plain>Не надо мне иных лучей, лишь свет Его лица.</plain>
+        </string>
+        <string>
+            <plain>Мир покидаю не скорбя, мне все здесь нипочем,</plain>
+        </string>
+        <string>
+            <plain>Стыжусь лишь самого себя, хвалюсь Его крестом.</plain>
+        </string>
+    </verse>
+</song>

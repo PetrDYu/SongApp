@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="125" name="Нежное чувство словно в моем сердце" canon="false" text="по мотивам св. Франциска Ассизского" textRus="Ю. Пастернака" music="Р. Ортолани" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Нежное чувство – словно в моем сердце</plain>
+        </string>
+        <string>
+            <plain>Тихо, смиренно рождается любовь.</plain>
+        </string>
+        <string>
+            <plain>Не одинок я, твердо это знаю,</plain>
+        </string>
+        <string>
+            <plain>Сердцу открылось – я часть огромной жизни –</plain>
+        </string>
+        <string>
+            <plain>Она так щедро вокруг меня искрится.</plain>
+        </string>
+        <string>
+            <plain>И этот мир – дар любви Его безмерной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он дал нам небо, ласковые звезды,</plain>
+        </string>
+        <string>
+            <plain>И братца-солнце, и луну-сестрицу,</plain>
+        </string>
+        <string>
+            <plain>Матушку-землю, все, что в ней родится,</plain>
+        </string>
+        <string>
+            <plain>Огонь и ветер, и живую воду –</plain>
+        </string>
+        <string>
+            <plain>Источник жизни для Своих творений.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>И этот мир – дар любви Его безмерной,</plain>
+        </string>
+        <string>
+            <plain>Весь этот мир – дар любви Его безмерной.</plain>
+        </string>
+    </verse>
+</song>

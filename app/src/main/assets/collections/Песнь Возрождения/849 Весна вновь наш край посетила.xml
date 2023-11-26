@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="849" name="Весна вновь наш край посетила" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Весна вновь наш край посетила.</plain>
+        </string>
+        <string>
+            <plain>Блеснула в ручьях серебром.</plain>
+        </string>
+        <string>
+            <plain>Снега на полях растопила</plain>
+        </string>
+        <string>
+            <plain>Своим благодатным теплом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А сердце томится, сердце ждет,</plain>
+        </string>
+        <string>
+            <plain>Сердце печальную песнь поет.</plain>
+        </string>
+        <string>
+            <plain>Когда же с небес к нам</plain>
+        </string>
+        <string>
+            <plain>придет она, Вечная весна?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И ласточка с песней веселой</plain>
+        </string>
+        <string>
+            <plain>К нам снова под крышу спешит,</plain>
+        </string>
+        <string>
+            <plain>И звонкая песнь жаворонка</plain>
+        </string>
+        <string>
+            <plain>Весенним приветом звучит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Заботы, печали, тревоги -</plain>
+        </string>
+        <string>
+            <plain>Вот лучшая доля людей.</plain>
+        </string>
+        <string>
+            <plain>Устал я шагать по дороге</plain>
+        </string>
+        <string>
+            <plain>К Небесной Отчизне моей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебя я молю, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Дай силу мне вновь обрести</plain>
+        </string>
+        <string>
+            <plain>И в дивную неба обитель</plain>
+        </string>
+        <string>
+            <plain>С победною славой войти.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ведь с вечной весною ненастьям</plain>
+        </string>
+        <string>
+            <plain>И горестям будет конец:</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой с нежным участьем</plain>
+        </string>
+        <string>
+            <plain>Подарит мне чудный венец.</plain>
+        </string>
+    </verse>
+    <chorus number="5">
+        <string>
+            <plain>И сердце не будет томиться, ждать,</plain>
+        </string>
+        <string>
+            <plain>Песню печали и слез слагать.</plain>
+        </string>
+        <string>
+            <plain>Когда же с небес к нам придет она, Вечная весна?</plain>
+        </string>
+    </chorus>
+</song>

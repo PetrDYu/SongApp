@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="730" name="Мы идем тропою узкой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы идем тропою узкой,</plain>
+        </string>
+        <string>
+            <plain>Труден и тернист наш путь,</plain>
+        </string>
+        <string>
+            <plain>Но всегда Спаситель с нами,</plain>
+        </string>
+        <string>
+            <plain>Это, друг мой, не забудь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хоть идешь ты спотыкаясь,</plain>
+        </string>
+        <string>
+            <plain>Падаешь и трудно встать,</plain>
+        </string>
+        <string>
+            <plain>Не теряй надежды, друг мой,</plain>
+        </string>
+        <string>
+            <plain>Но вставай, иди опять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда во тьме блуждаешь</plain>
+        </string>
+        <string>
+            <plain>И не знаешь, как идти,</plain>
+        </string>
+        <string>
+            <plain>Не смущайся, - Бог с тобою,</plain>
+        </string>
+        <string>
+            <plain>Он поможет на пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сами мы идти не в силах,</plain>
+        </string>
+        <string>
+            <plain>Только с Ним пройдем свой путь.</plain>
+        </string>
+        <string>
+            <plain>Скоро Он введет нас в дом Свой,</plain>
+        </string>
+        <string>
+            <plain>Это, друг мой, не забудь.</plain>
+        </string>
+    </verse>
+</song>

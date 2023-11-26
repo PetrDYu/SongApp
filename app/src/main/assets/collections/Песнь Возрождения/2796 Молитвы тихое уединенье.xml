@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2796" name="Молитвы тихое уединенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молитвы тихое уединенье</plain>
+        </string>
+        <string>
+            <plain>Душе, уставшей от земных дорог,</plain>
+        </string>
+        <string>
+            <plain>Дарит святую силу вдохновенья</plain>
+        </string>
+        <string>
+            <plain>И радость жизни средь скорбей, тревог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молитвы крылья дух возносят к Богу,</plain>
+        </string>
+        <string>
+            <plain>Туда, где нет невзгод и суеты,</plain>
+        </string>
+        <string>
+            <plain>К небесному лазурному чертогу,</plain>
+        </string>
+        <string>
+            <plain>К сиянью вечно дивной красоты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Забыв всю тяжесть жизненных волнений,</plain>
+        </string>
+        <string>
+            <plain>Спешу душой пределов тех достичь.</plain>
+        </string>
+        <string>
+            <plain>И в пламенной молитве вдохновенной</plain>
+        </string>
+        <string>
+            <plain>Покой и радость в вечности постичь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, Ты так велик в любви безмерной,</plain>
+        </string>
+        <string>
+            <plain>Заботой нежной окружаешь нас,</plain>
+        </string>
+        <string>
+            <plain>Ты нам даришь в молитвенном общенье</plain>
+        </string>
+        <string>
+            <plain>И отдых, и с Тобой живую связь.</plain>
+        </string>
+    </verse>
+</song>

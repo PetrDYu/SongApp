@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2475" name="Есть много дорог и много путей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть много дорог и много путей,</plain>
+        </string>
+        <string>
+            <plain>Но только лишь Бог - путь жизни моей.</plain>
+        </string>
+        <string>
+            <plain>Он за руку Сам проводит меня</plain>
+        </string>
+        <string>
+            <plain>Домой, к небесам, по острым камням.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И в стужу и в зной, и ночью и днем</plain>
+        </string>
+        <string>
+            <plain>Спаситель со мной, я радуюсь в Нем.</plain>
+        </string>
+        <string>
+            <plain>Так страшно кругом, темно впереди,</plain>
+        </string>
+        <string>
+            <plain>Но в битве с врагом Господь победил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бушует гроза. Потоками дождь,</plain>
+        </string>
+        <string>
+            <plain>Но видна стезя, и близок мой Вождь.</plain>
+        </string>
+        <string>
+            <plain>Со мной Иисус - победа моя,</plain>
+        </string>
+        <string>
+            <plain>И с Ним я стремлюсь в родные края.</plain>
+        </string>
+    </verse>
+</song>

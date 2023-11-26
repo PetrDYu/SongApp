@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="33" name="Этот день, этот день сотворил Господь, сотворил Господь" canon="false" text="Л. Гаррета" textRus="А. Черняка" music="Народная фиджийская" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Этот день, этот день сотворил Господь, сотворил Господь</plain>
+        </string>
+        <string>
+            <plain>На радость нам, на радость нам и веселие, и веселие.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Этот день сотворил Господь на радость нам и веселие.</plain>
+        </string>
+        <string>
+            <plain>Этот день, этот день сотворил Господь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Этот день, этот день сотворил Господь, сотворил Господь.</plain>
+        </string>
+        <string>
+            <plain>Давайте все, кто во Христе, петь Ему хвалу, петь Ему хвалу.</plain>
+        </string>
+        <string>
+            <plain>Этот день сотворил Господь на радость нам и веселие.</plain>
+        </string>
+        <string>
+            <plain>Давайте все, кто во Христе, петь Ему хвалу.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>ЗЭ HАЙОМ, ЗЭ HАЙОМ АСА АДОНАЙ, АСА АДОНАЙ.</plain>
+        </string>
+        <string>
+            <plain>НАГИЛА, НАГИЛА ВЭНИСМЕХА БО, ВЭНИСМЕХА БО.</plain>
+        </string>
+        <string>
+            <plain>ЗЭ HАЙОМ АСА АДОНАЙ. НАГИЛА ВЭНИСМЕХА БО.</plain>
+        </string>
+        <string>
+            <plain>ЗЭ HАЙОМ, ЗЭ HАЙОМ АСА АДОНАЙ.</plain>
+        </string>
+    </verse>
+</song>

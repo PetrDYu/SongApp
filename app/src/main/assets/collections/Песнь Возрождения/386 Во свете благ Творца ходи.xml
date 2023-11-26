@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="386" name="Во свете благ Творца ходи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Во свете благ Творца ходи,</plain>
+        </string>
+        <string>
+            <plain>Его путем иди;</plain>
+        </string>
+        <string>
+            <plain>Он Духа шлет к тебе с небес,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мрак в душе исчез.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В свете ходи,</plain>
+        </string>
+        <string>
+            <plain>В свете Христа!</plain>
+        </string>
+        <string>
+            <plain>В свете ходи,</plain>
+        </string>
+        <string>
+            <plain>В свете слов Христа ходи!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Во свете слов Христа ходи!</plain>
+        </string>
+        <string>
+            <plain>На лик Его гляди;</plain>
+        </string>
+        <string>
+            <plain>Он хочет с ранних лет вести</plain>
+        </string>
+        <string>
+            <plain>Нас по Его пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Во свете слов Христа ходи;</plain>
+        </string>
+        <string>
+            <plain>И тучи впереди,</plain>
+        </string>
+        <string>
+            <plain>И ночь греха пройдет, как тень,</plain>
+        </string>
+        <string>
+            <plain>В великий Божий день.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Во свете слов Христа иди,</plain>
+        </string>
+        <string>
+            <plain>Любовь храни в груди;</plain>
+        </string>
+        <string>
+            <plain>Союз с Ним здесь так сладок нам,</plain>
+        </string>
+        <string>
+            <plain>Но слаще будет там.</plain>
+        </string>
+    </verse>
+</song>

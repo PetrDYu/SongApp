@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2412" name="Я здесь лишь странник странствуя в мире" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я здесь лишь странник; странствуя в мире,</plain>
+        </string>
+        <string>
+            <plain>На Родину я снова спешу.</plain>
+        </string>
+        <string>
+            <plain>Скоро расстанусь я с этим миром</plain>
+        </string>
+        <string>
+            <plain>И в край небесный я войду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В белых одеждах ангелы встретят,</plain>
+        </string>
+        <string>
+            <plain>Где вместе с ними пребудем мы.</plain>
+        </string>
+        <string>
+            <plain>Облекшись силой Его святою,</plain>
+        </string>
+        <string>
+            <plain>Мы будем славить и петь псалмы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Минуют годы, пройдут и беды,</plain>
+        </string>
+        <string>
+            <plain>движу новый Иерусалим.</plain>
+        </string>
+        <string>
+            <plain>И воспою я в нём песнь победы</plain>
+        </string>
+        <string>
+            <plain>И вечно буду с Отцом моим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть ветер воет, несутся тучи</plain>
+        </string>
+        <string>
+            <plain>И угрожают мне пусть вокруг.</plain>
+        </string>
+        <string>
+            <plain>Я знаю то лишь, что Бог могучий</plain>
+        </string>
+        <string>
+            <plain>Со мной пребудет, как лучший Друг.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="753" name="Книга Богом мне дана" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Книга Богом мне дана,</plain>
+        </string>
+        <string>
+            <plain>Хоть поношена она,</plain>
+        </string>
+        <string>
+            <plain>Вспоминаю дни минувшие давно:</plain>
+        </string>
+        <string>
+            <plain>Мать читала мне тогда,</plain>
+        </string>
+        <string>
+            <plain>Не забуду никогда,</plain>
+        </string>
+        <string>
+            <plain>Как нам было с нею мирно, хорошо.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О святая и живая книга Божия, люблю, люблю тебя!</plain>
+        </string>
+        <string>
+            <plain>Ты дороже с каждым днем</plain>
+        </string>
+        <string>
+            <plain>И ведешь прямым путем</plain>
+        </string>
+        <string>
+            <plain>К чудной Родине, где ждет Господь меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Про Спасителя Христа</plain>
+        </string>
+        <string>
+            <plain>Все читала мне она,</plain>
+        </string>
+        <string>
+            <plain>Как любил, страдал и умер на кресте.</plain>
+        </string>
+        <string>
+            <plain>Со слезами слушал я.</plain>
+        </string>
+        <string>
+            <plain>"Помни, это за тебя, -</plain>
+        </string>
+        <string>
+            <plain>Говорила мать. - Храни Его в душе!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Это все прошло давно,</plain>
+        </string>
+        <string>
+            <plain>Но как живо мне оно,</plain>
+        </string>
+        <string>
+            <plain>И святая книга свет мне на пути.</plain>
+        </string>
+        <string>
+            <plain>Слово Божие храню</plain>
+        </string>
+        <string>
+            <plain>И Спасителя люблю,</plain>
+        </string>
+        <string>
+            <plain>По стопам Его всегда хочу идти.</plain>
+        </string>
+    </verse>
+</song>

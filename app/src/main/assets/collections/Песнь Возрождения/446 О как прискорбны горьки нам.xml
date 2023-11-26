@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="446" name="О как прискорбны горьки нам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, как прискорбны, горьки нам</plain>
+        </string>
+        <string>
+            <plain>Воспоминания</plain>
+        </string>
+        <string>
+            <plain>О дне, когда Сын Божий Сам</plain>
+        </string>
+        <string>
+            <plain>Принял страданья.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как агнца кроткого ведут</plain>
+        </string>
+        <string>
+            <plain>Без сожаления</plain>
+        </string>
+        <string>
+            <plain>И за виновных отдают</plain>
+        </string>
+        <string>
+            <plain>На убиенье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так шел Спаситель наш - Христос,</plain>
+        </string>
+        <string>
+            <plain>Чтоб умереть за нас;</plain>
+        </string>
+        <string>
+            <plain>Наш грех Он на Себе понес</plain>
+        </string>
+        <string>
+            <plain>И нас от смерти спас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он был пронзен копьем в ребро,</plain>
+        </string>
+        <string>
+            <plain>Текла вода и кровь;</plain>
+        </string>
+        <string>
+            <plain>Что к этому Его вело?</plain>
+        </string>
+        <string>
+            <plain>К нам всем Его любовь.</plain>
+        </string>
+    </verse>
+</song>

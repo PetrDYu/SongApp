@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="331" name="Кто мне радость даст Я в скорбях взывал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто мне радость даст? – Я в скорбях взывал.</plain>
+        </string>
+        <string>
+            <plain>Радость сердца у Христа лишь я узнал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В Нем одном нашел я отрады свет,</plain>
+        </string>
+        <string>
+            <plain>Им дышу я, без Него мне мира нет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Буду вечно с Ним, как с вождем моим;</plain>
+        </string>
+        <string>
+            <plain>Он страданьем искупил меня Своим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И тебя, мой друг, Он теперь зовет,</plain>
+        </string>
+        <string>
+            <plain>И тебе Он в сердце радость ту пошлет.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если ж ныне ты не придешь к Нему,</plain>
+        </string>
+        <string>
+            <plain>То услышишь: "Отойди навек во тьму!"</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Если ж ты к Нему в простоте придешь,</plain>
+        </string>
+        <string>
+            <plain>То навеки свет отрады в Нем найдешь.</plain>
+        </string>
+    </verse>
+</song>

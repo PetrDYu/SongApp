@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="199" name="Следуй за Мной, когда море бушует" canon="false" text="В. Белых" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Следуй за Мной, когда море бушует.</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной, когда тьма торжествует.</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной через холод и зной.</plain>
+        </string>
+        <string>
+            <plain>Следуй, лишь следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Следуй за Мной, хоть клеймят тебя люди,</plain>
+        </string>
+        <string>
+            <plain>Хоть ненавидят, злословят повсюду.</plain>
+        </string>
+        <string>
+            <plain>Ты же смотри на тернистый путь Мой.</plain>
+        </string>
+        <string>
+            <plain>Следуй, лишь следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Следуй за Мной до Голгофских мучений.</plain>
+        </string>
+        <string>
+            <plain>Кротко сноси и позор, и презренье.</plain>
+        </string>
+        <string>
+            <plain>В небе получишь венец золотой.</plain>
+        </string>
+        <string>
+            <plain>Следуй, лишь следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Следуй за Мной, хоть не поняли братья,</plain>
+        </string>
+        <string>
+            <plain>Ты же прими их с любовью в объятья.</plain>
+        </string>
+        <string>
+            <plain>Силу ищи в благодати святой.</plain>
+        </string>
+        <string>
+            <plain>Следуй, лишь следуй за Мной.</plain>
+        </string>
+    </verse>
+</song>

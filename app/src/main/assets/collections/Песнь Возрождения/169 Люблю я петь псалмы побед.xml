@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="169" name="Люблю я петь псалмы побед" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю я петь псалмы побед</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+        <string>
+            <plain>Христос Господь мне все дает</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С тех пор, как я спасен,</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен,</plain>
+        </string>
+        <string>
+            <plain>Радостно пою всегда.</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен,</plain>
+        </string>
+        <string>
+            <plain>Славлю имя Господа Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спаситель мой живет со мной</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+        <string>
+            <plain>Я счастлив быть Его слугой</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я вижу свет и в царстве бед</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+        <string>
+            <plain>Сомнений ночь уходит прочь</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В небесный дом иду с Христом</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+        <string>
+            <plain>Он мой покров от всех врагов</plain>
+        </string>
+        <string>
+            <plain>С тех пор, как я спасен.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="38" name="О Отец благослови" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Отец, благослови</plain>
+        </string>
+        <string>
+            <plain>Ты меня; вот я стою</plain>
+        </string>
+        <string>
+            <plain>У креста; печаль мою</plain>
+        </string>
+        <string>
+            <plain>Сняв, мне душу оживи.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь со мной,</plain>
+        </string>
+        <string>
+            <plain>О Господь,</plain>
+        </string>
+        <string>
+            <plain>И меня благослови!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот теперь и в этот час,</plain>
+        </string>
+        <string>
+            <plain>Когда слышу Твой рассказ,</plain>
+        </string>
+        <string>
+            <plain>Дай мне дар Твоей любви</plain>
+        </string>
+        <string>
+            <plain>И меня благослови.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ныне именем Христа</plain>
+        </string>
+        <string>
+            <plain>Мрак рассей и цепь разбей;</plain>
+        </string>
+        <string>
+            <plain>В этот час мольбы моей</plain>
+        </string>
+        <string>
+            <plain>Дух омой в крови креста.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Никогда я так не чтил</plain>
+        </string>
+        <string>
+            <plain>Иисуса, кто мир спас,</plain>
+        </string>
+        <string>
+            <plain>Как вот здесь и в этот час,</plain>
+        </string>
+        <string>
+            <plain>Дай мне благодатных сил!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="393" name="Я овечка у Христа, в сердце счастья полнота" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я овечка у Христа, в сердце счастья полнота.</plain>
+        </string>
+        <string>
+            <plain>С Ним так радостно живется, скорбь мне в пользу обернется.</plain>
+        </string>
+        <string>
+            <plain>И по имени меня Он зовет к Себе, любя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вслед иду я за Христом, не терплю нужды ни в чем.</plain>
+        </string>
+        <string>
+            <plain>У Христа луга богаты, я вдыхаю ароматы.</plain>
+        </string>
+        <string>
+            <plain>Жажду ль я к потокам вод – Он меня тотчас ведет.</plain>
+        </string>
+    </verse>
+</song>

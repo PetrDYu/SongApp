@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1221" name="Вот и вы уж вдвоем свою тропку нашли" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот и вы уж вдвоем свою тропку нашли,</plain>
+        </string>
+        <string>
+            <plain>Чтобы вместе потом было легче идти.</plain>
+        </string>
+        <string>
+            <plain>Вот уже и для вас эти гимны поют.</plain>
+        </string>
+        <string>
+            <plain>И приветствуют вас, дорогие друзья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А мы желаем счастья, счастья молодым</plain>
+        </string>
+        <string>
+            <plain>и лебединой верности желаем им.</plain>
+        </string>
+        <string>
+            <plain>Пусть жизнь благословится ваша во все дни,</plain>
+        </string>
+        <string>
+            <plain>А мы желаем счастья, счастья, счастья молодым.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>А совсем ведь недавно вы были детьми,</plain>
+        </string>
+        <string>
+            <plain>Помнят мамы и папы их счастливые дни.</plain>
+        </string>
+        <string>
+            <plain>Босоногая радость сияла в глазах,</plain>
+        </string>
+        <string>
+            <plain>И, казалось, что детству не будет конца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здравствуй, юность, крылатая чудо-пора!</plain>
+        </string>
+        <string>
+            <plain>Как недавно сказали вы эти слова.</plain>
+        </string>
+        <string>
+            <plain>А сегодня она вас оставит вдвоем,</plain>
+        </string>
+        <string>
+            <plain>Пусть же будет Христос вашим добрым Вождем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вот и вы уж вдвоем свою тропку нашли,</plain>
+        </string>
+        <string>
+            <plain>Чтобы жизнью одной зашагать вам в пути,</plain>
+        </string>
+        <string>
+            <plain>Вот уже и для вас эти гимны поют</plain>
+        </string>
+        <string>
+            <plain>И приветствуют ваш в любви добрый союз.</plain>
+        </string>
+    </verse>
+</song>

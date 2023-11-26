@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="376" name="Мечтою гордой увлеченный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мечтою гордой увлеченный,</plain>
+        </string>
+        <string>
+            <plain>Хотел умом я все объять;</plain>
+        </string>
+        <string>
+            <plain>Блуждал я долго ослепленный,</plain>
+        </string>
+        <string>
+            <plain>И стал я в муке прозревать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как блудный сын, к Отцу спешу,</plain>
+        </string>
+        <string>
+            <plain>"Помилуй грешного!" - прошу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В наряд величия одетый,</plain>
+        </string>
+        <string>
+            <plain>Довольный доблестью своей,</plain>
+        </string>
+        <string>
+            <plain>Я забывал Отца заветы</plain>
+        </string>
+        <string>
+            <plain>И смысл Его заповедей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как сын заблудший и ленивый,</plain>
+        </string>
+        <string>
+            <plain>Утратив пору лучших дней,</plain>
+        </string>
+        <string>
+            <plain>Я угашал к добру порывы</plain>
+        </string>
+        <string>
+            <plain>Во мраке пагубных страстей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я расточал богатства Божьи,</plain>
+        </string>
+        <string>
+            <plain>Не отдав ничего Ему;</plain>
+        </string>
+        <string>
+            <plain>Зарыл талант на бездорожье,</plain>
+        </string>
+        <string>
+            <plain>А на путях я сеял тьму.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Отец мой видел расточенье;</plain>
+        </string>
+        <string>
+            <plain>Чтоб я, заблудший сын, ожил,</plain>
+        </string>
+        <string>
+            <plain>Он Сына Правды на мученье,</plain>
+        </string>
+        <string>
+            <plain>На подвиг крестный осудил.</plain>
+        </string>
+    </verse>
+</song>

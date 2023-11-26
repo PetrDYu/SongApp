@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1118" name="Взгляни вокруг какая красота" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Взгляни вокруг: какая красота!</plain>
+        </string>
+        <string>
+            <plain>Что видишь ты - то дело рук Творца!</plain>
+        </string>
+        <string>
+            <plain>Оставь свой грех, приди к Христу скорей.</plain>
+        </string>
+        <string>
+            <plain>Чтоб не остаться вне дверей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он для тебя творил и солнце и луну.</plain>
+        </string>
+        <string>
+            <plain>Он для тебя творил леса, поля, моря.</plain>
+        </string>
+        <string>
+            <plain>Он для тебя послал Спасителя Христа,</plain>
+        </string>
+        <string>
+            <plain>Тебе открыл Свои Он небеса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, человек, о, друг мой или враг!</plain>
+        </string>
+        <string>
+            <plain>Жизнь пролетит как час или как шаг.</plain>
+        </string>
+        <string>
+            <plain>Настанет день - расстанемся мы с ней.</plain>
+        </string>
+        <string>
+            <plain>О, не останься у закрытых ты дверей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У тех дверей, где счастье и добро,</plain>
+        </string>
+        <string>
+            <plain>И где в помине не бывает зло.</plain>
+        </string>
+        <string>
+            <plain>Там нет вражды, там нет нужды,</plain>
+        </string>
+        <string>
+            <plain>И нет земной там суеты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А чтобы двери те открыть ты смог,</plain>
+        </string>
+        <string>
+            <plain>Искорени и грех свой и порок,</plain>
+        </string>
+        <string>
+            <plain>- Останься сердцем чист, душой -</plain>
+        </string>
+        <string>
+            <plain>Спаситель хочет быть с тобой!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="513" name="Вот путники к родине славной идут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот путники к родине славной идут,</plain>
+        </string>
+        <string>
+            <plain>Где нет ни ненастья, ни гроз,</plain>
+        </string>
+        <string>
+            <plain>Где пажити мира любовью цветут,</plain>
+        </string>
+        <string>
+            <plain>Где светит, как солнце, Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там нет тьмы, там нет гроз.</plain>
+        </string>
+        <string>
+            <plain>Там нет тьмы, там нет гроз.</plain>
+        </string>
+        <string>
+            <plain>Но, как солнце, там светит Христос,</plain>
+        </string>
+        <string>
+            <plain>Но, как солнце, там светит Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там нет ни страданий, ни бурных страстей,</plain>
+        </string>
+        <string>
+            <plain>Ни смерти дыханья, ни бед;</plain>
+        </string>
+        <string>
+            <plain>Там нет ни насилья, ни злобных людей,</plain>
+        </string>
+        <string>
+            <plain>Там счастье, там радость, там свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот слышится клич, что страна там близка:</plain>
+        </string>
+        <string>
+            <plain>Друзья им поют издали;</plain>
+        </string>
+        <string>
+            <plain>И песня там льется, как Божья река,</plain>
+        </string>
+        <string>
+            <plain>Навстречу пришельцам земли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Собранья искупленных кровью Христа</plain>
+        </string>
+        <string>
+            <plain>Там пьют из источника благ;</plain>
+        </string>
+        <string>
+            <plain>И вечная радость, любовью чиста,</plain>
+        </string>
+        <string>
+            <plain>Сияет в их светлых очах.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И числа пришельцев и их имена</plain>
+        </string>
+        <string>
+            <plain>Там пишутся в книге святой.</plain>
+        </string>
+        <string>
+            <plain>Их Бог принимает, а Божья страна</plain>
+        </string>
+        <string>
+            <plain>Сулит им навеки покой.</plain>
+        </string>
+    </verse>
+</song>

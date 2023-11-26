@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1620" name="Юность Иисусу юности пыл" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Юность Иисусу, юности пыл,</plain>
+        </string>
+        <string>
+            <plain>Юность Христу посвяти.</plain>
+        </string>
+        <string>
+            <plain>Юность Иисусу, средь бури зла</plain>
+        </string>
+        <string>
+            <plain>Стойким будь в жизни всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юность Иисусу, смело вперед,</plain>
+        </string>
+        <string>
+            <plain>Сердце, что юно и Богу поет,</plain>
+        </string>
+        <string>
+            <plain>Сердце, что ярко светит во тьме,</plain>
+        </string>
+        <string>
+            <plain>Юность живая в мольбе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Юность Иисусу, нации все</plain>
+        </string>
+        <string>
+            <plain>Счастье найдут во Христе.</plain>
+        </string>
+        <string>
+            <plain>Юность Иисусу, готовься и ты</plain>
+        </string>
+        <string>
+            <plain>Бури, невзгоды нести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Юность Иисусу, руки любви</plain>
+        </string>
+        <string>
+            <plain>Всем всюду ты протяни.</plain>
+        </string>
+        <string>
+            <plain>Юность Иисусу, тверда в беде,</plain>
+        </string>
+        <string>
+            <plain>Верная Богу везде.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Юность Иисусу, смело вперед,</plain>
+        </string>
+        <string>
+            <plain>Юность в борьбе не сдает.</plain>
+        </string>
+        <string>
+            <plain>Юность Иисусу, грех побеждать.</plain>
+        </string>
+        <string>
+            <plain>Лишь на Иисуса взирать.</plain>
+        </string>
+    </verse>
+</song>

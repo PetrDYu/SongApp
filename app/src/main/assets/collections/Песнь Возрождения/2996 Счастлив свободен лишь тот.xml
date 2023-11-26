@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2996" name="Счастлив свободен лишь тот" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Счастлив, свободен лишь тот,</plain>
+        </string>
+        <string>
+            <plain>кто спасен, мир он обрел и покой;</plain>
+        </string>
+        <string>
+            <plain>нет никого здесь счастливей,</plain>
+        </string>
+        <string>
+            <plain>чем он, чудно избавленный кровью святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Только Иисус мне спасенье принес,</plain>
+        </string>
+        <string>
+            <plain>сделал счастливым меня мой Христос!</plain>
+        </string>
+        <string>
+            <plain>Вечную жизнь Ты мне, Бог, даровал,</plain>
+        </string>
+        <string>
+            <plain>счастье в Своей благодати мне дал!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Только спасённому радость дана,</plain>
+        </string>
+        <string>
+            <plain>пусть даже горе придет;</plain>
+        </string>
+        <string>
+            <plain>в нем благодати живет полнота,</plain>
+        </string>
+        <string>
+            <plain>поступью твердой вперед он идет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как человеку, что связан грехом,</plain>
+        </string>
+        <string>
+            <plain>Божье блаженство вкусить?</plain>
+        </string>
+        <string>
+            <plain>- Тот лишь, кто Господа сердцем нашел,</plain>
+        </string>
+        <string>
+            <plain>может на деле свободным здесь быть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не говорите о похоти мне,</plain>
+        </string>
+        <string>
+            <plain>что душу к смерти ведет,</plain>
+        </string>
+        <string>
+            <plain>- радость имеют безмерную те,</plain>
+        </string>
+        <string>
+            <plain>кто непорочно и свято ждет.</plain>
+        </string>
+    </verse>
+</song>

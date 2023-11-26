@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2604" name="Милость Божья беспредельна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Милость Божья беспредельна,</plain>
+        </string>
+        <string>
+            <plain>Как безбрежный океан.</plain>
+        </string>
+        <string>
+            <plain>В правосудье неизменном</plain>
+        </string>
+        <string>
+            <plain>Избавленья выход дан.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог отверженных приемлем</plain>
+        </string>
+        <string>
+            <plain>Радость праведным дает,</plain>
+        </string>
+        <string>
+            <plain>Сына Он послал на землю</plain>
+        </string>
+        <string>
+            <plain>Искупить заблудший род.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не постичь любви Господней</plain>
+        </string>
+        <string>
+            <plain>Нашим немощным умам,</plain>
+        </string>
+        <string>
+            <plain>Лишь у ног Его находим</plain>
+        </string>
+        <string>
+            <plain>Мир измученным сердцам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В Слове Божьем мы имеем</plain>
+        </string>
+        <string>
+            <plain>Утешенье и оплот;</plain>
+        </string>
+        <string>
+            <plain>Наша жизнь идет светлее,</plain>
+        </string>
+        <string>
+            <plain>Если с нами наш Господь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3226" name="Мы идём друзья к небесному чертогу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы идём, друзья, к небесному чертогу,</plain>
+        </string>
+        <string>
+            <plain>мы уж здесь вкушаем плод страны благой.</plain>
+        </string>
+        <string>
+            <plain>Бедный грешник, обратись сегодня к Богу,</plain>
+        </string>
+        <string>
+            <plain>заплатил Он выкуп за тебя большой!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Поспеши в ту обитель!</plain>
+        </string>
+        <string>
+            <plain>Встретит там иисус тебя.</plain>
+        </string>
+        <string>
+            <plain>Поспеши! Поспеши войти</plain>
+        </string>
+        <string>
+            <plain>в небесную обитель,</plain>
+        </string>
+        <string>
+            <plain>к светлой, радостной</plain>
+        </string>
+        <string>
+            <plain>отчизне поспеши!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люди добрые, спасенье обретите,</plain>
+        </string>
+        <string>
+            <plain>приготовьтесь, не теряйте время зря!</plain>
+        </string>
+        <string>
+            <plain>Призывает всех Господь в любви великой,</plain>
+        </string>
+        <string>
+            <plain>хочет видеть Он счастливым и тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы войдём согласно Библии в обитель:</plain>
+        </string>
+        <string>
+            <plain>«Вы должны быть святы», - так гласит она.</plain>
+        </string>
+        <string>
+            <plain>О, оставьте мир, идущий на погибель,</plain>
+        </string>
+        <string>
+            <plain>и бесценный дар примите от Христа!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Изберите ныне путь к святой отчизне,</plain>
+        </string>
+        <string>
+            <plain>если в мире с Богом жить хотите вы.</plain>
+        </string>
+        <string>
+            <plain>Встаньте и придите: ждёт венец вас жизни</plain>
+        </string>
+        <string>
+            <plain>в вечном городе небесной красоты.</plain>
+        </string>
+    </verse>
+</song>

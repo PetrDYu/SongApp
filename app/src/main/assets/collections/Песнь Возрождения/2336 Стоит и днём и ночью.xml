@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2336" name="Стоит и днём и ночью" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стоит и днём и ночью</plain>
+        </string>
+        <string>
+            <plain>Твой лик в глазах пред мной</plain>
+        </string>
+        <string>
+            <plain>И ставит мне вопросы,</plain>
+        </string>
+        <string>
+            <plain>Хочу ль я быть С Тобой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, с Тобой я буду,</plain>
+        </string>
+        <string>
+            <plain>Навек я буду Твой.</plain>
+        </string>
+        <string>
+            <plain>Наполни Сам уста мне,</plain>
+        </string>
+        <string>
+            <plain>Господь, Твоей хвалой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И радости земные</plain>
+        </string>
+        <string>
+            <plain>Во мраке видел я,</plain>
+        </string>
+        <string>
+            <plain>Не было в них отрады</plain>
+        </string>
+        <string>
+            <plain>И утешения.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как часто здесь страдая,</plain>
+        </string>
+        <string>
+            <plain>Болел душой, скорбя.</plain>
+        </string>
+        <string>
+            <plain>Теперь я пал в объятья</plain>
+        </string>
+        <string>
+            <plain>Снятого Агнеца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Стоит и днём и ночью</plain>
+        </string>
+        <string>
+            <plain>Твой лик в душе моей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб людям всем вещал я,</plain>
+        </string>
+        <string>
+            <plain>Как радостно с Тобой.</plain>
+        </string>
+    </verse>
+</song>

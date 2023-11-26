@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2173" name="Когда на сердце очень больно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда на сердце очень больно</plain>
+        </string>
+        <string>
+            <plain>И слёзы прячутся в глазах,</plain>
+        </string>
+        <string>
+            <plain>То говорит любимый голос:</plain>
+        </string>
+        <string>
+            <plain>"Я исцелю тебя, Я Врач".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты утешаешь вновь меня:</plain>
+        </string>
+        <string>
+            <plain>"Я люблю, люблю тебя,</plain>
+        </string>
+        <string>
+            <plain>Я возлюбил сильней тебя,</plain>
+        </string>
+        <string>
+            <plain>Иди же с миром до контра".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда друзья не утешают,</plain>
+        </string>
+        <string>
+            <plain>А только боль мне причиняют,</plain>
+        </string>
+        <string>
+            <plain>Тогда я вновь к Тебе взываю:</plain>
+        </string>
+        <string>
+            <plain>"Утешь меня, мой Иисус".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда на сердце снова радость</plain>
+        </string>
+        <string>
+            <plain>И исчезает грусть моя,</plain>
+        </string>
+        <string>
+            <plain>Я говорю: "Хвала Иисусу!</plain>
+        </string>
+        <string>
+            <plain>О, мой Христос, Тебе хвала".</plain>
+        </string>
+    </verse>
+</song>

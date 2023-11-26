@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="750" name="К труду К труду Внимай Господь зовет тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К труду! К труду! Внимай, Господь зовет тебя,</plain>
+        </string>
+        <string>
+            <plain>Иди, провозглашай любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>К труду! К труду! Господь на труд святой зовет!</plain>
+        </string>
+        <string>
+            <plain>Кто глас Его услышит? Кто на зов пойдет?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"О, осанна!" – хор небес вдали поет.</plain>
+        </string>
+        <string>
+            <plain>Кончен будет труд святой,</plain>
+        </string>
+        <string>
+            <plain>Близок свет страны родной,</plain>
+        </string>
+        <string>
+            <plain>Там нас ожидает радостный покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иди, о друг! Тебя на труд Господь зовет,</plain>
+        </string>
+        <string>
+            <plain>Душа страдающая света ждет.</plain>
+        </string>
+        <string>
+            <plain>О друг, спеши, дай руку помощи скорей,</plain>
+        </string>
+        <string>
+            <plain>Любовию холодные сердца согрей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друзья, вперед! Проходит день, настанет ночь,</plain>
+        </string>
+        <string>
+            <plain>Спешите гибнущей душе помочь.</plain>
+        </string>
+        <string>
+            <plain>К труду! К труду! О друг, спеши на Божий зов,</plain>
+        </string>
+        <string>
+            <plain>Скажи Ему сегодня: "Я, Господь, готов!"</plain>
+        </string>
+    </verse>
+</song>

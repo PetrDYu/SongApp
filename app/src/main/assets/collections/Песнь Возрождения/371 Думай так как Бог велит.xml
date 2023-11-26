@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="371" name="Думай так как Бог велит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Думай так, как Бог велит,</plain>
+        </string>
+        <string>
+            <plain>Мысли Божьи выражай;</plain>
+        </string>
+        <string>
+            <plain>Не страшись, хоть мир грозит;</plain>
+        </string>
+        <string>
+            <plain>Угнетенных ободряй!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слушай совесть, честным будь!</plain>
+        </string>
+        <string>
+            <plain>Слушай разум, мудрым будь!</plain>
+        </string>
+        <string>
+            <plain>Слушай сердце, но Христа</plain>
+        </string>
+        <string>
+            <plain>Лучше слушать, чем весь мир.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нравов ты не будь рабом,</plain>
+        </string>
+        <string>
+            <plain>Дар небес не отвергай,</plain>
+        </string>
+        <string>
+            <plain>Но Его являй кругом;</plain>
+        </string>
+        <string>
+            <plain>Среди клятв благословляй.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Зло, обиды забывай;</plain>
+        </string>
+        <string>
+            <plain>Путь Христа не оставляй;</plain>
+        </string>
+        <string>
+            <plain>Не стыдись Ему служить,</plain>
+        </string>
+        <string>
+            <plain>По Его веленьям жить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2766" name="Иисус о Тебе я пою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, о Тебе я пою,</plain>
+        </string>
+        <string>
+            <plain>Светом Ты озарил мою душу</plain>
+        </string>
+        <string>
+            <plain>Я за все благодарен Тебе</plain>
+        </string>
+        <string>
+            <plain>И во всем вижу я Твою руку.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Знаю я, Ты всегда со мной,</plain>
+        </string>
+        <string>
+            <plain>В обещаны Своем Ты верен,</plain>
+        </string>
+        <string>
+            <plain>Кровь Твоя за меня лилась,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в небо открыть мне двери.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сколько раз Ты меня хранил</plain>
+        </string>
+        <string>
+            <plain>На крутых поворотах жизни</plain>
+        </string>
+        <string>
+            <plain>Ты избрал меня, искупил</plain>
+        </string>
+        <string>
+            <plain>И наполнил Собой мое сердце.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я живу и покоюсь в Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты - надежда моя и радость.</plain>
+        </string>
+        <string>
+            <plain>Иисус, счастье только в Тебе,</plain>
+        </string>
+        <string>
+            <plain>В Тебе жизнь моя и отрада.</plain>
+        </string>
+    </verse>
+</song>

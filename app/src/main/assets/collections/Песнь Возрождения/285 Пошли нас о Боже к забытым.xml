@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="285" name="Пошли нас о Боже к забытым" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пошли нас, о Боже, к забытым,</plain>
+        </string>
+        <string>
+            <plain>Кто весь исстрадался душой,</plain>
+        </string>
+        <string>
+            <plain>Пошли к одиноким, забытым,</plain>
+        </string>
+        <string>
+            <plain>Кто больше не верит в покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пошли нас, о Боже,</plain>
+        </string>
+        <string>
+            <plain>Дай свыше Свою благодать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мы всем страдальцам</plain>
+        </string>
+        <string>
+            <plain>Свободу могли возвещать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И с тихой, смиренной любовью</plain>
+        </string>
+        <string>
+            <plain>Мы к душам усталым пойдем</plain>
+        </string>
+        <string>
+            <plain>И, как искупил Ты их кровью,</plain>
+        </string>
+        <string>
+            <plain>Отрадную весть принесем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Расскажем, что жизнь нам земная</plain>
+        </string>
+        <string>
+            <plain>Здесь только как школа дана,</plain>
+        </string>
+        <string>
+            <plain>А там-то страна уж иная,</plain>
+        </string>
+        <string>
+            <plain>Весельем навеки полна.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там с радостной, светлой улыбкой</plain>
+        </string>
+        <string>
+            <plain>Все люди свободно вздохнут,</plain>
+        </string>
+        <string>
+            <plain>И в жизнь по поверхности зыбкой</plain>
+        </string>
+        <string>
+            <plain>Без страха уже поплывут.</plain>
+        </string>
+    </verse>
+</song>

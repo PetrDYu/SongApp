@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="266" name="Нам жизнь дана чтобы любить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нам жизнь дана, чтобы любить,</plain>
+        </string>
+        <string>
+            <plain>Любить без меры, без предела,</plain>
+        </string>
+        <string>
+            <plain>И всем страдальцам посвятить</plain>
+        </string>
+        <string>
+            <plain>Свой разум, кровь свою и тело.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Нам жизнь дана, чтоб утешать</plain>
+        </string>
+        <string>
+            <plain>Униженных и оскорбленных</plain>
+        </string>
+        <string>
+            <plain>И согревать и насыщать</plain>
+        </string>
+        <string>
+            <plain>Нуждой и скорбью угнетенных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам жизнь дана, чтоб до конца</plain>
+        </string>
+        <string>
+            <plain>Бороться с тьмой, бороться с ложью</plain>
+        </string>
+        <string>
+            <plain>И сеять в братские сердца</plain>
+        </string>
+        <string>
+            <plain>Одну святую правду Божью.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А правда в том, чтобы любить,</plain>
+        </string>
+        <string>
+            <plain>Любить без меры, без предела,</plain>
+        </string>
+        <string>
+            <plain>И всем страдальцам посвятить</plain>
+        </string>
+        <string>
+            <plain>Свой разум, кровь свою и тело.</plain>
+        </string>
+    </verse>
+</song>

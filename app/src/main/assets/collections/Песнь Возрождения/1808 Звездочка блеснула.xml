@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1808" name="Звездочка блеснула" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звездочка блеснула</plain>
+        </string>
+        <string>
+            <plain>В небе голубом</plain>
+        </string>
+        <string>
+            <plain>И все кругом уснуло</plain>
+        </string>
+        <string>
+            <plain>Тихим мирным сном.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Только мне не спится</plain>
+        </string>
+        <string>
+            <plain>В тишине ночной</plain>
+        </string>
+        <string>
+            <plain>Все хочется молиться</plain>
+        </string>
+        <string>
+            <plain>Сердцем и душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В эту ночь святую</plain>
+        </string>
+        <string>
+            <plain>Сердце хочет жить.</plain>
+        </string>
+        <string>
+            <plain>О, Боже, дай мне силы</plain>
+        </string>
+        <string>
+            <plain>Верить и любить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Звездочка блеснула</plain>
+        </string>
+        <string>
+            <plain>В небе голубом</plain>
+        </string>
+        <string>
+            <plain>И все кругом уснуло</plain>
+        </string>
+        <string>
+            <plain>Тихим мирным сном.</plain>
+        </string>
+    </verse>
+</song>

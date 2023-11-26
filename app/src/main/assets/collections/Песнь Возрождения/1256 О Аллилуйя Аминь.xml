@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1256" name="О Аллилуйя Аминь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Живет Отец на небе.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>К Нему придут все дети.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>В Его мы будем свете.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Богу!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Бог есть любовь святая.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Иисус - есть двери рая.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Нас всех Он призывает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Иисуса Кровь святая,</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Грех всякий очищает.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Жизнь нашу обновляет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Господь к смиренным близко,</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Склонимся в духе низко.</plain>
+        </string>
+        <string>
+            <plain>О, Аллилуйя, Аминь!</plain>
+        </string>
+        <string>
+            <plain>Бог к сокрушенным близко.</plain>
+        </string>
+    </verse>
+</song>

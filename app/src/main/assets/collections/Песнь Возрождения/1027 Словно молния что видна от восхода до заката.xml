@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1027" name="Словно молния что видна от восхода до заката" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словно молния, что видна от восхода до заката,</plain>
+        </string>
+        <string>
+            <plain>Так Иисус во славе к нам придет.</plain>
+        </string>
+        <string>
+            <plain>Церковь встанет с радостью великой.</plain>
+        </string>
+        <string>
+            <plain>Другу своему навстречу выйдет,</plain>
+        </string>
+        <string>
+            <plain>Чтобы с Ним и славу разделить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус за невестою придет.</plain>
+        </string>
+        <string>
+            <plain>Уж весть о том везде звучит.</plain>
+        </string>
+        <string>
+            <plain>Все, все оденемся в одежды брачные</plain>
+        </string>
+        <string>
+            <plain>И будем бодрствовать - Уж скоро Он придет!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дверь спасения открыта. Кто Иисуса принимает,</plain>
+        </string>
+        <string>
+            <plain>Тот на суд уж не приходит, тот спасен.</plain>
+        </string>
+        <string>
+            <plain>Божий Сын за нас Кровь пролил, жало смерти уничтожил</plain>
+        </string>
+        <string>
+            <plain>И навеки силы ада победил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус придет со славой, верных наделит наградой,</plain>
+        </string>
+        <string>
+            <plain>На земле увидят свет Его очей.</plain>
+        </string>
+        <string>
+            <plain>Кто Его здесь принимает, тот и за Него страдает,</plain>
+        </string>
+        <string>
+            <plain>Тот и царствовать навеки будет с Ним!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="217" name="Как олень стремится к водам, так душа моя к Тебе" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Как олень стремится к водам, так душа моя – к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Ты один – желанье сердца, поклоняюсь я Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев:</plain>
+        </string>
+        <string>
+            <plain>Ты один – моя крепость, щит, лишь к Тебе душа спешит.</plain>
+        </string>
+        <string>
+            <plain>Ты один – желанье сердца, поклоняюсь я Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты мое богатство мира, что ценнее благ земных.</plain>
+        </string>
+        <string>
+            <plain>Нахожу в Тебе лишь радость, о, отрада глаз моих.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Самый чудный, самый верный мой Учитель, Брат, Отец,</plain>
+        </string>
+        <string>
+            <plain>Лучший Друг мой неизменный, вечной радости Творец.</plain>
+        </string>
+    </verse>
+</song>

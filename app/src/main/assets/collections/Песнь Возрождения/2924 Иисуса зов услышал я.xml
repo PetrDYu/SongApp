@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2924" name="Иисуса зов услышал я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса зов услышал я -</plain>
+        </string>
+        <string>
+            <plain>призыв любви Святой:</plain>
+        </string>
+        <string>
+            <plain>«Я жизнь отдал здесь за тебя;</plain>
+        </string>
+        <string>
+            <plain>приди ко Мне, сын Мой!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, я Твой, весь я Твой,</plain>
+        </string>
+        <string>
+            <plain>живу я лишь Тобой;</plain>
+        </string>
+        <string>
+            <plain>Ты со мной, Ты со мной,</plain>
+        </string>
+        <string>
+            <plain>навеки Ты со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он, муж скорбей, главу склонил</plain>
+        </string>
+        <string>
+            <plain>и умер на кресте.</plain>
+        </string>
+        <string>
+            <plain>Я верю, что Он, Божий Сын,</plain>
+        </string>
+        <string>
+            <plain>принёс спасенье мне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он для меня из гроба встал,</plain>
+        </string>
+        <string>
+            <plain>на небо вознесён;</plain>
+        </string>
+        <string>
+            <plain>за муки жаждет получить</plain>
+        </string>
+        <string>
+            <plain>меня в награду Он.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смогу ль я сердце разделить</plain>
+        </string>
+        <string>
+            <plain>меж миром и Христом?</plain>
+        </string>
+        <string>
+            <plain>Нет, Господи, к Тебе стремлюсь</plain>
+        </string>
+        <string>
+            <plain>всем сердцем и умом!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Тебе всецело отдаюсь</plain>
+        </string>
+        <string>
+            <plain>на жертвеннике я;</plain>
+        </string>
+        <string>
+            <plain>огнём любви Твоей горя,</plain>
+        </string>
+        <string>
+            <plain>хочу жить для Тебя!</plain>
+        </string>
+    </verse>
+</song>

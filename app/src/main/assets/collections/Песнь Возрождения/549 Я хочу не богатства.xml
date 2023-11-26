@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="549" name="Я хочу не богатства" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу не богатства,</plain>
+        </string>
+        <string>
+            <plain>Не казны серебра,</plain>
+        </string>
+        <string>
+            <plain>А небесного царства</plain>
+        </string>
+        <string>
+            <plain>И спасенья добра.</plain>
+        </string>
+        <string>
+            <plain>В книге вечной спасенных,</plain>
+        </string>
+        <string>
+            <plain>О, скажи, Боже мой,</plain>
+        </string>
+        <string>
+            <plain>На страницах зажженных</plain>
+        </string>
+        <string>
+            <plain>Я записан Тобой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, скажи, Бог мой, Сам,</plain>
+        </string>
+        <string>
+            <plain>Я записан ли там</plain>
+        </string>
+        <string>
+            <plain>В книге вечного царства?</plain>
+        </string>
+        <string>
+            <plain>Я записан ли там?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Во мне много пороков,</plain>
+        </string>
+        <string>
+            <plain>Как песку у морей;</plain>
+        </string>
+        <string>
+            <plain>Но всех рек и потоков</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса сильней.</plain>
+        </string>
+        <string>
+            <plain>Слово правды, нам данной,</plain>
+        </string>
+        <string>
+            <plain>Озаряет нас всех:</plain>
+        </string>
+        <string>
+            <plain>"Грех, как пурпур багряный,</plain>
+        </string>
+        <string>
+            <plain>Убелю Я, как снег".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Город дивный, прекрасный,</plain>
+        </string>
+        <string>
+            <plain>Где в дворцах вечный свет,</plain>
+        </string>
+        <string>
+            <plain>Где, любовью согласный,</plain>
+        </string>
+        <string>
+            <plain>Мир весь в белом одет;</plain>
+        </string>
+        <string>
+            <plain>Где душ яды не травят,</plain>
+        </string>
+        <string>
+            <plain>Зло безвестно сердцам</plain>
+        </string>
+        <string>
+            <plain>И где ангелы славят, -</plain>
+        </string>
+        <string>
+            <plain>Я записан ли там?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2754" name="Звездный льется свет людям шлет привет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звездный льется свет, людям шлет привет,</plain>
+        </string>
+        <string>
+            <plain>У стада сидят пастухи.</plain>
+        </string>
+        <string>
+            <plain>Вифлеем весь спит, в яслях Сын лежит,</plain>
+        </string>
+        <string>
+            <plain>На соломе дар Божьей любви.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Звездный льется свет, людям шлет привет,</plain>
+        </string>
+        <string>
+            <plain>Пастухи с умиленьем внимают,</plain>
+        </string>
+        <string>
+            <plain>Как Христа-Царя, людей Спасителя</plain>
+        </string>
+        <string>
+            <plain>Хоры ангелов прославляют.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Звездный льется свет, людям шлет привет,</plain>
+        </string>
+        <string>
+            <plain>С небес прозвучала нам весть:</plain>
+        </string>
+        <string>
+            <plain>"Благодать и мир да несется в ширь",</plain>
+        </string>
+        <string>
+            <plain>- Лилась ангелов Божиих песнь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Звездный льется свет, людям шлет привет,</plain>
+        </string>
+        <string>
+            <plain>Спаситель родился для нас.</plain>
+        </string>
+        <string>
+            <plain>Рождеством Своим озарил весь мир</plain>
+        </string>
+        <string>
+            <plain>В этот дивный и радостный час.</plain>
+        </string>
+    </verse>
+</song>

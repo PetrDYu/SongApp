@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2915" name="О братья и сёстры" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О братья и сёстры,</plain>
+        </string>
+        <string>
+            <plain>спешите все вперёд,</plain>
+        </string>
+        <string>
+            <plain>чтоб узреть Христа;</plain>
+        </string>
+        <string>
+            <plain>здесь нет остановок,</plain>
+        </string>
+        <string>
+            <plain>нет отдыха -</plain>
+        </string>
+        <string>
+            <plain>спешите вперёд всегда!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, спешите, о, спешите</plain>
+        </string>
+        <string>
+            <plain>- к отчизне на небесах!</plain>
+        </string>
+        <string>
+            <plain>О, спешите, о, спешите</plain>
+        </string>
+        <string>
+            <plain>- покой ожидает там нас!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О братья и сёстры, хоть</plain>
+        </string>
+        <string>
+            <plain>этот мир и манит идти за ним,</plain>
+        </string>
+        <string>
+            <plain>не сможет ничем он нас удержать</plain>
+        </string>
+        <string>
+            <plain>- в небесный мы град спешим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О братья и сёстры, как много тех,</plain>
+        </string>
+        <string>
+            <plain>кто в праздном блаженстве спит!</plain>
+        </string>
+        <string>
+            <plain>- Молитесь, трезвитесь и бодрствуйте,</plain>
+        </string>
+        <string>
+            <plain>ведь спящий не устоит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О братья и сёстры,</plain>
+        </string>
+        <string>
+            <plain>как много дел на ниве</plain>
+        </string>
+        <string>
+            <plain>Христа нас ждёт!</plain>
+        </string>
+        <string>
+            <plain>Усердно трудитесь без отдыха:</plain>
+        </string>
+        <string>
+            <plain>Благую Весть ждёт народ.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О братья, не будем</plain>
+        </string>
+        <string>
+            <plain>медлительны,</plain>
+        </string>
+        <string>
+            <plain>за дело Христа - вперёд;</plain>
+        </string>
+        <string>
+            <plain>ведь скоро для всех</plain>
+        </string>
+        <string>
+            <plain>нас наступит ночь,</plain>
+        </string>
+        <string>
+            <plain>и время труда пройдёт.</plain>
+        </string>
+    </verse>
+</song>

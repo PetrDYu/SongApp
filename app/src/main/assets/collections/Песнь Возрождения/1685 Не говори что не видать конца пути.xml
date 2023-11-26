@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1685" name="Не говори что не видать конца пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не говори, что не видать конца пути,</plain>
+        </string>
+        <string>
+            <plain>Не говори, что по нему устал идти,</plain>
+        </string>
+        <string>
+            <plain>Не говори, что ты измучен от креста.</plain>
+        </string>
+        <string>
+            <plain>Не говори. Христос был распят за тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но сколько мук Он за тебя, мой брат, принял.</plain>
+        </string>
+        <string>
+            <plain>О, сколько весен, сколько зим тебя Он ждал.</plain>
+        </string>
+        <string>
+            <plain>Не говори, что дверь к Нему уж заперта,</plain>
+        </string>
+        <string>
+            <plain>Не говори. Ведь Он был распят за тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не говори, что нету места от тоски,</plain>
+        </string>
+        <string>
+            <plain>Не говори, что побелели уж виски,</plain>
+        </string>
+        <string>
+            <plain>Не говори, заботам нет твоим конца,</plain>
+        </string>
+        <string>
+            <plain>Не говори. Христос был распят за тебя.</plain>
+        </string>
+    </verse>
+</song>

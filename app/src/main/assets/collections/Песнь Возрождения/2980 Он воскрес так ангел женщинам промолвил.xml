@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2980" name="Он воскрес так ангел женщинам промолвил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>«Он воскрес!» - так ангел женщинам промолвил.</plain>
+        </string>
+        <string>
+            <plain>- «Не ищите больше Господа в гробу!»</plain>
+        </string>
+        <string>
+            <plain>Да, Он смерти власть навеки уничтожил и,</plain>
+        </string>
+        <string>
+            <plain>как Победитель, вознесет к Отцу!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он воскрес, Спаситель</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Спаситель</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Спаситель</plain>
+        </string>
+        <string>
+            <plain>и смертью смерть попрал!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он воскрес и дал нам от грех спасенье.</plain>
+        </string>
+        <string>
+            <plain>Смерть, где твое жало, где победа, ада?</plain>
+        </string>
+        <string>
+            <plain>Свет принес Христос в долину смертной тени</plain>
+        </string>
+        <string>
+            <plain>и избавил нас Он от оков греха!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он воскрес! Всем людям эту весть благую</plain>
+        </string>
+        <string>
+            <plain>громко и понятно возвещайте вы:</plain>
+        </string>
+        <string>
+            <plain>Тот, который умер на кресте, страдая,</plain>
+        </string>
+        <string>
+            <plain>воскресеньем всех Своим освободит!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он воскрес! Все страхи смерти исчезают</plain>
+        </string>
+        <string>
+            <plain>для святых, что верно служат Богу здесь.</plain>
+        </string>
+        <string>
+            <plain>Ад и смерть спасенных больше не пугают</plain>
+        </string>
+        <string>
+            <plain>с той поры, как Искупитель их воскрес!</plain>
+        </string>
+    </verse>
+</song>

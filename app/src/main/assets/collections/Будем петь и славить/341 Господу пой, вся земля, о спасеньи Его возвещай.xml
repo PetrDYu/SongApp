@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="341" name="Господу пой, вся земля, о спасеньи Его возвещай" canon="false" text="Милеса и Кари Кахалоа" textRus="И. Языковой, Ю. Пастернака" music="Милеса и Кари Кахалоа" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Господу пой, вся земля, о спасеньи Его возвещай.</plain>
+        </string>
+        <string>
+            <plain>Во всех племенах и народах прославляйте Его чудеса.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Господь велик в Своей славе и силе.</plain>
+        </string>
+        <string>
+            <plain>Ликуй, вся земля. Царствует Господь Бог наш!</plain>
+        </string>
+    </verse>
+</song>

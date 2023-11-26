@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2293" name="Приди и воскликни Осанна Царю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди и воскликни: "Осанна Царю!"</plain>
+        </string>
+        <string>
+            <plain>И Господа благослови.</plain>
+        </string>
+        <string>
+            <plain>Приди и предстань пред</plain>
+        </string>
+        <string>
+            <plain>Господним лицом, Возрадуйся в Боге своём.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он велик, Он Господь,</plain>
+        </string>
+        <string>
+            <plain>Он Царь над всею землёй.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди, поклонись, припади перед Ним,</plain>
+        </string>
+        <string>
+            <plain>Колени свои преклони.</plain>
+        </string>
+        <string>
+            <plain>Ведь Он есть наш Бог, а мы дети Его,</plain>
+        </string>
+        <string>
+            <plain>Послушай же гласа любви.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2315" name="С берегов далеких стран" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С берегов далеких стран</plain>
+        </string>
+        <string>
+            <plain>Раздается зов всем нам:</plain>
+        </string>
+        <string>
+            <plain>"О, придите научить</plain>
+        </string>
+        <string>
+            <plain>Богу в истине служить".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О друзья, пойдем скорей</plain>
+        </string>
+        <string>
+            <plain>К людям темным в край иной</plain>
+        </string>
+        <string>
+            <plain>Возвестить им путь спасенья!</plain>
+        </string>
+        <string>
+            <plain>О, прощай, мой дом родной!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Бог живой неведом нам,</plain>
+        </string>
+        <string>
+            <plain>Служим мы земным богам.</plain>
+        </string>
+        <string>
+            <plain>О, придите свет пролить</plain>
+        </string>
+        <string>
+            <plain>И от тьмы освободить".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слушай, друг! Вот призыв тот</plain>
+        </string>
+        <string>
+            <plain>О спасеньи вопиет.</plain>
+        </string>
+        <string>
+            <plain>Ты и силен и здоров,</plain>
+        </string>
+        <string>
+            <plain>Так откликнись же на зов.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поспешите же, друзья,</plain>
+        </string>
+        <string>
+            <plain>И отправьтесь за моря</plain>
+        </string>
+        <string>
+            <plain>Им открыть любовь Отца,</plain>
+        </string>
+        <string>
+            <plain>Вседержителя Творца.</plain>
+        </string>
+    </verse>
+</song>

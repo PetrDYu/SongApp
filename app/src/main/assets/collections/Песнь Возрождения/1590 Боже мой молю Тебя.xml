@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1590" name="Боже мой молю Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже мой, молю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Ты услышь с небес меня,</plain>
+        </string>
+        <string>
+            <plain>Обрати ко мне Свой лик,</plain>
+        </string>
+        <string>
+            <plain>Ты ведь милостью велик.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С миром нас Ты распусти.</plain>
+        </string>
+        <string>
+            <plain>Как идти нам, укажи.</plain>
+        </string>
+        <string>
+            <plain>Чтобы в мире сем земном</plain>
+        </string>
+        <string>
+            <plain>Не дружили мы с грехом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благодать Твоей любви</plain>
+        </string>
+        <string>
+            <plain>В наше сердце подари,</plain>
+        </string>
+        <string>
+            <plain>Дай нам Твой святой покой.</plain>
+        </string>
+        <string>
+            <plain>Ведь народ мы, Боже, Твой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы молитву вознесли.</plain>
+        </string>
+        <string>
+            <plain>Ты услышь нас от земли,</plain>
+        </string>
+        <string>
+            <plain>Верим мы, настанет час -</plain>
+        </string>
+        <string>
+            <plain>Ты возьмешь к Себе всех нас.</plain>
+        </string>
+    </verse>
+</song>

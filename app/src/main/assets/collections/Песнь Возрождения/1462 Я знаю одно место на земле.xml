@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1462" name="Я знаю одно место на земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, одно место на земле</plain>
+        </string>
+        <string>
+            <plain>Сокрыто в мирной дали,</plain>
+        </string>
+        <string>
+            <plain>Туда влечет меня в моей нужде,</plain>
+        </string>
+        <string>
+            <plain>Сложить свои печали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет лучше места для души моей,</plain>
+        </string>
+        <string>
+            <plain>Как малый холм, тот холм Голгофы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В очах моих Голгофа дорога.</plain>
+        </string>
+        <string>
+            <plain>Там снято мое бремя,</plain>
+        </string>
+        <string>
+            <plain>Голгофский холм!</plain>
+        </string>
+        <string>
+            <plain>О, друг, пойди туда,</plain>
+        </string>
+        <string>
+            <plain>Пока еще есть время.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Земные радости еще вокруг,</plain>
+        </string>
+        <string>
+            <plain>Голгофа ж мне милее.</plain>
+        </string>
+        <string>
+            <plain>Туда влечет меня любимый</plain>
+        </string>
+        <string>
+            <plain>Друг Все с каждым днем сильнее.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К Голгофе, друг, сегодня подойди,</plain>
+        </string>
+        <string>
+            <plain>Взгляни очами веры.</plain>
+        </string>
+        <string>
+            <plain>Там мир найдешь от Господа в тиши.</plain>
+        </string>
+        <string>
+            <plain>Он любит всех без меры.</plain>
+        </string>
+    </verse>
+</song>

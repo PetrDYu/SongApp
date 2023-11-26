@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2104" name="Друг милый мой Господь с тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Друг милый мой, Господь с тобой.</plain>
+        </string>
+        <string>
+            <plain>Пред Богом ты как на ладони,</plain>
+        </string>
+        <string>
+            <plain>по ней плывёт вся жизнь рекой.</plain>
+        </string>
+        <string>
+            <plain>Может, со скал ты камнем упал.</plain>
+        </string>
+        <string>
+            <plain>Есть выход, он в Христе Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Он все твои грехи забрал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Жив наш Господь! Сильна к тебе Его любовь,</plain>
+        </string>
+        <string>
+            <plain>Ты смело за Него цепляйся</plain>
+        </string>
+        <string>
+            <plain>И поднимайся к жизни вновь.</plain>
+        </string>
+        <string>
+            <plain>Иисус есть свет, Единственный святой ответ.</plain>
+        </string>
+        <string>
+            <plain>Он путь, и больше никакого</plain>
+        </string>
+        <string>
+            <plain>Пути к престолу Бога нет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Может, тебя страх смерти давит, как змея.</plain>
+        </string>
+        <string>
+            <plain>А может быть, оставлен всеми,</plain>
+        </string>
+        <string>
+            <plain>В депрессии грызёшь себя.</plain>
+        </string>
+        <string>
+            <plain>Ни в день, ни в ночь покоя не приобретешь,</plain>
+        </string>
+        <string>
+            <plain>Но мёртвых воскрешает сила</plain>
+        </string>
+        <string>
+            <plain>По имени Иисус Христос!</plain>
+        </string>
+    </verse>
+</song>

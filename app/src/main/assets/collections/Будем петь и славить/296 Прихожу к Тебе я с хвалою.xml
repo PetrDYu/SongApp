@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="296" name="Прихожу к Тебе я с хвалою" canon="false" text="Евы-Лены Хэллмарк" textRus="" music="Евы-Лены Хэллмарк" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Прихожу к Тебе я с хвалою!</plain>
+        </string>
+        <string>
+            <plain>Чудеса Твои велики,</plain>
+        </string>
+        <string>
+            <plain>И любовь Твоя сильна.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>О, Ты велик, Ты прекрасен и велик,</plain>
+        </string>
+        <string>
+            <plain>И другого нет, как Ты, и другого нет, как Ты!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ты один достоин хвалы!</plain>
+        </string>
+        <string>
+            <plain>Мы возносим к небу руки,</plain>
+        </string>
+        <string>
+            <plain>В Тебе радуемся мы.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>О, Ты велик, Ты прекрасен и велик,</plain>
+        </string>
+        <string>
+            <plain>Всемогущий и Святой, нет подобного Тебе!</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Буду петь Тебе я вечно</plain>
+        </string>
+        <string>
+            <plain>За Твою любовь и милость,</plain>
+        </string>
+        <string>
+            <plain>Что даришь Ты нам с небес!</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>О, Ты велик, Ты прекрасен и велик,</plain>
+        </string>
+        <string>
+            <plain>И другого нет, как Ты, и другого нет, как Ты!</plain>
+        </string>
+        <string>
+            <plain>О, Ты велик, Ты прекрасен и велик,</plain>
+        </string>
+        <string>
+            <plain>Всемогущий и Святой, нет подобного Тебе!</plain>
+        </string>
+    </chorus>
+</song>

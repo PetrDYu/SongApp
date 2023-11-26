@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1269" name="Послушай о грешник последнее время" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Послушай, о грешник, - последнее время.</plain>
+        </string>
+        <string>
+            <plain>Звучит Иисуса последний призыв.</plain>
+        </string>
+        <string>
+            <plain>Зовет Он сложить твое грешное бремя</plain>
+        </string>
+        <string>
+            <plain>К подножью Голгофы, и будешь ты жив.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Последнее время, последний призыв!</plain>
+        </string>
+        <string>
+            <plain>Тебя призывает Спаситель, приди.</plain>
+        </string>
+        <string>
+            <plain>Ведь завтра уж поздно, там смерть впереди.</plain>
+        </string>
+        <string>
+            <plain>Приди же, о, грешник, не медли, приди.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Устало несешь ты нелегкое бремя</plain>
+        </string>
+        <string>
+            <plain>Порочных привычек, греховных страстей,</plain>
+        </string>
+        <string>
+            <plain>А вдаль убегает все лучшее время.</plain>
+        </string>
+        <string>
+            <plain>Лишая надежды и радости всей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Зачем ты томишься в страданьях напрасно.</plain>
+        </string>
+        <string>
+            <plain>Причину нося постоянно в себе.</plain>
+        </string>
+        <string>
+            <plain>Поверь, что твое состояние опасно,</plain>
+        </string>
+        <string>
+            <plain>Поверь, что ты гибель готовишь себе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Давно Он молитву твою ожидает.</plain>
+        </string>
+        <string>
+            <plain>Скажи Ему с верою несколько слов.</plain>
+        </string>
+        <string>
+            <plain>За них Он спасенье тебе обещает.</plain>
+        </string>
+        <string>
+            <plain>И радость небесную дать уж готов.</plain>
+        </string>
+    </verse>
+</song>

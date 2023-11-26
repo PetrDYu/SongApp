@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1412" name="Боже дай силы пройти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, дай силы пройти</plain>
+        </string>
+        <string>
+            <plain>до могилы чисто и свято</plain>
+        </string>
+        <string>
+            <plain>нам жизненный путь.</plain>
+        </string>
+        <string>
+            <plain>В дни эти тягостные дай.</plain>
+        </string>
+        <string>
+            <plain>Боже, радости.</plain>
+        </string>
+        <string>
+            <plain>Дай от тревог нам душой отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, дай веры, любви дай без меры,</plain>
+        </string>
+        <string>
+            <plain>Ближних дай, Боже, всем сердцем любить.</plain>
+        </string>
+        <string>
+            <plain>Чтоб светоч ученья рассеял сомненья,</plain>
+        </string>
+        <string>
+            <plain>Жизнь грешных людей в мире могла просветлеть.</plain>
+        </string>
+    </verse>
+</song>

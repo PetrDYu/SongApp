@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="430" name="Величие Божье величие" canon="false" text="" textRus="Е. Трофимовой" music="Дж. У. Хэйфорда" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Величие! Божье величие!</plain>
+        </string>
+        <string>
+            <plain>Иисусу вся слава, честь и хвала!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Величие! Божье величие!</plain>
+        </string>
+        <string>
+            <plain>Сын Божий был распят, и Он воскрес, Он прославил Отца!</plain>
+        </string>
+        <string>
+            <plain>Воспевай и восхваляй имя Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Воспевай и восхваляй имя Творца!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

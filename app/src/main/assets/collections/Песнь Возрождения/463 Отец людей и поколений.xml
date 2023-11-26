@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="463" name="Отец людей и поколений" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отец людей и поколений,</plain>
+        </string>
+        <string>
+            <plain>Наш Попечитель всеблагой!</plain>
+        </string>
+        <string>
+            <plain>С престола славы и хвалений</plain>
+        </string>
+        <string>
+            <plain>Нас милосердья удостой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог благодати, Бог спасенья!</plain>
+        </string>
+        <string>
+            <plain>Пошли Твое благословенье!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Взгляни на них так взором ясным,</plain>
+        </string>
+        <string>
+            <plain>Чтоб луч живой очей Твоих</plain>
+        </string>
+        <string>
+            <plain>Проникнул в них потоком властным</plain>
+        </string>
+        <string>
+            <plain>И стал сияньем жизни их.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Взгляни на них так взором нежным,</plain>
+        </string>
+        <string>
+            <plain>Чтобы любви Твоей тепло</plain>
+        </string>
+        <string>
+            <plain>Их грело счастьем безмятежным</plain>
+        </string>
+        <string>
+            <plain>И всю бы жизнь их берегло.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Взгляни на них и Сам, Всесильный,</plain>
+        </string>
+        <string>
+            <plain>Святую руку возложи</plain>
+        </string>
+        <string>
+            <plain>И с даром милости обильной</plain>
+        </string>
+        <string>
+            <plain>Благое слово им скажи.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Твоей руки благословенья</plain>
+        </string>
+        <string>
+            <plain>От них всю жизнь не отнимай,</plain>
+        </string>
+        <string>
+            <plain>Веди их Сам путем спасенья</plain>
+        </string>
+        <string>
+            <plain>И слов небесных не лишай.</plain>
+        </string>
+    </verse>
+</song>

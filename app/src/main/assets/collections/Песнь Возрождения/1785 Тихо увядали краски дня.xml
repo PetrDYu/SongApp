@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1785" name="Тихо увядали краски дня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихо увядали краски дня,</plain>
+        </string>
+        <string>
+            <plain>Ночь на землю робко опустилась.</plain>
+        </string>
+        <string>
+            <plain>Иисус, не оставляй меня</plain>
+        </string>
+        <string>
+            <plain>И яви душе святую милость.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, когда ночи пелена</plain>
+        </string>
+        <string>
+            <plain>Мне дорогу жизни закрывает,</plain>
+        </string>
+        <string>
+            <plain>Знаю я: рука твоя сильна</plain>
+        </string>
+        <string>
+            <plain>Довести меня к просторам рая.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай понять в общении с</plain>
+        </string>
+        <string>
+            <plain>Тобой Путь, которым шел</plain>
+        </string>
+        <string>
+            <plain>Ты на Голгофу, Ту молитву, что в тиши ночной</plain>
+        </string>
+        <string>
+            <plain>Возносил Ты любящему Богу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Снова взор свой к небу возвожу,</plain>
+        </string>
+        <string>
+            <plain>В даль, где ярко серебрятся звезды,</plain>
+        </string>
+        <string>
+            <plain>И в смиренье сердца возношу</plain>
+        </string>
+        <string>
+            <plain>Благодарность за Твою свободу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Миллионы слышишь Ты молитв.</plain>
+        </string>
+        <string>
+            <plain>Исполняешь силою идущих;</plain>
+        </string>
+        <string>
+            <plain>Пусть и мой звучит любви мотив.</plain>
+        </string>
+        <string>
+            <plain>Возвещая искупленье душам.</plain>
+        </string>
+    </verse>
+</song>

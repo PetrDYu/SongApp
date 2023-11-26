@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2465" name="Две судьбы как притоки Широкой реки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Две судьбы, как притоки Широкой реки,</plain>
+        </string>
+        <string>
+            <plain>Слились вместе в одно, Счастье вдруг обрели,</plain>
+        </string>
+        <string>
+            <plain>Счастье нежной любви, Радость бурной реки,</plain>
+        </string>
+        <string>
+            <plain>Что несут свои воды К незримой дали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Эта новая жизнь</plain>
+        </string>
+        <string>
+            <plain>- Чувств прекрасных прилив,</plain>
+        </string>
+        <string>
+            <plain>Это счастье двоих,</plain>
+        </string>
+        <string>
+            <plain>Богом данное им</plain>
+        </string>
+        <string>
+            <plain>Навсегда им одним.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Две руки, двое уст Крепче тягостных уз,</plain>
+        </string>
+        <string>
+            <plain>Навсегда, на всю жизнь Заключили союз.</plain>
+        </string>
+        <string>
+            <plain>Чтобы верными быть, Верно Богу служить,</plain>
+        </string>
+        <string>
+            <plain>В эти мрачные дни Вы решились идти.</plain>
+        </string>
+    </verse>
+</song>

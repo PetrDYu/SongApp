@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="431" name="Возлюбите же друг друга," canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Возлюбите же друг друга,</plain>
+        </string>
+        <string>
+            <plain>Как Я вас возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Пусть любовь, что есть во Мне,</plain>
+        </string>
+        <string>
+            <plain>Будет в вас.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Вы все – друзья Мои,</plain>
+        </string>
+        <string>
+            <plain>И Я вам заповедь даю –</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вы именем Моим</plain>
+        </string>
+        <string>
+            <plain>Просите, и Отец вам даст.</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я всех вас возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Как возлюбил Меня Отец.</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вы – ветви, Я – лоза,</plain>
+        </string>
+        <string>
+            <plain>Во Мне вы принесете плод.</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вы духом крещены,</plain>
+        </string>
+        <string>
+            <plain>И вы – свидетели Мои.</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Да будет совершенна</plain>
+        </string>
+        <string>
+            <plain>Та радость, что Я вам даю.</plain>
+        </string>
+        <string>
+            <plain>Пребудьте же в Моей любви.</plain>
+        </string>
+    </verse>
+</song>

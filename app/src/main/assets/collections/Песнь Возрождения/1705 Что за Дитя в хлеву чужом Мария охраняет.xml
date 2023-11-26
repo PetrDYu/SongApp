@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1705" name="Что за Дитя в хлеву чужом Мария охраняет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что за Дитя в хлеву чужом Мария охраняет?</plain>
+        </string>
+        <string>
+            <plain>Небесный хор поёт о Нём, а пастухи внимают.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сей есть Христос Господь,</plain>
+        </string>
+        <string>
+            <plain>Пришедший в мир с небес высот,</plain>
+        </string>
+        <string>
+            <plain>Он нам Всевышним дан,</plain>
+        </string>
+        <string>
+            <plain>Спаситель, Сын Марии.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Зачем же в яслях Он лежит, где овцам корм давали?</plain>
+        </string>
+        <string>
+            <plain>Чтоб всякий мог у ног Его сложить свои печали.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ему в дар золото и ладан, и смирну принесите -</plain>
+        </string>
+        <string>
+            <plain>Он Царь царей, пред Ним скорей дверь сердца отворите.</plain>
+        </string>
+    </verse>
+</song>

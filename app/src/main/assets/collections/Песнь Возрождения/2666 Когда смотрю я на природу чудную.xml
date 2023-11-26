@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2666" name="Когда смотрю я на природу чудную" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда смотрю я на природу чудную,</plain>
+        </string>
+        <string>
+            <plain>На прелесть гор и тихий шепот рек,</plain>
+        </string>
+        <string>
+            <plain>Я понимаю, даже лепту скудную</plain>
+        </string>
+        <string>
+            <plain>Тебе воздать не может человек.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я вижу, Ты велик - Господь мой и Создатель.</plain>
+        </string>
+        <string>
+            <plain>Ты мудр всегда во всех путях Своих,</plain>
+        </string>
+        <string>
+            <plain>А я так слаб и мал, я в жизни, как искатель,</plain>
+        </string>
+        <string>
+            <plain>Лишь замечаю Твой чудесный штрих.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда на небо взор я поднимаю,</plain>
+        </string>
+        <string>
+            <plain>Где россыпь звезд и бездна тайн в луне,</plain>
+        </string>
+        <string>
+            <plain>Где скрыть не может даже тьма немая</plain>
+        </string>
+        <string>
+            <plain>Красу небес от взоров на земле.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я вижу, мой Творец, повсюду милость,</plain>
+        </string>
+        <string>
+            <plain>Во всем, что посылаешь каждый миг.</plain>
+        </string>
+        <string>
+            <plain>Хотел бы л, чтоб вечно возносилась</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе из слабых уст моих.</plain>
+        </string>
+    </verse>
+</song>

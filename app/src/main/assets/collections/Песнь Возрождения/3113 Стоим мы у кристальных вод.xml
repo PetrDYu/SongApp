@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3113" name="Стоим мы у кристальных вод" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стоим мы у кристальных вод,</plain>
+        </string>
+        <string>
+            <plain>грехи омыты во Христе;</plain>
+        </string>
+        <string>
+            <plain>отныне святость в нас живет,</plain>
+        </string>
+        <string>
+            <plain>мы победим в любой борьбе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Стоим мы у кристальных вод,</plain>
+        </string>
+        <string>
+            <plain>хвалу поем на гуслях мы.</plain>
+        </string>
+        <string>
+            <plain>Мы славим все Тебя, Господь,</plain>
+        </string>
+        <string>
+            <plain>в Твоей крови мы спасены!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не служим мы богам чужим,</plain>
+        </string>
+        <string>
+            <plain>победу кровь Христа дала,</plain>
+        </string>
+        <string>
+            <plain>и образ зверя не страшит -</plain>
+        </string>
+        <string>
+            <plain>творит в нас вера чудеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На светлом истинном пути,</plain>
+        </string>
+        <string>
+            <plain>где все любовь Христа творит,</plain>
+        </string>
+        <string>
+            <plain>мы властвуем над силой тьмы</plain>
+        </string>
+        <string>
+            <plain>со всеми, в ком любовь горит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы с миром сладостным</plain>
+        </string>
+        <string>
+            <plain>в сердцах вдоль моря светлого</plain>
+        </string>
+        <string>
+            <plain>идем, с безмерной радостью</plain>
+        </string>
+        <string>
+            <plain>в душе мы Агнцу песнь хвалы поем.</plain>
+        </string>
+    </verse>
+</song>

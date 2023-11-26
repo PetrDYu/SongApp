@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2434" name="Благодарю Тебя Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Христос,</plain>
+        </string>
+        <string>
+            <plain>За путь святой тернистый,</plain>
+        </string>
+        <string>
+            <plain>Что по нему меня ведет</plain>
+        </string>
+        <string>
+            <plain>Всегда Твой образ чистый.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Услышь, Господь, когда к Тебе взываю,</plain>
+        </string>
+        <string>
+            <plain>Мой добрый Пастырь Иисус Христос.</plain>
+        </string>
+        <string>
+            <plain>Когда с мольбою очи поднимаю,</plain>
+        </string>
+        <string>
+            <plain>Своей рукой их осуши от слез.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как много скорби на пути,</plain>
+        </string>
+        <string>
+            <plain>О, как же к цели мне дойти,</plain>
+        </string>
+        <string>
+            <plain>Не вижу, кто бы мне помог,</plain>
+        </string>
+        <string>
+            <plain>К Тебе зову, мой Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отрадно знать, о, Вождь благой,</plain>
+        </string>
+        <string>
+            <plain>Что посылаешь в битву</plain>
+        </string>
+        <string>
+            <plain>С грехом и тьмой. Ты вызвал бой,</plain>
+        </string>
+        <string>
+            <plain>А в помощь дай молитву.</plain>
+        </string>
+    </verse>
+</song>

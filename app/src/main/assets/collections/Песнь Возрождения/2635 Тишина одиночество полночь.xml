@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2635" name="Тишина одиночество полночь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тишина, одиночество, полночь.</plain>
+        </string>
+        <string>
+            <plain>За окном серебрится луна.</plain>
+        </string>
+        <string>
+            <plain>Бог в молитве приходит на помощь,</plain>
+        </string>
+        <string>
+            <plain>И зимой наступает весна.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И ответа снова жду,</plain>
+        </string>
+        <string>
+            <plain>Как подснежник лета, как сады - весну.</plain>
+        </string>
+        <string>
+            <plain>То счастье - знать, что где-то</plain>
+        </string>
+        <string>
+            <plain>Над моей планетой</plain>
+        </string>
+        <string>
+            <plain>Бог слышит молитву мою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я с Тобой говорить не устану,</plain>
+        </string>
+        <string>
+            <plain>Передам все Тебе в небеса:</plain>
+        </string>
+        <string>
+            <plain>Свои радости, Боже, печали</plain>
+        </string>
+        <string>
+            <plain>И о том, как творишь чудеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У молитвы могучие крылья,</plain>
+        </string>
+        <string>
+            <plain>Только я до тех пор не усну,</plain>
+        </string>
+        <string>
+            <plain>Пока там, за космической пылью,</plain>
+        </string>
+        <string>
+            <plain>Все молитвы сольются в одну.</plain>
+        </string>
+    </verse>
+</song>

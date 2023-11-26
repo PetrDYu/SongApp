@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1005" name="Пусть море бурное шумит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть море бурное шумит.</plain>
+        </string>
+        <string>
+            <plain>В душе покой, я не страшусь.</plain>
+        </string>
+        <string>
+            <plain>Ладью Он к пристани ведет.</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я знаю Господа,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа,</plain>
+        </string>
+        <string>
+            <plain>Всего дороже</plain>
+        </string>
+        <string>
+            <plain>Он душе,</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть говорят: "Он немощен,</plain>
+        </string>
+        <string>
+            <plain>Святое имя - звук пустой".</plain>
+        </string>
+        <string>
+            <plain>Он - Всемогущий, знаю я!</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть говорят: "Не слышит</plain>
+        </string>
+        <string>
+            <plain>Он Горячих слов мольбы моей".</plain>
+        </string>
+        <string>
+            <plain>Он слышит каждый сердца стон.</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда коснется смерть меня.</plain>
+        </string>
+        <string>
+            <plain>Умолкнут звуки струн души,</plain>
+        </string>
+        <string>
+            <plain>Я не боюсь: Он ждет меня.</plain>
+        </string>
+        <string>
+            <plain>Я знаю Господа!</plain>
+        </string>
+    </verse>
+</song>

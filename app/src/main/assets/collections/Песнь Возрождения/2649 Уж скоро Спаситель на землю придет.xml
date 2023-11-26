@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2649" name="Уж скоро Спаситель на землю придет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж скоро Спаситель на землю придет</plain>
+        </string>
+        <string>
+            <plain>Во славе и силе небесной.</plain>
+        </string>
+        <string>
+            <plain>И нас Он любовью к Себе призовет</plain>
+        </string>
+        <string>
+            <plain>Навеки в чертог Свай чудесный.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жених твой грядет,</plain>
+        </string>
+        <string>
+            <plain>О невеста, не спи!</plain>
+        </string>
+        <string>
+            <plain>Скорей приготовься,</plain>
+        </string>
+        <string>
+            <plain>Светильник зажги</plain>
+        </string>
+        <string>
+            <plain>И выйди поспешно навстречу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Часы и минуты мелькают, как тень,</plain>
+        </string>
+        <string>
+            <plain>И темная ночь уж проходит;</plain>
+        </string>
+        <string>
+            <plain>Зарей вдалеке разгорается день,</plain>
+        </string>
+        <string>
+            <plain>День вечный, день судный подходит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спаситель, скорее на землю гряди!</plain>
+        </string>
+        <string>
+            <plain>И тленье и смерть разрушая,</plain>
+        </string>
+        <string>
+            <plain>Небесное Царство везде утверди,</plain>
+        </string>
+        <string>
+            <plain>Открой нам обители рая.</plain>
+        </string>
+    </verse>
+</song>

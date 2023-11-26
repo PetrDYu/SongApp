@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3116" name="Выше свет твой подними" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Выше свет твой подними,</plain>
+        </string>
+        <string>
+            <plain>чтоб заблудшим он сиял:</plain>
+        </string>
+        <string>
+            <plain>может быть найдут они</plain>
+        </string>
+        <string>
+            <plain>узкий путь в небесный зал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть сияет свет твой ярко</plain>
+        </string>
+        <string>
+            <plain>для Христа, для Христа!</plain>
+        </string>
+        <string>
+            <plain>Пусть сияет свет твой ярко,</plain>
+        </string>
+        <string>
+            <plain>пусть сияет для Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Выше свет твой подними,</plain>
+        </string>
+        <string>
+            <plain>хоть он мал в твоих глазах;</plain>
+        </string>
+        <string>
+            <plain>пусть он для большой души</plain>
+        </string>
+        <string>
+            <plain>будет маяком в скорбях.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Выше свет твой подними,</plain>
+        </string>
+        <string>
+            <plain>пусть он светит далеко:</plain>
+        </string>
+        <string>
+            <plain>кто не может мир найти,</plain>
+        </string>
+        <string>
+            <plain>встретит с радостью его.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Выше свет твой подними,</plain>
+        </string>
+        <string>
+            <plain>чтоб путь грешным указать,</plain>
+        </string>
+        <string>
+            <plain>как им от суда уйти</plain>
+        </string>
+        <string>
+            <plain>через Божью благодать.</plain>
+        </string>
+    </verse>
+</song>

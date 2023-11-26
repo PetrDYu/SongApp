@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="858" name="Войдите друзья все в отверстую дверь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Войдите, друзья, все в отверстую дверь</plain>
+        </string>
+        <string>
+            <plain>- Христос Искупитель зовет.</plain>
+        </string>
+        <string>
+            <plain>Нимало не медля, войдите теперь,</plain>
+        </string>
+        <string>
+            <plain>Кто знает, что завтра нас ждет?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Спеши же, друг бедный, принять</plain>
+        </string>
+        <string>
+            <plain>Великую ту благодать.</plain>
+        </string>
+        <string>
+            <plain>Жизнь вечную - Божий дар прими,</plain>
+        </string>
+        <string>
+            <plain>К Иисусу, о грешник, спеши!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Быть может, Спаситель наш скоро придет.</plain>
+        </string>
+        <string>
+            <plain>Что станешь ты делать тогда?</plain>
+        </string>
+        <string>
+            <plain>Спасенных Он всех в Свое царство возьмет,</plain>
+        </string>
+        <string>
+            <plain>Закроется дверь навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Раскайся пред Ним, Он сейчас все простит,</plain>
+        </string>
+        <string>
+            <plain>Омоет пороки твои,</plain>
+        </string>
+        <string>
+            <plain>И душу, и тело твое обновит.</plain>
+        </string>
+        <string>
+            <plain>Немедля к Иисусу приди.</plain>
+        </string>
+    </verse>
+</song>

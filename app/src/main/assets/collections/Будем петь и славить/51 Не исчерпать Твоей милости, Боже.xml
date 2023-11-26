@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="51" name="Не исчерпать Твоей милости, Боже" canon="false" text="" textRus="М. Винецкой, Ю. Пастернака" music="Э. Макнейл" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Не исчерпать Твоей милости, Боже!</plain>
+        </string>
+        <string>
+            <plain>Вовек пребудет любовь Твоя.</plain>
+        </string>
+        <string>
+            <plain>Обновляется милость каждое утро.</plain>
+        </string>
+        <string>
+            <plain>Как верность велика Твоя, как верность велика!</plain>
+        </string>
+    </verse>
+</song>

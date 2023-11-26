@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="726" name="Утром когда встает рассвет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Утром, когда встает рассвет,</plain>
+        </string>
+        <string>
+            <plain>Боже, Тебе пою</plain>
+        </string>
+        <string>
+            <plain>За благодать Твою ко мне</plain>
+        </string>
+        <string>
+            <plain>И за любовь Твою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славу Тебе пою</plain>
+        </string>
+        <string>
+            <plain>За благодать (и любовь) Твою,</plain>
+        </string>
+        <string>
+            <plain>Силы дай мне всегда</plain>
+        </string>
+        <string>
+            <plain>Прославлять Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В радости дай воспеть Тебе,</plain>
+        </string>
+        <string>
+            <plain>В скорби - не унывать</plain>
+        </string>
+        <string>
+            <plain>И о Твоей святой любви</plain>
+        </string>
+        <string>
+            <plain>Людям всем рассказать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В жизни моей Тебя хвалить –</plain>
+        </string>
+        <string>
+            <plain>Цель будет пусть моя,</plain>
+        </string>
+        <string>
+            <plain>Чтоб чудеса Ты мог творить</plain>
+        </string>
+        <string>
+            <plain>В сердце моем всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда приходит день к концу,</plain>
+        </string>
+        <string>
+            <plain>Звезды с небес блестят,</plain>
+        </string>
+        <string>
+            <plain>К Богу с молитвой прихожу,</plain>
+        </string>
+        <string>
+            <plain>Чтобы опять сказать:</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Милости полон Ты,</plain>
+        </string>
+        <string>
+            <plain>Милости (милости) и любви!</plain>
+        </string>
+        <string>
+            <plain>И хочу я всегда</plain>
+        </string>
+        <string>
+            <plain>Прославлять Тебя!</plain>
+        </string>
+    </chorus>
+</song>

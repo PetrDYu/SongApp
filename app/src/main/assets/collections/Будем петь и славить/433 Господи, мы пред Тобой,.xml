@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="433" name="Господи, мы пред Тобой," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Господи, мы пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Мы смиренно приходим Тебя хвалить, Боже наш!</plain>
+        </string>
+        <string>
+            <plain>Мы пред Тобой, мы смиренно Тебе поклоняемся,</plain>
+        </string>
+        <string>
+            <plain>Господи, Боже наш.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Пребывай в нас каждый день,</plain>
+        </string>
+        <string>
+            <plain>Дай нам мудрости Твоей,</plain>
+        </string>
+        <string>
+            <plain>Научи нас сохранять Твое слово в сердцах,</plain>
+        </string>
+        <string>
+            <plain>Сделай нас учениками Твоими в любви.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Господи, живи с нами,</plain>
+        </string>
+        <string>
+            <plain>Покажи нам путь спасения и дорогу в Твое Царствие.</plain>
+        </string>
+        <string>
+            <plain>Господи, живи с нами, просияй Твоей любовью в нас.</plain>
+        </string>
+    </verse>
+</song>

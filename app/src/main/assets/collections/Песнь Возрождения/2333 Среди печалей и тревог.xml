@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2333" name="Среди печалей и тревог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Среди печалей и тревог</plain>
+        </string>
+        <string>
+            <plain>Житейского волненья</plain>
+        </string>
+        <string>
+            <plain>Лишь Ты Один, Господь мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Даришь мне утешены.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Израненный грехом, больной,</plain>
+        </string>
+        <string>
+            <plain>Лежал я при дороге,</plain>
+        </string>
+        <string>
+            <plain>Уж смерть летала надо мной,</plain>
+        </string>
+        <string>
+            <plain>Грозила гибель вскоре.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но мимо проходили все</plain>
+        </string>
+        <string>
+            <plain>Без чувства сожаленья.</plain>
+        </string>
+        <string>
+            <plain>Лишь Ты приблизился ко мне</plain>
+        </string>
+        <string>
+            <plain>С бальзамом исцеленья.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И вновь ожило все во мне,</plain>
+        </string>
+        <string>
+            <plain>Вмиг солнце засияло.</plain>
+        </string>
+        <string>
+            <plain>Я исцелен теперь вполне,</plain>
+        </string>
+        <string>
+            <plain>Жизнь новая настала.</plain>
+        </string>
+    </verse>
+</song>

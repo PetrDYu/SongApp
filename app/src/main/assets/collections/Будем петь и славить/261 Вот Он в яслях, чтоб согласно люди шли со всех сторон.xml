@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="261" name="Вот Он в яслях, чтоб согласно люди шли со всех сторон" canon="false" text="" textRus="Д. Ясько" music="Польская народная" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Вот Он в яслях, чтоб согласно люди шли со всех сторон</plain>
+        </string>
+        <string>
+            <plain>К Сыну Божью, Кто сей ночью в Вифлееме нам рожден.</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто Богом был от века, принял образ человека,</plain>
+        </string>
+        <string>
+            <plain>Чтоб избавить род людской.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Приходите и поймите, что на землю к нам пришел</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто в небе всех сильнее, там имеет Свой престол.</plain>
+        </string>
+        <string>
+            <plain>Перед Ним падем в смиреньи, все сольемся в дружном пеньи:</plain>
+        </string>
+        <string>
+            <plain>Честь и слава Богу сил!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дивный Боже, из нас кто же то оценит и поймет:</plain>
+        </string>
+        <string>
+            <plain>Ты решился и явился пострадать за весь народ!</plain>
+        </string>
+        <string>
+            <plain>То любовь Твоя свершила, Небо грешникам открыла,</plain>
+        </string>
+        <string>
+            <plain>Вечный Бог нам стал Отцом.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ждем Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Крепко любим Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Слава Богу!</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>8 р.</plain>
+        </string>
+        <string>
+            <plain>8 р.</plain>
+        </string>
+        <string>
+            <plain>8 р.</plain>
+        </string>
+        <string>
+            <plain>4 р.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>8 р.</plain>
+        </string>
+        <string>
+            <plain>4 р.</plain>
+        </string>
+        <string>
+            <plain>8 р.</plain>
+        </string>
+        <string>
+            <plain>8 р.</plain>
+        </string>
+    </verse>
+</song>

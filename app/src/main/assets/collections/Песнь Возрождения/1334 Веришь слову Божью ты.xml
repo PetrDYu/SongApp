@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1334" name="Веришь слову Божью ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Веришь слову Божью ты?</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Сбрось оковы суеты,</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Так взывает благодать:</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Хочет Бог тебя принять,</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мой друг! О, мой друг!</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Снимет Он с души недуг.</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Полн ли духом нищеты?</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Вот Его любовь гласит:</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Он тебе лишь верный щит;</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочешь сбросить грешный страх?</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Хочешь быть ты в небесах?</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Призывает Дух Святой:</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Он тебя введет в покой!</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Иисусу!</plain>
+        </string>
+    </verse>
+</song>

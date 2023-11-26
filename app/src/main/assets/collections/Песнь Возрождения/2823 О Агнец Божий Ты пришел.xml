@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2823" name="О Агнец Божий Ты пришел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Агнец Божий, Ты пришел,</plain>
+        </string>
+        <string>
+            <plain>чтоб я спасение нашел;</plain>
+        </string>
+        <string>
+            <plain>Любовь с небес явил Ты нам,</plain>
+        </string>
+        <string>
+            <plain>страдая на Голгофе там.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Голгофский крест,</plain>
+        </string>
+        <string>
+            <plain>голгофский крест:</plain>
+        </string>
+        <string>
+            <plain>умер за меня Христос.</plain>
+        </string>
+        <string>
+            <plain>Голгофский крест,</plain>
+        </string>
+        <string>
+            <plain>голгофский крест:</plain>
+        </string>
+        <string>
+            <plain>Там муки Он за всех понес.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Земля дрожит, и тьма кругом:</plain>
+        </string>
+        <string>
+            <plain>спасенья план свершен Христом.</plain>
+        </string>
+        <string>
+            <plain>Свершилось все - аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>- там на Голгофе у креста!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты, Агнец, там унижен был,</plain>
+        </string>
+        <string>
+            <plain>венец терновый Ты Носил,</plain>
+        </string>
+        <string>
+            <plain>страданий столько перенес,</plain>
+        </string>
+        <string>
+            <plain>чтоб я узрел Твою любовь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебя, о Агнец, славлю я,</plain>
+        </string>
+        <string>
+            <plain>Ты вывел из греха меня,</plain>
+        </string>
+        <string>
+            <plain>Привел меня к Твоим ногам</plain>
+        </string>
+        <string>
+            <plain>чрез подвиг на Голгофе там!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Поток кровавый со креста</plain>
+        </string>
+        <string>
+            <plain>для всех течет из ран Христа,</plain>
+        </string>
+        <string>
+            <plain>и я омыт был от греха</plain>
+        </string>
+        <string>
+            <plain>в крови с Голгофского холма.</plain>
+        </string>
+    </verse>
+</song>

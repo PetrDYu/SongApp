@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="39" name="Дай мне с Тобой быть там где Ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дай мне с Тобой быть там, где Ты,</plain>
+        </string>
+        <string>
+            <plain>Спаситель, вечный мой покой!</plain>
+        </string>
+        <string>
+            <plain>Не будет сердцу пустоты,</plain>
+        </string>
+        <string>
+            <plain>Вполне утешится Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай мне с Тобой быть там, где Ты,</plain>
+        </string>
+        <string>
+            <plain>Твою дай славу созерцать!</plain>
+        </string>
+        <string>
+            <plain>Не будет сердцу темноты,</plain>
+        </string>
+        <string>
+            <plain>Не будет под грехом стонать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай мне с Тобой быть там, где Ты,</plain>
+        </string>
+        <string>
+            <plain>Где все уста полны хвалой!</plain>
+        </string>
+        <string>
+            <plain>Не будет сердцу тесноты,</plain>
+        </string>
+        <string>
+            <plain>Польется песнь струей живой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дай мне с Тобой быть там, где Ты,</plain>
+        </string>
+        <string>
+            <plain>Где нет разлуки, нет тоски,</plain>
+        </string>
+        <string>
+            <plain>Обилье сердцу полноты,</plain>
+        </string>
+        <string>
+            <plain>Блаженства жизни и любви.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3094" name="Глубже глубже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Глубже, глубже</plain>
+        </string>
+        <string>
+            <plain>дай мне погружаться,</plain>
+        </string>
+        <string>
+            <plain>Бог, в любовь Твою!</plain>
+        </string>
+        <string>
+            <plain>Выше, выше</plain>
+        </string>
+        <string>
+            <plain>дай мне подниматься</plain>
+        </string>
+        <string>
+            <plain>духом в высоту!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог, вглубь веди меня,</plain>
+        </string>
+        <string>
+            <plain>веди меня и выше в небеса!</plain>
+        </string>
+        <string>
+            <plain>Да, глубже, Бог мой</plain>
+        </string>
+        <string>
+            <plain>Слово мне Свое открой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Глубже, глубже,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, в смиренье</plain>
+        </string>
+        <string>
+            <plain>погружай меня,</plain>
+        </string>
+        <string>
+            <plain>чтоб земною жизнью</plain>
+        </string>
+        <string>
+            <plain>и служеньем славил я Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Глубже, глубже</plain>
+        </string>
+        <string>
+            <plain>- хоть в борьбе я трудной</plain>
+        </string>
+        <string>
+            <plain>в жизни здесь иду.</plain>
+        </string>
+        <string>
+            <plain>За Тобой, Господь мой,</plain>
+        </string>
+        <string>
+            <plain>в вере твердой следовать хочу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Глубже, выше!</plain>
+        </string>
+        <string>
+            <plain>Каждый день в Иисусе</plain>
+        </string>
+        <string>
+            <plain>пребывать хочу</plain>
+        </string>
+        <string>
+            <plain>до тех пор, пока не вознесусь</plain>
+        </string>
+        <string>
+            <plain>я в небеса к Нему.</plain>
+        </string>
+    </verse>
+</song>

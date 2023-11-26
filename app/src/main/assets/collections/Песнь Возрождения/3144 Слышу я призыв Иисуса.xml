@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3144" name="Слышу я призыв Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышу я призыв Иисуса,</plain>
+        </string>
+        <string>
+            <plain>слышу я призыв Иисуса</plain>
+        </string>
+        <string>
+            <plain>от престола благодати:</plain>
+        </string>
+        <string>
+            <plain>«Крест возьми свой,</plain>
+        </string>
+        <string>
+            <plain>следуй ты за Мной»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я иду, куда ведёт Он,</plain>
+        </string>
+        <string>
+            <plain>Я иду, куда ведёт Он,</plain>
+        </string>
+        <string>
+            <plain>Я иду, куда ведёт Он,</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я иду с Ним чрез долину,</plain>
+        </string>
+        <string>
+            <plain>я иду с Ним чрез долину,</plain>
+        </string>
+        <string>
+            <plain>через смертную долину,</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С Ним чрез сад скорбей иду я,</plain>
+        </string>
+        <string>
+            <plain>с Ним чрез сад скорбей иду я,</plain>
+        </string>
+        <string>
+            <plain>в Гефсиманский сад иду я</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>С Ним иду я чрез страданья,</plain>
+        </string>
+        <string>
+            <plain>с Ним иду я чрез страданья,</plain>
+        </string>
+        <string>
+            <plain>чрез разлуки и рыданья</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>С Ним иду на суд без страха,</plain>
+        </string>
+        <string>
+            <plain>с Ним иду на суд без страха,</plain>
+        </string>
+        <string>
+            <plain>на великий суд без страха</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>С Ним иду я к Богу в небо,</plain>
+        </string>
+        <string>
+            <plain>с Ним иду я к Богу в небо,</plain>
+        </string>
+        <string>
+            <plain>в чудное, святое небо</plain>
+        </string>
+        <string>
+            <plain>- с Ним иду я всюду и везде.</plain>
+        </string>
+    </verse>
+</song>

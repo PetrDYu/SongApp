@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2338" name="Счастье сердце мне переполнило" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Счастье сердце мне переполнило,</plain>
+        </string>
+        <string>
+            <plain>И бежит поток через край.</plain>
+        </string>
+        <string>
+            <plain>На всю жизнь свою я запомню то,</plain>
+        </string>
+        <string>
+            <plain>Что услышал я невзначай.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В мире этом мы, как прохожие,</plain>
+        </string>
+        <string>
+            <plain>Глубоко корней не пускай!</plain>
+        </string>
+        <string>
+            <plain>Злые есть пути, есть хорошие,</plain>
+        </string>
+        <string>
+            <plain>Ты хорошие избирай!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>То, что слышал я, сердце приняло,</plain>
+        </string>
+        <string>
+            <plain>И путь новый я избрал,</plain>
+        </string>
+        <string>
+            <plain>Старый грешный мир я покинул</plain>
+        </string>
+        <string>
+            <plain>И по новому зашагал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>По пути любви чистом, искреннем,</plain>
+        </string>
+        <string>
+            <plain>По пути, что Бог указал,</plain>
+        </string>
+        <string>
+            <plain>То единый путь, верны й, истинный,</plain>
+        </string>
+        <string>
+            <plain>Кто пошел им - счастье узнал.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1694" name="За меня Иисус Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За меня Иисус Христос</plain>
+        </string>
+        <string>
+            <plain>Крест поднял тяжёлый,</plain>
+        </string>
+        <string>
+            <plain>Грех мирской Ему принёс</plain>
+        </string>
+        <string>
+            <plain>Твой венок терновый.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Иисус, Кровь</plain>
+        </string>
+        <string>
+            <plain>Твоя священна.</plain>
+        </string>
+        <string>
+            <plain>Души грешников</plain>
+        </string>
+        <string>
+            <plain>земных в ней нашли спасенье.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сколько скорби на лице,</plain>
+        </string>
+        <string>
+            <plain>К людям обращенном.</plain>
+        </string>
+        <string>
+            <plain>Суд слепых людей жесток,</plain>
+        </string>
+        <string>
+            <plain>Над Тобой свершённый.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ляжет белым снегом крест.</plain>
+        </string>
+        <string>
+            <plain>Символ всепрощенья.</plain>
+        </string>
+        <string>
+            <plain>На кровавый грех людей</plain>
+        </string>
+        <string>
+            <plain>Божьим отпущеньем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты высок в любви Своей,</plain>
+        </string>
+        <string>
+            <plain>Друг мой милосердный.</plain>
+        </string>
+        <string>
+            <plain>Подарил Иисус нам всем</plain>
+        </string>
+        <string>
+            <plain>выкуп безвозмездный.</plain>
+        </string>
+    </verse>
+</song>

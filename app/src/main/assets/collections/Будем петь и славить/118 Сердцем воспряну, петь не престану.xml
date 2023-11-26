@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="118" name="Сердцем воспряну, петь не престану" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Сердцем воспряну, петь не престану</plain>
+        </string>
+        <string>
+            <plain>Славу Тому, Кто нас искупил.</plain>
+        </string>
+        <string>
+            <plain>Цепи порвал Он, Дух Свой нам дал Он,</plain>
+        </string>
+        <string>
+            <plain>Верой в Иисуса мир подарил.</plain>
+        </string>
+        <string>
+            <plain>Славлю Его! Свободен, спасен,</plain>
+        </string>
+        <string>
+            <plain>Мой Покровитель, Свет жизни Он.</plain>
+        </string>
+        <string>
+            <plain>Скорби не бойся, в Нем лишь покойся,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Скоро конец борьбе.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вечны высоты! Прочь все заботы!</plain>
+        </string>
+        <string>
+            <plain>Мир не имеет части во мне.</plain>
+        </string>
+        <string>
+            <plain>К свету стремлюсь я, тьмы не боюсь я;</plain>
+        </string>
+        <string>
+            <plain>Счастлив, иду к небесной стране.</plain>
+        </string>
+        <string>
+            <plain>О, как ничтожно всё в мире сем!</plain>
+        </string>
+        <string>
+            <plain>В Боге лишь счастье жизни найдем.</plain>
+        </string>
+        <string>
+            <plain>Выше земного, света иного</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Отблеск мы зрим уж здесь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь – всё мгновенно, там – неизменно,</plain>
+        </string>
+        <string>
+            <plain>Там двери рая Он мне открыл.</plain>
+        </string>
+        <string>
+            <plain>В славу войду я, Друга узрю я,</plain>
+        </string>
+        <string>
+            <plain>Кто жизнь Свою за нас положил.</plain>
+        </string>
+        <string>
+            <plain>Силы небес там вечно пред Ним,</plain>
+        </string>
+        <string>
+            <plain>Скоро и я навек буду с Ним.</plain>
+        </string>
+        <string>
+            <plain>Песню хваленья, песню спасенья</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Вечно там буду петь!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

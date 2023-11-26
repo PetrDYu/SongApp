@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1551" name="Ты слышишь тихий стук в дверь сердца твоего" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты слышишь тихий стук в дверь сердца твоего;</plain>
+        </string>
+        <string>
+            <plain>И ты открой его - желает Гость войти.</plain>
+        </string>
+        <string>
+            <plain>Дверь заперта тобою изнутри,</plain>
+        </string>
+        <string>
+            <plain>Ты слышишь стук.</plain>
+        </string>
+        <string>
+            <plain>О, друг мой, поспеши.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Открой же дверь.</plain>
+        </string>
+        <string>
+            <plain>Мой друг, теперь,</plain>
+        </string>
+        <string>
+            <plain>Ведь вскоре может Гость уйти.</plain>
+        </string>
+        <string>
+            <plain>Ведь вскоре может Гость уйти.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ведь это Сам Иисус стучится в дверь твою,</plain>
+        </string>
+        <string>
+            <plain>Желает вместе быть, открой же ты Ему.</plain>
+        </string>
+        <string>
+            <plain>Пробиты руки, ноги у Христа,</plain>
+        </string>
+        <string>
+            <plain>На лбу следы тернового венца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда откроешь дверь небесному Царю,</plain>
+        </string>
+        <string>
+            <plain>Господь - Спаситель твой - войдет Сам в жизнь твою.</plain>
+        </string>
+        <string>
+            <plain>Лишь может Бог понять все до конца.</plain>
+        </string>
+        <string>
+            <plain>Освободит тебя Он от греха.</plain>
+        </string>
+    </verse>
+</song>

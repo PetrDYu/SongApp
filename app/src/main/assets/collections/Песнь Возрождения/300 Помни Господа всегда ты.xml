@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="300" name="Помни Господа всегда ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Помни Господа всегда ты.</plain>
+        </string>
+        <string>
+            <plain>Он – источник всех даров;</plain>
+        </string>
+        <string>
+            <plain>При удачах и утратах</plain>
+        </string>
+        <string>
+            <plain>Прославляй Его любовь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Может быть ты рассуждаешь:</plain>
+        </string>
+        <string>
+            <plain>"Пока молод - веселись,</plain>
+        </string>
+        <string>
+            <plain>А когда уж постареешь,</plain>
+        </string>
+        <string>
+            <plain>Тогда кайся и молись"?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О несчастный, ты не знаешь,</plain>
+        </string>
+        <string>
+            <plain>Что несет ближайший миг!</plain>
+        </string>
+        <string>
+            <plain>Может, завтра ты не встанешь,</plain>
+        </string>
+        <string>
+            <plain>Не увидишь дорогих.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Может, завтра в гроб положат,</plain>
+        </string>
+        <string>
+            <plain>Распрощаются с тобой.</plain>
+        </string>
+        <string>
+            <plain>И великим и ничтожным</plain>
+        </string>
+        <string>
+            <plain>Почивать в земле сырой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>А душа? В жилище плача</plain>
+        </string>
+        <string>
+            <plain>Неспасенные сойдут.</plain>
+        </string>
+        <string>
+            <plain>Умереть Бог всем назначил,</plain>
+        </string>
+        <string>
+            <plain>А потом - прийти на суд.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Помни Господа все время</plain>
+        </string>
+        <string>
+            <plain>На земле среди живых,</plain>
+        </string>
+        <string>
+            <plain>И Его святое имя</plain>
+        </string>
+        <string>
+            <plain>Прославляй в делах твоих.</plain>
+        </string>
+    </verse>
+</song>

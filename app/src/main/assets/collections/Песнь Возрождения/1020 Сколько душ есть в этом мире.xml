@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1020" name="Сколько душ есть в этом мире" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сколько душ есть в этом мире.</plain>
+        </string>
+        <string>
+            <plain>За которых Бог страдал!</plain>
+        </string>
+        <string>
+            <plain>Он святую Кровь завета</plain>
+        </string>
+        <string>
+            <plain>На Голгофе проливал!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сколько душ есть в этом мире, за которых Бог  страдал!</plain>
+        </string>
+        <string>
+            <plain>Он святую Кровь завета на Голгофе проливал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люди грешные, придите.</plain>
+        </string>
+        <string>
+            <plain>Во Христе вся полнота,</plain>
+        </string>
+        <string>
+            <plain>В Нем - вся радость, сила наша,</plain>
+        </string>
+        <string>
+            <plain>Он ведет нас в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не отвергните тот призыв.</plain>
+        </string>
+        <string>
+            <plain>Вот зовет Спаситель вас,</plain>
+        </string>
+        <string>
+            <plain>А беспечным всем Он скажет:</plain>
+        </string>
+        <string>
+            <plain>Никогда не знал Я вас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но вернитесь назад люди,</plain>
+        </string>
+        <string>
+            <plain>Ко Спасителю Христу, -</plain>
+        </string>
+        <string>
+            <plain>Он по милости прощает</plain>
+        </string>
+        <string>
+            <plain>И дает жизнь вечную!</plain>
+        </string>
+    </verse>
+</song>

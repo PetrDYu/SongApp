@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2305" name="Путь последний Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Путь последний Христа</plain>
+        </string>
+        <string>
+            <plain>Приближался к концу,</plain>
+        </string>
+        <string>
+            <plain>Капли крови текли</plain>
+        </string>
+        <string>
+            <plain>По святому лицу,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Весь изранен Он был,</plain>
+        </string>
+        <string>
+            <plain>На Голгофу крест нёс Христос.</plain>
+        </string>
+        <string>
+            <plain>О, скажи, за кого</plain>
+        </string>
+        <string>
+            <plain>Ты страдаешь, Христос?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Изнемог и упал,</plain>
+        </string>
+        <string>
+            <plain>Выбиваясь из сил.</plain>
+        </string>
+        <string>
+            <plain>Мой Христос, кто Тебя</plain>
+        </string>
+        <string>
+            <plain>Ко кресту пригвоздил?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нежный, ласковый взор</plain>
+        </string>
+        <string>
+            <plain>Мне ответил тогда:</plain>
+        </string>
+        <string>
+            <plain>"Эту страшую казнь</plain>
+        </string>
+        <string>
+            <plain>Принял Я за тебя".</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Милый друг, о, ответь,</plain>
+        </string>
+        <string>
+            <plain>За кого пострадал</plain>
+        </string>
+        <string>
+            <plain>Кроткий Агнец Христос?</plain>
+        </string>
+        <string>
+            <plain>За тебя.</plain>
+        </string>
+    </verse>
+</song>

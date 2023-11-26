@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1530" name="О кто я есть Я немощен и грешен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, кто я есть? Я немощен и грешен,</plain>
+        </string>
+        <string>
+            <plain>И недостоин я стоять пред Божиим лицом.</plain>
+        </string>
+        <string>
+            <plain>А как порой бываю я беспечен,</plain>
+        </string>
+        <string>
+            <plain>Не думая о Господе моем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Ты, великий вечный Бог,</plain>
+        </string>
+        <string>
+            <plain>Создатель мира, всей Вселенной.</plain>
+        </string>
+        <string>
+            <plain>О, как Ты возлюбить нас смог</plain>
+        </string>
+        <string>
+            <plain>Своей любовью кроткой и смиренной?!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, кто мы есть, что Ты нам открываешь</plain>
+        </string>
+        <string>
+            <plain>Своей любви спасенья дверь, даруешь благодать.</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя и обещаю Тебе,</plain>
+        </string>
+        <string>
+            <plain>Христос, всю жизнь свою отдать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, кто ты есть, погибший бедный грешник?</plain>
+        </string>
+        <string>
+            <plain>Ты отвергаешь истину, свет жизни и любовь.</plain>
+        </string>
+        <string>
+            <plain>Сегодня Иисус любовью вечной</plain>
+        </string>
+        <string>
+            <plain>Зовет тебя, а ты уходишь вновь.</plain>
+        </string>
+    </verse>
+</song>

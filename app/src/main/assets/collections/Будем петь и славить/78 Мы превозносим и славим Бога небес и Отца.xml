@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="78" name="Мы превозносим и славим Бога небес и Отца" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Мы превозносим и славим Бога небес и Отца!</plain>
+        </string>
+        <string>
+            <plain>Мы превозносим и славим имя Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Богу великому слава вовеки, слава Тебе и хвала!</plain>
+        </string>
+        <string>
+            <plain>Богу великому слава вовеки, слава Тебе и хвала!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Да будет Господу слава вовеки,</plain>
+        </string>
+        <string>
+            <plain>Да будет Господу слава во веки веков!</plain>
+        </string>
+        <string>
+            <plain>Да будет Господу слава вовеки,</plain>
+        </string>
+        <string>
+            <plain>Царь царей, мира Князь, Бог богов!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

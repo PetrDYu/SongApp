@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="55" name="Господь мое желание" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, мое желание -</plain>
+        </string>
+        <string>
+            <plain>У ног Твоих всегда пребыть</plain>
+        </string>
+        <string>
+            <plain>И в полном послушании</plain>
+        </string>
+        <string>
+            <plain>Тебе Спасителю служить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай в милость совершенную</plain>
+        </string>
+        <string>
+            <plain>Твою мне больше проникать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб жертву драгоценную</plain>
+        </string>
+        <string>
+            <plain>Я мог достойно восхвалять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, помня дар прощения,</plain>
+        </string>
+        <string>
+            <plain>Пребыть мне мерт-вым для себя</plain>
+        </string>
+        <string>
+            <plain>И в слове примирения</plain>
+        </string>
+        <string>
+            <plain>Все дни жить только для Тебя.</plain>
+        </string>
+    </verse>
+</song>

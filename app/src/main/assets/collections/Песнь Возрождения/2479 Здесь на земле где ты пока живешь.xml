@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2479" name="Здесь на земле где ты пока живешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Здесь, на земле, где ты пока живешь,</plain>
+        </string>
+        <string>
+            <plain>Земных себе не собирай сокровищ,</plain>
+        </string>
+        <string>
+            <plain>С собою их на небо не возьмешь,</plain>
+        </string>
+        <string>
+            <plain>А только попусту талант зароешь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Где сокровище твое,</plain>
+        </string>
+        <string>
+            <plain>Там и сердце рядом,</plain>
+        </string>
+        <string>
+            <plain>Каждый чашу сам нальет</plain>
+        </string>
+        <string>
+            <plain>Медом или ядом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тот богател, кто нес свой тяжкий крест,</plain>
+        </string>
+        <string>
+            <plain>И за богатство может быть спокоен,</plain>
+        </string>
+        <string>
+            <plain>Его ни моль, ни ржавчина не съест,</plain>
+        </string>
+        <string>
+            <plain>И даже вор не украдет такое.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Никак нельзя служить двум господам.</plain>
+        </string>
+        <string>
+            <plain>Один в загоне, а другому - Царство.</plain>
+        </string>
+        <string>
+            <plain>Пока живешь -- ты выбираешь сам,</plain>
+        </string>
+        <string>
+            <plain>Кому ты служишь - Богу иль богатству.</plain>
+        </string>
+    </verse>
+</song>

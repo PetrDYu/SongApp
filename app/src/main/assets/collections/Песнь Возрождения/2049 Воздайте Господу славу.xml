@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2049" name="Воздайте Господу славу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воздайте Господу славу,</plain>
+        </string>
+        <string>
+            <plain>Воздайте славу и честь,</plain>
+        </string>
+        <string>
+            <plain>Воздайте Господу славу,</plain>
+        </string>
+        <string>
+            <plain>Он Бог наш, Он был и есть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хвалите Его, все народы,</plain>
+        </string>
+        <string>
+            <plain>Хвалите Бога с небес!</plain>
+        </string>
+        <string>
+            <plain>И солнце, и ветер, и воды,</plain>
+        </string>
+        <string>
+            <plain>И птицы, и звери, и лес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да славят все имя Господне,</plain>
+        </string>
+        <string>
+            <plain>Да радуются о Нём!</plain>
+        </string>
+        <string>
+            <plain>Он мир весь любовию обнял,</plain>
+        </string>
+        <string>
+            <plain>Спасены народов в Нём.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он всё сотворил премудро,</plain>
+        </string>
+        <string>
+            <plain>Земля приносит свой плод,</plain>
+        </string>
+        <string>
+            <plain>Луга просьпаются утром,</plain>
+        </string>
+        <string>
+            <plain>Долины поют у вод.</plain>
+        </string>
+    </verse>
+</song>

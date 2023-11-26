@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="758" name="Хоть крест мой бывает тяжелым" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть крест мой бывает тяжелым,</plain>
+        </string>
+        <string>
+            <plain>Благодать мне сил дает;</plain>
+        </string>
+        <string>
+            <plain>Хоть буря бушует и воет,</plain>
+        </string>
+        <string>
+            <plain>Но вблизи Христос Господь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не больше мой крест, чем благодать.</plain>
+        </string>
+        <string>
+            <plain>Не может и ночь Христа скрывать.</plain>
+        </string>
+        <string>
+            <plain>Я теперь уверен в том,</plain>
+        </string>
+        <string>
+            <plain>Что Христос, когда я в Нем,</plain>
+        </string>
+        <string>
+            <plain>Даст победу над врагом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Колючки кругом не острее,</plain>
+        </string>
+        <string>
+            <plain>Чем шипы в Его венце;</plain>
+        </string>
+        <string>
+            <plain>Страданья мои не сильнее,</plain>
+        </string>
+        <string>
+            <plain>Чем Иисуса на кресте.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любви свет полнее сияет</plain>
+        </string>
+        <string>
+            <plain>На путях, где скорбь и гнет;</plain>
+        </string>
+        <string>
+            <plain>Божественный труд тот свершает,</plain>
+        </string>
+        <string>
+            <plain>Кто страдальцу мир несет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хочу исполнять Его волю,</plain>
+        </string>
+        <string>
+            <plain>Пред лицом Его ходить.</plain>
+        </string>
+        <string>
+            <plain>Меня Он купил Своей кровью</plain>
+        </string>
+        <string>
+            <plain>И от зла меня хранит.</plain>
+        </string>
+    </verse>
+</song>

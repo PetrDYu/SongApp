@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="357" name="Славен наш Бог, сильный спасать" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Славен наш Бог,</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>сильный спасать.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Славен наш Бог, сильный спасать, сильный спасать нас.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Он искупил нас в славу Себе, Он нас избрал, дал нам спасенье.</plain>
+        </string>
+        <string>
+            <plain>Славен наш Бог, сильный спасать, сильный спасать нас!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Славен наш Бог,</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>дающий спасенье.</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Славен наш Бог, дающий спасенье, дающий спасенье нам!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>РА́М АДОНА́Й</plain>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>РА́В ЛЕ-ОШИ́Я</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>РА́М АДОНА́Й</plain>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>РА́В ЛЕ-ОШИ́Я</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>А́КАПАРА́ У́ АСА ЛА́НУ У́ БАХАР БА́НУ И́ЦИЛЬ ОТА́НУ</plain>
+        </string>
+        <string>
+            <plain>РА́М АДОНА́Й</plain>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>РА́В ЛЕ-ОШИ́Я</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>РА́М АДОНА́Й</plain>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>НОТЭ́Н ЭТ ЙЕШУ́А</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>РА́М АДОНА́Й НОТЭ́Н ЭТ ЙЕШУ́А НОТЭ́Н ЭТ ЙЕШУ́АТО́</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>А́КАПАРА́ У́ АСА ЛА́НУ У́ БАХАР БА́НУ И́ЦИЛЬ ОТА́НУ</plain>
+        </string>
+        <string>
+            <plain>РА́М АДОНА́Й НОТЭ́Н ЭТ ЙЕШУ́А НОТЭ́Н ЭТ ЙЕШУ́АТО́</plain>
+        </string>
+    </verse>
+</song>

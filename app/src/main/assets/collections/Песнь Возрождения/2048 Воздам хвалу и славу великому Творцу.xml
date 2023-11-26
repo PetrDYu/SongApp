@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2048" name="Воздам хвалу и славу великому Творцу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воздам хвалу и славу великому Творцу,</plain>
+        </string>
+        <string>
+            <plain>Ему всегда душа моя открыта,</plain>
+        </string>
+        <string>
+            <plain>Не скрою тайны сердца и Ему все расскажу,</plain>
+        </string>
+        <string>
+            <plain>Прекрасная сегодня Суламита.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Одеждой драгоценного покрьл тебя Отец,</plain>
+        </string>
+        <string>
+            <plain>Как дикая маслина ты привита,</plain>
+        </string>
+        <string>
+            <plain>На голову возложенный из золота венец,</plain>
+        </string>
+        <string>
+            <plain>Ты названа невестой, Суламита.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда ты в испытаньях переплавлена была</plain>
+        </string>
+        <string>
+            <plain>И бане возрождения омыта,</plain>
+        </string>
+        <string>
+            <plain>Блаженство заслужила ты, прекрасная жена,</plain>
+        </string>
+        <string>
+            <plain>Жених идет навстречу, Суламита.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот руки протянул Он, чтобы принять навсегда</plain>
+        </string>
+        <string>
+            <plain>Тебя, что Его Кровию омыта,</plain>
+        </string>
+        <string>
+            <plain>Сиянье Его лика - восходящая звезда,</plain>
+        </string>
+        <string>
+            <plain>Так будь звездою вечно, Суламита.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Прекрасная невеста, в хороводе ты стоишь,</plain>
+        </string>
+        <string>
+            <plain>Печаль твоя и скорбь давно забыта,</plain>
+        </string>
+        <string>
+            <plain>Зарей на небосводе ярче солнца ты горишь,</plain>
+        </string>
+        <string>
+            <plain>Ты - Церковь Иисуса - Суламита!</plain>
+        </string>
+    </chorus>
+</song>

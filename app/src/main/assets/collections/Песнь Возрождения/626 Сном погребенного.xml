@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="626" name="Сном погребенного" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сном погребенного</plain>
+        </string>
+        <string>
+            <plain>Спал мой Спаситель;</plain>
+        </string>
+        <string>
+            <plain>Дня предреченного</plain>
+        </string>
+        <string>
+            <plain>Ждал мой Господь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Смерть победив, Он воскрес!</plain>
+        </string>
+        <string>
+            <plain>Посрамивши всех врагов небес,</plain>
+        </string>
+        <string>
+            <plain>Он восстал, из царства мрака вызвал свет;</plain>
+        </string>
+        <string>
+            <plain>Царству славы вечному предела нет.</plain>
+        </string>
+        <string>
+            <plain>Он воскрес! Он воскрес!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Он воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тщетно хранят они</plain>
+        </string>
+        <string>
+            <plain>Ложе Христово,</plain>
+        </string>
+        <string>
+            <plain>Гроб опечатали</plain>
+        </string>
+        <string>
+            <plain>С телом Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Смерть побеждается</plain>
+        </string>
+        <string>
+            <plain>Жертвой своею,</plain>
+        </string>
+        <string>
+            <plain>Плен расторгается</plain>
+        </string>
+        <string>
+            <plain>Кровью Христа.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="375" name="Ручки для Христа трудиться," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Ручки – для Христа трудиться,</plain>
+        </string>
+        <string>
+            <plain>Ножки – чтоб за Ним ходить,</plain>
+        </string>
+        <string>
+            <plain>Глазки – видеть, как Он чуден,</plain>
+        </string>
+        <string>
+            <plain>Ротик – чтоб Его хвалить,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ушки – слышать, как Он учит,</plain>
+        </string>
+        <string>
+            <plain>Сердце – дать простор Ему.</plain>
+        </string>
+        <string>
+            <plain>Все отдам Тебе, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Весь Тебе принадлежу.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

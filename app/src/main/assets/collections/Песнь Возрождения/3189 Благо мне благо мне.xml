@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3189" name="Благо мне благо мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благо мне, благо мне,</plain>
+        </string>
+        <string>
+            <plain>если Бог ведёт меня,</plain>
+        </string>
+        <string>
+            <plain>в милости Своей храня.</plain>
+        </string>
+        <string>
+            <plain>Благо мне, благо мне, благо мне!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Благо мне, благо мне!</plain>
+        </string>
+        <string>
+            <plain>Я иду на том пути,</plain>
+        </string>
+        <string>
+            <plain>где Спаситель впереди.</plain>
+        </string>
+        <string>
+            <plain>Благо мне, благо мне, благо мне!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благо мне, благо мне!</plain>
+        </string>
+        <string>
+            <plain>Не сравнить всю скорбь в сердцах</plain>
+        </string>
+        <string>
+            <plain>с вечной славой в небесах.</plain>
+        </string>
+        <string>
+            <plain>Благо мне, благо мне, благо мне!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Благо мне, благо мне!</plain>
+        </string>
+        <string>
+            <plain>Там в обители Отца</plain>
+        </string>
+        <string>
+            <plain>удостоюсь я венца.</plain>
+        </string>
+        <string>
+            <plain>Благо мне, благо мне, благо мне!</plain>
+        </string>
+    </verse>
+</song>

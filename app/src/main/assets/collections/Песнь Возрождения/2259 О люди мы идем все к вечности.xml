@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2259" name="О люди мы идем все к вечности" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О люди, мы идем все к вечности</plain>
+        </string>
+        <string>
+            <plain>И, чтоб путь не был одинок,</plain>
+        </string>
+        <string>
+            <plain>Не оставайтесь бессердечными,</plain>
+        </string>
+        <string>
+            <plain>Любите, как велел вам Бог.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Смотрите, стаи лебединые</plain>
+        </string>
+        <string>
+            <plain>Несутся в синих небесах.</plain>
+        </string>
+        <string>
+            <plain>Роднит нас всех любовь неизмеримая,</plain>
+        </string>
+        <string>
+            <plain>Как лебедей тех в облаках.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет одиноких в белой стае той,</plain>
+        </string>
+        <string>
+            <plain>Но каждый кем-нибудь любим.</plain>
+        </string>
+        <string>
+            <plain>Желаем, люди, вам любви такой,</plain>
+        </string>
+        <string>
+            <plain>Чтобы никто не был один,</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И пусть любовь неутолимая</plain>
+        </string>
+        <string>
+            <plain>Такая будет, как у них.</plain>
+        </string>
+        <string>
+            <plain>Чтоб даже смерть непоправимая</plain>
+        </string>
+        <string>
+            <plain>Пришла бы сразу на двоих.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1153" name="Когда мой друг ты брата огорчил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда, мой друг, ты брата огорчил,</plain>
+        </string>
+        <string>
+            <plain>Сразив его бессмысленным укором,</plain>
+        </string>
+        <string>
+            <plain>Взамен любви печаль и горечь влил</plain>
+        </string>
+        <string>
+            <plain>В тайник души его обидным словом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Спеши сказать сердечное "прости".</plain>
+        </string>
+        <string>
+            <plain>Пока в нем жизнь не скрыла ночь немая,</plain>
+        </string>
+        <string>
+            <plain>И свет горит на жизненном пути,</plain>
+        </string>
+        <string>
+            <plain>И жарких чувств полна душа живая.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но если он без мира поспешит</plain>
+        </string>
+        <string>
+            <plain>В страну теней, тобою оскорбленный.</plain>
+        </string>
+        <string>
+            <plain>Ничто тогда, мой друг, не примирит,</plain>
+        </string>
+        <string>
+            <plain>С самим собой твой бедный дух смущенный.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Плиту могил нам не прожечь слезой,</plain>
+        </string>
+        <string>
+            <plain>И жизнь полна, быть может, сожаленья,</plain>
+        </string>
+        <string>
+            <plain>Не может дать из сени гробовой</plain>
+        </string>
+        <string>
+            <plain>В ответ тебе желанных слез прощенья.</plain>
+        </string>
+    </verse>
+</song>

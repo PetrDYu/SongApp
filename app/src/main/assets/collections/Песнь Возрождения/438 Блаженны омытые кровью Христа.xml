@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="438" name="Блаженны омытые кровью Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Блаженны омытые кровью Христа,</plain>
+        </string>
+        <string>
+            <plain>Нашедшие мир у подножья креста;</plain>
+        </string>
+        <string>
+            <plain>От язвы греха я избавлен Тобой,</plain>
+        </string>
+        <string>
+            <plain>У ног Твоих вечный нашел я покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспойте любовь Христа</plain>
+        </string>
+        <string>
+            <plain>Неизреченную,</plain>
+        </string>
+        <string>
+            <plain>Спасать всесильную</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Блаженство искупленных, мой Ты, Христос,</plain>
+        </string>
+        <string>
+            <plain>Не знаю я мук осужденья и слез;</plain>
+        </string>
+        <string>
+            <plain>Спасенный Тобою, Тебе я пою,</plain>
+        </string>
+        <string>
+            <plain>Любовь бесконечную, благость Твою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Блаженны спасенные смертью Его,</plain>
+        </string>
+        <string>
+            <plain>Все слезы отер Он с лица моего;</plain>
+        </string>
+        <string>
+            <plain>Страданья души моей Он исцелил</plain>
+        </string>
+        <string>
+            <plain>И сердце усталое Он оживил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь мой распятый, мой Царь и мой Бог!</plain>
+        </string>
+        <string>
+            <plain>О, если б служить Тебе верно я мог!</plain>
+        </string>
+        <string>
+            <plain>В час смерти Ты будешь победой моей,</plain>
+        </string>
+        <string>
+            <plain>Поддержишь любовью всесильной Твоей.</plain>
+        </string>
+        <string>
+            <plain>.</plain>
+        </string>
+    </verse>
+</song>

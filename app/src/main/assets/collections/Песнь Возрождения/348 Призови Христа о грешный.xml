@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="348" name="Призови Христа о грешный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Призови Христа, о грешный</plain>
+        </string>
+        <string>
+            <plain>И несчастный человек!</plain>
+        </string>
+        <string>
+            <plain>Он придет к тебе поспешно</plain>
+        </string>
+        <string>
+            <plain>И Свой мир пошлет вовек.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Наш Христос дает сердцам</plain>
+        </string>
+        <string>
+            <plain>Здесь надежду, радость там.</plain>
+        </string>
+        <string>
+            <plain>Наш Христос дает сердцам</plain>
+        </string>
+        <string>
+            <plain>Здесь надежду, радость там.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Имя призови Христово,</plain>
+        </string>
+        <string>
+            <plain>Как дитя отца зовет,</plain>
+        </string>
+        <string>
+            <plain>И Его святое слово</plain>
+        </string>
+        <string>
+            <plain>От погибели спасет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дивно имя Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Сладко сердцу моему;</plain>
+        </string>
+        <string>
+            <plain>Я от зла лишь Им креплюся,</plain>
+        </string>
+        <string>
+            <plain>Проходя земную тьму.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вот при имени Христовом</plain>
+        </string>
+        <string>
+            <plain>В час желанный мы падем</plain>
+        </string>
+        <string>
+            <plain>И на небе славном, новом</plain>
+        </string>
+        <string>
+            <plain>Возгласим Его царем.</plain>
+        </string>
+    </verse>
+</song>

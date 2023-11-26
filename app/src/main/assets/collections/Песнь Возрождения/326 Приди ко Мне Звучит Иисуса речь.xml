@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="326" name="Приди ко Мне Звучит Иисуса речь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди ко Мне! - Звучит Иисуса речь;</plain>
+        </string>
+        <string>
+            <plain>Он хочет сердце радостью зажечь.</plain>
+        </string>
+        <string>
+            <plain>О сердце! Ты подавлено тоской?</plain>
+        </string>
+        <string>
+            <plain>"Приди ко Мне! Я дам тебе покой!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди ко Мне!</plain>
+        </string>
+        <string>
+            <plain>Я дам покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И ты, душа, усталая в борьбе,</plain>
+        </string>
+        <string>
+            <plain>Он призывает и тебя к Себе;</plain>
+        </string>
+        <string>
+            <plain>Пройдут сомненья и печаль, как пар:</plain>
+        </string>
+        <string>
+            <plain>"Приди ко Мне! Дам мир тебе Я в дар".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И ты, бедняк, терзаемый грехом,</plain>
+        </string>
+        <string>
+            <plain>Пред смертию охваченный огнем;</plain>
+        </string>
+        <string>
+            <plain>С кончиной дней придет конец скорбям.</plain>
+        </string>
+        <string>
+            <plain>"Приди ко Мне! И жизнь тебе Я дам!"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жизнь, мир, покой - бессмертия цветы –</plain>
+        </string>
+        <string>
+            <plain>Даются нам из Божьей полноты;</plain>
+        </string>
+        <string>
+            <plain>Теперь и здесь дана нам часть тех благ,</plain>
+        </string>
+        <string>
+            <plain>Что ждут нас там за гробом в небесах.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3009" name="О мой Иисус Ты лучший друг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О мой Иисус, Ты - лучший друг!</plain>
+        </string>
+        <string>
+            <plain>Как Ты, другого нет вокруг.</plain>
+        </string>
+        <string>
+            <plain>Ты хранишь меня всегда</plain>
+        </string>
+        <string>
+            <plain>здесь от суеты и зла.</plain>
+        </string>
+        <string>
+            <plain>Вечная Тебе хвала,</plain>
+        </string>
+        <string>
+            <plain>благ Ты, мой Иисус!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благ Ты ко мне Иисус! (Иисус!)</plain>
+        </string>
+        <string>
+            <plain>Благ Ты ко мне Иисус! (Иисус!)</plain>
+        </string>
+        <string>
+            <plain>Бережёт Твоя рука</plain>
+        </string>
+        <string>
+            <plain>от опасности и зла.</plain>
+        </string>
+        <string>
+            <plain>Ты благословишь меня.</plain>
+        </string>
+        <string>
+            <plain>Благ Ты, мой Иисус!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О мой Иисус, Ты благ и мил,</plain>
+        </string>
+        <string>
+            <plain>от зла меня освободил.</plain>
+        </string>
+        <string>
+            <plain>Ныне благодать Твоя</plain>
+        </string>
+        <string>
+            <plain>переполнила меня,</plain>
+        </string>
+        <string>
+            <plain>и в любви покоюсь я.</plain>
+        </string>
+        <string>
+            <plain>Благ Ты, мой Иисус!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О мой Иисус, Ты дорог мне,</plain>
+        </string>
+        <string>
+            <plain>сердце тянется к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Хоть я огорчал Тебя,</plain>
+        </string>
+        <string>
+            <plain>всё ж Ты возлюбил меня</plain>
+        </string>
+        <string>
+            <plain>и открыл мне небеса.</plain>
+        </string>
+        <string>
+            <plain>Благ Ты, мой Иисус!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О мой Иисус, Ты добр и благ,</plain>
+        </string>
+        <string>
+            <plain>Ты со мной - не страшен враг.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Для меня</plain>
+        </string>
+        <string>
+            <plain>Ты дороже золота.</plain>
+        </string>
+        <string>
+            <plain>Нет здесь жизни без Тебя.</plain>
+        </string>
+        <string>
+            <plain>Благ Ты, мой Иисус!</plain>
+        </string>
+    </verse>
+</song>

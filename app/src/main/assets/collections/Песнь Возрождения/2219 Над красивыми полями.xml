@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2219" name="Над красивыми полями" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Над красивыми полями,</plain>
+        </string>
+        <string>
+            <plain>Над зелёными лугами</plain>
+        </string>
+        <string>
+            <plain>Песнь несётся до небес:</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это праздник Пасхи новой,</plain>
+        </string>
+        <string>
+            <plain>Праздник радости Христовой.</plain>
+        </string>
+        <string>
+            <plain>Летят с хвалою на устах</plain>
+        </string>
+        <string>
+            <plain>Ангелы там в небесах.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вслед за ангельской хвалой</plain>
+        </string>
+        <string>
+            <plain>Шлёт эфир нам голубой</plain>
+        </string>
+        <string>
+            <plain>Честь Христу и восклицанье</plain>
+        </string>
+        <string>
+            <plain>От молитвенных собраний.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так и вы, друзья родные,</plain>
+        </string>
+        <string>
+            <plain>Братья, сёстры дорогие,</plain>
+        </string>
+        <string>
+            <plain>Вознесём Творцу хваленье</plain>
+        </string>
+        <string>
+            <plain>За любовь и воскресение.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1609" name="Иисус Ты очень нужен мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, Ты очень нужен мне,</plain>
+        </string>
+        <string>
+            <plain>Нет Тебя - и исчезает радость.</plain>
+        </string>
+        <string>
+            <plain>Я согласен крова не иметь.</plain>
+        </string>
+        <string>
+            <plain>Только б Ты был постоянно рядом.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус, Ты мне необходим.</plain>
+        </string>
+        <string>
+            <plain>Извлекаю из скорбей уроки.</plain>
+        </string>
+        <string>
+            <plain>Без Тебя немыслимо ходить</plain>
+        </string>
+        <string>
+            <plain>По неровным жизненным дорогам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире одиноко и темно.</plain>
+        </string>
+        <string>
+            <plain>Терпит бедствие земная дружба.</plain>
+        </string>
+        <string>
+            <plain>Оставайся, Иисус, со мной.</plain>
+        </string>
+        <string>
+            <plain>Ты мне нужен, очень-очень нужен.</plain>
+        </string>
+    </verse>
+</song>

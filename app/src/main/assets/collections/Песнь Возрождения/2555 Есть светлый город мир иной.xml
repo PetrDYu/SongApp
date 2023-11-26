@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2555" name="Есть светлый город мир иной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть светлый город, мир иной,</plain>
+        </string>
+        <string>
+            <plain>Где слез никто не льет,</plain>
+        </string>
+        <string>
+            <plain>Там радость вечная царит,</plain>
+        </string>
+        <string>
+            <plain>Хор ангелов поет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сердце жаждет освобожденья,</plain>
+        </string>
+        <string>
+            <plain>Туда стремятся все помышленья,</plain>
+        </string>
+        <string>
+            <plain>Сердце рвется вдаль блаженства,</plain>
+        </string>
+        <string>
+            <plain>Чтоб узреть лицо Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Велик и дивен город тот,</plain>
+        </string>
+        <string>
+            <plain>Счастлив Его народ,</plain>
+        </string>
+        <string>
+            <plain>Греха, вражды не знает он,</plain>
+        </string>
+        <string>
+            <plain>Свободен от невзгод.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все радости там без конца</plain>
+        </string>
+        <string>
+            <plain>Живущим в мире том,</plain>
+        </string>
+        <string>
+            <plain>Не будет там никто стонать</plain>
+        </string>
+        <string>
+            <plain>Под игом и грехом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В чертог Небесный те войдут,</plain>
+        </string>
+        <string>
+            <plain>Кого Христос простил,</plain>
+        </string>
+        <string>
+            <plain>Кого Он спас и оправдал</plain>
+        </string>
+        <string>
+            <plain>И Кровию омыл.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В обьятиях Своей любви</plain>
+        </string>
+        <string>
+            <plain>Он их к Себе возьмет,</plain>
+        </string>
+        <string>
+            <plain>Все слезы с плачущих очей</plain>
+        </string>
+        <string>
+            <plain>Спаситель Сам отрет.</plain>
+        </string>
+    </verse>
+</song>

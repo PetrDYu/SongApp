@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="451" name="Мой Отче, в Твои руки Я дух Свой предаю" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Мой Отче, в Твои руки Я дух Свой предаю.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>In manus tuas, Pater, commendo spiritum meum.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

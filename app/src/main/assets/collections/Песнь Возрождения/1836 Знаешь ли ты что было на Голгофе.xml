@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1836" name="Знаешь ли ты что было на Голгофе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знаешь ли ты, что было на Голгофе,</plain>
+        </string>
+        <string>
+            <plain>Знаешь ли ты, Кто крест туда вознес?</plain>
+        </string>
+        <string>
+            <plain>Кто умирал за тебя на той Голгофе,</plain>
+        </string>
+        <string>
+            <plain>Кто для тебя спасение принес?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Знаешь ли ты, что было в Гефсимании,</plain>
+        </string>
+        <string>
+            <plain>Слышал, кто плакал горько за тебя?</plain>
+        </string>
+        <string>
+            <plain>Кто на кресте, в тех мученьях умирая,</plain>
+        </string>
+        <string>
+            <plain>Грех победил навеки, навсегда?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слышишь, мой друг, ведь Он к тебе взывает!</plain>
+        </string>
+        <string>
+            <plain>Слышишь, мой брат, - Он жизнь за нас отдал!</plain>
+        </string>
+        <string>
+            <plain>Если б и ты спасение принял!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скоро ль, о, друг, оставишь мир неверья,</plain>
+        </string>
+        <string>
+            <plain>Скоро ль к Его святым ногам падешь?!</plain>
+        </string>
+        <string>
+            <plain>Не опоздай прийти к Нему с доверьем</plain>
+        </string>
+        <string>
+            <plain>- Мир со Христом и вечность обретешь!</plain>
+        </string>
+    </verse>
+</song>

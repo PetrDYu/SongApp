@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="10" name="Слава, слава, слава в вышних Богу," canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Слава, слава, слава в вышних Богу,</plain>
+        </string>
+        <string>
+            <plain>Слава, слава, аллилуйя, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Gloria, gloria in excelsis Deo,</plain>
+        </string>
+        <string>
+            <plain>gloria, gloria, alleluia, alleluia!</plain>
+        </string>
+    </verse>
+</song>

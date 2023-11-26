@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="119" name="Верность Твоя велика о мой Боже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верность Твоя велика, о мой Боже!</plain>
+        </string>
+        <string>
+            <plain>Мудрость и милость Ты дивно явил.</plain>
+        </string>
+        <string>
+            <plain>Ты - неизменен, от века Ты тот же,</plain>
+        </string>
+        <string>
+            <plain>Полн состраданья и Отчей любви.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верность великую! Верность великую!</plain>
+        </string>
+        <string>
+            <plain>Утро за утром являет Господь:</plain>
+        </string>
+        <string>
+            <plain>Все, что мне нужно для жизни, дает Он.</plain>
+        </string>
+        <string>
+            <plain>Верность великая, Господь, Твоя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лето и зиму, посевы и жатву,</plain>
+        </string>
+        <string>
+            <plain>Солнце и звезды, погоду и дождь, -</plain>
+        </string>
+        <string>
+            <plain>Ты учредил; нам слова их понятны:</plain>
+        </string>
+        <string>
+            <plain>Всем управляешь Ты, все нам даешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир постоянный, грехов отпущенье,</plain>
+        </string>
+        <string>
+            <plain>Дивную помощь в различных скорбях,</plain>
+        </string>
+        <string>
+            <plain>Стойкость в борьбе и надежду спасенья –</plain>
+        </string>
+        <string>
+            <plain>Вечно дарует нам верность Твоя.</plain>
+        </string>
+    </verse>
+</song>

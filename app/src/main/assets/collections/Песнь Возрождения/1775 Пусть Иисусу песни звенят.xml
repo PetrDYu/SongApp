@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1775" name="Пусть Иисусу песни звенят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть Иисусу песни звенят</plain>
+        </string>
+        <string>
+            <plain>И возвещают о том,</plain>
+        </string>
+        <string>
+            <plain>Что спас Христос тебя и меня.</plain>
+        </string>
+        <string>
+            <plain>Как хорошо быть с Христом!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юность Иисусу мы отдаем,</plain>
+        </string>
+        <string>
+            <plain>Гимны хвалы Ему воспоем!</plain>
+        </string>
+        <string>
+            <plain>Стройно поет искупленных хор,</plain>
+        </string>
+        <string>
+            <plain>Радостью светится взор.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Юность, как птица, ранней весной</plain>
+        </string>
+        <string>
+            <plain>К нам прилетит невзначай</plain>
+        </string>
+        <string>
+            <plain>И запоет о жизни иной...</plain>
+        </string>
+        <string>
+            <plain>Милое детство, прощай!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>3 В юности много жизненных сил,</plain>
+        </string>
+        <string>
+            <plain>Но быстротечны года.</plain>
+        </string>
+        <string>
+            <plain>Тот, кто Христу ее посвятил,</plain>
+        </string>
+        <string>
+            <plain>Не сожалел никогда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Юных дней жизни лучший букет</plain>
+        </string>
+        <string>
+            <plain>Господу ты посвяти.</plain>
+        </string>
+        <string>
+            <plain>Без Иисуса радости нет,</plain>
+        </string>
+        <string>
+            <plain>Счастье в Нем сможешь найти.</plain>
+        </string>
+    </verse>
+</song>

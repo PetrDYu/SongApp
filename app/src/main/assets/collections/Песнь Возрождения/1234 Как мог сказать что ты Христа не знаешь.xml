@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1234" name="Как мог сказать что ты Христа не знаешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как мог сказать, что ты Христа не знаешь?</plain>
+        </string>
+        <string>
+            <plain>Как мог сказать, что не видал Его?</plain>
+        </string>
+        <string>
+            <plain>Любви Его совсем не замечаешь?</plain>
+        </string>
+        <string>
+            <plain>О, ты не понял, не искал Его?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Когда грешил и падал непрестанно,</plain>
+        </string>
+        <string>
+            <plain>Христос смотрел и плакал в тишине.</plain>
+        </string>
+        <string>
+            <plain>Ты гвозди забивал в живые раны,</plain>
+        </string>
+        <string>
+            <plain>Забыв о Боге, истине, добре.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, если б ты, склонясь у изголовья,</plain>
+        </string>
+        <string>
+            <plain>Приняв Христа, молился всей душой.</plain>
+        </string>
+        <string>
+            <plain>Ты б был тогда омыт Христовой Кровью,</plain>
+        </string>
+        <string>
+            <plain>Тогда б ты был с Христом, а Он - с тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, если б ты искал Его упорно,</plain>
+        </string>
+        <string>
+            <plain>Как счастья ищут. Ты б Его нашел.</plain>
+        </string>
+        <string>
+            <plain>И жизнь свою не прожил бы позорно,</plain>
+        </string>
+        <string>
+            <plain>Он Сам к тебе, как свет и жизнь, вошел.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="110" name="Знаешь ли ты сколько ясных" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знаешь ли ты, сколько ясных</plain>
+        </string>
+        <string>
+            <plain>Звезд сияет в небесах?</plain>
+        </string>
+        <string>
+            <plain>Сколько облаков прекрасных</plain>
+        </string>
+        <string>
+            <plain>Вдаль несется на ветрах?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог Господь число их знает,</plain>
+        </string>
+        <string>
+            <plain>Ни одной не потеряет:</plain>
+        </string>
+        <string>
+            <plain>Из громадного числа.</plain>
+        </string>
+        <string>
+            <plain>Из громадного числа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаешь ли ты, сколько быстрых</plain>
+        </string>
+        <string>
+            <plain>Рыбок плещется в волнах?</plain>
+        </string>
+        <string>
+            <plain>Сколько мотыльков пушистых</plain>
+        </string>
+        <string>
+            <plain>Пролетает на полях?</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Бог назвал их именами,</plain>
+        </string>
+        <string>
+            <plain>Чтобы жили вместе с нами,</plain>
+        </string>
+        <string>
+            <plain>Чтобы радовали нас.</plain>
+        </string>
+        <string>
+            <plain>Чтобы радовали нас.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Знаешь ли ты, сколько разных</plain>
+        </string>
+        <string>
+            <plain>На земле живет людей?</plain>
+        </string>
+        <string>
+            <plain>Сколько грешников несчастных</plain>
+        </string>
+        <string>
+            <plain>Гибнет в праздности своей?</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Божий взор на всех взирает,</plain>
+        </string>
+        <string>
+            <plain>И, где грешник погибает,</plain>
+        </string>
+        <string>
+            <plain>Бог к нему в любви спешит.</plain>
+        </string>
+        <string>
+            <plain>Бог к нему в любви спешит.</plain>
+        </string>
+    </chorus>
+</song>

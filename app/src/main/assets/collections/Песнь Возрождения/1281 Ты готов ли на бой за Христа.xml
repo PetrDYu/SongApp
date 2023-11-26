@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1281" name="Ты готов ли на бой за Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты готов ли на бой за Христа?</plain>
+        </string>
+        <string>
+            <plain>В благодатный тот край дорогой,</plain>
+        </string>
+        <string>
+            <plain>Где живые источники вод.</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель с любовью зовет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За Христа,</plain>
+        </string>
+        <string>
+            <plain>За Христа,</plain>
+        </string>
+        <string>
+            <plain>Ты готов ли на бой за Христа?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Враг силен и владеет давно</plain>
+        </string>
+        <string>
+            <plain>Человека порочной душой.</plain>
+        </string>
+        <string>
+            <plain>И несчастные гибнут вдали.</plain>
+        </string>
+        <string>
+            <plain>Без спасенья, без Божьей любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так веди же меня каждый день.</plain>
+        </string>
+        <string>
+            <plain>Чтоб погибший узнал о Тебе,</plain>
+        </string>
+        <string>
+            <plain>Чтобы враг, побежденный Тобой,</plain>
+        </string>
+        <string>
+            <plain>Не мешал бы войти в Твой покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За тебя я на битву готов.</plain>
+        </string>
+        <string>
+            <plain>Вижу я, как нужда велика,</plain>
+        </string>
+        <string>
+            <plain>Вижу гибнущий жалкий народ,</plain>
+        </string>
+        <string>
+            <plain>От греха избавленье он ждет.</plain>
+        </string>
+    </verse>
+</song>

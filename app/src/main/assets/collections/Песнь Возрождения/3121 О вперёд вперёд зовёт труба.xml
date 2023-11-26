@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3121" name="О вперёд вперёд зовёт труба" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>«О вперёд, вперёд!» - зовёт труба.</plain>
+        </string>
+        <string>
+            <plain>Устремляйтесь выше в небеса!</plain>
+        </string>
+        <string>
+            <plain>Лишь вперёд до славного конца:</plain>
+        </string>
+        <string>
+            <plain>сражён враг будет.</plain>
+        </string>
+        <string>
+            <plain>Стойте за Христа!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы под предводительством Господним</plain>
+        </string>
+        <string>
+            <plain>здесь ведём борьбу победно.</plain>
+        </string>
+        <string>
+            <plain>До победы над врагом последним</plain>
+        </string>
+        <string>
+            <plain>стойте за Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О вперёд, не бойся никогда!</plain>
+        </string>
+        <string>
+            <plain>Смело, брат мой, побеждай врага.</plain>
+        </string>
+        <string>
+            <plain>Нет сильнее нашего Вождя.</plain>
+        </string>
+        <string>
+            <plain>Он даст победу.</plain>
+        </string>
+        <string>
+            <plain>Стойте за Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О вперёд! Гоните прочь врага</plain>
+        </string>
+        <string>
+            <plain>остриём духовного меча.</plain>
+        </string>
+        <string>
+            <plain>Скоро в райские войдём врата</plain>
+        </string>
+        <string>
+            <plain>- не сомневайтесь,</plain>
+        </string>
+        <string>
+            <plain>Стойте за Христа!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О вперёд к сиянию венца,</plain>
+        </string>
+        <string>
+            <plain>приглашает Он нас в небеса.</plain>
+        </string>
+        <string>
+            <plain>Будьте твёрды, братья до конца.</plain>
+        </string>
+        <string>
+            <plain>Победа - наша.</plain>
+        </string>
+        <string>
+            <plain>Стойте за Христа!</plain>
+        </string>
+    </verse>
+</song>

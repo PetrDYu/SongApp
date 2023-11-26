@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="892" name="Для тебя эту песню пою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Для тебя эту песню пою,</plain>
+        </string>
+        <string>
+            <plain>Для тебя, мой хороший, родной,</plain>
+        </string>
+        <string>
+            <plain>Чтобы вместе с тобой быть в раю,</plain>
+        </string>
+        <string>
+            <plain>В моей Родине дивной, святой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты тоскуешь, грустишь о любви,</plain>
+        </string>
+        <string>
+            <plain>Хочешь искренней дружбы найти.</plain>
+        </string>
+        <string>
+            <plain>В мире нет этой дружбы, пойми,</plain>
+        </string>
+        <string>
+            <plain>Христа другом своим назови.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты печален, тоскуешь порой,</plain>
+        </string>
+        <string>
+            <plain>Хочешь счастие в мире найти.</plain>
+        </string>
+        <string>
+            <plain>В мире жизнь, может быть, хороша,</plain>
+        </string>
+        <string>
+            <plain>Но ведь Бога нам в ней не найти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не блуждай, милый друг, не блуждай!</plain>
+        </string>
+        <string>
+            <plain>Этот призыв звучит для тебя:</plain>
+        </string>
+        <string>
+            <plain>Выбирай, милый друг, выбирай</plain>
+        </string>
+        <string>
+            <plain>- Есть две вечности: ад или рай.</plain>
+        </string>
+    </verse>
+</song>

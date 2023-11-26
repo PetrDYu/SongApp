@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2940" name="Воскликните Богу вся земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воскликните Богу, вся земля!</plain>
+        </string>
+        <string>
+            <plain>Служите, Господа хваля!</plain>
+        </string>
+        <string>
+            <plain>Идите с восклицанием</plain>
+        </string>
+        <string>
+            <plain>пред лицо Его, с пением.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воскликните Богу, вся земля!</plain>
+        </string>
+        <string>
+            <plain>Достоин Он восхваления.</plain>
+        </string>
+        <string>
+            <plain>Хвалу и честь мы вознесём:</plain>
+        </string>
+        <string>
+            <plain>победу мы имеем в Нём!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Познайте, что Бог - Господь для всех,</plain>
+        </string>
+        <string>
+            <plain>кто б ни был ты, о человек!</plain>
+        </string>
+        <string>
+            <plain>Он сотворил нас. Мы Его,</plain>
+        </string>
+        <string>
+            <plain>да, мы овцы паствы Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Входите в Его врата с хвалой,</plain>
+        </string>
+        <string>
+            <plain>со славословьем и мольбой;</plain>
+        </string>
+        <string>
+            <plain>восславьте имя вы Его!</plain>
+        </string>
+        <string>
+            <plain>Славьте Господа своего!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как благ наш Господь, хвала Ему!</plain>
+        </string>
+        <string>
+            <plain>Богат вовек Он милостью,</plain>
+        </string>
+        <string>
+            <plain>и правда Его в род и род.</plain>
+        </string>
+        <string>
+            <plain>Счастлив вечно Его народ!</plain>
+        </string>
+    </verse>
+</song>

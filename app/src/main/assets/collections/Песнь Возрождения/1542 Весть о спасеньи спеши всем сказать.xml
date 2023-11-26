@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1542" name="Весть о спасеньи спеши всем сказать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Весть о спасеньи спеши всем сказать</plain>
+        </string>
+        <string>
+            <plain>Тем, кто средь моря начал утопать.</plain>
+        </string>
+        <string>
+            <plain>Может, то брат в этой смертной тоске</plain>
+        </string>
+        <string>
+            <plain>Жаждет спасенье найти во Христе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойдем спасать их,</plain>
+        </string>
+        <string>
+            <plain>Пойдем с надеждой.</plain>
+        </string>
+        <string>
+            <plain>Больше нам медлить нельзя.</plain>
+        </string>
+        <string>
+            <plain>Пойдем спасать их.</plain>
+        </string>
+        <string>
+            <plain>Вдруг будет поздно.</plain>
+        </string>
+        <string>
+            <plain>Поздно навеки тогда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чем только можешь спеши же спасать.</plain>
+        </string>
+        <string>
+            <plain>Что ты так медлишь, чего еще ждать?</plain>
+        </string>
+        <string>
+            <plain>Взглянь, он в борении с сильной грозой.</plain>
+        </string>
+        <string>
+            <plain>Тьма надвигается смертной волной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Братья, спешите ту весть понести,</plain>
+        </string>
+        <string>
+            <plain>- Грешники гибнут от Бога вдали.</plain>
+        </string>
+        <string>
+            <plain>Грех так силен, искушенье везде,</plain>
+        </string>
+        <string>
+            <plain>Вы им скажите о дивном Христе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скоро прервется для наших дней нить,</plain>
+        </string>
+        <string>
+            <plain>Будем немедля к тонувшим спешить.</plain>
+        </string>
+        <string>
+            <plain>Скоро и мы, проходя Иордан,</plain>
+        </string>
+        <string>
+            <plain>Руки протянем к Спасителю там.</plain>
+        </string>
+    </verse>
+</song>

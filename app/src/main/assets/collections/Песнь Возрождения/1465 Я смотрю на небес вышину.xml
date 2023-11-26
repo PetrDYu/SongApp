@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1465" name="Я смотрю на небес вышину" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я смотрю на небес вышину</plain>
+        </string>
+        <string>
+            <plain>И на чудную их красоту;</plain>
+        </string>
+        <string>
+            <plain>Вижу, как пробуждается мир,</plain>
+        </string>
+        <string>
+            <plain>И как будто в природе пир.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ныне радостный день торжества,</plain>
+        </string>
+        <string>
+            <plain>И природа ликует вся.</plain>
+        </string>
+        <string>
+            <plain>Пусть несется хвала до небес.</plain>
+        </string>
+        <string>
+            <plain>Ныне наш Спаситель воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Солнце тоже играет в лучах,</plain>
+        </string>
+        <string>
+            <plain>Звонко птицы поют в небесах.</plain>
+        </string>
+        <string>
+            <plain>Все ликует и славит Творца,</plain>
+        </string>
+        <string>
+            <plain>Пусть и наши ликуют сердца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вместе с семьями нашими мы</plain>
+        </string>
+        <string>
+            <plain>Тоже Богу хвалу вознесем.</plain>
+        </string>
+        <string>
+            <plain>Пусть несется из наших уст</plain>
+        </string>
+        <string>
+            <plain>Песня славы Тебе, Иисус.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Славьте, славьте больше Творца,</plain>
+        </string>
+        <string>
+            <plain>Пойте громче, хоры, всегда.</plain>
+        </string>
+        <string>
+            <plain>Пусть несется хвала до небес,</plain>
+        </string>
+        <string>
+            <plain>Ныне наш Спаситель воскрес!</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2857" name="Про любовь много песен пропето" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Про любовь много песен пропето,</plain>
+        </string>
+        <string>
+            <plain>пусть сегодня и наша звучит;</plain>
+        </string>
+        <string>
+            <plain>ведь любовь - это счастья примета,</plain>
+        </string>
+        <string>
+            <plain>когда люди умеют любить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дорожите любовью такою,</plain>
+        </string>
+        <string>
+            <plain>берегите её, как себя,(как себя)</plain>
+        </string>
+        <string>
+            <plain>чтоб она прошла стороною,</plain>
+        </string>
+        <string>
+            <plain>умножайте её без конца!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не в красивых словах, заклинаньях,</plain>
+        </string>
+        <string>
+            <plain>не в порывистых клятвах любви,</plain>
+        </string>
+        <string>
+            <plain>а любовь познаётся на деле</plain>
+        </string>
+        <string>
+            <plain>в неизведанных чувствах души.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И любовь то чиста и правдива,</plain>
+        </string>
+        <string>
+            <plain>невозможное может творить;</plain>
+        </string>
+        <string>
+            <plain>она чиста, скромна, терпелива,</plain>
+        </string>
+        <string>
+            <plain>до конца будет только любить.</plain>
+        </string>
+    </verse>
+</song>

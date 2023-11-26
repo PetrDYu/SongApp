@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1268" name="Помолись за меня друг мой милый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Помолись за меня, друг мой милый,</plain>
+        </string>
+        <string>
+            <plain>Хоть не стою молитвы твоей,</plain>
+        </string>
+        <string>
+            <plain>В бурях жизни надломлены силы,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне молитвой своей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И за тех, кто лишь жизнь начинает.</plain>
+        </string>
+        <string>
+            <plain>На арену выходит для битв,</plain>
+        </string>
+        <string>
+            <plain>Кто дорогу себе пролагает,</plain>
+        </string>
+        <string>
+            <plain>Не жалей ты молитвы за них.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам нужны те молитвы святые,</plain>
+        </string>
+        <string>
+            <plain>В которых так много огня.</plain>
+        </string>
+        <string>
+            <plain>Ты отдай свои думы благие.</plain>
+        </string>
+        <string>
+            <plain>Помолись, помолись за меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И прошу со слезами прощенья</plain>
+        </string>
+        <string>
+            <plain>Будем вместе молиться, мой друг.</plain>
+        </string>
+        <string>
+            <plain>Пусть любовью согреет мне сердце</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель и мой Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, любовь! Слово чудное это.</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель ее завещал.</plain>
+        </string>
+        <string>
+            <plain>И чье сердце любовью согрето.</plain>
+        </string>
+        <string>
+            <plain>Только тот радость в жизни познал.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="696" name="За Христом я следовать повсюду готов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За Христом я следовать повсюду готов –</plain>
+        </string>
+        <string>
+            <plain>У спокойных вод посреди живых цветов;</plain>
+        </string>
+        <string>
+            <plain>Буду следовать повсюду и везде за Ним,</plain>
+        </string>
+        <string>
+            <plain>Радостно шагая по стопам святым.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Буду следовать за Ним</plain>
+        </string>
+        <string>
+            <plain>Всюду и везде за Ним, всюду за Иисусом!</plain>
+        </string>
+        <string>
+            <plain>Буду следовать, буду следовать!</plain>
+        </string>
+        <string>
+            <plain>Где б, куда б Он ни повел, я пойду за Ним.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За Христом я следовать повсюду готов –</plain>
+        </string>
+        <string>
+            <plain>Чрез потоки бурные и под шум ветров;</plain>
+        </string>
+        <string>
+            <plain>Под Его рукою не боюсь я ничего,</plain>
+        </string>
+        <string>
+            <plain>Безопасны бури под щитом Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За Христом я следовать повсюду готов –</plain>
+        </string>
+        <string>
+            <plain>По равнине иль по крутым склонам холмов;</plain>
+        </string>
+        <string>
+            <plain>Проведет меня Он целым по Своим следам</plain>
+        </string>
+        <string>
+            <plain>В мир небес к Своим искупленным детям.</plain>
+        </string>
+    </verse>
+</song>

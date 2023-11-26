@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1284" name="Умчались безвозвратно дни вчерашние" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Умчались безвозвратно дни вчерашние.</plain>
+        </string>
+        <string>
+            <plain>Одни следы оставив за собой,</plain>
+        </string>
+        <string>
+            <plain>А в них вопрос, звучащий без пристрастия:</plain>
+        </string>
+        <string>
+            <plain>Чем мы встречаем Господа с тобой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пока не прекратились дни погожие.</plain>
+        </string>
+        <string>
+            <plain>Спешите, ведь откладывать нельзя.</plain>
+        </string>
+        <string>
+            <plain>Спешите сделать что-нибудь хорошее</plain>
+        </string>
+        <string>
+            <plain>Во имя Господа, мои друзья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спешите ободрить душой уставшего.</plain>
+        </string>
+        <string>
+            <plain>Для блага ближних жертвуя собой.</plain>
+        </string>
+        <string>
+            <plain>И пламенные искры сердца вашего</plain>
+        </string>
+        <string>
+            <plain>Зажгут в других большой любви огонь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Быть может, тяжкой ношей обессиленный.</plain>
+        </string>
+        <string>
+            <plain>Ваш брат одолевает жизни тьму.</plain>
+        </string>
+        <string>
+            <plain>Вы сделайте, что можете, посильное,</plain>
+        </string>
+        <string>
+            <plain>Чтоб стало легче хоть чуть-чуть ему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сердечное участье бескорыстное</plain>
+        </string>
+        <string>
+            <plain>Полно душевной нежной теплоты.</plain>
+        </string>
+        <string>
+            <plain>И ваша доброта и ваша искренность</plain>
+        </string>
+        <string>
+            <plain>Помогут ближним счастье обрести.</plain>
+        </string>
+    </verse>
+</song>

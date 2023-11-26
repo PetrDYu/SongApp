@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="242" name="Больше скажи мне о Христе, о благодати полноте," canon="false" text="Э. Хэвит" textRus="" music="Дж. Свени" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Больше скажи мне о Христе, о благодати полноте,</plain>
+        </string>
+        <string>
+            <plain>О том, как Он за нас страдал, нас возлюбил и оправдал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Больше об Иисусе, больше об Иисусе,</plain>
+        </string>
+        <string>
+            <plain>О том, как Он за нас страдал,</plain>
+        </string>
+        <string>
+            <plain>Нас искупил и жизнь отдал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Больше скажи мне о Христе, о святости, о чистоте,</plain>
+        </string>
+        <string>
+            <plain>О Духе истины, как Он вселяет в нас Христов закон.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Больше скажи мне о Христе, о слове жизни, что везде</plain>
+        </string>
+        <string>
+            <plain>К общенью с Господом зовет и мир и радость нам дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Больше скажи мне о Христе, кто Он теперь на высоте,</plain>
+        </string>
+        <string>
+            <plain>Как любит грешников спасать и как в наш мир придет опять.</plain>
+        </string>
+    </verse>
+</song>

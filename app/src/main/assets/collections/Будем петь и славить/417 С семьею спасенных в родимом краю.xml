@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="417" name="С семьею спасенных в родимом краю" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>С семьею спасенных в родимом краю</plain>
+        </string>
+        <string>
+            <plain>Душой обновленной я песню пою</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О милости вечной, о мире святом,</plain>
+        </string>
+        <string>
+            <plain>О новом, сердечном союзе с Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть радостны будут все в песне слова,</plain>
+        </string>
+        <string>
+            <plain>Поет пусть повсюду ее детвора.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть каждый услышит ту песню о Нем,</plain>
+        </string>
+        <string>
+            <plain>О дивном Иисусе, о Друге моем.</plain>
+        </string>
+    </verse>
+</song>

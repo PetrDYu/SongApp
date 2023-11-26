@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1907" name="За все благодеянья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За все благодеянья,</plain>
+        </string>
+        <string>
+            <plain>За прожитые дни Хвалу</plain>
+        </string>
+        <string>
+            <plain>и благодарность</plain>
+        </string>
+        <string>
+            <plain>Из слабых уст прими.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе, Отец, Хвалу поем</plain>
+        </string>
+        <string>
+            <plain>За все дары Твои,</plain>
+        </string>
+        <string>
+            <plain>Веди нас Сам Своим путем</plain>
+        </string>
+        <string>
+            <plain>И нас благослови.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты нас хранил так чудно</plain>
+        </string>
+        <string>
+            <plain>И помогал в труде,</plain>
+        </string>
+        <string>
+            <plain>За то мы славить будем</plain>
+        </string>
+        <string>
+            <plain>Тебя, Господь, везде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Принес Себя Ты в жертву,</plain>
+        </string>
+        <string>
+            <plain>Спасенье даровал</plain>
+        </string>
+        <string>
+            <plain>И к нам прийти на землю</plain>
+        </string>
+        <string>
+            <plain>Вторично обещал.</plain>
+        </string>
+    </verse>
+</song>

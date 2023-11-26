@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1791" name="Уходит юность под венец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уходит юность под венец,</plain>
+        </string>
+        <string>
+            <plain>Сияет счастье с тенью грусти,</plain>
+        </string>
+        <string>
+            <plain>Как хочется, чтоб сердца русла</plain>
+        </string>
+        <string>
+            <plain>Не обмелели под конец.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Речушка, ручеек, река -</plain>
+        </string>
+        <string>
+            <plain>Не важно, кто вы. Очень ценно</plain>
+        </string>
+        <string>
+            <plain>Полезным быть в Христовой Церкви</plain>
+        </string>
+        <string>
+            <plain>И воду жизни несть в века.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благословения Творца Желайте</plain>
+        </string>
+        <string>
+            <plain>больше, чем достатка.</plain>
+        </string>
+        <string>
+            <plain>С любовью радостно в палатке,</plain>
+        </string>
+        <string>
+            <plain>А без нее - печаль в дворцах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть брачный день на много лет</plain>
+        </string>
+        <string>
+            <plain>Положит радости начало,</plain>
+        </string>
+        <string>
+            <plain>И чтоб любовь не обветшала,</plain>
+        </string>
+        <string>
+            <plain>Но в Небо проложила след.</plain>
+        </string>
+    </verse>
+</song>

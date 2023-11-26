@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="59" name="Ты знаешь Боже мое желанье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты знаешь, Боже, мое желанье,</plain>
+        </string>
+        <string>
+            <plain>Мои молитвы слышишь Ты;</plain>
+        </string>
+        <string>
+            <plain>Тебе известно мое страданье,</plain>
+        </string>
+        <string>
+            <plain>Мои стремленья и мечты.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты знаешь, Боже, что не ищу я</plain>
+        </string>
+        <string>
+            <plain>Богатств и почестей земных;</plain>
+        </string>
+        <string>
+            <plain>Моим всем сердцем Тебя люблю я,</plain>
+        </string>
+        <string>
+            <plain>Хочу с Тобой быть каждый миг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скорблю я часто, душа томится,</plain>
+        </string>
+        <string>
+            <plain>Не вижу радости бытья.</plain>
+        </string>
+        <string>
+            <plain>Я одинокий, как в клетке птица,</plain>
+        </string>
+        <string>
+            <plain>И умолкает песнь моя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Никто не знает, не спросит даже</plain>
+        </string>
+        <string>
+            <plain>Куда и что меня влечет,</plain>
+        </string>
+        <string>
+            <plain>И кто утешит, кто путь укажет,</plain>
+        </string>
+        <string>
+            <plain>Когда на сердце тяжкий гнет?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мне мир чужим стал, и я - для мира.</plain>
+        </string>
+        <string>
+            <plain>О Боже, дай мне Твой покой!</plain>
+        </string>
+        <string>
+            <plain>Устал бороться, слабеют силы,</plain>
+        </string>
+        <string>
+            <plain>А путь далекий предо мной.</plain>
+        </string>
+    </verse>
+</song>

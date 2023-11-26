@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2729" name="Свет после мрака тишь за грозой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свет после мрака, тишь за грозой,</plain>
+        </string>
+        <string>
+            <plain>Сила за слабостью жизни земной,</plain>
+        </string>
+        <string>
+            <plain>Слабость за горем, песнь после слез</plain>
+        </string>
+        <string>
+            <plain>- После скитанья ждет верных Христос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Здесь (льются слезы),</plain>
+        </string>
+        <string>
+            <plain>Там (смолкнут грозы),</plain>
+        </string>
+        <string>
+            <plain>Здесь труден путь земной,</plain>
+        </string>
+        <string>
+            <plain>Там ждет покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Плод за посевом, пир за трудом,</plain>
+        </string>
+        <string>
+            <plain>Дождь после засухи, луч за дождем.</plain>
+        </string>
+        <string>
+            <plain>Благословенье после утерь.</plain>
+        </string>
+        <string>
+            <plain>Милостив к нам Господь, о друг, поверь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Близок за далью после невзгод</plain>
+        </string>
+        <string>
+            <plain>Сладкий покой и мир Бог нам дает.</plain>
+        </string>
+        <string>
+            <plain>После победы - слава венца.</plain>
+        </string>
+        <string>
+            <plain>После волненья здесь - мир у Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Друг мой, не бойся вражеских сил,</plain>
+        </string>
+        <string>
+            <plain>Христос ведет тебя - Он победил.</plain>
+        </string>
+        <string>
+            <plain>Верь и надейся, следуй за Ним,</plain>
+        </string>
+        <string>
+            <plain>Он победит врага с Богом твоим.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Скоро настает славный конец,</plain>
+        </string>
+        <string>
+            <plain>Скоро получишь ты жизни венец.</plain>
+        </string>
+        <string>
+            <plain>Слава, всесильный Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Всюду, где Ты идешь, мы за Тобой.</plain>
+        </string>
+    </verse>
+</song>

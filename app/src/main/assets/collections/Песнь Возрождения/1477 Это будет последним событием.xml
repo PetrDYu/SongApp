@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1477" name="Это будет последним событием" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Это будет последним событием</plain>
+        </string>
+        <string>
+            <plain>Здесь, на этой земле, для искупленных:</plain>
+        </string>
+        <string>
+            <plain>Трубный звук, голоса небожителей,</plain>
+        </string>
+        <string>
+            <plain>Восхищение при встрече с Возлюбленным.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ободритесь, друзья утомленные,</plain>
+        </string>
+        <string>
+            <plain>Восклонитесь навстречу дню.</plain>
+        </string>
+        <string>
+            <plain>Утешайте друг друга, спасенные,</plain>
+        </string>
+        <string>
+            <plain>Этой чудной надеждою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>День придет, мы опять все увидимся,</plain>
+        </string>
+        <string>
+            <plain>В облаках над землею мы встретимся,</plain>
+        </string>
+        <string>
+            <plain>Так сказал Иисус, покидая мир,</plain>
+        </string>
+        <string>
+            <plain>И уже недалек этой встречи миг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И опять будут петь хоры ангелов.</plain>
+        </string>
+        <string>
+            <plain>Как в ту ночь над землей Вифлеемскою.</plain>
+        </string>
+        <string>
+            <plain>Это будет небесная музыка,</plain>
+        </string>
+        <string>
+            <plain>В ней - восторги и радость искупленных.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будут там те, кто раньше ушли от нас.</plain>
+        </string>
+        <string>
+            <plain>Со Христом в облаках они встретят нас.</plain>
+        </string>
+        <string>
+            <plain>Я готов? Ты готов? - Надо знать сейчас,</plain>
+        </string>
+        <string>
+            <plain>Восхищение будет один лишь раз.</plain>
+        </string>
+    </verse>
+</song>

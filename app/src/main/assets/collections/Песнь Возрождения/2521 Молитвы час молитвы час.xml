@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2521" name="Молитвы час молитвы час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молитвы час, молитвы час</plain>
+        </string>
+        <string>
+            <plain>От мира направляет нас</plain>
+        </string>
+        <string>
+            <plain>К престолу вечного Отца,</plain>
+        </string>
+        <string>
+            <plain>Открыть доверчиво сердца.</plain>
+        </string>
+        <string>
+            <plain>В минуты горя и тревог</plain>
+        </string>
+        <string>
+            <plain>Нас утешает Вечный Бог,</plain>
+        </string>
+        <string>
+            <plain>Чтоб свет надежды не погас,</plain>
+        </string>
+        <string>
+            <plain>Он людям дал молитвы час.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Молитвы час, молитвы час</plain>
+        </string>
+        <string>
+            <plain>Открыл, чтоб не сводили глаз</plain>
+        </string>
+        <string>
+            <plain>С Того, Кто в верности Своей</plain>
+        </string>
+        <string>
+            <plain>Спасти желает всех людей.</plain>
+        </string>
+        <string>
+            <plain>Хочу искать Его лица,</plain>
+        </string>
+        <string>
+            <plain>Любить и верить до конца.</plain>
+        </string>
+        <string>
+            <plain>Меня Он милостиво спас,</plain>
+        </string>
+        <string>
+            <plain>И я люблю молитвы час.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Молитвы час, молитвы час</plain>
+        </string>
+        <string>
+            <plain>Дает нам новых сил запас,</plain>
+        </string>
+        <string>
+            <plain>И открывает чудный вид</plain>
+        </string>
+        <string>
+            <plain>Туда, где вечный день царит.</plain>
+        </string>
+        <string>
+            <plain>Когда же тленное спадет</plain>
+        </string>
+        <string>
+            <plain>И в вечный дом откроют вход,</plain>
+        </string>
+        <string>
+            <plain>Мы скажем, уходя от вас:</plain>
+        </string>
+        <string>
+            <plain>"Прощай, прощай, молитвы час!"</plain>
+        </string>
+    </verse>
+</song>

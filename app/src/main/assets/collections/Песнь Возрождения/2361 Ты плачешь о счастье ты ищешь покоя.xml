@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2361" name="Ты плачешь о счастье ты ищешь покоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты плачешь о счастье, ты ищешь покоя,</plain>
+        </string>
+        <string>
+            <plain>Закрыть хочешь сердце от стонов людских.</plain>
+        </string>
+        <string>
+            <plain>О, друг, в этой жизни есть счастье иное,</plain>
+        </string>
+        <string>
+            <plain>Великое счастье любить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рыдает земля,</plain>
+        </string>
+        <string>
+            <plain>Посмотри ты серьёзно</plain>
+        </string>
+        <string>
+            <plain>На этих несчастных,</plain>
+        </string>
+        <string>
+            <plain>Что плачут на ней.</plain>
+        </string>
+        <string>
+            <plain>Нет чаши такой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб собрать эти слёзы</plain>
+        </string>
+        <string>
+            <plain>Скорбящих глубоко очей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На сердце у каждого тяжкое горе,</plain>
+        </string>
+        <string>
+            <plain>И только любовь устраняет его.</plain>
+        </string>
+        <string>
+            <plain>Подойди же к страждущим с чуткой душою,</plain>
+        </string>
+        <string>
+            <plain>Расскажи про Творца твоего.</plain>
+        </string>
+    </verse>
+</song>

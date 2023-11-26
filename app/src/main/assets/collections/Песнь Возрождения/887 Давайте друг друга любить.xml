@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="887" name="Давайте друг друга любить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Давайте друг друга любить,</plain>
+        </string>
+        <string>
+            <plain>Обиды прощать и ошибки.</plain>
+        </string>
+        <string>
+            <plain>Давайте друг друга любить</plain>
+        </string>
+        <string>
+            <plain>Христовой любовью святой.</plain>
+        </string>
+        <string>
+            <plain>Давайте друг другу дарить</plain>
+        </string>
+        <string>
+            <plain>И нежность свою, и улыбки.</plain>
+        </string>
+        <string>
+            <plain>О них забываем порой</plain>
+        </string>
+        <string>
+            <plain>Своей безразличной душой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нежное сердце, какое ты, сердце?</plain>
+        </string>
+        <string>
+            <plain>Скажи же нам нежно, скажи,</plain>
+        </string>
+        <string>
+            <plain>Что в лютый мороз позволяет нам греться?</plain>
+        </string>
+        <string>
+            <plain>Ответ ты в душе напиши.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Давайте друг друга любить,</plain>
+        </string>
+        <string>
+            <plain>Ведь в том наша радость и счастье.</plain>
+        </string>
+        <string>
+            <plain>Печали нам надо забыть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вновь возвратилось участье.</plain>
+        </string>
+        <string>
+            <plain>Ты вспомни о доме родном,</plain>
+        </string>
+        <string>
+            <plain>На битву направленный воин,</plain>
+        </string>
+        <string>
+            <plain>И сердце твое пусть огнем</plain>
+        </string>
+        <string>
+            <plain>Согреет Иисус дорогой.</plain>
+        </string>
+    </verse>
+</song>

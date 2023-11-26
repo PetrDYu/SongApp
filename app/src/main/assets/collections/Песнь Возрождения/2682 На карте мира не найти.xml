@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2682" name="На карте мира не найти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На карте мира не найти</plain>
+        </string>
+        <string>
+            <plain>Страны, где Царь Христос.</plain>
+        </string>
+        <string>
+            <plain>Но как же нам туда войти?</plain>
+        </string>
+        <string>
+            <plain>- Является вопрос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Туда нельзя на корабле</plain>
+        </string>
+        <string>
+            <plain>По океану плыть;</plain>
+        </string>
+        <string>
+            <plain>Ни пешеходом по земле</plain>
+        </string>
+        <string>
+            <plain>Путь дальний совершить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ни в стратосфере, ни в воде</plain>
+        </string>
+        <string>
+            <plain>Страны той чудной нет.</plain>
+        </string>
+        <string>
+            <plain>Но где же, в самом деле, где?</plain>
+        </string>
+        <string>
+            <plain>Кто может дать ответ?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь география проста.</plain>
+        </string>
+        <string>
+            <plain>Кто хочет знать сейчас,</plain>
+        </string>
+        <string>
+            <plain>Примите верою Христа,</plain>
+        </string>
+        <string>
+            <plain>И Царство будет в нас.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="80" name="Отец Небесный, мы с любовью" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Отец Небесный, мы с любовью</plain>
+        </string>
+        <string>
+            <plain>За все Тебя благодарим.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Мы Сына Твоего омыты кровью,</plain>
+        </string>
+        <string>
+            <plain>Перед Тобой в благоговении стоим.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Слава Всемогущему Богу!</plain>
+        </string>
+        <string>
+            <plain>Он был, Он есть и вновь грядет!</plain>
+        </string>
+        <string>
+            <plain>Слава Всемогущему Богу во веки веков!</plain>
+        </string>
+    </verse>
+</song>

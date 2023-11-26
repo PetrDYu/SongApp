@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2025" name="В беде или в радости мы пребываем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В беде или в радости мы пребываем,</plain>
+        </string>
+        <string>
+            <plain>Всегда об одном твердо помним и знаем,</plain>
+        </string>
+        <string>
+            <plain>Господь любит нас и от зла нас хранит,</plain>
+        </string>
+        <string>
+            <plain>Оттого наша вера тверда, как гранит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О наш Иисус, Ты лучше капель сома,</plain>
+        </string>
+        <string>
+            <plain>Ты наш маяк, светило всех светил.</plain>
+        </string>
+        <string>
+            <plain>Ты нас ведешь в небесные высоты,</plain>
+        </string>
+        <string>
+            <plain>Слава Тебе, Господь, Ты победил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И каждый из нас верит Божьему Слову,</plain>
+        </string>
+        <string>
+            <plain>Радея о близости Духа Святого,</plain>
+        </string>
+        <string>
+            <plain>Склоняя колени во славу Отца,</plain>
+        </string>
+        <string>
+            <plain>Тебе распахнули мы наши сердца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О чудный наш Бог, аллилуйя Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты принял участие в нашей судьбе.</plain>
+        </string>
+        <string>
+            <plain>Сегодня во славу Тебе мы поем,</plain>
+        </string>
+        <string>
+            <plain>Сегодня хвалу мы Тебе воздаем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="244" name="Ничего не бойся Я всегда с Тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Ничего не бойся! Я всегда с Тобой!</plain>
+        </string>
+        <string>
+            <plain>На пути тернистом есть светильник мой,</plain>
+        </string>
+        <string>
+            <plain>Через тучи льется мощный свет его;</plain>
+        </string>
+        <string>
+            <plain>Я с тобой и в мире не оставлю одного".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет, я не один!</plain>
+        </string>
+        <string>
+            <plain>Нет, нет, никогда</plain>
+        </string>
+        <string>
+            <plain>Бог мой меня не оставит,</plain>
+        </string>
+        <string>
+            <plain>Нет, не останусь один!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лилии завянут, солнца лик зайдет,</plain>
+        </string>
+        <string>
+            <plain>Песнь моя от сердца все ж не отойдет;</plain>
+        </string>
+        <string>
+            <plain>Он мне радость ночью и в средине дня,</plain>
+        </string>
+        <string>
+            <plain>В мире одиноким не оставит Он меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если путь мой темен, враг идет с грозой,</plain>
+        </string>
+        <string>
+            <plain>Все же слышу ясно: "Я, дитя, с тобой!"</plain>
+        </string>
+        <string>
+            <plain>Лик Его на небе буду видеть я,</plain>
+        </string>
+        <string>
+            <plain>Буду петь там вечно: "Не оставил Он меня!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1488" name="В черном море одиноко" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В черном море одиноко</plain>
+        </string>
+        <string>
+            <plain>Белый-белый дом стоит,</plain>
+        </string>
+        <string>
+            <plain>Огоньком любви высокой</plain>
+        </string>
+        <string>
+            <plain>В окнах дома свет горит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это - корабль на грешной земле</plain>
+        </string>
+        <string>
+            <plain>Держит свой путь к родной стороне.</plain>
+        </string>
+        <string>
+            <plain>Под парусом веры мчится вперед.</plain>
+        </string>
+        <string>
+            <plain>Весть о спасении людям несет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В этом доме с Иисусом</plain>
+        </string>
+        <string>
+            <plain>Разговоры мы ведем,</plain>
+        </string>
+        <string>
+            <plain>В этом доме Иисусу</plain>
+        </string>
+        <string>
+            <plain>Песни славы мы поем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь Христос нас утешает.</plain>
+        </string>
+        <string>
+            <plain>Здесь Он силы нам дает,</plain>
+        </string>
+        <string>
+            <plain>Словом Божьим подкрепляет.</plain>
+        </string>
+        <string>
+            <plain>Чтобы прямо плыть вперед.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На пути нам очень часто</plain>
+        </string>
+        <string>
+            <plain>Буря страшная грозит,</plain>
+        </string>
+        <string>
+            <plain>Но в окошках все же ясно</plain>
+        </string>
+        <string>
+            <plain>Христианский свет горит.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Наш любимый Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Охраняй нас на пути,</plain>
+        </string>
+        <string>
+            <plain>И в Свою, Христос, обитель</plain>
+        </string>
+        <string>
+            <plain>На руках Ты нас неси.</plain>
+        </string>
+    </verse>
+</song>

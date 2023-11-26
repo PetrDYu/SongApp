@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="237" name="Я знаю да я знаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, да я знаю,</plain>
+        </string>
+        <string>
+            <plain>Что жив Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Что я Им обретаю,</plain>
+        </string>
+        <string>
+            <plain>Дар жизни неземной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я знаю, кто в мгновенье</plain>
+        </string>
+        <string>
+            <plain>Отчаянья и бед</plain>
+        </string>
+        <string>
+            <plain>Мне подает спасенье</plain>
+        </string>
+        <string>
+            <plain>И помощь и совет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю, если стражду</plain>
+        </string>
+        <string>
+            <plain>Под ношею скорбей,</plain>
+        </string>
+        <string>
+            <plain>Кто утоляет жажду</plain>
+        </string>
+        <string>
+            <plain>Больной души моей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я знаю, что из праха</plain>
+        </string>
+        <string>
+            <plain>По смерти оживу</plain>
+        </string>
+        <string>
+            <plain>И с радостью, без страха</plain>
+        </string>
+        <string>
+            <plain>Пред Ним склоню главу.</plain>
+        </string>
+    </verse>
+</song>

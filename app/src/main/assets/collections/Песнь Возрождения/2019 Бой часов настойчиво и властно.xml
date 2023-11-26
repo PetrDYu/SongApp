@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2019" name="Бой часов настойчиво и властно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бой часов настойчиво и властно</plain>
+        </string>
+        <string>
+            <plain>Возвещает жителям планеты:</plain>
+        </string>
+        <string>
+            <plain>С каждым годом, с каждым днём и часом</plain>
+        </string>
+        <string>
+            <plain>Всё короче благодати лето.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бьют часы, светлеют неба дали,</plain>
+        </string>
+        <string>
+            <plain>Близок дня желанного рассвет.</plain>
+        </string>
+        <string>
+            <plain>Бьют часы, спасённых ожидает</plain>
+        </string>
+        <string>
+            <plain>Вечность со Христом без счёта лет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дни летят, бегут тысячелетья,</plain>
+        </string>
+        <string>
+            <plain>Приближая вечности пределы.</plain>
+        </string>
+        <string>
+            <plain>Пред судом Всевышнего ответит</plain>
+        </string>
+        <string>
+            <plain>Всякий, кто небрежно строил дело.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бой часов усердно отзовётся</plain>
+        </string>
+        <string>
+            <plain>В каждом сердце, пол-ом сокрушенья.</plain>
+        </string>
+        <string>
+            <plain>Час пробьёт, и жизни нить прервется,</plain>
+        </string>
+        <string>
+            <plain>Смолкнет нежный зов любви, спасенья.</plain>
+        </string>
+    </verse>
+</song>

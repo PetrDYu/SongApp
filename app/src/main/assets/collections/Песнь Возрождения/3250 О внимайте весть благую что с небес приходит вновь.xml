@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3250" name="О внимайте весть благую что с небес приходит вновь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, внимайте весть благую, что с небес приходит вновь,</plain>
+        </string>
+        <string>
+            <plain>радость в сердце всем даруя: что Господь Наш есть любовь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог - любовь,</plain>
+        </string>
+        <string>
+            <plain>Бог - любовь!</plain>
+        </string>
+        <string>
+            <plain>О святые, пойте все</plain>
+        </string>
+        <string>
+            <plain>громко всюду и везде,</plain>
+        </string>
+        <string>
+            <plain>воспоем любовь святую,</plain>
+        </string>
+        <string>
+            <plain>вечно новую, живую!</plain>
+        </string>
+        <string>
+            <plain>Все пусть слышат весть благую,</plain>
+        </string>
+        <string>
+            <plain>что Господь наш есть любовь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, любовь, ты благодатна,</plain>
+        </string>
+        <string>
+            <plain>боль греха сняла чрез кровь.</plain>
+        </string>
+        <string>
+            <plain>Бог являл нам многократно,</plain>
+        </string>
+        <string>
+            <plain>что Он - высшая любовь.</plain>
+        </string>
+        <string>
+            <plain>З О, как чудно и прекрасно</plain>
+        </string>
+        <string>
+            <plain>слышать Духа нежный зов,</plain>
+        </string>
+        <string>
+            <plain>наставляющий нас ясно,</plain>
+        </string>
+        <string>
+            <plain>что Господь наш есть любовь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, душа, воспрянь в хваленьи,</plain>
+        </string>
+        <string>
+            <plain>пой, хоть злится стан врагов;</plain>
+        </string>
+        <string>
+            <plain>принеси благодаренье</plain>
+        </string>
+        <string>
+            <plain>Богу за Его любовь!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="953" name="Небо и земля небо и земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небо и земля, небо и земля</plain>
+        </string>
+        <string>
+            <plain>Ныне торжествуют.</plain>
+        </string>
+        <string>
+            <plain>Ангелы людям, ангелы людям</plain>
+        </string>
+        <string>
+            <plain>Несут весть благую.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос родился, Бог воплотился,</plain>
+        </string>
+        <string>
+            <plain>Ангелы ликуют, в небе торжествуют,</plain>
+        </string>
+        <string>
+            <plain>Пастухи внимают, стадо оставляют,</plain>
+        </string>
+        <string>
+            <plain>Чудо, чудо, возвещают.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там в Вифлееме, там в Вифлееме</plain>
+        </string>
+        <string>
+            <plain>Радости причина:</plain>
+        </string>
+        <string>
+            <plain>Чистая Дева, Чистая Дева</plain>
+        </string>
+        <string>
+            <plain>Нам родила Сына.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вечное Слово, Вечное Слово</plain>
+        </string>
+        <string>
+            <plain>Восприняло тело.</plain>
+        </string>
+        <string>
+            <plain>Во тьме греховной, во тьме греховной</plain>
+        </string>
+        <string>
+            <plain>Солнце засветило.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Волхвы с востока, волхвы с востока</plain>
+        </string>
+        <string>
+            <plain>В Вифлеем приходят,</plain>
+        </string>
+        <string>
+            <plain>Ладан и смирну, ладан и смирну</plain>
+        </string>
+        <string>
+            <plain>И злато приносят.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Христу и Богу, Христу и Богу</plain>
+        </string>
+        <string>
+            <plain>И мы поклонимся.</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу, слава в вышних</plain>
+        </string>
+        <string>
+            <plain>Богу Ему возгласим все.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2787" name="На улице тишина по небу плывет луна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На улице тишина, по небу плывет луна.</plain>
+        </string>
+        <string>
+            <plain>Поверь, что не спит, а ждет только мама,</plain>
+        </string>
+        <string>
+            <plain>И ночью тихонько дверь откроет она тебе.</plain>
+        </string>
+        <string>
+            <plain>Поверь, что не спит, а ждет только мама.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И вместе я с нею жил, и радости с ней делил,</plain>
+        </string>
+        <string>
+            <plain>И песни никто не пел, только мама,</plain>
+        </string>
+        <string>
+            <plain>За все свои много лет, за все свои много бед</plain>
+        </string>
+        <string>
+            <plain>Никто мне не дал совет, Только мама.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А если когда-нибудь ты отправишься в дальний путь,</plain>
+        </string>
+        <string>
+            <plain>То ждать тебя будет лишь только мама,</plain>
+        </string>
+        <string>
+            <plain>А если случится беда, то мама придет и туда,</plain>
+        </string>
+        <string>
+            <plain>И слезы отрет и поймет только мама.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>.Я помню, когда она молилася за меня</plain>
+        </string>
+        <string>
+            <plain>Хотела, чтоб вырос я Богу послушным,</plain>
+        </string>
+        <string>
+            <plain>Чтоб юность сберег свою, и сердце отдал</plain>
+        </string>
+        <string>
+            <plain>Христу И в небо вошел для радости вечности.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>На улице тишина, по небу плывет луна.</plain>
+        </string>
+        <string>
+            <plain>Поверь, что не спит, а ждет только мама,</plain>
+        </string>
+        <string>
+            <plain>И ночью тихонько дверь откроет она тебе</plain>
+        </string>
+        <string>
+            <plain>Поверь, что не спит, а ждет только мама.</plain>
+        </string>
+    </verse>
+</song>

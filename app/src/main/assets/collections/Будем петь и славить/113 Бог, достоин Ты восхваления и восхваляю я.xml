@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="113" name="Бог, достоин Ты восхваления и восхваляю я" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог, достоин Ты восхваления – и восхваляю я.</plain>
+        </string>
+        <string>
+            <plain>Бог, достоин Ты поклонения – и поклоняюсь я.</plain>
+        </string>
+        <string>
+            <plain>Бог, достоин Ты преклонения – и преклоняюсь я.</plain>
+        </string>
+        <string>
+            <plain>Восхвалю Тебя, поклонюсь Тебе, преклоняюсь пред Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог, достоин Ты чести от меня – и я чту Тебя.</plain>
+        </string>
+        <string>
+            <plain>Бог, достоин Ты, верить чтоб Тебе – и я верую.</plain>
+        </string>
+        <string>
+            <plain>Бог, достоин Ты, чтоб довериться – и доверяюсь я.</plain>
+        </string>
+        <string>
+            <plain>Да, я чту Тебя, доверяюсь я, преклоняюсь пред Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="1">
+        <string>
+            <plain>Да, достоин, Бог, Ты любви моей – я люблю Тебя.</plain>
+        </string>
+        <string>
+            <plain>Да, достоин Бог жизни всей моей – я отдаю ее.</plain>
+        </string>
+        <string>
+            <plain>Да, достоин Бог. Да, достоин Бог – все отдаю Ему.</plain>
+        </string>
+        <string>
+            <plain>Я люблю Тебя, жизнь я отдаю, лишь один владей Ты мной!</plain>
+        </string>
+    </verse>
+</song>

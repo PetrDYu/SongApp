@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="140" name="Ликуйте, все народы, ликуйте, земля и воды," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ликуйте, все народы, ликуйте, земля и воды,</plain>
+        </string>
+        <string>
+            <plain>Ликуйте, пашни и леса, и вторьте, голоса:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос воскрес! Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему и честь!</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Воистину воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Воскрес из гроба наш Христос,</plain>
+        </string>
+        <string>
+            <plain>Воскрес для славы, не для слез,</plain>
+        </string>
+        <string>
+            <plain>Воскрес для славы в небесах и Сам теперь Он там.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воспойте славу Господу за дивное спасение.</plain>
+        </string>
+        <string>
+            <plain>Прославьте Бога все сердца и пойте все уста.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

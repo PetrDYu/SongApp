@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2582" name="Средь заботы и тревоги" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Средь заботы и тревоги</plain>
+        </string>
+        <string>
+            <plain>Нашей жизни суетной</plain>
+        </string>
+        <string>
+            <plain>Слышно слово Сына Божья:</plain>
+        </string>
+        <string>
+            <plain>"Люди, следуйте за Мной!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>От кумиров отрывая,</plain>
+        </string>
+        <string>
+            <plain>Направляя в Царство дня,</plain>
+        </string>
+        <string>
+            <plain>Прозвучала весть благая:</plain>
+        </string>
+        <string>
+            <plain>"Сын Мой, Я люблю тебя!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Торжествуем иль горюем,</plain>
+        </string>
+        <string>
+            <plain>В дни покоя и труда</plain>
+        </string>
+        <string>
+            <plain>Не забудем: все минует.</plain>
+        </string>
+        <string>
+            <plain>Помни Господа всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О Спаситель, помоги мне</plain>
+        </string>
+        <string>
+            <plain>В свете истины ходить,</plain>
+        </string>
+        <string>
+            <plain>Слышать голос Твой призывный</plain>
+        </string>
+        <string>
+            <plain>И Тебя, Тебя любить.</plain>
+        </string>
+    </verse>
+</song>

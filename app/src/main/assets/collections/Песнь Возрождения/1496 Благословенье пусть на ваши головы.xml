@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1496" name="Благословенье пусть на ваши головы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословенье пусть на ваши головы</plain>
+        </string>
+        <string>
+            <plain>Падет росой и теплыми дождями.</plain>
+        </string>
+        <string>
+            <plain>Чтобы Христом обвенчанная молодость</plain>
+        </string>
+        <string>
+            <plain>Светила миру добрыми лучами.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Растают ледники и реки высохнут.</plain>
+        </string>
+        <string>
+            <plain>Сотрутся гор высокие вершины.</plain>
+        </string>
+        <string>
+            <plain>Но пусть любовь в зените солнцем высится.</plain>
+        </string>
+        <string>
+            <plain>Собою освещая жизнь отныне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир постареет, стихнут и пророчества.</plain>
+        </string>
+        <string>
+            <plain>Язык умолкнет, знанье упразднится -</plain>
+        </string>
+        <string>
+            <plain>Любовь живее всех, и очень хочется.</plain>
+        </string>
+        <string>
+            <plain>Чтоб в вас она могла навек вселиться.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Цена ее превыше лучших жемчугов!</plain>
+        </string>
+        <string>
+            <plain>Все обветшает, силы ослабеют...</plain>
+        </string>
+        <string>
+            <plain>Сравниться с нею в мире просто нечему!</plain>
+        </string>
+        <string>
+            <plain>Блажен, кто до конца любовь имеет!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1895" name="В Тебе нашла Спаситель Покой душа моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Тебе нашла, Спаситель, Покой душа моя,</plain>
+        </string>
+        <string>
+            <plain>Опоры той всесильной Довольно для меня.</plain>
+        </string>
+        <string>
+            <plain>Мой путь Ты озаряешь, Любовь Твоя кругом,</plain>
+        </string>
+        <string>
+            <plain>Небесная отчизна Все ближе с каждым днем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В Тебе нашла, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Покой душа моя;</plain>
+        </string>
+        <string>
+            <plain>Опоры той всесильной</plain>
+        </string>
+        <string>
+            <plain>Довольно для меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Велик мой грех, но милость Превысила вину.</plain>
+        </string>
+        <string>
+            <plain>Ты, Агнец непорочный, Страдал, склонив главу.</plain>
+        </string>
+        <string>
+            <plain>Под гнетом преступлений Ты умер за людей,</plain>
+        </string>
+        <string>
+            <plain>Из праха поднял душу И дал свободу ей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твою благую волю Во мне, Господь, твори,</plain>
+        </string>
+        <string>
+            <plain>И на Твое служенье Меня Ты посвяти!</plain>
+        </string>
+        <string>
+            <plain>Хоть немощен я, сила Нужна ведь не моя,</plain>
+        </string>
+        <string>
+            <plain>Твоею благодатью Наполни Ты меня!</plain>
+        </string>
+    </verse>
+</song>

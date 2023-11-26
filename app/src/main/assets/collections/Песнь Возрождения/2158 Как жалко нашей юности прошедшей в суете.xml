@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2158" name="Как жалко нашей юности прошедшей в суете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как жалко нашей юности, прошедшей в суете,</plain>
+        </string>
+        <string>
+            <plain>Всего, что прогуляли и пропили.</plain>
+        </string>
+        <string>
+            <plain>Не те мы песни слушали и пели мы не те,</plain>
+        </string>
+        <string>
+            <plain>Не там себе сокровище копили.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я, Господь, из этих вот камней</plain>
+        </string>
+        <string>
+            <plain>Выткую Я пламенные души.</plain>
+        </string>
+        <string>
+            <plain>Каждому пришедшему ко Мне</plain>
+        </string>
+        <string>
+            <plain>Я от крою и глаза, и уши.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нас верно научили, да так, что не забыть,</plain>
+        </string>
+        <string>
+            <plain>Законам умноженья и деленья,</plain>
+        </string>
+        <string>
+            <plain>Но нам не объяснили, как ближнего любить,</plain>
+        </string>
+        <string>
+            <plain>На женщину смотреть без вожделенья.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Я, Господь, из этих вот парней,</plain>
+        </string>
+        <string>
+            <plain>У которых тридцать за плечами.</plain>
+        </string>
+        <string>
+            <plain>Буду делать Богу сыновей</plain>
+        </string>
+        <string>
+            <plain>С чистым сердцем, светлыми очами.</plain>
+        </string>
+        <string>
+            <plain>Я, Господь, и Я вам говорю,</plain>
+        </string>
+        <string>
+            <plain>что лежащий у дороги камень</plain>
+        </string>
+        <string>
+            <plain>Подниму и в злато претворю</plain>
+        </string>
+        <string>
+            <plain>Собственными этими руками.</plain>
+        </string>
+    </chorus>
+</song>

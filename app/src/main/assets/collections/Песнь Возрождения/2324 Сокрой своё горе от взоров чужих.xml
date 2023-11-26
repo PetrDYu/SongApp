@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2324" name="Сокрой своё горе от взоров чужих" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сокрой своё горе от взоров чужих,</plain>
+        </string>
+        <string>
+            <plain>Слёз много узк в мире без вздохов твоих.</plain>
+        </string>
+        <string>
+            <plain>Пойди и подумай в ночную пору,</plain>
+        </string>
+        <string>
+            <plain>Скажи твоё горе Иисусу Христу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Христос уж всё знает о горе твоём,</plain>
+        </string>
+        <string>
+            <plain>Тебя Он утешит на лоне Своём.</plain>
+        </string>
+        <string>
+            <plain>Свет Божий сияет на нашем пути,</plain>
+        </string>
+        <string>
+            <plain>Для мрачных и грустных собирайте лучи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сердца изнывают под гнётом нужды,</plain>
+        </string>
+        <string>
+            <plain>Пойди к ним с любовью, утешишь их ты.</plain>
+        </string>
+        <string>
+            <plain>Сокрой своё горе, дай радость другим,</plain>
+        </string>
+        <string>
+            <plain>В Христе ищи помощь в страданьях твоих.</plain>
+        </string>
+    </verse>
+</song>

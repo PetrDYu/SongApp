@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="232" name="Добрые руки неба с помощью к нам придут," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Добрые руки неба с помощью к нам придут,</plain>
+        </string>
+        <string>
+            <plain>Если попросим хлеба, камень не подадут;</plain>
+        </string>
+        <string>
+            <plain>Если попросим счастья, счастье свое узрим,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Только мы сами часто не доверяем им.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Думаем, что над нами серые облака,</plain>
+        </string>
+        <string>
+            <plain>Только за облаками Божьей любви рука.</plain>
+        </string>
+        <string>
+            <plain>Небу не безразличны наши земные дни,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>В переживаниях личных вовсе мы не одни.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С нами от колыбели в трудностях всех дорог,</plain>
+        </string>
+        <string>
+            <plain>Рядом в зной и метели шел милосердный Бог.</plain>
+        </string>
+        <string>
+            <plain>Кружит мира воронка; чтоб от нее спастись</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>До высоты ребенка, веруя, умались.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Добрые руки неба с помощью к нам придут,</plain>
+        </string>
+        <string>
+            <plain>Если попросим хлеба, камень не подадут;</plain>
+        </string>
+        <string>
+            <plain>Если попросим счастья, в Боге его узрим,</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Только колени чаще нужно склонять перед Ним.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

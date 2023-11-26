@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1366" name="Счастлива та семья где Бог живет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Счастлива та семья, где Бог живет,</plain>
+        </string>
+        <string>
+            <plain>Где за одно сердца любовью бьются,</plain>
+        </string>
+        <string>
+            <plain>Где за одно молитвы всех несутся,</plain>
+        </string>
+        <string>
+            <plain>И в небо всех душа влечет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Счастлива та семья, где Имя драгоценно</plain>
+        </string>
+        <string>
+            <plain>Христа для каждого из них,</plain>
+        </string>
+        <string>
+            <plain>И дети с радостью священной</plain>
+        </string>
+        <string>
+            <plain>Поют о Нем в кругу родных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастлива та семья, где молятся всечасно,</plain>
+        </string>
+        <string>
+            <plain>Где слово Божие хотят любить,</plain>
+        </string>
+        <string>
+            <plain>И жизнию святою и прекрасной</plain>
+        </string>
+        <string>
+            <plain>Для Бога вечного служить.</plain>
+        </string>
+    </verse>
+</song>

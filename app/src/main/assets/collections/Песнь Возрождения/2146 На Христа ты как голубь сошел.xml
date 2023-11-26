@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2146" name="На Христа ты как голубь сошел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На Христа ты, как голубь, сошел,</plain>
+        </string>
+        <string>
+            <plain>Явным стал для людей Небожитель,</plain>
+        </string>
+        <string>
+            <plain>В тихом веяньи мне так с Тобой хорошо,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, нежный мой Утешитель.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты апостолов силой облек,</plain>
+        </string>
+        <string>
+            <plain>Всех наполнив огнем вдохновенья,</plain>
+        </string>
+        <string>
+            <plain>Имя новое гордому Савлу нарек,</plain>
+        </string>
+        <string>
+            <plain>Проведя через школу смиренья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Несравненный Учитель Ты мой.</plain>
+        </string>
+        <string>
+            <plain>Ты - источник познанья и силы.</plain>
+        </string>
+        <string>
+            <plain>Я вверяю себя лишь Тебе, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>О, пребудь же со мной до могилы.</plain>
+        </string>
+    </verse>
+</song>

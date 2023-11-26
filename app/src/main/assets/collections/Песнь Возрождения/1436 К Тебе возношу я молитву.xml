@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1436" name="К Тебе возношу я молитву" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К Тебе возношу я молитву,</plain>
+        </string>
+        <string>
+            <plain>С смиреньем в ноги паду.</plain>
+        </string>
+        <string>
+            <plain>О, дай же мне силы, чтоб в битве</plain>
+        </string>
+        <string>
+            <plain>Пощад не давал я греху.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Услышь Ты меня!</plain>
+        </string>
+        <string>
+            <plain>Я жду Твою помощь всегда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, дай же, чтоб дух мой смиренный</plain>
+        </string>
+        <string>
+            <plain>Твоим бы водился всегда,</plain>
+        </string>
+        <string>
+            <plain>Чтоб голос Твой тихий священный</plain>
+        </string>
+        <string>
+            <plain>Не смолк для меня никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу, чтоб с Тобою общенье</plain>
+        </string>
+        <string>
+            <plain>Иметь среди бурь и скорбей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Ты охранял от паденья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб челн мой плыл к цели скорей.</plain>
+        </string>
+    </verse>
+</song>

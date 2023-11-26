@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="866" name="Всегда удивляться я должен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всегда удивляться я должен,</plain>
+        </string>
+        <string>
+            <plain>Христос, что нас возлюбил:</plain>
+        </string>
+        <string>
+            <plain>Ведь я был неправдой исполнен,</plain>
+        </string>
+        <string>
+            <plain>А Ты Кровь за нас пролил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Повесть чудная, вечно новая,</plain>
+        </string>
+        <string>
+            <plain>Слушать я ее готов.</plain>
+        </string>
+        <string>
+            <plain>Повесть чудная, вечно новая</plain>
+        </string>
+        <string>
+            <plain>Про Спасителя любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он молит за нас в Гефсиманьи:</plain>
+        </string>
+        <string>
+            <plain>«Отец, воля пусть Твоя...»</plain>
+        </string>
+        <string>
+            <plain>За нас перенес Он страданья,</plain>
+        </string>
+        <string>
+            <plain>В Его ранах жизнь моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот ангел от Бога нисходит,</plain>
+        </string>
+        <string>
+            <plain>Христа чтобы подкреплять</plain>
+        </string>
+        <string>
+            <plain>В борьбе Гефсиманской суровой,</plain>
+        </string>
+        <string>
+            <plain>Где я должен был страдать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда я на небе пребуду</plain>
+        </string>
+        <string>
+            <plain>И славу Христа узрю,</plain>
+        </string>
+        <string>
+            <plain>О том, что Он грешников любит,</plain>
+        </string>
+        <string>
+            <plain>На небе я гимн спою.</plain>
+        </string>
+    </verse>
+</song>

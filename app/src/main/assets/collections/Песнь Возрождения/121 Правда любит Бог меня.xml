@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="121" name="Правда любит Бог меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Правда, любит Бог меня:</plain>
+        </string>
+        <string>
+            <plain>Дар спасенья Он мне дал;</plain>
+        </string>
+        <string>
+            <plain>В тьме ночной иль в свете дня</plain>
+        </string>
+        <string>
+            <plain>Быть со мной Он обещал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дар спасенья Он мне дал.</plain>
+        </string>
+        <string>
+            <plain>Дар спасенья Он мне дал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Правда, любит Бог меня:</plain>
+        </string>
+        <string>
+            <plain>Если слышит скорби стон,</plain>
+        </string>
+        <string>
+            <plain>Надо мной главу склоня,</plain>
+        </string>
+        <string>
+            <plain>Утешает сердце Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Правда, любит Бог меня:</plain>
+        </string>
+        <string>
+            <plain>В тяжком жизненном бою</plain>
+        </string>
+        <string>
+            <plain>Вражьи стрелы отстраня,</plain>
+        </string>
+        <string>
+            <plain>Он дает мне мощь Свою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Правда, любит Бог меня:</plain>
+        </string>
+        <string>
+            <plain>Учит Он добру без слов,</plain>
+        </string>
+        <string>
+            <plain>И, в себе порок казня,</plain>
+        </string>
+        <string>
+            <plain>Слушать я Его готов.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Правда, любит Бог меня:</plain>
+        </string>
+        <string>
+            <plain>И хочу я одного:</plain>
+        </string>
+        <string>
+            <plain>Слово истины храня,</plain>
+        </string>
+        <string>
+            <plain>Без конца любить Его.</plain>
+        </string>
+    </verse>
+</song>

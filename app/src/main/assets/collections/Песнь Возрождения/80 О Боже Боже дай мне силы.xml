@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="80" name="О Боже Боже дай мне силы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Боже, Боже, дай мне силы</plain>
+        </string>
+        <string>
+            <plain>За ближних душу полагать</plain>
+        </string>
+        <string>
+            <plain>И в сердце вечно до могилы</plain>
+        </string>
+        <string>
+            <plain>Врагам обиды все прощать!</plain>
+        </string>
+        <string>
+            <plain>И в сердце вечно до могилы</plain>
+        </string>
+        <string>
+            <plain>Врагам обиды все прощать!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не дай мне с ложью примириться</plain>
+        </string>
+        <string>
+            <plain>В суровой жизненной борьбе,</plain>
+        </string>
+        <string>
+            <plain>И научи меня молиться,</plain>
+        </string>
+        <string>
+            <plain>Молиться пламенно Тебе.</plain>
+        </string>
+        <string>
+            <plain>И научи меня молиться,</plain>
+        </string>
+        <string>
+            <plain>Молиться пламенно Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть камни в грудь мою бросают,</plain>
+        </string>
+        <string>
+            <plain>Не признавая чувств святых,</plain>
+        </string>
+        <string>
+            <plain>Пусть ненавидят, проклинают, -</plain>
+        </string>
+        <string>
+            <plain>Я душу положу за них.</plain>
+        </string>
+        <string>
+            <plain>Пусть ненавидят, проклинают, -</plain>
+        </string>
+        <string>
+            <plain>Я душу положу за них.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О Господи, в словах проклятья</plain>
+        </string>
+        <string>
+            <plain>Все на земле клеймят меня,</plain>
+        </string>
+        <string>
+            <plain>Но я открою им объятья,</plain>
+        </string>
+        <string>
+            <plain>Христову заповедь храня.</plain>
+        </string>
+        <string>
+            <plain>Но я открою им объятья,</plain>
+        </string>
+        <string>
+            <plain>Христову заповедь храня.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, дай мне сил Твои заветы</plain>
+        </string>
+        <string>
+            <plain>В душе страдающей хранить,</plain>
+        </string>
+        <string>
+            <plain>И помоги врагов наветы</plain>
+        </string>
+        <string>
+            <plain>С терпеньем, с кротостью сносить.</plain>
+        </string>
+        <string>
+            <plain>И помоги врагов наветы</plain>
+        </string>
+        <string>
+            <plain>С терпеньем, с кротостью сносить.</plain>
+        </string>
+    </verse>
+</song>

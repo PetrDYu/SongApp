@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1510" name="Детства дни навеки улетели" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Детства дни навеки улетели,</plain>
+        </string>
+        <string>
+            <plain>Юность белой птицей унеслась.</plain>
+        </string>
+        <string>
+            <plain>Белоснежный ты наряд надела,</plain>
+        </string>
+        <string>
+            <plain>И настал желанный час для вас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всколыхнулась белая фата.</plain>
+        </string>
+        <string>
+            <plain>Словно крылья чайки над водою.</plain>
+        </string>
+        <string>
+            <plain>Пусть тебе сияет жизнь и доброта,</plain>
+        </string>
+        <string>
+            <plain>И святая чистая любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будь ты нежной, ласковой женою</plain>
+        </string>
+        <string>
+            <plain>И навеки верность сохрани,</plain>
+        </string>
+        <string>
+            <plain>Чтоб любовь твоя могла звездою</plain>
+        </string>
+        <string>
+            <plain>Освещать все будущие дни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будь же ты, как лилия, прекрасна.</plain>
+        </string>
+        <string>
+            <plain>Ожидай пришествия Христа.</plain>
+        </string>
+        <string>
+            <plain>Словно солнца луч зарею ясной,</plain>
+        </string>
+        <string>
+            <plain>Пусть вся ваша жизнь будет чиста.</plain>
+        </string>
+    </verse>
+</song>

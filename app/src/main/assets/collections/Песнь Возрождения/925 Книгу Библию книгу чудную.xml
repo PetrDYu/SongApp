@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="925" name="Книгу Библию книгу чудную" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Книгу Библию, книгу чудную</plain>
+        </string>
+        <string>
+            <plain>Полюбил я с детских лет.</plain>
+        </string>
+        <string>
+            <plain>В час страдания, в жизни трудной мне</plain>
+        </string>
+        <string>
+            <plain>Проливает она чудный свет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С ней и в горести, в дни тяжелые</plain>
+        </string>
+        <string>
+            <plain>Утешенье найдешь для души.</plain>
+        </string>
+        <string>
+            <plain>И бальзам Святой ручьем Божиим</plain>
+        </string>
+        <string>
+            <plain>Проливается дивно в тиши.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть же знает мир и пусть сердится,</plain>
+        </string>
+        <string>
+            <plain>Что и я - верный воин Христа.</plain>
+        </string>
+        <string>
+            <plain>Свое звание не скрываю я,</plain>
+        </string>
+        <string>
+            <plain>С ним на жизнь и на смерть готов я.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бури жизни с ней, бури холода</plain>
+        </string>
+        <string>
+            <plain>Исчезают, как дым, навсегда.</plain>
+        </string>
+        <string>
+            <plain>Тучи черные, тучи грозные</plain>
+        </string>
+        <string>
+            <plain>Не потопят мой челн никогда.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2053" name="Восстань Израиль из сна войной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Восстань, Израиль, из сна войной,</plain>
+        </string>
+        <string>
+            <plain>Ибо истина спасёт;</plain>
+        </string>
+        <string>
+            <plain>Ведь из Сиона Освободитель твой</plain>
+        </string>
+        <string>
+            <plain>В годы торжества идёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, аллилуйя! О, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Господу, хвала! (2 р.).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ибо в горниле великой скорби</plain>
+        </string>
+        <string>
+            <plain>Я лишь твой народ избрал,</plain>
+        </string>
+        <string>
+            <plain>И в драгоценные злата копи</plain>
+        </string>
+        <string>
+            <plain>Я превращу металл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты Мой избранник, кого искал Я,</plain>
+        </string>
+        <string>
+            <plain>Дух того превознесёт,</plain>
+        </string>
+        <string>
+            <plain>И, собран Мною, народ изгнанья</plain>
+        </string>
+        <string>
+            <plain>Снова землю обретёт.</plain>
+        </string>
+    </verse>
+</song>

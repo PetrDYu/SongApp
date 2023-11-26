@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3013" name="О юность как ты хороша" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О юность, как ты хороша!</plain>
+        </string>
+        <string>
+            <plain>Но лучше ты, когда душа</plain>
+        </string>
+        <string>
+            <plain>себя Иисусу посвятит.</plain>
+        </string>
+        <string>
+            <plain>Что может радостнее быть?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дни юности, дни радости!</plain>
+        </string>
+        <string>
+            <plain>Душа, Христу их посвяти!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Счастливы юные сердца,</plain>
+        </string>
+        <string>
+            <plain>что уповают на Христа!</plain>
+        </string>
+        <string>
+            <plain>Послушным Богу от души</plain>
+        </string>
+        <string>
+            <plain>готов на помощь Он прийти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как чудно быть Его дитём</plain>
+        </string>
+        <string>
+            <plain>И пребывать всецело в Нём!</plain>
+        </string>
+        <string>
+            <plain>Да, это рай уж на земле.</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа, сладка ты мне.</plain>
+        </string>
+    </verse>
+</song>

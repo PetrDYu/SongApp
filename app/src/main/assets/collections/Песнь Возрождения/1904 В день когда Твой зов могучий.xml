@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1904" name="В день когда Твой зов могучий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В день, когда Твой зов могучий</plain>
+        </string>
+        <string>
+            <plain>Дух мой к жизни пробудил,</plain>
+        </string>
+        <string>
+            <plain>Ты меня для жизни лучшей</plain>
+        </string>
+        <string>
+            <plain>Раз навеки отделил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отделил в Свое владенье,</plain>
+        </string>
+        <string>
+            <plain>В Свой удел, наследья часть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я нес Тебе служенье,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я знал твою лишь власть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Меж моей душой и миром</plain>
+        </string>
+        <string>
+            <plain>Стену Ты Свою воздвиг,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я льнул к Твоим порфирам.</plain>
+        </string>
+        <string>
+            <plain>Чтоб о мире я забыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но как часто в удивленье,</plain>
+        </string>
+        <string>
+            <plain>Я нежданно открывал...</plain>
+        </string>
+        <string>
+            <plain>В сердце с миром единенье,</plain>
+        </string>
+        <string>
+            <plain>Нить вещественных начал...</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И теперь, быть может. Боже,</plain>
+        </string>
+        <string>
+            <plain>Ты во мне ту видишь нить;</plain>
+        </string>
+        <string>
+            <plain>Поспеши сильней и строже</plain>
+        </string>
+        <string>
+            <plain>С миром дух разъединить.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Все невидимые связи</plain>
+        </string>
+        <string>
+            <plain>С этим миром разрушай</plain>
+        </string>
+        <string>
+            <plain>И, как пятна на алмазе,</plain>
+        </string>
+        <string>
+            <plain>Грех от сердца удаляй...</plain>
+        </string>
+    </verse>
+</song>

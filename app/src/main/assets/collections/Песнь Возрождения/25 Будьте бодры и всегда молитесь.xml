@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="25" name="Будьте бодры и всегда молитесь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будьте бодры и всегда молитесь,</plain>
+        </string>
+        <string>
+            <plain>Скоро наш Господь придет.</plain>
+        </string>
+        <string>
+            <plain>Он возьмет лишь тех на пир небесный,</plain>
+        </string>
+        <string>
+            <plain>Кто Его в молитве ждет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жди, молись, еще немного,</plain>
+        </string>
+        <string>
+            <plain>Жди, молись, Господь велит;</plain>
+        </string>
+        <string>
+            <plain>Скоро Он придет во славе,</plain>
+        </string>
+        <string>
+            <plain>Нас возьмет, где свет царит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будьте бодры и всегда молитесь,</plain>
+        </string>
+        <string>
+            <plain>Враг лукавый ведь не спит,</plain>
+        </string>
+        <string>
+            <plain>В броню праведности облекитесь</plain>
+        </string>
+        <string>
+            <plain>И возьмите веры шит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будьте бодры и всегда молитесь,</plain>
+        </string>
+        <string>
+            <plain>Бог готов вам отвечать,</plain>
+        </string>
+        <string>
+            <plain>И молитвой чистой вы стремитесь</plain>
+        </string>
+        <string>
+            <plain>В благодати возрастать.</plain>
+        </string>
+    </verse>
+</song>

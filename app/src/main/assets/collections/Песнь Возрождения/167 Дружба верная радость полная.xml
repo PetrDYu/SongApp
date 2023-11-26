@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="167" name="Дружба верная радость полная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дружба верная, радость полная</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+        <string>
+            <plain>Мир течет рекой, дух ликует мой</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Только в Боге</plain>
+        </string>
+        <string>
+            <plain>(только с Иисусом),</plain>
+        </string>
+        <string>
+            <plain>Не устрашусь я ничего.</plain>
+        </string>
+        <string>
+            <plain>Только в Боге</plain>
+        </string>
+        <string>
+            <plain>(только с Иисусом),</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сладок жизни путь, счастьем дышит грудь</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+        <string>
+            <plain>Ближе Отчий дом вижу с каждым днем</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не боюсь врага, безопасен я</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+        <string>
+            <plain>Полный мир души нахожу в тиши</plain>
+        </string>
+        <string>
+            <plain>Только под рукой Всевышнего.</plain>
+        </string>
+    </verse>
+</song>

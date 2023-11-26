@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="157" name="Братья все ликуйте славный день настал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Братья, все ликуйте: славный день настал,</plain>
+        </string>
+        <string>
+            <plain>Сестры, торжествуйте: Бог нам радость дал;</plain>
+        </string>
+        <string>
+            <plain>Некогда чужие, мы теперь - друзья,</plain>
+        </string>
+        <string>
+            <plain>Близкими мы стали кровию Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Громко пойте: аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Бог нас спас и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Наши имена навеки</plain>
+        </string>
+        <string>
+            <plain>В книгу жизни записал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ныне приступили не к Синаю мы,</plain>
+        </string>
+        <string>
+            <plain>Нас уж не пугают гром и молнии,</plain>
+        </string>
+        <string>
+            <plain>Слово благодати слышим со креста,</plain>
+        </string>
+        <string>
+            <plain>Мы спаслись от гнева кровию Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верой и любовью мы теперь живем</plain>
+        </string>
+        <string>
+            <plain>И, омыты кровью, к небесам идем.</plain>
+        </string>
+        <string>
+            <plain>Светлая надежда веселит сердца,</plain>
+        </string>
+        <string>
+            <plain>Будем жить вовеки кровию Христа.</plain>
+        </string>
+    </verse>
+</song>

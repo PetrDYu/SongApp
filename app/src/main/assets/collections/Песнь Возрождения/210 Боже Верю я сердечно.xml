@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="210" name="Боже Верю я сердечно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже! Верю я сердечно,</plain>
+        </string>
+        <string>
+            <plain>Что не труд мой, не закон</plain>
+        </string>
+        <string>
+            <plain>Спас меня от смерти вечной;</plain>
+        </string>
+        <string>
+            <plain>Я трудом Христа спасен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дай, чтоб в жизненном хожденье</plain>
+        </string>
+        <string>
+            <plain>Вера не была мертва;</plain>
+        </string>
+        <string>
+            <plain>Чтоб я нес Тебе в смиренье</plain>
+        </string>
+        <string>
+            <plain>Дело веры, не слова.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вера - жизнь душе спасенной,</plain>
+        </string>
+        <string>
+            <plain>Но молю Тебя в слезах:</plain>
+        </string>
+        <string>
+            <plain>Дай, чтоб в жизни полусонной</plain>
+        </string>
+        <string>
+            <plain>Не забыл я о делах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб вера пламенела</plain>
+        </string>
+        <string>
+            <plain>Жаждой к подвигам святым,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в вере было дело,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я делом был движим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не для пользы иль награды</plain>
+        </string>
+        <string>
+            <plain>Я хочу дела творить,</plain>
+        </string>
+        <string>
+            <plain>Полный пенья и отрады</plain>
+        </string>
+        <string>
+            <plain>В них хочу Тебя хвалить.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>За Твой крест, дела, служенье,</plain>
+        </string>
+        <string>
+            <plain>За спасение без дел</plain>
+        </string>
+        <string>
+            <plain>Я хочу благодаренье</plain>
+        </string>
+        <string>
+            <plain>Принести Тебе из дел.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Дай, чтоб добрыми делами</plain>
+        </string>
+        <string>
+            <plain>Я светил вокруг себя,</plain>
+        </string>
+        <string>
+            <plain>Чтобы видя их очами,</plain>
+        </string>
+        <string>
+            <plain>Все прославили Тебя.</plain>
+        </string>
+    </verse>
+</song>

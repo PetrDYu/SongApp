@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1871" name="Воспряньте дети Божьи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспряньте, дети Божьи</plain>
+        </string>
+        <string>
+            <plain>Для радостной борьбы!</plain>
+        </string>
+        <string>
+            <plain>Сражаться всех, кто может,</plain>
+        </string>
+        <string>
+            <plain>Сзывает звук трубы.</plain>
+        </string>
+        <string>
+            <plain>Пред нами Божье знамя, -</plain>
+        </string>
+        <string>
+            <plain>Святых побед залог;</plain>
+        </string>
+        <string>
+            <plain>Идя сквозь битвы пламя,</plain>
+        </string>
+        <string>
+            <plain>Мужайтесь, с вами Бог!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Воспряньте, дети Божьи!</plain>
+        </string>
+        <string>
+            <plain>Могуча вражья власть;</plain>
+        </string>
+        <string>
+            <plain>И дышащая ложью</plain>
+        </string>
+        <string>
+            <plain>Страшна врага напасть;</plain>
+        </string>
+        <string>
+            <plain>Но ваша сила выше,</plain>
+        </string>
+        <string>
+            <plain>В святой Христа крови</plain>
+        </string>
+        <string>
+            <plain>И, как под крепкой крышей,</plain>
+        </string>
+        <string>
+            <plain>Под ней сокрыты вы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воспряньте, дети Божьи!</plain>
+        </string>
+        <string>
+            <plain>И враг ваш побежит</plain>
+        </string>
+        <string>
+            <plain>И к царскому подножью</plain>
+        </string>
+        <string>
+            <plain>Главу свою склонит.</plain>
+        </string>
+        <string>
+            <plain>Борцы ж в войне Христовой</plain>
+        </string>
+        <string>
+            <plain>Украсятся венцом</plain>
+        </string>
+        <string>
+            <plain>Небесной жизни новой</plain>
+        </string>
+        <string>
+            <plain>В блаженстве пред Христом.</plain>
+        </string>
+    </verse>
+</song>

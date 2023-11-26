@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3029" name="Мы приветствуем тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы приветствуем тебя,</plain>
+        </string>
+        <string>
+            <plain>ночь, что нам дала Христа,</plain>
+        </string>
+        <string>
+            <plain>что младенцем был рождён</plain>
+        </string>
+        <string>
+            <plain>и положен в ясли Он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рады встретить мы тебя,</plain>
+        </string>
+        <string>
+            <plain>ночь святая, дивная!</plain>
+        </string>
+        <string>
+            <plain>Радовались ангелы -</plain>
+        </string>
+        <string>
+            <plain>ещё больше рады мы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все от Бога далеки,</plain>
+        </string>
+        <string>
+            <plain>были под проклятьем мы,</plain>
+        </string>
+        <string>
+            <plain>но в Младенце прощены,</plain>
+        </string>
+        <string>
+            <plain>Богу вновь угодны мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слава Богу в вышине!</plain>
+        </string>
+        <string>
+            <plain>Нас, погрязших в страшном зле,</plain>
+        </string>
+        <string>
+            <plain>горячо так возлюбил</plain>
+        </string>
+        <string>
+            <plain>и нам Сына здесь явил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слава Господу Христу,</plain>
+        </string>
+        <string>
+            <plain>что на землю бедную</plain>
+        </string>
+        <string>
+            <plain>с трона царского сошёл,</plain>
+        </string>
+        <string>
+            <plain>к нам Спасителем пришёл!</plain>
+        </string>
+    </verse>
+</song>

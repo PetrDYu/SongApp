@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="245" name="Хоть и буря жизни стонет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть и буря жизни стонет,</plain>
+        </string>
+        <string>
+            <plain>Изменяют мне друзья,</plain>
+        </string>
+        <string>
+            <plain>Если даже все потонет,</plain>
+        </string>
+        <string>
+            <plain>Защитит рука Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Да, меня Ты охраняешь</plain>
+        </string>
+        <string>
+            <plain>Под Твоей рукой святой</plain>
+        </string>
+        <string>
+            <plain>И любовью окружаешь,</plain>
+        </string>
+        <string>
+            <plain>Мой Господь, Спаситель мой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если враг меня пугает</plain>
+        </string>
+        <string>
+            <plain>И погибелью грозит,</plain>
+        </string>
+        <string>
+            <plain>Мой Господь меня спасает</plain>
+        </string>
+        <string>
+            <plain>И от зла меня хранит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Даст ли мне Он испытанье, -</plain>
+        </string>
+        <string>
+            <plain>Все во благо для меня,</plain>
+        </string>
+        <string>
+            <plain>Не смутит меня страданье:</plain>
+        </string>
+        <string>
+            <plain>Знаю, любит Он меня.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Пусть грозят мне горе, беды,</plain>
+        </string>
+        <string>
+            <plain>Иисус - моя скала;</plain>
+        </string>
+        <string>
+            <plain>Даст мне радость Он победы</plain>
+        </string>
+        <string>
+            <plain>Над полками тьмы и зла.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="180" name="Боже, воду жизни в сердце мне излей" canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Боже, воду жизни в сердце мне излей.</plain>
+        </string>
+        <string>
+            <plain>Стань, Господь, моим Владыкой навсегда.</plain>
+        </string>
+        <string>
+            <plain>Все печали, все заботы, бремена</plain>
+        </string>
+        <string>
+            <plain>Ты возьми, Отец Небесный, у меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Отче.</plain>
+            <repeat id="0" rep_rate="6" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой, приди и властвуй надо мной.</plain>
+        </string>
+        <string>
+            <plain>Озари Своим сияньем, вдохнови,</plain>
+        </string>
+        <string>
+            <plain>Дай мне жажду покаянья, обнови,</plain>
+        </string>
+        <string>
+            <plain>Сердце чистое мне, Боже, сотвори.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Дух Святой.</plain>
+            <repeat id="1" rep_rate="4" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Жизнь свою Тебе вручаем, Иисус.</plain>
+        </string>
+        <string>
+            <plain>Кровью праведной Твоею нас омой.</plain>
+        </string>
+        <string>
+            <plain>Всех любовью воедино собери,</plain>
+        </string>
+        <string>
+            <plain>Укрепи и силой свыше облеки.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Иисус.</plain>
+            <repeat id="2" rep_rate="6" is_opening="false" />
+        </string>
+    </chorus>
+</song>

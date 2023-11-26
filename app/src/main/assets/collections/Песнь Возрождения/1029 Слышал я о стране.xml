@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1029" name="Слышал я о стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышал я о стране,</plain>
+        </string>
+        <string>
+            <plain>светлой той стороне.</plain>
+        </string>
+        <string>
+            <plain>Слово Божье о ней говорит.</plain>
+        </string>
+        <string>
+            <plain>От забот всех вдали</plain>
+        </string>
+        <string>
+            <plain>там не будет тоски.</plain>
+        </string>
+        <string>
+            <plain>Все новое Бог сотворит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>До небесной страны.</plain>
+        </string>
+        <string>
+            <plain>Светлой той стороны</plain>
+        </string>
+        <string>
+            <plain>Голос бури земной не дойдет.</plain>
+        </string>
+        <string>
+            <plain>Украшен тот град,</plain>
+        </string>
+        <string>
+            <plain>Ждет он всех Божьих чад.</plain>
+        </string>
+        <string>
+            <plain>Солнца там никогда не зайдет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Древо жизни цветет,</plain>
+        </string>
+        <string>
+            <plain>плод целебный несет,</plain>
+        </string>
+        <string>
+            <plain>И живая река там бежит.</plain>
+        </string>
+        <string>
+            <plain>Голос арфы звучит,</plain>
+        </string>
+        <string>
+            <plain>песнь хвалы не молчит,</plain>
+        </string>
+        <string>
+            <plain>Все новое Бог сотворит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Одесную Отца</plain>
+        </string>
+        <string>
+            <plain>нам обитель дана,</plain>
+        </string>
+        <string>
+            <plain>Бесконечная радость царит.</plain>
+        </string>
+        <string>
+            <plain>Там весна не пройдет,</plain>
+        </string>
+        <string>
+            <plain>плач туда не войдет,</plain>
+        </string>
+        <string>
+            <plain>Все новое Бог сотворит!</plain>
+        </string>
+    </verse>
+</song>

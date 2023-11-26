@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1911" name="Я обрел такой покой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я обрел такой покой. (Зр.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Я обрел такой покой. (Зр.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я обрел свою любовь. (Зр.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Я обрел свою любовь. (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я обрел веселье в Нем. (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Я обрел веселье в Нем. (3 р.)</plain>
+        </string>
+        <string>
+            <plain>Навсегда.</plain>
+        </string>
+    </verse>
+</song>

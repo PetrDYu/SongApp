@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1453" name="Позволь мне головой склоненной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Позволь мне головой склоненной</plain>
+        </string>
+        <string>
+            <plain>Припасть к Твоим святым ногам,</plain>
+        </string>
+        <string>
+            <plain>Позволь душе освобожденной</plain>
+        </string>
+        <string>
+            <plain>Смягчить слезами тяжесть ран.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я знаю, если кровь святая</plain>
+        </string>
+        <string>
+            <plain>Мне в сердце семенем падет.</plain>
+        </string>
+        <string>
+            <plain>Во мне, как искорка живая.</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь произрастет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И, может, я сумею тоже</plain>
+        </string>
+        <string>
+            <plain>Идти по селам, городам,</plain>
+        </string>
+        <string>
+            <plain>Вести борьбу с грехом и ложью,</plain>
+        </string>
+        <string>
+            <plain>Покой и мир нести сердцам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я не молю о высшем счастье:</plain>
+        </string>
+        <string>
+            <plain>Зреть лучезарное чело,</plain>
+        </string>
+        <string>
+            <plain>Позволь мне хоть слезой участья</plain>
+        </string>
+        <string>
+            <plain>Смягчить страдание Твое.</plain>
+        </string>
+    </verse>
+</song>

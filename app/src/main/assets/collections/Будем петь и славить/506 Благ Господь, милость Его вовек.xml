@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="506" name="Благ Господь, милость Его вовек" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Благ Господь, милость Его вовек.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <plain>Рукоплещут реки, и ликуют горы:</plain>
+        </string>
+        <string>
+            <plain>Он над всеми народами Царь;</plain>
+        </string>
+        <string>
+            <plain>Имя Господа мира, Его славу и силу</plain>
+        </string>
+        <string>
+            <plain>Небеса и земля возвестят.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2156" name="И это пройдёт говорите спокойно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"И это пройдёт", - говорите спокойно</plain>
+        </string>
+        <string>
+            <plain>На всё, что случается в жизни земной.</plain>
+        </string>
+        <string>
+            <plain>Хотя вам бывает и тяжко, и больно,</plain>
+        </string>
+        <string>
+            <plain>Не теряйте надежды и веры живой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не смейте роптать на бессилия гнёт,</plain>
+        </string>
+        <string>
+            <plain>Крепитесь, молитесь уверенно, смело,</plain>
+        </string>
+        <string>
+            <plain>Говорите в душе: "И это пройдёт".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И это пройдёт. Не горюйте напрасно,</plain>
+        </string>
+        <string>
+            <plain>Когда без причины преследуют вас.</plain>
+        </string>
+        <string>
+            <plain>Бог знает дела ваши, планы и мысли,</plain>
+        </string>
+        <string>
+            <plain>За ваше терпенье Он дивно воздаст.</plain>
+        </string>
+    </verse>
+</song>

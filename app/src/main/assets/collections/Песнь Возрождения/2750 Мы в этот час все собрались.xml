@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2750" name="Мы в этот час все собрались" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы в этот час все собрались,</plain>
+        </string>
+        <string>
+            <plain>Чтоб воздать Богу славу, хвалу,</plain>
+        </string>
+        <string>
+            <plain>Что хранил Он нас всех в этом мире,</plain>
+        </string>
+        <string>
+            <plain>Даровал всем нам жизнь вечную.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пой, гитара, пой</plain>
+        </string>
+        <string>
+            <plain>О чудном творении Бога,</plain>
+        </string>
+        <string>
+            <plain>Пой, гитара, пой</plain>
+        </string>
+        <string>
+            <plain>О дивном ученье Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На струнных инструментах</plain>
+        </string>
+        <string>
+            <plain>Воздадим мы славу Тому,</plain>
+        </string>
+        <string>
+            <plain>Кто спасает нас в бедах, несчастьях,</plain>
+        </string>
+        <string>
+            <plain>Кто дает жизнь и радость всему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О звучите, инструменты,</plain>
+        </string>
+        <string>
+            <plain>Прославляйте любовь Отца.</plain>
+        </string>
+        <string>
+            <plain>Пойте громче, все братья и сестры,</plain>
+        </string>
+        <string>
+            <plain>Славьте имя Иисуса Христа!</plain>
+        </string>
+    </verse>
+</song>

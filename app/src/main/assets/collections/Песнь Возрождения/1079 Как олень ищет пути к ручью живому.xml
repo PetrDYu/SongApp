@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1079" name="Как олень ищет пути к ручью живому" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как олень ищет пути к ручью живому.</plain>
+        </string>
+        <string>
+            <plain>Жаждою томим.</plain>
+        </string>
+        <string>
+            <plain>Так моя душа ищет Господа, Бога моего.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мой Господь - Ты мой щит!</plain>
+        </string>
+        <string>
+            <plain>Моя надежда, моя сила!</plain>
+        </string>
+        <string>
+            <plain>Всю мою душу, всего себя Отдаю Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слава, честь и поклоненье</plain>
+        </string>
+        <string>
+            <plain>Агнцу Божьему, Христу!</plain>
+        </string>
+        <string>
+            <plain>Да звучит Ему хваленье!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя Господу!</plain>
+        </string>
+    </verse>
+</song>

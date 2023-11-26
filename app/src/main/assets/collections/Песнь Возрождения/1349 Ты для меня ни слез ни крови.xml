@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1349" name="Ты для меня ни слез ни крови" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты для меня ни слез, ни крови,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, не пощадил.</plain>
+        </string>
+        <string>
+            <plain>О, если б огнь Твоей любови</plain>
+        </string>
+        <string>
+            <plain>Меня навек воспламенил,</plain>
+        </string>
+        <string>
+            <plain>Навек воспламенил!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, если б образ мук страданья</plain>
+        </string>
+        <string>
+            <plain>И смерти на кресте Твоей</plain>
+        </string>
+        <string>
+            <plain>Остался бы живым сияньем</plain>
+        </string>
+        <string>
+            <plain>Запечатлен в душе моей,</plain>
+        </string>
+        <string>
+            <plain>Запечатлен в душе моей.</plain>
+        </string>
+    </verse>
+</song>

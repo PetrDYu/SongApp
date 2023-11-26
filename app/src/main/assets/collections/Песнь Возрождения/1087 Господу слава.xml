@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1087" name="Господу слава" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господу слава!</plain>
+        </string>
+        <string>
+            <plain>Осанна Господу!</plain>
+        </string>
+        <string>
+            <plain>Господу слава!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Жизнь свою Богу всю до конца отдав.</plain>
+        </string>
+        <string>
+            <plain>Мы любим Господа. Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

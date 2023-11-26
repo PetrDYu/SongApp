@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3275" name="Есть песня в моём сердце её всегда пою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть песня в моём сердце, её всегда пою.</plain>
+        </string>
+        <string>
+            <plain>Она о моём Друге, кто жизнь отдал Свою</plain>
+        </string>
+        <string>
+            <plain>за то, чтобы имела я счастье на земле,</plain>
+        </string>
+        <string>
+            <plain>за то, что мир и радость дарить моей душе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой Иисус, мой Иисус,</plain>
+        </string>
+        <string>
+            <plain>я повторяю, мой - Иисус!</plain>
+        </string>
+        <string>
+            <plain>Пою и вечно петь хочу</plain>
+        </string>
+        <string>
+            <plain>хвалу Иисусу моему.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все, что для жизни нужно, дарует мне мой Друг,</plain>
+        </string>
+        <string>
+            <plain>чтоб с радостью могла я здесь совершать свой путь.</plain>
+        </string>
+        <string>
+            <plain>Душа, чтоб не ослабела, питанье в полноте</plain>
+        </string>
+        <string>
+            <plain>чрез Слово и общенье имею я в Христе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все дни, что Он даёт мне, как дар принять хочу,</plain>
+        </string>
+        <string>
+            <plain>чтоб сердце большое пело хвалу и честь Ему.</plain>
+        </string>
+        <string>
+            <plain>Хочу вникать всё глубже в любовь и благодать,</plain>
+        </string>
+        <string>
+            <plain>Его страданья помнить, чтоб громче воспевать.</plain>
+        </string>
+    </verse>
+</song>

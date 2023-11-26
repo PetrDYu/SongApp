@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="623" name="Христос воскрес из мертвых" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос воскрес из мертвых,</plain>
+        </string>
+        <string>
+            <plain>Смертию смерть попрал</plain>
+        </string>
+        <string>
+            <plain>И сущим во гробах жизнь даровал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Христос воскрес из мертвых,</plain>
+        </string>
+        <string>
+            <plain>Смертию смерть попрал</plain>
+        </string>
+        <string>
+            <plain>И сущим во гробах жизнь даровал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос воскрес из мертвых,</plain>
+        </string>
+        <string>
+            <plain>Смертию смерть попрал</plain>
+        </string>
+        <string>
+            <plain>И сущим во гробах жизнь даровал.</plain>
+        </string>
+    </verse>
+</song>

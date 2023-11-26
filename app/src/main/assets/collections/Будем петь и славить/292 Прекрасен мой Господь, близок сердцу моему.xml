@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="292" name="Прекрасен мой Господь, близок сердцу моему" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Прекрасен мой Господь, близок сердцу моему.</plain>
+        </string>
+        <string>
+            <plain>Прекрасен мой Господь, воспою Ему хвалу.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>О, Иисуса красота не иссякнет никогда!</plain>
+        </string>
+        <string>
+            <plain>Вечно светит, как звезда, в мире мрака и греха.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

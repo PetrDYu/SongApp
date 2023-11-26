@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="928" name="Ко Мне обратитесь концы земли" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ко Мне обратитесь концы земли.</plain>
+        </string>
+        <string>
+            <plain>Христос сказал: "Дай сердце Мне,</plain>
+        </string>
+        <string>
+            <plain>Грешник, словам Божиим внемли.</plain>
+        </string>
+        <string>
+            <plain>Прими дар спасенья души вполне".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У Меня жизнь для тебя</plain>
+        </string>
+        <string>
+            <plain>На Голгофской вышине.</plain>
+        </string>
+        <string>
+            <plain>Я страдал, тебя любя,</plain>
+        </string>
+        <string>
+            <plain>Грешник! О, приди ко Мне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда в первый раз я к Спасителю</plain>
+        </string>
+        <string>
+            <plain>Поднял глаза мои в мольбе,</plain>
+        </string>
+        <string>
+            <plain>"Грешник, - сказал Он, - тебя люблю</plain>
+        </string>
+        <string>
+            <plain>И истинно Я говорю тебе".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Смотреть на Христа буду я всегда,</plain>
+        </string>
+        <string>
+            <plain>Веря в обеты Божий.</plain>
+        </string>
+        <string>
+            <plain>Льется с Него, как с небес вода,</plain>
+        </string>
+        <string>
+            <plain>Жизнь вновь по иссохшему дну струи.</plain>
+        </string>
+    </verse>
+</song>

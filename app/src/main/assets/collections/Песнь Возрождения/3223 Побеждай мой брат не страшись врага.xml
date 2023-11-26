@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3223" name="Побеждай мой брат не страшись врага" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Побеждай, мой брат, не страшись врага,</plain>
+        </string>
+        <string>
+            <plain>если в битве он грянет на тебя!</plain>
+        </string>
+        <string>
+            <plain>Побеждён лишь будет враг чрез кровь Христа,</plain>
+        </string>
+        <string>
+            <plain>не оставит Бог одного тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ни на шаг ты в битве не отступай,</plain>
+        </string>
+        <string>
+            <plain>с Богом всех врагов смело побеждай!</plain>
+        </string>
+        <string>
+            <plain>В силе Божьей ты одолей врага,</plain>
+        </string>
+        <string>
+            <plain>и венец победы Он даст тогда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Побеждай, мой брат, Господь с тобой пойдёт</plain>
+        </string>
+        <string>
+            <plain>и в любой борьбе помощь Он пошлёт.</plain>
+        </string>
+        <string>
+            <plain>В трудный час победу даст рукой Своей.</plain>
+        </string>
+        <string>
+            <plain>Не страшись врага, будь в борьбе смелей!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Побеждай, мой брат, ты можешь навсегда</plain>
+        </string>
+        <string>
+            <plain>взять венец победы чрез кровь Христа.</plain>
+        </string>
+        <string>
+            <plain>Стойким и бесстрашным будь в святой борьбе,</plain>
+        </string>
+        <string>
+            <plain>даст награду Он в вечности тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Побеждай, мой брат, иди бесстрашно в бой,</plain>
+        </string>
+        <string>
+            <plain>ты вполне силён, ведь Господь с тобой.</plain>
+        </string>
+        <string>
+            <plain>Ты силён, чтоб в битве верно устоять</plain>
+        </string>
+        <string>
+            <plain>и врага всегда смело побеждать.</plain>
+        </string>
+    </verse>
+</song>

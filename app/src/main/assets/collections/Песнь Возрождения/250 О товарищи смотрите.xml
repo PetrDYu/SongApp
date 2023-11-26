@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="250" name="О товарищи смотрите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, товарищи, смотрите,</plain>
+        </string>
+        <string>
+            <plain>С неба дан сигнал</plain>
+        </string>
+        <string>
+            <plain>Новые полки глядите,</plain>
+        </string>
+        <string>
+            <plain>Нам Господь послал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Крепость Мою не сдавайте:</plain>
+        </string>
+        <string>
+            <plain>Скоро Я приду!"</plain>
+        </string>
+        <string>
+            <plain>Вы на небо отвечайте:</plain>
+        </string>
+        <string>
+            <plain>"Не сдадим врагу!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот идут полки чужие –</plain>
+        </string>
+        <string>
+            <plain>Сатана ведет;</plain>
+        </string>
+        <string>
+            <plain>Братья падают родные,</plain>
+        </string>
+        <string>
+            <plain>Страх уж всех берет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знамя выше подымите,</plain>
+        </string>
+        <string>
+            <plain>Слушайте трубу;</plain>
+        </string>
+        <string>
+            <plain>Смело, дружно все идите</plain>
+        </string>
+        <string>
+            <plain>В Божию войну!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Длится бой, полки редеют,</plain>
+        </string>
+        <string>
+            <plain>Помощь уж близка;</plain>
+        </string>
+        <string>
+            <plain>Не сдаются, не робеют</plain>
+        </string>
+        <string>
+            <plain>Воины Христа.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вот идет Господь наш с неба,</plain>
+        </string>
+        <string>
+            <plain>Легионы с Ним;</plain>
+        </string>
+        <string>
+            <plain>С Ним и радость и победа, -</plain>
+        </string>
+        <string>
+            <plain>Славу воздадим.</plain>
+        </string>
+    </verse>
+    <chorus number="5">
+        <string>
+            <plain>"Крепость Мою не сдавайте:</plain>
+        </string>
+        <string>
+            <plain>Вот уж Я иду!"</plain>
+        </string>
+        <string>
+            <plain>Вы на небо отвечайте:</plain>
+        </string>
+        <string>
+            <plain>"Не сдали врагу!"</plain>
+        </string>
+    </chorus>
+</song>

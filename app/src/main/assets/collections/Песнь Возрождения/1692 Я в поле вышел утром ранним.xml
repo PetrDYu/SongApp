@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1692" name="Я в поле вышел утром ранним" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я в поле вышел утром ранним,</plain>
+        </string>
+        <string>
+            <plain>Прохладой осени дышал.</plain>
+        </string>
+        <string>
+            <plain>И летопись воспоминаний</plain>
+        </string>
+        <string>
+            <plain>Передо мною в миг прошла.</plain>
+        </string>
+        <string>
+            <plain>Как будто слышал я впервые</plain>
+        </string>
+        <string>
+            <plain>Часов старинных перезвон.</plain>
+        </string>
+        <string>
+            <plain>Дела вставали, как живые</plain>
+        </string>
+        <string>
+            <plain>Свидетели былых времен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вспоминаю осенью</plain>
+        </string>
+        <string>
+            <plain>времена весенние,</plain>
+        </string>
+        <string>
+            <plain>Поле мое, ниву мою.</plain>
+        </string>
+        <string>
+            <plain>Чем оно засеяно, поле мое.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жнецы поспешно убирают</plain>
+        </string>
+        <string>
+            <plain>Колосьев полное зерно,</plain>
+        </string>
+        <string>
+            <plain>А рядом полоса лежала.</plain>
+        </string>
+        <string>
+            <plain>Покрыта диким сорняком.</plain>
+        </string>
+        <string>
+            <plain>На сердце вдруг так больно стало.</plain>
+        </string>
+        <string>
+            <plain>От слез не смог сдержать себя.</plain>
+        </string>
+        <string>
+            <plain>"Господь, прости, - уста шептали.</plain>
+        </string>
+        <string>
+            <plain>- Ведь это нивушка моя".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодарю, Господь, сердечно.</plain>
+        </string>
+        <string>
+            <plain>Что на закате жизни дня</plain>
+        </string>
+        <string>
+            <plain>Ты в милосердьи бесконечном</plain>
+        </string>
+        <string>
+            <plain>Простил, помиловал меня.</plain>
+        </string>
+        <string>
+            <plain>Теперь спешу засеять ниву</plain>
+        </string>
+        <string>
+            <plain>Зерном отборным, не пустым.</plain>
+        </string>
+        <string>
+            <plain>Чтоб день великой славной жатвы</plain>
+        </string>
+        <string>
+            <plain>Меня внезапно не застиг.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Вспоминаю осенью</plain>
+        </string>
+        <string>
+            <plain>времена весенние,</plain>
+        </string>
+        <string>
+            <plain>Поле мое, ниву мою.</plain>
+        </string>
+        <string>
+            <plain>Лишь добрым засею я поле мое.</plain>
+        </string>
+    </chorus>
+</song>

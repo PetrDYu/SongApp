@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="359" name="Мой брат пора уж пробудиться" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой брат, пора уж пробудиться</plain>
+        </string>
+        <string>
+            <plain>От сна греха и пустоты!</plain>
+        </string>
+        <string>
+            <plain>Христос давно к тебе стучится</plain>
+        </string>
+        <string>
+            <plain>И кротко ждет твоей любви.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не оттолкни,</plain>
+        </string>
+        <string>
+            <plain>Он кротко ждет твоей любви!</plain>
+        </string>
+        <string>
+            <plain>И поспеши</plain>
+        </string>
+        <string>
+            <plain>Скорей, скорей к Нему приди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он возлюбил любовью вечной,</plain>
+        </string>
+        <string>
+            <plain>До крестной смерти возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Тебя, тебя, мой брат беспечный,</plain>
+        </string>
+        <string>
+            <plain>От вечной смерти искупил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Из ран и сердца кровь струилась,</plain>
+        </string>
+        <string>
+            <plain>Но как горел любовью взор!</plain>
+        </string>
+        <string>
+            <plain>Мой брат, Он пострадал невинно,</plain>
+        </string>
+        <string>
+            <plain>Мы заслужили тот позор.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Святая кровь все очищает,</plain>
+        </string>
+        <string>
+            <plain>Снимает с сердца страшный гнет,</plain>
+        </string>
+        <string>
+            <plain>Она всю душу обновляет</plain>
+        </string>
+        <string>
+            <plain>И к тихой пристани ведет.</plain>
+        </string>
+    </verse>
+</song>

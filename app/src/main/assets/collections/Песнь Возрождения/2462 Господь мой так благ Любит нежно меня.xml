@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2462" name="Господь мой так благ Любит нежно меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь мой так благ, Любит нежно меня,</plain>
+        </string>
+        <string>
+            <plain>И нежной любовью Он любит тебя.</plain>
+        </string>
+        <string>
+            <plain>Он хочет помочь тебе В нуждах твоих,</plain>
+        </string>
+        <string>
+            <plain>Дать радость и счастье И благ всех земных.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог знает все О трудностях твоих,</plain>
+        </string>
+        <string>
+            <plain>Бог знает все, Как трудишься ты в них.</plain>
+        </string>
+        <string>
+            <plain>О, верь, Он знает жажду Всей твоей души,</plain>
+        </string>
+        <string>
+            <plain>Бог знает все, к Нему ты поспеши.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поможет Господь, Он с тобою пойдет,</plain>
+        </string>
+        <string>
+            <plain>Укажет путь в Вечность, Что к жизни ведет.</plain>
+        </string>
+        <string>
+            <plain>Надейся на Бога И не унывай, Чрез бури ведет</plain>
+        </string>
+        <string>
+            <plain>Он нас В светлый Свой край.</plain>
+        </string>
+    </verse>
+</song>

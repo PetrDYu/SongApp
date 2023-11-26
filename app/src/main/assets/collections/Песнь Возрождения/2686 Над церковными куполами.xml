@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2686" name="Над церковными куполами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Над церковными куполами</plain>
+        </string>
+        <string>
+            <plain>Небо сине-синее. Я иду.</plain>
+        </string>
+        <string>
+            <plain>Под моими ногами</plain>
+        </string>
+        <string>
+            <plain>Русь пролегла родимая.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тихим светом помалу светятся</plain>
+        </string>
+        <string>
+            <plain>Листья осени обожженные,</plain>
+        </string>
+        <string>
+            <plain>И легко душе моей верится</plain>
+        </string>
+        <string>
+            <plain>В вечный рай, где живут спасенные.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В чистом небе поют херувимы.</plain>
+        </string>
+        <string>
+            <plain>Сердце рвется от счастья и радости.</plain>
+        </string>
+        <string>
+            <plain>Для меня этот мир - любимый:</plain>
+        </string>
+        <string>
+            <plain>Полон света, добра и благости.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На земле моя жизнь окончится,</plain>
+        </string>
+        <string>
+            <plain>Пролетит незаметно, как птица.</plain>
+        </string>
+        <string>
+            <plain>И мне очень, очень хочется</plain>
+        </string>
+        <string>
+            <plain>За Россию всегда молиться!</plain>
+        </string>
+    </verse>
+</song>

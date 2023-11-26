@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1148" name="Когда я в житейских волнах утопаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я в житейских волнах утопаю,</plain>
+        </string>
+        <string>
+            <plain>И вера слабеет моя,</plain>
+        </string>
+        <string>
+            <plain>К Тебе я в молитве своей простираюсь,</plain>
+        </string>
+        <string>
+            <plain>Молю, чтоб услышал меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но веры так мало, и силы не стало,</plain>
+        </string>
+        <string>
+            <plain>И гаснут порывы любви.</plain>
+        </string>
+        <string>
+            <plain>Молитва так слаба, надежда увяла,</plain>
+        </string>
+        <string>
+            <plain>Прошу, мой Господь, помоги.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В волнениях жизни порою слабею,</plain>
+        </string>
+        <string>
+            <plain>Идти за Тобою нет сил.</plain>
+        </string>
+        <string>
+            <plain>Душою своею так сильно болею.</plain>
+        </string>
+        <string>
+            <plain>Молю, чтоб меня Ты простил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И верю, что слышишь меня Ты, Отец мой.</plain>
+        </string>
+        <string>
+            <plain>Хоть вера так слаба в груди...</plain>
+        </string>
+        <string>
+            <plain>И Ты дашь мне силы идти до могилы,</plain>
+        </string>
+        <string>
+            <plain>Не падая духом в пути.</plain>
+        </string>
+    </verse>
+</song>

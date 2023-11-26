@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2343" name="Так бывает порою на хороших людей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Так бывает порою: на хороших людей</plain>
+        </string>
+        <string>
+            <plain>Кто-то скажет плохое и разлучит друзей.</plain>
+        </string>
+        <string>
+            <plain>Гибнут нежные чувства, остывает любовь</plain>
+        </string>
+        <string>
+            <plain>От чьих-то коварных и завистливых слов.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Крикнуть хочется людям, чтоб услышал весь свет:</plain>
+        </string>
+        <string>
+            <plain>"Осторожно с любовью, ведь возврата к ней нет!".</plain>
+        </string>
+        <string>
+            <plain>В мире горя довольно, берегите любовь</plain>
+        </string>
+        <string>
+            <plain>От жестоких ударов и завистливых слов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всем нам надо учиться счастье в Боге беречь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы было на свете больше радостных встреч,</plain>
+        </string>
+        <string>
+            <plain>Чтобы горечь разлуки не грозила сердцам.</plain>
+        </string>
+        <string>
+            <plain>Не давайте же, люди, волю скверным словам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так бывает порою: на хороших людей</plain>
+        </string>
+        <string>
+            <plain>Кто-то скажет плохое и разлучит друзей.</plain>
+        </string>
+        <string>
+            <plain>Гибнут нежные чувства, остывает любовь</plain>
+        </string>
+        <string>
+            <plain>От чьих-то коварных и завистливых слов.</plain>
+        </string>
+        <string>
+            <plain>В мире горя довольно, берегите любовь</plain>
+        </string>
+        <string>
+            <plain>От жестоких ударов и завистливых слов.</plain>
+        </string>
+    </verse>
+</song>

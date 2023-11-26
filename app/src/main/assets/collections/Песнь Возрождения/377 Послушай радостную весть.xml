@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="377" name="Послушай радостную весть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Послушай радостную весть,</plain>
+        </string>
+        <string>
+            <plain>Что совершил для нас Христос:</plain>
+        </string>
+        <string>
+            <plain>Как Он оставил славу, честь</plain>
+        </string>
+        <string>
+            <plain>И к нам пришел в долину слез!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто радостной поверит вести,</plain>
+        </string>
+        <string>
+            <plain>Тот будет вечно жить с Иисусом вместе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он за тебя и за меня,</plain>
+        </string>
+        <string>
+            <plain>Умерши, в гробе был три дня;</plain>
+        </string>
+        <string>
+            <plain>Он чашу скорби выпил Сам,</plain>
+        </string>
+        <string>
+            <plain>Чтоб чашу радости дать нам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За нас Он кровь Свою пролил</plain>
+        </string>
+        <string>
+            <plain>И ключ спасенья нам открыл;</plain>
+        </string>
+        <string>
+            <plain>И если жаждущий придет,</plain>
+        </string>
+        <string>
+            <plain>В Нем утоление найдет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поверь Евангельским словам</plain>
+        </string>
+        <string>
+            <plain>И путь найдешь ты к небесам;</plain>
+        </string>
+        <string>
+            <plain>Верь, наказание на Нем</plain>
+        </string>
+        <string>
+            <plain>Совершено за нас Отцом.</plain>
+        </string>
+    </verse>
+</song>

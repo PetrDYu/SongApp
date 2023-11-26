@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2763" name="Прошли столетья летят года" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прошли столетья, летят года,</plain>
+        </string>
+        <string>
+            <plain>И кажется, так будет всегда,</plain>
+        </string>
+        <string>
+            <plain>Но друг, не вечно тебе здесь жить,</plain>
+        </string>
+        <string>
+            <plain>Где будешь вечность проводить?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Уж скоро, скоро Господь придет</plain>
+        </string>
+        <string>
+            <plain>И от земли Он Своих возьмет,</plain>
+        </string>
+        <string>
+            <plain>Готов ли ты, друг, Его встречать</plain>
+        </string>
+        <string>
+            <plain>И что пред Ним будешь отвечать?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог есть и будет вовеки Он,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мира Им воскрешен,</plain>
+        </string>
+        <string>
+            <plain>И радость в сердце имеем мы,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он - Спаситель нашей души.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И ныне нежно Христос зовет,</plain>
+        </string>
+        <string>
+            <plain>Стучится в сердце, ответа ждет,</plain>
+        </string>
+        <string>
+            <plain>Покайся, слышишь, приди сейчас,</plain>
+        </string>
+        <string>
+            <plain>Быть может, бьёт уж последний час.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="236" name="Мой Господь всегда со мною, можно ль большего желать" canon="false" text="Ф. Кросби" textRus="" music="Р. Лоури" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Мой Господь всегда со мною, можно ль большего желать?</plain>
+        </string>
+        <string>
+            <plain>Сомневаться не дерзаю: Он дает мне благодать.</plain>
+        </string>
+        <string>
+            <plain>Мир святой наполнил душу, дивный свет рассеял тьму,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Что б ни встретилось, я слышу</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мой Господь всегда со мною, ободряет на пути.</plain>
+        </string>
+        <string>
+            <plain>Благ великих удостоил, помогает крест нести.</plain>
+        </string>
+        <string>
+            <plain>Хоть нога порой споткнется, хоть бываю одинок,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Из скалы высокой льется вечной радости поток.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мой Господь всегда со мною, полнота блаженства в Нем.</plain>
+        </string>
+        <string>
+            <plain>И меня Он успокоит, приведет в небесный дом.</plain>
+        </string>
+        <string>
+            <plain>Дух живой из царства тленья вознесется в край иной,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Воспоет Христу хваленье, что Он был всегда со мной.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

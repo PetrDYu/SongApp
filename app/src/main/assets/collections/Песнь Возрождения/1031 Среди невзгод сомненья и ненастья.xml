@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1031" name="Среди невзгод сомненья и ненастья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Среди невзгод, сомненья и ненастья.</plain>
+        </string>
+        <string>
+            <plain>Среди тоски, унынья и забот</plain>
+        </string>
+        <string>
+            <plain>Не вижу пред собой я в мире счастья,</plain>
+        </string>
+        <string>
+            <plain>Но все ж иду, друзья мои, вперед.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хоть часто слезы очи застилают,</plain>
+        </string>
+        <string>
+            <plain>Никто с советом добрым не придет,</plain>
+        </string>
+        <string>
+            <plain>Наоборот, насмешкам подвергают.</plain>
+        </string>
+        <string>
+            <plain>Но я стремлюсь, друзья мои, вперед.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть иногда совсем ослабеваю,</plain>
+        </string>
+        <string>
+            <plain>Любовь моя становится, как лед,</plain>
+        </string>
+        <string>
+            <plain>Но вновь ее я верой возгреваю</plain>
+        </string>
+        <string>
+            <plain>И все иду, друзья мои, вперед.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Борюсь с врагом, слабеют мои силы,</plain>
+        </string>
+        <string>
+            <plain>Но вдаль смотрю - блестит там небосвод.</plain>
+        </string>
+        <string>
+            <plain>И я решил сражаться до могилы</plain>
+        </string>
+        <string>
+            <plain>И все идти, друзья мои, вперед.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Не пропадут труды мои, усилья -</plain>
+        </string>
+        <string>
+            <plain>Господь меня до цели доведет.</plain>
+        </string>
+        <string>
+            <plain>Он повелит - развяжут мои крылья,</plain>
+        </string>
+        <string>
+            <plain>И не пойду, а полечу вперед!</plain>
+        </string>
+    </verse>
+</song>

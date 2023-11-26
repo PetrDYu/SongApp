@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3120" name="Если мир зовет тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если мир зовет тебя</plain>
+        </string>
+        <string>
+            <plain>на греховные дела,</plain>
+        </string>
+        <string>
+            <plain>тогда задай себе вопрос:</plain>
+        </string>
+        <string>
+            <plain>«Что б решил Христос?»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Что б тогда решил Христос?</plain>
+        </string>
+        <string>
+            <plain>Что б тогда решил Христос?</plain>
+        </string>
+        <string>
+            <plain>В искушеньях ты задай вопрос:</plain>
+        </string>
+        <string>
+            <plain>«Что б тогда решил Христос?»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердце от греха храни,</plain>
+        </string>
+        <string>
+            <plain>с Иисусом ты живи</plain>
+        </string>
+        <string>
+            <plain>и размышляй над словом ты:</plain>
+        </string>
+        <string>
+            <plain>«Что б решил Христос?»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если людям нужен ты</plain>
+        </string>
+        <string>
+            <plain>- словом, делом помоги,</plain>
+        </string>
+        <string>
+            <plain>сей семя доброе в пути:</plain>
+        </string>
+        <string>
+            <plain>так решил Христос.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Свет повсюду излучай,</plain>
+        </string>
+        <string>
+            <plain>жизнь для Бога посвящай</plain>
+        </string>
+        <string>
+            <plain>и грешным Слово разъясняй:</plain>
+        </string>
+        <string>
+            <plain>Так решил Христос.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты исполнил долг земной</plain>
+        </string>
+        <string>
+            <plain>пред праведным Судьей?</plain>
+        </string>
+        <string>
+            <plain>Всегда вопрос ты задавай:</plain>
+        </string>
+        <string>
+            <plain>«Что б решил Христос?»</plain>
+        </string>
+    </verse>
+</song>

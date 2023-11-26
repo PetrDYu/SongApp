@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1160" name="Надо мною лист кружится" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Надо мною лист кружится.</plain>
+        </string>
+        <string>
+            <plain>Пожелтевший, медленно упал.</plain>
+        </string>
+        <string>
+            <plain>От других он отделился,</plain>
+        </string>
+        <string>
+            <plain>Без поры, как цвет травы, увял.</plain>
+        </string>
+        <string>
+            <plain>Отчего этот лист пожелтел?</plain>
+        </string>
+        <string>
+            <plain>Может, влаги в себе не имел?</plain>
+        </string>
+        <string>
+            <plain>Может быть, иногда сам не видел себя. -</plain>
+        </string>
+        <string>
+            <plain>Так и с нами бывает, друзья?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Друзья, друзья,</plain>
+        </string>
+        <string>
+            <plain>забывать нам друг друга нельзя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вспомни, как Христос трудился,</plain>
+        </string>
+        <string>
+            <plain>Показал заботу и любовь.</plain>
+        </string>
+        <string>
+            <plain>Вспомни, как Отцу молился,</plain>
+        </string>
+        <string>
+            <plain>И за нас пролил святую кровь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот любовь, вот любовь, вот любовь!</plain>
+        </string>
+        <string>
+            <plain>Как сильна ты, святая любовь!</plain>
+        </string>
+        <string>
+            <plain>Мог бы я оценить, хоть частицу любви</plain>
+        </string>
+        <string>
+            <plain>На сестру иль на брата излить?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чтоб не быть как лист увядший.</plain>
+        </string>
+        <string>
+            <plain>Больше позаботься о себе.</plain>
+        </string>
+        <string>
+            <plain>Если кто, ты видишь, падший,</plain>
+        </string>
+        <string>
+            <plain>- Подними и ободри, любя.</plain>
+        </string>
+        <string>
+            <plain>Отчего этот лист пожелтел?</plain>
+        </string>
+        <string>
+            <plain>Может, влаги в себе не имел?</plain>
+        </string>
+        <string>
+            <plain>Может быть, иногда сам не видел себя?</plain>
+        </string>
+        <string>
+            <plain>Так зачем же с тобою друзья?</plain>
+        </string>
+    </verse>
+</song>

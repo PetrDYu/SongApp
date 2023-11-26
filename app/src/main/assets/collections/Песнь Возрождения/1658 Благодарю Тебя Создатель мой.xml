@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1658" name="Благодарю Тебя Создатель мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Создатель мой.</plain>
+        </string>
+        <string>
+            <plain>Что жизнь Ты спас мою, благодарю.</plain>
+        </string>
+        <string>
+            <plain>Я за Тобой пойду, Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>И буду там в раю, благодарю.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И за любовь Твою, что дал Ты мне,</plain>
+        </string>
+        <string>
+            <plain>Я возвещать пойду любовь Твою,</plain>
+        </string>
+        <string>
+            <plain>Безмерно велика любовь Твоя,</plain>
+        </string>
+        <string>
+            <plain>Она весь мир спасла, любовь Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За жизнь, за мир Тебя благодарю,</plain>
+        </string>
+        <string>
+            <plain>За смерть и за покой благодарю,</plain>
+        </string>
+        <string>
+            <plain>За то, что счастлив я, хвалу пою,</plain>
+        </string>
+        <string>
+            <plain>Тебя, Создатель мой, благодарю.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="346" name="Хочет всех людей Господь благословить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочет всех людей Господь благословить,</plain>
+        </string>
+        <string>
+            <plain>Весть благую в сердце каждому вложить.</plain>
+        </string>
+        <string>
+            <plain>Дверь открой широко, окна распахни,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисуса ты впусти,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти,</plain>
+        </string>
+        <string>
+            <plain>Дверь открой широко, окна распахни,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он пришел за грех наш на кресте страдать,</plain>
+        </string>
+        <string>
+            <plain>Воскресением Своим победу дать.</plain>
+        </string>
+        <string>
+            <plain>Дверь открой широко, окна распахни,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бродишь ли в пустыне, хочешь путь найти,</plain>
+        </string>
+        <string>
+            <plain>Знай, таких Иисус пришел взыскать, спасти;</plain>
+        </string>
+        <string>
+            <plain>Дверь открой широко, окна распахни,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Счастлив, кто Спасителю себя отдаст,</plain>
+        </string>
+        <string>
+            <plain>Кто Его возлюбит, тот хвалу воздаст.</plain>
+        </string>
+        <string>
+            <plain>Дверь открой широко, окна распахни,</plain>
+        </string>
+        <string>
+            <plain>Иисуса ты впусти!</plain>
+        </string>
+    </verse>
+</song>

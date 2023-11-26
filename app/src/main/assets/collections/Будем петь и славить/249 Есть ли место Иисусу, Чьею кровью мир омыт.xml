@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="249" name="Есть ли место Иисусу, Чьею кровью мир омыт" canon="false" text="Д.У. Виттла" textRus="" music="К.К. Уильямса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Есть ли место Иисусу, Чьею кровью мир омыт?</plain>
+        </string>
+        <string>
+            <plain>Сердца дверь открой скорее: Сам Господь к тебе стучит!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Для Царя небесной славы место в сердце приготовь!</plain>
+        </string>
+        <string>
+            <plain>О, внемли Его призыву и прими Его любовь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И заботам, и веселью место в сердце ты даешь,</plain>
+        </string>
+        <string>
+            <plain>А Умершего за грех твой неужели оттолкнешь?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дни отдашь ли Иисусу? Призывает Он опять.</plain>
+        </string>
+        <string>
+            <plain>Может быть, тот день последний, дольше Он не будет ждать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поспеши же Иисусу жизнь и сердце – все отдать!</plain>
+        </string>
+        <string>
+            <plain>Глас умолкнет благодатный, больше Он не будет звать.</plain>
+        </string>
+    </verse>
+</song>

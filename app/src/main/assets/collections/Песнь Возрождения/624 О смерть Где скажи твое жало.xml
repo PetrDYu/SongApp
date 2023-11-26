@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="624" name="О смерть Где скажи твое жало" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О смерть! Где, скажи, твое жало?</plain>
+        </string>
+        <string>
+            <plain>О ад! Где победа твоя?</plain>
+        </string>
+        <string>
+            <plain>В воскресшем Христе засияло</plain>
+        </string>
+        <string>
+            <plain>Нам вечное солнце бытья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос воскрес, чтоб грех угас;</plain>
+        </string>
+        <string>
+            <plain>Чтоб в людях мог Дух Божий жить.</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес, Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мертвых нас из гроба к жизни воскресить.</plain>
+        </string>
+        <string>
+            <plain>Какая радостная весть, какая радостная весть.</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес, Христос воскрес.</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему и честь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Смотрите, над гробом был камень,</plain>
+        </string>
+        <string>
+            <plain>Но снят он, и ангел с небес</plain>
+        </string>
+        <string>
+            <plain>В том гробе сияет, как пламень:</plain>
+        </string>
+        <string>
+            <plain>Иисуса там нет! Он воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воскрес Он, чтоб с сердца людского</plain>
+        </string>
+        <string>
+            <plain>Греховные камни снимать;</plain>
+        </string>
+        <string>
+            <plain>Воскрес Он, чтоб Духа Святого,</plain>
+        </string>
+        <string>
+            <plain>Как ангела в гроб к нам послать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Воскрес Он, чтоб царство спасенья</plain>
+        </string>
+        <string>
+            <plain>Над бездной греха основать,</plain>
+        </string>
+        <string>
+            <plain>Воскрес Он, чтоб в день воскресенья</plain>
+        </string>
+        <string>
+            <plain>Искупленных в славе обнять.</plain>
+        </string>
+    </verse>
+</song>

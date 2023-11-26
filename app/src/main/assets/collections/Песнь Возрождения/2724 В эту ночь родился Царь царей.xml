@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2724" name="В эту ночь родился Царь царей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В эту ночь родился Царь царей,</plain>
+        </string>
+        <string>
+            <plain>Не в роскошных, убранных чертогах</plain>
+        </string>
+        <string>
+            <plain>- В яслях бедных, в простоте Своей,</plain>
+        </string>
+        <string>
+            <plain>Послан в мир Он по веленью Бога.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как прекрасно Дитя в пеленах,</plain>
+        </string>
+        <string>
+            <plain>Бог спасение людям принес.</plain>
+        </string>
+        <string>
+            <plain>Он родился и в наших сердцах,</plain>
+        </string>
+        <string>
+            <plain>Наш любимый Иисус Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоры неба Ему воспевали,</plain>
+        </string>
+        <string>
+            <plain>Ведь родился Царь неба, земли.</plain>
+        </string>
+        <string>
+            <plain>И волхвы с Востока поспешали</plain>
+        </string>
+        <string>
+            <plain>Принести Христу свои дары.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В эту ночь пусть сердце распахнется</plain>
+        </string>
+        <string>
+            <plain>И у тех, кто не принял Христа,</plain>
+        </string>
+        <string>
+            <plain>Пусть хвала из уст народа льется:</plain>
+        </string>
+        <string>
+            <plain>"Аллилуйя!" - да звучит хвала!</plain>
+        </string>
+    </verse>
+</song>

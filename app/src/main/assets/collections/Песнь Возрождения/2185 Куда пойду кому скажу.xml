@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2185" name="Куда пойду кому скажу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Куда пойду, кому скажу</plain>
+        </string>
+        <string>
+            <plain>Мою всю грусть и боль души?</plain>
+        </string>
+        <string>
+            <plain>Где тот, что может ободрить</plain>
+        </string>
+        <string>
+            <plain>И поддержать рукой своей?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Кругом меня толпа людей,</plain>
+        </string>
+        <string>
+            <plain>Порою тесно мне от ней.</plain>
+        </string>
+        <string>
+            <plain>Но каждый занят лишь собой,</plain>
+        </string>
+        <string>
+            <plain>Никто не понял чувств моих.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ведь я для них совсем чужой,</plain>
+        </string>
+        <string>
+            <plain>Никто не может пожалеть</plain>
+        </string>
+        <string>
+            <plain>И добрым словом приласкать</plain>
+        </string>
+        <string>
+            <plain>И вместе сердцем поболеть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Порой мечта поднимет дух,</plain>
+        </string>
+        <string>
+            <plain>И станет на душе легко,</plain>
+        </string>
+        <string>
+            <plain>Считаю дни, часы и вдруг...</plain>
+        </string>
+        <string>
+            <plain>И это счастье далеко.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Куда пойду, кому скажу</plain>
+        </string>
+        <string>
+            <plain>Всю грусть и боль души моей?</plain>
+        </string>
+        <string>
+            <plain>К Тебе лишь я, о, верный Друг,</plain>
+        </string>
+        <string>
+            <plain>Склонюсь на грудь главой своей.</plain>
+        </string>
+    </verse>
+</song>

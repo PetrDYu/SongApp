@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="422" name="Свят, свят, свят Господь Бог Саваоф" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Свят, свят, свят Господь Бог Саваоф!</plain>
+        </string>
+        <string>
+            <plain>Полны небеса и земля славы Твоей!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>(мужчины) Осанна!</plain>
+        </string>
+        <string>
+            <plain>(женщины, дети) Осанна!</plain>
+        </string>
+        <string>
+            <plain>(мужчины) Осанна!</plain>
+        </string>
+        <string>
+            <plain>(женщины, дети) Осанна!</plain>
+        </string>
+        <string>
+            <plain>(все) Осанна в вышних Богу!</plain>
+        </string>
+    </chorus>
+    <verse number="0">
+        <string>
+            <plain>Благословен Грядущий во имя Господне!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев</plain>
+        </string>
+    </verse>
+</song>

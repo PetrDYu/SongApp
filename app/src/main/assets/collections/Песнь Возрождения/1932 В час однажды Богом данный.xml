@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1932" name="В час однажды Богом данный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В час, однажды Богом данный,</plain>
+        </string>
+        <string>
+            <plain>Нам прощаются вины,</plain>
+        </string>
+        <string>
+            <plain>Заживают наши раны,</plain>
+        </string>
+        <string>
+            <plain>Господом исцелены.</plain>
+        </string>
+        <string>
+            <plain>И в сердце весело звучит</plain>
+        </string>
+        <string>
+            <plain>Небесной радости псалом</plain>
+        </string>
+        <string>
+            <plain>Творцу, Кто нас в любви хранит,</plain>
+        </string>
+        <string>
+            <plain>И в рай ведет Своим путем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В свете радостной надежды</plain>
+        </string>
+        <string>
+            <plain>Нас влечет Эдемский вид:</plain>
+        </string>
+        <string>
+            <plain>Дух же, сбросивший одежды,</plain>
+        </string>
+        <string>
+            <plain>Там незримое узрит:</plain>
+        </string>
+        <string>
+            <plain>Там нет на небе облаков,</plain>
+        </string>
+        <string>
+            <plain>Там вечный свет любви течет,</plain>
+        </string>
+        <string>
+            <plain>Туда вознесться я готов.</plain>
+        </string>
+        <string>
+            <plain>Где все Творцу хвалу поет.</plain>
+        </string>
+    </verse>
+</song>

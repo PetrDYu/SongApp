@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1629" name="Лети наша песня как вестник крылатый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лети, наша песня, как вестник крылатый,</plain>
+        </string>
+        <string>
+            <plain>И пусть не страшит тебя тьма.</plain>
+        </string>
+        <string>
+            <plain>И всем расскажи, что тот самый богатый,</plain>
+        </string>
+        <string>
+            <plain>Кто принял дары от Христа.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Лети, наша песня, сквозь тьму и туманы.</plain>
+        </string>
+        <string>
+            <plain>Пусть слышит весь мир, вся земля,</plain>
+        </string>
+        <string>
+            <plain>Что тот лишь не знает ни зла, ни обмана,</plain>
+        </string>
+        <string>
+            <plain>Кто помнит о ранах Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лети через горы, моря и долины.</plain>
+        </string>
+        <string>
+            <plain>Буди ты людские сердца.</plain>
+        </string>
+        <string>
+            <plain>Да так, чтоб поверил, что самый счастливый,</plain>
+        </string>
+        <string>
+            <plain>Кто отдал себя за Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лети, наша песня, везде и повсюду</plain>
+        </string>
+        <string>
+            <plain>О радости всем расскажи.</plain>
+        </string>
+        <string>
+            <plain>Пусть тот, кто услышит тебя,</plain>
+        </string>
+        <string>
+            <plain>не забудет Молитву Христу вознести.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Лети непрестанно над грешной землею</plain>
+        </string>
+        <string>
+            <plain>К сердцам одиноким в глуши.</plain>
+        </string>
+        <string>
+            <plain>Кто плачет, томится в глубокой печали,</plain>
+        </string>
+        <string>
+            <plain>О дивном Христе расскажи.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Лети, наша песня, вдогонку планете,</plain>
+        </string>
+        <string>
+            <plain>И спутники все обгони.</plain>
+        </string>
+        <string>
+            <plain>Пусть всякий, живущий на нашей планете,</plain>
+        </string>
+        <string>
+            <plain>Услышит о Божьей любви.</plain>
+        </string>
+    </verse>
+</song>

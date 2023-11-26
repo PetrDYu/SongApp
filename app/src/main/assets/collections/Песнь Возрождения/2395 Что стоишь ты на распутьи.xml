@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2395" name="Что стоишь ты на распутьи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что стоишь ты на распутьи</plain>
+        </string>
+        <string>
+            <plain>С сердцем раненым в груди?</plain>
+        </string>
+        <string>
+            <plain>Друг мой бедный, где блуждаешь</plain>
+        </string>
+        <string>
+            <plain>От любви Христа вдали?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Время незаметно пролетит</plain>
+        </string>
+        <string>
+            <plain>- Ты стоишь разбит врагом души.</plain>
+        </string>
+        <string>
+            <plain>Старость заглянула в твои глаза,</plain>
+        </string>
+        <string>
+            <plain>А там уж конец борьбы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Что стоишь ты на распутье,</plain>
+        </string>
+        <string>
+            <plain>Не решился до сих пор.</plain>
+        </string>
+        <string>
+            <plain>О, если б ты знал как нежна,</plain>
+        </string>
+        <string>
+            <plain>Как сильна Его любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, приди к Нему скорее</plain>
+        </string>
+        <string>
+            <plain>И у ног святых пади.</plain>
+        </string>
+        <string>
+            <plain>Ведь любовь Его безмерна,</plain>
+        </string>
+        <string>
+            <plain>И готов Он всех спасти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И Он даст тебе спасены,</plain>
+        </string>
+        <string>
+            <plain>Грех души твоей сотрет.</plain>
+        </string>
+        <string>
+            <plain>Его голос вот сегодня</plain>
+        </string>
+        <string>
+            <plain>Нежно так тебя зовет.</plain>
+        </string>
+    </verse>
+</song>

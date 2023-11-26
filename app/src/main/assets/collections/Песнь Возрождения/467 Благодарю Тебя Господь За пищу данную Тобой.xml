@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="467" name="Благодарю Тебя Господь За пищу данную Тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Господь,</plain>
+        </string>
+        <string>
+            <plain>За пищу, данную Тобой,</plain>
+        </string>
+        <string>
+            <plain>Которой Ты насытил плоть</plain>
+        </string>
+        <string>
+            <plain>И укрепил дух слабый мой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пошли ж Ты мне Твой Дух Святой!</plain>
+        </string>
+        <string>
+            <plain>Дай укрепленье сердцу в Нем,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я ходил в стране земной</plain>
+        </string>
+        <string>
+            <plain>Твоим Евангельским путем.</plain>
+        </string>
+    </verse>
+</song>

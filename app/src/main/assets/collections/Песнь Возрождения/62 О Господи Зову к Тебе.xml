@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="62" name="О Господи Зову к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господи! Зову к Тебе</plain>
+        </string>
+        <string>
+            <plain>Я в этот час в мольбе</plain>
+        </string>
+        <string>
+            <plain>И преклоняюсь пред Тобой</plain>
+        </string>
+        <string>
+            <plain>Я с скорбною душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Прости меня, омой, Господь,</plain>
+        </string>
+        <string>
+            <plain>Во всех грехах моих!</plain>
+        </string>
+        <string>
+            <plain>Дай искушенья побороть,</plain>
+        </string>
+        <string>
+            <plain>Не дай погибнуть в них.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я не имею у себя</plain>
+        </string>
+        <string>
+            <plain>Чем долг мой заплатить;</plain>
+        </string>
+        <string>
+            <plain>Но Ты, заблудшего любя,</plain>
+        </string>
+        <string>
+            <plain>Благоволи простить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На землю Сына Ты послал,</plain>
+        </string>
+        <string>
+            <plain>И жил Он в нищете,</plain>
+        </string>
+        <string>
+            <plain>И на Голгофе смерть принял</plain>
+        </string>
+        <string>
+            <plain>За грех мой на кресте.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Не за меня лишь Он страдал,</plain>
+        </string>
+        <string>
+            <plain>За согрешивших всех;</plain>
+        </string>
+        <string>
+            <plain>За них Он кровью истекал</plain>
+        </string>
+        <string>
+            <plain>И смыл их тяжкий грех.</plain>
+        </string>
+    </verse>
+</song>

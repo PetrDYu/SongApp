@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1421" name="Всякий раз когда путям пройденным" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всякий раз, когда путям пройденным</plain>
+        </string>
+        <string>
+            <plain>Подвожу я горькие итоги,</plain>
+        </string>
+        <string>
+            <plain>Вновь и вновь мои тревожат мысли</plain>
+        </string>
+        <string>
+            <plain>О смоковнице бесплодной в притче.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сохрани меня еще хоть на год,</plain>
+        </string>
+        <string>
+            <plain>- Я сегодня так прошу об этом,</plain>
+        </string>
+        <string>
+            <plain>- Хоть плодов опять принес я мало,</plain>
+        </string>
+        <string>
+            <plain>Будь еще раз милостив ко мне Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вижу вновь бесплодные я ветви,</plain>
+        </string>
+        <string>
+            <plain>И пустой я слышу листьев шорох.</plain>
+        </string>
+        <string>
+            <plain>Как на это все-таки похожи</plain>
+        </string>
+        <string>
+            <plain>Все мои дела и разговоры.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если бы не милость Твоя,</plain>
+        </string>
+        <string>
+            <plain>Боже, был бы я давно Тобою срублен.</plain>
+        </string>
+        <string>
+            <plain>Но опять Ты внемлешь моей просьбе,</plain>
+        </string>
+        <string>
+            <plain>Жизнь даешь мне снова годом больше.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1701" name="Сижу один я думой полн" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сижу один я, думой полн,</plain>
+        </string>
+        <string>
+            <plain>Как будто я в ладье средь волн,</plain>
+        </string>
+        <string>
+            <plain>А буря всё грозней ревёт,</plain>
+        </string>
+        <string>
+            <plain>Ладью мою волною бьёт.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И ужас мне кругом грозит,</plain>
+        </string>
+        <string>
+            <plain>Не в силах волн я отразить,</plain>
+        </string>
+        <string>
+            <plain>Но знаю я, что есть Один,</plain>
+        </string>
+        <string>
+            <plain>Кто над стихией властелин.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И слышу голос я Святой -</plain>
+        </string>
+        <string>
+            <plain>Не бойся! - Я всегда с тобой.</plain>
+        </string>
+        <string>
+            <plain>И снова мир в душе моей</plain>
+        </string>
+        <string>
+            <plain>Сменил тревогу прежних дней.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, Иисус, Друг всех людей,</plain>
+        </string>
+        <string>
+            <plain>Похвал и славы не искал,</plain>
+        </string>
+        <string>
+            <plain>Он жил, трудился для людей</plain>
+        </string>
+        <string>
+            <plain>И жизнь Свою за нас отдал.</plain>
+        </string>
+    </verse>
+</song>

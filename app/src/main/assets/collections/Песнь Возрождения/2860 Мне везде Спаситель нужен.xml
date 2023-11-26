@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2860" name="Мне везде Спаситель нужен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мне везде Спаситель нужен.</plain>
+        </string>
+        <string>
+            <plain>Для меня Он плоть принял.</plain>
+        </string>
+        <string>
+            <plain>Из любви мою вину всю</plain>
+        </string>
+        <string>
+            <plain>на Себя Иисус мой взял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мне везде (да, везде) Спаситель нужен,</plain>
+        </string>
+        <string>
+            <plain>мне везде (да, везде) Спаситель нужен;</plain>
+        </string>
+        <string>
+            <plain>без Него нет смысла в жизни,</plain>
+        </string>
+        <string>
+            <plain>Он мой самый лучший друг.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благодать Его повсюду,</plain>
+        </string>
+        <string>
+            <plain>Он заботиться о всём;</plain>
+        </string>
+        <string>
+            <plain>чтобы пощадить меня.</plain>
+        </string>
+        <string>
+            <plain>Он слово молвил пред отцом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возвещать о Нём хочу Я</plain>
+        </string>
+        <string>
+            <plain>И благодарить всегда,</plain>
+        </string>
+        <string>
+            <plain>что меня так возлюбил</plain>
+        </string>
+        <string>
+            <plain>Он и хранил во всём, любя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да, везде; и, завершая жизнь</plain>
+        </string>
+        <string>
+            <plain>свою в земном пути,</plain>
+        </string>
+        <string>
+            <plain>я хочу быть с Иисусом,</plain>
+        </string>
+        <string>
+            <plain>славить Его в вечности.</plain>
+        </string>
+    </verse>
+</song>

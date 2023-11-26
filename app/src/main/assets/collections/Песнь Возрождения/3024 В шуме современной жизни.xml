@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3024" name="В шуме современной жизни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В шуме современной жизни,</plain>
+        </string>
+        <string>
+            <plain>полной беготни,</plain>
+        </string>
+        <string>
+            <plain>слышен голос нежный, тихий:</plain>
+        </string>
+        <string>
+            <plain>«Друг мой, отдохни!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь Отец Небесный</plain>
+        </string>
+        <string>
+            <plain>мир даст для души!</plain>
+        </string>
+        <string>
+            <plain>Слушай голос нежный,</plain>
+        </string>
+        <string>
+            <plain>человек, и ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слушай, если в час вечерний</plain>
+        </string>
+        <string>
+            <plain>всё покрыто тьмой,</plain>
+        </string>
+        <string>
+            <plain>слушай голос тихий, верный,</plain>
+        </string>
+        <string>
+            <plain>слушай зов благой.</plain>
+        </string>
+        <string>
+            <plain>З Где, душа, ты пропадаешь</plain>
+        </string>
+        <string>
+            <plain>на тропе земной?</plain>
+        </string>
+        <string>
+            <plain>Ты о Боге забываешь</plain>
+        </string>
+        <string>
+            <plain>в суете мирской.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сна и отдыха не зная,</plain>
+        </string>
+        <string>
+            <plain>с трепетом в груди,</plain>
+        </string>
+        <string>
+            <plain>на волнах судьбы играя</plain>
+        </string>
+        <string>
+            <plain>в ад несёшься ты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Где же ты, душа больная?</plain>
+        </string>
+        <string>
+            <plain>К Господу приди!</plain>
+        </string>
+        <string>
+            <plain>Исцелится боль любая</plain>
+        </string>
+        <string>
+            <plain>у Его груди.</plain>
+        </string>
+    </verse>
+</song>

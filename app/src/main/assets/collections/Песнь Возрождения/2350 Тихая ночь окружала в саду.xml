@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2350" name="Тихая ночь окружала в саду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тихая ночь окружала в саду</plain>
+        </string>
+        <string>
+            <plain>Мирно уснувших друзей.</plain>
+        </string>
+        <string>
+            <plain>Слышно, как ветер колышет листву,</plain>
+        </string>
+        <string>
+            <plain>И протекает ручей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Отче, о, Отче, пусть будет</plain>
+        </string>
+        <string>
+            <plain>Воля во всем лишь Твоя,</plain>
+        </string>
+        <string>
+            <plain>Но эта горькая чаша</plain>
+        </string>
+        <string>
+            <plain>Может минует Меня".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Эта молитва раздалась в саду,</plain>
+        </string>
+        <string>
+            <plain>То посмотрите - Христос,</plain>
+        </string>
+        <string>
+            <plain>Руки поднявши и, к небу, главу,</plain>
+        </string>
+        <string>
+            <plain>Муки Ему все принес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пот по ланитам, как кровь, выступал,</plain>
+        </string>
+        <string>
+            <plain>Слезы стояли в глазах.</plain>
+        </string>
+        <string>
+            <plain>Мир, грешный мир!</plain>
+        </string>
+        <string>
+            <plain>За тебя так страдал</plain>
+        </string>
+        <string>
+            <plain>Тот, перед Кем ты лишь прах.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>"Отче, о, Отче, пусть будет</plain>
+        </string>
+        <string>
+            <plain>Воля во всем лишь Твоя"</plain>
+        </string>
+        <string>
+            <plain>- Эта молитва пусть будет</plain>
+        </string>
+        <string>
+            <plain>вечно святой для меня.</plain>
+        </string>
+        <string>
+            <plain>Чтобы всегда повторял</plain>
+        </string>
+        <string>
+            <plain>В жизни я эти слова:</plain>
+        </string>
+        <string>
+            <plain>"Отче, о, Отче, пусть будет</plain>
+        </string>
+        <string>
+            <plain>Воля во всем лишь Твоя".</plain>
+        </string>
+    </chorus>
+</song>

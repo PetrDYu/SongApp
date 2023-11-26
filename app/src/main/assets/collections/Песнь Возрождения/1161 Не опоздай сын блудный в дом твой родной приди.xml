@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1161" name="Не опоздай сын блудный в дом твой родной приди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не опоздай, сын блудный, в дом твой родной приди.</plain>
+        </string>
+        <string>
+            <plain>Там тебя ожидает сердце Отца, в любви.</plain>
+        </string>
+        <string>
+            <plain>Там твой Отец тоскует, часто Он слезы льет.</plain>
+        </string>
+        <string>
+            <plain>Вдаль Он глядит с надеждой: скоро ли сын придет?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Горе тебя постигло, счастье твое ушло.</plain>
+        </string>
+        <string>
+            <plain>Друзья все тебя забыли, и в сердце темно-темно.</plain>
+        </string>
+        <string>
+            <plain>В доме Отца есть счастье, в доме Отца покой,</plain>
+        </string>
+        <string>
+            <plain>В доме Отца отрада, это - твой дом родной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Может, тебе и стыдно, совесть твоя твердит.</plain>
+        </string>
+        <string>
+            <plain>Что поступил ты плохо - можно ли все простить?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть глубоко паденье, хоть велика вина,</plain>
+        </string>
+        <string>
+            <plain>Любит тебя Отец твой - это ведь часть твоя.</plain>
+        </string>
+    </verse>
+</song>

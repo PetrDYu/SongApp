@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2661" name="Мама ты плачешь чтоб я не видал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мама, ты плачешь, чтоб я не видал,</plain>
+        </string>
+        <string>
+            <plain>Слезы ты можешь сокрыть,</plain>
+        </string>
+        <string>
+            <plain>Но ты не можешь сокрыть от меня</plain>
+        </string>
+        <string>
+            <plain>То, что ты любишь меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мама, милая мама моя,</plain>
+        </string>
+        <string>
+            <plain>Лучше тебя в мире нет.</plain>
+        </string>
+        <string>
+            <plain>Мамочка, добрая мама моя,</plain>
+        </string>
+        <string>
+            <plain>Знаю, что любишь меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Может, когда и обижу тебя,</plain>
+        </string>
+        <string>
+            <plain>Может, когда огорчу,</plain>
+        </string>
+        <string>
+            <plain>Ты только взглянешь с улыбкой,</plain>
+        </string>
+        <string>
+            <plain>и я Молча глаза опущу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О помоги, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>ты мне Маму всем сердцем любить,</plain>
+        </string>
+        <string>
+            <plain>Боже, даруй, чтобы быть лишь с Тобой,</plain>
+        </string>
+        <string>
+            <plain>С мамой на небе чтоб жить!</plain>
+        </string>
+    </verse>
+</song>

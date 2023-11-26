@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="569" name="Вот голос небесный звучит с высоты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот голос небесный звучит с высоты;</plain>
+        </string>
+        <string>
+            <plain>"Мне вверься ты, Мне вверься ты!</plain>
+        </string>
+        <string>
+            <plain>В печали, в грозе, в искушенье, в борьбе</plain>
+        </string>
+        <string>
+            <plain>Буду Помощник тебе".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Вверься Мне,</plain>
+        </string>
+        <string>
+            <plain>Я помощь и силу тебе даю;</plain>
+        </string>
+        <string>
+            <plain>В печали, в грозе, в искушенье, в борьбе</plain>
+        </string>
+        <string>
+            <plain>Буду Помощник тебе".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда ты захвачен потоками волн,</plain>
+        </string>
+        <string>
+            <plain>Сбрось всякий страх, близок твой Друг;</plain>
+        </string>
+        <string>
+            <plain>К тебе Я приближусь, любовию полн,</plain>
+        </string>
+        <string>
+            <plain>Чтобы утешить твой дух.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если сомненье, как туча, придет,</plain>
+        </string>
+        <string>
+            <plain>Страх принося с мукой забот,</plain>
+        </string>
+        <string>
+            <plain>При свете чудесном Господних лучей</plain>
+        </string>
+        <string>
+            <plain>В мире не будет ночей.</plain>
+        </string>
+    </verse>
+</song>

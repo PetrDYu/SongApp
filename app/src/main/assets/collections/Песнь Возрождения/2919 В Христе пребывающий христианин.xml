@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2919" name="В Христе пребывающий христианин" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Христе пребывающий христианин</plain>
+        </string>
+        <string>
+            <plain>свободен от власти греха;</plain>
+        </string>
+        <string>
+            <plain>звезда путеводная - Слово ему,</plain>
+        </string>
+        <string>
+            <plain>и якорь надежды всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лукавый не тронет его,</plain>
+        </string>
+        <string>
+            <plain>лукавый не тронет его,</plain>
+        </string>
+        <string>
+            <plain>рождённый от Бога,</plain>
+        </string>
+        <string>
+            <plain>хранит он себя,</plain>
+        </string>
+        <string>
+            <plain>и лукавый не тронет его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На почве Писанья он строит</plain>
+        </string>
+        <string>
+            <plain>свой дом во славу Иисуса Христа;</plain>
+        </string>
+        <string>
+            <plain>опору находит Он в Боге самом,</plain>
+        </string>
+        <string>
+            <plain>не страшен ему сатана.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Стенами спасения дом обнесён</plain>
+        </string>
+        <string>
+            <plain>- оплот не преступен врагу;</plain>
+        </string>
+        <string>
+            <plain>в борьбе жесточайшей врага</plain>
+        </string>
+        <string>
+            <plain>отразить поможет щит веры ему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он Господу верен, заветы хранит,</plain>
+        </string>
+        <string>
+            <plain>вкушает Его благодать;</plain>
+        </string>
+        <string>
+            <plain>Спаситель поддержит его, укрепит,</plain>
+        </string>
+        <string>
+            <plain>поможет Ему устоять.</plain>
+        </string>
+    </verse>
+</song>

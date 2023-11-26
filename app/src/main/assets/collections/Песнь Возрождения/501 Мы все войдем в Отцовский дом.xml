@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="501" name="Мы все войдем в Отцовский дом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы все войдем в Отцовский дом</plain>
+        </string>
+        <string>
+            <plain>И, может быть, уж вскоре.</plain>
+        </string>
+        <string>
+            <plain>Пройди ж скорей, пора скорбей,</plain>
+        </string>
+        <string>
+            <plain>Рассейся грех и горе!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы все войдем</plain>
+        </string>
+        <string>
+            <plain>И, может быть, уж вскоре.</plain>
+        </string>
+        <string>
+            <plain>Мы все войдем</plain>
+        </string>
+        <string>
+            <plain>И, может быть, уж вскоре.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как будет нам отрадно там,</plain>
+        </string>
+        <string>
+            <plain>Там истина сияет;</plain>
+        </string>
+        <string>
+            <plain>Там песнь небес среди чудес</plain>
+        </string>
+        <string>
+            <plain>В сердца восторг вливает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В земной борьбе наш щит - в мольбе,</plain>
+        </string>
+        <string>
+            <plain>В ней сила и опора.</plain>
+        </string>
+        <string>
+            <plain>Открыт Отцом нам вечный дом,</plain>
+        </string>
+        <string>
+            <plain>Туда войдем мы скоро.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О вечный дом! В тебе одном</plain>
+        </string>
+        <string>
+            <plain>Сердца тревог не знают;</plain>
+        </string>
+        <string>
+            <plain>Как счастлив тот, кто в дом войдет,</plain>
+        </string>
+        <string>
+            <plain>Кого там ожидают!</plain>
+        </string>
+    </verse>
+</song>

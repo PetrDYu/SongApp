@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="533" name="То Царство где Иисус царит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>То Царство, где Иисус царит,</plain>
+        </string>
+        <string>
+            <plain>Дом Божиих детей;</plain>
+        </string>
+        <string>
+            <plain>Принять туда их от скорбей</plain>
+        </string>
+        <string>
+            <plain>Хор ангелов спешит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я слышу зов их: "Иди домой".</plain>
+        </string>
+        <string>
+            <plain>Я слышу зов их: "Иди домой".</plain>
+        </string>
+        <string>
+            <plain>Спасенные в радости святой</plain>
+        </string>
+        <string>
+            <plain>Мне поют: "Иди домой!" Да, домой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Из человеческих сынов</plain>
+        </string>
+        <string>
+            <plain>Достигнут тех ворот</plain>
+        </string>
+        <string>
+            <plain>Лишь те, кого от всех грехов</plain>
+        </string>
+        <string>
+            <plain>Господь Иисус спасет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я не увижу в том раю</plain>
+        </string>
+        <string>
+            <plain>Лишь тех, кто средь сует</plain>
+        </string>
+        <string>
+            <plain>Здесь возлюбили больше тьму,</plain>
+        </string>
+        <string>
+            <plain>Чем вечный Бога свет.</plain>
+        </string>
+    </verse>
+</song>

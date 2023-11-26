@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="350" name="Услышь, Господь, молитву мою," canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Услышь, Господь, молитву мою,</plain>
+        </string>
+        <string>
+            <plain>Бог народа моего,</plain>
+        </string>
+        <string>
+            <plain>И дай войти нам вместе с Тобою</plain>
+        </string>
+        <string>
+            <plain>В город священный Иерусалим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тум балалай, тум балалай, тум балалайка,</plain>
+        </string>
+        <string>
+            <plain>Ты поиграй, нам поиграй, балалайка!</plain>
+        </string>
+        <string>
+            <plain>Труден наш путь, пошли нам надежду,</plain>
+        </string>
+        <string>
+            <plain>Дай нам увидеть Иерусалим!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я верю: трубный зов соберет</plain>
+        </string>
+        <string>
+            <plain>Твой рассеянный народ,</plain>
+        </string>
+        <string>
+            <plain>Долиной плача в Землю Святую</plain>
+        </string>
+        <string>
+            <plain>Через пустыню нас приведет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Святую Землю нам завещал,</plain>
+        </string>
+        <string>
+            <plain>Чудный мир Твой даровал.</plain>
+        </string>
+        <string>
+            <plain>В Иерусалиме встретимся вновь,</plain>
+        </string>
+        <string>
+            <plain>Там воспоем Господню любовь.</plain>
+        </string>
+    </verse>
+</song>

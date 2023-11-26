@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="383" name="Ликуй ликуй спасенный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ликуй, ликуй, спасенный!</plain>
+        </string>
+        <string>
+            <plain>Пусть будет славой, радостью твоей</plain>
+        </string>
+        <string>
+            <plain>Спаситель, вознесенный</plain>
+        </string>
+        <string>
+            <plain>За все твои грехи на крест скорбей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ликуй, ликуй спасенный,</plain>
+        </string>
+        <string>
+            <plain>И пой о Том,</plain>
+        </string>
+        <string>
+            <plain>Кто пребывает вечно, -</plain>
+        </string>
+        <string>
+            <plain>О Господе твоем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ликуй, ликуй спасенный!</plain>
+        </string>
+        <string>
+            <plain>Ты безопасен под крылом Его;</plain>
+        </string>
+        <string>
+            <plain>Вихрь бури разъяренной</plain>
+        </string>
+        <string>
+            <plain>Отнять не может мира твоего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ликуй, ликуй спасенный!</plain>
+        </string>
+        <string>
+            <plain>Тебя на высоте дом вечный ждет,</plain>
+        </string>
+        <string>
+            <plain>И в славе вознесенный</plain>
+        </string>
+        <string>
+            <plain>Спаситель твой тебя туда зовет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ликуй, ликуй спасенный!</plain>
+        </string>
+        <string>
+            <plain>Спеши войти в собрание святых</plain>
+        </string>
+        <string>
+            <plain>И, сердцем восхищенный,</plain>
+        </string>
+        <string>
+            <plain>Воспой всерадостный спасенья стих.</plain>
+        </string>
+    </verse>
+</song>

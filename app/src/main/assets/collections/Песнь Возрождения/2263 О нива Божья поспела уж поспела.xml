@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2263" name="О нива Божья поспела уж поспела" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, нива Божья поспела, уж поспела,</plain>
+        </string>
+        <string>
+            <plain>И плод в колосьях уж созрел.</plain>
+        </string>
+        <string>
+            <plain>Пора приняться нам за дело.</plain>
+        </string>
+        <string>
+            <plain>Но кто готов и кто есть смел?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но кто готов?</plain>
+        </string>
+        <string>
+            <plain>(И смело скажет)</plain>
+        </string>
+        <string>
+            <plain>Вот я готов, меня пошли.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И кто готов идти трудиться,</plain>
+        </string>
+        <string>
+            <plain>Снопы по полю собирать?</plain>
+        </string>
+        <string>
+            <plain>Лишь тот, в чьем сердце загорится</plain>
+        </string>
+        <string>
+            <plain>Любовь, чтоб ближних всех спасать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лишь тот, кто выйдет бодро, смело,</plain>
+        </string>
+        <string>
+            <plain>Пойдет в борьбу с грехом и злом,</plain>
+        </string>
+        <string>
+            <plain>Успешно будет делать дело,</plain>
+        </string>
+        <string>
+            <plain>Труд увенчается плодом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так что же, братья дорогие,</plain>
+        </string>
+        <string>
+            <plain>Давайте будем до конца</plain>
+        </string>
+        <string>
+            <plain>Растить плоды в сердцах святые,</plain>
+        </string>
+        <string>
+            <plain>Чтоб жизнь была у нас свята.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Давайте будем, дети Бога,</plain>
+        </string>
+        <string>
+            <plain>По духу жить в земной стране.</plain>
+        </string>
+        <string>
+            <plain>Такая в небо есть дорога,</plain>
+        </string>
+        <string>
+            <plain>Чтоб здесь пребыть в святом труде.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2663" name="Отче мой Ты всегда так милосерден" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отче мой, Ты всегда так милосерден</plain>
+        </string>
+        <string>
+            <plain>И в любви Своей Ты верен,</plain>
+        </string>
+        <string>
+            <plain>Как никто и никогда.</plain>
+        </string>
+        <string>
+            <plain>На руках милости святой несешь Ты,</plain>
+        </string>
+        <string>
+            <plain>День за днем меня ведешь</plain>
+        </string>
+        <string>
+            <plain>Ты, Твое слабое дитя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Милосердье, милосердье,</plain>
+        </string>
+        <string>
+            <plain>Прославляю и величу милосердье.</plain>
+        </string>
+        <string>
+            <plain>Милосердье, милосердье. С</plain>
+        </string>
+        <string>
+            <plain>лавлю я Твое святое милосердье.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отче мой, Ты не помнишь согрешений,</plain>
+        </string>
+        <string>
+            <plain>Но жалеешь, и в сраженьях</plain>
+        </string>
+        <string>
+            <plain>Сил даешь идти вперед.</plain>
+        </string>
+        <string>
+            <plain>В милости проявил любовь большую,</plain>
+        </string>
+        <string>
+            <plain>Безграничную, святую</plain>
+        </string>
+        <string>
+            <plain>- Она ввысь меня ведет.</plain>
+        </string>
+    </verse>
+</song>

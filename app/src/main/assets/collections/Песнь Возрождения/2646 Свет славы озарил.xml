@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2646" name="Свет славы озарил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свет славы озарил</plain>
+        </string>
+        <string>
+            <plain>Внезапно небосвод,</plain>
+        </string>
+        <string>
+            <plain>И Ангел возвестил:</plain>
+        </string>
+        <string>
+            <plain>"Бог Сына вам дает!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>"Желает Бог помочь,</plain>
+        </string>
+        <string>
+            <plain>Прощая все грехи",</plain>
+        </string>
+        <string>
+            <plain>- В Рождественскую ночь</plain>
+        </string>
+        <string>
+            <plain>Слыхали пастухи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И пастухи спешат,</plain>
+        </string>
+        <string>
+            <plain>Чтоб встретиться с Христом.</plain>
+        </string>
+        <string>
+            <plain>Спеши и ты, мой брат,</plain>
+        </string>
+        <string>
+            <plain>Не говори: "Потом".</plain>
+        </string>
+    </verse>
+</song>

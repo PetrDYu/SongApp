@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="550" name="Стою у Иордана я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стою у Иордана я</plain>
+        </string>
+        <string>
+            <plain>И вижу чрез струи</plain>
+        </string>
+        <string>
+            <plain>Я ханаанские края,</plain>
+        </string>
+        <string>
+            <plain>Где думы все мои.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отдохнем мы, друзья, в краю родном.</plain>
+        </string>
+        <string>
+            <plain>Близок час!</plain>
+        </string>
+        <string>
+            <plain>В свете берега, где нет зимы,</plain>
+        </string>
+        <string>
+            <plain>Песню Моисея воспоем.</plain>
+        </string>
+        <string>
+            <plain>Близок час!</plain>
+        </string>
+        <string>
+            <plain>С Иисусом вечно будем мы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Через поля вдали горит</plain>
+        </string>
+        <string>
+            <plain>Прекрасный вечный день;</plain>
+        </string>
+        <string>
+            <plain>Там Божий Сын в любви царит,</plain>
+        </string>
+        <string>
+            <plain>Рассеяв ночи тень.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда смогу в тот край войти,</plain>
+        </string>
+        <string>
+            <plain>Чтоб просветлеть душой?</plain>
+        </string>
+        <string>
+            <plain>Когда увижу лик святой</plain>
+        </string>
+        <string>
+            <plain>Отца, чтоб мир найти?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я, чистою надеждой полн,</plain>
+        </string>
+        <string>
+            <plain>Готов бежать отсель;</plain>
+        </string>
+        <string>
+            <plain>Хоть страшен гул шумящих волн,</plain>
+        </string>
+        <string>
+            <plain>Хочу достичь я цель.</plain>
+        </string>
+    </verse>
+</song>

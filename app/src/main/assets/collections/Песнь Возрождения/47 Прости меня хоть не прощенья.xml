@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="47" name="Прости меня хоть не прощенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прости меня, хоть не прощенья,</plain>
+        </string>
+        <string>
+            <plain>А смерти лишь достоин я.</plain>
+        </string>
+        <string>
+            <plain>Прости, хоть робок стон моленья,</plain>
+        </string>
+        <string>
+            <plain>Хоть нечиста мольба моя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой грех великий отпусти!</plain>
+        </string>
+        <string>
+            <plain>О, Господи, прости, прости!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прости, хоть лучших дней потерю</plain>
+        </string>
+        <string>
+            <plain>Не возвратят мои шаги.</plain>
+        </string>
+        <string>
+            <plain>Прости, хоть я не твердо верю;</plain>
+        </string>
+        <string>
+            <plain>Прости! В неверье помоги!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прости меня и сердца клети</plain>
+        </string>
+        <string>
+            <plain>Лучами веры освети!</plain>
+        </string>
+        <string>
+            <plain>Как обещал в Твоем завете,</plain>
+        </string>
+        <string>
+            <plain>Во имя слов Твоих прости!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Прости во имя мук Голгофских,</plain>
+        </string>
+        <string>
+            <plain>Во имя крови пролитой;</plain>
+        </string>
+        <string>
+            <plain>Во имя милостей Отцовских</plain>
+        </string>
+        <string>
+            <plain>Прости, любовию покрой!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Как Твой борец, Твой раб Иаков,</plain>
+        </string>
+        <string>
+            <plain>Не отойду, пока душой</plain>
+        </string>
+        <string>
+            <plain>Я не приму спасенья знаков,</plain>
+        </string>
+        <string>
+            <plain>Пока не принят я Тобой!</plain>
+        </string>
+    </verse>
+</song>

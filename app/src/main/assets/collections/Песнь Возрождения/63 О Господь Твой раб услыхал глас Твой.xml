@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="63" name="О Господь Твой раб услыхал глас Твой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, Твой раб услыхал глас Твой,</plain>
+        </string>
+        <string>
+            <plain>Он любовью полн, Бог мой!</plain>
+        </string>
+        <string>
+            <plain>Веры луч святой осиял меня!</plain>
+        </string>
+        <string>
+            <plain>Ночь светлее стала дня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ближе, ближе к Твоему кресту,</plain>
+        </string>
+        <string>
+            <plain>Где Ты умер за меня!</plain>
+        </string>
+        <string>
+            <plain>Ближе, ближе, ближе к Твоему кресту,</plain>
+        </string>
+        <string>
+            <plain>О Господь, влеки меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Силою Своей, Бог Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Мое сердце осени;</plain>
+        </string>
+        <string>
+            <plain>Чтоб служить Тебе мог я всей душой,</plain>
+        </string>
+        <string>
+            <plain>Силу новую вдохни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чуден, Боже сил, тихий час ночной,</plain>
+        </string>
+        <string>
+            <plain>Час, когда спит мир людской;</plain>
+        </string>
+        <string>
+            <plain>Словно с Другом, я говорю с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Ты ж даешь душе покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Глубину Твоей без конца любви</plain>
+        </string>
+        <string>
+            <plain>Здесь отчасти понял я,</plain>
+        </string>
+        <string>
+            <plain>Радость вечных дней мне скорей яви,</plain>
+        </string>
+        <string>
+            <plain>Просвети скорей меня.</plain>
+        </string>
+    </verse>
+</song>

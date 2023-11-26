@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2963" name="О далекой блаженной стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О далекой, блаженной стране,</plain>
+        </string>
+        <string>
+            <plain>что лежит в необъятной дали,</plain>
+        </string>
+        <string>
+            <plain>весть небесная слышится мне</plain>
+        </string>
+        <string>
+            <plain>и в печали, и в светлые дни.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К вечной стране за морем</plain>
+        </string>
+        <string>
+            <plain>там всей я стремлюсь душой.</plain>
+        </string>
+        <string>
+            <plain>Обитель Он сам построил мне</plain>
+        </string>
+        <string>
+            <plain>там на небе, где вечный покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В той блаженной небесной стране</plain>
+        </string>
+        <string>
+            <plain>даст Спаситель сокровища нам,</plain>
+        </string>
+        <string>
+            <plain>и жилища прекрасные</plain>
+        </string>
+        <string>
+            <plain>Он приготовил для праведных там.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я теперь уже с тех берегов</plain>
+        </string>
+        <string>
+            <plain>слышу песни омытых в крови,</plain>
+        </string>
+        <string>
+            <plain>у престола поющих хвалу</plain>
+        </string>
+        <string>
+            <plain>с хором ангелов Богу любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Через путь, что открыт на кресте,</plain>
+        </string>
+        <string>
+            <plain>наконец с ними встречусь там я;</plain>
+        </string>
+        <string>
+            <plain>воспоем мы святую любовь,</plain>
+        </string>
+        <string>
+            <plain>что откроет нам до конца.</plain>
+        </string>
+    </verse>
+</song>

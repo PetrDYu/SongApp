@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1092" name="Царь царей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Царь царей,</plain>
+        </string>
+        <string>
+            <plain>Господь господ,</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Царь царей.</plain>
+        </string>
+        <string>
+            <plain>Господь господ.</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус - наш Мессия!</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Иисус - наш Мессия.</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грядет наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Грядет наш Господь,</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3171" name="Боже дай мне Дух Святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, дай мне Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>сердца жажду утоли.</plain>
+        </string>
+        <string>
+            <plain>Кровью Ты меня омой</plain>
+        </string>
+        <string>
+            <plain>и затем во мне живи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дух, меня запечатлей!</plain>
+        </string>
+        <string>
+            <plain>Божья полнота во мне!</plain>
+        </string>
+        <string>
+            <plain>Снега я теперь белей,</plain>
+        </string>
+        <string>
+            <plain>светит яркий луч в душе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В сердце Ты свети моём,</plain>
+        </string>
+        <string>
+            <plain>око чистое дай мне,</plain>
+        </string>
+        <string>
+            <plain>чтобы пред Твоим лицом</plain>
+        </string>
+        <string>
+            <plain>был я свят и чист вполне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты зажги огонь любви!</plain>
+        </string>
+        <string>
+            <plain>В жертву я принёс себя и,</plain>
+        </string>
+        <string>
+            <plain>чтоб за Тобой идти,</plain>
+        </string>
+        <string>
+            <plain>всё оставил в мире я.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Силу свыше дай душе,</plain>
+        </string>
+        <string>
+            <plain>Сын, Отец и Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>помазание дай мне,</plain>
+        </string>
+        <string>
+            <plain>чтобы быть всегда с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, наполни Ты меня!</plain>
+        </string>
+        <string>
+            <plain>Верю: Ты войдёшь ко мне</plain>
+        </string>
+        <string>
+            <plain>и не бросишь никогда</plain>
+        </string>
+        <string>
+            <plain>- я принадлежу Тебе.</plain>
+        </string>
+    </verse>
+</song>

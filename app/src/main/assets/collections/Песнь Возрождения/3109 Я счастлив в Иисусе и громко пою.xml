@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3109" name="Я счастлив в Иисусе и громко пою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я счастлив в Иисусе и громко пою,</plain>
+        </string>
+        <string>
+            <plain>что ныне спасенье нашел!</plain>
+        </string>
+        <string>
+            <plain>Томил я в грехах прежде душу свою</plain>
+        </string>
+        <string>
+            <plain>- в Христе избавленье обрел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пою: Он меня оправдал,</plain>
+        </string>
+        <string>
+            <plain>Он новое сердце мне дал.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Как чудно: Его я дитя,</plain>
+        </string>
+        <string>
+            <plain>и громко Его славлю я!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Рожденный от Духа и кровью омыт,</plain>
+        </string>
+        <string>
+            <plain>я в Нем освященье обрел;</plain>
+        </string>
+        <string>
+            <plain>мой путь ныне славой Господней покрыт</plain>
+        </string>
+        <string>
+            <plain>- с тех пор, как Он в сердце вошел.</plain>
+        </string>
+        <string>
+            <plain>З Когда искушает меня сатана,</plain>
+        </string>
+        <string>
+            <plain>и в битве с Ним я изнурен, я знаю:</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой верен всегда,</plain>
+        </string>
+        <string>
+            <plain>даст новую силу мне Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я странствую дальше к небесной стране</plain>
+        </string>
+        <string>
+            <plain>чрез радости горе, нужду;</plain>
+        </string>
+        <string>
+            <plain>всегда уповая, живу я в Христе</plain>
+        </string>
+        <string>
+            <plain>и славу Ему приношу.</plain>
+        </string>
+    </verse>
+</song>

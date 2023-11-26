@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2814" name="Как сладостно жить с Иисусом какое Он счастье дает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как сладостно жить с Иисусом, какое Он счастье дает!</plain>
+        </string>
+        <string>
+            <plain>Свободный в Христе устремляюсь я радостно с верой вперед.</plain>
+        </string>
+        <string>
+            <plain>С Иисусом чрез все преграды и трудности я иду,</plain>
+        </string>
+        <string>
+            <plain>пока не приду я к цели и труд свой не завершу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, сладостно жить с Иисусом, иду я за Ним вперёд;</plain>
+        </string>
+        <string>
+            <plain>Веленьям Его я послушен: Он к небу меня ведет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как сладостно жить с Иисусом! Небесный Он мир дает,</plain>
+        </string>
+        <string>
+            <plain>любовью Своей укрывает, блаженный покой мне шлет.</plain>
+        </string>
+        <string>
+            <plain>Во свете хожу Господнем; так ярко мне светит он,</plain>
+        </string>
+        <string>
+            <plain>что тени греха не видно на этом пути святом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как сладостно жить с Иисусом! Отрадно мне с Ним идти,</plain>
+        </string>
+        <string>
+            <plain>скрепленный с Ним вечным союзом, покоюсь в Его любви.</plain>
+        </string>
+        <string>
+            <plain>Я похотей избегаю и близость ищу Христа;</plain>
+        </string>
+        <string>
+            <plain>Я в святости пребываю с тех пор, как Он спас меня.</plain>
+        </string>
+    </verse>
+</song>

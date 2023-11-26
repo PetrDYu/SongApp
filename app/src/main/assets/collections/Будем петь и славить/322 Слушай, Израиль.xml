@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="322" name="Слушай, Израиль" canon="false" text="" textRus="Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слушай, Израиль</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>ШМА ИСРАЭЛЬ АДОНАЙ ЭЛОКЕЙНУ АДОНАЙ ЭХАД</plain>
+            <repeat id="1" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+</song>

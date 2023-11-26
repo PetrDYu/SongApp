@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2483" name="Иисус любит деточек" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус любит деточек;</plain>
+        </string>
+        <string>
+            <plain>Мальчиков, девочек.</plain>
+        </string>
+        <string>
+            <plain>И не только нас, детей</plain>
+        </string>
+        <string>
+            <plain>-- Возлюбил Он всех людей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И Его любовь большая</plain>
+        </string>
+        <string>
+            <plain>Наше детство украшает.</plain>
+        </string>
+        <string>
+            <plain>Хорошо в любви нам жить,</plain>
+        </string>
+        <string>
+            <plain>И любовь другим дарить.</plain>
+        </string>
+    </verse>
+</song>

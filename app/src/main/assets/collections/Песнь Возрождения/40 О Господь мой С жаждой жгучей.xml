@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="40" name="О Господь мой С жаждой жгучей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь мой! С жаждой жгучей</plain>
+        </string>
+        <string>
+            <plain>Я ищу Твой лик святой;</plain>
+        </string>
+        <string>
+            <plain>Призыв радостный, могучий</plain>
+        </string>
+        <string>
+            <plain>Раздается надо мной:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"О приди! О приди! О приди!"</plain>
+        </string>
+        <string>
+            <plain>Призыв радостный, могучий</plain>
+        </string>
+        <string>
+            <plain>Раздается надо мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"О приди! Тебя приму Я;</plain>
+        </string>
+        <string>
+            <plain>Лучший друг Я буду твой.</plain>
+        </string>
+        <string>
+            <plain>В цвете лет твоих зову Я:</plain>
+        </string>
+        <string>
+            <plain>О приди и будь ты Мой".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"О приди! К тебе взываю,</plain>
+        </string>
+        <string>
+            <plain>За тебя Я кровь пролил,</plain>
+        </string>
+        <string>
+            <plain>И теперь Я ожидаю,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Мне лишь ты служил".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Прихожу к Тебе я ныне,</plain>
+        </string>
+        <string>
+            <plain>Поспешив на призыв Твой;</plain>
+        </string>
+        <string>
+            <plain>И, принятый в Божьем Сыне,</plain>
+        </string>
+        <string>
+            <plain>Я отныне уж не свой.</plain>
+        </string>
+    </verse>
+</song>

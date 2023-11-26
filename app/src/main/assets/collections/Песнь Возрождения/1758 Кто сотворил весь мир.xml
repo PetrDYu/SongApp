@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1758" name="Кто сотворил весь мир" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто сотворил весь мир,</plain>
+        </string>
+        <string>
+            <plain>Моря, озера, лес</plain>
+        </string>
+        <string>
+            <plain>И людям всем открыл</plain>
+        </string>
+        <string>
+            <plain>Врата небес?</plain>
+        </string>
+        <string>
+            <plain>Раскрасил Кто цветы?</plain>
+        </string>
+        <string>
+            <plain>Кто место дал заре</plain>
+        </string>
+        <string>
+            <plain>И движет Кто ручьи</plain>
+        </string>
+        <string>
+            <plain>По всей земле?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой Бог, все это - Ты.</plain>
+        </string>
+        <string>
+            <plain>Хвалу и честь прими!</plain>
+        </string>
+        <string>
+            <plain>Рожден Тобою я,</plain>
+        </string>
+        <string>
+            <plain>Ты - жизнь моя.</plain>
+        </string>
+        <string>
+            <plain>Мой Бог, все это - Ты.</plain>
+        </string>
+        <string>
+            <plain>Хвалу и честь прими!</plain>
+        </string>
+        <string>
+            <plain>Ты все предусмотрел</plain>
+        </string>
+        <string>
+            <plain>- Ты мой удел.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто жизни смысл дает?</plain>
+        </string>
+        <string>
+            <plain>Помощник Кто в пути?</plain>
+        </string>
+        <string>
+            <plain>И Кто тебя спасет</plain>
+        </string>
+        <string>
+            <plain>От зла и тьмы?</plain>
+        </string>
+        <string>
+            <plain>Кто посылает свет</plain>
+        </string>
+        <string>
+            <plain>И дождь земле сухой?</plain>
+        </string>
+        <string>
+            <plain>Кто сохранит от бед</plain>
+        </string>
+        <string>
+            <plain>И даст покой?</plain>
+        </string>
+    </verse>
+</song>

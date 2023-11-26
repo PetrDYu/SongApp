@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1616" name="Над тайгой засыпающей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Над тайгой засыпающей</plain>
+        </string>
+        <string>
+            <plain>Тихо всходит луна,</plain>
+        </string>
+        <string>
+            <plain>А в дали замирающей</plain>
+        </string>
+        <string>
+            <plain>Слышен крик журавля.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ах, журавли, журавли.</plain>
+        </string>
+        <string>
+            <plain>Возьмите меня с собой</plain>
+        </string>
+        <string>
+            <plain>С севера дикого в сторону южную.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как услышу я крики</plain>
+        </string>
+        <string>
+            <plain>Журавля над собой,</plain>
+        </string>
+        <string>
+            <plain>Сердце бъется в груди моей,</plain>
+        </string>
+        <string>
+            <plain>Сердце рвется домой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Снова вечер спускается</plain>
+        </string>
+        <string>
+            <plain>Над зеленой тайгой,</plain>
+        </string>
+        <string>
+            <plain>В небе перекликаются</plain>
+        </string>
+        <string>
+            <plain>Журавли меж собой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Этот крик журавлиный</plain>
+        </string>
+        <string>
+            <plain>Мне напомнил сейчас</plain>
+        </string>
+        <string>
+            <plain>О небесной Отчизне,</plain>
+        </string>
+        <string>
+            <plain>Что готова для нас.</plain>
+        </string>
+    </verse>
+</song>

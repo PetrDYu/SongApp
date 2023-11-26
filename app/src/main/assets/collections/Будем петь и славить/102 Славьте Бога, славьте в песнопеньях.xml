@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="102" name="Славьте Бога, славьте в песнопеньях" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Славьте Бога, славьте в песнопеньях!</plain>
+        </string>
+        <string>
+            <plain>Славьте, славьте жизнью всей своей,</plain>
+        </string>
+        <string>
+            <plain>В громких песнях, радостных хваленьях,</plain>
+        </string>
+        <string>
+            <plain>Средь борений и среди скорбей!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев:</plain>
+        </string>
+        <string>
+            <plain>Славьте вы Бога! Славьте всей душой, нас Он спас Собой!</plain>
+        </string>
+        <string>
+            <plain>Славьте вы Бога, слава вечная Ему!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Славьте Бога каждое мгновенье</plain>
+        </string>
+        <string>
+            <plain>В чувствах ваших, мыслях и делах,</plain>
+        </string>
+        <string>
+            <plain>За Его, Творца, долготерпенье</plain>
+        </string>
+        <string>
+            <plain>К миру, гибнущему во грехах!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славьте Бога, славьте всей душою</plain>
+        </string>
+        <string>
+            <plain>За Его великую любовь,</plain>
+        </string>
+        <string>
+            <plain>Что от смерти нас Он спас Собою,</plain>
+        </string>
+        <string>
+            <plain>На кресте пролив святую кровь!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Славьте Бога, славьте бесконечно!</plain>
+        </string>
+        <string>
+            <plain>Скоро Сам во славе Он придет,</plain>
+        </string>
+        <string>
+            <plain>И Своей любовью славной, вечной</plain>
+        </string>
+        <string>
+            <plain>В дом Отца нас всех Он приведет.</plain>
+        </string>
+    </verse>
+</song>

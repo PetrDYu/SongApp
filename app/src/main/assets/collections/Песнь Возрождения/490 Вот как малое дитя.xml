@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="490" name="Вот как малое дитя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот, как малое дитя,</plain>
+        </string>
+        <string>
+            <plain>Положен в пещере скал</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто, бездну осветя,</plain>
+        </string>
+        <string>
+            <plain>Всю вселенную создал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава благому Богу! Всем мир, благоволенье!</plain>
+        </string>
+        <string>
+            <plain>Родился вам Спаситель, Христос, Господь!</plain>
+        </string>
+        <string>
+            <plain>Слава благому Богу! Всем мир, благоволенье!</plain>
+        </string>
+        <string>
+            <plain>Родился вам Спаситель, Христос, Господь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дети малые, скорей</plain>
+        </string>
+        <string>
+            <plain>Соберитеся вокруг!</plain>
+        </string>
+        <string>
+            <plain>Хоть Он мал, Он - Царь царей;</plain>
+        </string>
+        <string>
+            <plain>Хоть Он Царь, - Он малым друг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот, водимые звездой,</plain>
+        </string>
+        <string>
+            <plain>Мудрецы с концов земли</plain>
+        </string>
+        <string>
+            <plain>Клад сокровищ золотой,</plain>
+        </string>
+        <string>
+            <plain>Ладан, смирну принесли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Принесем и мы с собой</plain>
+        </string>
+        <string>
+            <plain>Золото сердец простых,</plain>
+        </string>
+        <string>
+            <plain>Ладан пения с мольбой,</plain>
+        </string>
+        <string>
+            <plain>Смирну чаяний святых.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Освещай, Господь, нам всем</plain>
+        </string>
+        <string>
+            <plain>Мрак унылый наших дум;</plain>
+        </string>
+        <string>
+            <plain>К яслям Божьим в Вифлеем</plain>
+        </string>
+        <string>
+            <plain>Приводи наш гордый ум.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="400" name="Я верю вести той" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я верю вести той,</plain>
+        </string>
+        <string>
+            <plain>Что я спасен Тобой,</plain>
+        </string>
+        <string>
+            <plain>Что все грехи мои Ты снял,</plain>
+        </string>
+        <string>
+            <plain>Жизнь вечную мне дал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты умер за меня,</plain>
+        </string>
+        <string>
+            <plain>Ты дал спасенье мне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб умер для греха и я</plain>
+        </string>
+        <string>
+            <plain>И жил бы лишь в Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Теперь я Твой, я Твой,</plain>
+        </string>
+        <string>
+            <plain>Навек спасен Тобой;</plain>
+        </string>
+        <string>
+            <plain>Никто меня не похитит:</plain>
+        </string>
+        <string>
+            <plain>Ты Сам, Господь, мой щит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О Господи, я слаб;</plain>
+        </string>
+        <string>
+            <plain>Моя же сила - Ты;</plain>
+        </string>
+        <string>
+            <plain>Тобой искупленный я раб,</plain>
+        </string>
+        <string>
+            <plain>Меня поддержишь Ты.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты здесь меня хранишь,</plain>
+        </string>
+        <string>
+            <plain>И мне покой даришь,</plain>
+        </string>
+        <string>
+            <plain>И Сам ведешь меня с Собой</plain>
+        </string>
+        <string>
+            <plain>В небесный край родной.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Господь, не дай любить</plain>
+        </string>
+        <string>
+            <plain>Мне в мире ничего,</plain>
+        </string>
+        <string>
+            <plain>Но дай всегда мне только жить</plain>
+        </string>
+        <string>
+            <plain>Для дела Твоего.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Когда ж Ты жизнь прервешь,</plain>
+        </string>
+        <string>
+            <plain>Теперь уж знаю я,</plain>
+        </string>
+        <string>
+            <plain>Меня в обитель Сам введешь –</plain>
+        </string>
+        <string>
+            <plain>В том радость вся моя.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1867" name="Как твои стопы прекрасны" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как твои стопы прекрасны,</plain>
+        </string>
+        <string>
+            <plain>О Иисус! Они прошли</plain>
+        </string>
+        <string>
+            <plain>Там, где все межи опасны,</plain>
+        </string>
+        <string>
+            <plain>Там где ужасы земли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я хотел бы непрестанно</plain>
+        </string>
+        <string>
+            <plain>Обнимать твои стопы,</plain>
+        </string>
+        <string>
+            <plain>И как плод от жатвы жданной,</plain>
+        </string>
+        <string>
+            <plain>К ним сложить свои снопы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты прошел чрез ряд мучений.</plain>
+        </string>
+        <string>
+            <plain>Искушений и скорбей,</plain>
+        </string>
+        <string>
+            <plain>Чрез долину смертной тени,</plain>
+        </string>
+        <string>
+            <plain>Чрез поля сухих костей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И везде творил Ты чудо:</plain>
+        </string>
+        <string>
+            <plain>Слезы в радость превращал,</plain>
+        </string>
+        <string>
+            <plain>Грешных к небу звал отсюда,</plain>
+        </string>
+        <string>
+            <plain>Мертвых к жизни воскрешал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Многие Твоей тропою</plain>
+        </string>
+        <string>
+            <plain>Идут души на земле;</plain>
+        </string>
+        <string>
+            <plain>То - спасенные Тобою,</plain>
+        </string>
+        <string>
+            <plain>Твой служитель в том числе.</plain>
+        </string>
+    </verse>
+</song>

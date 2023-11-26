@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2223" name="На могучих крыльях веры далеко я в высь несусь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На могучих крыльях веры далеко я в высь несусь,</plain>
+        </string>
+        <string>
+            <plain>Нет моим желаньям меры, чтобы быть, где Иисус!</plain>
+        </string>
+        <string>
+            <plain>Чрев поля, моря и горы, чрев пустынные места,</plain>
+        </string>
+        <string>
+            <plain>Я лечу на крыльях веры в те желанные края.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Золотые крылья веры,</plain>
+        </string>
+        <string>
+            <plain>Боже, в сердце укрепи,</plain>
+        </string>
+        <string>
+            <plain>чтоб несли меня в пределы,</plain>
+        </string>
+        <string>
+            <plain>в край завещанной страны!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть порою я бессилен, крылья слабые мои,</plain>
+        </string>
+        <string>
+            <plain>Божьей милостью святою вновь парят мои мечты.</plain>
+        </string>
+        <string>
+            <plain>Забываю я бессилье, исчезает всякий страх,</plain>
+        </string>
+        <string>
+            <plain>Снова ввысь я поднимаюсь к тем заветным берегам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На могучих крыльях веры я хочу всегда летать,</plain>
+        </string>
+        <string>
+            <plain>Приходя от силы в силу, силу в Боге обретать.</plain>
+        </string>
+        <string>
+            <plain>О! Вы, крылья золотые, поднимайтесь только ввысь,</plain>
+        </string>
+        <string>
+            <plain>В край небес меня несите, в тот блаженный Божий мир!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2229" name="Не потони в житейском море" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не потони в житейском море,</plain>
+        </string>
+        <string>
+            <plain>Будь победителем скорбей,</plain>
+        </string>
+        <string>
+            <plain>И совесть чистую в дозоре</plain>
+        </string>
+        <string>
+            <plain>Поставь на страже жизни всей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не ослепляй себя удачей,</plain>
+        </string>
+        <string>
+            <plain>Перед грозой не отступай,</plain>
+        </string>
+        <string>
+            <plain>И не проспи зари горячей,</plain>
+        </string>
+        <string>
+            <plain>Со всеми поле засевай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Распознавай людей лукавых,</plain>
+        </string>
+        <string>
+            <plain>Топчи неискренность и ложь,</plain>
+        </string>
+        <string>
+            <plain>А лести сладкую отраву</plain>
+        </string>
+        <string>
+            <plain>Своим презреньем уничтожь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За прямоту ни на минуту</plain>
+        </string>
+        <string>
+            <plain>Обиду не таи в груди,</plain>
+        </string>
+        <string>
+            <plain>И бойся больше смерти лютой</plain>
+        </string>
+        <string>
+            <plain>Чужое горе обойти.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1790" name="Утешь меня Боже любовью согрей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Утешь меня, Боже, любовью согрей,</plain>
+        </string>
+        <string>
+            <plain>К груди я приблизился ныне Твоей</plain>
+        </string>
+        <string>
+            <plain>И верю я слову, что Ты говорил,</plain>
+        </string>
+        <string>
+            <plain>От юности ранней меня Ты любил.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Теченье мирское меня увлекло,</plain>
+        </string>
+        <string>
+            <plain>В отравленном сердце покоилось зло,</plain>
+        </string>
+        <string>
+            <plain>Но искра любви Твоей пламень зажгла,</plain>
+        </string>
+        <string>
+            <plain>И радость спасенья душа обрела.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Храни в искушеньях, Спаситель, меня.</plain>
+        </string>
+        <string>
+            <plain>Как мать охраняет родное дитя.</plain>
+        </string>
+        <string>
+            <plain>Я плачу и тихо Тебе говорю:</plain>
+        </string>
+        <string>
+            <plain>Умножь во мне веру, Тебя я люблю.</plain>
+        </string>
+    </verse>
+</song>

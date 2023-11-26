@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3126" name="Друг усталый с ношей тяжкой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Друг усталый, с ношей тяжкой,</plain>
+        </string>
+        <string>
+            <plain>ты к кресту Христа спеши!</plain>
+        </string>
+        <string>
+            <plain>Здесь найдёшь ты утешенье,</plain>
+        </string>
+        <string>
+            <plain>мир блаженный для души.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, войди в Его покой.</plain>
+        </string>
+        <string>
+            <plain>Ждёт тебя Спаситель Твой!</plain>
+        </string>
+        <string>
+            <plain>Сбрось всю ношу У креста.</plain>
+        </string>
+        <string>
+            <plain>Он пришёл спасти тебя</plain>
+        </string>
+        <string>
+            <plain>(спасти тебя!)</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Наказанье принимает</plain>
+        </string>
+        <string>
+            <plain>Агнец Божий на Себя,</plain>
+        </string>
+        <string>
+            <plain>терпит муки, умирает</plain>
+        </string>
+        <string>
+            <plain>на кресте Он за тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На кресте страдал Невинный</plain>
+        </string>
+        <string>
+            <plain>и за нас вину понёс</plain>
+        </string>
+        <string>
+            <plain>- о, как любит нас единый</plain>
+        </string>
+        <string>
+            <plain>Божий Сын, Иисус Христос!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В Нём найдёшь утешенье,</plain>
+        </string>
+        <string>
+            <plain>исцелится боль твоя,</plain>
+        </string>
+        <string>
+            <plain>мир найдёшь, грехов прощенье,</plain>
+        </string>
+        <string>
+            <plain>о ты, бедная душа.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, приди, твой грех Он снимет.</plain>
+        </string>
+        <string>
+            <plain>У подножия креста</plain>
+        </string>
+        <string>
+            <plain>благодать найдёшь ты ныне.</plain>
+        </string>
+        <string>
+            <plain>О, прими её, душа!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="190" name="Обетованья всегда пребудут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Обетованья всегда пребудут,</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса их подтверждает.</plain>
+        </string>
+        <string>
+            <plain>Хотя б погасла надежда в жизни, -</plain>
+        </string>
+        <string>
+            <plain>Что обещал Бог, то даст.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Что обещал Бог, то он исполнит,</plain>
+        </string>
+        <string>
+            <plain>Хотя бы в жизни погибло все,</plain>
+        </string>
+        <string>
+            <plain>Хотя бы звезды погасли в небе,</plain>
+        </string>
+        <string>
+            <plain>Обетованья все стоят.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И в час страданья, когда темнеет,</plain>
+        </string>
+        <string>
+            <plain>Слабеют силы, унынье в сердце,</plain>
+        </string>
+        <string>
+            <plain>Не дам сомненью смущать мне душу, -</plain>
+        </string>
+        <string>
+            <plain>Что обещал Бог, то даст.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть искушенья кругом бушуют,</plain>
+        </string>
+        <string>
+            <plain>Но сила крови дает победу.</plain>
+        </string>
+        <string>
+            <plain>И радостно я пою в надежде:</plain>
+        </string>
+        <string>
+            <plain>Что обещал Бог, то даст.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда воскреснут все дети Божьи</plain>
+        </string>
+        <string>
+            <plain>И ангелы нас на небе встретят,</plain>
+        </string>
+        <string>
+            <plain>Мы там получим венцы победы:</plain>
+        </string>
+        <string>
+            <plain>Что обещал Бог, то даст.</plain>
+        </string>
+    </verse>
+</song>

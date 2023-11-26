@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="903" name="Есть книга там на небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть книга там, на небесах,</plain>
+        </string>
+        <string>
+            <plain>Святые где записаны, Где</plain>
+        </string>
+        <string>
+            <plain>Божий Дух живет в сердцах.</plain>
+        </string>
+        <string>
+            <plain>Но как со мной, записан ли?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, как со мной? Записан ли</plain>
+        </string>
+        <string>
+            <plain>Там, в книге жизни, на небесах?</plain>
+        </string>
+        <string>
+            <plain>О мой Иисус, прошу Тебя,</plain>
+        </string>
+        <string>
+            <plain>О, запиши там и меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ее листы, как утра свет,</plain>
+        </string>
+        <string>
+            <plain>И буквы в ней горят огнем.</plain>
+        </string>
+        <string>
+            <plain>Иисус Господь, о дай ответ:</plain>
+        </string>
+        <string>
+            <plain>Записан я там или нет?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И куплена там запись в ней</plain>
+        </string>
+        <string>
+            <plain>Ценой Христа Святой Крови,</plain>
+        </string>
+        <string>
+            <plain>Ценою ран, ран от гвоздей.</plain>
+        </string>
+        <string>
+            <plain>Но как со мной, записан ли?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Спаситель мой, мой Царь и Бог,</plain>
+        </string>
+        <string>
+            <plain>Дай мне знать, прошу Тебя.</plain>
+        </string>
+        <string>
+            <plain>Прочти и мне из книги той</plain>
+        </string>
+        <string>
+            <plain>Благую весть, что там и я.</plain>
+        </string>
+    </verse>
+</song>

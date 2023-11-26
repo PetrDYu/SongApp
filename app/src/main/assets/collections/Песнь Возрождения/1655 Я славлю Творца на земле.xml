@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1655" name="Я славлю Творца на земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я славлю Творца на земле, когда солнце</plain>
+        </string>
+        <string>
+            <plain>Багряно из мрачной долины встает.</plain>
+        </string>
+        <string>
+            <plain>Мрак ночи исчез, и земля торжествует.</plain>
+        </string>
+        <string>
+            <plain>Ликуя, весеннее утро поет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвалите все Бога: Достоин Он славы.</plain>
+        </string>
+        <string>
+            <plain>Да будет Он нами всегда вознесен.</plain>
+        </string>
+        <string>
+            <plain>Небесное око над нами высоко</plain>
+        </string>
+        <string>
+            <plain>Влечет нас с любовью в Небесный Сион.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я славлю Творца на вечернем закате,</plain>
+        </string>
+        <string>
+            <plain>При первом мерцаньи далеких огней.</plain>
+        </string>
+        <string>
+            <plain>И в тихой мольбе к небу взор поднимаю,</plain>
+        </string>
+        <string>
+            <plain>Тоскуя о родине дивной своей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я славлю Творца, будь то в тяжких страданьях,</plain>
+        </string>
+        <string>
+            <plain>Невзгоды когда мою жизнь тяготят.</plain>
+        </string>
+        <string>
+            <plain>Я знаю: тогда избавленье настанет,</plain>
+        </string>
+        <string>
+            <plain>Как Богом с души моей гнет будет снят.</plain>
+        </string>
+    </verse>
+</song>

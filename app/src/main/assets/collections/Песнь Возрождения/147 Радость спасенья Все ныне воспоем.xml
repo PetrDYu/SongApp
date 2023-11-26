@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="147" name="Радость спасенья Все ныне воспоем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радость спасенья</plain>
+        </string>
+        <string>
+            <plain>Все ныне воспоем,</plain>
+        </string>
+        <string>
+            <plain>Благодаренье</plain>
+        </string>
+        <string>
+            <plain>Господу принесем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господа славят</plain>
+        </string>
+        <string>
+            <plain>Земля и небеса.</plain>
+        </string>
+        <string>
+            <plain>Ты еси Бог наш,</plain>
+        </string>
+        <string>
+            <plain>Творящий чудеса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кровью Своею</plain>
+        </string>
+        <string>
+            <plain>Нас спасший от грехов,</plain>
+        </string>
+        <string>
+            <plain>Все претерпевший</plain>
+        </string>
+        <string>
+            <plain>За нас, земных рабов.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Скорбью распятья</plain>
+        </string>
+        <string>
+            <plain>Власть смерти сокрушил.</plain>
+        </string>
+        <string>
+            <plain>Гнев и проклятье</plain>
+        </string>
+        <string>
+            <plain>От нас Он отвратил.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Станем же ныне,</plain>
+        </string>
+        <string>
+            <plain>С хваленьем на устах,</plain>
+        </string>
+        <string>
+            <plain>Петь в здешней жизни</plain>
+        </string>
+        <string>
+            <plain>И после в небесах.</plain>
+        </string>
+    </verse>
+</song>

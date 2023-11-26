@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3297" name="Мы в жизни своей чтото сеем друзья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы в жизни своей что-то сеем друзья,</plain>
+        </string>
+        <string>
+            <plain>где словом порою, где делом.</plain>
+        </string>
+        <string>
+            <plain>А после возросшие те семена,</plain>
+        </string>
+        <string>
+            <plain>мы жнём только больше, чем сеем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто в плоть будет сеять, от плоти пожнёт</plain>
+        </string>
+        <string>
+            <plain>— апостол сказал, только тленье,</plain>
+        </string>
+        <string>
+            <plain>— а кто Дух посеет, от Духа пожнёт,</plain>
+        </string>
+        <string>
+            <plain>жизнь вечную в день воскресенья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Брось в добрую землю одно лишь зерно,</plain>
+        </string>
+        <string>
+            <plain>ты к жатве пожнёшь полный колос.</plain>
+        </string>
+        <string>
+            <plain>А если ты ветер посеял, друг мой,</plain>
+        </string>
+        <string>
+            <plain>Он в бурю умножит Свой колос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть этот посев и жатвы закон,</plain>
+        </string>
+        <string>
+            <plain>для нас будет ярким примером.</plain>
+        </string>
+        <string>
+            <plain>Что в жизни мы сеем, то после пожнём,</plain>
+        </string>
+        <string>
+            <plain>пожнём только больше, чем сеем.</plain>
+        </string>
+    </verse>
+</song>

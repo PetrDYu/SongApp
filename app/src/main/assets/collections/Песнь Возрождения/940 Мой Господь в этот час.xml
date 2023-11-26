@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="940" name="Мой Господь в этот час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Господь, в этот час</plain>
+        </string>
+        <string>
+            <plain>Я склоняюсь в мольбе,</plain>
+        </string>
+        <string>
+            <plain>И все нужды мои Приношу я Тебе.</plain>
+        </string>
+        <string>
+            <plain>В жизни бурь и тревог</plain>
+        </string>
+        <string>
+            <plain>Ты укроешь меня.</plain>
+        </string>
+        <string>
+            <plain>Путь весь знаешь, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Он не скрыт от Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Господь дорогой,</plain>
+        </string>
+        <string>
+            <plain>Ты мой щит и скала.</plain>
+        </string>
+        <string>
+            <plain>Будь же рядом со мной</plain>
+        </string>
+        <string>
+            <plain>- Ты опора моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не страшна мне с Тобой</plain>
+        </string>
+        <string>
+            <plain>Даже смертная тень.</plain>
+        </string>
+        <string>
+            <plain>Обрету я покой</plain>
+        </string>
+        <string>
+            <plain>В небе в солнечный день.</plain>
+        </string>
+        <string>
+            <plain>Знаю, слезы мои</plain>
+        </string>
+        <string>
+            <plain>Ты с любовью отрешь,</plain>
+        </string>
+        <string>
+            <plain>Все ошибки пути</plain>
+        </string>
+        <string>
+            <plain>Ты простишь и поймешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А пока на земле</plain>
+        </string>
+        <string>
+            <plain>Буду славить, скорбя,</plain>
+        </string>
+        <string>
+            <plain>Буду сердцем я петь,</plain>
+        </string>
+        <string>
+            <plain>Ожидая Тебя.</plain>
+        </string>
+        <string>
+            <plain>Знаю, скоро придешь,</plain>
+        </string>
+        <string>
+            <plain>Скоро встречу Тебя,</plain>
+        </string>
+        <string>
+            <plain>Свою Церковь возьмешь</plain>
+        </string>
+        <string>
+            <plain>От скорбей и от зла.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1998" name="Господь когда я вновь рожденный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, когда я вновь рожденный,</plain>
+        </string>
+        <string>
+            <plain>Стал робко за Тобой шагать,</plain>
+        </string>
+        <string>
+            <plain>Я мыслил: грех, Тобой сраженный,</plain>
+        </string>
+        <string>
+            <plain>Мне не придется повстречать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В час борьбы с грехом,</plain>
+        </string>
+        <string>
+            <plain>Будь моим щитом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот, увы! В момент нежданный</plain>
+        </string>
+        <string>
+            <plain>Я грех увидел пред собой;</plain>
+        </string>
+        <string>
+            <plain>Облекшись сладостью туманной,</plain>
+        </string>
+        <string>
+            <plain>Хотел он овладеть душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я устрашился и молился,</plain>
+        </string>
+        <string>
+            <plain>Взывал: "Зачем и почему?"</plain>
+        </string>
+        <string>
+            <plain>И Ты, Господь, ко мне явился,</plain>
+        </string>
+        <string>
+            <plain>Сказал: "Ко благу твоему".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В любви ты можешь охладиться;</plain>
+        </string>
+        <string>
+            <plain>Когда греха увидишь пасть,</plain>
+        </string>
+        <string>
+            <plain>Начнешь ты пламенно молиться.</plain>
+        </string>
+        <string>
+            <plain>Захочешь вновь ко Мне припасть".</plain>
+        </string>
+    </verse>
+</song>

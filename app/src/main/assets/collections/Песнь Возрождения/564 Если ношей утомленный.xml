@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="564" name="Если ношей утомленный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если, ношей утомленный,</plain>
+        </string>
+        <string>
+            <plain>Ты споткнешься на пути,</plain>
+        </string>
+        <string>
+            <plain>Знай: Спаситель вознесенный</plain>
+        </string>
+        <string>
+            <plain>Может бремя понести.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Только Он, любвеобильный,</plain>
+        </string>
+        <string>
+            <plain>Может горе усладить;</plain>
+        </string>
+        <string>
+            <plain>Только Он один, всесильный,</plain>
+        </string>
+        <string>
+            <plain>Может силой наделить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Только Он, небес властитель,</plain>
+        </string>
+        <string>
+            <plain>Может сердце исцелить,</plain>
+        </string>
+        <string>
+            <plain>Только Он, твой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Может грех тебе простить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Только Тот, Кто ночь могилы</plain>
+        </string>
+        <string>
+            <plain>Превратил в поток лучей,</plain>
+        </string>
+        <string>
+            <plain>Может мир души унылый</plain>
+        </string>
+        <string>
+            <plain>Воскресить для новых дней.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2556" name="Если в жизни твоей мало светлых надежд" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если в жизни твоей мало светлых надежд</plain>
+        </string>
+        <string>
+            <plain>И прошло над тобою, мой друг, много бед,</plain>
+        </string>
+        <string>
+            <plain>Ты в Иисусе Христе утешены ищи,</plain>
+        </string>
+        <string>
+            <plain>Лишь к Нему обращайся в тиши.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И Он даст тебе мир, Да,</plain>
+        </string>
+        <string>
+            <plain>Он даст мир, покой,</plain>
+        </string>
+        <string>
+            <plain>Только верь, что Он даст,</plain>
+        </string>
+        <string>
+            <plain>И получишь в свой час.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если грустные мысли волнуют тебя</plain>
+        </string>
+        <string>
+            <plain>И твой дух возмущается жизнью людской,</plain>
+        </string>
+        <string>
+            <plain>Когда счастья ты просишь, грустя и скорбя,</plain>
+        </string>
+        <string>
+            <plain>Верь в молитве найдешь ты покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если в тяжком труде ты, измученный пал,</plain>
+        </string>
+        <string>
+            <plain>Обливаясь и потом, и кровыо, тогда</plain>
+        </string>
+        <string>
+            <plain>Встань, и вспомни Христа, как за нас</plain>
+        </string>
+        <string>
+            <plain>Он страдал И послутшен Отцу был всегда.</plain>
+        </string>
+    </verse>
+</song>

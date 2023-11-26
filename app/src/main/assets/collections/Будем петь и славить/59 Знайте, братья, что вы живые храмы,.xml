@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="59" name="Знайте, братья, что вы живые храмы," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Знайте, братья, что вы – живые храмы,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>В которых пребывает Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Храмы веры, надежды и славы,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>В которых пребывает Дух Святой.</plain>
+        </string>
+    </verse>
+</song>

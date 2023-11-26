@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="541" name="Некто в ворота небес войдет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Некто в ворота небес войдет;</plain>
+        </string>
+        <string>
+            <plain>Близок час! Близок час!</plain>
+        </string>
+        <string>
+            <plain>Некто познает рай, что там ждет.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастье видений святых найдет,</plain>
+        </string>
+        <string>
+            <plain>Вкусит от радостей и щедрот.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Некто свой крест сложит наконец;</plain>
+        </string>
+        <string>
+            <plain>Близок час! Близок час!</plain>
+        </string>
+        <string>
+            <plain>Верный получит святой венец.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Чтобы забыть яд земных скорбей</plain>
+        </string>
+        <string>
+            <plain>И обрести счастье вечных дней.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Некто стучать будет в дверь не раз,</plain>
+        </string>
+        <string>
+            <plain>Близок час! Близок час!</plain>
+        </string>
+        <string>
+            <plain>Голос услышит: "Не знаю вас!"</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Будет на двери в тот день печать,</plain>
+        </string>
+        <string>
+            <plain>Счастья святых им не увидать.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>Некто там петь будет песнь душой,</plain>
+        </string>
+        <string>
+            <plain>Близок час! Близок час!</plain>
+        </string>
+        <string>
+            <plain>К хору спасенных примкнув с хвалой.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Раньше пришедших из стран скорбей,</plain>
+        </string>
+        <string>
+            <plain>Вечно счастливых в душе своей.</plain>
+        </string>
+        <string>
+            <plain>А вы? А я? А вы? А я?</plain>
+        </string>
+    </chorus>
+</song>

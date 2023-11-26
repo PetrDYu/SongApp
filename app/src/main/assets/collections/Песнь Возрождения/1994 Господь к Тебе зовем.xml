@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1994" name="Господь к Тебе зовем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, к Тебе зовем,</plain>
+        </string>
+        <string>
+            <plain>Ты услышь моленье:</plain>
+        </string>
+        <string>
+            <plain>Благослови наш край родной</plain>
+        </string>
+        <string>
+            <plain>И дай нам мир, благословенье;</plain>
+        </string>
+        <string>
+            <plain>К Тебе, Господь, взываем мы.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь, наш край велик;</plain>
+        </string>
+        <string>
+            <plain>И богат природой;</plain>
+        </string>
+        <string>
+            <plain>О, научи народ добру.</plain>
+        </string>
+        <string>
+            <plain>Избавь его от всех пороков</plain>
+        </string>
+        <string>
+            <plain>И дай успех его труду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь! К Тебе зовем, наш Бог:</plain>
+        </string>
+        <string>
+            <plain>Соверши Ты чудо!</plain>
+        </string>
+        <string>
+            <plain>Народ для вечности спаси,</plain>
+        </string>
+        <string>
+            <plain>Дай свет ему. Господь,</plain>
+        </string>
+        <string>
+            <plain>Дай свет ему, свет небесный,</plain>
+        </string>
+        <string>
+            <plain>Для жизни новой пробуди.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="105" name="Новой песней славим Бога, видя Божьи чудеса" canon="false" text="" textRus="" music="Л. ван Бетховена" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Новой песней славим Бога, видя Божьи чудеса;</plain>
+        </string>
+        <string>
+            <plain>Пусть небесной светлой правдой крепнут наши голоса.</plain>
+        </string>
+        <string>
+            <plain>Нам Господь явил спасенье, силу нам явил Свою,</plain>
+        </string>
+        <string>
+            <plain>Он открылся всем народам – радуйтесь в любом краю.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Новой песней славим Бога: Он победой озарен.</plain>
+        </string>
+        <string>
+            <plain>Пусть земля поет об этом звуком струн со всех сторон.</plain>
+        </string>
+        <string>
+            <plain>Пусть молитвы наши льются, трубы звонкие трубят,</plain>
+        </string>
+        <string>
+            <plain>Пред Царем небесным души наши радостно горят.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Новой песней славим Бога, с ней сольется моря гул,</plain>
+        </string>
+        <string>
+            <plain>Пусть ликует все живое, все, на что Господь взглянул;</plain>
+        </string>
+        <string>
+            <plain>Реки ждут, леса и горы – Бог идет Своим путем,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мир судить и землю верным праведным судом.</plain>
+        </string>
+    </verse>
+</song>

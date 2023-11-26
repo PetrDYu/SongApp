@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2300" name="Проходят дни за днями мгновением одним" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Проходят дни за днями мгновением одним,</plain>
+        </string>
+        <string>
+            <plain>Неслышными шагами мы к вечности спешим.</plain>
+        </string>
+        <string>
+            <plain>И буря, и ненастье, и ясный солнца свет,</plain>
+        </string>
+        <string>
+            <plain>И горести, и счастье прошли, их больше нет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Стремись же всей душой</plain>
+        </string>
+        <string>
+            <plain>К Небесному Отцу,</plain>
+        </string>
+        <string>
+            <plain>Блаженному покою,</plain>
+        </string>
+        <string>
+            <plain>Нетленному венцу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Что пережил - уходит, не пережить опять;</plain>
+        </string>
+        <string>
+            <plain>За годом год проходит, не возвращаясь вспять.</plain>
+        </string>
+        <string>
+            <plain>Всё в мире скоротечно и тост всё, как дым.</plain>
+        </string>
+        <string>
+            <plain>Не называй беспечно здесь ничего своим.</plain>
+        </string>
+    </verse>
+</song>

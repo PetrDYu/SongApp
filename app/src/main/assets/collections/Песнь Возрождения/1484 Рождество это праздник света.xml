@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1484" name="Рождество это праздник света" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Рождество - это праздник света.</plain>
+        </string>
+        <string>
+            <plain>День рожденья большой Любви.</plain>
+        </string>
+        <string>
+            <plain>Это - с неба отзвук привета.</plain>
+        </string>
+        <string>
+            <plain>Это - праздник для каждой семьи.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рождество - это воля Бога,</plain>
+        </string>
+        <string>
+            <plain>Это новая в небе звезда,</plain>
+        </string>
+        <string>
+            <plain>К жизни вечной прямая дорога,</plain>
+        </string>
+        <string>
+            <plain>Это - хлеб и живая вода.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Рождество - это праздник мира,</plain>
+        </string>
+        <string>
+            <plain>Примиренье людей с Творцом.</plain>
+        </string>
+        <string>
+            <plain>Пусть сердца откроются шире</plain>
+        </string>
+        <string>
+            <plain>В этот праздничный день пред Христом.</plain>
+        </string>
+    </verse>
+</song>

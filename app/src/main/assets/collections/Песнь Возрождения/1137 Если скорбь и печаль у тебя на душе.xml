@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1137" name="Если скорбь и печаль у тебя на душе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если скорбь и печаль у тебя на душе.</plain>
+        </string>
+        <string>
+            <plain>Если жизненный путь утомляет,</plain>
+        </string>
+        <string>
+            <plain>И твой дух изнемог от житейской борьбы,</plain>
+        </string>
+        <string>
+            <plain>И молитвы огонь угасает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Помни, твой Спаситель с тобой (Он с тобой),</plain>
+        </string>
+        <string>
+            <plain>Помни, Он дарует покой.</plain>
+        </string>
+        <string>
+            <plain>Бодрствуй, скоро время придет (да придет),</plain>
+        </string>
+        <string>
+            <plain>- Искупитель к Себе нас возьмет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нелегко нам тернистой тропою идти,</plain>
+        </string>
+        <string>
+            <plain>Всюду враг-искуситель встречает,</plain>
+        </string>
+        <string>
+            <plain>- И слабеем порою в далеком пути,</plain>
+        </string>
+        <string>
+            <plain>Беспросветная ночь окружает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Долго ль будем томиться в пустыне сухой?</plain>
+        </string>
+        <string>
+            <plain>Скоро светом восток озарится.</plain>
+        </string>
+        <string>
+            <plain>И рассеется мрак, что покрыл лик земной.</plain>
+        </string>
+        <string>
+            <plain>И на землю Господь возвратится.</plain>
+        </string>
+    </verse>
+</song>

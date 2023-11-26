@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1245" name="Люблю я только Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю я только Господа,</plain>
+        </string>
+        <string>
+            <plain>люблю я только Господа.</plain>
+        </string>
+        <string>
+            <plain>Только Иисуса,</plain>
+        </string>
+        <string>
+            <plain>только Иисуса</plain>
+        </string>
+        <string>
+            <plain>всегда я буду любить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Надеемся на Господа,</plain>
+        </string>
+        <string>
+            <plain>Надеемся на Господа.</plain>
+        </string>
+        <string>
+            <plain>Только на Иисуса,</plain>
+        </string>
+        <string>
+            <plain>только на Иисуса</plain>
+        </string>
+        <string>
+            <plain>- надеемся на Господа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я следую за Господом,</plain>
+        </string>
+        <string>
+            <plain>я следую за Господом.</plain>
+        </string>
+        <string>
+            <plain>Только за Иисусом,</plain>
+        </string>
+        <string>
+            <plain>только за Иисусом</plain>
+        </string>
+        <string>
+            <plain>- я следую за Господом.</plain>
+        </string>
+    </verse>
+</song>

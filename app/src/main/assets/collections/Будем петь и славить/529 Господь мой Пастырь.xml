@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="529" name="Господь мой Пастырь" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Господь – мой Пастырь;</plain>
+        </string>
+        <string>
+            <plain>Я не буду ни в чем нуждаться:</plain>
+        </string>
+        <string>
+            <plain>Он покоит меня на злачных пажитях</plain>
+        </string>
+        <string>
+            <plain>И водит меня к водам тихим.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Твоя благость и милость да сопровождают</plain>
+        </string>
+        <string>
+            <plain>Меня во все дни жизни моей,</plain>
+        </string>
+        <string>
+            <plain>И я пребуду в доме Господнем</plain>
+        </string>
+        <string>
+            <plain>Многие-многие дни.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Многие-многие дни…</plain>
+        </string>
+    </verse>
+</song>

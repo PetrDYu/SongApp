@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1326" name="Боже дай терпенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже! дай терпенье</plain>
+        </string>
+        <string>
+            <plain>В день, когда придет</plain>
+        </string>
+        <string>
+            <plain>Скорбь, болезнь, лишенье,</plain>
+        </string>
+        <string>
+            <plain>Облако невзгод.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, Боже,</plain>
+        </string>
+        <string>
+            <plain>Боже, дай терпенье;</plain>
+        </string>
+        <string>
+            <plain>Боже, Боже,</plain>
+        </string>
+        <string>
+            <plain>Боже, дай терпенье!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже! дай терпенье,</plain>
+        </string>
+        <string>
+            <plain>Если нападет</plain>
+        </string>
+        <string>
+            <plain>Враг мой - искушенье -</plain>
+        </string>
+        <string>
+            <plain>И терзать начнет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже! дай терпенье</plain>
+        </string>
+        <string>
+            <plain>тем, кто слаб душой.</plain>
+        </string>
+        <string>
+            <plain>Чтобы в огорченьи</plain>
+        </string>
+        <string>
+            <plain>Я хранил покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Боже! дай терпенье</plain>
+        </string>
+        <string>
+            <plain>мудрым и простым.</plain>
+        </string>
+        <string>
+            <plain>Чтоб от осужденья</plain>
+        </string>
+        <string>
+            <plain>Был твой раб храним.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Боже! дай терпенье</plain>
+        </string>
+        <string>
+            <plain>Под ярмом труда.</plain>
+        </string>
+        <string>
+            <plain>Чтоб в Твоем служеньи</plain>
+        </string>
+        <string>
+            <plain>Достигать плода.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Дай Твое терпенье,</plain>
+        </string>
+        <string>
+            <plain>Чтоб, как Ты, и я</plain>
+        </string>
+        <string>
+            <plain>Мог нести прощенье</plain>
+        </string>
+        <string>
+            <plain>В сумрак бытия.</plain>
+        </string>
+    </verse>
+</song>

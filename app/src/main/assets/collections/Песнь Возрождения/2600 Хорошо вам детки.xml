@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2600" name="Хорошо вам детки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хорошо вам, детки,</plain>
+        </string>
+        <string>
+            <plain>Зимним вечерком</plain>
+        </string>
+        <string>
+            <plain>В комнатке уюттой</plain>
+        </string>
+        <string>
+            <plain>Сели вы рядком.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пламя от камина</plain>
+        </string>
+        <string>
+            <plain>Освещает вас,</plain>
+        </string>
+        <string>
+            <plain>Слушаете жадно</plain>
+        </string>
+        <string>
+            <plain>Мамин вы рассказ.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть сердито воет</plain>
+        </string>
+        <string>
+            <plain>Буря за окном</plain>
+        </string>
+        <string>
+            <plain>Хорошо вам, детки,</plain>
+        </string>
+        <string>
+            <plain>В гнезды тике своем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но не всем такое</plain>
+        </string>
+        <string>
+            <plain>Счастье Бог дает,</plain>
+        </string>
+        <string>
+            <plain>Есть на свете много</plain>
+        </string>
+        <string>
+            <plain>Берных и сирот.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>У одних могила</plain>
+        </string>
+        <string>
+            <plain>Рано мать взяла,</plain>
+        </string>
+        <string>
+            <plain>У других нет в зиму</plain>
+        </string>
+        <string>
+            <plain>Теплого жилья.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Если ж вам придется</plain>
+        </string>
+        <string>
+            <plain>Встретить таковых, -</plain>
+        </string>
+        <string>
+            <plain>Вы, как братья, детки,</plain>
+        </string>
+        <string>
+            <plain>Приголубьте их.</plain>
+        </string>
+    </verse>
+</song>

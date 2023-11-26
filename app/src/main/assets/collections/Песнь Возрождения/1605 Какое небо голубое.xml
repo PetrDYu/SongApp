@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1605" name="Какое небо голубое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Какое небо голубое.</plain>
+        </string>
+        <string>
+            <plain>Какая чистая вода!</plain>
+        </string>
+        <string>
+            <plain>Как хорошо с Тобою,</plain>
+        </string>
+        <string>
+            <plain>Боже, В часы досуга и труда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С Тобою горе - как не горе,</plain>
+        </string>
+        <string>
+            <plain>С Тобой потеря - не урон;</plain>
+        </string>
+        <string>
+            <plain>Ты возместишь утрату вскоре</plain>
+        </string>
+        <string>
+            <plain>И радость возведешь на трон.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отвергнут люди - Ты пригреешь,</plain>
+        </string>
+        <string>
+            <plain>Осудят - оправдаешь Ты;</plain>
+        </string>
+        <string>
+            <plain>Бескрайней милостью согреешь,</plain>
+        </string>
+        <string>
+            <plain>Творец небесной красоты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Земное время - как прохожий,</plain>
+        </string>
+        <string>
+            <plain>Ты - стража верная моя.</plain>
+        </string>
+        <string>
+            <plain>Как хорошо с Тобою, Боже,</plain>
+        </string>
+        <string>
+            <plain>В часы земного бытия!</plain>
+        </string>
+    </verse>
+</song>

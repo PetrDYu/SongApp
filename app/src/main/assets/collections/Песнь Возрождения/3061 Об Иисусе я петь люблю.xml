@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3061" name="Об Иисусе я петь люблю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Об Иисусе я петь люблю.</plain>
+        </string>
+        <string>
+            <plain>Он Своей кровью спас жизнь мою.</plain>
+        </string>
+        <string>
+            <plain>Всю жизнь хочу я Его хвалить,</plain>
+        </string>
+        <string>
+            <plain>пусть в Его славу струна звучит!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С небес прекрасных, с престола</plain>
+        </string>
+        <string>
+            <plain>Он на землю нашу, любя, пришёл.</plain>
+        </string>
+        <string>
+            <plain>За грех мой умер Он для того,</plain>
+        </string>
+        <string>
+            <plain>чтобы я мог служить дитём Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пролил Свою кровь Он для того,</plain>
+        </string>
+        <string>
+            <plain>чтоб вечно было мне хорошо.</plain>
+        </string>
+        <string>
+            <plain>Он приготовил обитель мне.</plain>
+        </string>
+        <string>
+            <plain>О, я послушен, Иисус, Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебе во славу хочу служить.</plain>
+        </string>
+        <string>
+            <plain>О, дай мне силы сильней любить,</plain>
+        </string>
+        <string>
+            <plain>чтоб ещё много спаслось людей</plain>
+        </string>
+        <string>
+            <plain>по благодати большой Твоей!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В раю чудесном, где всё поёт,</plain>
+        </string>
+        <string>
+            <plain>где лишь святая любовь войдёт,</plain>
+        </string>
+        <string>
+            <plain>там я увижу лицом к лицу</plain>
+        </string>
+        <string>
+            <plain>Христа Иисуса, любовь мою.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="352" name="ШАБАТ ШАЛОМ" canon="false" text="" textRus="" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>ШАБА́Т ШАЛО́М</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>А́М ИСРА́ЭЛЬ ХА́Й</plain>
+        </string>
+        <string>
+            <plain>О́Д АВИ́НУ ХА́Й</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>x̅ЭВЕ́ЙНУ ША́ЛОМ АЛЭ́ЙХЭМ</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>ШАЛУ́ ШАЛО́М ЙЕРУША́ЛАИМ</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>ШАБА́Т ШАЛО́М</plain>
+        </string>
+    </verse>
+</song>

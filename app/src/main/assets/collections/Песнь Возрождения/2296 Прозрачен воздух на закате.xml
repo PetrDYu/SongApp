@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2296" name="Прозрачен воздух на закате" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прозрачен воздух на закате над городом моим.</plain>
+        </string>
+        <string>
+            <plain>Вечерним звоном ветер плачет, мечтой веков томим.</plain>
+        </string>
+        <string>
+            <plain>И камни дремлют, и деревья в безмолвии немом,</plain>
+        </string>
+        <string>
+            <plain>С сердечной раной разделенья живёт, тоскуя; он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Объятый светом золотым!</plain>
+        </string>
+        <string>
+            <plain>Тебе во славу песнь слагаю,</plain>
+        </string>
+        <string>
+            <plain>Иерусалим. Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Да будет мир стенам твоим.</plain>
+        </string>
+        <string>
+            <plain>Тебе во славу песнь слагаю, Иерусалим.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Колодцы высохли, и площадь безлюдна и тиха.</plain>
+        </string>
+        <string>
+            <plain>Никто не ходит в старый город, всему виной стена.</plain>
+        </string>
+        <string>
+            <plain>В пещерах дико ветры воют, страдая о судьбе,</plain>
+        </string>
+        <string>
+            <plain>Пуста дорога к Иерихону и к хромовой горе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пою тебе, великий город, плету венки, любя.</plain>
+        </string>
+        <string>
+            <plain>Я наименьший из поэтов, ты в сердце у меня!</plain>
+        </string>
+        <string>
+            <plain>Твое названье - песнь святая, я наслаждаюсь им;</plain>
+        </string>
+        <string>
+            <plain>И губы шепчут, повторяя: мой Иерусалим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты видишь, город, мы вернулись на площади твои.</plain>
+        </string>
+        <string>
+            <plain>Базары жизнью забурлили, колодцы вновь полны.</plain>
+        </string>
+        <string>
+            <plain>Звук трубный звонко раздаётся над старым городом,</plain>
+        </string>
+        <string>
+            <plain>Пещеры осветились солнцем - небесным золотом.</plain>
+        </string>
+    </verse>
+</song>

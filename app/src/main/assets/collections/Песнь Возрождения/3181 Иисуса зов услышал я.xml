@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3181" name="Иисуса зов услышал я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса зов услышал я:</plain>
+        </string>
+        <string>
+            <plain>«Приди ко Мне, душа!</plain>
+        </string>
+        <string>
+            <plain>Склони усталую главу,</plain>
+        </string>
+        <string>
+            <plain>покой дарую Я!»</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>К Нему пришёл такой,</plain>
+        </string>
+        <string>
+            <plain>как был: страдающий душой -</plain>
+        </string>
+        <string>
+            <plain>Он даровал чрез благодать</plain>
+        </string>
+        <string>
+            <plain>мир, радость и покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисуса зов я услыхал:</plain>
+        </string>
+        <string>
+            <plain>«О жаждущий, приди</plain>
+        </string>
+        <string>
+            <plain>и даром воду жизни пей!</plain>
+        </string>
+        <string>
+            <plain>Жизнь вечную прими!»</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Звезду в Нём утреннюю</plain>
+        </string>
+        <string>
+            <plain>я нашёл в земном пути.</plain>
+        </string>
+        <string>
+            <plain>И светом жизни озарён,</plain>
+        </string>
+        <string>
+            <plain>стремлюсь за ним идти.</plain>
+        </string>
+    </verse>
+</song>

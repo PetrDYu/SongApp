@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1487" name="Как листва у черешни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как листва у черешни,</plain>
+        </string>
+        <string>
+            <plain>А у сумрачной ели - хвоя.</plain>
+        </string>
+        <string>
+            <plain>Есть у каждого песни.</plain>
+        </string>
+        <string>
+            <plain>Но у сердца есть песня своя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Солнце знает свой путь.</plain>
+        </string>
+        <string>
+            <plain>Птицы помнят гнездовий места,</plain>
+        </string>
+        <string>
+            <plain>Мы здесь тоже не вечны...</plain>
+        </string>
+        <string>
+            <plain>Потому не забудь</plain>
+        </string>
+        <string>
+            <plain>Петь об Имени чудном Христа,</plain>
+        </string>
+        <string>
+            <plain>Сердцу трудно без песни.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если сердце без песни,</plain>
+        </string>
+        <string>
+            <plain>В нем поселится злая нужда.</plain>
+        </string>
+        <string>
+            <plain>Для просторов небесных</plain>
+        </string>
+        <string>
+            <plain>Сердцу песня, как крылья, нужна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пой так просто, как птица.</plain>
+        </string>
+        <string>
+            <plain>Сердце с песней не будет стареть.</plain>
+        </string>
+        <string>
+            <plain>Нужно петь, как молиться,</plain>
+        </string>
+        <string>
+            <plain>А молиться душой - словно петь.</plain>
+        </string>
+    </verse>
+</song>

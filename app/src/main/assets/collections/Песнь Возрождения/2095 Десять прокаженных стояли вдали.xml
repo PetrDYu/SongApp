@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2095" name="Десять прокаженных стояли вдали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Десять прокаженных стояли вдали,</plain>
+        </string>
+        <string>
+            <plain>"Помилуй, Наставник!" - взывали они.</plain>
+        </string>
+        <string>
+            <plain>Все они взывали в единой мольбе.</plain>
+        </string>
+        <string>
+            <plain>Один благодарный, а девять хсе где?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Девять же где?</plain>
+        </string>
+        <string>
+            <plain>Девять же где?</plain>
+        </string>
+        <string>
+            <plain>Один благодарный, а девять же где?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус ответил в упорной их мольбе:</plain>
+        </string>
+        <string>
+            <plain>"Идите, покажитесь священникам все,</plain>
+        </string>
+        <string>
+            <plain>Все им расскажите о вашей нужде!"</plain>
+        </string>
+        <string>
+            <plain>Один благодарный, а девять же где?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Словам Иисуса поверили они,</plain>
+        </string>
+        <string>
+            <plain>С радостной надеждой от Господа ушли.</plain>
+        </string>
+        <string>
+            <plain>В чудном пути исцелились они,</plain>
+        </string>
+        <string>
+            <plain>Один благодарный, а девять же где?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Один из них, видя, что он исцелен,</plain>
+        </string>
+        <string>
+            <plain>Вернулся прославить Того, Кем спасен.</plain>
+        </string>
+        <string>
+            <plain>Он славил Иисуса, он славил везде.</plain>
+        </string>
+        <string>
+            <plain>Один благодарный, а девять же где?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="347" name="Тебя я жду, гряди, мой Боже Аллилуйя" canon="false" text="Бэрри Корнрайх" textRus="" music="Бэрри Корнрайх" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Тебя я жду, гряди, мой Боже. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Тебе пою осанну, Боже. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Маранафа! Маранафа! Маранафа!</plain>
+        </string>
+        <string>
+            <plain>Гряди, Адонай! Аллилуйя!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Израиль ждет Тебя, Спаситель. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Ты – Пасха наша, Избавитель. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Израиль, пой Христу осанну. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Он твой Мессия долгожданный. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>БАРУ́Х А-БА́ БЭ-ШЕ́М АДО́НАЙ АЛЕ́ЛУЯ́</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>БАРУ́Х А-БА́ БАРУ́Х А-БА́ БАРУ́Х А-БА́</plain>
+        </string>
+        <string>
+            <plain>БЭШЕ́М А́ДОНА́Й А́ЛЭЛУЯ́</plain>
+        </string>
+    </verse>
+</song>

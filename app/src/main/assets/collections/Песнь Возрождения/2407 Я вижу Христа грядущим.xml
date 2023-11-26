@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2407" name="Я вижу Христа грядущим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я вижу Христа грядущим</plain>
+        </string>
+        <string>
+            <plain>В видении будущих дней,</plain>
+        </string>
+        <string>
+            <plain>На облаке светлом идущим</plain>
+        </string>
+        <string>
+            <plain>С простертой рукою ко мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, облако, место той встречи</plain>
+        </string>
+        <string>
+            <plain>С моим Иисусом Христом,</plain>
+        </string>
+        <string>
+            <plain>Который любовию вечной</plain>
+        </string>
+        <string>
+            <plain>Назвался моим Женихом,</plain>
+        </string>
+        <string>
+            <plain>Сокрой ты в блистающем свете,</plain>
+        </string>
+        <string>
+            <plain>Сверкая от славы Христа,</plain>
+        </string>
+        <string>
+            <plain>Меня с моим Другом-Главою</plain>
+        </string>
+        <string>
+            <plain>В небесных чертогах Царя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я вижу там братьев любимых</plain>
+        </string>
+        <string>
+            <plain>И милые лица сестёр,</plain>
+        </string>
+        <string>
+            <plain>На тех белоснежных равнинах,</plain>
+        </string>
+        <string>
+            <plain>Что Бог над землёю простер.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я вижу себя вознесённым</plain>
+        </string>
+        <string>
+            <plain>На облаке Божьей рукой,</plain>
+        </string>
+        <string>
+            <plain>В обьятиях Христа заключенным,</plain>
+        </string>
+        <string>
+            <plain>Чтоб жить с Ним во веки веков.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="271" name="Слышите ль, как все колокола звонят" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Слышите ль, как все колокола звонят?</plain>
+        </string>
+        <string>
+            <plain>Весть чудесную сердца пусть повторят,</plain>
+        </string>
+        <string>
+            <plain>Как на землю ради нас Иисус пришел,</plain>
+        </string>
+        <string>
+            <plain>Вечное для всех блаженство приобрел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Звони, звони, колокол сердечный!</plain>
+        </string>
+        <string>
+            <plain>Звучи, звучи, песнь хвалы чудесной!</plain>
+        </string>
+        <string>
+            <plain>Мир и радость всем сердцам! Слава, слава небесам!</plain>
+        </string>
+        <string>
+            <plain>Слышите ль, как все колокола звонят?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Да, с восторгом слышим мы их сладкий звук!</plain>
+        </string>
+        <string>
+            <plain>И пред взорами Иисус, наш лучший Друг!</plain>
+        </string>
+        <string>
+            <plain>В духе видим, как Он в бедных яслях спит;</plain>
+        </string>
+        <string>
+            <plain>С песнями хор ангелов с небес летит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И мы вспоминаем песни ночи той;</plain>
+        </string>
+        <string>
+            <plain>Свет, любовь, мир с неба принесла с собой.</plain>
+        </string>
+        <string>
+            <plain>С ангелами Бога славить все спешат,</plain>
+        </string>
+        <string>
+            <plain>Радостью великой их сердца горят.</plain>
+        </string>
+    </verse>
+</song>

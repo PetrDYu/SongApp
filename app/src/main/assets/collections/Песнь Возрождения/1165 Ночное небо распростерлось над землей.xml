@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1165" name="Ночное небо распростерлось над землей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ночное небо распростерлось над землей,</plain>
+        </string>
+        <string>
+            <plain>И шумный день сменился тишиной,</plain>
+        </string>
+        <string>
+            <plain>А в небе звездочки, как огоньки, горят,</plain>
+        </string>
+        <string>
+            <plain>Своей красой мой взор к себе манят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мой Господь! Ты дивен и велик,</plain>
+        </string>
+        <string>
+            <plain>Тебя прославить не способен мой язык.</plain>
+        </string>
+        <string>
+            <plain>Когда взираю на дела Твоих перстов</plain>
+        </string>
+        <string>
+            <plain>И на Твою безмерную любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как хотелось бы взлететь туда душой,</plain>
+        </string>
+        <string>
+            <plain>Где приготовлен плачущим покой,</plain>
+        </string>
+        <string>
+            <plain>И видеть то, что глаз мой не видал,</plain>
+        </string>
+        <string>
+            <plain>Услышать то, что ухом не слыхал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но в день Архангела и Божией трубы</plain>
+        </string>
+        <string>
+            <plain>Туда слетятся, словно быстрые орлы,</plain>
+        </string>
+        <string>
+            <plain>Все дети Божий, кто окрылен мечтой.</plain>
+        </string>
+        <string>
+            <plain>Кто свято чтил Божественный закон.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, не оставь меня. Спаситель дивный мой,</plain>
+        </string>
+        <string>
+            <plain>Веди меня всесильною рукой,</plain>
+        </string>
+        <string>
+            <plain>С Тобою жить хочу, с Тобою умереть,</plain>
+        </string>
+        <string>
+            <plain>И в небесах хвалу Тебе воспеть.</plain>
+        </string>
+    </verse>
+</song>

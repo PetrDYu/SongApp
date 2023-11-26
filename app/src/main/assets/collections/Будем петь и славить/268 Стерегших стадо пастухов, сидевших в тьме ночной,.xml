@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="268" name="Стерегших стадо пастухов, сидевших в тьме ночной," canon="false" text="" textRus="Д. Ясько" music="Г.Ф. Генделя" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Стерегших стадо пастухов, сидевших в тьме ночной,</plain>
+        </string>
+        <string>
+            <plain>Господень ангел озарил</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>вдруг славой неземной.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>«Не бойтесь! – ангел ободрял дрожавших перед ним. –</plain>
+        </string>
+        <string>
+            <plain>Я возвещаю радость вам,</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>что будет людям всем».</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Давидов город славным стал: Спаситель там рожден,</plain>
+        </string>
+        <string>
+            <plain>Явился в мир Христос Господь,</plain>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Владыка всех племен.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И вот вам знак: найдете вы не царской славы вид,</plain>
+        </string>
+        <string>
+            <plain>Повит Младенец в пелены,</plain>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>и в яслях Он лежит.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Слетели ангелы с небес и в тишине ночной</plain>
+        </string>
+        <string>
+            <plain>Пропели радостную весть</plain>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>над скорбною землей.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Аллилуйя, аллилуйя, аллилу, аллилу, аллилуйя</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя, аллилу, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О, слава в вышних Богу сил! Мир людям на земле!</plain>
+        </string>
+        <string>
+            <plain>Благоволенье Бог явил</plain>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>к томящимся во мгле.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

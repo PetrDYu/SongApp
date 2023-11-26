@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="481" name="Я маленький скиталец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я маленький скиталец,</plain>
+        </string>
+        <string>
+            <plain>Пришлец в земной стране,</plain>
+        </string>
+        <string>
+            <plain>Хоть мир земной прекрасен,</plain>
+        </string>
+        <string>
+            <plain>Но близок грех ко мне.</plain>
+        </string>
+        <string>
+            <plain>Моя Отчизна лучше:</plain>
+        </string>
+        <string>
+            <plain>В ней вовсе нет грехов</plain>
+        </string>
+        <string>
+            <plain>И в ней не слышно стона</plain>
+        </string>
+        <string>
+            <plain>Печальных голосов.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но чтоб достичь блаженства</plain>
+        </string>
+        <string>
+            <plain>И жить вблизи Христа,</plain>
+        </string>
+        <string>
+            <plain>Одеждой нашей в мире</plain>
+        </string>
+        <string>
+            <plain>Должна быть чистота.</plain>
+        </string>
+        <string>
+            <plain>Христос, очисти сердце,</plain>
+        </string>
+        <string>
+            <plain>Мне послушанье дай,</plain>
+        </string>
+        <string>
+            <plain>Земной мой путь ко благу,</plain>
+        </string>
+        <string>
+            <plain>К спасенью направляй!</plain>
+        </string>
+    </verse>
+</song>

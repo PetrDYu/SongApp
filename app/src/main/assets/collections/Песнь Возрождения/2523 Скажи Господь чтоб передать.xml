@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2523" name="Скажи Господь чтоб передать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скажи, Господь, чтоб передать</plain>
+        </string>
+        <string>
+            <plain>Твои я речи мог другим;</plain>
+        </string>
+        <string>
+            <plain>Как Ты искал, дай мне искать</plain>
+        </string>
+        <string>
+            <plain>Заблудших по путям земным.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Веди меня, чтоб я водил</plain>
+        </string>
+        <string>
+            <plain>Нетвердых любящей рукой,</plain>
+        </string>
+        <string>
+            <plain>Корми меня, чтоб я кормил</plain>
+        </string>
+        <string>
+            <plain>Голодных манною святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, укрепи меня, чтоб стал</plain>
+        </string>
+        <string>
+            <plain>Я крепко на скалу веков</plain>
+        </string>
+        <string>
+            <plain>И помощь гибнущим давал,</plain>
+        </string>
+        <string>
+            <plain>Их звал укрыться под Твой кров.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Учи, Господь, чтоб мне постичь</plain>
+        </string>
+        <string>
+            <plain>Твоих заветов широту;</plain>
+        </string>
+        <string>
+            <plain>Словам дай крылья, чтоб достичь</plain>
+        </string>
+        <string>
+            <plain>Сердец замкнутых глубину.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, дай мне чудный Твой покой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я покоить мог других,</plain>
+        </string>
+        <string>
+            <plain>Чтоб душам, скованным тоской,</plain>
+        </string>
+        <string>
+            <plain>Я вестником был слов Твоих.</plain>
+        </string>
+    </verse>
+</song>

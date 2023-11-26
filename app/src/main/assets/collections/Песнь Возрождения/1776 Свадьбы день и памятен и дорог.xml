@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1776" name="Свадьбы день и памятен и дорог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свадьбы день и памятен, и дорог,</plain>
+        </string>
+        <string>
+            <plain>Он - как миг промчавшейся весны.</plain>
+        </string>
+        <string>
+            <plain>И хотя уйдет тропинка в горы</plain>
+        </string>
+        <string>
+            <plain>- Любящим преграды не страшны.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Свадьбы день и памятен, и дорог.</plain>
+        </string>
+        <string>
+            <plain>Он - как миг промчавшейся весны.</plain>
+        </string>
+        <string>
+            <plain>И хотя уйдет тропинка в горы</plain>
+        </string>
+        <string>
+            <plain>- Любящим преграды не страшны.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Счастлива чета, когда Сын Божий</plain>
+        </string>
+        <string>
+            <plain>Стал соединившим их звеном.</plain>
+        </string>
+        <string>
+            <plain>Большего богатства быть не может</plain>
+        </string>
+        <string>
+            <plain>Пилигримам в странствии земном.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Без Христа не прочны узы брака,</plain>
+        </string>
+        <string>
+            <plain>В мире часто рвется дружбы нить,</plain>
+        </string>
+        <string>
+            <plain>Гаснут радость и любовь во мраке,</plain>
+        </string>
+        <string>
+            <plain>И нельзя былого возвратить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Даже в скорби счастье не прервется</plain>
+        </string>
+        <string>
+            <plain>Если брак Господь благословит.</plain>
+        </string>
+        <string>
+            <plain>Пусть всегда горит над вами солнце</plain>
+        </string>
+        <string>
+            <plain>Безграничной Божией любви.</plain>
+        </string>
+    </verse>
+</song>

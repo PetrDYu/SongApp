@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1143" name="К Тебе Господь мое моленье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К Тебе, Господь, мое моленье:</plain>
+        </string>
+        <string>
+            <plain>"Бессилен я, дай силы мне",</plain>
+        </string>
+        <string>
+            <plain>- К тому всю жизнь мое стремленье,</plain>
+        </string>
+        <string>
+            <plain>Чтоб свято жить здесь на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я здесь не свой - страна чужая,</plain>
+        </string>
+        <string>
+            <plain>И для души все чуждо в ней,</plain>
+        </string>
+        <string>
+            <plain>Я рвусь душой в просторы рая,</plain>
+        </string>
+        <string>
+            <plain>Где ярче, лучше и светлей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я рвусь туда, где руки брата</plain>
+        </string>
+        <string>
+            <plain>Не обагрит людская кровь,</plain>
+        </string>
+        <string>
+            <plain>Где жизнь чиста, где мило, свято,</plain>
+        </string>
+        <string>
+            <plain>Где вместо воздуха - любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И не восстанет ложь людская</plain>
+        </string>
+        <string>
+            <plain>в борьбе смертельной на дух мой.</plain>
+        </string>
+        <string>
+            <plain>Хочу я, на Христа взирая,</plain>
+        </string>
+        <string>
+            <plain>Идти туда, идти домой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мечта моя, страна святая,</plain>
+        </string>
+        <string>
+            <plain>- Привольно так душе с Христом,</plain>
+        </string>
+        <string>
+            <plain>Где не постигнет ложь людская,</plain>
+        </string>
+        <string>
+            <plain>Где брат не станет злым врагом.</plain>
+        </string>
+    </verse>
+</song>

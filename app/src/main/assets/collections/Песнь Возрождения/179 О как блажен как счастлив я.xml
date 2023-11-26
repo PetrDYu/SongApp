@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="179" name="О как блажен как счастлив я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О как блажен, как счастлив я!</plain>
+        </string>
+        <string>
+            <plain>Господь - Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>Готово место для меня</plain>
+        </string>
+        <string>
+            <plain>В стране небес святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славлю Агнца! За меня</plain>
+        </string>
+        <string>
+            <plain>Страдал на Голгофе Он,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя, аминь.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя, аминь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С мирским богатством не сравним</plain>
+        </string>
+        <string>
+            <plain>Тот город золотой</plain>
+        </string>
+        <string>
+            <plain>В нем вечно буду жить я с Ним,</plain>
+        </string>
+        <string>
+            <plain>Я жалкий прах земной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет ночи в той стране святой,</plain>
+        </string>
+        <string>
+            <plain>Не меркнет солнца свет,</plain>
+        </string>
+        <string>
+            <plain>Там все сердца звучат хвалой,</plain>
+        </string>
+        <string>
+            <plain>Там плача больше нет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О братья, сестры, радость нам</plain>
+        </string>
+        <string>
+            <plain>Дана и в мире сем;</plain>
+        </string>
+        <string>
+            <plain>Здесь видим свет, что светит там,</plain>
+        </string>
+        <string>
+            <plain>Куда мы все придем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1991" name="Господь есть мой свет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь есть мой свет,</plain>
+        </string>
+        <string>
+            <plain>Он мой свет. Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Я не страшусь.</plain>
+        </string>
+        <string>
+            <plain>Господь мой есть крепость для жизни моей,</plain>
+        </string>
+        <string>
+            <plain>Кого убоюся я?</plain>
+        </string>
+        <string>
+            <plain>Войско ли нечестивых близко</plain>
+        </string>
+        <string>
+            <plain>И я не страшусь,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Грозит ли враг войною.</plain>
+        </string>
+        <string>
+            <plain>На Бога лишь надеюсь я.</plain>
+        </string>
+        <string>
+            <plain>Я одного лишь жду от Творца,</plain>
+        </string>
+        <string>
+            <plain>Одного я жду:</plain>
+        </string>
+        <string>
+            <plain>Чтоб в доме Божьем я мог пребывать</plain>
+        </string>
+        <string>
+            <plain>Навсегда, Аминь.</plain>
+        </string>
+    </verse>
+</song>

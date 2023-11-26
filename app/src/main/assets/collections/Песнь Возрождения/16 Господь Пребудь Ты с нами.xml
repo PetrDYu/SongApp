@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="16" name="Господь Пребудь Ты с нами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! Пребудь Ты с нами</plain>
+        </string>
+        <string>
+            <plain>И нас веди всегда</plain>
+        </string>
+        <string>
+            <plain>Премудрыми путями</plain>
+        </string>
+        <string>
+            <plain>К источнику добра.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Яви Ты миру чудо:</plain>
+        </string>
+        <string>
+            <plain>Единство Ты создай</plain>
+        </string>
+        <string>
+            <plain>В Твоих детях повсюду</plain>
+        </string>
+        <string>
+            <plain>И мир Твой вечный дай!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай в мыслях единенье,</plain>
+        </string>
+        <string>
+            <plain>В сердцах возгрей любовь;</plain>
+        </string>
+        <string>
+            <plain>Дух кротости, смиренья</plain>
+        </string>
+        <string>
+            <plain>В нас оживи Ты вновь!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Излей на всех Ты снова</plain>
+        </string>
+        <string>
+            <plain>Обильно благодать,</plain>
+        </string>
+        <string>
+            <plain>Наставь нас жизнью, словом</plain>
+        </string>
+        <string>
+            <plain>Тебя лишь прославлять.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="430" name="Мой Искупитель избитый весь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Искупитель, избитый весь,</plain>
+        </string>
+        <string>
+            <plain>Шел на Гол-гофу, нес тяжкий крест</plain>
+        </string>
+        <string>
+            <plain>Принять мученья и гнет скорбей,</plain>
+        </string>
+        <string>
+            <plain>Чтоб дать спасенье для всех людей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой Искупитель</plain>
+        </string>
+        <string>
+            <plain>Мой Искупитель</plain>
+        </string>
+        <string>
+            <plain>На древе смерти пострадал за нас,</plain>
+        </string>
+        <string>
+            <plain>Облитый кровью за нас виновных</plain>
+        </string>
+        <string>
+            <plain>Просил с любовью в последний час.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Прости им Отче!" - неслась мольба,</plain>
+        </string>
+        <string>
+            <plain>А кровь ручьями из ран текла.</plain>
+        </string>
+        <string>
+            <plain>Хотел от гнева всех защитить,</plain>
+        </string>
+        <string>
+            <plain>Только Сын Божий мог так любить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О,как я должен любить Христа!</plain>
+        </string>
+        <string>
+            <plain>За нас виновных Он жертвой стал.</plain>
+        </string>
+        <string>
+            <plain>И здесь, и в небе Его любовь</plain>
+        </string>
+        <string>
+            <plain>Хочу я славить во век веков.</plain>
+        </string>
+    </verse>
+</song>

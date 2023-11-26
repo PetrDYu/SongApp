@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1212" name="Будем мы братья молиться" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будем мы, братья, молиться,</plain>
+        </string>
+        <string>
+            <plain>Будем мы к Богу взывать.</plain>
+        </string>
+        <string>
+            <plain>Может ведь все измениться.</plain>
+        </string>
+        <string>
+            <plain>Бог нам пошлет благодать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вспомним мы первые слезы</plain>
+        </string>
+        <string>
+            <plain>Первой любви полноту.</plain>
+        </string>
+        <string>
+            <plain>Вспомним счастливые годы,</plain>
+        </string>
+        <string>
+            <plain>Будем молиться Христу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но мы бываем холодны</plain>
+        </string>
+        <string>
+            <plain>Сердцем застывшим, как лед,</plain>
+        </string>
+        <string>
+            <plain>К делу Христа непригодны,</plain>
+        </string>
+        <string>
+            <plain>Нас не тревожит Сион.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нет у нас слов для молитвы.</plain>
+        </string>
+        <string>
+            <plain>Нет у нас сил для борьбы,</plain>
+        </string>
+        <string>
+            <plain>Нет у нас смелости в битве,</plain>
+        </string>
+        <string>
+            <plain>Мы ко всему холодны.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Тяжкие дни нашей жизни.</plain>
+        </string>
+        <string>
+            <plain>Мир весь, как море, шумит.</plain>
+        </string>
+        <string>
+            <plain>Свет же небесной Отчизны</plain>
+        </string>
+        <string>
+            <plain>Сердцу отраду дарит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="692" name="Да будет Отцу Всеблагому хвала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Да будет Отцу Всеблагому хвала!</plain>
+        </string>
+        <string>
+            <plain>Господня любовь нас от смерти спасла.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, честь и слава!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя вовек;</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, честь и слава!</plain>
+        </string>
+        <string>
+            <plain>Бог с нами! Аминь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спаситель! Да будет Тебе честь вовек;</plain>
+        </string>
+        <string>
+            <plain>Лишь в Тебе избавленье нашел человек.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог сил! Будь прославлен Ты в Духе Святом;</plain>
+        </string>
+        <string>
+            <plain>Он ведет к небесам нас премудрым путем.</plain>
+        </string>
+    </verse>
+</song>

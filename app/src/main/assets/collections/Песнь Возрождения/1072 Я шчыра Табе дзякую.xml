@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1072" name="Я шчыра Табе дзякую" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я шчыра Табе дзякую,</plain>
+        </string>
+        <string>
+            <plain>Хрыстос, Збавцель мой.</plain>
+        </string>
+        <string>
+            <plain>За Духа, што адзнакаю</plain>
+        </string>
+        <string>
+            <plain>Ты дау душы маёй.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я дзякую Табе, Што вызваліу мяне,</plain>
+        </string>
+        <string>
+            <plain>Жьщцё дау без канца, Прагнаушы духа зла.</plain>
+        </string>
+        <string>
+            <plain>Мяне Духам хрысціу і у сэрцы пасяліу,</plain>
+        </string>
+        <string>
+            <plain>Каб Ён маім жьщцём Заусёды кіравау.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я шчыра Табе дзякую</plain>
+        </string>
+        <string>
+            <plain>За Крыж Галгофскі Твой.</plain>
+        </string>
+        <string>
+            <plain>За нас Ты прыбіты быу,</plain>
+        </string>
+        <string>
+            <plain>Нас выкуту сабой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я шчыра Табе дзякую,</plain>
+        </string>
+        <string>
+            <plain>Надзея Ты мая!</plain>
+        </string>
+        <string>
+            <plain>Табе усе жьщцё мае,</plain>
+        </string>
+        <string>
+            <plain>Пашана і хвала.</plain>
+        </string>
+    </verse>
+</song>

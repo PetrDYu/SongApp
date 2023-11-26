@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1181" name="Слышишь ли грешник призыв Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слышишь ли, грешник, призыв Христа?</plain>
+        </string>
+        <string>
+            <plain>Кротко и нежно зовет Он: "Приди!"</plain>
+        </string>
+        <string>
+            <plain>Он - твой Спаситель, В Нем навсегда</plain>
+        </string>
+        <string>
+            <plain>Счастье душе своей сможешь найти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди к Иисусу, приди к Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Друг, не отвергни Его любовь.</plain>
+        </string>
+        <string>
+            <plain>Знай, что не вечно, не бесконечно</plain>
+        </string>
+        <string>
+            <plain>Слышать ты будешь спасения зов.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаешь ли, грешник, что за тебя</plain>
+        </string>
+        <string>
+            <plain>Умер, страдая, Спаситель Христос?</plain>
+        </string>
+        <string>
+            <plain>И, умирая, ночью, в слезах,</plain>
+        </string>
+        <string>
+            <plain>К Богу в молитве мир Он принес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Видишь ли, грешник, вечно любя.</plain>
+        </string>
+        <string>
+            <plain>Умер, страдая, великий Христос.</plain>
+        </string>
+        <string>
+            <plain>Смертью на небо путь проложил</plain>
+        </string>
+        <string>
+            <plain>- Что же ты медлишь, друг мой, что ждешь?</plain>
+        </string>
+    </verse>
+</song>

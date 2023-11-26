@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1401" name="Бог Спаситель мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог, Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>Будь всегда со мной!</plain>
+        </string>
+        <string>
+            <plain>И всю жизнь дай за</plain>
+        </string>
+        <string>
+            <plain>Тобою С радостной идти душою;</plain>
+        </string>
+        <string>
+            <plain>Дай войти с Тобой</plain>
+        </string>
+        <string>
+            <plain>В мирный край родной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Встречу ль скорби дни -</plain>
+        </string>
+        <string>
+            <plain>Твёрдость мне вдохни;</plain>
+        </string>
+        <string>
+            <plain>Дай в болезни, в огорченьи</plain>
+        </string>
+        <string>
+            <plain>Не роптать на Провиденье;</plain>
+        </string>
+        <string>
+            <plain>Здесь средь слез и бед</plain>
+        </string>
+        <string>
+            <plain>Путь к Тебе идёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Стражду ли душой</plain>
+        </string>
+        <string>
+            <plain>О нужде своей</plain>
+        </string>
+        <string>
+            <plain>Иль о ближнего мученьи,</plain>
+        </string>
+        <string>
+            <plain>Дай мне твёрдое терпенье.</plain>
+        </string>
+        <string>
+            <plain>Пусть всегда мой глаз</plain>
+        </string>
+        <string>
+            <plain>Видит смертный час.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сам Господь, устрой</plain>
+        </string>
+        <string>
+            <plain>Жребий мой земной;</plain>
+        </string>
+        <string>
+            <plain>Тяжко бремя здешней жизни,</plain>
+        </string>
+        <string>
+            <plain>Но отраден вид отчизны;</plain>
+        </string>
+        <string>
+            <plain>Так мне дверь открой</plain>
+        </string>
+        <string>
+            <plain>В вечный Твой покой.</plain>
+        </string>
+    </verse>
+</song>

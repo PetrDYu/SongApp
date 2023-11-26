@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2271" name="Отец смотрит с неба Он ищет того" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отец смотрит с неба, Он ищет того,</plain>
+        </string>
+        <string>
+            <plain>Кто станет в молитве пред Богом стеной,</plain>
+        </string>
+        <string>
+            <plain>Кто станет в проломе За страну и народ свой,</plain>
+        </string>
+        <string>
+            <plain>Того, кто молиться начнёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы станем в проломе за нашу страну (2 р.).</plain>
+        </string>
+        <string>
+            <plain>Господь, пред Тобой в смирении</plain>
+        </string>
+        <string>
+            <plain>Мы просим за нужды земли (2 р.).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И в нашей стране силы тьмы никогда</plain>
+        </string>
+        <string>
+            <plain>Не выдержат бой и не победят</plain>
+        </string>
+        <string>
+            <plain>Ходатайством тех, кто пред Богом в ответе,</plain>
+        </string>
+        <string>
+            <plain>Кто молится за Беларусь.</plain>
+        </string>
+    </verse>
+</song>

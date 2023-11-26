@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1129" name="Да на холме Голгофы Он" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Да, на холме Голгофы Он,</plain>
+        </string>
+        <string>
+            <plain>Господь, на крест был вознесен.</plain>
+        </string>
+        <string>
+            <plain>Там кровь Он лил средь мук в огне,</plain>
+        </string>
+        <string>
+            <plain>И там купил спасенье мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Голгофский крест!</plain>
+        </string>
+        <string>
+            <plain>Голгофский крест!</plain>
+        </string>
+        <string>
+            <plain>Где кровь Иисус лил за меня, за меня!</plain>
+        </string>
+        <string>
+            <plain>Голгофский крест!</plain>
+        </string>
+        <string>
+            <plain>Голгофский крест!</plain>
+        </string>
+        <string>
+            <plain>На Нем Он умер за меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Средь грома туч и взрывов скал.</plain>
+        </string>
+        <string>
+            <plain>Склонив главу, Он умирал.</plain>
+        </string>
+        <string>
+            <plain>Порвалась ткань - и нет преград</plain>
+        </string>
+        <string>
+            <plain>В бессмертный день и мир отрад.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, ужель правдив рассказ,</plain>
+        </string>
+        <string>
+            <plain>Что за меня Ты жизнь отдал,</plain>
+        </string>
+        <string>
+            <plain>Понес Свой крест и так страдал</plain>
+        </string>
+        <string>
+            <plain>В тот смертный час, Голгофский час?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1142" name="Имени Господню хвала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Имени Господню хвала!</plain>
+        </string>
+        <string>
+            <plain>Воздадим Ему славу и честь.</plain>
+        </string>
+        <string>
+            <plain>Как святые, руки к небу вознеся.</plain>
+        </string>
+        <string>
+            <plain>Скажем: "Имени Его, Имени Господню хвала!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Святой наш, Ты достоин.</plain>
+        </string>
+        <string>
+            <plain>Царь царей и властелин,</plain>
+        </string>
+        <string>
+            <plain>Ты достоин, Святой наш.</plain>
+        </string>
+        <string>
+            <plain>Ты достоин.</plain>
+        </string>
+        <string>
+            <plain>Царь царей и Бог богов,</plain>
+        </string>
+        <string>
+            <plain>Славим Тебя.</plain>
+        </string>
+    </verse>
+</song>

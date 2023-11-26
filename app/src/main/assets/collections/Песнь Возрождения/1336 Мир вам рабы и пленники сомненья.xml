@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1336" name="Мир вам рабы и пленники сомненья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мир вам, рабы и пленники сомненья.</plain>
+        </string>
+        <string>
+            <plain>Усталые от сбивчивых путей!</plain>
+        </string>
+        <string>
+            <plain>Вы шли вперед на пышные виденья,</plain>
+        </string>
+        <string>
+            <plain>И вот пришли вы к кладбищу костей!</plain>
+        </string>
+        <string>
+            <plain>Вы изменили путь, но, к изумленью.</plain>
+        </string>
+        <string>
+            <plain>Приведены вы к бездне роковой;</plain>
+        </string>
+        <string>
+            <plain>И вы не видите пути к спасенью</plain>
+        </string>
+        <string>
+            <plain>И стонете болезненной душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мир вам, кто плачут в горьком сокрушеньи</plain>
+        </string>
+        <string>
+            <plain>О тягостном грехе протекших дней!</plain>
+        </string>
+        <string>
+            <plain>Скорбите вы, что жизни прегрешенье</plain>
+        </string>
+        <string>
+            <plain>Не в силах правдой искупить своей,</plain>
+        </string>
+        <string>
+            <plain>Что грех ваш слишком тяжек, а Властитель</plain>
+        </string>
+        <string>
+            <plain>И слишком справедлив, и слишком свят.</plain>
+        </string>
+        <string>
+            <plain>Друзья, познайте же, нам дан Спаситель.</plain>
+        </string>
+        <string>
+            <plain>А Он сильней, чем грех, иль смерть, иль ад.</plain>
+        </string>
+    </verse>
+</song>

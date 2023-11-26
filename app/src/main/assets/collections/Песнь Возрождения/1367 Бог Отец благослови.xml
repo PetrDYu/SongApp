@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1367" name="Бог Отец благослови" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог Отец! благослови</plain>
+        </string>
+        <string>
+            <plain>На столе Твой дар благой:</plain>
+        </string>
+        <string>
+            <plain>Он нам в пищу из любви</plain>
+        </string>
+        <string>
+            <plain>Подан милостью святой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Удостой его вкусить</plain>
+        </string>
+        <string>
+            <plain>В подкрепленье наших сил</plain>
+        </string>
+        <string>
+            <plain>И Тебя благодарить,</plain>
+        </string>
+        <string>
+            <plain>Как Твой Дух нас научил.</plain>
+        </string>
+    </verse>
+</song>

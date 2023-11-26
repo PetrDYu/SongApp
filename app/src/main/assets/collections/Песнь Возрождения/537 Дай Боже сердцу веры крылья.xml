@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="537" name="Дай Боже сердцу веры крылья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дай, Боже, сердцу веры крылья,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вознестись туда,</plain>
+        </string>
+        <string>
+            <plain>Где нет неправды, нет насилья,</plain>
+        </string>
+        <string>
+            <plain>Где мир царит всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Много святых ожидает нас там</plain>
+        </string>
+        <string>
+            <plain>В мире блаженства чудес;</plain>
+        </string>
+        <string>
+            <plain>Сердце стремится в торжественный храм</plain>
+        </string>
+        <string>
+            <plain>Вечного Бога небес.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Здесь на земле они страдали,</plain>
+        </string>
+        <string>
+            <plain>Как ныне терпим мы,</plain>
+        </string>
+        <string>
+            <plain>И на пути ослабевали</plain>
+        </string>
+        <string>
+            <plain>Среди житейской тьмы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но чем они, какою силой</plain>
+        </string>
+        <string>
+            <plain>Низвергли цепи зла?</plain>
+        </string>
+        <string>
+            <plain>Рука Христа их дух крепила,</plain>
+        </string>
+        <string>
+            <plain>К победе их вела.</plain>
+        </string>
+    </verse>
+</song>

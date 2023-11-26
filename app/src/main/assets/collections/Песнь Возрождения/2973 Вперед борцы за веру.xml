@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2973" name="Вперед борцы за веру" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вперед, борцы за веру,</plain>
+        </string>
+        <string>
+            <plain>преследуйте врага,</plain>
+        </string>
+        <string>
+            <plain>чтоб одержать победу</plain>
+        </string>
+        <string>
+            <plain>с Иисусом навсегда!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вперед! Вперед! Вперед!</plain>
+        </string>
+        <string>
+            <plain>Господь зовет:</plain>
+        </string>
+        <string>
+            <plain>Вперед! Вперед! Вперед!</plain>
+        </string>
+        <string>
+            <plain>Вперед! Вперед! Вперед!</plain>
+        </string>
+        <string>
+            <plain>Он правильно ведет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вперед! Пусть даже слабость</plain>
+        </string>
+        <string>
+            <plain>не устрашит тебя,</plain>
+        </string>
+        <string>
+            <plain>иди чрез тьму ночную</plain>
+        </string>
+        <string>
+            <plain>ты по следам Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вперед! Хоть волны Грозно</plain>
+        </string>
+        <string>
+            <plain>встают перед тобой,</plain>
+        </string>
+        <string>
+            <plain>корабль твой уцелеет:</plain>
+        </string>
+        <string>
+            <plain>Господь всегда с тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вперед! Пусть вражьи стрелы</plain>
+        </string>
+        <string>
+            <plain>летят вокруг тебя,</plain>
+        </string>
+        <string>
+            <plain>ты будешь невредимым,</plain>
+        </string>
+        <string>
+            <plain>ведь ты в руках Христа.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вперед! Брось все сомненья,</plain>
+        </string>
+        <string>
+            <plain>на Бога уповай,</plain>
+        </string>
+        <string>
+            <plain>на чувства не надейся,</plain>
+        </string>
+        <string>
+            <plain>а Слову доверяй.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Вперед к небесной цели!</plain>
+        </string>
+        <string>
+            <plain>Забудь, что позади</plain>
+        </string>
+        <string>
+            <plain>и одержи победу:</plain>
+        </string>
+        <string>
+            <plain>венец ждет впереди.</plain>
+        </string>
+    </verse>
+</song>

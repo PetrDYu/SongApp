@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3261" name="Какое утешунье нахожу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Какое утешунье нахожу,</plain>
+        </string>
+        <string>
+            <plain>когда смиренно в твердой вере я</plain>
+        </string>
+        <string>
+            <plain>Тому свои заботы приношу,</plain>
+        </string>
+        <string>
+            <plain>кто умер на Голгофе за меня!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Идите, братья, в комнату свою,</plain>
+        </string>
+        <string>
+            <plain>в слезах Господний лик ищите там;</plain>
+        </string>
+        <string>
+            <plain>Ему скажите всю свою нужду,</plain>
+        </string>
+        <string>
+            <plain>и щедро даст Он все, что нужно нам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Стою я на коленях, как дитя,</plain>
+        </string>
+        <string>
+            <plain>на крылья веры возносясь к Нему;</plain>
+        </string>
+        <string>
+            <plain>я верю, что Он слушает меня,</plain>
+        </string>
+        <string>
+            <plain>и щедро Божью помощь получу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Какое счастье, что достоин я</plain>
+        </string>
+        <string>
+            <plain>там пребывать, где Божья благодать</plain>
+        </string>
+        <string>
+            <plain>смиряет и смягчает нам сердца,</plain>
+        </string>
+        <string>
+            <plain>где Он благое иго хочет дать!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как ангел в Гефсимании Христа</plain>
+        </string>
+        <string>
+            <plain>в страданиях однажды укрепил,</plain>
+        </string>
+        <string>
+            <plain>так я приношу, чтоб Ты, Господь, меня</plain>
+        </string>
+        <string>
+            <plain>обильно в этот час благословил.</plain>
+        </string>
+    </verse>
+</song>

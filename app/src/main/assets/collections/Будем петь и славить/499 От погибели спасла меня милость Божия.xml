@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="499" name="От погибели спасла меня милость Божия" canon="false" text="А. Вельк" textRus="" music="О. Арндта" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>От погибели спасла меня милость Божия.</plain>
+        </string>
+        <string>
+            <plain>В рве отчаянья нашла меня милость Божия.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>То, что я еще живу, то, что Господу служу,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Это милость Божия.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Что грехи мои Он смыл – это милость Божия.</plain>
+        </string>
+        <string>
+            <plain>И Свой Дух Святой излил – это милость Божия.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>То, что вера мне дана и ведет меня она, –</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Это милость Божия.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вновь и вновь благодарю эту милость Божию</plain>
+        </string>
+        <string>
+            <plain>И желанием горю славить милость Божию,</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Эту бездну доброты, эту силу чистоты –</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Эту милость Божию.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все однажды здесь пройдет, даже милость Божия.</plain>
+        </string>
+        <string>
+            <plain>От земли Бог заберет Свою милость Божию.</plain>
+        </string>
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Там, где место для святых, будет вечно им светить</plain>
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Эта милость Божия.</plain>
+            <repeat id="7" rep_rate="2" is_opening="false" />
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1 куплет</plain>
+        </string>
+    </verse>
+</song>

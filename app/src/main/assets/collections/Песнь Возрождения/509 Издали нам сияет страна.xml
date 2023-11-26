@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="509" name="Издали нам сияет страна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Издали нам сияет страна,</plain>
+        </string>
+        <string>
+            <plain>В нее верою всякий войдет;</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель ведет в небеса</plain>
+        </string>
+        <string>
+            <plain>Свой искупленный верный народ.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вскоре Он нас введет</plain>
+        </string>
+        <string>
+            <plain>В вожделенный тот край наш родной.</plain>
+        </string>
+        <string>
+            <plain>Вскоре Он нас введет</plain>
+        </string>
+        <string>
+            <plain>В вожделенный тот край наш родной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там, во славе небес, далеко</plain>
+        </string>
+        <string>
+            <plain>От забот и печалей земли</plain>
+        </string>
+        <string>
+            <plain>Все поют, восхваляя Его,</plain>
+        </string>
+        <string>
+            <plain>С чувством радостной, чистой любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там бесчисленный сонм тех святых,</plain>
+        </string>
+        <string>
+            <plain>Что от Духа объяты огнем</plain>
+        </string>
+        <string>
+            <plain>Воспевают Христову любовь,</plain>
+        </string>
+        <string>
+            <plain>Преклонясь пред Его алтарем</plain>
+        </string>
+    </verse>
+</song>

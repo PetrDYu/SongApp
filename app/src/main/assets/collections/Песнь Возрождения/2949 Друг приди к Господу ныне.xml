@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2949" name="Друг приди к Господу ныне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Друг, приди к Господу ныне,</plain>
+        </string>
+        <string>
+            <plain>хочет Он мир тебе дать</plain>
+        </string>
+        <string>
+            <plain>сердце иначе остынет,</plain>
+        </string>
+        <string>
+            <plain>и отойдёт благодать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ныне приди! Ныне приди!</plain>
+        </string>
+        <string>
+            <plain>Друг мой, приди же к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Примет, любя, Он и тебя;</plain>
+        </string>
+        <string>
+            <plain>друг мой, приди же к Иисусу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друг мой, приди с ношей тяжкой,</plain>
+        </string>
+        <string>
+            <plain>что тебя так тяготит:</plain>
+        </string>
+        <string>
+            <plain>здесь ты найдёшь отдых сладкий,</plain>
+        </string>
+        <string>
+            <plain>душу Господь исцелит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг, приди к водам спасенья,</plain>
+        </string>
+        <string>
+            <plain>жажду Господь утолит.</plain>
+        </string>
+        <string>
+            <plain>Он за твои согрешенья</plain>
+        </string>
+        <string>
+            <plain>кровь дорогую пролил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Друг, приди в юные годы,</plain>
+        </string>
+        <string>
+            <plain>совесть покуда нежна,</plain>
+        </string>
+        <string>
+            <plain>приобретай образ Божий</plain>
+        </string>
+        <string>
+            <plain>и помышленья Христа.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Друг мой, приди,</plain>
+        </string>
+        <string>
+            <plain>хоть друзьями брошен ты,</plain>
+        </string>
+        <string>
+            <plain>встретив беду,</plain>
+        </string>
+        <string>
+            <plain>хоть ненавидим врагами.</plain>
+        </string>
+        <string>
+            <plain>Верным останься Христу.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1248" name="Моряку в море нужен маяк" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Моряку в море нужен маяк.</plain>
+        </string>
+        <string>
+            <plain>Он рассеет сгустившийся мрак.</plain>
+        </string>
+        <string>
+            <plain>От опасности скал сохранит.</plain>
+        </string>
+        <string>
+            <plain>Он на помощь к плывущим спешит.</plain>
+        </string>
+        <string>
+            <plain>Это Ты, это Ты для меня</plain>
+        </string>
+        <string>
+            <plain>Свет, сияющий среди греха.</plain>
+        </string>
+        <string>
+            <plain>Я не знаю, как пристань бы нашел</plain>
+        </string>
+        <string>
+            <plain>И куда бы направил свой челн.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Море с жизнью сравнить я могу.</plain>
+        </string>
+        <string>
+            <plain>Скалы в море подобны греху,</plain>
+        </string>
+        <string>
+            <plain>А маяк уподоблю Христу,</plain>
+        </string>
+        <string>
+            <plain>С кем сравнить мне плывущих к Нему.</plain>
+        </string>
+        <string>
+            <plain>И взирают с надеждой в груди</plain>
+        </string>
+        <string>
+            <plain>На Того, Кто стоит впереди.</plain>
+        </string>
+    </verse>
+</song>

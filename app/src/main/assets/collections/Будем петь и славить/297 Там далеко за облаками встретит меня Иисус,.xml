@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="297" name="Там далеко за облаками встретит меня Иисус," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>/Там далеко/ /за облаками/ встретит меня Иисус,</plain>
+        </string>
+        <string>
+            <plain>/Нежно обнимет/ /Своими руками,/ с Ним я навеки сольюсь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А пока живу я в мире странником</plain>
+        </string>
+        <string>
+            <plain>И с тоской смотрю на небеса.</plain>
+        </string>
+        <string>
+            <plain>С небом связаны мои желания,</plain>
+        </string>
+        <string>
+            <plain>С небом связана моя судьба.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>/Мне распахнут/ /райские двери,/ радостно скажут: «Войди!»</plain>
+        </string>
+        <string>
+            <plain>/Все это будет,/ /свято я верю,/ но это лишь впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>/Там навсегда/ /скорби забуду,/ в небе улыбка царит.</plain>
+        </string>
+        <string>
+            <plain>/Там с Иисусом/ /вечно я буду/ в сладком общении жить.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>А пока живешь ты в мире странником</plain>
+        </string>
+        <string>
+            <plain>И с тоскою смотришь в небеса.</plain>
+        </string>
+        <string>
+            <plain>С чем же связаны твои желания,</plain>
+        </string>
+        <string>
+            <plain>С чем же связана твоя судьба?</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="0">
+        <string>
+            <plain>Припев 1-й.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1197" name="Отче наш сущий на небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отче наш, сущий на небесах!</plain>
+        </string>
+        <string>
+            <plain>Да святится Имя Твое;</plain>
+        </string>
+        <string>
+            <plain>Да придет Царствие Твое;</plain>
+        </string>
+        <string>
+            <plain>да будет воля Твоя и на</plain>
+        </string>
+        <string>
+            <plain>земле, как и на небе;</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хлеб наш насущный дай нам на сей день;</plain>
+        </string>
+        <string>
+            <plain>И прости нам долги наши, как и мы прощаем должникам нашим;</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И не введи нас в искушение, но избавь нас от лукавого;</plain>
+        </string>
+        <string>
+            <plain>ибо Твое есть Царство и сила и слава вовеки. Аминь.</plain>
+        </string>
+    </verse>
+</song>

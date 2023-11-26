@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="283" name="Ты избавляешь нас, Боже, путы спадают земные" canon="false" text="" textRus="Ю. Пастернака" music="И. Сикульского" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ты избавляешь нас, Боже, – путы спадают земные.</plain>
+        </string>
+        <string>
+            <plain>И Сын, что послан Тобою, к Тебе обратил наши души.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Авва Отче!</plain>
+            <repeat id="0" rep_rate="8" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Церковь живет, словно древо, в вечность врастает корнями,</plain>
+        </string>
+        <string>
+            <plain>Сияет праздником в будни, являя Твой лик всему миру.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог даровал нам свободу, спас от греха и от смерти</plain>
+        </string>
+        <string>
+            <plain>И, нас к Себе привлекая, Своими детьми называет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все мы братья и сестры, все мы любимые дети,</plain>
+        </string>
+        <string>
+            <plain>И время истины этой для нас на земле наступает.</plain>
+        </string>
+    </verse>
+</song>

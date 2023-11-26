@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1520" name="Благословеньем нас посети" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословеньем нас посети,</plain>
+        </string>
+        <string>
+            <plain>Сердце наполни. Духом Ты обнови.</plain>
+        </string>
+        <string>
+            <plain>Дай нам надежду, чтоб вечно жить,</plain>
+        </string>
+        <string>
+            <plain>Мир и спасенье Твое получить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сердца коснись Ты рукой Своей,</plain>
+        </string>
+        <string>
+            <plain>Пусть ярко светит огнем любви Твоей.</plain>
+        </string>
+        <string>
+            <plain>За благодать Твою славу прими.</plain>
+        </string>
+        <string>
+            <plain>Дай нам увидеть славу Твою.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Благословенье мы ждем с небес,</plain>
+        </string>
+        <string>
+            <plain>Боже, Твое,Сердца молитвы шлем мы к Тебе.</plain>
+        </string>
+        <string>
+            <plain>О, пробуди к жизни новой сердца</plain>
+        </string>
+        <string>
+            <plain>Благословеньем Твоим.</plain>
+        </string>
+    </chorus>
+</song>

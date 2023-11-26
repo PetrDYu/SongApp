@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="739" name="Гаснет ли пламя в борьбе испытаний" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Гаснет ли пламя в борьбе испытаний,</plain>
+        </string>
+        <string>
+            <plain>Труден ли станет тернистый твой путь,</plain>
+        </string>
+        <string>
+            <plain>Выше и выше держи свое знамя,</plain>
+        </string>
+        <string>
+            <plain>Стойким всегда ты за истину будь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Встретишь ли ненависть сердца жестокого,</plain>
+        </string>
+        <string>
+            <plain>Будет ли зависть следить за тобой,</plain>
+        </string>
+        <string>
+            <plain>Бог не оставит тебя одинокого,</plain>
+        </string>
+        <string>
+            <plain>Если к Нему ты прибегнешь с мольбой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ты будешь доволен судьбою,</plain>
+        </string>
+        <string>
+            <plain>Счастье польется широкой рекой,</plain>
+        </string>
+        <string>
+            <plain>Все же молись, дверь закрыв за собою,</plain>
+        </string>
+        <string>
+            <plain>Бог неизменно пребудет с тобой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если ты силен, молись за остывших,</plain>
+        </string>
+        <string>
+            <plain>Вспомни, когда ты счастлив, о других:</plain>
+        </string>
+        <string>
+            <plain>Близких, далеких, о Боге забывших –</plain>
+        </string>
+        <string>
+            <plain>Встань на колени, молись и о них!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Сила молитвы несет утешенье,</plain>
+        </string>
+        <string>
+            <plain>Сила молитвы - победы залог;</plain>
+        </string>
+        <string>
+            <plain>Если к Нему вознесешь ты моленье,</plain>
+        </string>
+        <string>
+            <plain>Верь, что на помощь придет к тебе Бог!</plain>
+        </string>
+    </verse>
+</song>

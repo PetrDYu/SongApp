@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1522" name="Хоть моя здесь узкая дорога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть моя здесь узкая дорога.</plain>
+        </string>
+        <string>
+            <plain>Камней много на моем пути.</plain>
+        </string>
+        <string>
+            <plain>Песней я хочу прославить Бога,</plain>
+        </string>
+        <string>
+            <plain>Жертву уст хочу я принести.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хоть бывают в жизни непогоды,</plain>
+        </string>
+        <string>
+            <plain>Солнца нет, а тучи лишь одни,</plain>
+        </string>
+        <string>
+            <plain>И тогда слагают песни славы</plain>
+        </string>
+        <string>
+            <plain>Господу Христу уста мои.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иногда в восторженном волненьи</plain>
+        </string>
+        <string>
+            <plain>Весь горю неведомым огнем.</plain>
+        </string>
+        <string>
+            <plain>Песню я пою с благоговеньем</plain>
+        </string>
+        <string>
+            <plain>О распятом исподе моем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты достоин, Бог мой, песни славы,</plain>
+        </string>
+        <string>
+            <plain>И хочу Тебя лишь я хвалить.</plain>
+        </string>
+        <string>
+            <plain>Помоги Тебя всегда прославить</plain>
+        </string>
+        <string>
+            <plain>И дорогой узкою ходить.</plain>
+        </string>
+    </verse>
+</song>

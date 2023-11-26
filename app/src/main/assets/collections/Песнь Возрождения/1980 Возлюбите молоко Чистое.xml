@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1980" name="Возлюбите молоко Чистое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возлюбите молоко</plain>
+        </string>
+        <string>
+            <plain>Чистое, словесное;</plain>
+        </string>
+        <string>
+            <plain>Почерпайте глубоко</plain>
+        </string>
+        <string>
+            <plain>То питье небесное.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Молоко течет рекой,</plain>
+        </string>
+        <string>
+            <plain>Широтой безбрежною;</plain>
+        </string>
+        <string>
+            <plain>К ней зовет призыв святой</plain>
+        </string>
+        <string>
+            <plain>Всех с любовью нежною.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Полной грудью из реки</plain>
+        </string>
+        <string>
+            <plain>Пейте токи сладости;</plain>
+        </string>
+        <string>
+            <plain>И да будут вам легки</plain>
+        </string>
+        <string>
+            <plain>Стези к вечной радости.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пейте, чтобы возрастать</plain>
+        </string>
+        <string>
+            <plain>Духом во спасение,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в мире создавать</plain>
+        </string>
+        <string>
+            <plain>Богу прославление.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Будем токи те вкушать</plain>
+        </string>
+        <string>
+            <plain>В Господе обильные,</plain>
+        </string>
+        <string>
+            <plain>И мы будем выступать</plain>
+        </string>
+        <string>
+            <plain>Слабые, как сильные.</plain>
+        </string>
+    </verse>
+</song>

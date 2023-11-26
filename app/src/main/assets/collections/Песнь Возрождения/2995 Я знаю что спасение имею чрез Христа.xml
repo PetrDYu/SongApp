@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2995" name="Я знаю что спасение имею чрез Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, что спасение имею чрез Христа;</plain>
+        </string>
+        <string>
+            <plain>я счастье высшее обрел, как стал Его дитя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я знаю, знаю: мне чрез кровь дано спасенье от грехов;</plain>
+        </string>
+        <string>
+            <plain>я знаю: Божье я дитя, душа покой в Христе нашла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я знаю: в книгу жизни я небе занесен;</plain>
+        </string>
+        <string>
+            <plain>и сердцем всем я чту Христа, покой дает мне Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю: свыше я рожден от Духа и воды,</plain>
+        </string>
+        <string>
+            <plain>умом и сердцем обновлен; уста полны хвалы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я знаю, что я освящен, теперь я храм живой,</plain>
+        </string>
+        <string>
+            <plain>в котором сам Отец царит и Сын, и Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я знаю: если призову в болезни я Христа,</plain>
+        </string>
+        <string>
+            <plain>мои страданья Он возьмет и исцелит меня.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Я знаю: коль служить Ему я буду до конца,</plain>
+        </string>
+        <string>
+            <plain>тогда узреть Его смогу во славе в небесах.</plain>
+        </string>
+    </verse>
+</song>

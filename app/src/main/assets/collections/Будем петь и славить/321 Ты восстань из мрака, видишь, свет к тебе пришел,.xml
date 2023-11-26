@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="321" name="Ты восстань из мрака, видишь, свет к тебе пришел," canon="false" text="Дж. М. Морина" textRus="Г. Грановской" music="Дж. М. Морина" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ты восстань из мрака, видишь, свет к тебе пришел,</plain>
+        </string>
+        <string>
+            <plain>Воссияла слава над тобою.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Подними глаза свои и оглянись вокруг,</plain>
+        </string>
+        <string>
+            <plain>Радостью пусть сердце озарится,</plain>
+        </string>
+        <string>
+            <plain>Вот из дальних странствий сыновья к тебе идут,</plain>
+        </string>
+        <string>
+            <plain>Дочери слетаются, как птицы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Беды забудь ты и несчастья.</plain>
+        </string>
+        <string>
+            <plain>Иерусалим, Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Песню веселья Богу пой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И придут народы мира к свету твоему,</plain>
+        </string>
+        <string>
+            <plain>И пленит царей твое сиянье.</plain>
+        </string>
+        <string>
+            <plain>Море даст свое богатство дому твоему,</plain>
+        </string>
+        <string>
+            <plain>Даст тебе земля все достоянье.</plain>
+        </string>
+        <string>
+            <plain>Приведут верблюдов из различных городов:</plain>
+        </string>
+        <string>
+            <plain>Мадиама, Эфы и из Савы.</plain>
+        </string>
+        <string>
+            <plain>Золото и ладан принесут они тебе</plain>
+        </string>
+        <string>
+            <plain>Ради возвещенья Божьей славы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Дети чужестранцев твои стены возведут,</plain>
+        </string>
+        <string>
+            <plain>Их вожди служить тебе прибудут.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Городом Господним назовет тебя твой Бог,</plain>
+        </string>
+        <string>
+            <plain>Отопрет для всех твои ворота.</plain>
+        </string>
+        <string>
+            <plain>Дни печали кончатся, и горю выйдет срок,</plain>
+        </string>
+        <string>
+            <plain>И прославят Господа народы.</plain>
+        </string>
+    </verse>
+</song>

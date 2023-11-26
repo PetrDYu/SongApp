@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="204" name="Крепко люблю я Иисус Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Крепко люблю я,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Тебя!</plain>
+        </string>
+        <string>
+            <plain>Жизни дороже</plain>
+        </string>
+        <string>
+            <plain>Ты для меня,</plain>
+        </string>
+        <string>
+            <plain>Нежно припал я</plain>
+        </string>
+        <string>
+            <plain>К груди святой;</plain>
+        </string>
+        <string>
+            <plain>Там мир нашел я,</plain>
+        </string>
+        <string>
+            <plain>Там мой покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, люблю я</plain>
+        </string>
+        <string>
+            <plain>Крепко Тебя;</plain>
+        </string>
+        <string>
+            <plain>Жизни дороже</plain>
+        </string>
+        <string>
+            <plain>Ты для меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Крепко люблю я,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Тебя!</plain>
+        </string>
+        <string>
+            <plain>Крепче же дружбы</plain>
+        </string>
+        <string>
+            <plain>Нет, как Твоя.</plain>
+        </string>
+        <string>
+            <plain>Полн состраданья,</plain>
+        </string>
+        <string>
+            <plain>Миром светя,</plain>
+        </string>
+        <string>
+            <plain>Ты мой Отец,</plain>
+        </string>
+        <string>
+            <plain>Ведь Я же дитя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты ведь простишь мне,</plain>
+        </string>
+        <string>
+            <plain>Если споткнусь;</plain>
+        </string>
+        <string>
+            <plain>Ты утешенье,</plain>
+        </string>
+        <string>
+            <plain>Гимн мой - Иисус,</plain>
+        </string>
+        <string>
+            <plain>Мой Искупитель –</plain>
+        </string>
+        <string>
+            <plain>Друг неземной;</plain>
+        </string>
+        <string>
+            <plain>Ближе к Тебе Сам</plain>
+        </string>
+        <string>
+            <plain>Сделай дух мой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дух Твой люблю я</plain>
+        </string>
+        <string>
+            <plain>Сердцем, умом;</plain>
+        </string>
+        <string>
+            <plain>Дух мой смирился,</plain>
+        </string>
+        <string>
+            <plain>Будь мне Царем!</plain>
+        </string>
+        <string>
+            <plain>Дух Твой люблю я,</plain>
+        </string>
+        <string>
+            <plain>Вечно Ты - мой;</plain>
+        </string>
+        <string>
+            <plain>В жизни иль смерти</plain>
+        </string>
+        <string>
+            <plain>Духом я Твой.</plain>
+        </string>
+    </verse>
+</song>

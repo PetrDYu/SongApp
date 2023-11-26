@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2066" name="Вставайте все на труд святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вставайте все на труд святой,</plain>
+        </string>
+        <string>
+            <plain>Христовы друзья,</plain>
+        </string>
+        <string>
+            <plain>Пока ещё не сильный зной,</plain>
+        </string>
+        <string>
+            <plain>Чудесная пора.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот жнецы вдали поют,</plain>
+        </string>
+        <string>
+            <plain>Манят нас к себе рукой,</plain>
+        </string>
+        <string>
+            <plain>Снопы вяжут и несут в радости святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, слава Агнцу, что нас спас,</plain>
+        </string>
+        <string>
+            <plain>Ему хвалены всякий час</plain>
+        </string>
+        <string>
+            <plain>Несётся с нивы золотой</plain>
+        </string>
+        <string>
+            <plain>Искупленной семьёй.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сменить уж надобно жнецов,</plain>
+        </string>
+        <string>
+            <plain>Отдавших силы все,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не было пустых рядов,</plain>
+        </string>
+        <string>
+            <plain>Убытка на жнивье.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь поможет нам в труде,</plain>
+        </string>
+        <string>
+            <plain>Наставит, укрепит,</plain>
+        </string>
+        <string>
+            <plain>С улыбкой ясной на лице</plain>
+        </string>
+        <string>
+            <plain>Успехом наделит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="64" name="Милосердный Отец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Милосердный Отец!</plain>
+        </string>
+        <string>
+            <plain>Слаб и немощен я;</plain>
+        </string>
+        <string>
+            <plain>Как несчастный слепец,</plain>
+        </string>
+        <string>
+            <plain>Я хожу без Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты мне ум просвети</plain>
+        </string>
+        <string>
+            <plain>Благодатью живой!</plain>
+        </string>
+        <string>
+            <plain>Дай мне радость в пути</plain>
+        </string>
+        <string>
+            <plain>По пустыне земной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб весь целиком</plain>
+        </string>
+        <string>
+            <plain>Я Твоим был рабом,</plain>
+        </string>
+        <string>
+            <plain>Чтоб меня не увлек</plain>
+        </string>
+        <string>
+            <plain>Этой жизни поток!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чтоб хранил я душой</plain>
+        </string>
+        <string>
+            <plain>Огнь Божественных слов,</plain>
+        </string>
+        <string>
+            <plain>Чтоб на призыв святой</plain>
+        </string>
+        <string>
+            <plain>Я всегда был готов!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2720" name="Счастлив я грехи мне прощены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Счастлив я, грехи мне прощены,</plain>
+        </string>
+        <string>
+            <plain>Сам Христос хранит меня в любви.</plain>
+        </string>
+        <string>
+            <plain>В страшной тьме н некогда бродил,</plain>
+        </string>
+        <string>
+            <plain>Он из тьмы меня освободил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, я спасен, спасен навеки я,</plain>
+        </string>
+        <string>
+            <plain>От греха избавил Он меня.</plain>
+        </string>
+        <string>
+            <plain>На крест Он за меня пошел,</plain>
+        </string>
+        <string>
+            <plain>Заблудшего во тьме нашел,</plain>
+        </string>
+        <string>
+            <plain>Теперь спасен навеки я,</plain>
+        </string>
+        <string>
+            <plain>Спасен Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Им спасен по благодати я,</plain>
+        </string>
+        <string>
+            <plain>Снята Им тяжелая вина,</plain>
+        </string>
+        <string>
+            <plain>На кресте Он Кровь пролил Свою,</plain>
+        </string>
+        <string>
+            <plain>Душу спас погибшую мою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да спасен, отрада без конца,</plain>
+        </string>
+        <string>
+            <plain>Снова я в обители Христа,</plain>
+        </string>
+        <string>
+            <plain>Все отныне я Христу отдам,</plain>
+        </string>
+        <string>
+            <plain>Все - Тому, Кто за меня страдал.</plain>
+        </string>
+    </verse>
+</song>

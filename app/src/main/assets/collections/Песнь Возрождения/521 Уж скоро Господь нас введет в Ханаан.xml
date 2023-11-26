@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="521" name="Уж скоро Господь нас введет в Ханаан" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж скоро Господь нас введет в Ханаан;</plain>
+        </string>
+        <string>
+            <plain>Он Сам проведет нас через Иордан.</plain>
+        </string>
+        <string>
+            <plain>Мужайся, надейся, будь тверд до конца,</plain>
+        </string>
+        <string>
+            <plain>И даст Тебе Бог наш сиянье венца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верь, верь, твердо верь:</plain>
+        </string>
+        <string>
+            <plain>В небесных обителях будем мы с Ним!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О дивная милость, Божественный мир!</plain>
+        </string>
+        <string>
+            <plain>Там будем мы видеть искупленных пир;</plain>
+        </string>
+        <string>
+            <plain>Там нет уж разлуки, там нет уже слез,</plain>
+        </string>
+        <string>
+            <plain>И грех уничтожит навеки Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не долог уж путь наш, о братья, вперед!</plain>
+        </string>
+        <string>
+            <plain>Главу восклоните: день Божий идет;</plain>
+        </string>
+        <string>
+            <plain>Несет он спасение верным Своим:</plain>
+        </string>
+        <string>
+            <plain>Жизнь новую мертвым, блаженство живым.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы скоро увидим, что глаз не видал,</plain>
+        </string>
+        <string>
+            <plain>Услышим про тайны, что разум не знал;</plain>
+        </string>
+        <string>
+            <plain>Постигнем Христовой любви полноту</plain>
+        </string>
+        <string>
+            <plain>И мудрости Божьей поймем высоту.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Туда лишь войдет, кто с Христом здесь страдал,</plain>
+        </string>
+        <string>
+            <plain>Креста не стыдился, свидетелем стал;</plain>
+        </string>
+        <string>
+            <plain>Кто в жизни, в борьбе не отрекся Его,</plain>
+        </string>
+        <string>
+            <plain>А счел все за сор для Христа своего.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1080" name="Пой Господу вся земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пой Господу, вся земля!</plain>
+        </string>
+        <string>
+            <plain>О спасеньи Его говори!</plain>
+        </string>
+        <string>
+            <plain>Его чудеса и слава</plain>
+        </string>
+        <string>
+            <plain>Возвещаются по всей земле.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь велик</plain>
+        </string>
+        <string>
+            <plain>Силой и могуществом.</plain>
+        </string>
+        <string>
+            <plain>Ликуй, ликуй!</plain>
+        </string>
+        <string>
+            <plain>Ибо Господь царствует!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем праздновать день спасения</plain>
+        </string>
+        <string>
+            <plain>С новой песней на устах!</plain>
+        </string>
+        <string>
+            <plain>Бог нас воскресил,</plain>
+        </string>
+        <string>
+            <plain>Бог нас посадил</plain>
+        </string>
+        <string>
+            <plain>Во Христе на небесах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будем славить</plain>
+        </string>
+        <string>
+            <plain>Господа в наших сердцах!</plain>
+        </string>
+        <string>
+            <plain>Будем славить</plain>
+        </string>
+        <string>
+            <plain>С новой песней на устах!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

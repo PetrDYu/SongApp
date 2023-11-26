@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="827" name="Библия много света нам открыла" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Библия много света нам открыла</plain>
+        </string>
+        <string>
+            <plain>И научила всех людей любить,</plain>
+        </string>
+        <string>
+            <plain>Несколько тысяч лет она служила</plain>
+        </string>
+        <string>
+            <plain>И до конца нам будет говорить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, даруй нам вникнуть в это Слово</plain>
+        </string>
+        <string>
+            <plain>И возвестить во все края земли:</plain>
+        </string>
+        <string>
+            <plain>Вот уж грядет пришествие Христово,</plain>
+        </string>
+        <string>
+            <plain>Той Божьей вести весь народ внемли!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Библия взоры к небу направляет</plain>
+        </string>
+        <string>
+            <plain>И научает, как туда войти.</plain>
+        </string>
+        <string>
+            <plain>Кто же ее надолго оставляет,</plain>
+        </string>
+        <string>
+            <plain>Тот ослабеет на земном пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О христиане, Библию читайте,</plain>
+        </string>
+        <string>
+            <plain>Грех побеждайте, двигайтесь вперед!</plain>
+        </string>
+        <string>
+            <plain>И своих близких к небу направляйте,</plain>
+        </string>
+        <string>
+            <plain>Бог за труды награду вам пошлет.</plain>
+        </string>
+    </verse>
+</song>

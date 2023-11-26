@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2575" name="По Твоим следам Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>По Твоим следам, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Шествовать всегда, везде</plain>
+        </string>
+        <string>
+            <plain>Я готов, как Твой служитель,</plain>
+        </string>
+        <string>
+            <plain>В чувстве, слове и труде.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И я знаю, что с Тобою я к могуществу приду,</plain>
+        </string>
+        <string>
+            <plain>И над хижиной земною</plain>
+        </string>
+        <string>
+            <plain>Знак победы я найду.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай, чтоб шел я за Тобою</plain>
+        </string>
+        <string>
+            <plain>Мыслью, бьющейся внутри;</plain>
+        </string>
+        <string>
+            <plain>Сердцу щедрого рукою</plain>
+        </string>
+        <string>
+            <plain>Чувство свыше подари;</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтоб, как Ты, неся страданья,</plain>
+        </string>
+        <string>
+            <plain>Мог другим я сострадать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб, твори благодеянья,</plain>
+        </string>
+        <string>
+            <plain>О себе мог забывать...</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дай уста без укоризны;</plain>
+        </string>
+        <string>
+            <plain>Слово кротости, любви</plain>
+        </string>
+        <string>
+            <plain>Дай мне сеять в этой жизни;</plain>
+        </string>
+        <string>
+            <plain>Речь молитвой вдохнови.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Дай, чтоб в мире мое дело</plain>
+        </string>
+        <string>
+            <plain>Было свято пред Тобой;</plain>
+        </string>
+        <string>
+            <plain>Чтоб, как Ты, душою смелой</plain>
+        </string>
+        <string>
+            <plain>Нес я подвиг трудовой...</plain>
+        </string>
+    </verse>
+</song>

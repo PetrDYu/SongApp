@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1869" name="Будь Вождем Ты нам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будь Вождем Ты нам!</plain>
+        </string>
+        <string>
+            <plain>По Твоим стопам</plain>
+        </string>
+        <string>
+            <plain>Мы спасения стезею,</plain>
+        </string>
+        <string>
+            <plain>Нам указанной Тобою,</plain>
+        </string>
+        <string>
+            <plain>Вместе в вечный дом</plain>
+        </string>
+        <string>
+            <plain>О, Христос, пойдем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В трудный жизни час</plain>
+        </string>
+        <string>
+            <plain>Подкрепи ты нас,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в скорби и печали</plain>
+        </string>
+        <string>
+            <plain>На Тебя мы не роптали.</plain>
+        </string>
+        <string>
+            <plain>Ведь к Тебе из бед</plain>
+        </string>
+        <string>
+            <plain>Лишь проложен след.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай возможность нам</plain>
+        </string>
+        <string>
+            <plain>Помогать людям,</plain>
+        </string>
+        <string>
+            <plain>Дай нам средства утешенья,</plain>
+        </string>
+        <string>
+            <plain>Дай нам твердое терпенье,</plain>
+        </string>
+        <string>
+            <plain>И сними Ты гнет</plain>
+        </string>
+        <string>
+            <plain>Наших всех забот.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К цели лучших благ</plain>
+        </string>
+        <string>
+            <plain>Направляй наш шаг;</plain>
+        </string>
+        <string>
+            <plain>По Твоей ведя дороге,</plain>
+        </string>
+        <string>
+            <plain>Укрепляй Ты наши ноги;</plain>
+        </string>
+        <string>
+            <plain>Дай нам, кончив путь,</plain>
+        </string>
+        <string>
+            <plain>В славе отдохнуть.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="566" name="Зачем я так бессилен зачем страдаю я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Зачем я так бессилен, зачем страдаю я?</plain>
+        </string>
+        <string>
+            <plain>На сердце так печально, нет утешения.</plain>
+        </string>
+        <string>
+            <plain>Иисус мой Утешитель, ведь Он всегда со мной;</plain>
+        </string>
+        <string>
+            <plain>Кто птиц небес питает, позабудет ли меня? –</plain>
+        </string>
+        <string>
+            <plain>Он птиц небес питает, не забудет и меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так запою от счастья:</plain>
+        </string>
+        <string>
+            <plain>Счастлив, свободен я!</plain>
+        </string>
+        <string>
+            <plain>Он птиц небес питает,</plain>
+        </string>
+        <string>
+            <plain>Не забудет и меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда я в искушенье, вокруг темно-темно,</plain>
+        </string>
+        <string>
+            <plain>В душе замолкла песня и счастье умерло,</plain>
+        </string>
+        <string>
+            <plain>Но взгляд на Иисуса - и жизнь возвращена;</plain>
+        </string>
+        <string>
+            <plain>Кто птиц небес питает, позабудет ли меня? –</plain>
+        </string>
+        <string>
+            <plain>Он птиц небес питает, не забудет и меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Пусть в бедах ваше сердце да не смущается" -</plain>
+        </string>
+        <string>
+            <plain>Так слышу глас Иисуса и успокоен я;</plain>
+        </string>
+        <string>
+            <plain>Путь, истина и жизнь Он, всех благ Он полнота,</plain>
+        </string>
+        <string>
+            <plain>Кто птиц небес питает, позабудет ли меня?</plain>
+        </string>
+        <string>
+            <plain>Он птиц небес питает, не забудет и меня.</plain>
+        </string>
+    </verse>
+</song>

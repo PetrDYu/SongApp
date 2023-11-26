@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1987" name="Воспойте Господу песнь новую" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспойте Господу песнь новую!</plain>
+        </string>
+        <string>
+            <plain>Воспойте Господу, вся земля!</plain>
+        </string>
+        <string>
+            <plain>Пойте Господу, благословляйте имя Его,</plain>
+        </string>
+        <string>
+            <plain>Благовествуйте в народах славу Его,</plain>
+        </string>
+        <string>
+            <plain>Во всех племенах чудеса Его,</plain>
+        </string>
+        <string>
+            <plain>Ибо велик Господь и достохвален.</plain>
+        </string>
+    </verse>
+</song>

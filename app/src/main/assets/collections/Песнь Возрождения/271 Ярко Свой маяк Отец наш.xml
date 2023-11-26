@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="271" name="Ярко Свой маяк Отец наш" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ярко Свой маяк Отец наш</plain>
+        </string>
+        <string>
+            <plain>Вечным светом озарил;</plain>
+        </string>
+        <string>
+            <plain>Нам же Он огонь прибрежный</plain>
+        </string>
+        <string>
+            <plain>Для охраны поручил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так да светит свет наш людям,</plain>
+        </string>
+        <string>
+            <plain>Чтоб плывущих по волнам,</plain>
+        </string>
+        <string>
+            <plain>Изнемогших и усталых,</plain>
+        </string>
+        <string>
+            <plain>Он направил к берегам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В ночь греха жестоки волны,</plain>
+        </string>
+        <string>
+            <plain>Буря стонет и ревет,</plain>
+        </string>
+        <string>
+            <plain>Напряженно путник смотрит:</plain>
+        </string>
+        <string>
+            <plain>Света с берега он ждет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поправляй светильник, брат мой!</plain>
+        </string>
+        <string>
+            <plain>Не то гибнущий пловец,</plain>
+        </string>
+        <string>
+            <plain>На скалу волной гонимый,</plain>
+        </string>
+        <string>
+            <plain>Встретит гибельный конец.</plain>
+        </string>
+    </verse>
+</song>

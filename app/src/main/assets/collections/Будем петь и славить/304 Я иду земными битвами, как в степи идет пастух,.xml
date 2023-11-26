@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="304" name="Я иду земными битвами, как в степи идет пастух," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я иду земными битвами, как в степи идет пастух,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И сердечными молитвами</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain>укрепляется мой дух.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я иду в страну далекую, в дом Небесного Отца,</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Где течет рекой широкою</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+            <plain>славословье без конца.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда войду в селение, я увижу в тот же миг</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Среди ангельского пения</plain>
+            <repeat id="4" rep_rate="3" is_opening="false" />
+            <plain>милосердный Божий лик.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

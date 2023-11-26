@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2235" name="Наша песнь не умолкнет вовек" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наша песнь не умолкнет вовек,</plain>
+        </string>
+        <string>
+            <plain>И пока наш голос не стих,</plain>
+        </string>
+        <string>
+            <plain>Будем славить всегда Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Будет литься живой родник (2 р.).</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С нами вторят свободные лица,</plain>
+        </string>
+        <string>
+            <plain>Мы свободны от власти греха,</plain>
+        </string>
+        <string>
+            <plain>Миллионам открыта десница,</plain>
+        </string>
+        <string>
+            <plain>Спасены чрез кровь Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мы победную песнь повторяем,</plain>
+        </string>
+        <string>
+            <plain>Хоть охвачены скорбыо земной,</plain>
+        </string>
+        <string>
+            <plain>Мы на руку Христову взираем,</plain>
+        </string>
+        <string>
+            <plain>В Нём защиту всегда найдём.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Наша песнь не умолкнет вовек,</plain>
+        </string>
+        <string>
+            <plain>Для неё сотворены века.</plain>
+        </string>
+        <string>
+            <plain>Мы поём, на земле человеки,</plain>
+        </string>
+        <string>
+            <plain>В нашей песне сила Христа.</plain>
+        </string>
+    </verse>
+</song>

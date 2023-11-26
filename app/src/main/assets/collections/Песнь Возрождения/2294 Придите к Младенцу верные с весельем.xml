@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2294" name="Придите к Младенцу верные с весельем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Придите к Младенцу, верные, с весельем,</plain>
+        </string>
+        <string>
+            <plain>Придите скорее к Нему в Вифлеем.</plain>
+        </string>
+        <string>
+            <plain>Царь вам родился, Царь всего творения.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Придите поклониться,</plain>
+        </string>
+        <string>
+            <plain>Придите поклониться,</plain>
+        </string>
+        <string>
+            <plain>Придите поклониться Господу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Небесные хоры, пойте с ликованием,</plain>
+        </string>
+        <string>
+            <plain>Небесные силы, звучите хвалою.</plain>
+        </string>
+        <string>
+            <plain>Слава вовеки! Слава в вышних Богу!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус, с молитвой мы к Тебе приходим,</plain>
+        </string>
+        <string>
+            <plain>Тебе честь и славу от сердца поём.</plain>
+        </string>
+        <string>
+            <plain>Вечное Слово явилось во плоти!</plain>
+        </string>
+    </verse>
+</song>

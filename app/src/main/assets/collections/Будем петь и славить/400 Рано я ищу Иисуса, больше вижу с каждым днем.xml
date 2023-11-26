@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="400" name="Рано я ищу Иисуса, больше вижу с каждым днем" canon="false" text="" textRus="И. Проханова" music="Ф.А. Филмора" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Рано я ищу Иисуса, больше вижу с каждым днем.</plain>
+        </string>
+        <string>
+            <plain>Навсегда хочу пойти я вслед за Ним Его путем!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, Он любит! Да, Он любит! Знаю: любит Он меня!</plain>
+        </string>
+        <string>
+            <plain>Он ведь умер за меня. Знаю: любит Он меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я пойду, куда велит Он! Хоть я юн, мне надо знать,</plain>
+        </string>
+        <string>
+            <plain>Как идти Его тропою, Его волю исполнять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он стоит в дверях спасенья, грех оставить просит Он.</plain>
+        </string>
+        <string>
+            <plain>Я к Нему стучаться буду! Он отворит! Я спасен!</plain>
+        </string>
+    </verse>
+</song>

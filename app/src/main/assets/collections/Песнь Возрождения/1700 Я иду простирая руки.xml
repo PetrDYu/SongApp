@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1700" name="Я иду простирая руки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду, простирая руки,</plain>
+        </string>
+        <string>
+            <plain>И глотаю слезы порой,</plain>
+        </string>
+        <string>
+            <plain>Каждый день я томлюсь в разлуке -</plain>
+        </string>
+        <string>
+            <plain>В небесах Искупитель благой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Для меня ничего не надо</plain>
+        </string>
+        <string>
+            <plain>На земле, где злоба и кровь,</plain>
+        </string>
+        <string>
+            <plain>Ни больших городов, ни блага,</plain>
+        </string>
+        <string>
+            <plain>Не найду на земле любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О родное, синее небо,</plain>
+        </string>
+        <string>
+            <plain>Ты давно зовешь меня с собою вдаль,</plain>
+        </string>
+        <string>
+            <plain>Слезы горькие взор застилают,</plain>
+        </string>
+        <string>
+            <plain>Я смахну и скрою печаль.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как хочу я попасть на небо,</plain>
+        </string>
+        <string>
+            <plain>От земных скорбей улететь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы встретить Христа Иисуса,</plain>
+        </string>
+        <string>
+            <plain>И хвалебную песнь воспеть.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Но всему свое время бывает,</plain>
+        </string>
+        <string>
+            <plain>Будет время - уйду от скорбей,</plain>
+        </string>
+        <string>
+            <plain>А пока снова, слезы глотая,</plain>
+        </string>
+        <string>
+            <plain>Буду петь для спасенья людей.</plain>
+        </string>
+    </verse>
+</song>

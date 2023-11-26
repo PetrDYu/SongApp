@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="141" name="С тихой утренней зарею все творение земное," canon="false" text="" textRus="" music="Т. Кевича" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>С тихой утренней зарею все творение земное,</plain>
+        </string>
+        <string>
+            <plain>Пробудясь, поет, как может: «Честь Тебе, Великий Боже!»</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С тихой утренней зарею я молюсь перед Тобою.</plain>
+        </string>
+        <string>
+            <plain>Славлю, возношу хвалу я Иисусу: «Аллилуйя!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда вечер наступает, птичий гомон затихает.</plain>
+        </string>
+        <string>
+            <plain>Я опять перед Тобою с благодарною мольбою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так встаю и засыпаю, сердцем Бога восхваляю</plain>
+        </string>
+        <string>
+            <plain>От восхода до заката, что любовь Его так свята.</plain>
+        </string>
+    </verse>
+</song>

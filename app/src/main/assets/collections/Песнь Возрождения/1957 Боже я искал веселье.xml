@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1957" name="Боже я искал веселье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, я искал веселье,</plain>
+        </string>
+        <string>
+            <plain>Счастье в зрелищах мирских,</plain>
+        </string>
+        <string>
+            <plain>В горьком опыте похмелья,</plain>
+        </string>
+        <string>
+            <plain>В чарах похотей плотских.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пил я грудью молодою</plain>
+        </string>
+        <string>
+            <plain>Все утехи, жить спеша,</plain>
+        </string>
+        <string>
+            <plain>Но увы, любой тоскою</plain>
+        </string>
+        <string>
+            <plain>Отравлялася душа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Миром я разочарован.</plain>
+        </string>
+        <string>
+            <plain>Не хочу его любить.</plain>
+        </string>
+        <string>
+            <plain>Ум Тобой, Господь, прикован.</plain>
+        </string>
+        <string>
+            <plain>Я хочу Тебе служить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Боже, жизнею разбитый,</plain>
+        </string>
+        <string>
+            <plain>Радость, счастье нахожу</plain>
+        </string>
+        <string>
+            <plain>Я в любви, Тобой открытой,</plain>
+        </string>
+        <string>
+            <plain>И к Тебе я прихожу.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, прими меня с мольбою</plain>
+        </string>
+        <string>
+            <plain>И прости мой юный грех,</plain>
+        </string>
+        <string>
+            <plain>И открой передо мною</plain>
+        </string>
+        <string>
+            <plain>Ключ Твоих святых утех.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Знаю, буду бесконечно</plain>
+        </string>
+        <string>
+            <plain>Наслаждаться я с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Будет течь веселье вечно.</plain>
+        </string>
+        <string>
+            <plain>Не нарушится покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="172" name="Ты жизнь моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты жизнь моя;</plain>
+        </string>
+        <string>
+            <plain>Из небытья</plain>
+        </string>
+        <string>
+            <plain>Ты жизнь мне дал,</plain>
+        </string>
+        <string>
+            <plain>Царем назвал</plain>
+        </string>
+        <string>
+            <plain>И подарил</plain>
+        </string>
+        <string>
+            <plain>Источник сил.</plain>
+        </string>
+        <string>
+            <plain>Ты жизнь моя;</plain>
+        </string>
+        <string>
+            <plain>Ты свет бытья.</plain>
+        </string>
+        <string>
+            <plain>В труде, в мольбе</plain>
+        </string>
+        <string>
+            <plain>Я льну к Тебе,</plain>
+        </string>
+        <string>
+            <plain>И ты мне стал</plain>
+        </string>
+        <string>
+            <plain>Мой идеал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты жизнь моя;</plain>
+        </string>
+        <string>
+            <plain>Живу не я,</plain>
+        </string>
+        <string>
+            <plain>А Ты живешь</plain>
+        </string>
+        <string>
+            <plain>Во мне и что ж</plain>
+        </string>
+        <string>
+            <plain>Скажу любви:</plain>
+        </string>
+        <string>
+            <plain>"Вовек живи!"</plain>
+        </string>
+        <string>
+            <plain>Ты жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>- Бессмертен я;</plain>
+        </string>
+        <string>
+            <plain>Хоть плоть заснет,</plain>
+        </string>
+        <string>
+            <plain>Дух не умрет,</plain>
+        </string>
+        <string>
+            <plain>Я буду жить,</plain>
+        </string>
+        <string>
+            <plain>Тебя хвалить.</plain>
+        </string>
+    </verse>
+</song>

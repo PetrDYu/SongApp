@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="132" name="Как вожделенны жилища Твои, Господи сил" canon="false" text="А. Маянц" textRus="" music="А. Маянц" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Как вожделенны жилища Твои, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Благословенны жилища Твои, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Свет и любовь в жилищах Твоих!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Господи сил, помилуй нас.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мир и покой в жилищах Твоих, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Счастье и радость в жилищах Твоих, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Песни хвалы в жилищах Твоих,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Господи сил, помилуй нас.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Труден мне путь в жилища Твои, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Но вожделенны жилища Твои, Господи сил!</plain>
+        </string>
+        <string>
+            <plain>Дай достучаться в жилища Твои!</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Господи сил, помилуй нас.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

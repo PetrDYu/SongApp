@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3201" name="Уж близок конец в этом мире всему" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж близок конец в этом мире всему...</plain>
+        </string>
+        <string>
+            <plain>Навстречу пошли десять дев Жениху.</plain>
+        </string>
+        <string>
+            <plain>Пять мудрых и пять неразумных из них,</plain>
+        </string>
+        <string>
+            <plain>все с радостью ждут, чтоб позвал их Жених.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жених идёт - спешите</plain>
+        </string>
+        <string>
+            <plain>все Ему навстречу.</plain>
+        </string>
+        <string>
+            <plain>Жених идёт - спешите</plain>
+        </string>
+        <string>
+            <plain>все Ему навстречу!</plain>
+        </string>
+        <string>
+            <plain>Все Ему навстречу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Светильники мудрые взяли свои</plain>
+        </string>
+        <string>
+            <plain>и масло в сосудах своих принесли.</plain>
+        </string>
+        <string>
+            <plain>Готовы для встречи они с Женихом,</plain>
+        </string>
+        <string>
+            <plain>который придёт и возьмёт их В Свой дом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У всех неразумных нет масла с собой,</plain>
+        </string>
+        <string>
+            <plain>они беззаботны, довольны с собой.</plain>
+        </string>
+        <string>
+            <plain>Зачем же о масле заботиться зря?</plain>
+        </string>
+        <string>
+            <plain>Но сами они обманули себя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но в полночь раздался вдруг радостный крик:</plain>
+        </string>
+        <string>
+            <plain>«Вставайте скорее, идёт уж Жених!»</plain>
+        </string>
+        <string>
+            <plain>Берут неразумные лампы свои,</plain>
+        </string>
+        <string>
+            <plain>с отчаяньем видят, что гаснут они.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Идут они масло просить для лампад,</plain>
+        </string>
+        <string>
+            <plain>но мудрые девы в ответ говорят:</plain>
+        </string>
+        <string>
+            <plain>«Пойдите К торговцам, купите у них»</plain>
+        </string>
+        <string>
+            <plain>Но было уж поздно - явился Жених.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Приходит Жених, и на пир с ним вошли</plain>
+        </string>
+        <string>
+            <plain>все мудрые девы, и радость нашли.</plain>
+        </string>
+        <string>
+            <plain>На зов неразумных: «Впустите же и нас!»</plain>
+        </string>
+        <string>
+            <plain>Господь отвечает: «Не знаю Я вас!»</plain>
+        </string>
+    </verse>
+</song>

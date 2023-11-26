@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2914" name="Благодатью Божьей путь узкий мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодатью Божьей путь узкий мне</plain>
+        </string>
+        <string>
+            <plain>был открыт к небесной святой стране.</plain>
+        </string>
+        <string>
+            <plain>Лишь на благодать уповаю я,</plain>
+        </string>
+        <string>
+            <plain>испытания не страшат меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В благодати лишь устоять могу</plain>
+        </string>
+        <string>
+            <plain>и отпор дать всякому врагу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благодатью Божьей в руках держу</plain>
+        </string>
+        <string>
+            <plain>щит и меч, и в битве не отступлю;</plain>
+        </string>
+        <string>
+            <plain>я хочу врага смело побеждать</plain>
+        </string>
+        <string>
+            <plain>и в борьбе святой на Христа взирать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодатью Божьей имею я</plain>
+        </string>
+        <string>
+            <plain>дар свидетельства о любви Христа.</plain>
+        </string>
+        <string>
+            <plain>Для Него лишь жить сердцем и душой</plain>
+        </string>
+        <string>
+            <plain>и за Ним идти это жребий мой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Благодатью страх побеждён во мне,</plain>
+        </string>
+        <string>
+            <plain>ведь Господь мне смелость даёт в борьбе;</plain>
+        </string>
+        <string>
+            <plain>благодать в смиреньи хранит меня,</plain>
+        </string>
+        <string>
+            <plain>коль зовет Его исполню я.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Благодатью взор к небу возвожу</plain>
+        </string>
+        <string>
+            <plain>и в надежде вечной я здесь живу;</plain>
+        </string>
+        <string>
+            <plain>и во славу Божью в духовный дом</plain>
+        </string>
+        <string>
+            <plain>вложен я, как камень живой, Христом.</plain>
+        </string>
+    </verse>
+    <chorus number="5">
+        <string>
+            <plain>Прочь ушли сомнения навсегда,</plain>
+        </string>
+        <string>
+            <plain>ведь меня ведет сильная рука.</plain>
+        </string>
+    </chorus>
+</song>

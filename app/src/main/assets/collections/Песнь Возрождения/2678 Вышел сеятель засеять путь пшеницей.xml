@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2678" name="Вышел сеятель засеять путь пшеницей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вышел сеятель засеять путь пшеницей,</plain>
+        </string>
+        <string>
+            <plain>Горсть семян рассыпал щедрою рукой.</plain>
+        </string>
+        <string>
+            <plain>Но не вся земля воздала труд сторицей,</plain>
+        </string>
+        <string>
+            <plain>А была лишь каменистой и сухой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Люди и камни, камни и люди,</plain>
+        </string>
+        <string>
+            <plain>Пусть твое сердце, как камень не будет,</plain>
+        </string>
+        <string>
+            <plain>Пусть сердце камни свои позабудет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жаждал Моисей с израильским народом,</plain>
+        </string>
+        <string>
+            <plain>А вокруг пустыня и стоит скала,</plain>
+        </string>
+        <string>
+            <plain>Но ударил жезл по каменной породе,</plain>
+        </string>
+        <string>
+            <plain>Ропот сокрушил, и полилась вода.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Камней много существует здесь под солнцем,</plain>
+        </string>
+        <string>
+            <plain>Побивали камнем ближних иногда.</plain>
+        </string>
+        <string>
+            <plain>Камни, брошенные порознь - это соблазн,</plain>
+        </string>
+        <string>
+            <plain>Преткновение для путника всегда.</plain>
+        </string>
+    </verse>
+</song>

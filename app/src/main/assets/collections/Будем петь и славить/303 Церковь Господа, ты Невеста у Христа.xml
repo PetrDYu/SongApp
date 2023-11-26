@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="303" name="Церковь Господа, ты Невеста у Христа" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Церковь Господа, ты – Невеста у Христа.</plain>
+        </string>
+        <string>
+            <plain>Церковь Господа, слушай голос Жениха!</plain>
+        </string>
+        <string>
+            <plain>Он тебя избрал, возлюбил и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Славою и честью увенчал.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain>Христу твоему!</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain>Господу!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Церковь Господа, ты – Невеста у Христа,</plain>
+        </string>
+        <string>
+            <plain>Церковь Господа, слушай голос Жениха!</plain>
+        </string>
+        <string>
+            <plain>Он тебя избрал, возлюбил и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Славою и честью увенчал!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Иисус придет на землю вновь.</plain>
+        </string>
+        <string>
+            <plain>Этот мир увидит Его славу,</plain>
+        </string>
+        <string>
+            <plain>Каждый, кто принял Его любовь,</plain>
+        </string>
+        <string>
+            <plain>Будет вечно с Ним на небесах.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+            <plain>Христу твоему!</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+            <plain>Господу!</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="4" rep_rate="3" is_opening="false" />
+            <plain>Христу твоему!</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Пой аллилуйя</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+            <plain>Господу!</plain>
+        </string>
+    </verse>
+</song>

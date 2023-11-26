@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="991" name="По мирскому океану" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>По мирскому океану</plain>
+        </string>
+        <string>
+            <plain>Мы стремимся к небесам,</plain>
+        </string>
+        <string>
+            <plain>Мы плывем к Отчизне новой.</plain>
+        </string>
+        <string>
+            <plain>Кто попутчик будет нам?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Скоро бури все минуют.</plain>
+        </string>
+        <string>
+            <plain>Скоро пристани достигнем,</plain>
+        </string>
+        <string>
+            <plain>Мы плывем вперед к победе.</plain>
+        </string>
+        <string>
+            <plain>Кто попутчик будет нам?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Паруса направь по ветру,</plain>
+        </string>
+        <string>
+            <plain>Чтоб сильней неслась ладья.</plain>
+        </string>
+        <string>
+            <plain>Будем петь хвалу спасенья.</plain>
+        </string>
+        <string>
+            <plain>Громче, песнь, звучит моя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так приди в ладью спасенья.</plain>
+        </string>
+        <string>
+            <plain>Время мчится, ждать нельзя.</plain>
+        </string>
+        <string>
+            <plain>Скоро, скоро бросим якорь</plain>
+        </string>
+        <string>
+            <plain>- Разгорается заря.</plain>
+        </string>
+    </verse>
+</song>

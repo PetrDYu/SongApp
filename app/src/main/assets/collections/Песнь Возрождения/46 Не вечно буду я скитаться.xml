@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="46" name="Не вечно буду я скитаться" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не вечно буду я скитаться</plain>
+        </string>
+        <string>
+            <plain>В долине сумрачной земной;</plain>
+        </string>
+        <string>
+            <plain>Я - странник, уж пора расстаться</plain>
+        </string>
+        <string>
+            <plain>Мне с этой жизнью, и - домой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тебе служить хочу, Спаситель:</plain>
+        </string>
+        <string>
+            <plain>Я куплен дорого Тобой.</plain>
+        </string>
+        <string>
+            <plain>Ты - Царь и сильный мой Властитель,</plain>
+        </string>
+        <string>
+            <plain>Я весьи вечно буду Твой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твой мир святое наслажденье</plain>
+        </string>
+        <string>
+            <plain>Дает печальному душой;</plain>
+        </string>
+        <string>
+            <plain>О, ниспошли мне утешенье</plain>
+        </string>
+        <string>
+            <plain>И светлый, радостный покой!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Даруй, чтоб с ревностью стремился</plain>
+        </string>
+        <string>
+            <plain>Я труд свой исполнять всегда</plain>
+        </string>
+        <string>
+            <plain>И чтобы свет Твой не затмился</plain>
+        </string>
+        <string>
+            <plain>В душе смиренной никогда.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда же нету вдохновенья</plain>
+        </string>
+        <string>
+            <plain>В молитве, нет любви огня,</plain>
+        </string>
+        <string>
+            <plain>Пусть кровь Твоя, Твой крест, мученья</plain>
+        </string>
+        <string>
+            <plain>На подвиг вдохновят меня.</plain>
+        </string>
+    </verse>
+</song>

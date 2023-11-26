@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2597" name="Если путь твой темен мрачен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если путь твой темен, мрачен</plain>
+        </string>
+        <string>
+            <plain>И нависли облака,</plain>
+        </string>
+        <string>
+            <plain>Бурь не бойся, над тобою</plain>
+        </string>
+        <string>
+            <plain>Божья сильная рука.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Верь Ему, Он власть имеет,</plain>
+        </string>
+        <string>
+            <plain>Буря перед Ним молчит.</plain>
+        </string>
+        <string>
+            <plain>Властно Он грозу смиряет</plain>
+        </string>
+        <string>
+            <plain>И тебя Он сохранит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если ты теряешь силы,</plain>
+        </string>
+        <string>
+            <plain>Изнемог в земной борьбе,</plain>
+        </string>
+        <string>
+            <plain>Верь, надейся, твой Спаситель</plain>
+        </string>
+        <string>
+            <plain>Отдых, силы даст тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Верь Ему, хоть все обьято</plain>
+        </string>
+        <string>
+            <plain>Беспросветной, мрачной тьмой.</plain>
+        </string>
+        <string>
+            <plain>Верный Страж не дремлет ночью,</plain>
+        </string>
+        <string>
+            <plain>Бодрствует Он над тобой.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Если горести, заботы</plain>
+        </string>
+        <string>
+            <plain>Нарушают твой покой,</plain>
+        </string>
+        <string>
+            <plain>Обратись к Тому, Кто может</plain>
+        </string>
+        <string>
+            <plain>Облегчить твой путь земной.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Дар святой, Дух благодати,</plain>
+        </string>
+        <string>
+            <plain>Помощь Бог тебе пошлет.</plain>
+        </string>
+        <string>
+            <plain>Свет небесный, лучезарный</plain>
+        </string>
+        <string>
+            <plain>Он во тьму невзгод прольет.</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>Верь Ему - Творцу вселенной,</plain>
+        </string>
+        <string>
+            <plain>Хоть и труден здесь твой путь,</plain>
+        </string>
+        <string>
+            <plain>Твердо стой средь искушений,</plain>
+        </string>
+        <string>
+            <plain>верным до конца пребудь.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>"С вами во все дни Я буду",</plain>
+        </string>
+        <string>
+            <plain>- Обещал Спаситель нам,</plain>
+        </string>
+        <string>
+            <plain>Уповай, надейся твердо,</plain>
+        </string>
+        <string>
+            <plain>Верь Его святым словам.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2181" name="Крести нас опять любовью" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Крести нас опять любовью</plain>
+        </string>
+        <string>
+            <plain>Твоей и силою свыше объемли скорей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Смиренно, о, Боже, мы молим Тебя,</plain>
+        </string>
+        <string>
+            <plain>Любовью и Духом крести нас опять.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сегодня мы все средь тяжких оков,</plain>
+        </string>
+        <string>
+            <plain>Омой нас, очисти от всяких грехов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Дух Ты Святой, сойди к нам с небес</plain>
+        </string>
+        <string>
+            <plain>И благослови нас молящихся здесь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Глас Божий звучал там, на высоте:</plain>
+        </string>
+        <string>
+            <plain>"Се Сын Мой возлюбленный, Его слушайте".</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Все вместе мы славим Его, как один,</plain>
+        </string>
+        <string>
+            <plain>В душе повторяем: Аминь и аминь.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1299" name="Шествуем мв в Ханаан" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Шествуем мы в Ханаан,</plain>
+        </string>
+        <string>
+            <plain>- Трудно нам в пути,</plain>
+        </string>
+        <string>
+            <plain>Бог зовёт чрез</plain>
+        </string>
+        <string>
+            <plain>Иордан Верою идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь как Иисус Навин,</plain>
+        </string>
+        <string>
+            <plain>Кликни: "Я пойду.</plain>
+        </string>
+        <string>
+            <plain>Я и дом мой</plain>
+        </string>
+        <string>
+            <plain>- мы служить Будем Господу."</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сколько видим мы преград</plain>
+        </string>
+        <string>
+            <plain>На своём пути!</plain>
+        </string>
+        <string>
+            <plain>Воды бурные шумят,</plain>
+        </string>
+        <string>
+            <plain>Как их перейти?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Остановится волна</plain>
+        </string>
+        <string>
+            <plain>Сильною рукой.</plain>
+        </string>
+        <string>
+            <plain>Мы пройдем чрез</plain>
+        </string>
+        <string>
+            <plain>Иордан Верою живой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус, наш верный Друг,</plain>
+        </string>
+        <string>
+            <plain>Стал для нас Вождём.</plain>
+        </string>
+        <string>
+            <plain>Мы в небесный Ханаан</plain>
+        </string>
+        <string>
+            <plain>Вслед за Ним пойдем!</plain>
+        </string>
+    </verse>
+</song>

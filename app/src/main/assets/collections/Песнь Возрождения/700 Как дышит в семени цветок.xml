@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="700" name="Как дышит в семени цветок" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как дышит в семени цветок,</plain>
+        </string>
+        <string>
+            <plain>А дерево в зерне,</plain>
+        </string>
+        <string>
+            <plain>Так, милостью Своей высок,</plain>
+        </string>
+        <string>
+            <plain>Христос живет во мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, Христос живет!</plain>
+        </string>
+        <string>
+            <plain>То чудный Божий дар –</plain>
+        </string>
+        <string>
+            <plain>Христос живет во мне!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я был без света в бездне зол</plain>
+        </string>
+        <string>
+            <plain>И мертвым по вине,</plain>
+        </string>
+        <string>
+            <plain>Но в Слове Божьем свет нашел;</plain>
+        </string>
+        <string>
+            <plain>Христос живет во мне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как солнца лик живит лучом</plain>
+        </string>
+        <string>
+            <plain>Цветы на тощем дне,</plain>
+        </string>
+        <string>
+            <plain>Так блещет жизнь в Христе одном;</plain>
+        </string>
+        <string>
+            <plain>Христос живет во мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда помыслю я о том,</plain>
+        </string>
+        <string>
+            <plain>Что Он живет во мне,</plain>
+        </string>
+        <string>
+            <plain>Подобным быть Ему во всем</plain>
+        </string>
+        <string>
+            <plain>Хочу в земной стране.</plain>
+        </string>
+    </verse>
+</song>

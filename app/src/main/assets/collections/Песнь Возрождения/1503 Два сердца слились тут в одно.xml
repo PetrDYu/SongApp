@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1503" name="Два сердца слились тут в одно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Два сердца слились тут в одно,</plain>
+        </string>
+        <string>
+            <plain>- Этот случай радостный,</plain>
+        </string>
+        <string>
+            <plain>- Друг Другу обещали дать</plain>
+        </string>
+        <string>
+            <plain>Торжественный обет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дорогим желаем счастья,</plain>
+        </string>
+        <string>
+            <plain>Роз и лилий на земном пути.</plain>
+        </string>
+        <string>
+            <plain>Пусть непрестанно греют вас</plain>
+        </string>
+        <string>
+            <plain>Лучи солнышка любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Брак первый Сам Иисус-Творец</plain>
+        </string>
+        <string>
+            <plain>В раю благословил.</plain>
+        </string>
+        <string>
+            <plain>Не откажет этой Он чете</plain>
+        </string>
+        <string>
+            <plain>В благословении.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приветствуем мы от души</plain>
+        </string>
+        <string>
+            <plain>Вас, милые друзья.</plain>
+        </string>
+        <string>
+            <plain>Сердечно мы желаем вам</plain>
+        </string>
+        <string>
+            <plain>Прожить счастливо жизнь.</plain>
+        </string>
+    </verse>
+</song>

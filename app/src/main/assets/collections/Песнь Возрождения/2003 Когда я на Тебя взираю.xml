@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2003" name="Когда я на Тебя взираю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я на Тебя взираю,</plain>
+        </string>
+        <string>
+            <plain>Всесильный, я святости Твоей,</plain>
+        </string>
+        <string>
+            <plain>И с скорбным сердцем размышляю</plain>
+        </string>
+        <string>
+            <plain>Я о греховности своей,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тогда, душевно сокрушенный,</plain>
+        </string>
+        <string>
+            <plain>Я впасть в отчаянье готов,</plain>
+        </string>
+        <string>
+            <plain>Но Сын Твой, в жертву принесенный,</plain>
+        </string>
+        <string>
+            <plain>Дает мне мир и радость вновь.</plain>
+        </string>
+    </verse>
+</song>

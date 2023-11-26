@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="843" name="Быстро очень быстро дни бегут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Быстро, очень быстро дни бегут.</plain>
+        </string>
+        <string>
+            <plain>Словно тучи черные плывут.</plain>
+        </string>
+        <string>
+            <plain>Голову покрыла седина.</plain>
+        </string>
+        <string>
+            <plain>Старость мне напомнила она.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты, седина, жаль, что видна!</plain>
+        </string>
+        <string>
+            <plain>Я так мало потрудился для Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Был я молод, но не знал Христа,</plain>
+        </string>
+        <string>
+            <plain>Господа не славили уста.</plain>
+        </string>
+        <string>
+            <plain>Похоти различные любил</plain>
+        </string>
+        <string>
+            <plain>- Так я безрассудно в мире жил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Лучше с юных лет познать Христа,</plain>
+        </string>
+        <string>
+            <plain>Чтобы жизнь земная не прошла.</plain>
+        </string>
+        <string>
+            <plain>Без труда для Господа не жить,</plain>
+        </string>
+        <string>
+            <plain>Надо с юных лет Ему служить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И теперь, не молод, знаю я</plain>
+        </string>
+        <string>
+            <plain>-Не вернется молодость моя.</plain>
+        </string>
+        <string>
+            <plain>Нет труда, но милость только в Нем!</plain>
+        </string>
+        <string>
+            <plain>И хотя седой, но со Христом!</plain>
+        </string>
+    </verse>
+</song>

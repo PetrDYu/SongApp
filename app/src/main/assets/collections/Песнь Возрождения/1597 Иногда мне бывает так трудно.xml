@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1597" name="Иногда мне бывает так трудно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иногда мне бывает так трудно,</plain>
+        </string>
+        <string>
+            <plain>И в волнах жизни я погибаю.</plain>
+        </string>
+        <string>
+            <plain>Словно в море разбитое судно,</plain>
+        </string>
+        <string>
+            <plain>И о помощи к Богу взываю.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Я к Тебе прихожу в мольбе,</plain>
+        </string>
+        <string>
+            <plain>Услышь меня,</plain>
+        </string>
+        <string>
+            <plain>Во мне так мало силы.</plain>
+        </string>
+        <string>
+            <plain>Излей мне в душу святого огня.</plain>
+        </string>
+        <string>
+            <plain>Чтоб светил мне в пути он до самой могилы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Только не к кому мне обратиться,</plain>
+        </string>
+        <string>
+            <plain>Ты один лишь помощник, мой Бог.</plain>
+        </string>
+        <string>
+            <plain>Я хочу лишь Тебе помолиться.</plain>
+        </string>
+        <string>
+            <plain>Ты избавишь меня от тревог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу тебя. Боже, прославить,</plain>
+        </string>
+        <string>
+            <plain>Я хочу благодарность воздать,</plain>
+        </string>
+        <string>
+            <plain>Что Ты мог нас от смерти избавить</plain>
+        </string>
+        <string>
+            <plain>И на небе жизнь вечную дать.</plain>
+        </string>
+    </verse>
+</song>

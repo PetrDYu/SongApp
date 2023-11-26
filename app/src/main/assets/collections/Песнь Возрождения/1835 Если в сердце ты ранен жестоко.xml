@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1835" name="Если в сердце ты ранен жестоко" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если в сердце ты ранен жестоко,</plain>
+        </string>
+        <string>
+            <plain>Если слезы струятся ручьем,</plain>
+        </string>
+        <string>
+            <plain>Если горе твое беспредельно,</plain>
+        </string>
+        <string>
+            <plain>Пусть никто не узнает о том.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Твое горе, печали, страданья</plain>
+        </string>
+        <string>
+            <plain>Человеку порой не понять,</plain>
+        </string>
+        <string>
+            <plain>И хоть тяжки твои испытанья,</plain>
+        </string>
+        <string>
+            <plain>Безутешно не надо рыдать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так о горе поведай лишь Богу,</plain>
+        </string>
+        <string>
+            <plain>Расскажи, как ты ранен в борьбе,</plain>
+        </string>
+        <string>
+            <plain>И укажет тебе Он дорогу,</plain>
+        </string>
+        <string>
+            <plain>И покой ты получишь душе.</plain>
+        </string>
+    </verse>
+</song>

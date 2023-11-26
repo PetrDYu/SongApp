@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="145" name="Когда безбрежный рокот океана" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда безбрежный рокот океана</plain>
+        </string>
+        <string>
+            <plain>Бросает, словно щепы, корабли,</plain>
+        </string>
+        <string>
+            <plain>Неся их вдаль навстречу урагану,</plain>
+        </string>
+        <string>
+            <plain>Я говорю: "Как слаб, бессилен сын земли!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тогда молитву я творю</plain>
+        </string>
+        <string>
+            <plain>И Богу в сердце говорю:</plain>
+        </string>
+        <string>
+            <plain>"Что человек, что помнишь Ты его?"</plain>
+        </string>
+        <string>
+            <plain>"Что человек, что помнишь Ты его?"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда смотрю на путь созвездий млечных,</plain>
+        </string>
+        <string>
+            <plain>На солнца, что бегут из века в век</plain>
+        </string>
+        <string>
+            <plain>Вокруг миров в пространствах бесконечных,</plain>
+        </string>
+        <string>
+            <plain>Я говорю:"О, как ничтожен человек!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда я слышу, что Творец творенья,</plain>
+        </string>
+        <string>
+            <plain>Могущий мир стереть в единый миг,</plain>
+        </string>
+        <string>
+            <plain>Зовет людей в объятия прощенья,</plain>
+        </string>
+        <string>
+            <plain>Я мыслю: "Боже! Мир не стоит благ Твоих".</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда я слышу: Бог для счастья твари</plain>
+        </string>
+        <string>
+            <plain>Послал на муку Сына Своего,</plain>
+        </string>
+        <string>
+            <plain>Я погружаюсь в мысль о Божьем даре:</plain>
+        </string>
+        <string>
+            <plain>"Что человек, что помнишь, Боже, Ты его?"</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты окружен пресветлыми духами;</plain>
+        </string>
+        <string>
+            <plain>И ангелы у трона Твоего</plain>
+        </string>
+        <string>
+            <plain>Поют хвалу безгрешными устами:</plain>
+        </string>
+        <string>
+            <plain>Что человек, что помнишь, Боже, Ты его?</plain>
+        </string>
+    </verse>
+</song>

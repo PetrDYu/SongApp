@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="509" name="Кто, как Ты, Господь, среди богов" canon="false" text="Н. Гельфанда" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Кто, как Ты, Господь, среди богов?</plain>
+        </string>
+        <string>
+            <plain>Кто, как Ты, Святой Израилев?</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Возвеличен святостью, сияешь славою,</plain>
+        </string>
+        <string>
+            <plain>Творишь чудеса.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Кто, как Ты, вознесся высоко?</plain>
+        </string>
+        <string>
+            <plain>Кто, как Ты, врагов в пучину вверг?</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Ты – мое спасение, Ты – моя твердыня,</plain>
+        </string>
+        <string>
+            <plain>Ты – моя твердыня и покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ты простер Свою десницу,</plain>
+        </string>
+        <string>
+            <plain>Ты ведешь народ сей милостью.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Провождаешь силою в Свое жилище,</plain>
+        </string>
+        <string>
+            <plain>Жилище святыни Твоей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Кто, как Ты, Господь, среди богов?</plain>
+        </string>
+        <string>
+            <plain>Кто, как Ты, Святой Израилев?</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Возвеличен святостью, сияешь славою,</plain>
+        </string>
+        <string>
+            <plain>Сияешь славою!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>МИКАМО́ХА БАЭ́ЛИМ АДОНА́Й,</plain>
+        </string>
+        <string>
+            <plain>МИКАМО́ХА НЕ́ДАР БАЙКОДЭ́Ш</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>НОРА́ ТЭХИЛО́Т</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>ОСЭ́ ФЭЛЭ́, ОСЭ́ ФЭЛЭ́.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="502" name="Мой Бог, мой Бог Пусть вечными длятся в тиши" canon="false" text="Х. Сенеш" textRus="" music="Д. Зехави" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Мой Бог, мой Бог… Пусть вечными длятся в тиши</plain>
+        </string>
+        <string>
+            <plain>Вода и песок, и шелест волны, и блеск молний Твоих,</plain>
+        </string>
+        <string>
+            <plain>И молитва души…</plain>
+        </string>
+        <string>
+            <plain>И моря песок, и шелест волны,</plain>
+        </string>
+        <string>
+            <plain>И блеск молний Твоих, и молитва души.</plain>
+        </string>
+        <string>
+            <plain>ЭЛИ́ ЭЛИ́... ШЭЛО́ ЙИГАМЭ́Р ЛЭОЛА́М</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>АХО́ЛЬ ВЭАЯ́М РИШРУ́Ш ШЭЛЬ А-МА́ИМ,</plain>
+        </string>
+        <string>
+            <plain>БЭРА́К А-ШАМА́ЙИМ ТФИЛА́Т А-АДА́М</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

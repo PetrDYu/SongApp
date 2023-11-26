@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="516" name="Нет на свете красоты без Тебя, мой Бог" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Нет на свете красоты без Тебя, мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Ты меня освободил, подарил любовь.</plain>
+        </string>
+        <string>
+            <plain>Я в молитве пред Тобой руки вознесу,</plain>
+        </string>
+        <string>
+            <plain>Я хочу Тебе сказать, как Тебя люблю!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Я люблю Тебя, Иисус, люблю Тебя!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ближе быть хочу к Тебе с каждым днем, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Чтобы сердца моего Ты коснулся вновь.</plain>
+        </string>
+        <string>
+            <plain>Нежный голос в тишине я услышу вновь,</plain>
+        </string>
+        <string>
+            <plain>В откровеньи слов Твоих мудрость и любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В моей жизни каждый миг в любви Твоей,</plain>
+        </string>
+        <string>
+            <plain>Держишь Ты меня, Господь, рукой Своей.</plain>
+        </string>
+        <string>
+            <plain>В свете утренней зари и в вечерней мгле</plain>
+        </string>
+        <string>
+            <plain>Буду петь я о любви, Господь, к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

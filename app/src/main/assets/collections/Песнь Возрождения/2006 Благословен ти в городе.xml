@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2006" name="Благословен ти в городе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благословен ти в городе,</plain>
+        </string>
+        <string>
+            <plain>Благословен на поле.</plain>
+        </string>
+        <string>
+            <plain>Блакословен плод чрева твоего,</plain>
+        </string>
+        <string>
+            <plain>Когда живёшь по Божьей воле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Течь на тебя будет с неба,</plain>
+        </string>
+        <string>
+            <plain>Если Бога слышишь ты!</plain>
+        </string>
+        <string>
+            <plain>Течь на тебя будет с неба,</plain>
+        </string>
+        <string>
+            <plain>Если Богу служишь ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Одним путём враг наступает,</plain>
+        </string>
+        <string>
+            <plain>Семью путями побежит.</plain>
+        </string>
+        <string>
+            <plain>И тот, кто на тебя восстанет,</plain>
+        </string>
+        <string>
+            <plain>От гнева Бога зодрожит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тогда увидят все народы,</plain>
+        </string>
+        <string>
+            <plain>Что благодати полон ты,</plain>
+        </string>
+        <string>
+            <plain>Что Бон с тобой теперь и вечно,</plain>
+        </string>
+        <string>
+            <plain>Что ты богат и нет нужды.</plain>
+        </string>
+    </verse>
+</song>

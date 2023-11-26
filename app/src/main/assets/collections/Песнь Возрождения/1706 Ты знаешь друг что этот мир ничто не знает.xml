@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1706" name="Ты знаешь друг что этот мир ничто не знает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты знаешь, друг, что этот мир ничто не знает</plain>
+        </string>
+        <string>
+            <plain>С его больной всегда сомнением душой,</plain>
+        </string>
+        <string>
+            <plain>Что и когда в часы скорбей Он горько плачет,</plain>
+        </string>
+        <string>
+            <plain>Всё ж заглушает голос Божий суетой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус всё ждёт и предлагает</plain>
+        </string>
+        <string>
+            <plain>Покой и счастье рая</plain>
+        </string>
+        <string>
+            <plain>Свободно получить.</plain>
+        </string>
+        <string>
+            <plain>Свободно получить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В нём гордость корни распускала глубже сердца,</plain>
+        </string>
+        <string>
+            <plain>Он захотел пребыть навек самим собой,</plain>
+        </string>
+        <string>
+            <plain>Но, отказавшись от небесного наследства,</plain>
+        </string>
+        <string>
+            <plain>Остался бедным и несчастным сиротой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто б ни был ты, мой друг, усталый и печальный,</plain>
+        </string>
+        <string>
+            <plain>Надежда есть, Иисус зовет тебя, приди,</plain>
+        </string>
+        <string>
+            <plain>Оставь сомненья и ненужные стенанья,</plain>
+        </string>
+        <string>
+            <plain>Рукою веры сам спасение прими.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Твой Иисус зовёт и предлагает</plain>
+        </string>
+        <string>
+            <plain>Покой и счастье рая</plain>
+        </string>
+        <string>
+            <plain>Свободно получить.</plain>
+        </string>
+        <string>
+            <plain>Свободно получить.</plain>
+        </string>
+    </chorus>
+</song>

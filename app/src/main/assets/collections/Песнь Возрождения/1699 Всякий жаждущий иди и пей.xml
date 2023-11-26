@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1699" name="Всякий жаждущий иди и пей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всякий жаждущий, иди и пей</plain>
+        </string>
+        <string>
+            <plain>С источника воды Живой.</plain>
+        </string>
+        <string>
+            <plain>Кто верит в Бога, кто любит Сына, -</plain>
+        </string>
+        <string>
+            <plain>Всю твою жизнь Иисус обновит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>АЛЛИЛУЙЯ - ХРИСТУ ХВАЛА</plain>
+        </string>
+        <string>
+            <plain>АЛЛИЛУЙЯ - ХРИСТУ ХВАЛА</plain>
+        </string>
+        <string>
+            <plain>АЛЛИЛУЙЯ - ХРИСТУ ХВАЛА</plain>
+        </string>
+        <string>
+            <plain>АЛЛИЛУЙЯ - ТЕБЕ, ИИСУС, ХВАЛА!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если ты устал, изнемог в пути, -</plain>
+        </string>
+        <string>
+            <plain>Он рад тебе помочь в пути.</plain>
+        </string>
+        <string>
+            <plain>Ношу всю снимает, силы обновляет</plain>
+        </string>
+        <string>
+            <plain>Во всех скорбях - помощник Он!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты просил огня, и Он даст тебе -</plain>
+        </string>
+        <string>
+            <plain>Встанешь радостно и вперед пойдешь,</plain>
+        </string>
+        <string>
+            <plain>Лишь Ему доверься, на Него надейся,</plain>
+        </string>
+        <string>
+            <plain>Всю твою жизнь Он обновит.</plain>
+        </string>
+    </verse>
+</song>

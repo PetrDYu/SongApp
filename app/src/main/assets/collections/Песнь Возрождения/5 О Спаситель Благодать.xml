@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="5" name="О Спаситель Благодать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Спаситель! Благодать</plain>
+        </string>
+        <string>
+            <plain>На благую весть излей;</plain>
+        </string>
+        <string>
+            <plain>Дай нам все слова понять,</plain>
+        </string>
+        <string>
+            <plain>Все слова любви Твоей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дай общение сердцам,</plain>
+        </string>
+        <string>
+            <plain>Всех в одно соедини,</plain>
+        </string>
+        <string>
+            <plain>Обрати лицо Ты к нам</plain>
+        </string>
+        <string>
+            <plain>И беседу в нас начни.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты открой всем нам сердца</plain>
+        </string>
+        <string>
+            <plain>И Твои слова посей,</plain>
+        </string>
+        <string>
+            <plain>Пусть на них падет роса</plain>
+        </string>
+        <string>
+            <plain>Милости, любви Твоей!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да удобрит Божий Дух</plain>
+        </string>
+        <string>
+            <plain>Наше сердце и наш слух;</plain>
+        </string>
+        <string>
+            <plain>Да скорей произрастет</plain>
+        </string>
+        <string>
+            <plain>В нашей жизни вечный плод!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2657" name="Душа моя о ты гори" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Душа моя, о ты гори</plain>
+        </string>
+        <string>
+            <plain>Священным пламенем любви.</plain>
+        </string>
+        <string>
+            <plain>Мне в сердце чувства обнови,</plain>
+        </string>
+        <string>
+            <plain>На подвиг веры вдохнови.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гори сильней, огонь любви,</plain>
+        </string>
+        <string>
+            <plain>Затми все грешное в груди,</plain>
+        </string>
+        <string>
+            <plain>Мне в сердце чувства обнови,</plain>
+        </string>
+        <string>
+            <plain>На подвиг веры вдохнови.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, услышал Ты меня,</plain>
+        </string>
+        <string>
+            <plain>Когда взывал к Тебе с мольбой.</plain>
+        </string>
+        <string>
+            <plain>В Твою обитель войду я,</plain>
+        </string>
+        <string>
+            <plain>Когда покину мир земной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там, в вечности, на небесах,</plain>
+        </string>
+        <string>
+            <plain>Тебя прославить я смогу</plain>
+        </string>
+        <string>
+            <plain>Хвалой достойного в псалмах,</plain>
+        </string>
+        <string>
+            <plain>И Ты отрешь слезу мою.</plain>
+        </string>
+    </verse>
+</song>

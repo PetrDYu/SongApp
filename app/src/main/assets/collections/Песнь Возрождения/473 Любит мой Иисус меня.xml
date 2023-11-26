@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="473" name="Любит мой Иисус меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любит мой Иисус меня! –</plain>
+        </string>
+        <string>
+            <plain>Это твердо знаю я;</plain>
+        </string>
+        <string>
+            <plain>Он детей к Себе зовет</plain>
+        </string>
+        <string>
+            <plain>И на руки их берет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любит Иисус,</plain>
+        </string>
+        <string>
+            <plain>Любит Он меня,</plain>
+        </string>
+        <string>
+            <plain>Любит Иисус!</plain>
+        </string>
+        <string>
+            <plain>Это твердо знаю я.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По любви и доброте</plain>
+        </string>
+        <string>
+            <plain>Пострадал Он на кресте;</plain>
+        </string>
+        <string>
+            <plain>За меня Он кровь пролил,</plain>
+        </string>
+        <string>
+            <plain>Ею Он меня омыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Очень любит Он меня!</plain>
+        </string>
+        <string>
+            <plain>Если с жаждою вреда</plain>
+        </string>
+        <string>
+            <plain>Ранят сердце иногда,</plain>
+        </string>
+        <string>
+            <plain>В Нем найду отраду я!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любит Он! Он вечно мой!</plain>
+        </string>
+        <string>
+            <plain>Я Его навек душой!</plain>
+        </string>
+        <string>
+            <plain>Мне никто не повредит,</plain>
+        </string>
+        <string>
+            <plain>От всех зол Он сохранит.</plain>
+        </string>
+    </verse>
+</song>

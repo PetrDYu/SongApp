@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2593" name="Что за блаженство" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что за блаженство!</plain>
+        </string>
+        <string>
+            <plain>Светом Христовым Быть озаренным!</plain>
+        </string>
+        <string>
+            <plain>Богу петь! Явится Он для тех, кто готовы.</plain>
+        </string>
+        <string>
+            <plain>Бога увидим, как Он Есть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будем подобны Ему навеки,</plain>
+        </string>
+        <string>
+            <plain>Его увидим, как Он есть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ночи не будет! Что за блаженство!</plain>
+        </string>
+        <string>
+            <plain>Свет непрестанный! Тьма пройдет!</plain>
+        </string>
+        <string>
+            <plain>Новое тело к жизни воскреснет,</plain>
+        </string>
+        <string>
+            <plain>Избранных Бог наш соберет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верой живите! Верно трудитесь!</plain>
+        </string>
+        <string>
+            <plain>Сколько для Церкви важных дел!</plain>
+        </string>
+        <string>
+            <plain>Грешных, заблудших к Богу зовите</plain>
+        </string>
+        <string>
+            <plain>- Он поступать так повелел.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Зреют колосья в поле безбрежном;</plain>
+        </string>
+        <string>
+            <plain>Жатвы великой близок час.</plain>
+        </string>
+        <string>
+            <plain>Сбудется скоро наша надежда;</plain>
+        </string>
+        <string>
+            <plain>Вот Иисуса слышен глас.</plain>
+        </string>
+    </verse>
+</song>

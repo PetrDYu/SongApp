@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2602" name="Время экспрессом летит незаметно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Время экспрессом летит незаметно,</plain>
+        </string>
+        <string>
+            <plain>Молодость старится, блекнет краса.</plain>
+        </string>
+        <string>
+            <plain>Все на земле скоротечно и тленно.</plain>
+        </string>
+        <string>
+            <plain>Верны, поверь, лишь одни небеса.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Розы полюбишь - их осень погубит,</plain>
+        </string>
+        <string>
+            <plain>Арфу возьмешь - ветер струны порвет.</plain>
+        </string>
+        <string>
+            <plain>Друга найдешь - он тебя позабудет,</plain>
+        </string>
+        <string>
+            <plain>Но не забудет лишь только Христос.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Небо оставил на муки распятья,</plain>
+        </string>
+        <string>
+            <plain>Жизнь Свою отдал Спаситель Христос,</plain>
+        </string>
+        <string>
+            <plain>Смертно несчастных Он спас от проклятья,</plain>
+        </string>
+        <string>
+            <plain>Мук беспричинных, томительных слез.</plain>
+        </string>
+    </verse>
+</song>

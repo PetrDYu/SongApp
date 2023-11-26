@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="464" name="Кто верует в Меня, у того из сердца потекут" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Кто верует в Меня, у того из сердца потекут</plain>
+        </string>
+        <string>
+            <plain>Реки воды живой.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Дух дышит, где хочет, и голос Его слышишь</plain>
+        </string>
+        <string>
+            <plain>Так бывает со всяким рожденным от Духа.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Дух Мой научит вас и напомнит все, о чем сказал</plain>
+        </string>
+        <string>
+            <plain>Я вам, друзья Мои.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Мир Мой даю Я вам, но не тот, что люди вам дают.</plain>
+        </string>
+        <string>
+            <plain>Мир Мой даю Я вам.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>И если вы во Мне, и слова Мои пребудут в вас,</plain>
+        </string>
+        <string>
+            <plain>То принесете плод.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

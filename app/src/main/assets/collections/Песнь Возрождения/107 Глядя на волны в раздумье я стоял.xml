@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="107" name="Глядя на волны в раздумье я стоял" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Глядя на волны, в раздумье я стоял,</plain>
+        </string>
+        <string>
+            <plain>Снова от сердца сомнения отгонял.</plain>
+        </string>
+        <string>
+            <plain>Когда ж излился надо мной</plain>
+        </string>
+        <string>
+            <plain>Поток любви Его святой,</plain>
+        </string>
+        <string>
+            <plain>В сомненье Его встречал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Снова и снова сильною волной</plain>
+        </string>
+        <string>
+            <plain>Вся любовь Христова льется надо мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Снова могучий Христа я слышу зов:</plain>
+        </string>
+        <string>
+            <plain>"Мой раб, будь вечно свободен от оков,</plain>
+        </string>
+        <string>
+            <plain>Без страха по морю ходи,</plain>
+        </string>
+        <string>
+            <plain>Смелей за Мной вослед иди!"</plain>
+        </string>
+        <string>
+            <plain>"Иду", - я тогда сказал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Снова и снова раздался голос мой</plain>
+        </string>
+        <string>
+            <plain>В песне хвалебной с восторженной мольбой;</plain>
+        </string>
+        <string>
+            <plain>Любовь Христа превозмогла</plain>
+        </string>
+        <string>
+            <plain>И, как волна, меня несла,</plain>
+        </string>
+        <string>
+            <plain>И страх мой пред ней бежал.</plain>
+        </string>
+    </verse>
+</song>

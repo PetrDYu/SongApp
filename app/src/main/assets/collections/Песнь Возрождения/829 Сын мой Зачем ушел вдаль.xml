@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="829" name="Сын мой Зачем ушел вдаль" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сын мой! Зачем ушел вдаль?</plain>
+        </string>
+        <string>
+            <plain>Вернись, Христос зовет!</plain>
+        </string>
+        <string>
+            <plain>Иль ты не слышишь зова?</plain>
+        </string>
+        <string>
+            <plain>Вернись, тебя Он ждет!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вспомни ту встречу С Христом Иисусом,</plain>
+        </string>
+        <string>
+            <plain>Обеты твои и мольбу,</plain>
+        </string>
+        <string>
+            <plain>И мольбу, и мольбу,</plain>
+        </string>
+        <string>
+            <plain>Все обеты твои и мольбу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Где ты, заблудший, где ты,</plain>
+        </string>
+        <string>
+            <plain>Сколько уж можно звать?!</plain>
+        </string>
+        <string>
+            <plain>Войди в ковчег завета,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не пришлось рыдать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Звучит любовь завета</plain>
+        </string>
+        <string>
+            <plain>Две тысячи уж лет.</plain>
+        </string>
+        <string>
+            <plain>Все ждет Христос ответа</plain>
+        </string>
+        <string>
+            <plain>На зов любви Своей.</plain>
+        </string>
+    </verse>
+</song>

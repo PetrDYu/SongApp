@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="751" name="Господи Я взываю к Тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи! Я взываю к Тебе!</plain>
+        </string>
+        <string>
+            <plain>Господи! Ты один лишь помошник в борьбе!</plain>
+        </string>
+        <string>
+            <plain>Пребудь же со мной,</plain>
+        </string>
+        <string>
+            <plain>О Боже благой,</plain>
+        </string>
+        <string>
+            <plain>Меня охраняй на пути</plain>
+        </string>
+        <string>
+            <plain>Своею могучей рукой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господи! Сколько горя вокруг!</plain>
+        </string>
+        <string>
+            <plain>Господи! Ты один лишь надежный мой Друг!</plain>
+        </string>
+        <string>
+            <plain>В сердечной мольбе</plain>
+        </string>
+        <string>
+            <plain>Взываю к Тебе</plain>
+        </string>
+        <string>
+            <plain>И тайную сердца тоску</plain>
+        </string>
+        <string>
+            <plain>Тебе одному приношу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господи! Ты - надежда моя!</plain>
+        </string>
+        <string>
+            <plain>Господи! На Тебя полагаюся я!</plain>
+        </string>
+        <string>
+            <plain>И всею душой</plain>
+        </string>
+        <string>
+            <plain>Стремлюсь быть с Тобой</plain>
+        </string>
+        <string>
+            <plain>В той вечной стране, где всегда</plain>
+        </string>
+        <string>
+            <plain>Царит мир и дивный покой.</plain>
+        </string>
+    </verse>
+</song>

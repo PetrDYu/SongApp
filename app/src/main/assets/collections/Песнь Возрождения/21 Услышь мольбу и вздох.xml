@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="21" name="Услышь мольбу и вздох" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Услышь мольбу и вздох</plain>
+        </string>
+        <string>
+            <plain>Души моей,</plain>
+        </string>
+        <string>
+            <plain>Хочу Тебя, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Любить сильней.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Хочу любить огнем</plain>
+        </string>
+        <string>
+            <plain>Мольбы святой,</plain>
+        </string>
+        <string>
+            <plain>Всем сердцем, и умом</plain>
+        </string>
+        <string>
+            <plain>И всей душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Напрасно в тьме сует</plain>
+        </string>
+        <string>
+            <plain>Я мир искал;</plain>
+        </string>
+        <string>
+            <plain>Лишь Твой любви завет</plain>
+        </string>
+        <string>
+            <plain>Мне счастье дал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Увижу ль иногда</plain>
+        </string>
+        <string>
+            <plain>Грозу скорбей,</plain>
+        </string>
+        <string>
+            <plain>Хочу я и тогда</plain>
+        </string>
+        <string>
+            <plain>Любить сильней.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Прервется ль жизнь моя</plain>
+        </string>
+        <string>
+            <plain>Для вечных дней,</plain>
+        </string>
+        <string>
+            <plain>Хочу и в небе я</plain>
+        </string>
+        <string>
+            <plain>Любить сильней.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>И знаю, буду там,</plain>
+        </string>
+        <string>
+            <plain>Где нет теней,</plain>
+        </string>
+        <string>
+            <plain>Где вечный Бога храм,</plain>
+        </string>
+        <string>
+            <plain>Любить сильней.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1311" name="Возлюбим Бога всей душой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возлюбим Бога всей душой,</plain>
+        </string>
+        <string>
+            <plain>Он Сам нас прежде возлюбил;</plain>
+        </string>
+        <string>
+            <plain>Мы за любовь Ему враждой</plain>
+        </string>
+        <string>
+            <plain>Платили - Он нам верен был;</plain>
+        </string>
+        <string>
+            <plain>Он против нашего желанья</plain>
+        </string>
+        <string>
+            <plain>Пришел наш дух из муки взять.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он из любви и состраданья</plain>
+        </string>
+        <string>
+            <plain>Лелеял нас нежней, чем мать,</plain>
+        </string>
+        <string>
+            <plain>Он кровью дал нам избавленье.</plain>
+        </string>
+        <string>
+            <plain>Отраду, счастье и покой.</plain>
+        </string>
+        <string>
+            <plain>Что ж дать Ему за дар спасенья?</plain>
+        </string>
+        <string>
+            <plain>Он ждет от нас любви одной.</plain>
+        </string>
+    </verse>
+</song>

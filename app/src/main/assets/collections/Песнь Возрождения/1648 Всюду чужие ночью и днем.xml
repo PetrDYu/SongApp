@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1648" name="Всюду чужие ночью и днем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всюду чужие... ночью и днем,</plain>
+        </string>
+        <string>
+            <plain>За рубежом и в Сибири,</plain>
+        </string>
+        <string>
+            <plain>Всюду чужие, куда ни пойдем</plain>
+        </string>
+        <string>
+            <plain>В этом неласковом мире.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Всюду чужие... часто слеза</plain>
+        </string>
+        <string>
+            <plain>Нам увлажняет ресницы.</plain>
+        </string>
+        <string>
+            <plain>Нет на земле нам родного гнезда</plain>
+        </string>
+        <string>
+            <plain>Ни в деревнях, ни в столицах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всюду чужие... в роде людском</plain>
+        </string>
+        <string>
+            <plain>Странников малое племя.</plain>
+        </string>
+        <string>
+            <plain>Мы, как пришельцы, по миру пройдем</plain>
+        </string>
+        <string>
+            <plain>В это последнее время.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всюду чужие... как тяжело</plain>
+        </string>
+        <string>
+            <plain>В мире бывает нам, Боже.</plain>
+        </string>
+        <string>
+            <plain>Мир все Твое отвергает со злом.</plain>
+        </string>
+        <string>
+            <plain>Нас отвергает он тоже.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Помните: вы не от мира сего.</plain>
+        </string>
+        <string>
+            <plain>Да не смущается сердце.</plain>
+        </string>
+        <string>
+            <plain>Кто бы вы ни были, прежде всего</plain>
+        </string>
+        <string>
+            <plain>Странники вы и пришельцы.</plain>
+        </string>
+        <string>
+            <plain>Нет на земле нам родного гнезда,</plain>
+        </string>
+        <string>
+            <plain>Знаешь лишь к небу дорогу.</plain>
+        </string>
+        <string>
+            <plain>Чуждые миру везде и всегда,</plain>
+        </string>
+        <string>
+            <plain>Стали родные мы Богу.</plain>
+        </string>
+    </chorus>
+</song>

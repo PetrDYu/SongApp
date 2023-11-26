@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2622" name="О Спаситель я Твоей любовию пленен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Спаситель, я Твоей любовию пленен</plain>
+        </string>
+        <string>
+            <plain>И Твоей іречитстой Кровыо от греха спасен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Теперь с Тобою, узкою тропою,</plain>
+        </string>
+        <string>
+            <plain>Я без страха пробираюсь</plain>
+        </string>
+        <string>
+            <plain>в вечный отчий дом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Путь мой в мире отягчают лютые враги,</plain>
+        </string>
+        <string>
+            <plain>Но Тебя н умоляю, Боке, помоги.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Дай в сердце силы, чтоб до могилы</plain>
+        </string>
+        <string>
+            <plain>За Тобою всей душою здесь я мог идти.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Много в этом грешном мире слез, тревог и зла,</plain>
+        </string>
+        <string>
+            <plain>Нос Тобой пройду преграды, смерть мне не строил-та.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Дай в сердце силы, чтоб до могилы</plain>
+        </string>
+        <string>
+            <plain>За Тобою всей душою здесь я мог идти.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2591" name="Послужим братья Господу Христу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Послужим, братья, Господу Христу</plain>
+        </string>
+        <string>
+            <plain>И песнопением Его прославим;</plain>
+        </string>
+        <string>
+            <plain>Мы в Нем имеем полноту,</plain>
+        </string>
+        <string>
+            <plain>Его любовь и милость всюду с нами.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе, Спаситель, славу мы поем,</plain>
+        </string>
+        <string>
+            <plain>Тобой Одним желаем утешаться,</plain>
+        </string>
+        <string>
+            <plain>И Твоего пришествия мы ждем,</plain>
+        </string>
+        <string>
+            <plain>Дабы с Тобой навеки сочетаться!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христос избавил нас от многих слез,</plain>
+        </string>
+        <string>
+            <plain>Сменил часы унынья упованьем;</plain>
+        </string>
+        <string>
+            <plain>Небесный мир и радость нам принес,</plain>
+        </string>
+        <string>
+            <plain>Уста наполнил песней ликованья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Агнец Божий, взял Ты на Себя</plain>
+        </string>
+        <string>
+            <plain>Деяний наших все несовершенство,</plain>
+        </string>
+        <string>
+            <plain>Вражду забыл и, искренне любя,</plain>
+        </string>
+        <string>
+            <plain>Нам даровал Ты вечное блаженство.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Тебе, Тебе лишь славу мы поем,</plain>
+        </string>
+        <string>
+            <plain>Тобой Одним желаем утешаться</plain>
+        </string>
+        <string>
+            <plain>И Твоего пришествия мы ждем,</plain>
+        </string>
+        <string>
+            <plain>Дабы с Тобой навеки сочетаться!</plain>
+        </string>
+    </chorus>
+</song>

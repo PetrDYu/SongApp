@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1755" name="Как прекрасно поют соловьи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как прекрасно поют соловьи!</plain>
+        </string>
+        <string>
+            <plain>Как приятно сердец сочетанье!</plain>
+        </string>
+        <string>
+            <plain>Боже любящий, благослови</plain>
+        </string>
+        <string>
+            <plain>Этой новой семьи созиданье.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть сегодня украсит ваш брак</plain>
+        </string>
+        <string>
+            <plain>Благодать Иисуса и милость</plain>
+        </string>
+        <string>
+            <plain>А теперь стройте жизнь свою так,</plain>
+        </string>
+        <string>
+            <plain>Чтобы имя Христа святилось!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христианской всей жизни успех -</plain>
+        </string>
+        <string>
+            <plain>В послушание Господу Богу.</plain>
+        </string>
+        <string>
+            <plain>Своеволие - это же грех,</plain>
+        </string>
+        <string>
+            <plain>Вы ему перекройте дорогу!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Краток праздник... Блаженства же ключ</plain>
+        </string>
+        <string>
+            <plain>У Христа одного - в Нем пребудьте.</plain>
+        </string>
+        <string>
+            <plain>Чтобы радость, как солнечный луч,</plain>
+        </string>
+        <string>
+            <plain>Озаряла и праздник и будни.</plain>
+        </string>
+    </verse>
+</song>

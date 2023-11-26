@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2867" name="Я иду к отчизне к той стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду к отчизне, к той стране,</plain>
+        </string>
+        <string>
+            <plain>где нет горя и страданий,</plain>
+        </string>
+        <string>
+            <plain>там, где вечный свет;</plain>
+        </string>
+        <string>
+            <plain>пред престолом славы ангелы поют,</plain>
+        </string>
+        <string>
+            <plain>честь, хвалу и славу Богу воздают.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всё, в чём дыханье есть,</plain>
+        </string>
+        <string>
+            <plain>славьте Творца,</plain>
+        </string>
+        <string>
+            <plain>да, славьте Творца,</plain>
+        </string>
+        <string>
+            <plain>да, славьте Творца!</plain>
+        </string>
+        <string>
+            <plain>Пусть не умолкнут в хвалении уста.</plain>
+        </string>
+        <string>
+            <plain>Да, Господа славьте всегда (всегда)!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там у врат жемчужных ждёт меня Христос,</plain>
+        </string>
+        <string>
+            <plain>взгляд любвеобильный мне навстречу шлёт.</plain>
+        </string>
+        <string>
+            <plain>Нежный голос слышу: «Сын Мой, ободрись,</plain>
+        </string>
+        <string>
+            <plain>стойким будь, послушным; верь и не страшись!»</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь мой путь недолог, скоро уж приду,</plain>
+        </string>
+        <string>
+            <plain>там в краю небесном Господа узрю;</plain>
+        </string>
+        <string>
+            <plain>и с надеждой в сердце радостно пою:</plain>
+        </string>
+        <string>
+            <plain>«Как прекрасно будет со Христом в раю!»</plain>
+        </string>
+    </verse>
+</song>

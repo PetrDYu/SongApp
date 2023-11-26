@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2160" name="Как солнце едино над нами" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как солнце едино над нами,</plain>
+        </string>
+        <string>
+            <plain>Как сердце одно лишь в груди,</plain>
+        </string>
+        <string>
+            <plain>Как берег один в океане,</plain>
+        </string>
+        <string>
+            <plain>Так Бог у нас только Один.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он греет меня и питает,</plain>
+        </string>
+        <string>
+            <plain>И в скорби мне радость дарит.</plain>
+        </string>
+        <string>
+            <plain>Он душу мою утешает, единый мой</plain>
+        </string>
+        <string>
+            <plain>Пастырь и щит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Одна у дитяти есть мама,</plain>
+        </string>
+        <string>
+            <plain>И больше не надо другой,</plain>
+        </string>
+        <string>
+            <plain>Так я средь мирского обмана</plain>
+        </string>
+        <string>
+            <plain>В Христе нахожу лишь покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не буду искать я другого,</plain>
+        </string>
+        <string>
+            <plain>Кто руку подал бы в беде,</plain>
+        </string>
+        <string>
+            <plain>Имею Христа дорогого.</plain>
+        </string>
+        <string>
+            <plain>Со мной Он всегда и везде.</plain>
+        </string>
+    </verse>
+</song>

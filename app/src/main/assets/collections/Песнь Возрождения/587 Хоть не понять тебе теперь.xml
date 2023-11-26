@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="587" name="Хоть не понять тебе теперь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть не понять тебе теперь</plain>
+        </string>
+        <string>
+            <plain>Всех слез, страданий, тесноты,</plain>
+        </string>
+        <string>
+            <plain>Настанет жданный день, поверь,</plain>
+        </string>
+        <string>
+            <plain>Когда вполне познаешь ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хоть труден путь, темно кругом,</plain>
+        </string>
+        <string>
+            <plain>Поверь, Творец введет нас в дом,</plain>
+        </string>
+        <string>
+            <plain>В Свой дом чудес, дом красоты.</plain>
+        </string>
+        <string>
+            <plain>И там вполне познаешь ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там встреча будет двух друзей,</plain>
+        </string>
+        <string>
+            <plain>Сойдутся странников пути;</plain>
+        </string>
+        <string>
+            <plain>И мысли тайные людей</plain>
+        </string>
+        <string>
+            <plain>Лишь там вполне познаешь ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если путь во тьме идет,</plain>
+        </string>
+        <string>
+            <plain>Не видишь цели впереди, -</plain>
+        </string>
+        <string>
+            <plain>Господь на землю вновь придет,</plain>
+        </string>
+        <string>
+            <plain>В тот день вполне познаешь ты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты видишь, как мираж вдали</plain>
+        </string>
+        <string>
+            <plain>В пустыне знойной суеты,</plain>
+        </string>
+        <string>
+            <plain>Приют для путников земли,</plain>
+        </string>
+        <string>
+            <plain>Но там вполне познаешь ты.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Оставь сомненья, не страшись</plain>
+        </string>
+        <string>
+            <plain>Непониманья и тоски,</plain>
+        </string>
+        <string>
+            <plain>В Отцовский дом душой стремись,</plain>
+        </string>
+        <string>
+            <plain>В край, где вполне познаешь ты.</plain>
+        </string>
+    </verse>
+</song>

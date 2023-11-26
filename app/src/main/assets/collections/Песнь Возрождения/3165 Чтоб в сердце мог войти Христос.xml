@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3165" name="Чтоб в сердце мог войти Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чтоб в сердце мог войти Христос,</plain>
+        </string>
+        <string>
+            <plain>ты должен здесь оставить всё.</plain>
+        </string>
+        <string>
+            <plain>Высокомерье отложи,</plain>
+        </string>
+        <string>
+            <plain>в смиреньи Божий дар прими.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь с небес нам Бог дарил,</plain>
+        </string>
+        <string>
+            <plain>в Христе Он всех нас возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Он примирил весь мир с Собой,</plain>
+        </string>
+        <string>
+            <plain>- склонись пред Ним ты всей душой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Гордишься делом, «я» - твой бог,</plain>
+        </string>
+        <string>
+            <plain>тогда ты от Христа далёк.</plain>
+        </string>
+        <string>
+            <plain>О червь земной, стремись познать:</plain>
+        </string>
+        <string>
+            <plain>спасёт тебя лишь благодать!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тщеславный человек греха,</plain>
+        </string>
+        <string>
+            <plain>не примет Бога твои дела!</plain>
+        </string>
+        <string>
+            <plain>Господь дела не признает,</plain>
+        </string>
+        <string>
+            <plain>лишь кровь Христа тебя спасёт!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, ныне дар с небес прими,</plain>
+        </string>
+        <string>
+            <plain>Бог хочет и тебя спасти.</plain>
+        </string>
+        <string>
+            <plain>Оставь бесплодные дела,</plain>
+        </string>
+        <string>
+            <plain>ищи покой у ног Христа!</plain>
+        </string>
+    </verse>
+</song>

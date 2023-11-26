@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1094" name="Прихожу к Тебе я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прихожу к Тебе я,</plain>
+        </string>
+        <string>
+            <plain>С хвалою.</plain>
+        </string>
+        <string>
+            <plain>Чудеса Твои велики</plain>
+        </string>
+        <string>
+            <plain>И любовь твоя сильна!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты велик!</plain>
+        </string>
+        <string>
+            <plain>Ты прекрасен и велик</plain>
+        </string>
+        <string>
+            <plain>И другого нет, как Ты (О мой Бог)</plain>
+        </string>
+        <string>
+            <plain>Нет подобного Тебе.</plain>
+        </string>
+        <string>
+            <plain>О! Ты велик!</plain>
+        </string>
+        <string>
+            <plain>Ты прекрасен и велик</plain>
+        </string>
+        <string>
+            <plain>И другого нет, как Ты (О мой Бог)</plain>
+        </string>
+        <string>
+            <plain>Нет подобного Тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты один достоин, Хвалы.</plain>
+        </string>
+        <string>
+            <plain>Поднимаем к Небу взоры,</plain>
+        </string>
+        <string>
+            <plain>В Боге радуемся мы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Буду петь Тебе я,</plain>
+        </string>
+        <string>
+            <plain>Славить вечно.</plain>
+        </string>
+        <string>
+            <plain>За Твою любовь и милость,</plain>
+        </string>
+        <string>
+            <plain>Что даришь Ты нам всегда.</plain>
+        </string>
+    </verse>
+</song>

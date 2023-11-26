@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="119" name="Так уж бывает летней порой, когда луч солнца радует нас," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Так уж бывает летней порой, когда луч солнца радует нас,</plain>
+        </string>
+        <string>
+            <plain>Час испытанья черной рукой небо закроет от нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть даже не станет овец в загоне,</plain>
+        </string>
+        <string>
+            <plain>И виноград не даст плода,</plain>
+        </string>
+        <string>
+            <plain>Все равно я буду славить Господа Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если закружит меня волною в водовороте суетного дня,</plain>
+        </string>
+        <string>
+            <plain>Верой поднявшись над суетою, вдруг запоет душа моя:</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если, бывает, теряешь много, вспомни слова Иисуса Христа:</plain>
+        </string>
+        <string>
+            <plain>«Где ваша ценность, там сердце будет», – значит, потеря невелика.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если однажды жизненный выбор: ради Иисуса и славы Отца</plain>
+        </string>
+        <string>
+            <plain>Нужно лишиться овец в загоне, хочу, чтобы спела душа моя:</plain>
+        </string>
+    </verse>
+</song>

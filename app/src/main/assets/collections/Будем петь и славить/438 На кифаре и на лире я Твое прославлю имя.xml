@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="438" name="На кифаре и на лире я Твое прославлю имя" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>На кифаре и на лире я Твое прославлю имя.</plain>
+        </string>
+        <string>
+            <plain>Каждый день Тобой живу и Тебя благодарю.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Благо Господа хвалить и Его благодарить,</plain>
+        </string>
+        <string>
+            <plain>Его имя прославлять, Его славу возвещать.</plain>
+        </string>
+        <string>
+            <plain>Все творенья рук Твоих дай мне, Боже, воспевать,</plain>
+        </string>
+        <string>
+            <plain>Велики дела Твои, их рассудком не познать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В доме Бога своего вечно праведник живет,</plain>
+        </string>
+        <string>
+            <plain>Словно пальма, он цветет, как ливанский кедр, растет.</plain>
+        </string>
+        <string>
+            <plain>Плод надежды принести он и в старости готов,</plain>
+        </string>
+        <string>
+            <plain>Всем народам возвестить: благ и праведен Господь!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

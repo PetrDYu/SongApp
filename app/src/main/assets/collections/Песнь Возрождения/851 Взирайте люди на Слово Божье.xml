@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="851" name="Взирайте люди на Слово Божье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Взирайте, люди, на Слово Божье,</plain>
+        </string>
+        <string>
+            <plain>Пока еще ныне звучит.</plain>
+        </string>
+        <string>
+            <plain>Оно ведь скоро закрыться может</plain>
+        </string>
+        <string>
+            <plain>- Дух Божий об этом твердит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скажут люди: "Слово Божье</plain>
+        </string>
+        <string>
+            <plain>Пусть же вернется к нам.</plain>
+        </string>
+        <string>
+            <plain>Сколько, люди, не взывайте.</plain>
+        </string>
+        <string>
+            <plain>Господь не ответит уж вам".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слова Амоса звучат так ясно,</plain>
+        </string>
+        <string>
+            <plain>Что он написал наперед,</plain>
+        </string>
+        <string>
+            <plain>Что люди горько стонать все будут,</plain>
+        </string>
+        <string>
+            <plain>Как жаждой томимый народ.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь Господню искать все будут.</plain>
+        </string>
+        <string>
+            <plain>Как жаждущий ищет воды.</plain>
+        </string>
+        <string>
+            <plain>Господь закроет от них спасенье,</plain>
+        </string>
+        <string>
+            <plain>Не смогут найти уж они.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ходить все будут от моря до моря,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Слово Господне найти.</plain>
+        </string>
+        <string>
+            <plain>И полны будут мученья и горя.</plain>
+        </string>
+        <string>
+            <plain>Не смогут спастись уж они.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="482" name="Вокруг престола пред Творцом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вокруг престола пред Творцом</plain>
+        </string>
+        <string>
+            <plain>Толпы детей стоят</plain>
+        </string>
+        <string>
+            <plain>И там с восторженным лицом</plain>
+        </string>
+        <string>
+            <plain>Святую песнь твердят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И там, и там с восторженным лицом,</plain>
+        </string>
+        <string>
+            <plain>И там, и там святую песнь твердят.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто всех детей туда собрал,</plain>
+        </string>
+        <string>
+            <plain>Кто ввел их в небеса,</plain>
+        </string>
+        <string>
+            <plain>Кто в чудной песне сочетал</plain>
+        </string>
+        <string>
+            <plain>Малюток голоса?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь Иисус, который спас</plain>
+        </string>
+        <string>
+            <plain>Своею смертью их,</plain>
+        </string>
+        <string>
+            <plain>Им в небе место то припас</plain>
+        </string>
+        <string>
+            <plain>Близ ангелов святых.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любили Господа они</plain>
+        </string>
+        <string>
+            <plain>В свои земные дни;</plain>
+        </string>
+        <string>
+            <plain>Чтобы сильней любить могли,</plain>
+        </string>
+        <string>
+            <plain>Он взял их от земли.</plain>
+        </string>
+    </verse>
+</song>

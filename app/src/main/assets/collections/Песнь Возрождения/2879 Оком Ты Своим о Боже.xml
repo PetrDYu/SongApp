@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2879" name="Оком Ты Своим о Боже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Оком Ты Своим, о Боже,</plain>
+        </string>
+        <string>
+            <plain>через жизнь меня веди;</plain>
+        </string>
+        <string>
+            <plain>будь всегда со мною рядом,</plain>
+        </string>
+        <string>
+            <plain>устоять мне помоги.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О любимый мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>как Ты близок мне всегда!</plain>
+        </string>
+        <string>
+            <plain>Оком Ты Своим, о Боже</plain>
+        </string>
+        <string>
+            <plain>к цели приведи меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты веди, когда темно</plain>
+        </string>
+        <string>
+            <plain>всё и пути не вижу я;</plain>
+        </string>
+        <string>
+            <plain>дай мне свет Твой вновь</plain>
+        </string>
+        <string>
+            <plain>увидеть и вперёд идти всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты храни меня и в мыслях</plain>
+        </string>
+        <string>
+            <plain>чистым от всех грёз мирских,</plain>
+        </string>
+        <string>
+            <plain>о Тебе чтоб помышлял я,</plain>
+        </string>
+        <string>
+            <plain>О делах больших Твоих.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Помоги, чтоб и правдивы</plain>
+        </string>
+        <string>
+            <plain>были все слова мои,</plain>
+        </string>
+        <string>
+            <plain>подкрепляли изнемогших,</plain>
+        </string>
+        <string>
+            <plain>излучали свет в ночи.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты веди, чтоб каждым делом</plain>
+        </string>
+        <string>
+            <plain>угождал я лишь Тебе.</plain>
+        </string>
+        <string>
+            <plain>За Тобой идти хочу я</plain>
+        </string>
+        <string>
+            <plain>- будь всегда опорой мне.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="65" name="Я Твое приобретенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я - Твое приобретенье,</plain>
+        </string>
+        <string>
+            <plain>Дух и тело - все Твое;</plain>
+        </string>
+        <string>
+            <plain>Навсегда Тебе в служенье</plain>
+        </string>
+        <string>
+            <plain>Возьми  сердце, возьми все!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я - Твое приобретенье,</plain>
+        </string>
+        <string>
+            <plain>возьми сердце, возьми все!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть Тебя лишь созерцают</plain>
+        </string>
+        <string>
+            <plain>Очи веры на земле!</plain>
+        </string>
+        <string>
+            <plain>И уста пусть призывают</plain>
+        </string>
+        <string>
+            <plain>Всех людей к Твоей хвале.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не хочу на мир строптивый</plain>
+        </string>
+        <string>
+            <plain>В жизни этой уповать;</plain>
+        </string>
+        <string>
+            <plain>В скорбной доле иль счастливой</plain>
+        </string>
+        <string>
+            <plain>Я хочу Тобой дышать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На Голгофу я взираю,</plain>
+        </string>
+        <string>
+            <plain>Вижу там Твой скорбный лик</plain>
+        </string>
+        <string>
+            <plain>И с хвалою я взываю:</plain>
+        </string>
+        <string>
+            <plain>"Как Господь в любви велик!"</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Верой в милость окрыленный,</plain>
+        </string>
+        <string>
+            <plain>Я припал к Твоим стопам</plain>
+        </string>
+        <string>
+            <plain>И обрел душе смущенной</plain>
+        </string>
+        <string>
+            <plain>Мир и доступ к небесам.</plain>
+        </string>
+    </verse>
+</song>

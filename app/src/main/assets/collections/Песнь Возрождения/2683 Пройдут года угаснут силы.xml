@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2683" name="Пройдут года угаснут силы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пройдут года, угаснут силы,</plain>
+        </string>
+        <string>
+            <plain>Но Ты со мной всегда пребудь,</plain>
+        </string>
+        <string>
+            <plain>Не покидай меня, Друг мой милый,</plain>
+        </string>
+        <string>
+            <plain>Но помоги пройти сей путь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В небе покой мой, я так его жду,</plain>
+        </string>
+        <string>
+            <plain>Радость моя, бодрость моя,</plain>
+        </string>
+        <string>
+            <plain>Только туда стремлюсь,</plain>
+        </string>
+        <string>
+            <plain>Только о том молюсь.</plain>
+        </string>
+        <string>
+            <plain>В небе покой мой, я так его жду.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Юность пройдет, как роза увянет,</plain>
+        </string>
+        <string>
+            <plain>Но не печалься о ней никогда.</plain>
+        </string>
+        <string>
+            <plain>Все это прошлое забудь навсегда,</plain>
+        </string>
+        <string>
+            <plain>Но не старей душой никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А, может, когда-нибудь вспомнишь ты вновь</plain>
+        </string>
+        <string>
+            <plain>Годы, которые прожил напрасно.</plain>
+        </string>
+        <string>
+            <plain>Сердце твое забьется вновь,</plain>
+        </string>
+        <string>
+            <plain>Только уже теперь не напрасно.</plain>
+        </string>
+    </verse>
+</song>

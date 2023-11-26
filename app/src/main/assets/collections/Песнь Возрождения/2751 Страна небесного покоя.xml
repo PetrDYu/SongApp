@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2751" name="Страна небесного покоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страна небесного покоя,</plain>
+        </string>
+        <string>
+            <plain>Как манишь ты своей красой,</plain>
+        </string>
+        <string>
+            <plain>А здесь, среди земного зноя,</plain>
+        </string>
+        <string>
+            <plain>Так изнемог дух слабый мой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, научи меня молиться,</plain>
+        </string>
+        <string>
+            <plain>Научи меня смириться,</plain>
+        </string>
+        <string>
+            <plain>К небу взором обратиться,</plain>
+        </string>
+        <string>
+            <plain>Научи меня любить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О Боже, Ты сказал, что будешь</plain>
+        </string>
+        <string>
+            <plain>Всегда во всем нам помогать</plain>
+        </string>
+        <string>
+            <plain>И никогда нас не забудешь,</plain>
+        </string>
+        <string>
+            <plain>Пошлешь нам Духа благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Обширна нива предо мной,</plain>
+        </string>
+        <string>
+            <plain>Где нужно труд любви явить.</plain>
+        </string>
+        <string>
+            <plain>Даже пожертвовать собою,</plain>
+        </string>
+        <string>
+            <plain>Чтоб на Христа похожим быть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Чтоб мне дойти к престолу славы</plain>
+        </string>
+        <string>
+            <plain>И видеть Господа, как есть,</plain>
+        </string>
+        <string>
+            <plain>Себя отвергнуть нужно, дабы</plain>
+        </string>
+        <string>
+            <plain>Не отступила Божья весть.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2541" name="Воспрянь Христов народ" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспрянь, Христов народ!</plain>
+        </string>
+        <string>
+            <plain>Вперед смелей гляди!</plain>
+        </string>
+        <string>
+            <plain>Свой разум, волю, сердце,</plain>
+        </string>
+        <string>
+            <plain>жизнь - Иисусу посвяти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Воспрянь, Христов народ!</plain>
+        </string>
+        <string>
+            <plain>Заря уже взошла.</plain>
+        </string>
+        <string>
+            <plain>День братства смело возвещай,</plain>
+        </string>
+        <string>
+            <plain>Не бойся силы зла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Воспрянь, Христов народ!</plain>
+        </string>
+        <string>
+            <plain>На церковь мир глядит.</plain>
+        </string>
+        <string>
+            <plain>Великий труд ей предстоит,</plain>
+        </string>
+        <string>
+            <plain>Кто место в ней займет?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Славь подвиги Христа,</plain>
+        </string>
+        <string>
+            <plain>Всегда иди за Ним!</plain>
+        </string>
+        <string>
+            <plain>Все козни, хитрости врага</plain>
+        </string>
+        <string>
+            <plain>С Христом мы победим.</plain>
+        </string>
+    </verse>
+</song>

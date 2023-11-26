@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="54" name="Люди, люди, любящие Бога, в радости живут" canon="false" text="" textRus="Ю. Пастернака" music="М. Уотсон" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Люди, люди, любящие Бога, в радости живут.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Буду я искать Его и служить Ему всегда.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Жизнь мою вверяю Богу – Он ведет меня.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

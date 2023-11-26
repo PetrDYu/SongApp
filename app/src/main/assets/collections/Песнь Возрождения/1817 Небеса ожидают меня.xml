@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1817" name="Небеса ожидают меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небеса ожидают меня,</plain>
+        </string>
+        <string>
+            <plain>Радость ждет неземная меня,</plain>
+        </string>
+        <string>
+            <plain>Будет встреча с Иисусом Христом,</plain>
+        </string>
+        <string>
+            <plain>С Святым Духом, с Небесным Отцом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И венец, ну, конечно, венец,</plain>
+        </string>
+        <string>
+            <plain>Тот, что мне приготовил Отец.</plain>
+        </string>
+        <string>
+            <plain>И венец, ну, конечно, венец.</plain>
+        </string>
+        <string>
+            <plain>Тот, что мне приготовил Отец.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Город ждет неземной красоты,</plain>
+        </string>
+        <string>
+            <plain>Всюду ангелы, всюду цветы,</plain>
+        </string>
+        <string>
+            <plain>Лица милых, родных мне друзей.</plain>
+        </string>
+        <string>
+            <plain>И Спаситель стоит у дверей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будет встреча с Иоанном, Петром,</plain>
+        </string>
+        <string>
+            <plain>И святых без числа целый сонм,</plain>
+        </string>
+        <string>
+            <plain>Подойдут и обнимут меня.</plain>
+        </string>
+        <string>
+            <plain>Радость ждет неземная меня.</plain>
+        </string>
+    </verse>
+</song>

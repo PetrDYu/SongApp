@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="170" name="В тени крыл Его святых" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Отдых душ людских;</plain>
+        </string>
+        <string>
+            <plain>Отдых ближних, отдых дальних</plain>
+        </string>
+        <string>
+            <plain>От трудов и дней печальных.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Отдых душ людских.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Отдых душ людских.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отдых душ (покой),</plain>
+        </string>
+        <string>
+            <plain>Сладкий мир, мир,</plain>
+        </string>
+        <string>
+            <plain>Радость душ (радость)</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Мир для душ людских,</plain>
+        </string>
+        <string>
+            <plain>Вечный мир непроходящий,</plain>
+        </string>
+        <string>
+            <plain>Мир, наш ум превосходящий.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Мир для душ людских.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Мир для душ людских.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Радость душ людских;</plain>
+        </string>
+        <string>
+            <plain>Радость вести искупленья,</plain>
+        </string>
+        <string>
+            <plain>Радость славы, просветленья.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Радость душ людских.</plain>
+        </string>
+        <string>
+            <plain>В тени крыл Его святых</plain>
+        </string>
+        <string>
+            <plain>Радость душ людских.</plain>
+        </string>
+    </verse>
+</song>

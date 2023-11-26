@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="455" name="Боже предстали по воле Твоей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, предстали по воле Твоей</plain>
+        </string>
+        <string>
+            <plain>Ныне с невестой жених пред Тобой:</plain>
+        </string>
+        <string>
+            <plain>Вместе решают пройти путь земной,</plain>
+        </string>
+        <string>
+            <plain>Благослови Ты союз их святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, возложи, Боже, руку на них,</plain>
+        </string>
+        <string>
+            <plain>В жизни держаться путей дай Твоих;</plain>
+        </string>
+        <string>
+            <plain>О Боже, мы их приносим в мольбе,</plain>
+        </string>
+        <string>
+            <plain>Сам Ты пребудь с ними в жизни везде.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизни совместной для них будет путь,</plain>
+        </string>
+        <string>
+            <plain>Ближе, о Боже, всегда к ним пребудь;</plain>
+        </string>
+        <string>
+            <plain>В радости, скорби, печали, труде</plain>
+        </string>
+        <string>
+            <plain>Пусть мысли, чувства их будут одни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Боже, дай, чтобы в жизни сердца</plain>
+        </string>
+        <string>
+            <plain>Были друг другу верны до конца;</plain>
+        </string>
+        <string>
+            <plain>Чтоб не прервался союз их святой,</plain>
+        </string>
+        <string>
+            <plain>Сам Ты веди их до цели благой.</plain>
+        </string>
+    </verse>
+</song>

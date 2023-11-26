@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="471" name="Я попирал любовь Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я попирал любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>Был чадом тьмы, рабом страстей,</plain>
+        </string>
+        <string>
+            <plain>Но надо мной была звезда –</plain>
+        </string>
+        <string>
+            <plain>Молитвы матери моей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иду к Отцу, иду домой</plain>
+        </string>
+        <string>
+            <plain>Иную жизнь начать скорей;</plain>
+        </string>
+        <string>
+            <plain>Я знаю: всюду шли за мной</plain>
+        </string>
+        <string>
+            <plain>Молитвы матери моей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В стране родной, в чужом краю,</plain>
+        </string>
+        <string>
+            <plain>От разных бед, от злых людей</plain>
+        </string>
+        <string>
+            <plain>Остерегали жизнь мою</plain>
+        </string>
+        <string>
+            <plain>Молитвы матери моей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь изгнал из сердца тьму,</plain>
+        </string>
+        <string>
+            <plain>Христос мне стал всего милей,</plain>
+        </string>
+        <string>
+            <plain>Но привлекли меня к Нему</plain>
+        </string>
+        <string>
+            <plain>Молитвы матери моей.</plain>
+        </string>
+    </verse>
+</song>

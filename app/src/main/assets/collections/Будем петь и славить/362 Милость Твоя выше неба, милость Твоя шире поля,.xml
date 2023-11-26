@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="362" name="Милость Твоя выше неба, милость Твоя шире поля," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Милость Твоя выше неба, милость Твоя шире поля,</plain>
+        </string>
+        <string>
+            <plain>Милость Твоя глубже моря, милость Твоя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радость Твоя…</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слава Твоя…</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любовь Твоя…</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Движения: 1. Поднять руки вверх; 2. Развести руки в стороны;</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дотронутся руками до пола; 4. Выпрямиться.</plain>
+        </string>
+    </verse>
+</song>

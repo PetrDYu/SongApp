@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1159" name="На небе я так много хотел бы увидать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На небе я так много хотел бы увидать</plain>
+        </string>
+        <string>
+            <plain>- Обрадует там сердце красота.</plain>
+        </string>
+        <string>
+            <plain>Окончив жизнь земную, я приду на небеса,</plain>
+        </string>
+        <string>
+            <plain>И первым увидать хочу Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я первым увидать хочу Христа,</plain>
+        </string>
+        <string>
+            <plain>- Какое счастье будет мне тогда.</plain>
+        </string>
+        <string>
+            <plain>В молитве я склонюсь пред</plain>
+        </string>
+        <string>
+            <plain>Тем, Кто мне Себя отдал...</plain>
+        </string>
+        <string>
+            <plain>Я первым увидать хочу Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Увижу там друзей, в небесном том краю,</plain>
+        </string>
+        <string>
+            <plain>И многих, что придут со мной туда.</plain>
+        </string>
+        <string>
+            <plain>Увижу белоснежный трон в сияньи неземном,</plain>
+        </string>
+        <string>
+            <plain>Но первым увидать хочу Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мои глаза увидят там жемчужные врата,</plain>
+        </string>
+        <string>
+            <plain>И ангелов святой небесный дом,</plain>
+        </string>
+        <string>
+            <plain>- Там ждут меня друзья уже давным-давно.</plain>
+        </string>
+        <string>
+            <plain>Но первым увидать хочу Христа!</plain>
+        </string>
+    </verse>
+</song>

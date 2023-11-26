@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1879" name="Господу честь и хваление" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господу честь и хваление!</plain>
+        </string>
+        <string>
+            <plain>Богу слава на небе и на земле.</plain>
+        </string>
+        <string>
+            <plain>Людям мир, благоволение.</plain>
+        </string>
+        <string>
+            <plain>Пой вся Земля и Небеса хвалу Ему,</plain>
+        </string>
+        <string>
+            <plain>Воспевай вся Земля Христа Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Воспевай и прославляй Царя царей!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Свят Господь! Дивны дела Его.</plain>
+        </string>
+        <string>
+            <plain>Мир искупил, людям явил милость Свою.</plain>
+        </string>
+        <string>
+            <plain>Господу честь и хваление.</plain>
+        </string>
+        <string>
+            <plain>Богу слава на небе и на земле.</plain>
+        </string>
+        <string>
+            <plain>Людям мир, благоволение.</plain>
+        </string>
+        <string>
+            <plain>Пой вся Земля и Небеса хвалу Ему.</plain>
+        </string>
+        <string>
+            <plain>Господу сил слава вовек, честь и хвала!</plain>
+        </string>
+        <string>
+            <plain>Величают Небеса и Земля.</plain>
+        </string>
+    </verse>
+</song>

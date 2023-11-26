@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1640" name="Я стою пред Тобой словно нищий на паперти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я стою пред Тобой, словно нищий на паперти,</plain>
+        </string>
+        <string>
+            <plain>В подаяние жду кроху вечной любви.</plain>
+        </string>
+        <string>
+            <plain>Не о многом прошу, мне бы самую капельку</plain>
+        </string>
+        <string>
+            <plain>Благодати прощенья в Христовой крови.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я стою у дверей на пороге спасенья</plain>
+        </string>
+        <string>
+            <plain>В одеянии бедном, в лохмотьях греха.</plain>
+        </string>
+        <string>
+            <plain>Жизнь моя отшумела, как буря осенняя.</plain>
+        </string>
+        <string>
+            <plain>Протекла в темноте, как ночная река.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Расточившему все в храм войти нет решимости,</plain>
+        </string>
+        <string>
+            <plain>Мне ли, грязному, встать у святых алтарей?!</plain>
+        </string>
+        <string>
+            <plain>Приглашения жду, незаслуженной милости,</plain>
+        </string>
+        <string>
+            <plain>Как вернувшийся сын у отцовских дверей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лишь один только шаг между мною и вечностью,</plain>
+        </string>
+        <string>
+            <plain>Лишь один только шаг в приоткрытую дверь.</plain>
+        </string>
+        <string>
+            <plain>О, как трудно решить всю судьбу этим вечером.</plain>
+        </string>
+        <string>
+            <plain>О, как нужно решиться на это теперь.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Бедный, нищий, стоишь ты в преддверии вечности,</plain>
+        </string>
+        <string>
+            <plain>Разве мало тебе в твоей жизни потерь?</plain>
+        </string>
+        <string>
+            <plain>Бедный, нищий, не жди, но со всею поспешностью</plain>
+        </string>
+        <string>
+            <plain>Обратись ко Христу, и в спасенье поверь.</plain>
+        </string>
+    </chorus>
+</song>

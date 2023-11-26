@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="338" name="Радости голос звучит в Иудее," canon="false" text="Шломо Карлибаха" textRus="Ю. Пастернака" music="Шломо Карлибаха" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Радости голос звучит в Иудее,</plain>
+        </string>
+        <string>
+            <plain>Радости голос звучит в Иудее и на камнях Иерусалима.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Голос радости звучит на земле Иуды и на перекрестках,</plain>
+        </string>
+        <string>
+            <plain>На перекрестках Иерусалима.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Слышен голос жениха, и невесты слышен голос.</plain>
+        </string>
+        <string>
+            <plain>Слышен голос жениха и невесты голос.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>О́Д ЙИШАМА́ БЭ-АРЭ́Й ЕУДА́</plain>
+        </string>
+        <string>
+            <plain>О́Д ЙИШАМА́ БЭ-АРЭ́Й ЕУДА́</plain>
+        </string>
+        <string>
+            <plain>У-ВЭ-ХУЦО́Т ЙЕРУШАЛА́ИМ</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>О́Д ЙИ́ШАМА́ БЭ́-АРЭЙ ЕУ́ДА́</plain>
+        </string>
+        <string>
+            <plain>У́-ВЭ-ХУЦО́Т У-ВЭ-ХУЦО́Т ЙЕРУШАЛА́ИМ</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>КОЛЬ САСО́Н ВЭ-КО́ЛЬ СИМХА́</plain>
+        </string>
+        <string>
+            <plain>КОЛЬ ХАТА́Н ВЭ-КО́ЛЬ КАЛА́</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

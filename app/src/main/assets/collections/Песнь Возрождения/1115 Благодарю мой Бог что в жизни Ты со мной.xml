@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1115" name="Благодарю мой Бог что в жизни Ты со мной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю, мой Бог, что в жизни Ты со мной.</plain>
+        </string>
+        <string>
+            <plain>Много путей, дорог, но я иду тропой.</plain>
+        </string>
+        <string>
+            <plain>Знаю, тропа моя всюду тернистая.</plain>
+        </string>
+        <string>
+            <plain>Только прошу Тебя: Ты сохрани меня!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если печаль порой легла в душе моей,</plain>
+        </string>
+        <string>
+            <plain>Слышу я голос Твой чрез голоса друзей.</plain>
+        </string>
+        <string>
+            <plain>Если любовь горит - Бога любовь хранит:</plain>
+        </string>
+        <string>
+            <plain>Мне хорошо одной, когда Господь со мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодарю, мой Бог, всех зовешь, любя,</plain>
+        </string>
+        <string>
+            <plain>Если бы каждый смог послушаться Тебя.</plain>
+        </string>
+        <string>
+            <plain>Благодарю, мой Бог, что Ты всегда со мной -</plain>
+        </string>
+        <string>
+            <plain>Много путей, дорог, но я иду с Тобой!</plain>
+        </string>
+    </verse>
+</song>

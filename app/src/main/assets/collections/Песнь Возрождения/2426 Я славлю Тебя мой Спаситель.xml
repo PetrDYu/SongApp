@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2426" name="Я славлю Тебя мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я славлю Тебя, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>За данный Тобою мне труд.</plain>
+        </string>
+        <string>
+            <plain>Хочу я, как верный служитель,</plain>
+        </string>
+        <string>
+            <plain>В труде совершать земной путь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, доколе сердце бьётся,</plain>
+        </string>
+        <string>
+            <plain>Буду петь я Богу моему (3 р.).</plain>
+        </string>
+        <string>
+            <plain>Да, песнь Богу пусть польется,</plain>
+        </string>
+        <string>
+            <plain>Слава Богу моему,</plain>
+        </string>
+        <string>
+            <plain>Слава пусть польется Богу моему.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я славлю Тебя, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ты спас меня кровью Своей.</plain>
+        </string>
+        <string>
+            <plain>Единый лишь Ты Победитель,</plain>
+        </string>
+        <string>
+            <plain>Рассеявший тучи скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я славлю Тебя, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>За данный Тобою мне труд.</plain>
+        </string>
+        <string>
+            <plain>Веди же меня Ты в Обитель,</plain>
+        </string>
+        <string>
+            <plain>В тот Край, где смогу отдохнуть.</plain>
+        </string>
+    </verse>
+</song>

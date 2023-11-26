@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3137" name="В погибель широким путём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В погибель широким путём</plain>
+        </string>
+        <string>
+            <plain>многие ныне спешат -</plain>
+        </string>
+        <string>
+            <plain>им весть принесите о том,</plain>
+        </string>
+        <string>
+            <plain>что грех их Иисусом распят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К Богу, о к Богу заблудших веди,</plain>
+        </string>
+        <string>
+            <plain>весть о Христе им неси!</plain>
+        </string>
+        <string>
+            <plain>Слушай, как стонут они!</plain>
+        </string>
+        <string>
+            <plain>О, к Богу заблудших веди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Есть страны за далью морей,</plain>
+        </string>
+        <string>
+            <plain>душ много гибнущих в нихих</plain>
+        </string>
+        <string>
+            <plain>грех взял Иисус Назорей</plain>
+        </string>
+        <string>
+            <plain>и умер в страданьях за них.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если ты встретишь в пути</plain>
+        </string>
+        <string>
+            <plain>сердце от Бога вдали,</plain>
+        </string>
+        <string>
+            <plain>скажи ему весть о любви</plain>
+        </string>
+        <string>
+            <plain>и к Богу заблудших веди.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Идите по миру всему,</plain>
+        </string>
+        <string>
+            <plain>Слово несите везде,</plain>
+        </string>
+        <string>
+            <plain>чтоб те, кто от Бога далёк,</plain>
+        </string>
+        <string>
+            <plain>услышали весть о Христе!</plain>
+        </string>
+    </verse>
+</song>

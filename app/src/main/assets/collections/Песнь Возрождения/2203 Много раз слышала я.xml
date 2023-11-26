@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2203" name="Много раз слышала я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много раз слышала я</plain>
+        </string>
+        <string>
+            <plain>О красоте небес,</plain>
+        </string>
+        <string>
+            <plain>Где все ангелы славят Христа,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он был, будет и есть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И я славлю Тебя</plain>
+        </string>
+        <string>
+            <plain>За Твой мир и Твой покой.</plain>
+        </string>
+        <string>
+            <plain>В Городе том, где нету зла,</plain>
+        </string>
+        <string>
+            <plain>Я знаю, будем с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И сейчас я вижу Христа,</plain>
+        </string>
+        <string>
+            <plain>Озаренного светом небес.</plain>
+        </string>
+        <string>
+            <plain>Он в сиянии славы</plain>
+        </string>
+        <string>
+            <plain>Отца Умирал за всех, но воскрес.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если ты не знаешь любви,</plain>
+        </string>
+        <string>
+            <plain>Что дал тебе Отец,</plain>
+        </string>
+        <string>
+            <plain>В сердце ты Его прими,</plain>
+        </string>
+        <string>
+            <plain>И будешь в славе небес.</plain>
+        </string>
+    </verse>
+</song>

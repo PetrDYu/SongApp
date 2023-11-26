@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="487" name="Дух Святой, приди, Дух Святой, наполни," canon="false" text="Р. Исмаилова" textRus="" music="Р. Исмаилова" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, приди, Дух Святой, наполни,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, открой нам небеса,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Красоту Христа, чистоту и святость,</plain>
+        </string>
+        <string>
+            <plain>И любовь Небесного Отца.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он оставил небо и пришел на землю,</plain>
+        </string>
+        <string>
+            <plain>Чтоб спасти мир грешный и врагов.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>На кресте страдая, Он просил</plain>
+        </string>
+        <string>
+            <plain>И Отец услышал глас Его.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А когда воскрес Он и взошел на небо,</plain>
+        </string>
+        <string>
+            <plain>То послал Свой Дух ученикам.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И они все вместе возвещали миру</plain>
+        </string>
+        <string>
+            <plain>О великих Божьих делах.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А теперь Он в церкви всем единство дарит.</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, наполни нам сердца!</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>И в единстве Духа и союзе мира</plain>
+        </string>
+        <string>
+            <plain>Да прославят все уста Христа!</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

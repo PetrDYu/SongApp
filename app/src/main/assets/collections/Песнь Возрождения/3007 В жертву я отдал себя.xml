@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3007" name="В жертву я отдал себя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В жертву я отдал себя,</plain>
+        </string>
+        <string>
+            <plain>чтобы жить лишь для Тебя.</plain>
+        </string>
+        <string>
+            <plain>Ты, Господь, меня веди:</plain>
+        </string>
+        <string>
+            <plain>в мире я хочу светить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На Твой я зов, Господь, иду:</plain>
+        </string>
+        <string>
+            <plain>я весь отныне Твой.</plain>
+        </string>
+        <string>
+            <plain>Служить прилежно я хочу:</plain>
+        </string>
+        <string>
+            <plain>я весь навеки Твой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отдаю Тебе я всё;</plain>
+        </string>
+        <string>
+            <plain>душу, тело и добро,</plain>
+        </string>
+        <string>
+            <plain>вся моя судьба Твоя;</plain>
+        </string>
+        <string>
+            <plain>Боже, Ты веди меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть не всё понять могу,</plain>
+        </string>
+        <string>
+            <plain>всё же я идти хочу узким,</plain>
+        </string>
+        <string>
+            <plain>праведным путём к родине,</plain>
+        </string>
+        <string>
+            <plain>в Отцовский дом.</plain>
+        </string>
+    </verse>
+</song>

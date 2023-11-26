@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2013" name="Бог зовет тебя голосом истины" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог зовет тебя голосом истины.</plain>
+        </string>
+        <string>
+            <plain>Призыв этот ты в детстве слыхал.</plain>
+        </string>
+        <string>
+            <plain>Хочет Он, чтобы ярко и искренне</plain>
+        </string>
+        <string>
+            <plain>Твой алтарь для Него полыхал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На пути будут ветры гонений,</plain>
+        </string>
+        <string>
+            <plain>И затишье как мель и обман,</plain>
+        </string>
+        <string>
+            <plain>И подводные камни сомнений,</plain>
+        </string>
+        <string>
+            <plain>И неверья гнетущий туман.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Без Христа мир пронзающе холоден,</plain>
+        </string>
+        <string>
+            <plain>И его обещанья пусты.</plain>
+        </string>
+        <string>
+            <plain>Ах, как важно бесценную молодость</plain>
+        </string>
+        <string>
+            <plain>По святому направить пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В состоянии сына заблудшего</plain>
+        </string>
+        <string>
+            <plain>Отыщи Вифлеема звезду,</plain>
+        </string>
+        <string>
+            <plain>И промолви, любовью разбуженный:</plain>
+        </string>
+        <string>
+            <plain>"Я иду, Иисус, иду".</plain>
+        </string>
+    </verse>
+</song>

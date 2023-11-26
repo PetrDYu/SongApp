@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1202" name="Я овца Господня стада и тернистою тропой Я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я - овца Господня стада, и тернистою тропой Я</plain>
+        </string>
+        <string>
+            <plain>иду чрез все преграды в чудный радостный покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, веди меня, Спаситель, чудной пажитью святой</plain>
+        </string>
+        <string>
+            <plain>В вечной радости обитель - Пусть вовек я буду Твой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ночь греха вокруг сгустилась, ураган кругом ревет,</plain>
+        </string>
+        <string>
+            <plain>Но надежда пробудилась, - Пастырь добрый бережет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На пути тернистом, узком сам я падаю в борьбе.</plain>
+        </string>
+        <string>
+            <plain>Но, взирая на Иисуса, силу чувствую в себе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Братья, сестры, ободримся, будем овцами Христа.</plain>
+        </string>
+        <string>
+            <plain>Пусть ведет нас добрый Пастырь в вечной радости края.</plain>
+        </string>
+    </verse>
+</song>

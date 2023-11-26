@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2731" name="Моя заветная мечта" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Моя заветная мечта:</plain>
+        </string>
+        <string>
+            <plain>Увидеть небо над Едемом,</plain>
+        </string>
+        <string>
+            <plain>И там остаться навсегда,</plain>
+        </string>
+        <string>
+            <plain>В чудесной родине Адама.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Небо Едема, ты - моя песня,</plain>
+        </string>
+        <string>
+            <plain>Небо Едема - сегодня мечта,</plain>
+        </string>
+        <string>
+            <plain>Самая светлая, самая нежная,</plain>
+        </string>
+        <string>
+            <plain>В жизни моей одна.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Молю Тебя, Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Верни мне небо над Едемом</plain>
+        </string>
+        <string>
+            <plain>И дай войти мне в тот покой,</plain>
+        </string>
+        <string>
+            <plain>Где смог бы стать я совершенным.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Услышь меня, Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Верни мне небо над Едемом,</plain>
+        </string>
+        <string>
+            <plain>Где вечно буду я с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Тебе служить я буду вечно.</plain>
+        </string>
+    </verse>
+</song>

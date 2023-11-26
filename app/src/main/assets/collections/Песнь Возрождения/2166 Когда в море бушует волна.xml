@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2166" name="Когда в море бушует волна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда в море бушует волна,</plain>
+        </string>
+        <string>
+            <plain>ветер рвёт твои паруса</plain>
+        </string>
+        <string>
+            <plain>И бессмысленной стала борьба, спой тогда...</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Ты моя скала,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты живая вода,</plain>
+        </string>
+        <string>
+            <plain>И Голгофа - завет в Крови, верен Ты.</plain>
+        </string>
+        <string>
+            <plain>Упованье моё и покой,</plain>
+        </string>
+        <string>
+            <plain>я однажды вернусь домой,</plain>
+        </string>
+        <string>
+            <plain>И услышу Твои слова: Ждал Я тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В нашей жизни любая беда,</plain>
+        </string>
+        <string>
+            <plain>словно в море крутая волна</plain>
+        </string>
+        <string>
+            <plain>Губит тех, кто бросил грести</plain>
+        </string>
+        <string>
+            <plain>А свой крест нести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Укрепившись любовью Отца,</plain>
+        </string>
+        <string>
+            <plain>веря в жертву Иисуса Христа,</plain>
+        </string>
+        <string>
+            <plain>Силой Духа Святого крестя, спой тогда...</plain>
+        </string>
+    </verse>
+</song>

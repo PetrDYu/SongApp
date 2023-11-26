@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2467" name="Делай лучшее что можешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Делай лучшее, что можешь,</plain>
+        </string>
+        <string>
+            <plain>Труд любви свершай,</plain>
+        </string>
+        <string>
+            <plain>Делай, Бог тебе поможет,</plain>
+        </string>
+        <string>
+            <plain>Время не теряй.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Делай свято, и все сердце</plain>
+        </string>
+        <string>
+            <plain>К делу прилагай.</plain>
+        </string>
+        <string>
+            <plain>Отдохнешь в краю заветном,</plain>
+        </string>
+        <string>
+            <plain>время не теряй.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Делай дело, а о плате</plain>
+        </string>
+        <string>
+            <plain>Меньше рассуждай,</plain>
+        </string>
+        <string>
+            <plain>Что заслужишь, то получишь,</plain>
+        </string>
+        <string>
+            <plain>Время не теряй.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Делай, Господа Иисуса</plain>
+        </string>
+        <string>
+            <plain>Делом прославляй,</plain>
+        </string>
+        <string>
+            <plain>Скоро Он придет во славе,</plain>
+        </string>
+        <string>
+            <plain>Время не теряй.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Делай, опыт научает</plain>
+        </string>
+        <string>
+            <plain>Как преуспевать,</plain>
+        </string>
+        <string>
+            <plain>А Господь повелевает</plain>
+        </string>
+        <string>
+            <plain>Время не терять.</plain>
+        </string>
+    </verse>
+</song>

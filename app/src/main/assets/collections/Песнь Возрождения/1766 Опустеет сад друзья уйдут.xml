@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1766" name="Опустеет сад друзья уйдут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Опустеет сад, друзья уйдут,</plain>
+        </string>
+        <string>
+            <plain>Музыка утонет в тишине,</plain>
+        </string>
+        <string>
+            <plain>Но найдите несколько минут</plain>
+        </string>
+        <string>
+            <plain>Со Христом побыть наедине.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Брачные мгновенья позади...</plain>
+        </string>
+        <string>
+            <plain>Искренней пусть молится душа:</plain>
+        </string>
+        <string>
+            <plain>"Господи, Ты с нами Сам иди.</plain>
+        </string>
+        <string>
+            <plain>Дай Тобой одним дышать!".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И растают контуры проблем.</plain>
+        </string>
+        <string>
+            <plain>Будет счастье вам смотреть в глаза,</plain>
+        </string>
+        <string>
+            <plain>"Слава Богу! - будет слышно всем.</plain>
+        </string>
+        <string>
+            <plain>- Нам обилье дарят небеса".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скорбь когда приблизится, как тать,</plain>
+        </string>
+        <string>
+            <plain>И рука смахнет не раз слезу</plain>
+        </string>
+        <string>
+            <plain>- Силен Бог  Своих благословлять</plain>
+        </string>
+        <string>
+            <plain>В благодатный день, как и в грозу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Опустеет сад, друзья уйдут.</plain>
+        </string>
+        <string>
+            <plain>Музыка утонет в тишине...</plain>
+        </string>
+        <string>
+            <plain>Ваш суровый жизненный маршрут</plain>
+        </string>
+        <string>
+            <plain>Вы доверьте Господу вполне.</plain>
+        </string>
+    </verse>
+</song>

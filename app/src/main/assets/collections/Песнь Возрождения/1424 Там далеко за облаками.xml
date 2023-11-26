@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1424" name="Там далеко за облаками" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Там далеко, за облаками...</plain>
+        </string>
+        <string>
+            <plain>Встретит меня Иисус.</plain>
+        </string>
+        <string>
+            <plain>Нежно обнимет Своими руками,</plain>
+        </string>
+        <string>
+            <plain>С Ним я навеки сольюсь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А пока живу я в мире странником</plain>
+        </string>
+        <string>
+            <plain>И с тоской смотрю на небеса,</plain>
+        </string>
+        <string>
+            <plain>С небом связаны мои желания,</plain>
+        </string>
+        <string>
+            <plain>С небом связана моя судьба.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мне распахнут райские двери,</plain>
+        </string>
+        <string>
+            <plain>Радостно скажут: "Входи!"</plain>
+        </string>
+        <string>
+            <plain>Все это будет, свято я верю,</plain>
+        </string>
+        <string>
+            <plain>Но это лишь впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там навсегда скорби забуду,</plain>
+        </string>
+        <string>
+            <plain>В небе улыбка царит,</plain>
+        </string>
+        <string>
+            <plain>Там с Иисусом вечно я буду</plain>
+        </string>
+        <string>
+            <plain>В сладком общении жить.</plain>
+        </string>
+    </verse>
+</song>

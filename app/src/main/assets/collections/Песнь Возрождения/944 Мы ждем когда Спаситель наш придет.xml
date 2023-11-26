@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="944" name="Мы ждем когда Спаситель наш придет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы ждем, когда Спаситель наш придет,</plain>
+        </string>
+        <string>
+            <plain>Мы ждем, когда Спаситель наш придет,</plain>
+        </string>
+        <string>
+            <plain>Мы ждем, когда Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ждем, когда Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ждем, когда Спаситель наш придет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ему мы аллилуйя воспоем,</plain>
+        </string>
+        <string>
+            <plain>Ему мы аллилуйя воспоем,</plain>
+        </string>
+        <string>
+            <plain>Ему мы аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Ему мы аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Ему мы аллилуйя воспоем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы все Его здесь встретим на пути,</plain>
+        </string>
+        <string>
+            <plain>Мы все Его здесь встретим на пути,</plain>
+        </string>
+        <string>
+            <plain>Мы все Его здесь встретим,</plain>
+        </string>
+        <string>
+            <plain>Все Его здесь встретим,</plain>
+        </string>
+        <string>
+            <plain>Все Его здесь встретим на пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О грешник, устоишь ли на пути?</plain>
+        </string>
+        <string>
+            <plain>О грешник, устоишь ли на пути?</plain>
+        </string>
+        <string>
+            <plain>О грешник, устоишь ли?</plain>
+        </string>
+        <string>
+            <plain>Грешник, устоишь ли?</plain>
+        </string>
+        <string>
+            <plain>Грешник, устоишь ли на пути?</plain>
+        </string>
+    </verse>
+</song>

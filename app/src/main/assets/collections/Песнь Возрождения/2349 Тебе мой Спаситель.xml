@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2349" name="Тебе мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебе, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>мой Царь и мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Хвалу приношу свою,</plain>
+        </string>
+        <string>
+            <plain>за то, что Ты кровь</plain>
+        </string>
+        <string>
+            <plain>Проливал на Кресте,</plain>
+        </string>
+        <string>
+            <plain>Тебя я благодарю.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, услышь молитву мою,</plain>
+        </string>
+        <string>
+            <plain>В горе и счастье к Тебе прихожу.</plain>
+        </string>
+        <string>
+            <plain>Знаю, поможешь Ты в трудный час</plain>
+        </string>
+        <string>
+            <plain>И дашь покой в родных небесах.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть вся земля и все люди на ней</plain>
+        </string>
+        <string>
+            <plain>Славят Тебя везде пеньем,</plain>
+        </string>
+        <string>
+            <plain>радостью, счастьем в душе,</plain>
+        </string>
+        <string>
+            <plain>Путь направляя к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Честь и хвала, аллилуйя вовек,</plain>
+        </string>
+        <string>
+            <plain>Будем Тебе мы петь,</plain>
+        </string>
+        <string>
+            <plain>Ты любишь кротко и нежно всех,</plain>
+        </string>
+        <string>
+            <plain>Слава Тебе вовек.</plain>
+        </string>
+    </verse>
+</song>

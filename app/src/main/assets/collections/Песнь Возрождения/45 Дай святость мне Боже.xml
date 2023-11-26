@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="45" name="Дай святость мне Боже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дай святость мне, Боже,</plain>
+        </string>
+        <string>
+            <plain>Дай кротость, Твой страх,</plain>
+        </string>
+        <string>
+            <plain>Дай твердость в страданьях,</plain>
+        </string>
+        <string>
+            <plain>Дай плач о грехах!</plain>
+        </string>
+        <string>
+            <plain>Умножь в Христа веру</plain>
+        </string>
+        <string>
+            <plain>И чувство к Нему,</plain>
+        </string>
+        <string>
+            <plain>Дай радость в молитве</plain>
+        </string>
+        <string>
+            <plain>И в службе Ему!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай мне благодарность</plain>
+        </string>
+        <string>
+            <plain>В надежде всего,</plain>
+        </string>
+        <string>
+            <plain>Дай веровать в славу</plain>
+        </string>
+        <string>
+            <plain>И в слово Его.</plain>
+        </string>
+        <string>
+            <plain>С Ним в горе, страданьях</plain>
+        </string>
+        <string>
+            <plain>Дай слезы, чтоб я,</plain>
+        </string>
+        <string>
+            <plain>Смирясь в испытаньях,</plain>
+        </string>
+        <string>
+            <plain>Прославил Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай чистое сердце</plain>
+        </string>
+        <string>
+            <plain>И дух правый мне,</plain>
+        </string>
+        <string>
+            <plain>Отбросив плотское,</plain>
+        </string>
+        <string>
+            <plain>Стремиться к Тебе!</plain>
+        </string>
+        <string>
+            <plain>Быть к царству готовым,</plain>
+        </string>
+        <string>
+            <plain>Мир, святость стяжать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб жизнью, делами</plain>
+        </string>
+        <string>
+            <plain>Тебе подражать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="616" name="Как скоро дни летят вперед" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как скоро дни летят вперед</plain>
+        </string>
+        <string>
+            <plain>Неслышной чередой!</plain>
+        </string>
+        <string>
+            <plain>Вот день один к концу идет,</plain>
+        </string>
+        <string>
+            <plain>Вот настает другой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Час за часом, день за днем</plain>
+        </string>
+        <string>
+            <plain>Мы к концу забот идем;</plain>
+        </string>
+        <string>
+            <plain>Вот последний час пробьет,</plain>
+        </string>
+        <string>
+            <plain>И Спаситель наш придет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто верил, уповал, любил</plain>
+        </string>
+        <string>
+            <plain>И пребывал с Христом,</plain>
+        </string>
+        <string>
+            <plain>Того Христос чрез мрак могил</plain>
+        </string>
+        <string>
+            <plain>Возьмет в Свой вечный дом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда пробьет и для меня</plain>
+        </string>
+        <string>
+            <plain>Последний час житья,</plain>
+        </string>
+        <string>
+            <plain>Где буду после обитать -</plain>
+        </string>
+        <string>
+            <plain>Мне дано Богом знать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>От сердца верю, верю я,</plain>
+        </string>
+        <string>
+            <plain>Что тот Господний зов</plain>
+        </string>
+        <string>
+            <plain>Не будет страшен для меня:</plain>
+        </string>
+        <string>
+            <plain>Я буду ввек Христов.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда настанет жданный миг</plain>
+        </string>
+        <string>
+            <plain>Расстаться мне с землей,</plain>
+        </string>
+        <string>
+            <plain>Ты вспомни между слуг Твоих</plain>
+        </string>
+        <string>
+            <plain>Спасенного Тобой.</plain>
+        </string>
+    </verse>
+</song>

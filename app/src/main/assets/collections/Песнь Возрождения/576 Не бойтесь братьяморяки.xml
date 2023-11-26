@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="576" name="Не бойтесь братьяморяки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не бойтесь, братья-моряки!</plain>
+        </string>
+        <string>
+            <plain>Хоть грозен бурный вал,</plain>
+        </string>
+        <string>
+            <plain>Но вот уж видны маяки</plain>
+        </string>
+        <string>
+            <plain>И свет их засиял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот видны уж берега,</plain>
+        </string>
+        <string>
+            <plain>Будет конец скорбям.</plain>
+        </string>
+        <string>
+            <plain>Друзья, пристанем скоро все</plain>
+        </string>
+        <string>
+            <plain>К небесным берегам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Страдали мы от бури злой</plain>
+        </string>
+        <string>
+            <plain>И от волны морской,</plain>
+        </string>
+        <string>
+            <plain>И смерть грозила нам не раз</plain>
+        </string>
+        <string>
+            <plain>В жестокий, бурный час.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И вот награда к нам близка:</plain>
+        </string>
+        <string>
+            <plain>У гавани покой;</plain>
+        </string>
+        <string>
+            <plain>Долой, унынье и тоска!</plain>
+        </string>
+        <string>
+            <plain>Возрадуйтесь душой!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сплотитесь, как одна семья,</plain>
+        </string>
+        <string>
+            <plain>Направьте паруса,</plain>
+        </string>
+        <string>
+            <plain>На берегу нас ждут друзья:</plain>
+        </string>
+        <string>
+            <plain>Уж слышны голоса.</plain>
+        </string>
+    </verse>
+</song>

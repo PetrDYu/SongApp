@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2694" name="Льется синий вечер над землею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Льется синий вечер над землею,</plain>
+        </string>
+        <string>
+            <plain>Тихо шелестит листва в саду.</plain>
+        </string>
+        <string>
+            <plain>Потрескивают свечи,</plain>
+        </string>
+        <string>
+            <plain>А мы сидим все вместе</plain>
+        </string>
+        <string>
+            <plain>И думы об одном, лишь об одном:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, дай нам сердце чистое,</plain>
+        </string>
+        <string>
+            <plain>как снега сибирские,</plain>
+        </string>
+        <string>
+            <plain>Горячее, как солнце над землей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бледный лунный свет проник в окошко,</plain>
+        </string>
+        <string>
+            <plain>Желтая завидует луна,</plain>
+        </string>
+        <string>
+            <plain>Как мы сидим все вместе,</plain>
+        </string>
+        <string>
+            <plain>Плечом к плечу, и песни</plain>
+        </string>
+        <string>
+            <plain>Поем лишь об одном, лишь об одном:</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пролетают мысли расстоянья,</plain>
+        </string>
+        <string>
+            <plain>Пролетают горы и моря</plain>
+        </string>
+        <string>
+            <plain>И видят, что все вместе</plain>
+        </string>
+        <string>
+            <plain>Сидят ,друзья и песню</plain>
+        </string>
+        <string>
+            <plain>Поют лишь об одном, лишь об одном:</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но пройдут те дни все безвозвратно,</plain>
+        </string>
+        <string>
+            <plain>Инеем покроет седина,</plain>
+        </string>
+        <string>
+            <plain>Но мы споем все вместе</plain>
+        </string>
+        <string>
+            <plain>Опять все ту же песню,</plain>
+        </string>
+        <string>
+            <plain>все ту же песню юности своей:</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1767" name="Пашешь паши с надеждою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пашешь - паши с надеждою,</plain>
+        </string>
+        <string>
+            <plain>Сеешь - с любовью сей,</plain>
+        </string>
+        <string>
+            <plain>С Божьей любовью нежною,</plain>
+        </string>
+        <string>
+            <plain>А не земной своей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Каждый свой шаг и слово</plain>
+        </string>
+        <string>
+            <plain>С волей Иисуса сверь,</plain>
+        </string>
+        <string>
+            <plain>В жизни - Он наша основа</plain>
+        </string>
+        <string>
+            <plain>В будущем, да и теперь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Просишь - проси лишь с верою.</plain>
+        </string>
+        <string>
+            <plain>Не сомневаясь в мольбе.</plain>
+        </string>
+        <string>
+            <plain>Меришь - такою ж мерою</plain>
+        </string>
+        <string>
+            <plain>Кто-то отмерит тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Делаешь - делай искренно.</plain>
+        </string>
+        <string>
+            <plain>Как бы ни тяжек был гнет.</plain>
+        </string>
+        <string>
+            <plain>Время рекою быстрою</plain>
+        </string>
+        <string>
+            <plain>К вечности нас несет.</plain>
+        </string>
+    </verse>
+</song>

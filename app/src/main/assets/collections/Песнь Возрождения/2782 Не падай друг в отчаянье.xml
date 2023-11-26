@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2782" name="Не падай друг в отчаянье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не падай, друг, в отчаянье,</plain>
+        </string>
+        <string>
+            <plain>Только надейся и верь;</plain>
+        </string>
+        <string>
+            <plain>Благость Господня с тобою,</plain>
+        </string>
+        <string>
+            <plain>Возьми Иисуса в пример.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не унывай, не унывай,</plain>
+        </string>
+        <string>
+            <plain>Не унывай средь печалей,</plain>
+        </string>
+        <string>
+            <plain>Лишь на Иисуса взирай</plain>
+        </string>
+        <string>
+            <plain>Верь лишь Ему</plain>
+        </string>
+        <string>
+            <plain>Среди всех бурь, испытаний,</plain>
+        </string>
+        <string>
+            <plain>Лишь на Иисуса взирай.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть бремя, всех тяжелее,</plain>
+        </string>
+        <string>
+            <plain>Жизнь удручает твою,</plain>
+        </string>
+        <string>
+            <plain>Взглянь на свой путь посветлее,</plain>
+        </string>
+        <string>
+            <plain>Бог облегчит скорбь твою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не падай, друг, в отчаянье,</plain>
+        </string>
+        <string>
+            <plain>С верой взирай на Христа;</plain>
+        </string>
+        <string>
+            <plain>В милости Божьей ставься</plain>
+        </string>
+        <string>
+            <plain>И пребывай в ней всегда.</plain>
+        </string>
+    </verse>
+</song>

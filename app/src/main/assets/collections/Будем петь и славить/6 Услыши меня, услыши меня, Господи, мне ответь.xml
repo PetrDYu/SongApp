@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="6" name="Услыши меня, услыши меня, Господи, мне ответь" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Услыши меня, услыши меня, Господи, мне ответь.</plain>
+        </string>
+        <string>
+            <plain>Услыши меня, услыши меня и молитву мою.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>O Lord hear my prayer, o Lord hear my prayer,</plain>
+        </string>
+        <string>
+            <plain>when I call answer me.</plain>
+        </string>
+        <string>
+            <plain>O Lord hear my prayer, o Lord hear my prayer,</plain>
+        </string>
+        <string>
+            <plain>come and listen to me.</plain>
+        </string>
+    </verse>
+</song>

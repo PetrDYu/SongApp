@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="191" name="Если б очи веры Боже" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если б очи веры, Боже,</plain>
+        </string>
+        <string>
+            <plain>На земле утратил я,</plain>
+        </string>
+        <string>
+            <plain>То надежды крылья все же</plain>
+        </string>
+        <string>
+            <plain>Принесли б к Тебе меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если б бросил за собою</plain>
+        </string>
+        <string>
+            <plain>Я надежду, как мечты,</plain>
+        </string>
+        <string>
+            <plain>То любовь была б со мною,</plain>
+        </string>
+        <string>
+            <plain>Ас любовью был бы Ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но когда б исчезла сила,</plain>
+        </string>
+        <string>
+            <plain>Дар любви Твоей святой,</plain>
+        </string>
+        <string>
+            <plain>Что бы бездну устранило</plain>
+        </string>
+        <string>
+            <plain>Между мною И Тобой?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жизни в вере и надежде</plain>
+        </string>
+        <string>
+            <plain>На земле прервется нить;</plain>
+        </string>
+        <string>
+            <plain>Но любовь теперь, как прежде,</plain>
+        </string>
+        <string>
+            <plain>И вовеки будет жить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1032" name="Средь ночного мрака в мире слышен крик" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Средь ночного мрака в мире слышен крик:</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+        <string>
+            <plain>Люди гибнут и настал последний миг.</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Свет спасенья всюду понесем.</plain>
+        </string>
+        <string>
+            <plain>Всюду, где греховный мрак царит.</plain>
+        </string>
+        <string>
+            <plain>Свет спасенья всюду понесем -</plain>
+        </string>
+        <string>
+            <plain>Пусть он в темноте горит.</plain>
+        </string>
+        <string>
+            <plain>Освещая путь в небесный дом,</plain>
+        </string>
+        <string>
+            <plain>Где любовь и мир царит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отовсюду слышен македонский крик:</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+        <string>
+            <plain>Кто вкусил от Божьих благ, пусть поспешит</plain>
+        </string>
+        <string>
+            <plain>Дать им свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так и в наши дни ужасна темнота.</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+        <string>
+            <plain>Миллионы грешных гибнут без Христа,</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>"Вы - свет миру!" - так Спаситель Сам сказал.</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+        <string>
+            <plain>Среди мрака Он светить нам приказал.</plain>
+        </string>
+        <string>
+            <plain>Дайте свет!</plain>
+        </string>
+    </verse>
+</song>

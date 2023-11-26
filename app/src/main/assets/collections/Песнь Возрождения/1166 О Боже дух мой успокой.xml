@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1166" name="О Боже дух мой успокой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Боже, дух мой успокой</plain>
+        </string>
+        <string>
+            <plain>От бури жизни суетной,</plain>
+        </string>
+        <string>
+            <plain>И в сердце сделай тишину.</plain>
+        </string>
+        <string>
+            <plain>Чтоб понял слов я глубину.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь, пошли мне благодать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мог всегда я возвещать</plain>
+        </string>
+        <string>
+            <plain>Всем людям смысл священных слов.</plain>
+        </string>
+        <string>
+            <plain>Чтоб был за них на все готов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И сделай, чтоб перед Тобой</plain>
+        </string>
+        <string>
+            <plain>Я верным был учеником,</plain>
+        </string>
+        <string>
+            <plain>Пока иду Твоим путем</plain>
+        </string>
+        <string>
+            <plain>В пустыне жизненной, земной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И дай войти туда с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Где уж учиться никогда</plain>
+        </string>
+        <string>
+            <plain>Не буду я, но где душой</plain>
+        </string>
+        <string>
+            <plain>Я возликую навсегда.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2329" name="Спустились на землю вечерние тени" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спустились на землю вечерние тени,</plain>
+        </string>
+        <string>
+            <plain>Над миром погасли дневные огни.</plain>
+        </string>
+        <string>
+            <plain>Господь, пред Тобой преклоняю колени,</plain>
+        </string>
+        <string>
+            <plain>Молю, возьми жизнь мою в руки Свои.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Над миром зловеще шумит непогода,</plain>
+        </string>
+        <string>
+            <plain>И призраком мрачным ночь смотрит в окно.</plain>
+        </string>
+        <string>
+            <plain>А сердце невольно сжимает тревога,</plain>
+        </string>
+        <string>
+            <plain>И больно и громко стучится оно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И шепчет лукавый из сумрака ночи</plain>
+        </string>
+        <string>
+            <plain>И душу туманит неверной тоской.</plain>
+        </string>
+        <string>
+            <plain>Приди же ко мне и закрой мои очи</plain>
+        </string>
+        <string>
+            <plain>И скорбное сердце моё успокой.</plain>
+        </string>
+    </verse>
+</song>

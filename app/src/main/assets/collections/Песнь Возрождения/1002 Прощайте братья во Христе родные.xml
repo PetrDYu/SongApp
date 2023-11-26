@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1002" name="Прощайте братья во Христе родные" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прощайте, братья, во Христе родные,</plain>
+        </string>
+        <string>
+            <plain>Быть может с вами мы в последний час.</plain>
+        </string>
+        <string>
+            <plain>Прощайте и вы, сестры дорогие,</plain>
+        </string>
+        <string>
+            <plain>Быть может больше нам не видеть вас.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радостно время мы здесь проводили,</plain>
+        </string>
+        <string>
+            <plain>Трудясь на ниве в этот славный час.</plain>
+        </string>
+        <string>
+            <plain>Радость и горе мы вместе делили,</plain>
+        </string>
+        <string>
+            <plain>Теперь настал час разлуки для нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Близкие наши все друзья, прощайте.</plain>
+        </string>
+        <string>
+            <plain>Помнить мы будем многие года.</plain>
+        </string>
+        <string>
+            <plain>Просим: и вы нас добром вспоминайте,</plain>
+        </string>
+        <string>
+            <plain>Память навеки да будет чиста.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Песнь вам прощальная теперь пропета,</plain>
+        </string>
+        <string>
+            <plain>Помните все, что сказали мы в ней.</plain>
+        </string>
+        <string>
+            <plain>Жизнь всех да будет любовью согрета,</plain>
+        </string>
+        <string>
+            <plain>Бог да хранит вас милостью Своей.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Скажем и недругам нашим: прощайте.</plain>
+        </string>
+        <string>
+            <plain>Вы нам вредили много-много раз.</plain>
+        </string>
+        <string>
+            <plain>Мы же вам прощаем, это твердо знайте.</plain>
+        </string>
+        <string>
+            <plain>Бог нам свидетель в этот славный час.</plain>
+        </string>
+    </verse>
+</song>

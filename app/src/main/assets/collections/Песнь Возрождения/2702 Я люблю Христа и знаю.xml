@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2702" name="Я люблю Христа и знаю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я люблю Христа и знаю,</plain>
+        </string>
+        <string>
+            <plain>Любит Он давно меня.</plain>
+        </string>
+        <string>
+            <plain>Песни я Ему слагаю,</plain>
+        </string>
+        <string>
+            <plain>Лишь о Нем поет душа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христа люблю, О Нем пою,</plain>
+        </string>
+        <string>
+            <plain>Союзом с Ним хвалюсь и дорожу.</plain>
+        </string>
+        <string>
+            <plain>Люблю Христа, Он жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>Он прежде возлюбил меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Всем бы людям рассказал я,</plain>
+        </string>
+        <string>
+            <plain>Как меня Он возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Прежде, чем Его узнал я,</plain>
+        </string>
+        <string>
+            <plain>За меня Он кровь пролил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Никогда не перестану</plain>
+        </string>
+        <string>
+            <plain>Воспевать любовь Христа.</plain>
+        </string>
+        <string>
+            <plain>Верю, я пред Ним предстану,</plain>
+        </string>
+        <string>
+            <plain>С Ним сольюся навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если вы, друзья, хотите</plain>
+        </string>
+        <string>
+            <plain>Быть счастливыми всегда,</plain>
+        </string>
+        <string>
+            <plain>Дар любви Христа примите.</plain>
+        </string>
+        <string>
+            <plain>Будут петь ваши уста.</plain>
+        </string>
+    </verse>
+</song>

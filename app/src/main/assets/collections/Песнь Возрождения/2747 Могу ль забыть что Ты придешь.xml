@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2747" name="Могу ль забыть что Ты придешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Могу ль забыть, что Ты придешь?</plain>
+        </string>
+        <string>
+            <plain>О нет, мой дух Тобою поли.</plain>
+        </string>
+        <string>
+            <plain>В тиши утра пою Тебе,</plain>
+        </string>
+        <string>
+            <plain>Взываю в пламенной мольбе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гряди, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>Мой Царь и мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Дай мне на страже сердца быть,</plain>
+        </string>
+        <string>
+            <plain>Дабы Тебя не пропустить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Могу ль, не ждав Тебя, терпеть?</plain>
+        </string>
+        <string>
+            <plain>О нет! С зарей на страже я,</plain>
+        </string>
+        <string>
+            <plain>Дабы Тебя не пропустить,</plain>
+        </string>
+        <string>
+            <plain>Свой взор ничем не заслонить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Могу ль мешаться с миром я?</plain>
+        </string>
+        <string>
+            <plain>Нет, нет в мир чудный Он зовет!</plain>
+        </string>
+        <string>
+            <plain>Лишь в Нем любовь и жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>Не нужно мне мирских забот.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="978" name="Отрада для меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отрада для меня!</plain>
+        </string>
+        <string>
+            <plain>Ликуй, душа моя!</plain>
+        </string>
+        <string>
+            <plain>Все это потому,</plain>
+        </string>
+        <string>
+            <plain>Что я служу Христу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мне радостно, светло.</plain>
+        </string>
+        <string>
+            <plain>Что удалилось зло.</plain>
+        </string>
+        <string>
+            <plain>- Все это потому.</plain>
+        </string>
+        <string>
+            <plain>Что я служу Христу!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как мне хорошо!</plain>
+        </string>
+        <string>
+            <plain>И мило мне так все,</plain>
+        </string>
+        <string>
+            <plain>- Все это потому,</plain>
+        </string>
+        <string>
+            <plain>Что я служу Христу!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, дай мне не забыть.</plain>
+        </string>
+        <string>
+            <plain>Все это оценить.</plain>
+        </string>
+        <string>
+            <plain>За все благодарить.</plain>
+        </string>
+        <string>
+            <plain>Что Ты соделал мне.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Источник мой, живи!</plain>
+        </string>
+        <string>
+            <plain>Господь - Спаситель мой,</plain>
+        </string>
+        <string>
+            <plain>Я знаю: Ты со мной!</plain>
+        </string>
+        <string>
+            <plain>Мне радостно с Тобой!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>И в скорби, и в нужде -</plain>
+        </string>
+        <string>
+            <plain>Поможешь мне везде.</plain>
+        </string>
+        <string>
+            <plain>Все счастье у Тебя!</plain>
+        </string>
+        <string>
+            <plain>Тобой спасенный я!</plain>
+        </string>
+    </verse>
+</song>

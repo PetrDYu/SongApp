@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="270" name="Пошли Господь сказать им" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пошли, Господь, сказать им</plain>
+        </string>
+        <string>
+            <plain>О Божьей ко всем любви:</plain>
+        </string>
+        <string>
+            <plain>Как послал Он Сына с неба,</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Снова и снова скажи,</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи</plain>
+        </string>
+        <string>
+            <plain>Ту чудную весть об Иисусе!</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пошли, Господь, сказать им</plain>
+        </string>
+        <string>
+            <plain>О Христовой ко всем любви:</plain>
+        </string>
+        <string>
+            <plain>Как сошел Он к людям с неба,</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пошли, Господь, сказать им</plain>
+        </string>
+        <string>
+            <plain>О Христом пролитой крови,</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, восшел на небо;</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пошли, Господь, сказать им</plain>
+        </string>
+        <string>
+            <plain>О спасенье Христом души,</plain>
+        </string>
+        <string>
+            <plain>О том, что живет Он в людях;</plain>
+        </string>
+        <string>
+            <plain>Снова и снова скажи!</plain>
+        </string>
+    </verse>
+</song>

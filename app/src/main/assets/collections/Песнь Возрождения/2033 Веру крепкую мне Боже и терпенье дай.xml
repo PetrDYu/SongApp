@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2033" name="Веру крепкую мне Боже и терпенье дай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Веру крепкую мне, Боже, и терпенье дай</plain>
+        </string>
+        <string>
+            <plain>И Святого Духа тоже в сердце посылай.</plain>
+        </string>
+        <string>
+            <plain>В Слове жизни разбираться помоги мне</plain>
+        </string>
+        <string>
+            <plain>Сам И ходить дай научиться по Твоим следам.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай, чтоб Слово Твоё, Боже, я любил всегда</plain>
+        </string>
+        <string>
+            <plain>И цевил его дороже слитков серебра;</plain>
+        </string>
+        <string>
+            <plain>Дай, чтоб только Твоё дело я, Господь, любил</plain>
+        </string>
+        <string>
+            <plain>И Тебе во славу смело жизни путь свершил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай мне, Боже, отречься в мире от всего,</plain>
+        </string>
+        <string>
+            <plain>Дай мне силы не страшиться в жизни ничего,</plain>
+        </string>
+        <string>
+            <plain>Дай, чтоб мог я Весть бляагую грешным возвещать</plain>
+        </string>
+        <string>
+            <plain>И на кровь Твою святую людям указать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3264" name="Братья просите дано вам будет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Братья, просите, дано вам будет:</plain>
+        </string>
+        <string>
+            <plain>сам Иисус печется о вас.</plain>
+        </string>
+        <string>
+            <plain>К Нему придите с сердцем разбитым,</plain>
+        </string>
+        <string>
+            <plain>помощь Он даст вам в тягостный час.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, поспешите, братья и сестры!</plain>
+        </string>
+        <string>
+            <plain>О, что за друг Господь наш в нужде!</plain>
+        </string>
+        <string>
+            <plain>Даст Он спасенье и утешенье,</plain>
+        </string>
+        <string>
+            <plain>помощь Он даст и мне, и тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, поспешите и не робейте,</plain>
+        </string>
+        <string>
+            <plain>сердце откройте, Он уже ждет.</plain>
+        </string>
+        <string>
+            <plain>Бремя свое к Нему принесите:</plain>
+        </string>
+        <string>
+            <plain>Он всем скорбящим помощь дает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, поспешите, слов не ищите:</plain>
+        </string>
+        <string>
+            <plain>Он воздыханья слышит души;</plain>
+        </string>
+        <string>
+            <plain>в муках душевных, в тяжких страданьях</plain>
+        </string>
+        <string>
+            <plain>верьте Ему, Он боль утолит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, поспешите с просьбой, с молитвой:</plain>
+        </string>
+        <string>
+            <plain>не отвергает Он никого.</plain>
+        </string>
+        <string>
+            <plain>Ваши прошенья все Он исполнит,</plain>
+        </string>
+        <string>
+            <plain>как обещает Слово Его.</plain>
+        </string>
+    </verse>
+</song>

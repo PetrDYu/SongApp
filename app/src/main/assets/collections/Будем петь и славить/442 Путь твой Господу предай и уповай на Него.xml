@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="442" name="Путь твой Господу предай и уповай на Него" canon="false" text="общины Chemin Neuf" textRus="" music="общины Chemin Neuf" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Путь твой Господу предай и уповай на Него.</plain>
+        </string>
+        <string>
+            <plain>Он поведет тебя и всё исполнит,</plain>
+        </string>
+        <string>
+            <plain>Все желанья сердца твоего.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>В руки Иисуса жизнь свою предай,</plain>
+        </string>
+        <string>
+            <plain>Он утешение твое.</plain>
+        </string>
+        <string>
+            <plain>И восходу солнца веру твою</plain>
+        </string>
+        <string>
+            <plain>Уподобит наш Господь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Перед Ним храни молчание твое</plain>
+        </string>
+        <string>
+            <plain>И терпеливо ожидай.</plain>
+        </string>
+        <string>
+            <plain>Стопы ног твоих на правильном пути</plain>
+        </string>
+        <string>
+            <plain>Утвердит Его любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ведает Господь всех праведников дни,</plain>
+        </string>
+        <string>
+            <plain>Вечную жизнь им обещает.</plain>
+        </string>
+        <string>
+            <plain>И надежду их на Божью благодать</plain>
+        </string>
+        <string>
+            <plain>Укрепит его любовь.</plain>
+        </string>
+    </verse>
+</song>

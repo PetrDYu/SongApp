@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="486" name="Он вернется Он вернется" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он вернется, Он вернется</plain>
+        </string>
+        <string>
+            <plain>На землю, Царь славы,</plain>
+        </string>
+        <string>
+            <plain>Взять жемчужинки живые,</plain>
+        </string>
+        <string>
+            <plain>Любимые Им.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Словно ясные звезды,</plain>
+        </string>
+        <string>
+            <plain>Что на небе сверкают,</plain>
+        </string>
+        <string>
+            <plain>Так они воссияют</plain>
+        </string>
+        <string>
+            <plain>На царском венце.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он возьмет их, Он возьмет их</plain>
+        </string>
+        <string>
+            <plain>В небесное царство;</plain>
+        </string>
+        <string>
+            <plain>От земли Он соберет их,</plain>
+        </string>
+        <string>
+            <plain>Любимых Своих.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто из деток, кто из деток</plain>
+        </string>
+        <string>
+            <plain>Спасителя любит, -</plain>
+        </string>
+        <string>
+            <plain>Те жемчужинки живые,</plain>
+        </string>
+        <string>
+            <plain>Любимые Им.</plain>
+        </string>
+    </verse>
+</song>

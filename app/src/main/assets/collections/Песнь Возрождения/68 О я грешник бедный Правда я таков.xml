@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="68" name="О я грешник бедный Правда я таков" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, я грешник бедный! Правда, я таков;</plain>
+        </string>
+        <string>
+            <plain>Если б Бог бессмертный не был полн даров,</plain>
+        </string>
+        <string>
+            <plain>Не был полн любовью и не спас меня,</plain>
+        </string>
+        <string>
+            <plain>То погиб давно бы в мире этом я.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Буду с верой в сердце я к Нему смотреть,</plain>
+        </string>
+        <string>
+            <plain>Если "мир" не скажет, - мне им не владеть.</plain>
+        </string>
+        <string>
+            <plain>Если ж я услышу слово от Него,</plain>
+        </string>
+        <string>
+            <plain>- Буду славить сердцем, буду петь Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В сладком размышленье, что Ты - Пастырь мой,</plain>
+        </string>
+        <string>
+            <plain>Исчезают сразу грех и страх людской;</plain>
+        </string>
+        <string>
+            <plain>Радостно желаю я в Тебе пребыть,</plain>
+        </string>
+        <string>
+            <plain>Для Тебя трудиться и с Тобою жить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да, мой Бог! Ты дивный Царь даров святых,</plain>
+        </string>
+        <string>
+            <plain>Слово правды вечной и души Жених.</plain>
+        </string>
+        <string>
+            <plain>Пусть я буду бедным духом пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в Тебе нуждаться и дышать Тобой!</plain>
+        </string>
+    </verse>
+</song>

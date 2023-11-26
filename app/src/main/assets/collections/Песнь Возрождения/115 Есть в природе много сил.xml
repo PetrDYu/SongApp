@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="115" name="Есть в природе много сил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть в природе много сил,</plain>
+        </string>
+        <string>
+            <plain>Сил великих и могучих:</plain>
+        </string>
+        <string>
+            <plain>Ими Бог обогатил</plain>
+        </string>
+        <string>
+            <plain>Светлый путь планет бегущих.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нету в мире ничего</plain>
+        </string>
+        <string>
+            <plain>Больше, чем любовь, любовь Господня;</plain>
+        </string>
+        <string>
+            <plain>Воспоем же мы Его,</plain>
+        </string>
+        <string>
+            <plain>Воспоем. Воспоем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но нет в мире сил сильней,</plain>
+        </string>
+        <string>
+            <plain>Чем Его любовь святая;</plain>
+        </string>
+        <string>
+            <plain>В ней источник вечных дней,</plain>
+        </string>
+        <string>
+            <plain>Тайна жизни, тайна рая.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ею мир Он сотворил,</plain>
+        </string>
+        <string>
+            <plain>Дал живущим вдохновенье</plain>
+        </string>
+        <string>
+            <plain>И Себя соединил</plain>
+        </string>
+        <string>
+            <plain>С жизнью бедного творенья.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ею нас, Своих детей,</plain>
+        </string>
+        <string>
+            <plain>Он навеки съединяет,</plain>
+        </string>
+        <string>
+            <plain>Ею с каждым днем сильней</plain>
+        </string>
+        <string>
+            <plain>Он союз Свой утверждает.</plain>
+        </string>
+    </verse>
+</song>

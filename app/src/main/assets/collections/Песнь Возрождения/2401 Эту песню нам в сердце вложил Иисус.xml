@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2401" name="Эту песню нам в сердце вложил Иисус" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Эту песню нам в сердце вложил Иисус,</plain>
+        </string>
+        <string>
+            <plain>Эту песню нам в сердце вложил Иисус.</plain>
+        </string>
+        <string>
+            <plain>Эту песню радости, что не отнять,</plain>
+        </string>
+        <string>
+            <plain>Эту песню нам в сердца вложил Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он нас научил, как нам в согласии жить,</plain>
+        </string>
+        <string>
+            <plain>Он нас научил, как нам в согласии жить.</plain>
+        </string>
+        <string>
+            <plain>Разные народы, земли, племена,</plain>
+        </string>
+        <string>
+            <plain>Он нас научил в согласии жить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он призвал нас вместе быть одной семьёй,</plain>
+        </string>
+        <string>
+            <plain>Он призвал нас вместе быть одной семьёй</plain>
+        </string>
+        <string>
+            <plain>И любить друг друга, как Он любит нас.</plain>
+        </string>
+        <string>
+            <plain>Он призвал нас вместе быть одной семьей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он унёс печаль, и мы ликуем все.</plain>
+        </string>
+        <string>
+            <plain>Он унёс печаль, и мы ликуем все.</plain>
+        </string>
+        <string>
+            <plain>Слезы будут только лишь от радости,</plain>
+        </string>
+        <string>
+            <plain>Он унёс печаль, и мы ликуем все!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3203" name="Все к труду для Господа Он на кресте умер" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все к труду для Господа! Он на кресте умер,</plain>
+        </string>
+        <string>
+            <plain>чтоб спасенье людям дать!</plain>
+        </string>
+        <string>
+            <plain>Будем все трудиться, ибо Он велит,</plain>
+        </string>
+        <string>
+            <plain>чудо благодать возвещать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто трудиться хочет,</plain>
+        </string>
+        <string>
+            <plain>кто трудиться хочет для Христа?</plain>
+        </string>
+        <string>
+            <plain>Ведь Он за нас страдал!</plain>
+        </string>
+        <string>
+            <plain>Он страдал Кто трудиться хочет,</plain>
+        </string>
+        <string>
+            <plain>кто трудиться хочет для Того,</plain>
+        </string>
+        <string>
+            <plain>кто нам спасенье дал?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все - к труду на ниву Божью!</plain>
+        </string>
+        <string>
+            <plain>Мы Ему благодарны за Его любовь!</plain>
+        </string>
+        <string>
+            <plain>На широком были мы пути в грехах,</plain>
+        </string>
+        <string>
+            <plain>искупила нас святая кровь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все - к труду на ниву Божью!</plain>
+        </string>
+        <string>
+            <plain>Нам нельзя праздно тратить время наших дней!</plain>
+        </string>
+        <string>
+            <plain>Погибают души многие вокруг,</plain>
+        </string>
+        <string>
+            <plain>их ведите к Господу скорей!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верно трудимся на ниве Божьей мы,</plain>
+        </string>
+        <string>
+            <plain>и куда пошлёт Он, мы идём.</plain>
+        </string>
+        <string>
+            <plain>От восхода солнца до заката дня</plain>
+        </string>
+        <string>
+            <plain>неустанно сеем мы и жнем.</plain>
+        </string>
+    </verse>
+</song>

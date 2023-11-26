@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="602" name="Пели ангелы святые" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пели ангелы святые.</plain>
+        </string>
+        <string>
+            <plain>Их пречистые уста</plain>
+        </string>
+        <string>
+            <plain>Возвещали дни благие;</plain>
+        </string>
+        <string>
+            <plain>И Мария, мать Христа,</plain>
+        </string>
+        <string>
+            <plain>Пастухов рассказ слыхала,</plain>
+        </string>
+        <string>
+            <plain>В сердце все слова слагала,</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Неизведанных отрад!</plain>
+        </string>
+        <string>
+            <plain>Как великий Божий клад</plain>
+        </string>
+        <string>
+            <plain>Неизведанных отрад!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус как отрок малый</plain>
+        </string>
+        <string>
+            <plain>Приходил смиренно в храм,</plain>
+        </string>
+        <string>
+            <plain>И предвечные начала</plain>
+        </string>
+        <string>
+            <plain>Возвещал Он мудрецам.</plain>
+        </string>
+        <string>
+            <plain>Мать Христа, полна смиренья,</plain>
+        </string>
+        <string>
+            <plain>Слыша Сына изреченья,</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Все слова, как дар Творца.</plain>
+        </string>
+        <string>
+            <plain>Сохранила до конца</plain>
+        </string>
+        <string>
+            <plain>Все слова, как дар Творца.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Друг! ты слышишь Божье слово,</plain>
+        </string>
+        <string>
+            <plain>Слышишь дивные стихи</plain>
+        </string>
+        <string>
+            <plain>О дарах любви Христовой,</plain>
+        </string>
+        <string>
+            <plain>Омывающей грехи.</plain>
+        </string>
+        <string>
+            <plain>В сердце ль ты слова слагаешь</plain>
+        </string>
+        <string>
+            <plain>Иль, отвергнув, забываешь?</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Друг! Внимай и сохраняй.</plain>
+        </string>
+        <string>
+            <plain>Ты теряешь вечный рай...</plain>
+        </string>
+        <string>
+            <plain>Друг! Внимай и сохраняй.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3020" name="Град Божий песни в старину" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Град Божий, песни в старину</plain>
+        </string>
+        <string>
+            <plain>слагали о тебе,</plain>
+        </string>
+        <string>
+            <plain>лишь издали твою красу</plain>
+        </string>
+        <string>
+            <plain>Пророки зрили все.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, небесный град,</plain>
+        </string>
+        <string>
+            <plain>всё ярче светишь ты.</plain>
+        </string>
+        <string>
+            <plain>Господь, создавший этот град,</plain>
+        </string>
+        <string>
+            <plain>всё в истине творит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На землю этот град сошёл,</plain>
+        </string>
+        <string>
+            <plain>святы его врата.</plain>
+        </string>
+        <string>
+            <plain>Того, кто в град златой пришёл,</plain>
+        </string>
+        <string>
+            <plain>пленит его краса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты здесь родную мать обрёл,</plain>
+        </string>
+        <string>
+            <plain>Всевышнего дитя;</plain>
+        </string>
+        <string>
+            <plain>омытый кровью, ты вошёл</plain>
+        </string>
+        <string>
+            <plain>в те чудные врата.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Его светильник - Агнец сам</plain>
+        </string>
+        <string>
+            <plain>- как ясен свет Его!</plain>
+        </string>
+        <string>
+            <plain>А вместо стен - спасенье там,</plain>
+        </string>
+        <string>
+            <plain>и хор хвалу поёт.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Тот град на истине стоит,</plain>
+        </string>
+        <string>
+            <plain>свободный от врага.</plain>
+        </string>
+        <string>
+            <plain>Кто слышит зов, пусть поспешит</plain>
+        </string>
+        <string>
+            <plain>войти в его врата.</plain>
+        </string>
+    </verse>
+</song>

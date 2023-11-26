@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1022" name="Скоро наш Господь придет но каким тебя найдет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скоро наш Господь придет, но каким тебя найдет?</plain>
+        </string>
+        <string>
+            <plain>Не беспечно жизнь твоя течет.</plain>
+        </string>
+        <string>
+            <plain>Суетою занят ты, о земном твои мечты,</plain>
+        </string>
+        <string>
+            <plain>Но что будет, как Господь придет?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты судить умеешь всех и на каждом видишь грех,</plain>
+        </string>
+        <string>
+            <plain>Но не хочешь осудить себя.</plain>
+        </string>
+        <string>
+            <plain>Ты всех видишь: кто упал, что подумал, что сказал.</plain>
+        </string>
+        <string>
+            <plain>Но не знаешь, как ты сам упал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Перед Божиим Судом будешь ты стоять с грехом.</plain>
+        </string>
+        <string>
+            <plain>Но ответ дашь только за себя.</plain>
+        </string>
+        <string>
+            <plain>Бог не спросит за других: о грехах ты знал ли их?</plain>
+        </string>
+        <string>
+            <plain>Но как ты жил - спросит Он тебя.</plain>
+        </string>
+    </verse>
+</song>

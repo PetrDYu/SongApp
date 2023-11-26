@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="343" name="Как на небе песни ангельские" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как на небе песни ангельские</plain>
+        </string>
+        <string>
+            <plain>Льются звонкою рекой,</plain>
+        </string>
+        <string>
+            <plain>Так звучат слова евангельские</plain>
+        </string>
+        <string>
+            <plain>Над печальною землей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слушай, слушай весть евангельскую,</plain>
+        </string>
+        <string>
+            <plain>Весть спасенья,</plain>
+        </string>
+        <string>
+            <plain>Весть о Божией любви!</plain>
+        </string>
+        <string>
+            <plain>Весть о Божией любви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Всем дана любовь спасающая, -</plain>
+        </string>
+        <string>
+            <plain>Так гласит благая весть, -</plain>
+        </string>
+        <string>
+            <plain>Милость Божья всепрощающая</plain>
+        </string>
+        <string>
+            <plain>Хочет грешных приобресть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душу, в мире погибающую,</plain>
+        </string>
+        <string>
+            <plain>Бог от века возлюбил</plain>
+        </string>
+        <string>
+            <plain>И ее, в грехах страдающую,</plain>
+        </string>
+        <string>
+            <plain>Смертью Сына искупил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всем, под бременем труждающимся,</plain>
+        </string>
+        <string>
+            <plain>Есть у Господа покой;</plain>
+        </string>
+        <string>
+            <plain>Всем скорбящим, заблуждающимся</plain>
+        </string>
+        <string>
+            <plain>Есть к блаженству путь живой.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если примешь весть евангельскую,</plain>
+        </string>
+        <string>
+            <plain>Будешь вечно ликовать;</plain>
+        </string>
+        <string>
+            <plain>Небо станет песню ангельскую</plain>
+        </string>
+        <string>
+            <plain>С новой силой воспевать.</plain>
+        </string>
+    </verse>
+</song>

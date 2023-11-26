@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1314" name="Бог любовь вещает слово" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог - любовь! вещает слово.</plain>
+        </string>
+        <string>
+            <plain>Каждый день то видим, вновь</plain>
+        </string>
+        <string>
+            <plain>Небо и земли основа</plain>
+        </string>
+        <string>
+            <plain>Нам вещают: Бог - любовь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! возвестите,</plain>
+        </string>
+        <string>
+            <plain>Что поют вдали тревог</plain>
+        </string>
+        <string>
+            <plain>Ангелы, и всем скажите:</plain>
+        </string>
+        <string>
+            <plain>Бог - любовь и свет наш Бог!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог - любовь! О, в песнях лучших</plain>
+        </string>
+        <string>
+            <plain>Да поют о том сердца,</plain>
+        </string>
+        <string>
+            <plain>Как Иисус нашел заблудших</plain>
+        </string>
+        <string>
+            <plain>И явил любовь Отца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог - любовь! Бог милосердный!</plain>
+        </string>
+        <string>
+            <plain>Дай нам полноты залог</plain>
+        </string>
+        <string>
+            <plain>Всем сказать, кто в сени смертной:</plain>
+        </string>
+        <string>
+            <plain>Бог - любовь и свет наш Бог!</plain>
+        </string>
+    </verse>
+</song>

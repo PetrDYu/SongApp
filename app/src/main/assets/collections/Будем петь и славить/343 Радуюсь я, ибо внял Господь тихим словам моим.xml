@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="343" name="Радуюсь я, ибо внял Господь тихим словам моим" canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Радуюсь я, ибо внял Господь тихим словам моим.</plain>
+        </string>
+        <string>
+            <plain>Ухо Свое приклонил к земле – жизнь обновилась с Ним.</plain>
+        </string>
+        <string>
+            <plain>Скорби и боль в мире я познал, ад и страну теней,</plain>
+        </string>
+        <string>
+            <plain>К Богу живому в ночи воззвал из тесноты своей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, аллилуйя, аллилуйя, аллилуйя.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Щедрой рукою Своей Господь милость и мир творит.</plain>
+        </string>
+        <string>
+            <plain>Нас на земле, как детей Своих, Он от беды хранит.</plain>
+        </string>
+        <string>
+            <plain>Буду я петь, ибо внял Господь тихим словам моим.</plain>
+        </string>
+        <string>
+            <plain>Ухо Свое приклонил к земле – жизнь обновилась с Ним.</plain>
+        </string>
+    </verse>
+</song>

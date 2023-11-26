@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2230" name="Нас всех рисует время" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нас всех рисует время, всё пишет свой портрет</plain>
+        </string>
+        <string>
+            <plain>От самой колыбели до тех прощальных лет.</plain>
+        </string>
+        <string>
+            <plain>С дороги не сбиваясь, оно ведёт свой счёт:</plain>
+        </string>
+        <string>
+            <plain>То выстелит морщинку, то складку насечёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Меняет время лица.</plain>
+        </string>
+        <string>
+            <plain>Бог - души и сердца,</plain>
+        </string>
+        <string>
+            <plain>И это длится века, века, века (2 р.).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За радости сверх меры, за прежние грехи</plain>
+        </string>
+        <string>
+            <plain>Безжалостно и строго кладёт оно штрихи.</plain>
+        </string>
+        <string>
+            <plain>То длинный штрих положит, то взмахнёт слегка</plain>
+        </string>
+        <string>
+            <plain>- И белая дорожка ложится у виска.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И снова белый, белый вступает цвет в права,</plain>
+        </string>
+        <string>
+            <plain>И белого порошей покрыта голова.</plain>
+        </string>
+        <string>
+            <plain>Нас всех рисует время, всё пишет свой портрет</plain>
+        </string>
+        <string>
+            <plain>От самой колыбели до тех прощальных лет.</plain>
+        </string>
+    </verse>
+</song>

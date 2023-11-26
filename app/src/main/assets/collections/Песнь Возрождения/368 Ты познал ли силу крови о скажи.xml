@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="368" name="Ты познал ли силу крови о скажи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты познал ли силу крови, о, скажи,</plain>
+        </string>
+        <string>
+            <plain>И омыт ли ты кровью Христа?</plain>
+        </string>
+        <string>
+            <plain>Благодать Его познал ли ты в душе,</plain>
+        </string>
+        <string>
+            <plain>И омыт ли ты кровью Христа?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чист ли ты? Кровь Его</plain>
+        </string>
+        <string>
+            <plain>Может пятна греха смыть с тебя,</plain>
+        </string>
+        <string>
+            <plain>Может кровь, что на кресте пролил Христос,</plain>
+        </string>
+        <string>
+            <plain>Сделать снега белее тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>День за днем живешь ли пред лицом Его?</plain>
+        </string>
+        <string>
+            <plain>И омыт ли ты кровью Христа?</plain>
+        </string>
+        <string>
+            <plain>Испытал ли милость Бога твоего</plain>
+        </string>
+        <string>
+            <plain>И омыт ли ты кровью Христа?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты готов ли встретить твоего Христа,</plain>
+        </string>
+        <string>
+            <plain>И омыт ли ты кровью Его?</plain>
+        </string>
+        <string>
+            <plain>В край святой войдет тогда душа твоя,</plain>
+        </string>
+        <string>
+            <plain>Коль очищен ты кровью Христа!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Во грехах покайся, отступи от зла,</plain>
+        </string>
+        <string>
+            <plain>И омойся ты кровью Христа!</plain>
+        </string>
+        <string>
+            <plain>На Голгофе кровь и за тебя текла,</plain>
+        </string>
+        <string>
+            <plain>О, омойся ты кровью Христа!</plain>
+        </string>
+    </verse>
+</song>

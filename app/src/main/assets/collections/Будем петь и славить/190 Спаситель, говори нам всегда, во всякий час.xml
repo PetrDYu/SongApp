@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="190" name="Спаситель, говори нам всегда, во всякий час" canon="false" text="обр. Л. Л. Пикетта" textRus="" music="обр. Л. Л. Пикетта" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель, говори нам всегда, во всякий час</plain>
+        </string>
+        <string>
+            <plain>Слова любви и силы: «Я не оставлю вас».</plain>
+        </string>
+        <string>
+            <plain>Пошли Ты нам влеченье Твоим словам внимать,</plain>
+        </string>
+        <string>
+            <plain>Наполни сердце пеньем, в Тебе дай ликовать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Спаситель, говори нам слова любви святой,</plain>
+        </string>
+        <string>
+            <plain>Что мы непобедимы, когда живем с Тобой.</plain>
+        </string>
+        <string>
+            <plain>Спаситель, чтобы в душах луч веры не погас,</plain>
+        </string>
+        <string>
+            <plain>Твои слова дай слушать: «Я не оставлю вас».</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спаситель, говори нам, открой щедрот ключи,</plain>
+        </string>
+        <string>
+            <plain>Наполни счастья гимном, молиться научи.</plain>
+        </string>
+        <string>
+            <plain>Дай нам себя всецело Тебе отдать, любя,</plain>
+        </string>
+        <string>
+            <plain>Твое здесь делать дело и ждать с небес Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спаситель, говори нам, завет Свой открывай,</plain>
+        </string>
+        <string>
+            <plain>Являй причин причину, к служенью силы дай.</plain>
+        </string>
+        <string>
+            <plain>Нет в мире лучшей доли, чем жить всегда с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Творить Твою лишь волю и в Твой войти покой.</plain>
+        </string>
+    </verse>
+</song>

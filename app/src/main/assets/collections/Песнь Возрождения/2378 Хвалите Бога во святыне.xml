@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2378" name="Хвалите Бога во святыне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвалите Бога во святыне,</plain>
+        </string>
+        <string>
+            <plain>Хвалите мощь Господню ныне!</plain>
+        </string>
+        <string>
+            <plain>Хвалите звуком уст прилежных.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвала Богу нашему!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>аллилуйя, аллилуйя!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвалите на море, на суше,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, все сердца и души,</plain>
+        </string>
+        <string>
+            <plain>Хвалите звуком гуслей нежных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвалите Божие величье,</plain>
+        </string>
+        <string>
+            <plain>Все люди мира без различия,</plain>
+        </string>
+        <string>
+            <plain>Хвалите громко на тимпанах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да хвалит всякое дыханье Того,</plain>
+        </string>
+        <string>
+            <plain>Кто любит все созданы,</plain>
+        </string>
+        <string>
+            <plain>Хвалите стройно на органах.</plain>
+        </string>
+    </verse>
+</song>

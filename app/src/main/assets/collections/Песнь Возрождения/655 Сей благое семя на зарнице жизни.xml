@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="655" name="Сей благое семя на зарнице жизни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сей благое семя на зарнице жизни,</plain>
+        </string>
+        <string>
+            <plain>Для спасенья падших жертвуй и гори!</plain>
+        </string>
+        <string>
+            <plain>Скоро будет осень, скоро все мы вместе</plain>
+        </string>
+        <string>
+            <plain>В радости великой соберем снопы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Соберем снопы, соберем снопы,</plain>
+        </string>
+        <string>
+            <plain>В радости великой соберем снопы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сей, коль солнце светит, сей и в день ненастья,</plain>
+        </string>
+        <string>
+            <plain>Тьма и холод жизни дух да не смутит.</plain>
+        </string>
+        <string>
+            <plain>Твой посев созреет, кончатся страданья,</plain>
+        </string>
+        <string>
+            <plain>К жатве верной, чудной пусть душа спешит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сей, коль слезы льются, Бог воздаст обильно,</plain>
+        </string>
+        <string>
+            <plain>Весь отдайся сердцем гибнущих спасать.</plain>
+        </string>
+        <string>
+            <plain>Слезы Сам отрет Он в день, когда пойдем мы</plain>
+        </string>
+        <string>
+            <plain>В радости великой жатву собирать.</plain>
+        </string>
+    </verse>
+</song>

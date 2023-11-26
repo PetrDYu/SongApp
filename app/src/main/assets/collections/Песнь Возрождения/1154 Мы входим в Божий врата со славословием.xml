@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1154" name="Мы входим в Божий врата со славословием" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы входим в Божий врата со славословием,</plain>
+        </string>
+        <string>
+            <plain>И с хвалою во дворы Его идем.</plain>
+        </string>
+        <string>
+            <plain>Для народа Своего Он сотворил сей день,</plain>
+        </string>
+        <string>
+            <plain>С благодарностью мы Господу поем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он дарует радость, Иисус дарует радость,</plain>
+        </string>
+        <string>
+            <plain>Радуются в Господе сердца.</plain>
+        </string>
+        <string>
+            <plain>Он дарует радость, Иисус дарует радость</plain>
+        </string>
+        <string>
+            <plain>- Мы будем славить Господа всегда.</plain>
+        </string>
+    </verse>
+</song>

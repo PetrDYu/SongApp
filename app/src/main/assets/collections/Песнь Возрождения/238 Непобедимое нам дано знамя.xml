@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="238" name="Непобедимое нам дано знамя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Непобедимое нам дано знамя,</plain>
+        </string>
+        <string>
+            <plain>Среди гонений его вознесем.</plain>
+        </string>
+        <string>
+            <plain>Бог нас в удел приобрел Себе вечный</plain>
+        </string>
+        <string>
+            <plain>И нам победу дарует Христом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вслед за Иисусом, в бой без смущенья,</plain>
+        </string>
+        <string>
+            <plain>Радостно с пеньем пойдем (все вперед).</plain>
+        </string>
+        <string>
+            <plain>Вслед за Иисусом, без отступленья,</plain>
+        </string>
+        <string>
+            <plain>Мы победим с Христом (со Христом).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Выйдем за стан ко Христу Иисусу;</plain>
+        </string>
+        <string>
+            <plain>Взявши наш крест, Его смерть возвестим,</plain>
+        </string>
+        <string>
+            <plain>Если страдали мы с Ним в этом мире,</plain>
+        </string>
+        <string>
+            <plain>То и во славе восцарствуем с Ним.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Радуясь, сносим бесчестие мира,</plain>
+        </string>
+        <string>
+            <plain>Чтоб исповедовать имя Христа;</plain>
+        </string>
+        <string>
+            <plain>Лишь на него мы глядим с упованьем,</plain>
+        </string>
+        <string>
+            <plain>Славят хвалой Его наши уста.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог даровал нам державную силу,</plain>
+        </string>
+        <string>
+            <plain>Ею Спаситель врага победил;</plain>
+        </string>
+        <string>
+            <plain>Ей Он и в нас совершает победу</plain>
+        </string>
+        <string>
+            <plain>Именем вечного Господа сил.</plain>
+        </string>
+    </verse>
+</song>

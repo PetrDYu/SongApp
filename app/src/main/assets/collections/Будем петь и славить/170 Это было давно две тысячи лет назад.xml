@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="170" name="Это было давно две тысячи лет назад" canon="false" text="Н. Чернышева" textRus="" music="Н. Чернышева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Это было давно – две тысячи лет назад.</plain>
+        </string>
+        <string>
+            <plain>В Иудее зимой пасли пастухи стада.</plain>
+        </string>
+        <string>
+            <plain>Спал город Вифлеем, горы укрыла мгла,</plain>
+        </string>
+        <string>
+            <plain>В эту тихую ночь в небе звезда взошла.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В мир Спаситель пришел</plain>
+        </string>
+        <string>
+            <plain>Под Вифлеемской звездой.</plain>
+        </string>
+        <string>
+            <plain>Тот, кто верит в Него,</plain>
+        </string>
+        <string>
+            <plain>В Нем обретет покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И Рожденный в ту ночь был положен в яслях,</plain>
+        </string>
+        <string>
+            <plain>Но склонились пред Ним ангелы в небесах.</plain>
+        </string>
+        <string>
+            <plain>Возликуй же, земля, Слово Жизни узрев,</plain>
+        </string>
+        <string>
+            <plain>Поклониться Царю поспеши в этот хлев.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир, лежащий во мгле, ныне милость обрел.</plain>
+        </string>
+        <string>
+            <plain>Божий Сын, Царь царей светом с неба пришел.</plain>
+        </string>
+        <string>
+            <plain>Чтоб пройти по земле путь страданий и слез,</plain>
+        </string>
+        <string>
+            <plain>Умереть на кресте, в мир явился Христос.</plain>
+        </string>
+    </verse>
+</song>

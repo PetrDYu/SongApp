@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2188" name="Лишь один приходил на кресте умереть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лишь один приходил на кресте умереть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб от смерти меня искупить,</plain>
+        </string>
+        <string>
+            <plain>Шёл покорно на казнь, согласился терпеть,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грехи моей жизни покрыть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ко кресту пригвоздил, ко кресту пригвоздил,</plain>
+        </string>
+        <string>
+            <plain>За меня был замучен Христос.</plain>
+        </string>
+        <string>
+            <plain>Был поруган, презрен, ко кресту пригвождён,</plain>
+        </string>
+        <string>
+            <plain>Но грехи Он на древо вознёс.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Терпеливо и нежно Он учит меня</plain>
+        </string>
+        <string>
+            <plain>И даёт благодатных мне сил.</plain>
+        </string>
+        <string>
+            <plain>Осужденья мне нет, Он защита моя,</plain>
+        </string>
+        <string>
+            <plain>Все грехи ко кресту пригвоздил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пришёл ко Христу, с Ним пребуду всегда.</plain>
+        </string>
+        <string>
+            <plain>Каждый день я иду вслед за Ним</plain>
+        </string>
+        <string>
+            <plain>С ликованьем в душе и с хвалой на устах,</plain>
+        </string>
+        <string>
+            <plain>Что мои все грехи Он простил.</plain>
+        </string>
+    </verse>
+</song>

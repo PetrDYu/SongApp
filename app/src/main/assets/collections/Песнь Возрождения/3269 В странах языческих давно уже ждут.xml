@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3269" name="В странах языческих давно уже ждут" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В странах языческих давно уже ждут</plain>
+        </string>
+        <string>
+            <plain>вечной жизни хлеб сущий из Спасителя рук.</plain>
+        </string>
+        <string>
+            <plain>Многие жаждут там спасенья от зла</plain>
+        </string>
+        <string>
+            <plain>- принесём погибающим мы весть про Христа!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слушайте зов тех, кто гибнет в беде!</plain>
+        </string>
+        <string>
+            <plain>Кто им поможет в великой нужде?</plain>
+        </string>
+        <string>
+            <plain>Весть о спасении ты им донеси,</plain>
+        </string>
+        <string>
+            <plain>веди их к Иисусу, Он может спасти.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ждут они в страхе, окружённые тьмой,</plain>
+        </string>
+        <string>
+            <plain>души бедные жаждут слова вести благой.</plain>
+        </string>
+        <string>
+            <plain>Брат, помоги ты им в великой нужде.</plain>
+        </string>
+        <string>
+            <plain>Преломи им хлеб жизни, расскажи о Христе!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтобы помочь им, поспешите скорей,</plain>
+        </string>
+        <string>
+            <plain>хоть придётся оставить дом родной и друзей.</plain>
+        </string>
+        <string>
+            <plain>И возвестите всем язычникам там,</plain>
+        </string>
+        <string>
+            <plain>что открылось спасенье через Господа нам.</plain>
+        </string>
+    </verse>
+</song>

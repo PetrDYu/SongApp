@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1712" name="Почему весна такая чудная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Почему весна такая чудная,</plain>
+        </string>
+        <string>
+            <plain>С изумрудной росписью окрест?</plain>
+        </string>
+        <string>
+            <plain>Почему душа, как серна, чуткая?</plain>
+        </string>
+        <string>
+            <plain>- Он воскрес?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радость потекла живыми руслами,</plain>
+        </string>
+        <string>
+            <plain>Словно сок разбуженных берёз.</plain>
+        </string>
+        <string>
+            <plain>Почему ушли минуты грустные?</plain>
+        </string>
+        <string>
+            <plain>- Жив Христос!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы Его одеждами багряными</plain>
+        </string>
+        <string>
+            <plain>Оправдались, получив виссон!</plain>
+        </string>
+        <string>
+            <plain>Почему идут к Иисусу званные?</plain>
+        </string>
+        <string>
+            <plain>- Любит Он!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К солнцу ветви потянулись новые,</plain>
+        </string>
+        <string>
+            <plain>Сад весенний ароматы льёт.</plain>
+        </string>
+        <string>
+            <plain>Сердце, почему стучишь взволнованно?</plain>
+        </string>
+        <string>
+            <plain>- Он грядёт.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1206" name="Аллилуйя Наш Господь есть Царь царей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Аллилуйя! Наш Господь есть Царь царей!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Жизнь моя в руке Твоей!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Он победу совершил!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Слава Богу сил!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь - моя скала, Иисус - мой щит!</plain>
+        </string>
+        <string>
+            <plain>Он однажды постучал.</plain>
+        </string>
+        <string>
+            <plain>Дверь я пред Ним открыл,</plain>
+        </string>
+        <string>
+            <plain>Когда я с Ним живу,</plain>
+        </string>
+        <string>
+            <plain>В сердце нет оплота злу.</plain>
+        </string>
+        <string>
+            <plain>Светлой радости венец -</plain>
+        </string>
+        <string>
+            <plain>Он, мой Господь и мой Отец,</plain>
+        </string>
+        <string>
+            <plain>Господь - моя скала!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В дни сомнений и лишений</plain>
+        </string>
+        <string>
+            <plain>Ты в долине слез.</plain>
+        </string>
+        <string>
+            <plain>Там перед тобою шел Христос.</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа дает победу.</plain>
+        </string>
+        <string>
+            <plain>Радость и покой,</plain>
+        </string>
+        <string>
+            <plain>Не смущайся:</plain>
+        </string>
+        <string>
+            <plain>Он всегда с тобой!</plain>
+        </string>
+    </verse>
+</song>

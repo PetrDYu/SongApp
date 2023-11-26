@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="234" name="Бушует житейское море" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бушует житейское море,</plain>
+        </string>
+        <string>
+            <plain>Греховною страстью кипит!</plain>
+        </string>
+        <string>
+            <plain>Вокруг слезы, вопли и горе,</plain>
+        </string>
+        <string>
+            <plain>Душа изнывает, болит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы боремся, силы теряем,</plain>
+        </string>
+        <string>
+            <plain>Но верим: поможет нам Бог;</plain>
+        </string>
+        <string>
+            <plain>Мы тихую пристань узнаем,</plain>
+        </string>
+        <string>
+            <plain>Та пристань - небесный чертог.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бушует житейское море.</plain>
+        </string>
+        <string>
+            <plain>Темно, непроглядно вокруг.</plain>
+        </string>
+        <string>
+            <plain>Смотрю я со скорбью во взоре,</plain>
+        </string>
+        <string>
+            <plain>Не знаю: кто враг мой, кто друг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бушует житейское море.</plain>
+        </string>
+        <string>
+            <plain>Маяк, а на нем огонек.</plain>
+        </string>
+        <string>
+            <plain>Ладья наша с бурею спорит</plain>
+        </string>
+        <string>
+            <plain>Огонь маяка нас привлек.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бушует житейское море,</plain>
+        </string>
+        <string>
+            <plain>Свирепо и грозно шумит,</plain>
+        </string>
+        <string>
+            <plain>За мраком не видно простора,</plain>
+        </string>
+        <string>
+            <plain>Опасностью море грозит.</plain>
+        </string>
+    </verse>
+</song>

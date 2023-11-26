@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1066" name="Я иду по тернистому жизни пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду по тернистому жизни пути.</plain>
+        </string>
+        <string>
+            <plain>Хоть сомненья внушают мне страх.</plain>
+        </string>
+        <string>
+            <plain>Сколько силы мне нужно еще впереди,</plain>
+        </string>
+        <string>
+            <plain>Чтоб предстать пред Отцом в небесах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Со Христом я дойду, Все равно я дойду,</plain>
+        </string>
+        <string>
+            <plain>Чтоб предстать пред Отцом в небесах.</plain>
+        </string>
+        <string>
+            <plain>Сколько силы мне нужно Еще впереди.</plain>
+        </string>
+        <string>
+            <plain>Чтоб предстать пред Отцом в небесах!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все равно я дойду к тем просторам родным</plain>
+        </string>
+        <string>
+            <plain>С песней славы в усталой груди.</plain>
+        </string>
+        <string>
+            <plain>Все равно, все равно стану я перед</plain>
+        </string>
+        <string>
+            <plain>Ним, И не будет ночей впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все равно я дойду, хоть порой тяжело.</plain>
+        </string>
+        <string>
+            <plain>Путь печали, нужды и потерь.</plain>
+        </string>
+        <string>
+            <plain>Там иначе - тепло, там иначе - светло,</plain>
+        </string>
+        <string>
+            <plain>Уж недолго осталось терпеть.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1665" name="Я Тебя Спаситель славлю Ты всегда со мной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я Тебя, Спаситель, славлю. Ты всегда со мной,</plain>
+        </string>
+        <string>
+            <plain>Жизнь мне новую даруешь, и теперь я Твой.</plain>
+        </string>
+        <string>
+            <plain>Ликованье в моем сердце, мир и радость, и покой.</plain>
+        </string>
+        <string>
+            <plain>Твое Имя прославляю, Ты всегда везде со мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славлю, Ты со мной.</plain>
+        </string>
+        <string>
+            <plain>Славлю, Ты со мной.</plain>
+        </string>
+        <string>
+            <plain>Торжествует мое сердце,</plain>
+        </string>
+        <string>
+            <plain>Славлю, Ты со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я Тебя, Спаситель, славлю, Ты даруешь мне</plain>
+        </string>
+        <string>
+            <plain>Утешенье и прощенье, и спасение.</plain>
+        </string>
+        <string>
+            <plain>Ликованье в моем сердце, и любовью дышит грудь,</plain>
+        </string>
+        <string>
+            <plain>Твое Имя прославляю. Ты всегда со мной пребудь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я Тебя, Спаситель, славлю, Ты так близок мне.</plain>
+        </string>
+        <string>
+            <plain>И в победе воскресенья жив я во Христе.</plain>
+        </string>
+        <string>
+            <plain>Ликованье в моем сердце мне дарует мир святой.</plain>
+        </string>
+        <string>
+            <plain>Твое Имя прославляю. Ты всегда везде со мной.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Боже, Ты со мной,</plain>
+        </string>
+        <string>
+            <plain>Боже, Ты со мной,</plain>
+        </string>
+        <string>
+            <plain>Торжествует мое сердце,</plain>
+        </string>
+        <string>
+            <plain>Боже, Ты со мной.</plain>
+        </string>
+    </chorus>
+</song>

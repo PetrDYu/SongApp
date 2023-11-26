@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="504" name="От Адама с Богом споря" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От Адама, с Богом споря,</plain>
+        </string>
+        <string>
+            <plain>Смерть с губительной косой</plain>
+        </string>
+        <string>
+            <plain>Разливает плач и горе</plain>
+        </string>
+        <string>
+            <plain>Над несчастною землей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Смерть сильна! Но наш Спаситель</plain>
+        </string>
+        <string>
+            <plain>Много раз ее сильней,</plain>
+        </string>
+        <string>
+            <plain>Он попрал, как Победитель,</plain>
+        </string>
+        <string>
+            <plain>Смерть кончиною Своей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Миром золото владеет.</plain>
+        </string>
+        <string>
+            <plain>Но пред смертию богач</plain>
+        </string>
+        <string>
+            <plain>И рыдает, и бледнеет,</plain>
+        </string>
+        <string>
+            <plain>И его бессилен плач.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пред царем дрожат народы.</plain>
+        </string>
+        <string>
+            <plain>Но приходит смерть,</plain>
+        </string>
+        <string>
+            <plain>И он Отдает ей дни и годы</plain>
+        </string>
+        <string>
+            <plain>И могучий славный трон.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смерть - возмездье за паденье</plain>
+        </string>
+        <string>
+            <plain>Прародителей людей;</plain>
+        </string>
+        <string>
+            <plain>И за наше согрешенье</plain>
+        </string>
+        <string>
+            <plain>Мы теперь подвластны ей.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Уж не долго, и над миром</plain>
+        </string>
+        <string>
+            <plain>Смерти власть навек пройдет.</plain>
+        </string>
+        <string>
+            <plain>Вот с небес с победным пиром</plain>
+        </string>
+        <string>
+            <plain>Жизнь от Господа идет.</plain>
+        </string>
+    </verse>
+</song>

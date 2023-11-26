@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3022" name="Как мне быть без общенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как мне быть без общенья</plain>
+        </string>
+        <string>
+            <plain>с Другом, в ком есть спасенье?</plain>
+        </string>
+        <string>
+            <plain>- Жить с Ним - моё стремленье,</plain>
+        </string>
+        <string>
+            <plain>свободен и счастлив я!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Люблю Христа, а Он - меня.</plain>
+        </string>
+        <string>
+            <plain>Я радостно возвещаю:</plain>
+        </string>
+        <string>
+            <plain>«Свободен и счастлив я!»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К Нему я прибегаю,</plain>
+        </string>
+        <string>
+            <plain>заботы возлагаю,</plain>
+        </string>
+        <string>
+            <plain>с утра уж восклицаю:</plain>
+        </string>
+        <string>
+            <plain>«Свободен и счастлив я!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чрез Христа примирённый,</plain>
+        </string>
+        <string>
+            <plain>радостью напоённый</plain>
+        </string>
+        <string>
+            <plain>и воодушевлённый</plain>
+        </string>
+        <string>
+            <plain>- свободен и счастлив я!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Радость и ликованье</plain>
+        </string>
+        <string>
+            <plain>дарит мне свет Писанья,</plain>
+        </string>
+        <string>
+            <plain>и чрез Христа страданья</plain>
+        </string>
+        <string>
+            <plain>свободен и счастлив я!</plain>
+        </string>
+    </verse>
+</song>

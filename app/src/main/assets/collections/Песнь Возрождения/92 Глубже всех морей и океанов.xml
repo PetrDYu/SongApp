@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="92" name="Глубже всех морей и океанов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Глубже всех морей и океанов,</plain>
+        </string>
+        <string>
+            <plain>Необъятна, вечна, велика,</plain>
+        </string>
+        <string>
+            <plain>Выше всех златых светил небесных -</plain>
+        </string>
+        <string>
+            <plain>Беспредельная любовь Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он омыл грехи мои,</plain>
+        </string>
+        <string>
+            <plain>Дал ризы снежной белизны,</plain>
+        </string>
+        <string>
+            <plain>Дар Святого Духа даровал</plain>
+        </string>
+        <string>
+            <plain>И чадом  Божиим назвал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мрачны, беспросветны и ужасны</plain>
+        </string>
+        <string>
+            <plain>Были годы в страшной тьме греха;</plain>
+        </string>
+        <string>
+            <plain>Гибнул я, израненный, несчастный,</plain>
+        </string>
+        <string>
+            <plain>Но Иисус нашел и спас меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастлив я! Христовой благодатью</plain>
+        </string>
+        <string>
+            <plain>Я спасен от смерти и суда;</plain>
+        </string>
+        <string>
+            <plain>Сердцем грех теперь не овладеет,</plain>
+        </string>
+        <string>
+            <plain>В нем обитель Господа Христа.</plain>
+        </string>
+    </verse>
+</song>

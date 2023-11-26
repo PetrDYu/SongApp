@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1565" name="Стремлюсь достичь я тех высот" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стремлюсь достичь я тех высот,</plain>
+        </string>
+        <string>
+            <plain>Где солнце вечно не зайдет.</plain>
+        </string>
+        <string>
+            <plain>И я. Господь, прошу Тебя,</plain>
+        </string>
+        <string>
+            <plain>Чтоб выше Ты поднял меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, влеки меня сильней</plain>
+        </string>
+        <string>
+            <plain>К Себе любовию Своей,</plain>
+        </string>
+        <string>
+            <plain>Влеки меня из тьмы и бед</plain>
+        </string>
+        <string>
+            <plain>В негаснущий небесный свет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я не хочу здесь обитать,</plain>
+        </string>
+        <string>
+            <plain>В сомненьи, в страхе пребывать.</plain>
+        </string>
+        <string>
+            <plain>Иной бы здесь остаться рад,</plain>
+        </string>
+        <string>
+            <plain>Моя же цель - небесный град.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу я в городе том жить,</plain>
+        </string>
+        <string>
+            <plain>Где грех не может искусить,</plain>
+        </string>
+        <string>
+            <plain>Где духи светлые живут</plain>
+        </string>
+        <string>
+            <plain>И песни дивные поют.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хотел бы ввысь я улететь</plain>
+        </string>
+        <string>
+            <plain>И славу Божию узреть.</plain>
+        </string>
+        <string>
+            <plain>Пока же в этом мире я,</plain>
+        </string>
+        <string>
+            <plain>Господь, прошу: веди меня.</plain>
+        </string>
+    </verse>
+</song>

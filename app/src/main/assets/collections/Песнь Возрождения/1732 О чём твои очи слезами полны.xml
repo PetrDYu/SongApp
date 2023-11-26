@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1732" name="О чём твои очи слезами полны" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О чем твои очи слезами полны?</plain>
+        </string>
+        <string>
+            <plain>О чем твое сердце дрожит без вины?</plain>
+        </string>
+        <string>
+            <plain>Сомнений и горя ты много вкусил.</plain>
+        </string>
+        <string>
+            <plain>Теперь и бороться не чувствуешь силы.</plain>
+        </string>
+        <string>
+            <plain>Теперь и бороться не чувствуешь силы.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Так мало надежды, так много тревог.</plain>
+        </string>
+        <string>
+            <plain>Так мало ты веришь, что милостив Бог.</plain>
+        </string>
+        <string>
+            <plain>О, помни, Господь не оставит своих.</plain>
+        </string>
+        <string>
+            <plain>Он с ними во всех испытаньях земных.</plain>
+        </string>
+        <string>
+            <plain>Он с ними во всех испытаньях земных.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В смиреньи пади перед Богом живым,</plain>
+        </string>
+        <string>
+            <plain>Он все твои страхи развеет, как дым.</plain>
+        </string>
+        <string>
+            <plain>Излечит недуги, прогонит печаль,</plain>
+        </string>
+        <string>
+            <plain>Тревоги умчатся в безвестную даль.</plain>
+        </string>
+    </verse>
+</song>

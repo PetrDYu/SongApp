@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1130" name="Детство незаметно пролетело" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Детство незаметно пролетело.</plain>
+        </string>
+        <string>
+            <plain>Юность, словно птица, унеслась,</plain>
+        </string>
+        <string>
+            <plain>Белоснежный ты наряд надела,</plain>
+        </string>
+        <string>
+            <plain>И настал желанный час для нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всколыхнулась белая фата.</plain>
+        </string>
+        <string>
+            <plain>Словно крылья чаек над волной.</plain>
+        </string>
+        <string>
+            <plain>Пусть тебе сияет жизни доброта,</plain>
+        </string>
+        <string>
+            <plain>И святая, чистая любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будь ты нежно любящей женою,</plain>
+        </string>
+        <string>
+            <plain>Нежность и любовь ты сохрани.</plain>
+        </string>
+        <string>
+            <plain>Пусть горит любовь твоя звездою</plain>
+        </string>
+        <string>
+            <plain>Во все ваши будущие дни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будь всегда, как лилия, прекрасна,</plain>
+        </string>
+        <string>
+            <plain>Ожидай пришествия Христа,</plain>
+        </string>
+        <string>
+            <plain>Словно солнца луч зарёю ясной.</plain>
+        </string>
+        <string>
+            <plain>Пусть вся ваша жизнь будет чиста.</plain>
+        </string>
+    </verse>
+</song>

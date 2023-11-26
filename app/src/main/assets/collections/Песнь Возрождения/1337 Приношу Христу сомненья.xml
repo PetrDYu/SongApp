@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1337" name="Приношу Христу сомненья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приношу Христу сомненья.</plain>
+        </string>
+        <string>
+            <plain>Зов Его я услыхал;</plain>
+        </string>
+        <string>
+            <plain>Дать для веры утвержденье</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель обещал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я Иисусу доверяюсь,</plain>
+        </string>
+        <string>
+            <plain>Чудно упованьем жить!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На Христа свой грех слагаю.</plain>
+        </string>
+        <string>
+            <plain>Его кровью Он омыл;</plain>
+        </string>
+        <string>
+            <plain>От Него лишь ожидаю</plain>
+        </string>
+        <string>
+            <plain>для борьбы духовных сил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если враг мне угрожает,</plain>
+        </string>
+        <string>
+            <plain>Мой Христос покой дает,</plain>
+        </string>
+        <string>
+            <plain>Путь мой темный освещает</plain>
+        </string>
+        <string>
+            <plain>И до цели доведет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все плотское смысл теряет.</plain>
+        </string>
+        <string>
+            <plain>Радость лишь в Христе одном.</plain>
+        </string>
+        <string>
+            <plain>Он всем миром управляет,</plain>
+        </string>
+        <string>
+            <plain>Весь источник жизни в Нем.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Что дано мне в мире этом,</plain>
+        </string>
+        <string>
+            <plain>Жажду Богу посвятить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб, сияя этим светом.</plain>
+        </string>
+        <string>
+            <plain>Для Христовой славы жить.</plain>
+        </string>
+    </verse>
+</song>

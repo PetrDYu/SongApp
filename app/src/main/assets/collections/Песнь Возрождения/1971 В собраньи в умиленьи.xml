@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1971" name="В собраньи в умиленьи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В собраньи в умиленьи</plain>
+        </string>
+        <string>
+            <plain>К Твоим стопам я пал;</plain>
+        </string>
+        <string>
+            <plain>Вложил слова моленья</plain>
+        </string>
+        <string>
+            <plain>В уста, чтоб я взывал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Неведомая сила</plain>
+        </string>
+        <string>
+            <plain>Сковала слабый дух</plain>
+        </string>
+        <string>
+            <plain>И душу устрашила:</plain>
+        </string>
+        <string>
+            <plain>Нет слов молиться вслух.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я в трепетном волненьи</plain>
+        </string>
+        <string>
+            <plain>Хочу взывать - нет сил;</plain>
+        </string>
+        <string>
+            <plain>Душа молчит в смущеньи,</plain>
+        </string>
+        <string>
+            <plain>А духом я застыл.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сними стыда оковы</plain>
+        </string>
+        <string>
+            <plain>С горячих уст моих,</plain>
+        </string>
+        <string>
+            <plain>И звук польется новый,</plain>
+        </string>
+        <string>
+            <plain>- Мольба в словах простых.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Хоть будет и нескладной</plain>
+        </string>
+        <string>
+            <plain>Та первая мольба,</plain>
+        </string>
+        <string>
+            <plain>Но станет жизнь отрадной</plain>
+        </string>
+        <string>
+            <plain>Для Твоего раба.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Спадет с сознанья камень,</plain>
+        </string>
+        <string>
+            <plain>Раздастся в сердце речь,</plain>
+        </string>
+        <string>
+            <plain>В душе зажжется пламень,</plain>
+        </string>
+        <string>
+            <plain>Чтоб дух в других зажечь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3033" name="Хочешь жить для Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочешь жить для Иисуса?</plain>
+        </string>
+        <string>
+            <plain>Он так много сделал для тебя!</plain>
+        </string>
+        <string>
+            <plain>Лишь один Христос даёт нам то,</plain>
+        </string>
+        <string>
+            <plain>что удовлетворяет нас всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Покоряйся Божьей воле:</plain>
+        </string>
+        <string>
+            <plain>для тебя Он хочет лишь добра!</plain>
+        </string>
+        <string>
+            <plain>Если осуждают - будь спокоен;</plain>
+        </string>
+        <string>
+            <plain>тот блажен, кто поступает так!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочешь для Христа трудиться?</plain>
+        </string>
+        <string>
+            <plain>Мир лежит в греховной тьме и зле.</plain>
+        </string>
+        <string>
+            <plain>Покажи свои плоды святые</plain>
+        </string>
+        <string>
+            <plain>и спасай ты гибнущих в грехе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочешь за Христа страдать ты,</plain>
+        </string>
+        <string>
+            <plain>претерпеть нужду, гонения?</plain>
+        </string>
+        <string>
+            <plain>Это принесёт тебе здесь радость</plain>
+        </string>
+        <string>
+            <plain>и венец победный в небесах.</plain>
+        </string>
+    </verse>
+</song>

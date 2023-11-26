@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3292" name="Почтим мы дар Царя небес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Почтим мы дар Царя небес,</plain>
+        </string>
+        <string>
+            <plain>Свободу дал Он нам в тот день,</plain>
+        </string>
+        <string>
+            <plain>Когда Христос воскрес</plain>
+        </string>
+        <string>
+            <plain>От уз плененья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радость всем принёс Господь.</plain>
+        </string>
+        <string>
+            <plain>Из мёртвых Он воскрес,</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему и честь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как дивен день, когда Христос воскрес</plain>
+        </string>
+        <string>
+            <plain>И радость дал о том,</plain>
+        </string>
+        <string>
+            <plain>Кто смерть за всех принял</plain>
+        </string>
+        <string>
+            <plain>И смертью смерть попрал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как велик сей день для нас,</plain>
+        </string>
+        <string>
+            <plain>Воскрес Спаситель наш</plain>
+        </string>
+        <string>
+            <plain>Все мы Ему хвалу поём</plain>
+        </string>
+        <string>
+            <plain>Воскресшему Христу.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, братья, сёстры, радость нам</plain>
+        </string>
+        <string>
+            <plain>Дана Отцом с небес,</plain>
+        </string>
+        <string>
+            <plain>Христос Спаситель наш воскрес</plain>
+        </string>
+        <string>
+            <plain>Блажен, что веришь ты.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты будешь там, в земле святой,</plain>
+        </string>
+        <string>
+            <plain>Где светит свет Христа</plain>
+        </string>
+        <string>
+            <plain>Там все сердца звучат с хвалой,</plain>
+        </string>
+        <string>
+            <plain>В небесной той стране.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>С мирским богатством не сравнить</plain>
+        </string>
+        <string>
+            <plain>Тот город золотой,</plain>
+        </string>
+        <string>
+            <plain>Там вечно буду петь я с Ним,</plain>
+        </string>
+        <string>
+            <plain>И жить в земле святой.</plain>
+        </string>
+    </verse>
+</song>

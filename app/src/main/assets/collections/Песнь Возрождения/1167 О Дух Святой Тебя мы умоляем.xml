@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1167" name="О Дух Святой Тебя мы умоляем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Дух Святой, Тебя мы умоляем,</plain>
+        </string>
+        <string>
+            <plain>Благослови и силу излей,</plain>
+        </string>
+        <string>
+            <plain>Перед Тобою сердце склоняем,</plain>
+        </string>
+        <string>
+            <plain>Нас не оставь, любовью согрей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молим Тебя, Господь Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Духом Святым повей Ты на нас.</plain>
+        </string>
+        <string>
+            <plain>Ты знаешь все. Ты - Бог Вездесущий,</plain>
+        </string>
+        <string>
+            <plain>Благослови нас всех в этот час.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, Дух Святой, Ты все наполняешь.</plain>
+        </string>
+        <string>
+            <plain>Счастье и радость душам даешь.</plain>
+        </string>
+        <string>
+            <plain>Путь наш во мраке Сам освещаешь,</plain>
+        </string>
+        <string>
+            <plain>И в дом Отца на небо ведешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Дух Святой, Ты светом небесным</plain>
+        </string>
+        <string>
+            <plain>Путь на Голгофу нам озарил,</plain>
+        </string>
+        <string>
+            <plain>Там, где Спаситель подвигом крестным</plain>
+        </string>
+        <string>
+            <plain>Двери спасенья грешным открыл.</plain>
+        </string>
+    </verse>
+</song>

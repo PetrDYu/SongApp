@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2345" name="Так сердце томится и хочет покоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Так сердце томится и хочет покоя,</plain>
+        </string>
+        <string>
+            <plain>И стонет, и плачет порой,</plain>
+        </string>
+        <string>
+            <plain>Но нет утешенья в сем мире забвенья,</plain>
+        </string>
+        <string>
+            <plain>В себе не нашел я покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Домой, домой,</plain>
+        </string>
+        <string>
+            <plain>Хочу домой!</plain>
+        </string>
+        <string>
+            <plain>Домой, домой,</plain>
+        </string>
+        <string>
+            <plain>Давно уж хочу я домой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Устал средь волнений житейского моря,</plain>
+        </string>
+        <string>
+            <plain>Я в мире живу, как чужой,</plain>
+        </string>
+        <string>
+            <plain>Пью слезы, скучаю, покоя не знаю,</plain>
+        </string>
+        <string>
+            <plain>О Боже, хочу я домой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь только тревоги, унынье и слезы,</plain>
+        </string>
+        <string>
+            <plain>Так хочется в небо - домой.</plain>
+        </string>
+        <string>
+            <plain>Тобой наслаждаюсь, Тебе доверяюсь,</plain>
+        </string>
+        <string>
+            <plain>В Тебе нахожу свой покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Избавлюсь я скоро от всех испытаний,</plain>
+        </string>
+        <string>
+            <plain>Войду в небеса, в дом родной,</plain>
+        </string>
+        <string>
+            <plain>Там нету страданий, ни слез, ни стенаний,</plain>
+        </string>
+        <string>
+            <plain>Хочу все забыть - и домой!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Не слышал я ухом и глазом не видел,</plain>
+        </string>
+        <string>
+            <plain>Что нам приготовите Благой,</plain>
+        </string>
+        <string>
+            <plain>Там радость и счастье, любовь и участье,</plain>
+        </string>
+        <string>
+            <plain>О, скоро приду я домой!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2842" name="Страж скажи скоро ль утро настанет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страж, скажи: скоро ль утро настанет,</plain>
+        </string>
+        <string>
+            <plain>скоро ль ночи рассеется мгла?</plain>
+        </string>
+        <string>
+            <plain>По Писанию видно, что близок</plain>
+        </string>
+        <string>
+            <plain>уж рассвет великого дня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, когда утро вечности грянет,</plain>
+        </string>
+        <string>
+            <plain>разойдётся туман навсегда,</plain>
+        </string>
+        <string>
+            <plain>и мы будем в Иисусе сокрыты там,</plain>
+        </string>
+        <string>
+            <plain>у трона святого Творца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Через истину Божью нам с неба</plain>
+        </string>
+        <string>
+            <plain>светит вечности луч через тьму.</plain>
+        </string>
+        <string>
+            <plain>Там святые в общении едином</plain>
+        </string>
+        <string>
+            <plain>воздадут хвалу Ему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На небесных чудесных просторах</plain>
+        </string>
+        <string>
+            <plain>со священным воинством небес</plain>
+        </string>
+        <string>
+            <plain>соберутся святые во славе;</plain>
+        </string>
+        <string>
+            <plain>с Ним пребудем вовек.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Аллилуйя, как радостно будет,</plain>
+        </string>
+        <string>
+            <plain>когда встретимся в царстве любви,</plain>
+        </string>
+        <string>
+            <plain>где увидим Христа на престоле</plain>
+        </string>
+        <string>
+            <plain>и награду примем мы!</plain>
+        </string>
+    </verse>
+</song>

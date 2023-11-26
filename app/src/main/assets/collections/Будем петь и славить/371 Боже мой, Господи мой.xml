@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="371" name="Боже мой, Господи мой" canon="false" text="И. Языковой, Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Боже мой, Господи мой!</plain>
+        </string>
+        <string>
+            <plain>Я молюсь, и Ты меня слышишь.</plain>
+        </string>
+        <string>
+            <plain>Приходи, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Знаю я, что Ты повсюду дышишь,</plain>
+        </string>
+        <string>
+            <plain>Господи!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я Тебе молюсь, страха не боюсь,</plain>
+        </string>
+        <string>
+            <plain>Ты меня помилуй, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Научи любить, научи прощать,</plain>
+        </string>
+        <string>
+            <plain>Как Твоим другом стать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже мой, Господи мой!</plain>
+        </string>
+        <string>
+            <plain>Я хочу всегда быть с Тобою.</plain>
+        </string>
+        <string>
+            <plain>Приходи, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Напои меня живой водою,</plain>
+        </string>
+        <string>
+            <plain>Господи!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже Мой, Господи Мой!</plain>
+        </string>
+        <string>
+            <plain>Ты благой, Отец мой Небесный!</plain>
+        </string>
+        <string>
+            <plain>Научи, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Каждый день встречать с Тобою вместе,</plain>
+        </string>
+        <string>
+            <plain>Господи!</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Я Тебе молюсь, страха не боюсь,</plain>
+        </string>
+        <string>
+            <plain>Ты со мною рядом, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Научи любить, научи прощать,</plain>
+        </string>
+        <string>
+            <plain>Как Твоим другом стать.</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>Боже мой, Господи мой!</plain>
+        </string>
+    </verse>
+</song>

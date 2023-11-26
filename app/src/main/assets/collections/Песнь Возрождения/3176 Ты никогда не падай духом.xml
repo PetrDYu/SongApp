@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3176" name="Ты никогда не падай духом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>«Ты никогда не падай духом,</plain>
+        </string>
+        <string>
+            <plain>ты в Бога верь и верь в Меня!»</plain>
+        </string>
+        <string>
+            <plain>Обителей на небе много,</plain>
+        </string>
+        <string>
+            <plain>там место есть и для тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Душа, (душа) не падай духом,</plain>
+        </string>
+        <string>
+            <plain>душа, (душа) не падай духом!</plain>
+        </string>
+        <string>
+            <plain>Душа, (душа) не падай духом</plain>
+        </string>
+        <string>
+            <plain>и не страшись вовек!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир Божий сохрани ты в сердце,</plain>
+        </string>
+        <string>
+            <plain>давай отпор в любой борьбе,</plain>
+        </string>
+        <string>
+            <plain>держись Христа ты в твёрдой вере,</plain>
+        </string>
+        <string>
+            <plain>победу Он принёс тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твоя надежда чрез сомненья</plain>
+        </string>
+        <string>
+            <plain>пусть не затмится никогда!</plain>
+        </string>
+        <string>
+            <plain>Победа над грехом и миром</plain>
+        </string>
+        <string>
+            <plain>твоя пусть будет навсегда!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="396" name="Он простил Да Он простил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он простил! Да, Он простил</plain>
+        </string>
+        <string>
+            <plain>Согрешение Петра,</plain>
+        </string>
+        <string>
+            <plain>В смертный грех Он не вменил</plain>
+        </string>
+        <string>
+            <plain>Отреченье у костра.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте, ангелы с небес!</plain>
+        </string>
+        <string>
+            <plain>Пойте, хоры Божьих сил!</plain>
+        </string>
+        <string>
+            <plain>Грешника Господь простил!</plain>
+        </string>
+        <string>
+            <plain>Грешника Господь простил!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я, прельщенный суетой,</plain>
+        </string>
+        <string>
+            <plain>Против Господа грешил,</plain>
+        </string>
+        <string>
+            <plain>Но пришел к Нему с мольбой,</plain>
+        </string>
+        <string>
+            <plain>И Господь меня простил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нету грозного меча,</plain>
+        </string>
+        <string>
+            <plain>Нету призрака суда;</plain>
+        </string>
+        <string>
+            <plain>Искупления свеча</plain>
+        </string>
+        <string>
+            <plain>Зажжена Им навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он простил! Да, Он простил!</plain>
+        </string>
+        <string>
+            <plain>Как от запада восток</plain>
+        </string>
+        <string>
+            <plain>Грех души Он удалил</plain>
+        </string>
+        <string>
+            <plain>И в покров небес облек.</plain>
+        </string>
+    </verse>
+</song>

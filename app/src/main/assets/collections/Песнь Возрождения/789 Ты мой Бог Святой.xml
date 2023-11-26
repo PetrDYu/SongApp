@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="789" name="Ты мой Бог Святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты - мой Бог Святой,</plain>
+        </string>
+        <string>
+            <plain>Я к Тебе стремлюсь,</plain>
+        </string>
+        <string>
+            <plain>Ибо знаю: в Тебе - покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У Твоей груди успокоюсь я,</plain>
+        </string>
+        <string>
+            <plain>Успокоится сердце мое.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаю, что в Тебе –</plain>
+        </string>
+        <string>
+            <plain>Радость вечная</plain>
+        </string>
+        <string>
+            <plain>И любовь неизменная.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И никто уже</plain>
+        </string>
+        <string>
+            <plain>Не лишит меня</plain>
+        </string>
+        <string>
+            <plain>Этой радости неземной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И когда придет</plain>
+        </string>
+        <string>
+            <plain>Тот последний час,</plain>
+        </string>
+        <string>
+            <plain>Верю, примешь меня к Себе.</plain>
+        </string>
+    </verse>
+</song>

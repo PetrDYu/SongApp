@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1400" name="Я знаю знает мой Отец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, знает мой Отец</plain>
+        </string>
+        <string>
+            <plain>Тернистый путь души моей.</plain>
+        </string>
+        <string>
+            <plain>Но Он мне обещал венец.</plain>
+        </string>
+        <string>
+            <plain>Венец по милости своей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отец (Отец, Тебе),</plain>
+        </string>
+        <string>
+            <plain>Тебе (Тебе, Тебе)</plain>
+        </string>
+        <string>
+            <plain>Известен путь души моей.</plain>
+        </string>
+        <string>
+            <plain>Отец (прошу Тебя),</plain>
+        </string>
+        <string>
+            <plain>Отец, (услышь меня)</plain>
+        </string>
+        <string>
+            <plain>Спаси меня в любви Твоей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я знаю, знает мой Отец</plain>
+        </string>
+        <string>
+            <plain>Агонию души моей,</plain>
+        </string>
+        <string>
+            <plain>Но Он, Целитель всех сердец.</plain>
+        </string>
+        <string>
+            <plain>Даст мне врачующий елей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю, знает мой Отец,</plain>
+        </string>
+        <string>
+            <plain>Как немощен и робок я.</plain>
+        </string>
+        <string>
+            <plain>Но Он, Спаситель и Творец,</plain>
+        </string>
+        <string>
+            <plain>Свершит победу для меня.</plain>
+        </string>
+    </verse>
+</song>

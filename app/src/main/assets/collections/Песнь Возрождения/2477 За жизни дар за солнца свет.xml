@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2477" name="За жизни дар за солнца свет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За жизни дар, за солнца свет,</plain>
+        </string>
+        <string>
+            <plain>За смену вёсен, зим и лет,</plain>
+        </string>
+        <string>
+            <plain>За синь небес и шум морей,</plain>
+        </string>
+        <string>
+            <plain>За урожай садов, полей,</plain>
+        </string>
+        <string>
+            <plain>Тебя, Творец, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Тебе я песнь хвалы пою.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>За шелест трав, за крик птенцов,</plain>
+        </string>
+        <string>
+            <plain>За дождь, что хлещет мне в лицо,</plain>
+        </string>
+        <string>
+            <plain>За иней, за мороз и зной,</plain>
+        </string>
+        <string>
+            <plain>За снегопад, за бури вой,</plain>
+        </string>
+        <string>
+            <plain>Тебя, Творец, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Тебе я песнь хвалы пою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За милость и любовь Твою,</plain>
+        </string>
+        <string>
+            <plain>За крест и смерть и жизнь в раю,</plain>
+        </string>
+        <string>
+            <plain>За радость сердца и покой,</plain>
+        </string>
+        <string>
+            <plain>За то, что я всегда с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Тебя, Христос, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Тебе я в радости пою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За скорбь души моей и боль,</plain>
+        </string>
+        <string>
+            <plain>За безответную любовь,</plain>
+        </string>
+        <string>
+            <plain>За розы жизни и шипы,</plain>
+        </string>
+        <string>
+            <plain>За все, что посылаешь Ты,</plain>
+        </string>
+        <string>
+            <plain>Тебя Христос, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Тебе и в скорби я пою,</plain>
+        </string>
+        <string>
+            <plain>Тебя, Творец, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Тебе и в радости я пою.</plain>
+        </string>
+    </verse>
+</song>

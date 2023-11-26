@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="216" name="Благодатная скала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодатная скала</plain>
+        </string>
+        <string>
+            <plain>Мне спасение дает;</plain>
+        </string>
+        <string>
+            <plain>От греха, порока, зла</plain>
+        </string>
+        <string>
+            <plain>Я в ней вижу свой оплот.</plain>
+        </string>
+        <string>
+            <plain>Из скалы Христа струей</plain>
+        </string>
+        <string>
+            <plain>Льется ток воды живой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я не мог соблюсть закон</plain>
+        </string>
+        <string>
+            <plain>И был к смерти осужден.</plain>
+        </string>
+        <string>
+            <plain>Грех преследовал меня,</plain>
+        </string>
+        <string>
+            <plain>Сердце жег сильней огня.</plain>
+        </string>
+        <string>
+            <plain>И я мог найти покой</plain>
+        </string>
+        <string>
+            <plain>Лишь в скале Христа святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пришел к Тебе, мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Я был наг, и Ты одел;</plain>
+        </string>
+        <string>
+            <plain>Я был беден, Ты в удел</plain>
+        </string>
+        <string>
+            <plain>Дал мне дивный Твой чертог;</plain>
+        </string>
+        <string>
+            <plain>Ты омыл меня в крови,</plain>
+        </string>
+        <string>
+            <plain>Я сокрыт в скале любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Благодатный Божий свет</plain>
+        </string>
+        <string>
+            <plain>Оградил меня от бед;</plain>
+        </string>
+        <string>
+            <plain>Среди горя и невзгод</plain>
+        </string>
+        <string>
+            <plain>Он мне силу подает.</plain>
+        </string>
+        <string>
+            <plain>Никого я не страшусь:</plain>
+        </string>
+        <string>
+            <plain>Ввек со мной скала - Иисус!</plain>
+        </string>
+    </verse>
+</song>

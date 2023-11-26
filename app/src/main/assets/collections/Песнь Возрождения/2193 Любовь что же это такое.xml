@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2193" name="Любовь что же это такое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь - что же это такое?</plain>
+        </string>
+        <string>
+            <plain>Любовь - это чувство, когда</plain>
+        </string>
+        <string>
+            <plain>Ты делаешь каждому доброе,</plain>
+        </string>
+        <string>
+            <plain>Не мьслишь, не делаешь зла.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Давайте друг друга любить</plain>
+        </string>
+        <string>
+            <plain>И каждому всё прощать.</plain>
+        </string>
+        <string>
+            <plain>Христова любовь - чудесная,</plain>
+        </string>
+        <string>
+            <plain>Христова любовь - благодать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть предан ты будешь злословию</plain>
+        </string>
+        <string>
+            <plain>И завистью окружён,</plain>
+        </string>
+        <string>
+            <plain>Но ты принимай всё с любовию,</plain>
+        </string>
+        <string>
+            <plain>Любовь покрывает ведь всё.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Взгляни на Голгофу, мой добрый друг,</plain>
+        </string>
+        <string>
+            <plain>Увидишь любовь Христа.</plain>
+        </string>
+        <string>
+            <plain>Иисус так тебя и меня возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Что принял все муки креста.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но вот ты споткнулся, упал в пути,</plain>
+        </string>
+        <string>
+            <plain>Вставай и иди вперёд.</plain>
+        </string>
+        <string>
+            <plain>Признай всю вину и раскайся сам,</plain>
+        </string>
+        <string>
+            <plain>Ведь Бог наш - Он есть любовь.</plain>
+        </string>
+    </verse>
+</song>

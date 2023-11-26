@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1000" name="Протяни ко мне святые руки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Протяни ко мне святые руки</plain>
+        </string>
+        <string>
+            <plain>И веди меня Своим путем.</plain>
+        </string>
+        <string>
+            <plain>Дай Твои мне помнить Крест и муки</plain>
+        </string>
+        <string>
+            <plain>И послушным быть Тебе во всем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Помоги мне за Тебя сражаться.</plain>
+        </string>
+        <string>
+            <plain>Прояви во всем Твою любовь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы с нею мог я подвизаться.</plain>
+        </string>
+        <string>
+            <plain>За друзей молиться, за врагов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Соверши, Господь, мое желанье</plain>
+        </string>
+        <string>
+            <plain>Неразлучным быть всегда с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб любви Твоей святой дыханье</plain>
+        </string>
+        <string>
+            <plain>Наполняло грудь и разум мой.</plain>
+        </string>
+    </verse>
+</song>

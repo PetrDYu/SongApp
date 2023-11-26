@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1345" name="Крепки Твоею силой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Крепки Твоею силой.</plain>
+        </string>
+        <string>
+            <plain>На труд Твой мы идем;</plain>
+        </string>
+        <string>
+            <plain>Любви Твоей вверяясь,</plain>
+        </string>
+        <string>
+            <plain>Тебе хвалу поем.</plain>
+        </string>
+        <string>
+            <plain>Без страха дней грядущих,</plain>
+        </string>
+        <string>
+            <plain>Забыв о прошлых днях,</plain>
+        </string>
+        <string>
+            <plain>Крепки Твоею силой,</plain>
+        </string>
+        <string>
+            <plain>Мы победим в трудах.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сильны Твоею мощью.</plain>
+        </string>
+        <string>
+            <plain>Все сделать сможем мы.</plain>
+        </string>
+        <string>
+            <plain>Ты грех наш смыл и в вере</plain>
+        </string>
+        <string>
+            <plain>Нас сохранишь средь тьмы.</plain>
+        </string>
+        <string>
+            <plain>Мы больше не споткнемся,</plain>
+        </string>
+        <string>
+            <plain>Наш дух неустрашим,</plain>
+        </string>
+        <string>
+            <plain>Сильны Твоею мощью.</plain>
+        </string>
+        <string>
+            <plain>Мы ею победим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Полны Твоей любовью,</plain>
+        </string>
+        <string>
+            <plain>Любовию щедрот.</plain>
+        </string>
+        <string>
+            <plain>Пойдем везде с Тобою,</plain>
+        </string>
+        <string>
+            <plain>Твои мы, Твой народ.</plain>
+        </string>
+        <string>
+            <plain>Мы поспешим к работе,</plain>
+        </string>
+        <string>
+            <plain>Где б нива ни была,</plain>
+        </string>
+        <string>
+            <plain>Полны Твоей любовью.</plain>
+        </string>
+        <string>
+            <plain>Творя Твои дела.</plain>
+        </string>
+    </verse>
+</song>

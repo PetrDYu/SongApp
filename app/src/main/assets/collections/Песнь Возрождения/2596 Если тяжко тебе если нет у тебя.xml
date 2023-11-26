@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2596" name="Если тяжко тебе если нет у тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если тяжко тебе, если нет у тебя</plain>
+        </string>
+        <string>
+            <plain>В жизни сил для борьбы и надежды</plain>
+        </string>
+        <string>
+            <plain>Нет того, кто бы мог отозваться, любя,</plain>
+        </string>
+        <string>
+            <plain>На сомненья твои и порывы.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если в жизни твоей оскорблен идеал,</plain>
+        </string>
+        <string>
+            <plain>Идеал человека и света,</plain>
+        </string>
+        <string>
+            <plain>Если часто грустишь или в жизни устал,</plain>
+        </string>
+        <string>
+            <plain>Отдохни на страницах Завета.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он поднимет угасшую веру в тебе,</plain>
+        </string>
+        <string>
+            <plain>Он рассеет сомненья и муки,</plain>
+        </string>
+        <string>
+            <plain>Он протянет тебе в непосильной борьбе</plain>
+        </string>
+        <string>
+            <plain>Милосердную Божию руку.</plain>
+        </string>
+    </verse>
+</song>

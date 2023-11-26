@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1638" name="Тот кто спасен призван спасать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тот, кто спасен, призван спасать.</plain>
+        </string>
+        <string>
+            <plain>Этот закон нам дала благодать.</plain>
+        </string>
+        <string>
+            <plain>Остановись, самарянин.</plain>
+        </string>
+        <string>
+            <plain>Снова беда с ближним твоим.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот он лежит, миром забыт.</plain>
+        </string>
+        <string>
+            <plain>Силой греха страшно избит.</plain>
+        </string>
+        <string>
+            <plain>О, не пройди, о, подними.</plain>
+        </string>
+        <string>
+            <plain>Силой любви к Богу веди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сердце и дом ближним открой.</plain>
+        </string>
+        <string>
+            <plain>Божий талант в прах не зарой.</plain>
+        </string>
+        <string>
+            <plain>Слез и молитв чудный елей</plain>
+        </string>
+        <string>
+            <plain>Для этих ран, друг, не жалей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слышишь, мой друг, призыв Христа?</plain>
+        </string>
+        <string>
+            <plain>Где вы, жнецы? - Нива бела.</plain>
+        </string>
+        <string>
+            <plain>Грешникам путь в небо открой;</plain>
+        </string>
+        <string>
+            <plain>Я их ищу, следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Дай мне. Господь, чувства Твои</plain>
+        </string>
+        <string>
+            <plain>И для других жить научи.</plain>
+        </string>
+        <string>
+            <plain>Радость небес, слезы земли,</plain>
+        </string>
+        <string>
+            <plain>- Боже, открой очи</plain>
+        </string>
+    </verse>
+</song>

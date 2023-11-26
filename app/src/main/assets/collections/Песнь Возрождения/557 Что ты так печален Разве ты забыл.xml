@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="557" name="Что ты так печален Разве ты забыл" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что ты так печален? Разве ты забыл:</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто безначален дух твой возлюбил!</plain>
+        </string>
+        <string>
+            <plain>Вечный, Он расстался с небом для земли,</plain>
+        </string>
+        <string>
+            <plain>Для тебя скитался в прахе и пыли.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Выпил Он отраву смерти и грехов,</plain>
+        </string>
+        <string>
+            <plain>Чтоб тебе дать славу, клад Своих даров.</plain>
+        </string>
+        <string>
+            <plain>Разве нет влеченья - Божий дар принять?</plain>
+        </string>
+        <string>
+            <plain>Иль тебе сомненья так мешают взять?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг! Не верь, смущаясь, мрачным голосам;</plain>
+        </string>
+        <string>
+            <plain>Но взгляни, мужаясь, к светлым небесам.</plain>
+        </string>
+        <string>
+            <plain>И печаль рассеет луч любви Христа,</plain>
+        </string>
+        <string>
+            <plain>И тебя согреет Божья теплота.</plain>
+        </string>
+    </verse>
+</song>

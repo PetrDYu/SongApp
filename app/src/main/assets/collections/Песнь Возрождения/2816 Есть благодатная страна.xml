@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2816" name="Есть благодатная страна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть благодатная страна,</plain>
+        </string>
+        <string>
+            <plain>что глазом веры лишь видна;</plain>
+        </string>
+        <string>
+            <plain>она лежит в конце пути</plain>
+        </string>
+        <string>
+            <plain>- стремитесь все в неё войти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вперед, вперед в святой борьбе!</plain>
+        </string>
+        <string>
+            <plain>Сомненья бросьте все!</plain>
+        </string>
+        <string>
+            <plain>Кто хочет той страной владеть,</plain>
+        </string>
+        <string>
+            <plain>не должен никогда робеть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть искушенья встретишь ты;</plain>
+        </string>
+        <string>
+            <plain>брат, не собьешься ты с пути,</plain>
+        </string>
+        <string>
+            <plain>когда без страха ты всегда</plain>
+        </string>
+        <string>
+            <plain>взираешь в вере на Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грозят гонения тебе</plain>
+        </string>
+        <string>
+            <plain>- найдешь награду во Христе;</plain>
+        </string>
+        <string>
+            <plain>Оставь ты ради Бога всё,</plain>
+        </string>
+        <string>
+            <plain>погибнет, кто не чтит Его.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не предавайтесь суете,</plain>
+        </string>
+        <string>
+            <plain>спешите, братья, сестры, все!</plain>
+        </string>
+        <string>
+            <plain>Путем тернистым в мире слез</plain>
+        </string>
+        <string>
+            <plain>в небесный дом ведет Христос!</plain>
+        </string>
+    </verse>
+</song>

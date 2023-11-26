@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="322" name="Друг мой к Господу приди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Друг мой, к Господу приди</plain>
+        </string>
+        <string>
+            <plain>С верою живой!</plain>
+        </string>
+        <string>
+            <plain>У Его святой груди</plain>
+        </string>
+        <string>
+            <plain>Ты найдешь покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да прославят все уста</plain>
+        </string>
+        <string>
+            <plain>Господа Христа:</plain>
+        </string>
+        <string>
+            <plain>Он за грешников страдал</plain>
+        </string>
+        <string>
+            <plain>И им вечность дал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог оставил Свой престол</plain>
+        </string>
+        <string>
+            <plain>В славных небесах</plain>
+        </string>
+        <string>
+            <plain>И на землю к нам сошел,</plain>
+        </string>
+        <string>
+            <plain>Чтоб рассеять мрак.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг! Спасение твое</plain>
+        </string>
+        <string>
+            <plain>Приобрел Христос;</plain>
+        </string>
+        <string>
+            <plain>На кресте Он произнес:</plain>
+        </string>
+        <string>
+            <plain>"Совершилось все!"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поспеши к Нему теперь,</plain>
+        </string>
+        <string>
+            <plain>Сбрось греховный гнет;</plain>
+        </string>
+        <string>
+            <plain>Он открыл спасенья дверь</plain>
+        </string>
+        <string>
+            <plain>И к Себе зовет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3070" name="Смотрите нам любовь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Смотрите, нам любовь</plain>
+        </string>
+        <string>
+            <plain>Отец какую оказал тем,</plain>
+        </string>
+        <string>
+            <plain>что Он Сына Своего</plain>
+        </string>
+        <string>
+            <plain>за нас на смерть послал!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь подобна морю,</plain>
+        </string>
+        <string>
+            <plain>без края и конца.</plain>
+        </string>
+        <string>
+            <plain>Чтоб мир спасти от горя,</plain>
+        </string>
+        <string>
+            <plain>Христос отдал Себя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как непорочный агнец</plain>
+        </string>
+        <string>
+            <plain>Он положил жизнь Свою,</plain>
+        </string>
+        <string>
+            <plain>чтоб душу, тело исцелить</plain>
+        </string>
+        <string>
+            <plain>всем, кто придёт к Нему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Какую Он любовь явил,</plain>
+        </string>
+        <string>
+            <plain>на смерть отдав Себя!</plain>
+        </string>
+        <string>
+            <plain>Он к небу путь для всех</plain>
+        </string>
+        <string>
+            <plain>открыл чрез кровь. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любовь Его включает всех,</plain>
+        </string>
+        <string>
+            <plain>Он смертью жизнь нам дал.</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему, оставь свой грех,</plain>
+        </string>
+        <string>
+            <plain>Он за тебя страдал.</plain>
+        </string>
+    </verse>
+</song>

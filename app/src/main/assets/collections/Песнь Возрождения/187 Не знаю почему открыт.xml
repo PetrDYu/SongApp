@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="187" name="Не знаю почему открыт" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не знаю, почему открыт</plain>
+        </string>
+        <string>
+            <plain>Мне благодати дар,</plain>
+        </string>
+        <string>
+            <plain>Иль почему спасенья щит</plain>
+        </string>
+        <string>
+            <plain>Мне дан от вечных кар, -</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но я знаю, в кого я верю,</plain>
+        </string>
+        <string>
+            <plain>Ничто меня с Христом не разлучит;</plain>
+        </string>
+        <string>
+            <plain>И Он мне спасенье вручит</plain>
+        </string>
+        <string>
+            <plain>В день, когда опять придет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не знаю, как мой Бог дает</plain>
+        </string>
+        <string>
+            <plain>Мне веры слух живой,</plain>
+        </string>
+        <string>
+            <plain>И как та вера мир несет</plain>
+        </string>
+        <string>
+            <plain>Скорбящему душой, -</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не знаю я, как Дух Святой</plain>
+        </string>
+        <string>
+            <plain>К греху внушает страх,</plain>
+        </string>
+        <string>
+            <plain>И как дает Христос благой</plain>
+        </string>
+        <string>
+            <plain>Прощение в грехах, -</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не знаю я, что в жизни мне</plain>
+        </string>
+        <string>
+            <plain>Назначено нести,</plain>
+        </string>
+        <string>
+            <plain>И как меня к родной стране</plain>
+        </string>
+        <string>
+            <plain>Бог хочет довести, -</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Не знаю времени, ни дня,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь придет,</plain>
+        </string>
+        <string>
+            <plain>Иль как чрез смерть иль Сам меня</plain>
+        </string>
+        <string>
+            <plain>В тот день Он позовет, -</plain>
+        </string>
+    </verse>
+</song>

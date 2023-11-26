@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1931" name="Бог неустанно в природе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог неустанно в природе</plain>
+        </string>
+        <string>
+            <plain>Труд Свой свершает везде.</plain>
+        </string>
+        <string>
+            <plain>Бог мой в поле на свободе,</plain>
+        </string>
+        <string>
+            <plain>В море и птичьем гнезде.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радости жизни, питанье.</plain>
+        </string>
+        <string>
+            <plain>Все, чем земное живет,</plain>
+        </string>
+        <string>
+            <plain>Вечного Бога дыханье</plain>
+        </string>
+        <string>
+            <plain>Всем в изобилье дает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб меня услаждали</plain>
+        </string>
+        <string>
+            <plain>Виды природы, Творец:</plain>
+        </string>
+        <string>
+            <plain>Дай, чтобы не знал я печали,</plain>
+        </string>
+        <string>
+            <plain>Помня, что Ты мой Отец.</plain>
+        </string>
+    </verse>
+</song>

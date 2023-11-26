@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="427" name="Господу славу поем, слуги Его" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Господу славу поем, слуги Его.</plain>
+        </string>
+        <string>
+            <plain>Да славится имя Господе отныне и вовек!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Благословляйте Его от зари до зари.</plain>
+        </string>
+        <string>
+            <plain>Благо Господу нашему петь, Он нам радует сердца.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="1" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Счастлив, кто слышит, Господь, слово Твое.</plain>
+        </string>
+        <string>
+            <plain>Оно освящает нам путь и к свету нас ведёт.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="2" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я воспою чудеса, Боже, Твои.</plain>
+        </string>
+        <string>
+            <plain>И кроткие будут блаженны, потому что их Бог возлюбил.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="3" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+</song>

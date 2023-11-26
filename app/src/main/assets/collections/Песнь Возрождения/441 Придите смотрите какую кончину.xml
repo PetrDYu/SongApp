@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="441" name="Придите смотрите какую кончину" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Придите, смотрите, какую кончину</plain>
+        </string>
+        <string>
+            <plain>Наш грех приготовил предвечному Сыну!</plain>
+        </string>
+        <string>
+            <plain>Вот руки, вот ноги, вот сердце пронзено,</plain>
+        </string>
+        <string>
+            <plain>Вот тернием страшно чело изъязвлено!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя Господу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто станет надежду тревожить сомненьем?</plain>
+        </string>
+        <string>
+            <plain>Нет, вероватьдолжно нам с детским смиреньем;</plain>
+        </string>
+        <string>
+            <plain>Оставим навеки ума мудрствованья:</plain>
+        </string>
+        <string>
+            <plain>Ведь сердцу простому даны обещанья!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто зло и греховность в себе обличает,</plain>
+        </string>
+        <string>
+            <plain>Тому путь к спасенью Сам Бог открывает;</plain>
+        </string>
+        <string>
+            <plain>Кто собственной  силой не ищет спасенья,</plain>
+        </string>
+        <string>
+            <plain>Тому кровь Иисуса дает исцеленье.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы были за грех навсегда осуждены,</plain>
+        </string>
+        <string>
+            <plain>Но кровию Сына навеки спасены.</plain>
+        </string>
+        <string>
+            <plain>О, будем же славить в душе сокрушенной</plain>
+        </string>
+        <string>
+            <plain>Иисуса за подвиг любви, Им свершенный.</plain>
+        </string>
+    </verse>
+</song>

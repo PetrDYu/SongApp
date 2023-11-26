@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="98" name="О неужели Царь вселенной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, неужели, Царь вселенной,</plain>
+        </string>
+        <string>
+            <plain>Не славен в небе Твой престол,</plain>
+        </string>
+        <string>
+            <plain>Что в глубине души смиренной</plain>
+        </string>
+        <string>
+            <plain>Ты царство для Себя обрел?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой ум смолкает,</plain>
+        </string>
+        <string>
+            <plain>Но сердце мне твердит:</plain>
+        </string>
+        <string>
+            <plain>Любовь великое свершает</plain>
+        </string>
+        <string>
+            <plain>И в малом дивное творит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, неужели, Царь небесный,</plain>
+        </string>
+        <string>
+            <plain>Простор небес Твоих так мал,</plain>
+        </string>
+        <string>
+            <plain>Что в хижине моей телесной</plain>
+        </string>
+        <string>
+            <plain>Ты храм воздвигнуть пожелал?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, неужели, Царь небесный,</plain>
+        </string>
+        <string>
+            <plain>Так скудна ангелов хвала,</plain>
+        </string>
+        <string>
+            <plain>Что восхотел Ты слышать песни</plain>
+        </string>
+        <string>
+            <plain>Из уст нечистых, полных зла?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, неужели, Царь вселенной,</plain>
+        </string>
+        <string>
+            <plain>Не светел мир духов Твоих,</plain>
+        </string>
+        <string>
+            <plain>Что труд простой, несовершенный</plain>
+        </string>
+        <string>
+            <plain>Ты ждешь от слабых сил моих?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, неужели, Царь державный,</plain>
+        </string>
+        <string>
+            <plain>Я для Тебя дороже был,</plain>
+        </string>
+        <string>
+            <plain>Чем Сын Твой вечный, Сын Твой славный,</plain>
+        </string>
+        <string>
+            <plain>- Ты для меня Его забыл.</plain>
+        </string>
+    </verse>
+</song>

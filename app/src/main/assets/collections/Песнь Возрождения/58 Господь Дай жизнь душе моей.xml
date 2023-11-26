@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="58" name="Господь Дай жизнь душе моей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! Дай жизнь душе моей,</plain>
+        </string>
+        <string>
+            <plain>Возьми ее как достоянье.</plain>
+        </string>
+        <string>
+            <plain>Ты на кресте терпел для ней</plain>
+        </string>
+        <string>
+            <plain>Печали, скорби и страданья.</plain>
+        </string>
+        <string>
+            <plain>И пусть, Тобою спасена,</plain>
+        </string>
+        <string>
+            <plain>Да будет ввек Твоя она!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь! Дай жизнь душе моей,</plain>
+        </string>
+        <string>
+            <plain>Очисти сердце, помышленья.</plain>
+        </string>
+        <string>
+            <plain>Дать все один Ты можешь ей,</plain>
+        </string>
+        <string>
+            <plain>Взгляни на скорбь и искушенья.</plain>
+        </string>
+        <string>
+            <plain>Ничтожен и бессилен я;</plain>
+        </string>
+        <string>
+            <plain>Ты помощь, сила, жизнь моя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь! Дай жизнь душе моей,</plain>
+        </string>
+        <string>
+            <plain>Излей в нее Свою Ты силу.</plain>
+        </string>
+        <string>
+            <plain>Не дай Ты здесь погибнуть ей</plain>
+        </string>
+        <string>
+            <plain>И свергни грешное в могилу;</plain>
+        </string>
+        <string>
+            <plain>Да буду сердцем и душой</plain>
+        </string>
+        <string>
+            <plain>Я вечно соединен с Тобой!</plain>
+        </string>
+    </verse>
+</song>

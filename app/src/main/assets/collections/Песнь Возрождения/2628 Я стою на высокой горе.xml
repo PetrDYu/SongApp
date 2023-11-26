@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2628" name="Я стою на высокой горе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я стою на высокой горе,</plain>
+        </string>
+        <string>
+            <plain>Ниже - поле лежит в серебре.</plain>
+        </string>
+        <string>
+            <plain>Воздух чист, ароматен и свеж,</plain>
+        </string>
+        <string>
+            <plain>Не видать разделяющих меж.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Соловьиная, звонкая Русь,</plain>
+        </string>
+        <string>
+            <plain>Я стихами тебе отзовусь!</plain>
+        </string>
+        <string>
+            <plain>Есть ответ на великий вопрос:</plain>
+        </string>
+        <string>
+            <plain>Людям нужен Спаситель Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В этой чудной, блаженной тиши</plain>
+        </string>
+        <string>
+            <plain>Дни и ночи всегда хороши.</plain>
+        </string>
+        <string>
+            <plain>Рядом озеро. В зеркале вод</plain>
+        </string>
+        <string>
+            <plain>Отразился шатер-небосвод.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я ответ этот долго искал,</plain>
+        </string>
+        <string>
+            <plain>И терялся мой голос средь скал.</plain>
+        </string>
+        <string>
+            <plain>Но теперь буду смело твердить,</plain>
+        </string>
+        <string>
+            <plain>Что легко со Спасителем жить.</plain>
+        </string>
+        <string>
+            <plain>Я стою на высокой горе,</plain>
+        </string>
+        <string>
+            <plain>Ниже - поле лежит в серебре.</plain>
+        </string>
+        <string>
+            <plain>Воздух чист, ароматен и свеж,</plain>
+        </string>
+        <string>
+            <plain>Не видать разделяющих меж.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Соловьиная, звонкая Русь,</plain>
+        </string>
+        <string>
+            <plain>Я стихами тебе отзовусь!</plain>
+        </string>
+        <string>
+            <plain>Есть ответ на великий вопрос:</plain>
+        </string>
+        <string>
+            <plain>Людям нужен Спаситель Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="4">
+        <string>
+            <plain>В этой чудной, блаженной тиши</plain>
+        </string>
+        <string>
+            <plain>Дни и ночи всегда хороши.</plain>
+        </string>
+        <string>
+            <plain>Рядом озеро. В зеркале вод</plain>
+        </string>
+        <string>
+            <plain>Отразился шатер-небосвод.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я ответ этот долго искал,</plain>
+        </string>
+        <string>
+            <plain>И терялся мой голос средь скал.</plain>
+        </string>
+        <string>
+            <plain>Но теперь буду смело твердить,</plain>
+        </string>
+        <string>
+            <plain>Что легко со Спасителем жить.</plain>
+        </string>
+    </verse>
+</song>

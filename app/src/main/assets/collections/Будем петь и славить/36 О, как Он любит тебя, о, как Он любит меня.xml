@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="36" name="О, как Он любит тебя, о, как Он любит меня" canon="false" text="К. Кайзера" textRus="Е. Трофимовой" music="К. Кайзера" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, как Он любит тебя, о, как Он любит меня!</plain>
+        </string>
+        <string>
+            <plain>Он отдал жизнь. Что мог еще дать?</plain>
+        </string>
+        <string>
+            <plain>О, как Он любит, о, как Он любит, любит тебя и меня!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, как Он верит в тебя...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как Он ценит тебя...</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="659" name="О где же жнецы чтоб теперь собрать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, где же жнецы, чтоб теперь собрать</plain>
+        </string>
+        <string>
+            <plain>С полей, злом богатых,- добра снопы?</plain>
+        </string>
+        <string>
+            <plain>Серпами любви надо труд свершать,</plain>
+        </string>
+        <string>
+            <plain>До тени ночной класть нельзя серпы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Где же жнецы, где? Кто, кто готов?</plain>
+        </string>
+        <string>
+            <plain>Кто хочет на праздник житницы прийти?</plain>
+        </string>
+        <string>
+            <plain>Кто хочет с нами в нее нести</plain>
+        </string>
+        <string>
+            <plain>Колосья мира с полей грехов?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ищите колосья среди травы,</plain>
+        </string>
+        <string>
+            <plain>Пшеницу средь плевел найдете вы;</plain>
+        </string>
+        <string>
+            <plain>Не бросьте колосьев, что у пути,</plain>
+        </string>
+        <string>
+            <plain>Спешите их в житницу принести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот колос созрел уж, к земле поник;</plain>
+        </string>
+        <string>
+            <plain>И жатвы великой мир скоро ждет;</plain>
+        </string>
+        <string>
+            <plain>Работников мало, а труд велик,</plain>
+        </string>
+        <string>
+            <plain>Нельзя медлить нам, ведь все пропадет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Берите же, люди, свои серпы,</plain>
+        </string>
+        <string>
+            <plain>Несите с обильным зерном снопы;</plain>
+        </string>
+        <string>
+            <plain>Трудитесь до встречи Царя-Главы</plain>
+        </string>
+        <string>
+            <plain>И в житницу Божью войдете вы.</plain>
+        </string>
+    </verse>
+</song>

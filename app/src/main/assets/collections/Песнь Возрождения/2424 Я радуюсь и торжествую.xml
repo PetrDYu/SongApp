@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2424" name="Я радуюсь и торжествую" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я радуюсь и торжествую,</plain>
+        </string>
+        <string>
+            <plain>Спасенный я кровью Христа,</plain>
+        </string>
+        <string>
+            <plain>Иисуса имя прославляю</plain>
+        </string>
+        <string>
+            <plain>За подвиг Голгофы креста.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус меня освободил,</plain>
+        </string>
+        <string>
+            <plain>На крест Голгофский взойдя,</plain>
+        </string>
+        <string>
+            <plain>Грехи простил, в крови омыл,</plain>
+        </string>
+        <string>
+            <plain>И ныне я Божье дитя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христос в моей душе родился,</plain>
+        </string>
+        <string>
+            <plain>Словами нельзя рассказать.</plain>
+        </string>
+        <string>
+            <plain>Он в моём сердце поселился,</plain>
+        </string>
+        <string>
+            <plain>И хочет Он в нём обитать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Конец страданьям и печалям</plain>
+        </string>
+        <string>
+            <plain>Лишь в небе душа обретёт,</plain>
+        </string>
+        <string>
+            <plain>И я стремлюсь к небесным далям,</plain>
+        </string>
+        <string>
+            <plain>Меня мой Спаситель там ждёт.</plain>
+        </string>
+    </verse>
+</song>

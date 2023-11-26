@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2697" name="Стой солнце стой к закату не стремись" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стой, солнце, стой, к закату не стремись,</plain>
+        </string>
+        <string>
+            <plain>Мой путь далек и страшен сумрак ночи.</plain>
+        </string>
+        <string>
+            <plain>Стой, солнце, стой и к полдню возвратись,</plain>
+        </string>
+        <string>
+            <plain>Да видят свет утомленные очи.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Гляжу с тревогой я в седую даль,</plain>
+        </string>
+        <string>
+            <plain>Что протянулась грозно предо мною.</plain>
+        </string>
+        <string>
+            <plain>Стой, солнце, стой, туманная печаль</plain>
+        </string>
+        <string>
+            <plain>С тоскою смертной гонится за мною.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пускай еще продлится ясный день,</plain>
+        </string>
+        <string>
+            <plain>И гонит прочь тревож ной мысли тени.</plain>
+        </string>
+        <string>
+            <plain>О, ночь близка и тускнет мой денек,</plain>
+        </string>
+        <string>
+            <plain>Стой, солнце, стой. Мой путь еще далек.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="445" name="Услышь Услышь Господень глас" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Услышь! Услышь Господень глас.</plain>
+        </string>
+        <string>
+            <plain>Тому, кто Его ждет, являет Он Себя.</plain>
+        </string>
+        <string>
+            <plain>Услышь! Пусть все в тебе молчит,</plain>
+        </string>
+        <string>
+            <plain>Пусть стихнет все в тебе, Господь пусть говорит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Услышь! Заботы все оставь,</plain>
+        </string>
+        <string>
+            <plain>Пусть смолкнут все слова, пусть крики не звучат.</plain>
+        </string>
+        <string>
+            <plain>Услышь! Бог-Сеятель зовет,</plain>
+        </string>
+        <string>
+            <plain>Хлеб жизни – Его слово, что насыщает нас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Услышь! В пустыню Бог зовет.</plain>
+        </string>
+        <string>
+            <plain>И вечности родник нам дарит в тишине.</plain>
+        </string>
+        <string>
+            <plain>Услышь! К нам в дверь Господь стучит,</plain>
+        </string>
+        <string>
+            <plain>И будет тот блажен, кто двери отворит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Услышь! С тобою Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Тебя Он осенит дыханием любви.</plain>
+        </string>
+        <string>
+            <plain>Услышь! Ты Господом любим,</plain>
+        </string>
+        <string>
+            <plain>Тебя избрал Господь, Он жизнь тебе дарит.</plain>
+        </string>
+    </verse>
+</song>

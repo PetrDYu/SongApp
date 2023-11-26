@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="6" name="О Божьих слов не пропускай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, Божьих слов не пропускай,</plain>
+        </string>
+        <string>
+            <plain>Не закрывай от света глаз</plain>
+        </string>
+        <string>
+            <plain>И сердца не ожесточай,</plain>
+        </string>
+        <string>
+            <plain>О, будь спасен - приди сейчас!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>День завтра может не блеснуть</plain>
+        </string>
+        <string>
+            <plain>И солнце не осветит нас;</plain>
+        </string>
+        <string>
+            <plain>Теперь пора! О, мудрым будь,</plain>
+        </string>
+        <string>
+            <plain>О, будь спасен - приди сейчас!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не может мир нас наградить,</plain>
+        </string>
+        <string>
+            <plain>В нем нет отрад, он - яд для нас.</plain>
+        </string>
+        <string>
+            <plain>Начни по-христиански жить.</plain>
+        </string>
+        <string>
+            <plain>О, будь спасен - приди сейчас!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь не хочет тех изгнать,</plain>
+        </string>
+        <string>
+            <plain>Кто с Ним вступил в общенье раз;</plain>
+        </string>
+        <string>
+            <plain>Он хочет в них Свой труд начать,</plain>
+        </string>
+        <string>
+            <plain>О, будь спасен - приди сейчас!</plain>
+        </string>
+    </verse>
+</song>

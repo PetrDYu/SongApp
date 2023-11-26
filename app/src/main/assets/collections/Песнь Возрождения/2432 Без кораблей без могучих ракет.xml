@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2432" name="Без кораблей без могучих ракет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Без кораблей, без могучих ракет</plain>
+        </string>
+        <string>
+            <plain>В мир желаный, в мир сладостных грез,</plain>
+        </string>
+        <string>
+            <plain>Путь мой лежит мимо дальних планет,</plain>
+        </string>
+        <string>
+            <plain>Там впереди мог Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я на земле прохожий,</plain>
+        </string>
+        <string>
+            <plain>В мире безмерном - чужой.,</plain>
+        </string>
+        <string>
+            <plain>Люди стремятся в космос,</plain>
+        </string>
+        <string>
+            <plain>А я хочу домой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир надо мной смеется,</plain>
+        </string>
+        <string>
+            <plain>Ложным позором клеймит,</plain>
+        </string>
+        <string>
+            <plain>Но мой великий Спаситель</plain>
+        </string>
+        <string>
+            <plain>В высь мне стремиться велит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>С Ним победить смогу я</plain>
+        </string>
+        <string>
+            <plain>Лютую злобу врага,</plain>
+        </string>
+        <string>
+            <plain>Дружба Его и победа</plain>
+        </string>
+        <string>
+            <plain>Очень мне дорога.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Боже, даруй мне силу</plain>
+        </string>
+        <string>
+            <plain>Крест свой с терпеньем нести.</plain>
+        </string>
+        <string>
+            <plain>Чтобы в святую Отчизну</plain>
+        </string>
+        <string>
+            <plain>Мог я свободно войти.</plain>
+        </string>
+    </verse>
+</song>

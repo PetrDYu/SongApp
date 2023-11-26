@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3" name="Боже Слышать слово" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже! Слышать слово</plain>
+        </string>
+        <string>
+            <plain>Ты позволил снова,</plain>
+        </string>
+        <string>
+            <plain>К нам склони святой Свой лик,</plain>
+        </string>
+        <string>
+            <plain>Чтобы свет Твой в нас проник!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И пребудь с дарами</plain>
+        </string>
+        <string>
+            <plain>Мира ныне с нами,</plain>
+        </string>
+        <string>
+            <plain>Дай нам Духа благодать,</plain>
+        </string>
+        <string>
+            <plain>Дай Тебя душой принять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Восхвалите снова</plain>
+        </string>
+        <string>
+            <plain>Вы Христа живого!</plain>
+        </string>
+        <string>
+            <plain>Он спасения венец,</plain>
+        </string>
+        <string>
+            <plain>Он - наш Пастырь и Отец!</plain>
+        </string>
+    </verse>
+</song>

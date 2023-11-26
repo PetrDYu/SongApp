@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="145" name="Нам Отец спасенье дал даром, даром, даром" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Нам Отец спасенье дал даром, даром, даром.</plain>
+        </string>
+        <string>
+            <plain>С неба Сына нам послал даром, даром, даром.</plain>
+        </string>
+        <string>
+            <plain>Наши все грехи простил, Кровию Своей омыл.</plain>
+        </string>
+        <string>
+            <plain>С Богом нас Он примирил даром, даром, даром.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот течет поток живой даром, даром, даром.</plain>
+        </string>
+        <string>
+            <plain>Дар спасенья дорогой даром, даром, даром.</plain>
+        </string>
+        <string>
+            <plain>Всякий, кто к нему придет, тот спасение найдет.</plain>
+        </string>
+        <string>
+            <plain>Тот поток для всех течет даром, даром, даром.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грешник, любит Бог тебя даром, даром, даром.</plain>
+        </string>
+        <string>
+            <plain>Хочет Он спасти тебя даром, даром, даром.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Сердце ты Ему отдай, этот зов не отвергай.</plain>
+        </string>
+        <string>
+            <plain>И получишь вечный рай даром, даром, даром.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

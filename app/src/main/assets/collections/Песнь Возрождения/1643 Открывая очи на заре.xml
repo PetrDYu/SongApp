@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1643" name="Открывая очи на заре" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Открывая очи на заре,</plain>
+        </string>
+        <string>
+            <plain>К лучшему и горнему стремись,</plain>
+        </string>
+        <string>
+            <plain>Стоит научиться на земле</plain>
+        </string>
+        <string>
+            <plain>К небу направлять и взор, и мысль.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скоро, скоро пыль земных дорог</plain>
+        </string>
+        <string>
+            <plain>С утомленных ног мы отряхнем</plain>
+        </string>
+        <string>
+            <plain>И увидим, что великий Бог</plain>
+        </string>
+        <string>
+            <plain>В небе вечном будет все во всем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Горе не стучит обычно в дверь.</plain>
+        </string>
+        <string>
+            <plain>Многих застает оно врасплох.</plain>
+        </string>
+        <string>
+            <plain>Но, когда мы с верой смотрим вверх.</plain>
+        </string>
+        <string>
+            <plain>Наши скорби заслоняет Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И весну и осень знает сад.</plain>
+        </string>
+        <string>
+            <plain>Годы могут красоту стереть.</plain>
+        </string>
+        <string>
+            <plain>Но идем мы к светлым небесам,</plain>
+        </string>
+        <string>
+            <plain>Где не будем никогда стареть.</plain>
+        </string>
+    </verse>
+</song>

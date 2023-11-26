@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="320" name="С любовью к братьям и друзьям моим" canon="false" text="" textRus="М. Винецкой" music="Традиционная еврейская" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>С любовью к братьям и друзьям моим</plain>
+        </string>
+        <string>
+            <plain>Скажем: да будет мир с тобой.</plain>
+        </string>
+        <string>
+            <plain>Сияй для всех, кто верен Царю царей,</plain>
+        </string>
+        <string>
+            <plain>Выйди из мрака, город мой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иерусалим, воспрянь и пробудись.</plain>
+        </string>
+        <string>
+            <plain>Ла-ла-лай-ла-ла-ла-ла-ла-ла-лай.</plain>
+        </string>
+        <string>
+            <plain>Иерусалим, звездой в ночи светись.</plain>
+        </string>
+        <string>
+            <plain>Ла-ла-лай-ла-ла-ла-ла-ла-ла-лай.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Гора Сион, святой Иерусалим,</plain>
+        </string>
+        <string>
+            <plain>Город, возлюбленный Творцом.</plain>
+        </string>
+        <string>
+            <plain>Тебе желаю мира, город мой,</plain>
+        </string>
+        <string>
+            <plain>И говорю: шалом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иерусалим, встречай Царя царей,</plain>
+        </string>
+        <string>
+            <plain>Песню хвалы Ему воспой.</plain>
+        </string>
+        <string>
+            <plain>Маранафа, грядет Спаситель твой,</plain>
+        </string>
+        <string>
+            <plain>Бог милосердный твой.</plain>
+        </string>
+    </verse>
+</song>

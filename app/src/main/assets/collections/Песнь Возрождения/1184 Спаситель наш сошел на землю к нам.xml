@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1184" name="Спаситель наш сошел на землю к нам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель наш сошел на землю к нам,</plain>
+        </string>
+        <string>
+            <plain>- Принес Он всем спасения бальзам.</plain>
+        </string>
+        <string>
+            <plain>Он пострадал и, всех нас возлюбя,</plain>
+        </string>
+        <string>
+            <plain>В подарок сделал жертвою Себя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Творец Он солнца, неба и луны.</plain>
+        </string>
+        <string>
+            <plain>Творец Он человека и земли.</plain>
+        </string>
+        <string>
+            <plain>Он, сотворивший мириады звезд,</plain>
+        </string>
+        <string>
+            <plain>В награду получил лишь ржавый гвоздь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Под шепот листьев и в дневной тиши</plain>
+        </string>
+        <string>
+            <plain>Принес Он всем спасение души.</plain>
+        </string>
+        <string>
+            <plain>Он грешника зовет: "Ко Мне приди,</plain>
+        </string>
+        <string>
+            <plain>Покой найдешь ты у Моей груди".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как часто забываем мы о том.</plain>
+        </string>
+        <string>
+            <plain>Что Иисус зовет нас в Отчий дом,</plain>
+        </string>
+        <string>
+            <plain>Что жизнь отдал Христос лишь ради нас...</plain>
+        </string>
+        <string>
+            <plain>Приди, Он ждет тебя и в этот час!</plain>
+        </string>
+    </verse>
+</song>

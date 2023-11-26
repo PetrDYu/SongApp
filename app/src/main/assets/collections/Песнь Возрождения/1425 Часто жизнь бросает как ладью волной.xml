@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1425" name="Часто жизнь бросает как ладью волной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Часто жизнь бросает, как ладью волной.</plain>
+        </string>
+        <string>
+            <plain>Но Господь дарует радость и покой.</plain>
+        </string>
+        <string>
+            <plain>И среди скорби жгучей, бури роковой</plain>
+        </string>
+        <string>
+            <plain>Слышу голос ясный с неба:</plain>
+        </string>
+        <string>
+            <plain>"Я всегда с тобой!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как роса спадает раннею зарей,</plain>
+        </string>
+        <string>
+            <plain>Так омою в скорби я глаза слезой;</plain>
+        </string>
+        <string>
+            <plain>В небо вознесусь я искренней мольбой</plain>
+        </string>
+        <string>
+            <plain>И услышу голос ясный:</plain>
+        </string>
+        <string>
+            <plain>"Я всегда с тобой!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Только в Иисусе успокоюсь я,</plain>
+        </string>
+        <string>
+            <plain>Он - моя надежда и душе маяк!</plain>
+        </string>
+        <string>
+            <plain>В испытаньях, верю, Кормчий проведет</plain>
+        </string>
+        <string>
+            <plain>И к Своей лазури в небо скоро вознесет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2253" name="Однажды к Христу приходил Никодим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Однажды к Христу приходил Никодим,</plain>
+        </string>
+        <string>
+            <plain>О Царствии Божьем беседовал с Ним.</plain>
+        </string>
+        <string>
+            <plain>И Он Никодиму с премудростью рек:</plain>
+        </string>
+        <string>
+            <plain>"Да, будет от Духа рожден человек".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто свыше от Духа не будет рожден,</plain>
+        </string>
+        <string>
+            <plain>Тот в Царствие Божье не будет введен.</plain>
+        </string>
+        <string>
+            <plain>Ведь старое сердце не может так жить,</plain>
+        </string>
+        <string>
+            <plain>И Духом Святым нужно все обновить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О грешник, покайся и верой внемли,</plain>
+        </string>
+        <string>
+            <plain>Что Бог приго товил для верных земли.</plain>
+        </string>
+        <string>
+            <plain>Пусть в сердце твоем раздается вовек:</plain>
+        </string>
+        <string>
+            <plain>Да, будет от Духа рожден человек!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто хочет наследовать царство Отца</plain>
+        </string>
+        <string>
+            <plain>И там ликовать в торжестве без конца,</plain>
+        </string>
+        <string>
+            <plain>Забыть все земные тревоги как сон,</plain>
+        </string>
+        <string>
+            <plain>Тот должен быть в сердце от Духа рожден!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="111" name="Наш Всемогущий Бог царит на небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наш Всемогущий Бог царит на небесах.</plain>
+        </string>
+        <string>
+            <plain>Он вечный Бог и Он живет в людских сердцах.</plain>
+        </string>
+        <string>
+            <plain>Он - Сущий и Его земля и небеса.</plain>
+        </string>
+        <string>
+            <plain>Пред Ним сливаются в хвале все голоса.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Наш Всемогущий Бог с любовью повелел</plain>
+        </string>
+        <string>
+            <plain>Из праха встать, Его искать, войти в удел,</plain>
+        </string>
+        <string>
+            <plain>Изменчиво нам все: богатство, слава, власть;</plain>
+        </string>
+        <string>
+            <plain>Лишь в Нем одном душа нашла благую часть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поклялся Он Собой, сомненью места нет:</plain>
+        </string>
+        <string>
+            <plain>Своих возьмет Он в мир иной, в небесный свет.</plain>
+        </string>
+        <string>
+            <plain>Покажет нам Свой лик, прославим мощь Его.</plain>
+        </string>
+        <string>
+            <plain>Во всем Он дивен и велик, Господь всего.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поет хор неземной: "Хвала Тебе, наш Бог!</plain>
+        </string>
+        <string>
+            <plain>Отец и Сын и Дух Святой! Из рода в род".</plain>
+        </string>
+        <string>
+            <plain>Наш Всемогущий Бог, Тебе спешим вознесть</plain>
+        </string>
+        <string>
+            <plain>Благодаренье и мольбу, хвалу и честь.</plain>
+        </string>
+    </verse>
+</song>

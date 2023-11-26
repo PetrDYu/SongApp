@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1626" name="Прочь унылые грустные думы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прочь унылые грустные думы,</plain>
+        </string>
+        <string>
+            <plain>На Христа неуклонно гляди.</plain>
+        </string>
+        <string>
+            <plain>Расставаясь, не будем угрюмы.</plain>
+        </string>
+        <string>
+            <plain>Что бы ни было нам на пути.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все проходит, течёт, не вернется,</plain>
+        </string>
+        <string>
+            <plain>И настанет другая пора.</plain>
+        </string>
+        <string>
+            <plain>Может, завтра тебе улыбнется</plain>
+        </string>
+        <string>
+            <plain>То, что грустным казалось вчера.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, мой брат, посмотри на Голгофу,</plain>
+        </string>
+        <string>
+            <plain>На великий тот подвиг Христа.</plain>
+        </string>
+        <string>
+            <plain>Побеждай зло любовью Христовой</plain>
+        </string>
+        <string>
+            <plain>И достигнешь Отчизны тогда.</plain>
+        </string>
+    </verse>
+</song>

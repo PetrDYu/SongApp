@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2135" name="Здесь на земле мы только странники" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Здесь на земле мы только странники</plain>
+        </string>
+        <string>
+            <plain>И часто дальний путь нас ждет.</plain>
+        </string>
+        <string>
+            <plain>Порою ноги от усталости болят,</plain>
+        </string>
+        <string>
+            <plain>Но все же Родина нас ждет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там в небесах Ангелы поют,</plain>
+        </string>
+        <string>
+            <plain>В чистых небесах Родина моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Порою мы друзей встречаем,</plain>
+        </string>
+        <string>
+            <plain>Но снова в дальний путь идем.</plain>
+        </string>
+        <string>
+            <plain>Увидимся у ног Христа мы вновь,</plain>
+        </string>
+        <string>
+            <plain>Ведь в небе Родина нас ждет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В дороге дальней, дорогие друзья,</plain>
+        </string>
+        <string>
+            <plain>Вы расскажите людям всем,</plain>
+        </string>
+        <string>
+            <plain>Как велика любовь Спасителя,</plain>
+        </string>
+        <string>
+            <plain>Что в небе Родина нас ждет.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2788" name="Тебе благодарность возносим Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебе благодарность возносим, Господь,</plain>
+        </string>
+        <string>
+            <plain>За все, чем Ты нас наградил;</plain>
+        </string>
+        <string>
+            <plain>Твою доброту будем мы воспевать,</plain>
+        </string>
+        <string>
+            <plain>Что дивно Ты нас возлюбил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Велик Ты, Господь, в милосердье Своем,</plain>
+        </string>
+        <string>
+            <plain>Хвалу мы приносим Тебе;</plain>
+        </string>
+        <string>
+            <plain>Твоей благодатью мы только живем</plain>
+        </string>
+        <string>
+            <plain>На этой греховной земле!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тебе благодарность возносим,</plain>
+        </string>
+        <string>
+            <plain>Господь, Что Ты все вокруг сотворил;</plain>
+        </string>
+        <string>
+            <plain>Цветами, плодами, богатством земли</plain>
+        </string>
+        <string>
+            <plain>Ты нас за труды наградил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тебе благодарность возносим,</plain>
+        </string>
+        <string>
+            <plain>Господь, За дар неизменной любви;</plain>
+        </string>
+        <string>
+            <plain>За дни благодати, за Слово Твое,</plain>
+        </string>
+        <string>
+            <plain>За мир и спасены души.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебе благодарность возносим, Господь,</plain>
+        </string>
+        <string>
+            <plain>За Сына, что в мир Ты послал;</plain>
+        </string>
+        <string>
+            <plain>Он умер, воскрес и на небо вошел,</plain>
+        </string>
+        <string>
+            <plain>Нам вечную жизнь даровал.</plain>
+        </string>
+    </verse>
+</song>

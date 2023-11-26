@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="252" name="Если бросить зерно, если бросить зерно," canon="false" text="И. Языковой" textRus="" music="Г. Гселя" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Если бросить зерно, если бросить зерно,</plain>
+        </string>
+        <string>
+            <plain>Если бросить зерно, что тогда будет с ним?</plain>
+        </string>
+        <string>
+            <plain>Если вдруг упадет при дороге оно,</plain>
+        </string>
+        <string>
+            <plain>То достанется птицам одним.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нам Господь говорит – будет ли слово расти?</plain>
+        </string>
+        <string>
+            <plain>Как нам жизнь изменить и добрый плод принести?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если бросить зерно в каменистых горах,</plain>
+        </string>
+        <string>
+            <plain>Там, где солнце печет и безводный песок,</plain>
+        </string>
+        <string>
+            <plain>Пожалеешь потом о бесплодных трудах:</plain>
+        </string>
+        <string>
+            <plain>Не взойдет ни один колосок.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если бросить зерно под высокий забор,</plain>
+        </string>
+        <string>
+            <plain>Где колючки торчат и растет лебеда,</plain>
+        </string>
+        <string>
+            <plain>То пожнешь ты одни сорняки или сор,</plain>
+        </string>
+        <string>
+            <plain>А плодов не найдешь никогда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если в добрую почву посеешь зерно,</plain>
+        </string>
+        <string>
+            <plain>Твое дело пойдет очень скоро на лад,</plain>
+        </string>
+        <string>
+            <plain>Золотым урожаем вернется оно:</plain>
+        </string>
+        <string>
+            <plain>В тридцать крат, в шестьдесят, во сто крат.</plain>
+        </string>
+    </verse>
+</song>

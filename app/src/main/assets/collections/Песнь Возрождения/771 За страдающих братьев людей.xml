@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="771" name="За страдающих братьев людей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За страдающих братьев, людей</plain>
+        </string>
+        <string>
+            <plain>Не пора ли нам души отдать</plain>
+        </string>
+        <string>
+            <plain>И из бездны греховных сетей</plain>
+        </string>
+        <string>
+            <plain>К светлой правде небесной поднять?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За людей, за людей</plain>
+        </string>
+        <string>
+            <plain>Помоги, Боже, все мне отдать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб смелей и скорей</plain>
+        </string>
+        <string>
+            <plain>Мог я гибнущих братьев спасать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В напряженной борьбе со грехом,</plain>
+        </string>
+        <string>
+            <plain>Обессилевши, гибнут они,</plain>
+        </string>
+        <string>
+            <plain>И напрасно зовут нас с собой</plain>
+        </string>
+        <string>
+            <plain>Облегчить их печальные дни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире заняты только собой,</plain>
+        </string>
+        <string>
+            <plain>Не пора ли нам выйти на бой,</plain>
+        </string>
+        <string>
+            <plain>Ведь давно уж ученье Христа</plain>
+        </string>
+        <string>
+            <plain>Ждет посланников жертвы креста.</plain>
+        </string>
+    </verse>
+</song>

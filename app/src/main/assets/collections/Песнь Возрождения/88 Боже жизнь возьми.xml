@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="88" name="Боже жизнь возьми" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, жизнь возьми: она</plain>
+        </string>
+        <string>
+            <plain>Вся Тебе посвящена.</plain>
+        </string>
+        <string>
+            <plain>Дни возьми, пусть каждый час</plain>
+        </string>
+        <string>
+            <plain>Слышишь Ты хваленья глас!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чтоб, все силы съединя,</plain>
+        </string>
+        <string>
+            <plain>За Твой дар, за жизнь, за все</plain>
+        </string>
+        <string>
+            <plain>Сердце, полное огня,</plain>
+        </string>
+        <string>
+            <plain>Имя славило Твое.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Возьми руки, их к Тебе</plain>
+        </string>
+        <string>
+            <plain>Простираю я в мольбе;</plain>
+        </string>
+        <string>
+            <plain>Возьми ноги, должно им</plain>
+        </string>
+        <string>
+            <plain>По стезям ходить Твоим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возьми голос, чтоб он мог</plain>
+        </string>
+        <string>
+            <plain>Петь Тебе, мой Царь, мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Дай устам достойным быть</plain>
+        </string>
+        <string>
+            <plain>О Тебе благовестить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Возьми волю, должно ей</plain>
+        </string>
+        <string>
+            <plain>Волей только быть Твоей.</plain>
+        </string>
+        <string>
+            <plain>Ум направь, чтоб Твой закон</plain>
+        </string>
+        <string>
+            <plain>В силах был исполнить он.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Золото и серебро,</plain>
+        </string>
+        <string>
+            <plain>Все возьми мое добро;</plain>
+        </string>
+        <string>
+            <plain>Возьми сердце, Сам устрой</plain>
+        </string>
+        <string>
+            <plain>В нем престол Ты царский Свой.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Всю возьми любовь мою,</plain>
+        </string>
+        <string>
+            <plain>С ней у ног Твоих стою,</plain>
+        </string>
+        <string>
+            <plain>О, возьми всего меня!</plain>
+        </string>
+        <string>
+            <plain>Навсегда, навек Твой я.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="15" name="В Тебе моя душа находит покой," canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>В Тебе моя душа находит покой,</plain>
+        </string>
+        <string>
+            <plain>Господь, спасенье мое.</plain>
+        </string>
+        <string>
+            <plain>Только в Тебе душа моя находит</plain>
+        </string>
+        <string>
+            <plain>Милость, мир и покой.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Mon âme se repose en paix sur Dieu seul:</plain>
+        </string>
+        <string>
+            <plain>de lui vient mon salut.</plain>
+        </string>
+        <string>
+            <plain>Oui, sur Dieu seul mon âme se repose,</plain>
+        </string>
+        <string>
+            <plain>se repose en paix.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="328" name="Аллилуйя, аллилуйя, аллилуйя" canon="false" text="" textRus="М. Винецкой" music="бр. Эфраима" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, аллилуйя, аллилуйя!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="1">
+        <string>
+            <plain>Господу хвала, славьте имя Божье!</plain>
+        </string>
+        <string>
+            <plain>Кто сравнится с Тобой, Адонай?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты Творец миров, Ты исчислил звезды,</plain>
+        </string>
+        <string>
+            <plain>Каждой имя нарек, Адонай!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты восставил вновь город Твой любимый,</plain>
+        </string>
+        <string>
+            <plain>Свой народ возвратил на Сион.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты Спаситель наш, Боже милосердный,</plain>
+        </string>
+        <string>
+            <plain>Упованье мое, Адонай!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Агнец Божий, смертью смерть поправший,</plain>
+        </string>
+        <string>
+            <plain>Наша Пасха, Иисус – Адонай!</plain>
+        </string>
+    </verse>
+</song>

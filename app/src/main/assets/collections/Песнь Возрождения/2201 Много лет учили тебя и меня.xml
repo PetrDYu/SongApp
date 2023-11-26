@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2201" name="Много лет учили тебя и меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много лет учили тебя и меня:</plain>
+        </string>
+        <string>
+            <plain>Чтобы лодка жизни удачно плыла,</plain>
+        </string>
+        <string>
+            <plain>Главное, не бросить вёсла свои.</plain>
+        </string>
+        <string>
+            <plain>Но, Иисус, однажды открылся мне Ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты мой белый парус, Моя ладья,</plain>
+        </string>
+        <string>
+            <plain>Рассекая волны, плывёт в небеса.</plain>
+        </string>
+        <string>
+            <plain>Иисус мой парус, Бросил вёсла я,</plain>
+        </string>
+        <string>
+            <plain>Ветер благодати влечёт меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Берега не видно, все объяла мгла,</plain>
+        </string>
+        <string>
+            <plain>Яростные волны бьются о борта.</plain>
+        </string>
+        <string>
+            <plain>Весла переломаны, только надо мной</plain>
+        </string>
+        <string>
+            <plain>Всё такой же белый парус мой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В нашей жизни вёсла - это дела,</plain>
+        </string>
+        <string>
+            <plain>Что без Бога сделано, чтоб спасти себя.</plain>
+        </string>
+        <string>
+            <plain>Спасены приготовлено Богом Самим,</plain>
+        </string>
+        <string>
+            <plain>Белым-белым парусом одним.</plain>
+        </string>
+    </verse>
+</song>

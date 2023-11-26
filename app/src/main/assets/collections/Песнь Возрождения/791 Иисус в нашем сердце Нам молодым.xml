@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="791" name="Иисус в нашем сердце Нам молодым" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус - в нашем сердце! Нам, молодым,</plain>
+        </string>
+        <string>
+            <plain>Нет лучше той доли, чем быть вместе с Ним!</plain>
+        </string>
+        <string>
+            <plain>Иисус - в нашем сердце! Мы с Ним живем,</plain>
+        </string>
+        <string>
+            <plain>Он нам скала и опора во всем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он - в нашем сердце! Он лишь Один.</plain>
+        </string>
+        <string>
+            <plain>Дивный Учитель, мы счастливы с Ним!</plain>
+        </string>
+        <string>
+            <plain>Омыты мы кровью Его дорогой,</plain>
+        </string>
+        <string>
+            <plain>Иисус - в нашем сердце - Спаситель благой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус - в нашем сердце! Радость лишь в Нем!</plain>
+        </string>
+        <string>
+            <plain>Иисус - в нашем сердце - победа над злом!</plain>
+        </string>
+        <string>
+            <plain>Радость мирская не даст ничего,</plain>
+        </string>
+        <string>
+            <plain>Лишь в Иисусе имеем мы все.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус - в нашем сердце! Он ждет тебя,</plain>
+        </string>
+        <string>
+            <plain>Дает тебе счастье лишь Он навсегда!</plain>
+        </string>
+        <string>
+            <plain>Прими Его в сердце, следуй за Ним,</plain>
+        </string>
+        <string>
+            <plain>Тебе предлагает Он дивный свой мир.</plain>
+        </string>
+    </verse>
+</song>

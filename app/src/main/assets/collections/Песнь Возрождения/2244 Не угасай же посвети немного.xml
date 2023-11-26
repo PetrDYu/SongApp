@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2244" name="Не угасай же посвети немного" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не угасай же, посвети немного.</plain>
+        </string>
+        <string>
+            <plain>Светить непросто в беспросветной тьме,</plain>
+        </string>
+        <string>
+            <plain>Но ты свети мне, вера, ради Бога,</plain>
+        </string>
+        <string>
+            <plain>Недолгий путь уже остался мне.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я в небесах увижу счастье полное</plain>
+        </string>
+        <string>
+            <plain>И в семицветье радостно вольюсь.</plain>
+        </string>
+        <string>
+            <plain>Всё это будет завтра, а сегодня</plain>
+        </string>
+        <string>
+            <plain>Я без тебя никак не обойдусь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уже конец пути, уже преддверье,</plain>
+        </string>
+        <string>
+            <plain>Уже я слышу вечности шаги.</plain>
+        </string>
+        <string>
+            <plain>Яплохо вижу, посвети мне, вера,</plain>
+        </string>
+        <string>
+            <plain>Войти в Чертог небесный помоги.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="268" name="О Боже оживи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Боже, оживи</plain>
+        </string>
+        <string>
+            <plain>В нас труд Твоей любви!</plain>
+        </string>
+        <string>
+            <plain>Пусть мощно голос Твой звучит</plain>
+        </string>
+        <string>
+            <plain>И в деле нас крепит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Свой труд в нас оживи</plain>
+        </string>
+        <string>
+            <plain>И чувства обнови,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мы трудились горячей</plain>
+        </string>
+        <string>
+            <plain>На пользу для людей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Твой труд в нас оживи,</plain>
+        </string>
+        <string>
+            <plain>Дела благослови,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мир Тебя в них увидал</plain>
+        </string>
+        <string>
+            <plain>И пред Тобою пал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твой труд в нас оживи</plain>
+        </string>
+        <string>
+            <plain>И в силе Дух яви,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Он оковы зла разбил</plain>
+        </string>
+        <string>
+            <plain>И правду утвердил.</plain>
+        </string>
+    </verse>
+</song>

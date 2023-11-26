@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2562" name="Трудная дорога Впереди лежит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Трудная дорога Впереди лежит.</plain>
+        </string>
+        <string>
+            <plain>Уповай на Бога, - Сердце говорит.</plain>
+        </string>
+        <string>
+            <plain>Хочется смириться, Хочется взывать:</plain>
+        </string>
+        <string>
+            <plain>Помоги молиться И не унывать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай мне помнить свято,</plain>
+        </string>
+        <string>
+            <plain>Что путем скорбей Шел Христос когда-то,</plain>
+        </string>
+        <string>
+            <plain>Возлюбив людей, И когда сгустится</plain>
+        </string>
+        <string>
+            <plain>Зло вокруг опять, Помоги молиться И не унывать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как бы мне хотелось, Чтобы мир святой</plain>
+        </string>
+        <string>
+            <plain>Овладел всецело Сердцем и душой.</plain>
+        </string>
+        <string>
+            <plain>Чтобы не страшиться, Чтобы устоять,</plain>
+        </string>
+        <string>
+            <plain>Чтоб всегда молиться И не унывать.</plain>
+        </string>
+    </verse>
+</song>

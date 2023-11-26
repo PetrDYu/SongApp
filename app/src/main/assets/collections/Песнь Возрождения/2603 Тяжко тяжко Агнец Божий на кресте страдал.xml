@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2603" name="Тяжко тяжко Агнец Божий на кресте страдал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тяжко, тяжко Агнец Божий на кресте страдал.</plain>
+        </string>
+        <string>
+            <plain>Кротко, кротко чашу горечи Он испивал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Шумно, шумно говорили люди меж собой;</plain>
+        </string>
+        <string>
+            <plain>Тихо, тихо Кровь из ран Его текла струёй.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слезы, слезы проливала Матерь у креста;</plain>
+        </string>
+        <string>
+            <plain>Скорбью, скорбью покрывался бледный лик Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слышно, слышно слово: "Совершилось!", - молвил Он.</plain>
+        </string>
+        <string>
+            <plain>Аминь, аминь! Грешник гибнувший теперь спасен!</plain>
+        </string>
+    </verse>
+</song>

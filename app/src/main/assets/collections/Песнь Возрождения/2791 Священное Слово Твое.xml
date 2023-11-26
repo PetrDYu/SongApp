@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2791" name="Священное Слово Твое" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Священное Слово Твое</plain>
+        </string>
+        <string>
+            <plain>Есть свет на пути моем.</plain>
+        </string>
+        <string>
+            <plain>Оно мой защитник от зла</plain>
+        </string>
+        <string>
+            <plain>И спутник в небесный дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я в сердце скрыл Слово Твое,</plain>
+        </string>
+        <string>
+            <plain>Твое, Дабы не грешить пред Тобой, пред Тобой.</plain>
+        </string>
+        <string>
+            <plain>Дабы не грешить, дабы не грешить.</plain>
+        </string>
+        <string>
+            <plain>Я в сердце скрыл Слово Твое.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь, это слово Твое</plain>
+        </string>
+        <string>
+            <plain>Не дрогнуло все века,</plain>
+        </string>
+        <string>
+            <plain>И чудная милость Твоя</plain>
+        </string>
+        <string>
+            <plain>Всегда будет нам близка.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И утром, и днем, и пред сном</plain>
+        </string>
+        <string>
+            <plain>Тебя я хочу хвалить;</plain>
+        </string>
+        <string>
+            <plain>Ты часть и наследие мое;</plain>
+        </string>
+        <string>
+            <plain>Дай только тебя любить!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Обещанный в Слове Твоем</plain>
+        </string>
+        <string>
+            <plain>Спаситель людей Христос</plain>
+        </string>
+        <string>
+            <plain>Заблудшим в пустыне греха</plain>
+        </string>
+        <string>
+            <plain>Спасенье и мир принес.</plain>
+        </string>
+    </verse>
+</song>

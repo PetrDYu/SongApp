@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1677" name="Когда я бурей утомленный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я, бурей утомленный.</plain>
+        </string>
+        <string>
+            <plain>Идти не в состоянии,</plain>
+        </string>
+        <string>
+            <plain>Я прихожу к Тебе с мольбою,</plain>
+        </string>
+        <string>
+            <plain>Услышь меня, молю - услышь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты утешаешь вновь меня:</plain>
+        </string>
+        <string>
+            <plain>Да, Я люблю, люблю тебя.</plain>
+        </string>
+        <string>
+            <plain>Я возлюбил чрез смерть тебя.</plain>
+        </string>
+        <string>
+            <plain>Иди же с верой до конца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда на сердце очень больно</plain>
+        </string>
+        <string>
+            <plain>И слезы прячутся в глазах.</plain>
+        </string>
+        <string>
+            <plain>Ты говоришь, любимый голос:</plain>
+        </string>
+        <string>
+            <plain>Я - утешитель, Я твой врач.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда друзья не понимают,</plain>
+        </string>
+        <string>
+            <plain>А только боль мне придают,</plain>
+        </string>
+        <string>
+            <plain>Тогда я вновь к Тебе взываю,</plain>
+        </string>
+        <string>
+            <plain>Мой утешитель и мой Друг.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда на сердце снова радость</plain>
+        </string>
+        <string>
+            <plain>И увядает грусть моя,</plain>
+        </string>
+        <string>
+            <plain>Тогда душа к Тебе взывает.</plain>
+        </string>
+        <string>
+            <plain>Хвала тебе, мой Бог, хвала.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2685" name="Совершилось чудо из чудес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Совершилось чудо из чудес</plain>
+        </string>
+        <string>
+            <plain>- На рассвете рано Он воскрес,</plain>
+        </string>
+        <string>
+            <plain>И прошел уже двадцатый век</plain>
+        </string>
+        <string>
+            <plain>- Говорит об этом человек.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос воскрес, Воистину воскрес!</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес, Воистину воскрес!</plain>
+        </string>
+        <string>
+            <plain>Да, Спаситель в этот день воскрес.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Эхо этой песни донеслось</plain>
+        </string>
+        <string>
+            <plain>И до наших дней, воскрес Христос.</plain>
+        </string>
+        <string>
+            <plain>Восклицают жители небес:</plain>
+        </string>
+        <string>
+            <plain>"Аллилуйя, Иисус воскрес!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друг, воскресни в этот день и ты</plain>
+        </string>
+        <string>
+            <plain>От земной греховной суеты И скажи:</plain>
+        </string>
+        <string>
+            <plain>"Иисус Христос воскрес",</plain>
+        </string>
+        <string>
+            <plain>Для тебя Спаситель наш воскрес.</plain>
+        </string>
+    </verse>
+</song>

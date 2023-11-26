@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="152" name="О Господь я торжествую" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, я торжествую,</plain>
+        </string>
+        <string>
+            <plain>Ты услышал голос мой.</plain>
+        </string>
+        <string>
+            <plain>За то вечно буду славить</plain>
+        </string>
+        <string>
+            <plain>Я Голгофский подвиг Твой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О Великий Избавитель!</plain>
+        </string>
+        <string>
+            <plain>Ты грехи мои простил,</plain>
+        </string>
+        <string>
+            <plain>От страданья и мученья</plain>
+        </string>
+        <string>
+            <plain>Ты меня освободил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Путь мой был тяжел и темен,</plain>
+        </string>
+        <string>
+            <plain>Скорбно было мне идти,</plain>
+        </string>
+        <string>
+            <plain>И к Тебе я обратился,</plain>
+        </string>
+        <string>
+            <plain>Милосердный, на пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизнь мою Ты спас от смерти</plain>
+        </string>
+        <string>
+            <plain>И глаза мои от слез;</plain>
+        </string>
+        <string>
+            <plain>Дал мне видеть путь спасенья,</plain>
+        </string>
+        <string>
+            <plain>Искупитель мой Христос!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лишь Тебя я буду славить,</plain>
+        </string>
+        <string>
+            <plain>О Господь, Спаситель мой!</plain>
+        </string>
+        <string>
+            <plain>Счастлив я теперь вовеки</plain>
+        </string>
+        <string>
+            <plain>Чрез Голгофский подвиг Твой.</plain>
+        </string>
+    </verse>
+</song>

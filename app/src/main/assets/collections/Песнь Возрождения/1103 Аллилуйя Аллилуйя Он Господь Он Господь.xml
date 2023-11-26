@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1103" name="Аллилуйя Аллилуйя Он Господь Он Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Он - Господь, Он - Господь!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Иисус - Господь!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Он есть Царь, Он есть Царь!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Иисус есть Царь!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Иисус есть наш Царь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, славь, славь Творца,</plain>
+        </string>
+        <string>
+            <plain>Всякая душа!</plain>
+        </string>
+        <string>
+            <plain>Возденьте руки в благоговеньи</plain>
+        </string>
+        <string>
+            <plain>И все славьте Творца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, славь, славь Творца,</plain>
+        </string>
+        <string>
+            <plain>Всякая душа!</plain>
+        </string>
+        <string>
+            <plain>Падите ниц в благоговеньи</plain>
+        </string>
+        <string>
+            <plain>И все славьте Творца!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>О, славь Творца, Всякая душа.</plain>
+        </string>
+        <string>
+            <plain>Возвысьте голос в благоговеньи</plain>
+        </string>
+        <string>
+            <plain>И все славьте Творца!</plain>
+        </string>
+    </verse>
+</song>

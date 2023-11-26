@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1155" name="Мы все стремимся в край родной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы все стремимся в край родной,</plain>
+        </string>
+        <string>
+            <plain>Где будет вечно правды свет,</plain>
+        </string>
+        <string>
+            <plain>А в этой жизни суетной,</plain>
+        </string>
+        <string>
+            <plain>О, дай, Господь, исполнить Твой завет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вражда, неверие вокруг,</plain>
+        </string>
+        <string>
+            <plain>Для правды Божьей узок круг,</plain>
+        </string>
+        <string>
+            <plain>Но Иисус - наш лучший Друг,</plain>
+        </string>
+        <string>
+            <plain>В конце пути даст в небе отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам завещал Иисус Христос</plain>
+        </string>
+        <string>
+            <plain>Любить всех ближних и врагов,</plain>
+        </string>
+        <string>
+            <plain>И не роптать в долине слез,</plain>
+        </string>
+        <string>
+            <plain>Нести Евангельскую весть кругом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Придите все к Нему скорей,</plain>
+        </string>
+        <string>
+            <plain>За правдой следуйте вперед,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не остаться вне дверей,</plain>
+        </string>
+        <string>
+            <plain>- Покайтесь, люди, скоро Он придет!</plain>
+        </string>
+    </verse>
+</song>

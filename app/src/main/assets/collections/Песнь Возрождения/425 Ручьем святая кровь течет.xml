@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="425" name="Ручьем святая кровь течет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ручьем святая кровь течет</plain>
+        </string>
+        <string>
+            <plain>В омытие грехов;</plain>
+        </string>
+        <string>
+            <plain>Покой в нем страждущий найдет</plain>
+        </string>
+        <string>
+            <plain>И отдых от трудов.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисуса кровь с креста текла</plain>
+        </string>
+        <string>
+            <plain>С Его чела, с ланит;</plain>
+        </string>
+        <string>
+            <plain>Я был в пороках без числа,</plain>
+        </string>
+        <string>
+            <plain>Но ею я омыт.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Разбойник на кресте нашел</plain>
+        </string>
+        <string>
+            <plain>Тот чудный ключ святой;</plain>
+        </string>
+        <string>
+            <plain>Омытый им, и он обрел</plain>
+        </string>
+        <string>
+            <plain>Своей душе покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда крови Его струя</plain>
+        </string>
+        <string>
+            <plain>Проникла в сердце мне,</plain>
+        </string>
+        <string>
+            <plain>Вновь ожила душа моя</plain>
+        </string>
+        <string>
+            <plain>В небесной белизне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>От Господа я был далек,</plain>
+        </string>
+        <string>
+            <plain>Блуждал в земных путях;</plain>
+        </string>
+        <string>
+            <plain>Но Он меня к Себе привлек,</plain>
+        </string>
+        <string>
+            <plain>И я в Его руках.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И если в немощи я вновь</plain>
+        </string>
+        <string>
+            <plain>Иисуса огорчу,</plain>
+        </string>
+        <string>
+            <plain>Я знаю, что святая кровь</plain>
+        </string>
+        <string>
+            <plain>Сотрет вину мою.</plain>
+        </string>
+    </verse>
+</song>

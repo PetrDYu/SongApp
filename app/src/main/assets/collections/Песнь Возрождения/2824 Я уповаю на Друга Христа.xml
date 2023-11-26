@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2824" name="Я уповаю на Друга Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я уповаю на Друга - Христа,</plain>
+        </string>
+        <string>
+            <plain>славлю Его: Он так любит меня!</plain>
+        </string>
+        <string>
+            <plain>Я уповаю: Он взял всю нужду,</plain>
+        </string>
+        <string>
+            <plain>дух мой свободен - о слава Ему!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я на Христа уповаю всегда</plain>
+        </string>
+        <string>
+            <plain>и доверюсь Ему как дитя:</plain>
+        </string>
+        <string>
+            <plain>мир и покой Он мне щедро дает,</plain>
+        </string>
+        <string>
+            <plain>узкой тропой меня к цели ведет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я на Христа уповаю всегда,</plain>
+        </string>
+        <string>
+            <plain>Он сам спасает меня от врага;</plain>
+        </string>
+        <string>
+            <plain>стрелами враг меня не устрашит.</plain>
+        </string>
+        <string>
+            <plain>Щит веры твердой меня оградит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верь же Христу, а не чувствам своим,</plain>
+        </string>
+        <string>
+            <plain>даже когда для молитвы нет сил</plain>
+        </string>
+        <string>
+            <plain>и небосвод мрачной тучей закрыт;</plain>
+        </string>
+        <string>
+            <plain>ты все же верь: Он тебя укрепит!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы каждый день уповаем все вновь.</plain>
+        </string>
+        <string>
+            <plain>Он проявляет к нам верность, любовь.</plain>
+        </string>
+        <string>
+            <plain>Вера в Христа лишь и больше ничто,</plain>
+        </string>
+        <string>
+            <plain>нас вознесет к небесам высоко.</plain>
+        </string>
+    </verse>
+</song>

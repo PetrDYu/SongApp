@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1555" name="В жизни лучшее время Христу ты отдай" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В жизни лучшее время Христу ты отдай.</plain>
+        </string>
+        <string>
+            <plain>Все сложи, не жалея, к ногам;</plain>
+        </string>
+        <string>
+            <plain>Твою молодость всю, все желанья твои.</plain>
+        </string>
+        <string>
+            <plain>О, пожертвуй Ему на алтарь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не откладывай на завтра.</plain>
+        </string>
+        <string>
+            <plain>Но приди к Христу теперь.</plain>
+        </string>
+        <string>
+            <plain>Завтра, может, будет поздно,</plain>
+        </string>
+        <string>
+            <plain>И закрыта будет дверь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты без Господа жил, утопая в грехах,</plain>
+        </string>
+        <string>
+            <plain>И не знал о Господней любви.</plain>
+        </string>
+        <string>
+            <plain>Не стыдись, милый друг, отгони стыд и страх</plain>
+        </string>
+        <string>
+            <plain>И омойся в Христовой крови.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не губи ты себя, но приди ко Христу,</plain>
+        </string>
+        <string>
+            <plain>Он от муки избавит тебя. За тебя</plain>
+        </string>
+        <string>
+            <plain>Он страдал, на кресте умирал,</plain>
+        </string>
+        <string>
+            <plain>- Жизнь твоя будет счастьем полна.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2046" name="В ночь на Рождество мы можем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В ночь на Рождество мы можем</plain>
+        </string>
+        <string>
+            <plain>Слышать чудный голос Божий,</plain>
+        </string>
+        <string>
+            <plain>Он зовёт тебя, скорей к Нему приди!</plain>
+        </string>
+        <string>
+            <plain>В Нём найдёшь покой и счастье</plain>
+        </string>
+        <string>
+            <plain>От тревог и всех ненастий.</plain>
+        </string>
+        <string>
+            <plain>Он зовет тебя, а ты Ему внемли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рождество!</plain>
+        </string>
+        <string>
+            <plain>В эту ночь Христос родился</plain>
+        </string>
+        <string>
+            <plain>Для того, чтоб спасены людям дать.</plain>
+        </string>
+        <string>
+            <plain>Будет жизнь после смерти!</plain>
+        </string>
+        <string>
+            <plain>Ведь придётся вечтность выбирать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Рождество в суетном мире</plain>
+        </string>
+        <string>
+            <plain>- Как на развращенном пире.</plain>
+        </string>
+        <string>
+            <plain>Знай, что всему этому придёт конец.</plain>
+        </string>
+        <string>
+            <plain>Скоро Он придёт во славе,</plain>
+        </string>
+        <string>
+            <plain>И тогда уж суд настанет.</plain>
+        </string>
+        <string>
+            <plain>Как же будешь ты Ему в глаза смотреть?</plain>
+        </string>
+    </verse>
+</song>

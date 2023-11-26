@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3128" name="Отпускай твой хлеб по водам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отпускай твой хлеб по водам,</plain>
+        </string>
+        <string>
+            <plain>- и найдёшь его опять.</plain>
+        </string>
+        <string>
+            <plain>Не стыдись Христа ученье</plain>
+        </string>
+        <string>
+            <plain>всюду в мире возвещать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отпускай (отпускай)</plain>
+        </string>
+        <string>
+            <plain>твой хлеб по водам,</plain>
+        </string>
+        <string>
+            <plain>не жалей (не жалей)</plain>
+        </string>
+        <string>
+            <plain>трудов своих (трудов своих).</plain>
+        </string>
+        <string>
+            <plain>Отпускай (отпускай)</plain>
+        </string>
+        <string>
+            <plain>твой хлеб по водам,</plain>
+        </string>
+        <string>
+            <plain>за труды (за труды)</plain>
+        </string>
+        <string>
+            <plain>Бог наградит, (да, наградит).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отпускай твой хлеб по водам, Бог направит волны сам к</plain>
+        </string>
+        <string>
+            <plain>душам, жаждущим спасенья, чтоб вести их к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отпускай твой хлеб по водам, сей его из края в край, сей с</plain>
+        </string>
+        <string>
+            <plain>слезами и молитвой, людям укажи путь в рай.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Отпускай твой хлеб по водам, верь: твой труд не пропадёт.</plain>
+        </string>
+        <string>
+            <plain>Для Христа трудись с отдачей, души многих Он спасёт.</plain>
+        </string>
+    </verse>
+</song>

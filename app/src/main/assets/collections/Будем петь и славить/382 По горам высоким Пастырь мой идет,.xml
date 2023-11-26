@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="382" name="По горам высоким Пастырь мой идет," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>По горам высоким Пастырь мой идет,</plain>
+        </string>
+        <string>
+            <plain>Узкою тропою овец Своих ведет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я маленькая овечка, я иду за Ним</plain>
+        </string>
+        <string>
+            <plain>Узкою тропою в Небесный Иерусалим.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На пути опасно, но я не боюсь,</plain>
+        </string>
+        <string>
+            <plain>Ведь со мною Пастырь, я за Ним стремлюсь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус есть Истина, Свет и жизни Путь.</plain>
+        </string>
+        <string>
+            <plain>Я иду за Господом, не хочу свернуть.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

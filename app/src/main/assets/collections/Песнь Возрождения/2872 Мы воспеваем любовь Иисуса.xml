@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2872" name="Мы воспеваем любовь Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы воспеваем любовь Иисуса,</plain>
+        </string>
+        <string>
+            <plain>поём сегодня про благодать.</plain>
+        </string>
+        <string>
+            <plain>Господь нас спас всех чрез Свою милость</plain>
+        </string>
+        <string>
+            <plain>и хочет радость Свою нам дать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Себя найти дал,</plain>
+        </string>
+        <string>
+            <plain>простил грехи нам,</plain>
+        </string>
+        <string>
+            <plain>Он освятил нас,</plain>
+        </string>
+        <string>
+            <plain>покой нам дал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Живём сегодня мы в полном мире,</plain>
+        </string>
+        <string>
+            <plain>что миру этому незнаком.</plain>
+        </string>
+        <string>
+            <plain>Ничто не может нас огорчить здесь,</plain>
+        </string>
+        <string>
+            <plain>всё совершенно и чудно в Нём.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уж много лет, как Ему мы служим,</plain>
+        </string>
+        <string>
+            <plain>в Нём наше сердце нашло покой.</plain>
+        </string>
+        <string>
+            <plain>И впредь мы верим: Он не покинет</plain>
+        </string>
+        <string>
+            <plain>и сохранит нас Своей рукой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Любовь Иисуса мы прославляем</plain>
+        </string>
+        <string>
+            <plain>и хвалим Бога в словах, делах.</plain>
+        </string>
+        <string>
+            <plain>Ему здесь жизнь всю мы посвящаем,</plain>
+        </string>
+        <string>
+            <plain>хотим верным быть во всех путях.</plain>
+        </string>
+    </verse>
+</song>

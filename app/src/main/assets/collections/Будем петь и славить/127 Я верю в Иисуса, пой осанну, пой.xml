@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="127" name="Я верю в Иисуса, пой осанну, пой" canon="false" text="Н. Чернышева" textRus="" music="Н. Чернышева" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я верю в Иисуса, пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>За меня Он умер – Спаситель мой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Осанна! Осанна! Пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>За меня Он умер – Спаситель мой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть трудно бывает, пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>Я верю, я знаю: Господь со мной.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Осанна! Осанна! Пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>Я верю, я знаю: Господь со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>И время наступит, пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>Господь не умедлит! Придет за мной.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Осанна! Осанна! Пой осанну, пой!</plain>
+        </string>
+        <string>
+            <plain>Господь не умедлит! Придет за мной.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

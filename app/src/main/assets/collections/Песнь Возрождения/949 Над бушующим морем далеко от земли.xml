@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="949" name="Над бушующим морем далеко от земли" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Над бушующим морем, далеко от земли,</plain>
+        </string>
+        <string>
+            <plain>С грозною бурею споря, пронеслись журавли.</plain>
+        </string>
+        <string>
+            <plain>Лишь один, позабытый, с перебитым крылом,</plain>
+        </string>
+        <string>
+            <plain>Тяжким горем убитый, озирался кругом.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он все ниже садился над пучиной морской,</plain>
+        </string>
+        <string>
+            <plain>Хоть и очень стремился воспарить над волной.</plain>
+        </string>
+        <string>
+            <plain>И казалось, что гибель для него уж близка,</plain>
+        </string>
+        <string>
+            <plain>- Вдруг, он лодку увидел среди волн свысока.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если в буре житейской тебя ранит стрелой,</plain>
+        </string>
+        <string>
+            <plain>Не страшись, друг, но с верой посмотри над собой.</plain>
+        </string>
+        <string>
+            <plain>Средь кипучего моря, суеты и страстей</plain>
+        </string>
+        <string>
+            <plain>От страданий и горя ждет Спаситель людей.</plain>
+        </string>
+    </verse>
+</song>

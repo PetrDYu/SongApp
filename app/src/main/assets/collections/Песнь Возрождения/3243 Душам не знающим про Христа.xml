@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3243" name="Душам не знающим про Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Душам, не знающим про Христа,</plain>
+        </string>
+        <string>
+            <plain>гибель им грозит навсегда.</plain>
+        </string>
+        <string>
+            <plain>Слышен их зов вблизи, вдали,</plain>
+        </string>
+        <string>
+            <plain>ищут спасения они.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К душам, не знающим про Христа,</plain>
+        </string>
+        <string>
+            <plain>брат, готов ли ты пойти?</plain>
+        </string>
+        <string>
+            <plain>Души, не знающие Христа!</plain>
+        </string>
+        <string>
+            <plain>О брат, услышь крик их души!</plain>
+        </string>
+        <string>
+            <plain>Крик их души, брат, ты услышь!</plain>
+        </string>
+        <string>
+            <plain>О, кто поможет их спасти?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Души, не знающие Христа!</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса за них текла.</plain>
+        </string>
+        <string>
+            <plain>Брат, зови их, прийти к Христу,</plain>
+        </string>
+        <string>
+            <plain>Он за всех жизнь отдал Свою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душам, не знающие про Христа,</plain>
+        </string>
+        <string>
+            <plain>расскажи, брат, им про себя,</plain>
+        </string>
+        <string>
+            <plain>как грехи Он твои простил,</plain>
+        </string>
+        <string>
+            <plain>путь к спасению всем открыл.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Души не знающие Христа!</plain>
+        </string>
+        <string>
+            <plain>- Не жалей ради них себя.</plain>
+        </string>
+        <string>
+            <plain>О, спеши, чтобы их спасти,</plain>
+        </string>
+        <string>
+            <plain>чтоб к Иисусу их привести!</plain>
+        </string>
+    </verse>
+</song>

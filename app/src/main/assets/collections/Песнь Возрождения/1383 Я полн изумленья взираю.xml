@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1383" name="Я полн изумленья взираю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я, полн изумленья, взираю</plain>
+        </string>
+        <string>
+            <plain>На море Господних даров,</plain>
+        </string>
+        <string>
+            <plain>И вести о мире внимаю Из</plain>
+        </string>
+        <string>
+            <plain>Им возвещенных мне слов.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Его крест скроет вину,</plain>
+        </string>
+        <string>
+            <plain>Его кровь даст белизну;</plain>
+        </string>
+        <string>
+            <plain>Моя воля во власти Его,</plain>
+        </string>
+        <string>
+            <plain>Я верю в Христа одного.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я в долгой борьбе исстрадался,</plain>
+        </string>
+        <string>
+            <plain>И в скорби греха я стонал;</plain>
+        </string>
+        <string>
+            <plain>Когда же Ему я отдался,</plain>
+        </string>
+        <string>
+            <plain>Он в сердце мне мир Свой послал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К одежде Его я коснулся</plain>
+        </string>
+        <string>
+            <plain>- И в силе Его укреплен.</plain>
+        </string>
+        <string>
+            <plain>Он кротко над мною нагнулся</plain>
+        </string>
+        <string>
+            <plain>И вымолвил: "Ты исцелен!"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он близок. Князь мира святого,</plain>
+        </string>
+        <string>
+            <plain>И лик Его светит над мной.</plain>
+        </string>
+        <string>
+            <plain>Послушай призыва Христова:</plain>
+        </string>
+        <string>
+            <plain>"Дарую Я мир тебе Свой!"</plain>
+        </string>
+    </verse>
+</song>

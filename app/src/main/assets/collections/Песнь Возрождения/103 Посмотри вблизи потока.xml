@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="103" name="Посмотри вблизи потока" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Посмотри, вблизи потока,</plain>
+        </string>
+        <string>
+            <plain>У прозрачных чистых вод,</plain>
+        </string>
+        <string>
+            <plain>Посреди травы высокой</plain>
+        </string>
+        <string>
+            <plain>Пышно лилия цветет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Если лилию Бог любит</plain>
+        </string>
+        <string>
+            <plain>И заботится о ней, -</plain>
+        </string>
+        <string>
+            <plain>Разве Он тебя погубит,</plain>
+        </string>
+        <string>
+            <plain>Позабыв в нужде твоей?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Корни крепкие питает</plain>
+        </string>
+        <string>
+            <plain>Влага чистая ручья,</plain>
+        </string>
+        <string>
+            <plain>И росою наполняет</plain>
+        </string>
+        <string>
+            <plain>Чашу ранняя заря.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жаждет лилия простора,</plain>
+        </string>
+        <string>
+            <plain>Смотрит прямо к небесам.</plain>
+        </string>
+        <string>
+            <plain>И влекут ее узоры</plain>
+        </string>
+        <string>
+            <plain>Скромных пчелок к лепесткам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сок приятный и пахучий</plain>
+        </string>
+        <string>
+            <plain>Изливается из ней;</plain>
+        </string>
+        <string>
+            <plain>Кто богаче и кто лучше</plain>
+        </string>
+        <string>
+            <plain>Одевался из царей?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Так живет Творца творенье</plain>
+        </string>
+        <string>
+            <plain>В блеске дивной красоты</plain>
+        </string>
+        <string>
+            <plain>Без заботы и мученья.</plain>
+        </string>
+        <string>
+            <plain>Отчего ж печален ты?</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2157" name="Каждый день настойчиво и звучно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Каждый день настойчиво и звучно</plain>
+        </string>
+        <string>
+            <plain>Мы в молитве просим Бога:</plain>
+        </string>
+        <string>
+            <plain>"Дай, Дай нам хлеб на каждый день на сущный,</plain>
+        </string>
+        <string>
+            <plain>Без любви Своей не оставляй".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Просим мы, как маленькие дети,</plain>
+        </string>
+        <string>
+            <plain>Ими мы и есть перед Творцом.</plain>
+        </string>
+        <string>
+            <plain>И с надеждой светлою воздеты</plain>
+        </string>
+        <string>
+            <plain>Наши руки пред Его лицом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И идут к нам щедрости от Бога,</plain>
+        </string>
+        <string>
+            <plain>И мы гимн за то Ему поем,</plain>
+        </string>
+        <string>
+            <plain>И порою видно, что немного</plain>
+        </string>
+        <string>
+            <plain>Мы в ответ Своей любви даем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ведь любовь сдвигает даже горы,</plain>
+        </string>
+        <string>
+            <plain>Через шторм проводит корабли,</plain>
+        </string>
+        <string>
+            <plain>Чье же мы прогнали в жизни горе,</plain>
+        </string>
+        <string>
+            <plain>Где, кому мы в жизни помогли.</plain>
+        </string>
+    </verse>
+</song>

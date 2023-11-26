@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2045" name="В небесные дали манящие дали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В небесные дали, манящие дали</plain>
+        </string>
+        <string>
+            <plain>с котомкой своей за спиной,</plain>
+        </string>
+        <string>
+            <plain>Решительно шум Вавилова оставив,</plain>
+        </string>
+        <string>
+            <plain>идет пилигрим молодой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вперед, пилигрим молодой (2 р.).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Плотских наслаждений спасенным не надо,</plain>
+        </string>
+        <string>
+            <plain>не нужен разврата разгул,</plain>
+        </string>
+        <string>
+            <plain>За ними идут наказания ада,</plain>
+        </string>
+        <string>
+            <plain>стенаний несмолкнущий гул.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты в мире растленья - маяк для спасенья,</plain>
+        </string>
+        <string>
+            <plain>ты в свет средь мирской суеты,</plain>
+        </string>
+        <string>
+            <plain>В любви и терпенье,</plain>
+        </string>
+        <string>
+            <plain>с огнем вдохновенья неси идеал чистоты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сквозь холод, туманы, под свист урагана,</plain>
+        </string>
+        <string>
+            <plain>в ненастную стужу и зной,</plain>
+        </string>
+        <string>
+            <plain>В тот край Ханаана, от мира,</plain>
+        </string>
+        <string>
+            <plain>обмана иди, пилигрима молодой!</plain>
+        </string>
+    </verse>
+</song>

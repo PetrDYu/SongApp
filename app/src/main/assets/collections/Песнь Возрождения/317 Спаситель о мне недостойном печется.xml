@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="317" name="Спаситель о мне недостойном печется" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель о мне недостойном печется,</plain>
+        </string>
+        <string>
+            <plain>Грехи мои кровью Своей Он омыл;</plain>
+        </string>
+        <string>
+            <plain>Любовью Его мне прощенье дается;</plain>
+        </string>
+        <string>
+            <plain>О, если б Он вашим Спасителем был!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За вас я молюся, за вас я молюся,</plain>
+        </string>
+        <string>
+            <plain>За вас я молюся, молюсь я за вас.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На небе Отец мой, благой Промыслитель,</plain>
+        </string>
+        <string>
+            <plain>Мне даст бесконечную радость вкусить;</plain>
+        </string>
+        <string>
+            <plain>Он там меня ждет в золотую обитель;</plain>
+        </string>
+        <string>
+            <plain>О, если б я с вами туда мог вступить!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чудесная есть у меня там одежда,</plain>
+        </string>
+        <string>
+            <plain>Какой не видал человеческий глаз;</plain>
+        </string>
+        <string>
+            <plain>И в ней я предстану, моя в том надежда,</plain>
+        </string>
+        <string>
+            <plain>О, если б в нее облекли также вас!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вот мир Свой Спаситель мне в душу вселяет,</plain>
+        </string>
+        <string>
+            <plain>Который людским непонятен умам;</plain>
+        </string>
+        <string>
+            <plain>И мир тот сердца во Христе соблюдает;</plain>
+        </string>
+        <string>
+            <plain>О, если б тот мир был дарован и вам!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Коль принял Христос вас, другим возвещайте,</plain>
+        </string>
+        <string>
+            <plain>Что Он теперь вашим Спасителем стал;</plain>
+        </string>
+        <string>
+            <plain>Молясь за других, вы к Нему прибегайте,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вашей мольбе, как моей, Он внимал!</plain>
+        </string>
+    </verse>
+</song>

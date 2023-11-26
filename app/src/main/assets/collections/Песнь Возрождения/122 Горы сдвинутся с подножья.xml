@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="122" name="Горы сдвинутся с подножья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Горы сдвинутся с подножья</plain>
+        </string>
+        <string>
+            <plain>И падут холмы с высот,</plain>
+        </string>
+        <string>
+            <plain>Но вовеки милость Божья</plain>
+        </string>
+        <string>
+            <plain>От меня не отойдет,</plain>
+        </string>
+        <string>
+            <plain>И Его спасенья свет</plain>
+        </string>
+        <string>
+            <plain>Не затмит пучина бед.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Милость Божья всем несчастным,</plain>
+        </string>
+        <string>
+            <plain>Кто стенает, вопиет</plain>
+        </string>
+        <string>
+            <plain>Под ярмом греха ужасным,</plain>
+        </string>
+        <string>
+            <plain>Избавление дает;</plain>
+        </string>
+        <string>
+            <plain>В них все мертвое живит</plain>
+        </string>
+        <string>
+            <plain>И все новое творит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Милость Божья утомленным,</plain>
+        </string>
+        <string>
+            <plain>Обессиленным в пути</plain>
+        </string>
+        <string>
+            <plain>С пиром, правдой услащенным,</plain>
+        </string>
+        <string>
+            <plain>С торжеством спешит прийти,</plain>
+        </string>
+        <string>
+            <plain>Чтоб они страданий нить</plain>
+        </string>
+        <string>
+            <plain>На пиру могли забыть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Милость Божья сокрушает</plain>
+        </string>
+        <string>
+            <plain>Власть греха и смерти гнет,</plain>
+        </string>
+        <string>
+            <plain>Ад в пучину низвергает,</plain>
+        </string>
+        <string>
+            <plain>Рай прекрасный создает</plain>
+        </string>
+        <string>
+            <plain>И в нем место всем дает,</plain>
+        </string>
+        <string>
+            <plain>Кто к Спасителю придет.</plain>
+        </string>
+    </verse>
+</song>

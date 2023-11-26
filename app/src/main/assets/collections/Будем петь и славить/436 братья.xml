@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="436" name="братья" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>(братья)</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(сестры) Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>(вместе) Мы увидим Божью красоту.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, Божью красоту,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Божью красоту увидим мы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>(сестры)</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(братья) Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>(вместе) Мы увидим Божью красоту.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>(дети)</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(вместе) Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>(вместе) Мы увидим Божью красоту.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>(вместе)</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(вместе) Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>(вместе) Мы увидим Божью красоту.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

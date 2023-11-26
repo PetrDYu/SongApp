@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="819" name="Высока любовь и дивна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Высока любовь и дивна,</plain>
+        </string>
+        <string>
+            <plain>Чиста, свята, глубока,</plain>
+        </string>
+        <string>
+            <plain>Изливается из сердца</plain>
+        </string>
+        <string>
+            <plain>Неизменного Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он врата небес откроет,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мне туда войти,</plain>
+        </string>
+        <string>
+            <plain>Подарил Он мне спасенье</plain>
+        </string>
+        <string>
+            <plain>И прощает все грехи.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я на дно греха спустился,</plain>
+        </string>
+        <string>
+            <plain>Как заблудшая овца,</plain>
+        </string>
+        <string>
+            <plain>В горе, в скорби я томился,</plain>
+        </string>
+        <string>
+            <plain>Он в любви нашел меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чудная любовь Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Все грехи Он мне простил!</plain>
+        </string>
+        <string>
+            <plain>Честь Ему, хвала и слава,</plain>
+        </string>
+        <string>
+            <plain>За меня Он кровь пролил!</plain>
+        </string>
+    </verse>
+</song>

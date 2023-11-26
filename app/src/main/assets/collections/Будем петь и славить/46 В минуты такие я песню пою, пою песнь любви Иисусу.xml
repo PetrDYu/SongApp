@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="46" name="В минуты такие я песню пою, пою песнь любви Иисусу" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>В минуты такие я песню пою, пою песнь любви Иисусу.</plain>
+        </string>
+        <string>
+            <plain>В минуты такие мой дух возношу, к Тебе возношу, Иисус.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Я люблю Тебя</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain>, мой Господь Иисус.</plain>
+        </string>
+    </verse>
+</song>

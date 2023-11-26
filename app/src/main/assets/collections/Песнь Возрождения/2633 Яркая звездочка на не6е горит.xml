@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2633" name="Яркая звездочка на не6е горит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Яркая звездочка на не6е горит.</plain>
+        </string>
+        <string>
+            <plain>Детям у елочки мама говорит:</plain>
+        </string>
+        <string>
+            <plain>"В целом мире торжество</plain>
+        </string>
+        <string>
+            <plain>- Наступило Рождество,</plain>
+        </string>
+        <string>
+            <plain>Наступило Рождество".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С праздником, с праздником взрослых и ребят,</plain>
+        </string>
+        <string>
+            <plain>Даже проказникам это говорят,</plain>
+        </string>
+        <string>
+            <plain>Потому что торжество,</plain>
+        </string>
+        <string>
+            <plain>Потому что Рождество,</plain>
+        </string>
+        <string>
+            <plain>Потому что Рождество.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спать нам не хочется в эту ночь совсем,</plain>
+        </string>
+        <string>
+            <plain>Хочется, хочется в город Вифлеем,</plain>
+        </string>
+        <string>
+            <plain>Посмотреть на торжество,</plain>
+        </string>
+        <string>
+            <plain>там, где было Рождество,</plain>
+        </string>
+        <string>
+            <plain>Там, где было Рождество.</plain>
+        </string>
+    </verse>
+</song>

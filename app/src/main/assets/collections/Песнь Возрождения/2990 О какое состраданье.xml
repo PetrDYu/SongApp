@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2990" name="О какое состраданье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, какое состраданье</plain>
+        </string>
+        <string>
+            <plain>к нам Иисуса привело!</plain>
+        </string>
+        <string>
+            <plain>Кровью Он принес спасенье:</plain>
+        </string>
+        <string>
+            <plain>око надо мной Твое!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, я Твой, весь я Твой,</plain>
+        </string>
+        <string>
+            <plain>предан в руки Твои дух мой!</plain>
+        </string>
+        <string>
+            <plain>Я с тех пор, как спасен,</plain>
+        </string>
+        <string>
+            <plain>мыслью поглощен,</plain>
+        </string>
+        <string>
+            <plain>было б око Твое надо мной!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Похоти, грехи, заботы:</plain>
+        </string>
+        <string>
+            <plain>пригвоздил к кресту Он все.</plain>
+        </string>
+        <string>
+            <plain>Крест я свой несу охотно:</plain>
+        </string>
+        <string>
+            <plain>око надо мной Твое!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В благодати прихожу я</plain>
+        </string>
+        <string>
+            <plain>кротко пред Твое лицо,</plain>
+        </string>
+        <string>
+            <plain>все к Твоим ногам кладу я:</plain>
+        </string>
+        <string>
+            <plain>око надо мной Твое!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть во мне Твоим сиянием</plain>
+        </string>
+        <string>
+            <plain>будет все озарено;</plain>
+        </string>
+        <string>
+            <plain>в чистоте меня храни,</plain>
+        </string>
+        <string>
+            <plain>Бог: око надо мной Твое!</plain>
+        </string>
+    </verse>
+</song>

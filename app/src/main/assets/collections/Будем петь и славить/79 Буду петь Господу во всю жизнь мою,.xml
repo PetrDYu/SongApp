@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="79" name="Буду петь Господу во всю жизнь мою," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Буду петь Господу во всю жизнь мою,</plain>
+        </string>
+        <string>
+            <plain>Буду я петь Ему, доколе я жив!</plain>
+        </string>
+        <string>
+            <plain>Да будет благоприятна песнь моя,</plain>
+        </string>
+        <string>
+            <plain>Возвеселюсь, возрадуюсь о Господе!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Благослови Господа, душа моя!</plain>
+        </string>
+        <string>
+            <plain>Благослови Господа, душа моя!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

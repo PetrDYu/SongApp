@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3062" name="Детки зовёт вас Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Детки, зовёт вас Спаситель,</plain>
+        </string>
+        <string>
+            <plain>хочет Он царство дать вам!</plain>
+        </string>
+        <string>
+            <plain>Следовать вы ли хотите</plain>
+        </string>
+        <string>
+            <plain>узким путём к небесам?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радостный путь,</plain>
+        </string>
+        <string>
+            <plain>счастливый путь,</plain>
+        </string>
+        <string>
+            <plain>к небу ведёт</plain>
+        </string>
+        <string>
+            <plain>этот путь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Деток зовёт всех Спаситель,</plain>
+        </string>
+        <string>
+            <plain>что заблудились в ночи.</plain>
+        </string>
+        <string>
+            <plain>Хочет к небесной отчизне</plain>
+        </string>
+        <string>
+            <plain>узким путём их вести.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Детки, зовёт вас Спаситель,</plain>
+        </string>
+        <string>
+            <plain>ныне же каждый приди!</plain>
+        </string>
+        <string>
+            <plain>Радостей много даёт Он тем,</plain>
+        </string>
+        <string>
+            <plain>кто на узком пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Детки, зовёт вас Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Будьте послушны Ему.</plain>
+        </string>
+        <string>
+            <plain>Хочет Он в рай привести вас,</plain>
+        </string>
+        <string>
+            <plain>если придёте к Нему.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1653" name="Прославить Творца не забудь человек" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прославить Творца не забудь, человек,</plain>
+        </string>
+        <string>
+            <plain>Он, Бог, Сам тебя возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Простил Он тебя и приблизил навек,</plain>
+        </string>
+        <string>
+            <plain>Назвал тебя сыном Своим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как благ, милосерд, Он так любит людей,</plain>
+        </string>
+        <string>
+            <plain>Он ближе родного отца.</plain>
+        </string>
+        <string>
+            <plain>Грехи наши бросил в пучину морей,</plain>
+        </string>
+        <string>
+            <plain>Идите, прославьте Творца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ему ты довериться можешь душой</plain>
+        </string>
+        <string>
+            <plain>Средь страшной ночной темноты,</plain>
+        </string>
+        <string>
+            <plain>Он любит, хоть ты не послушен порой,</plain>
+        </string>
+        <string>
+            <plain>И ближе, чем думаешь ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прославить Творца не забудь, человек,</plain>
+        </string>
+        <string>
+            <plain>Он, Бог, Сам тебя возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Он любит, хоть ты не послушен порой,</plain>
+        </string>
+        <string>
+            <plain>И ближе, чем думаешь ты.</plain>
+        </string>
+    </verse>
+</song>

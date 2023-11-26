@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3089" name="Как быстро время бежит ручьём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как быстро время бежит ручьём!</plain>
+        </string>
+        <string>
+            <plain>Вдаль уходит за годом год,</plain>
+        </string>
+        <string>
+            <plain>и ясно мы видим с каждым днём,</plain>
+        </string>
+        <string>
+            <plain>что вечность скоро придёт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мир вечности!</plain>
+        </string>
+        <string>
+            <plain>Мир вечности!</plain>
+        </string>
+        <string>
+            <plain>Будешь со Христом</plain>
+        </string>
+        <string>
+            <plain>ли ты в вечности?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь коротка, как один лишь день!</plain>
+        </string>
+        <string>
+            <plain>Близится час последний твой,</plain>
+        </string>
+        <string>
+            <plain>и скоро встретишь ты смерти тень.</plain>
+        </string>
+        <string>
+            <plain>Для вечности ты готов, друг мой?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Писание ясно говорит,</plain>
+        </string>
+        <string>
+            <plain>что живём мы в вечерний час.</plain>
+        </string>
+        <string>
+            <plain>Оно во тьме проливает свет,</plain>
+        </string>
+        <string>
+            <plain>к вечности направляет нас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О жизнь, ты радостна для меня,</plain>
+        </string>
+        <string>
+            <plain>если я за Христом иду!</plain>
+        </string>
+        <string>
+            <plain>Меня к победе Он приведёт,</plain>
+        </string>
+        <string>
+            <plain>из времени в вечный рай войду.</plain>
+        </string>
+    </verse>
+</song>

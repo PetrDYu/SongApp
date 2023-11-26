@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2190" name="Любви не бывает без встречи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любви не бывает без встречи.</plain>
+        </string>
+        <string>
+            <plain>Это было должно произойти,</plain>
+        </string>
+        <string>
+            <plain>Чтоб однажды, утром или вечером,</plain>
+        </string>
+        <string>
+            <plain>Ваши пересеклись пути.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Взгляд (2 р.),</plain>
+        </string>
+        <string>
+            <plain>слово (2 р.)</plain>
+        </string>
+        <string>
+            <plain>- Это любви основа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но это лишь только начало;</plain>
+        </string>
+        <string>
+            <plain>Чтоб всю свою жизнь счастливо прожить</plain>
+        </string>
+        <string>
+            <plain>И в радостях, и в печалях,</plain>
+        </string>
+        <string>
+            <plain>Об этом Иисуса надо просить.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>С утра на колени,</plain>
+        </string>
+        <string>
+            <plain>И слово за словом;</plain>
+        </string>
+        <string>
+            <plain>Молитва - всему основа (2 р.).</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>И если доверитесь Богу,</plain>
+        </string>
+        <string>
+            <plain>Не сомневаясь ни в чём, ни в чём,</plain>
+        </string>
+        <string>
+            <plain>Ошибок будет совсем немного,</plain>
+        </string>
+        <string>
+            <plain>А благословенья наполнят ваш дом.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Так Бог обещал,</plain>
+        </string>
+        <string>
+            <plain>А Божье Слово</plain>
+        </string>
+        <string>
+            <plain>- Всему на земле основа (2 р.).</plain>
+        </string>
+    </chorus>
+</song>

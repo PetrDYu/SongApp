@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="227" name="Бог мой, Ты скала моя, на Тебя я уповаю" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог мой, Ты скала моя, на Тебя я уповаю.</plain>
+        </string>
+        <string>
+            <plain>Щит мой, спасение мое, Господь, опора моя!</plain>
+        </string>
+        <string>
+            <plain>В тесноте моей призвал я Господа и к Богу моему воззвал.</plain>
+        </string>
+        <string>
+            <plain>И услышал Он, услышал Он от чертога Своего голос мой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Люблю Тебя, Господи, крепость моя,</plain>
+        </string>
+        <string>
+            <plain>Твердыня моя и прибежище мое!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже, Ты даешь мне свет, просвещаешь тьму мою.</plain>
+        </string>
+        <string>
+            <plain>Боже, Твой непорочен путь, и чисто слово Твое.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>В тесноте моей призвал я Господа и к Богу моему воззвал.</plain>
+        </string>
+        <string>
+            <plain>И услышал Он, услышал Он от чертога Своего голос мой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жив Бог и благословен, Бог спасенья моего.</plain>
+        </string>
+        <string>
+            <plain>Ты избавляешь от врагов, возносишь над ними меня.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>В тесноте моей призвал я Господа и к Богу моему воззвал.</plain>
+        </string>
+        <string>
+            <plain>И услышал Он, услышал Он от чертога Своего голос мой.</plain>
+        </string>
+    </verse>
+</song>

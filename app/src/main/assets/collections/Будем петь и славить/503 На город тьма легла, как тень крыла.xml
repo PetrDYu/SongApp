@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="503" name="На город тьма легла, как тень крыла" canon="false" text="И. Языковой" textRus="" music="Е. Ершовой" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>На город тьма легла, как тень крыла.</plain>
+        </string>
+        <string>
+            <plain>Земля уходит из-под самых ног.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И весть пронзает сердце, как стрела, –</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Там на Кресте распят Предвечный Бог!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Распят Господь, распят Иисус Христос!</plain>
+        </string>
+        <string>
+            <plain>Мария, Сын Твой ко Кресту прибит…</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Земля Голгофа солона от слез,</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И разум этой тайны не вместит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Учеников не видно за толпой –</plain>
+        </string>
+        <string>
+            <plain>От страха разбежались кто куда…</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И только юный Иоанн с Тобой</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Отныне и, как видно, навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И солнце, как кровавое, горит,</plain>
+        </string>
+        <string>
+            <plain>Вбирая боль кровоточащих ран.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Ты слышишь, как Спаситель говорит</plain>
+        </string>
+        <string>
+            <plain>«Мария, это сын Твой, Иоанн!»</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И хрупкий, как колеблемый тростник,</plain>
+        </string>
+        <string>
+            <plain>Не в силах происшедшее понять,</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Стоит Христа любимый ученик</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>И слышит: «Иоанн, вот твоя Мать!»</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Все замерли, внимая тем словам,</plain>
+        </string>
+        <string>
+            <plain>Христос распятый в мир Любовь явил:</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>«Я заповедь Свою оставил вам</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Любите так, как Я вас возлюбил».</plain>
+        </string>
+    </verse>
+</song>

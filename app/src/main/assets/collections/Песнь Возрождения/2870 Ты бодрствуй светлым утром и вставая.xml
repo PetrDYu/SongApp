@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2870" name="Ты бодрствуй светлым утром и вставая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты бодрствуй светлым утром и, вставая,</plain>
+        </string>
+        <string>
+            <plain>спеши ты подкрепить себя в мольбе;</plain>
+        </string>
+        <string>
+            <plain>ведь может в жизни буря искушенья</plain>
+        </string>
+        <string>
+            <plain>нежданно встретиться тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всегда, мой брат.</plain>
+        </string>
+        <string>
+            <plain>на страже будь,</plain>
+        </string>
+        <string>
+            <plain>и в молитве пребудь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты бодрствуй и среди дневных занятий,</plain>
+        </string>
+        <string>
+            <plain>когда бываешь окружён трудом;</plain>
+        </string>
+        <string>
+            <plain>ходи по стезям Божьей благодати</plain>
+        </string>
+        <string>
+            <plain>и тихо размышляй с Творцом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты бодрствуй вечером,</plain>
+        </string>
+        <string>
+            <plain>когда утихнут заботы дня,</plain>
+        </string>
+        <string>
+            <plain>волнения твои,</plain>
+        </string>
+        <string>
+            <plain>и радуйся, что вечный Бог с тобою,</plain>
+        </string>
+        <string>
+            <plain>в тиши Его благодари.</plain>
+        </string>
+    </verse>
+</song>

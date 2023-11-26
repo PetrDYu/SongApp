@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2450" name="Все мои мечты о Нем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все мои мечты о Нем,</plain>
+        </string>
+        <string>
+            <plain>О Спасителе Христе,</plain>
+        </string>
+        <string>
+            <plain>С Ним я ночью, с Ним я днем,</plain>
+        </string>
+        <string>
+            <plain>Он всегда в моей душе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И желанной встречи с Ним</plain>
+        </string>
+        <string>
+            <plain>Жду я так, как ждет невеста</plain>
+        </string>
+        <string>
+            <plain>Встречи с женихом своим,</plain>
+        </string>
+        <string>
+            <plain>Чтобы быть навеки вместе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я счастлив, что буду там,</plain>
+        </string>
+        <string>
+            <plain>Где мой любящий Иисус,</plain>
+        </string>
+        <string>
+            <plain>Мое сердце - Божий храм,</plain>
+        </string>
+        <string>
+            <plain>И с Ним вечен мой союз.</plain>
+        </string>
+    </verse>
+</song>

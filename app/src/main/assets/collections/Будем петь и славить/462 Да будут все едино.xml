@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="462" name="Да будут все едино" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Да будут все едино:</plain>
+        </string>
+        <string>
+            <plain>Как Ты, Отче, во Мне, и Я в Тебе,</plain>
+        </string>
+        <string>
+            <plain>Так и они да будут в Нас едино,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Да уверует мир, что Ты послал Меня,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Да будут все едино.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Отче Святой! Соблюди их во имя Твое. (Отче Святой!)</plain>
+        </string>
+        <string>
+            <plain>Отче Святой! Сохрани их от зла. (Отче!)</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Отче Святой! Соблюди нас во имя Твое. (Отче Святой!)</plain>
+        </string>
+        <string>
+            <plain>Отче Святой! Сохрани нас от зла. (Отче!)</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

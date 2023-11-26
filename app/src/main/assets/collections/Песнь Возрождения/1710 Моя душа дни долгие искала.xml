@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1710" name="Моя душа дни долгие искала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Моя душа дни долгие искала,</plain>
+        </string>
+        <string>
+            <plain>Стараясь увидать Тебя вокруг.</plain>
+        </string>
+        <string>
+            <plain>И радости и горе замечала,</plain>
+        </string>
+        <string>
+            <plain>О, где же Ты, мой долгожданный Друг?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А сердце все завет к вечным высотам,</plain>
+        </string>
+        <string>
+            <plain>Хочет улететь оно, как хорошо там!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Голгофский крест - источник возрожденья -</plain>
+        </string>
+        <string>
+            <plain>Всю жизнь мою навеки изменил;</plain>
+        </string>
+        <string>
+            <plain>Душа поёт бессмертный гимн спасенья,</plain>
+        </string>
+        <string>
+            <plain>Она полна избытка новых сил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь Христа так ласкова и нежна,</plain>
+        </string>
+        <string>
+            <plain>Как тихих вод вечерняя волна,</plain>
+        </string>
+        <string>
+            <plain>И оттого покоем и надеждой</plain>
+        </string>
+        <string>
+            <plain>Моя душа воскресшая полна.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1313" name="Люблю Спаситель в час покоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю, Спаситель, в час покоя</plain>
+        </string>
+        <string>
+            <plain>Безмолвно пасть перед Тобой</plain>
+        </string>
+        <string>
+            <plain>И созерцать моей душою</plain>
+        </string>
+        <string>
+            <plain>Твой образ любящий, живой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Люблю в часы благоговенья</plain>
+        </string>
+        <string>
+            <plain>Под терном Твоего венца</plain>
+        </string>
+        <string>
+            <plain>Я видеть кроткий взор прощенья</plain>
+        </string>
+        <string>
+            <plain>И свет чарующий лица...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Люблю я видеть в униженьи</plain>
+        </string>
+        <string>
+            <plain>Величье истины святой</plain>
+        </string>
+        <string>
+            <plain>И в слабом плоти облаченье</plain>
+        </string>
+        <string>
+            <plain>Источник жизни мировой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, как прекрасен лик Твой чудный!</plain>
+        </string>
+        <string>
+            <plain>Кто видел раз его душой.</plain>
+        </string>
+        <string>
+            <plain>Тому не нужен образ скудный.</plain>
+        </string>
+        <string>
+            <plain>Рукой начертанный людской.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Но в сердце том Свое подобье,</plain>
+        </string>
+        <string>
+            <plain>О вечный Бог, рисуешь Ты</plain>
+        </string>
+        <string>
+            <plain>В чертах смиренья и беззлобья,</plain>
+        </string>
+        <string>
+            <plain>В цветах любви и чистоты!</plain>
+        </string>
+    </verse>
+</song>

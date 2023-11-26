@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1509" name="На ладонях счастье держит мой Христос" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На ладонях счастье держит мой Христос,</plain>
+        </string>
+        <string>
+            <plain>Неземной подарок с неба Он принес.</plain>
+        </string>
+        <string>
+            <plain>Новую дорогу с вами Он пройдет,</plain>
+        </string>
+        <string>
+            <plain>И Путеводитель счастье сбережет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть сегодня солнце золотит фату.</plain>
+        </string>
+        <string>
+            <plain>Улыбнется нежно невесте, жениху,</plain>
+        </string>
+        <string>
+            <plain>И продлится день сей под небом голубым.</plain>
+        </string>
+        <string>
+            <plain>А мы желаем счастья, счастья молодым.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будьте, молодые, счастливы всегда,</plain>
+        </string>
+        <string>
+            <plain>Как заря на небе, как сама весна,</plain>
+        </string>
+        <string>
+            <plain>Как ромашки мило, так цветите вы,</plain>
+        </string>
+        <string>
+            <plain>пусть красивы будут ее лепестки.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если вас настигнет буря на пути</plain>
+        </string>
+        <string>
+            <plain>И любви не станет пламенной в груди.</plain>
+        </string>
+        <string>
+            <plain>Вы к Творцу спешите. Кто создал цветы.</plain>
+        </string>
+        <string>
+            <plain>Он любовь возгреет, с ней пойдёте вы.</plain>
+        </string>
+    </verse>
+</song>

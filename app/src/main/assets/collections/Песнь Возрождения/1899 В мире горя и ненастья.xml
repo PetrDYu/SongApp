@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1899" name="В мире горя и ненастья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В мире горя и ненастья,</plain>
+        </string>
+        <string>
+            <plain>В мире скорби вековой</plain>
+        </string>
+        <string>
+            <plain>Я, несчастный, жаждал счастья</plain>
+        </string>
+        <string>
+            <plain>Наболевшею душой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастье только у Христа,</plain>
+        </string>
+        <string>
+            <plain>У Голгофского креста,</plain>
+        </string>
+        <string>
+            <plain>Где Он, в муках умирая.</plain>
+        </string>
+        <string>
+            <plain>Завещал нам радость рая.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я искал для сердца счастье</plain>
+        </string>
+        <string>
+            <plain>В упоениях земных,</plain>
+        </string>
+        <string>
+            <plain>Но, как хмурый день ненастья.</plain>
+        </string>
+        <string>
+            <plain>Злой недуг меня постиг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О богатстве с пылкой страстью</plain>
+        </string>
+        <string>
+            <plain>В этом мире я мечтал,</plain>
+        </string>
+        <string>
+            <plain>Но потом, как раб пред властью,</plain>
+        </string>
+        <string>
+            <plain>Я в цепях греха стонал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В глубинах седой науки</plain>
+        </string>
+        <string>
+            <plain>Думал счастье я найти,</plain>
+        </string>
+        <string>
+            <plain>Но разлад души и муки</plain>
+        </string>
+        <string>
+            <plain>Я нашел на том пути.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Но, когда, прозрев душою,</plain>
+        </string>
+        <string>
+            <plain>Я увидел пред собой</plain>
+        </string>
+        <string>
+            <plain>Крест Христа с Его мольбою.</plain>
+        </string>
+        <string>
+            <plain>Все почел я суетой.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Счастлив я теперь:</plain>
+        </string>
+        <string>
+            <plain>Предвечный Все грехи мои простил</plain>
+        </string>
+        <string>
+            <plain>И для жизни быстротечной</plain>
+        </string>
+        <string>
+            <plain>Светоч веры мне вручил.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1013" name="Святые райские аллеи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Святые райские аллеи!</plain>
+        </string>
+        <string>
+            <plain>Я к вам стремлюся всей душой,</plain>
+        </string>
+        <string>
+            <plain>Где пахнут белые лилии</plain>
+        </string>
+        <string>
+            <plain>Под освежающей росой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В тот час, когда среди аллеи,</plain>
+        </string>
+        <string>
+            <plain>Под древом жизни я отдохну,</plain>
+        </string>
+        <string>
+            <plain>С хвалебной песней, пламенея,</plain>
+        </string>
+        <string>
+            <plain>Я труд Господень вспомяну.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>По обе стороны аллеи</plain>
+        </string>
+        <string>
+            <plain>Растет прекрасный стройный сад.</plain>
+        </string>
+        <string>
+            <plain>Цветы прекрасные лилии</plain>
+        </string>
+        <string>
+            <plain>Растут спасенным для услад.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там по ликующей аллее</plain>
+        </string>
+        <string>
+            <plain>Проходит ясный Властелин.</plain>
+        </string>
+        <string>
+            <plain>Он солнца ясного светлее,</plain>
+        </string>
+        <string>
+            <plain>С Ним кроткий Агнец - Божий Сын.</plain>
+        </string>
+    </verse>
+</song>

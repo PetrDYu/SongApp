@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="47" name="Смотрите, какую любовь дал нам Отец Небесный наш," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Смотрите, какую любовь дал нам Отец Небесный наш,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Чтобы нам называться и быть детьми Его.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

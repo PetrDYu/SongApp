@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="444" name="Как цветок в степи безлесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как цветок в степи безлесной,</plain>
+        </string>
+        <string>
+            <plain>Так Христос среди людей</plain>
+        </string>
+        <string>
+            <plain>Светит святостью небесной,</plain>
+        </string>
+        <string>
+            <plain>Красотой души Своей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Словно путник утомленный</plain>
+        </string>
+        <string>
+            <plain>Видит радостно цветок,</plain>
+        </string>
+        <string>
+            <plain>Вижу я Христа в мученье,</plain>
+        </string>
+        <string>
+            <plain>Вижу я Его венок.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Облик кротости, смиренья,</plain>
+        </string>
+        <string>
+            <plain>Нет прекрасней ничего!</plain>
+        </string>
+        <string>
+            <plain>Не могу без восхищенья</plain>
+        </string>
+        <string>
+            <plain>Посмотреть я на Него.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как волну благоуханья,</plain>
+        </string>
+        <string>
+            <plain>Разливает Он любовь,</plain>
+        </string>
+        <string>
+            <plain>Свет святого одеянья -</plain>
+        </string>
+        <string>
+            <plain>Принесенной жертвы кровь.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Видишь ли цветок чудесный?</plain>
+        </string>
+        <string>
+            <plain>Если нет, то посмотри,</plain>
+        </string>
+        <string>
+            <plain>И в сердечной клети тесной</plain>
+        </string>
+        <string>
+            <plain>Станет все светлей зари.</plain>
+        </string>
+    </verse>
+</song>

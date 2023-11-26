@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1422" name="Словно среди волн морских скала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словно среди волн морских скала,</plain>
+        </string>
+        <string>
+            <plain>Колокольня высится над лесом.</plain>
+        </string>
+        <string>
+            <plain>И звонят, гласят колокола</plain>
+        </string>
+        <string>
+            <plain>Что-то о возвышенном, небесном.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Эх, колокола, колокола.</plain>
+        </string>
+        <string>
+            <plain>Звуки как серебряные нити,</plain>
+        </string>
+        <string>
+            <plain>Пусть не смолкнут ваши голоса.</plain>
+        </string>
+        <string>
+            <plain>Громче для души моей звоните.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По часам звонят колокола.</plain>
+        </string>
+        <string>
+            <plain>Возвещая утро или вечер,</plain>
+        </string>
+        <string>
+            <plain>А вокруг, как свечи, тополя.</plain>
+        </string>
+        <string>
+            <plain>Теплые мерцающие свечи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не по мне ль звонят колокола.</plain>
+        </string>
+        <string>
+            <plain>Будят сердце предрассветной ранью?</plain>
+        </string>
+        <string>
+            <plain>Слушают туманные поля</plain>
+        </string>
+        <string>
+            <plain>Колокольный призыв к покаянью.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мне бы встать, встряхнуться от оков.</plain>
+        </string>
+        <string>
+            <plain>Жизнь моя, ведь ты уже в зените!</plain>
+        </string>
+        <string>
+            <plain>О, колокола - Господний зов,</plain>
+        </string>
+        <string>
+            <plain>Не смолкая, над землей звоните.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3156" name="Кто у двери сердца здесь стоит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто у двери сердца здесь стоит?</plain>
+        </string>
+        <string>
+            <plain>- О, впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>Ты не слышишь, как Он всё стучит:</plain>
+        </string>
+        <string>
+            <plain>«О, впусти Меня!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, впусти! О, впусти! Грешник,</plain>
+        </string>
+        <string>
+            <plain>встань и впусти!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Верно ждать Он там не перестал,</plain>
+        </string>
+        <string>
+            <plain>- о, впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>- хоть Его ты часто огорчал.</plain>
+        </string>
+        <string>
+            <plain>О, впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>З Ты - в преддверии ада в смертный час.</plain>
+        </string>
+        <string>
+            <plain>О, впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>Он хранит тебя во всякий час. О</plain>
+        </string>
+        <string>
+            <plain>, впусти Христа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вспомни же, как тяжко Он страдал,</plain>
+        </string>
+        <string>
+            <plain>- о, впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>И свою ты совесть заглушал.</plain>
+        </string>
+        <string>
+            <plain>О, впусти Христа!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, открой Ему ты сердца дверь</plain>
+        </string>
+        <string>
+            <plain>и впусти Христа!</plain>
+        </string>
+        <string>
+            <plain>Не гони Его, открой теперь,</plain>
+        </string>
+        <string>
+            <plain>о, впусти Христа!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если сердце жёстко как скала,</plain>
+        </string>
+        <string>
+            <plain>ты моли Христа:</plain>
+        </string>
+        <string>
+            <plain>«Сделай мягким Ты, Господь, меня</plain>
+        </string>
+        <string>
+            <plain>- я впустил Тебя!»</plain>
+        </string>
+    </verse>
+</song>

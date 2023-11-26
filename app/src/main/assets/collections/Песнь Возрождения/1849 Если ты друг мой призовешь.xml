@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1849" name="Если ты друг мой призовешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если ты, друг мой, призовешь</plain>
+        </string>
+        <string>
+            <plain>Христа, Если ты, друг мой, призовешь</plain>
+        </string>
+        <string>
+            <plain>Христа, Если ты, друг мой, призовешь</plain>
+        </string>
+        <string>
+            <plain>Христа, Он не откажет, нет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Иисус лечит раны ваши,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Иисус лечит души ваши,</plain>
+        </string>
+        <string>
+            <plain>Иисус, Иисус, любит вас</plain>
+        </string>
+        <string>
+            <plain>Он сильно, Он вам даст покой!</plain>
+        </string>
+    </chorus>
+</song>

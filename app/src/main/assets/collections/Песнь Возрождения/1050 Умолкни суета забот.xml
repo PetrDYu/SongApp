@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1050" name="Умолкни суета забот" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Умолкни, суета забот!</plain>
+        </string>
+        <string>
+            <plain>Святой день наступил,</plain>
+        </string>
+        <string>
+            <plain>И ныне нас от всех забот</plain>
+        </string>
+        <string>
+            <plain>Сей день освободил.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пусть приготовит нас Твой Дух</plain>
+        </string>
+        <string>
+            <plain>Стать пред лицем Твоим,</plain>
+        </string>
+        <string>
+            <plain>И разум дай, отверзни слух</plain>
+        </string>
+        <string>
+            <plain>Внимать словам святым.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Народ Твой ныне в доме сем</plain>
+        </string>
+        <string>
+            <plain>К Тебе зовет опять.</plain>
+        </string>
+        <string>
+            <plain>Отверзни очи сердца всем.</plain>
+        </string>
+        <string>
+            <plain>Излей нам благодать!</plain>
+        </string>
+    </verse>
+</song>

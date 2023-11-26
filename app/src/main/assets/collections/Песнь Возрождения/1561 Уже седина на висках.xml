@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1561" name="Уже седина на висках" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уже седина на висках</plain>
+        </string>
+        <string>
+            <plain>И, может, для многих то странно,</plain>
+        </string>
+        <string>
+            <plain>И светятся счастьем глаза,</plain>
+        </string>
+        <string>
+            <plain>И сердце ликует: "Осанна!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос, я Тебя люблю,</plain>
+        </string>
+        <string>
+            <plain>Тобою спасен в надежде.</plain>
+        </string>
+        <string>
+            <plain>Христос, благодарю.</plain>
+        </string>
+        <string>
+            <plain>Что Ты возлюбил меня прежде.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я помощи свыше прошу</plain>
+        </string>
+        <string>
+            <plain>На путь чрез пустыню неверья.</plain>
+        </string>
+        <string>
+            <plain>Дыханье даешь - я дышу,</plain>
+        </string>
+        <string>
+            <plain>Научишь - и нет преткновенья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос, приходи поскорей,</plain>
+        </string>
+        <string>
+            <plain>Не надо земного мне рая,</plain>
+        </string>
+        <string>
+            <plain>Чем ближе к Тебе, тем видней.</plain>
+        </string>
+        <string>
+            <plain>Желанней Отчизна святая.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Небесное - небо дает.</plain>
+        </string>
+        <string>
+            <plain>Земля и земное отнимет.</plain>
+        </string>
+        <string>
+            <plain>Надменным противится Бог,</plain>
+        </string>
+        <string>
+            <plain>А милосердных поднимет.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Уже седина на висках</plain>
+        </string>
+        <string>
+            <plain>И, может, для многих то странно,</plain>
+        </string>
+        <string>
+            <plain>И светятся счастьем глаза,</plain>
+        </string>
+        <string>
+            <plain>И сердце ликует: "Осанна!".</plain>
+        </string>
+    </verse>
+</song>

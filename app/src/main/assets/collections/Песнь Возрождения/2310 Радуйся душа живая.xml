@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2310" name="Радуйся душа живая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радуйся, душа живая,</plain>
+        </string>
+        <string>
+            <plain>Вот Спаситель твой грядет.</plain>
+        </string>
+        <string>
+            <plain>Пристань близится родная,</plain>
+        </string>
+        <string>
+            <plain>К ней ладья моя плывет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Отец Небесный,</plain>
+        </string>
+        <string>
+            <plain>мы к Тебе все взываем</plain>
+        </string>
+        <string>
+            <plain>И Тебя умоляем,</plain>
+        </string>
+        <string>
+            <plain>Ты прости нам грехи,</plain>
+        </string>
+        <string>
+            <plain>Прими молены</plain>
+        </string>
+        <string>
+            <plain>от души сокрушенной,</plain>
+        </string>
+        <string>
+            <plain>Дай узреть лучезарный</plain>
+        </string>
+        <string>
+            <plain>Твой великий престол.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Быстро челн чрез волны мчится,</plain>
+        </string>
+        <string>
+            <plain>Паруса его полны.</plain>
+        </string>
+        <string>
+            <plain>Бури нечего страшиться,</plain>
+        </string>
+        <string>
+            <plain>Берега уже видны.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Цель для верных достижима,</plain>
+        </string>
+        <string>
+            <plain>Цель пути уже близка.</plain>
+        </string>
+        <string>
+            <plain>Ты придешь к ней невредимо,</plain>
+        </string>
+        <string>
+            <plain>Хоть опасность велика.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть волна полна смятенья</plain>
+        </string>
+        <string>
+            <plain>И свиреп, ее разлив,</plain>
+        </string>
+        <string>
+            <plain>Но ты якорь избавленья</plain>
+        </string>
+        <string>
+            <plain>Скоро бросишь, путь свершив.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Посмотри, врата сияют</plain>
+        </string>
+        <string>
+            <plain>И огни небес горят,</plain>
+        </string>
+        <string>
+            <plain>И усталых приглашают</plain>
+        </string>
+        <string>
+            <plain>В край покоя и отрад.</plain>
+        </string>
+    </verse>
+</song>

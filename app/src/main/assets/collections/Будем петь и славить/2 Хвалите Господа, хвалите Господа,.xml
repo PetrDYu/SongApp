@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2" name="Хвалите Господа, хвалите Господа," canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Хвалите Господа, хвалите Господа,</plain>
+        </string>
+        <string>
+            <plain>Все народы. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Laudate Dominum, laudate Dominum,</plain>
+        </string>
+        <string>
+            <plain>omnes gentes, alleluia!</plain>
+        </string>
+    </verse>
+</song>

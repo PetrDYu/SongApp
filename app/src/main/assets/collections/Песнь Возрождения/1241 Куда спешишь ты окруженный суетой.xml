@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1241" name="Куда спешишь ты окруженный суетой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Куда спешишь ты, окруженный суетой?</plain>
+        </string>
+        <string>
+            <plain>Не замечая даже ближнего порой.</plain>
+        </string>
+        <string>
+            <plain>Остановись и разберись, зачем спешить?</plain>
+        </string>
+        <string>
+            <plain>Ведь на земле тебе не так уж долго жить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Куда спешишь ты, окруженный суетой?</plain>
+        </string>
+        <string>
+            <plain>Вокруг земля благоухает красотой.</plain>
+        </string>
+        <string>
+            <plain>Тебя царем поставил Бог над всей землей,</plain>
+        </string>
+        <string>
+            <plain>А ты не можешь овладеть самим собой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Куда спешишь ты, окруженный суетой?</plain>
+        </string>
+        <string>
+            <plain>Ведь скоро вечность дверь откроет пред тобой.</plain>
+        </string>
+        <string>
+            <plain>И ты свою оставишь плоть - закон таков,</plain>
+        </string>
+        <string>
+            <plain>А ты, наверно, ты, наверно, не готов.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="295" name="Путь ко спасенью новый живой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Путь ко спасенью новый, живой</plain>
+        </string>
+        <string>
+            <plain>Словом Христа открыт пред тобой;</plain>
+        </string>
+        <string>
+            <plain>Сам Он тебе дарует покой,</plain>
+        </string>
+        <string>
+            <plain>Сам говорит: "Приди!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радость, радость будет в небесах,</plain>
+        </string>
+        <string>
+            <plain>Где мы в райских встретимся вратах;</plain>
+        </string>
+        <string>
+            <plain>Нас там Спаситель скроет в лучах</plain>
+        </string>
+        <string>
+            <plain>Вечной Своей любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Будьте как дети!" - Он говорит;</plain>
+        </string>
+        <string>
+            <plain>Голос Христа нам радость дарит;</plain>
+        </string>
+        <string>
+            <plain>Слышащий всякий пусть повторит</plain>
+        </string>
+        <string>
+            <plain>Нежный тот зов: "Приди!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знай, что тебя зовет Он теперь;</plain>
+        </string>
+        <string>
+            <plain>Брось все сомненья, искренно верь,</plain>
+        </string>
+        <string>
+            <plain>Вниди в Его отверстую дверь;</plain>
+        </string>
+        <string>
+            <plain>Сам Он зовет: "Приди!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="593" name="К яслям бедным прибежали пастухи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К яслям бедным прибежали пастухи,</plain>
+        </string>
+        <string>
+            <plain>Пред Младенцем ликовали как могли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава в вышних Богу!</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу!</plain>
+        </string>
+        <string>
+            <plain>Людям мир Бог дает!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ангел светлый их на поле посетил,</plain>
+        </string>
+        <string>
+            <plain>О Рожденном в Вифлееме возвестил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поклонились Жизнедавцу всей земли,</plain>
+        </string>
+        <string>
+            <plain>Сердцем чистым Богу славу вознесли.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Им открылся в том Младенце Царь царей,</plain>
+        </string>
+        <string>
+            <plain>Кто родился, чтоб избавить всех людей.</plain>
+        </string>
+    </verse>
+</song>

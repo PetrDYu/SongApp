@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="38" name="Отче, Тебя славлю, жизнь Тебе отдаю я, люблю Тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Отче, Тебя славлю, жизнь Тебе отдаю я, люблю Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус, Тебя славлю, жизнь Тебе отдаю я, люблю Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух Святой, Тебя славлю, жизнь Тебе отдаю я, люблю Тебя.</plain>
+        </string>
+    </verse>
+</song>

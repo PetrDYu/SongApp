@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3142" name="Если нам гонения грозят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если нам гонения грозят,</plain>
+        </string>
+        <string>
+            <plain>если льётся гнев на нас</plain>
+        </string>
+        <string>
+            <plain>как град и враги со всех сторон</plain>
+        </string>
+        <string>
+            <plain>страшат - свет твой да светит!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не теряй ты время на стоны и слёзы,</plain>
+        </string>
+        <string>
+            <plain>ввысь взирай, свети сквозь туманы и грозы.</plain>
+        </string>
+        <string>
+            <plain>Туча улетит, взглянь, уж рассвет блестит.</plain>
+        </string>
+        <string>
+            <plain>В Господе укрепись - твой свет да светит!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если в мире оклеветан ты,</plain>
+        </string>
+        <string>
+            <plain>если жнёшь с плодами сорняки,</plain>
+        </string>
+        <string>
+            <plain>знай: чрез крест достигнешь высоты</plain>
+        </string>
+        <string>
+            <plain>- свет твой да светит!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ад кипит вокруг тебя,</plain>
+        </string>
+        <string>
+            <plain>если мрачны небо и земля,</plain>
+        </string>
+        <string>
+            <plain>не хотят понять тебя друзья</plain>
+        </string>
+        <string>
+            <plain>- свет твой да светит!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не смотри, что мир и ад грозят;</plain>
+        </string>
+        <string>
+            <plain>не смотри, когда твой труд не чтят;</plain>
+        </string>
+        <string>
+            <plain>не смотри, что люди говорят</plain>
+        </string>
+        <string>
+            <plain>- свет твой да светит!</plain>
+        </string>
+    </verse>
+</song>

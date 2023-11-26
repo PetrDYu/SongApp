@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1081" name="Словом жизни Господи о оживи меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Словом жизни, Господи, о, оживи меня!</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, Утешитель, открой во мне Христа.</plain>
+        </string>
+        <string>
+            <plain>Все свои заботы и всего самого себя</plain>
+        </string>
+        <string>
+            <plain>Верой полагаю я всецело на Тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, Иисус, Иисус.</plain>
+        </string>
+        <string>
+            <plain>О, Отец, О, Отец, О, Отец.</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, Дух Святой, Дух Святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой, прошу, приди в смиренные сердца.</plain>
+        </string>
+        <string>
+            <plain>О, прошу, покрой меня теплом любви Отца.</plain>
+        </string>
+        <string>
+            <plain>Удали сомнения и всякий грех и страх.</plain>
+        </string>
+        <string>
+            <plain>О, напомни сердцу о священных небесах!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу с Тобою слиться и дышать Тобой.</plain>
+        </string>
+        <string>
+            <plain>Ты освобождаешь и даешь душе покой.</plain>
+        </string>
+        <string>
+            <plain>Святостью окружишь и осветишь путь земной.</plain>
+        </string>
+        <string>
+            <plain>Царствовать на небе буду вечно я с Тобой.</plain>
+        </string>
+    </verse>
+</song>

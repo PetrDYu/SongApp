@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2935" name="Следую верно за Иисусом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Следую верно за Иисусом,</plain>
+        </string>
+        <string>
+            <plain>Он ведь со мною, как легко с Ним идти!</plain>
+        </string>
+        <string>
+            <plain>Если я верен, бодрый в молитве,</plain>
+        </string>
+        <string>
+            <plain>Он сохраняет на узком пути.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Следую верно за Иисусом,</plain>
+        </string>
+        <string>
+            <plain>следую верно в беде и в нужде.</plain>
+        </string>
+        <string>
+            <plain>Бодр я в молитве, верен я в битве;</plain>
+        </string>
+        <string>
+            <plain>в жизни и в смерти помощник Он мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Следую верно за Иисусом.</plain>
+        </string>
+        <string>
+            <plain>Умер за нас Он, в Нём лишь мы спасены.</plain>
+        </string>
+        <string>
+            <plain>Радость даёт Он, даже в страданьях,</plain>
+        </string>
+        <string>
+            <plain>если здесь Духом мы освящены.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Следую верно за Иисусом.</plain>
+        </string>
+        <string>
+            <plain>Он дал из милости Свою благодать.</plain>
+        </string>
+        <string>
+            <plain>Как меня спас Он, вечную жизнь дал,</plain>
+        </string>
+        <string>
+            <plain>всем я хочу здесь об этом сказать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Следую верно за Иисусом.</plain>
+        </string>
+        <string>
+            <plain>О, как блаженно уповать на Него!</plain>
+        </string>
+        <string>
+            <plain>В Нём укрываюсь и ободряюсь:</plain>
+        </string>
+        <string>
+            <plain>скоро на небе увижу Его.</plain>
+        </string>
+    </verse>
+</song>

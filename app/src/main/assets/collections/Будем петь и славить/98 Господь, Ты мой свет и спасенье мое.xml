@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="98" name="Господь, Ты мой свет и спасенье мое" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Господь, Ты мой свет и спасенье мое.</plain>
+        </string>
+        <string>
+            <plain>Кого же мне бояться? Кого же мне страшиться?</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Даже если все злые люди на земле</plain>
+        </string>
+        <string>
+            <plain>Встанут против меня, то и тогда,</plain>
+        </string>
+        <string>
+            <plain>То и тогда я буду надеяться.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, я прошу, только одного ищу:</plain>
+        </string>
+        <string>
+            <plain>Жить в доме Твоем, каждый свой день,</plain>
+        </string>
+        <string>
+            <plain>Каждый свой час жить в доме Твоем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Научи, Господь, чтобы каждый новый день</plain>
+        </string>
+        <string>
+            <plain>Был спасеньем моим; в светлые дни,</plain>
+        </string>
+        <string>
+            <plain>В смутные дни я буду надеяться.</plain>
+        </string>
+    </verse>
+</song>

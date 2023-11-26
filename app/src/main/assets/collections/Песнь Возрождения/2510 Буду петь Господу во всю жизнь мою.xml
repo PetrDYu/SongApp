@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2510" name="Буду петь Господу во всю жизнь мою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Буду петь Господу во всю жизнь мою,</plain>
+        </string>
+        <string>
+            <plain>Буду петь Ему доколе я жив,</plain>
+        </string>
+        <string>
+            <plain>Да будет благоприятна песнь моя,</plain>
+        </string>
+        <string>
+            <plain>Возрадуюсь, возвеселюсь я в Господе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благослови Господа, душа моя,</plain>
+        </string>
+        <string>
+            <plain>Благослови Господа, душа моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Буду петь Господу во всю жизнь мою,</plain>
+        </string>
+        <string>
+            <plain>Буду петь Ему доколе я жив,</plain>
+        </string>
+        <string>
+            <plain>Как высоко небо над землею,</plain>
+        </string>
+        <string>
+            <plain>Так велика, чудесна милость Господа.</plain>
+        </string>
+    </verse>
+</song>

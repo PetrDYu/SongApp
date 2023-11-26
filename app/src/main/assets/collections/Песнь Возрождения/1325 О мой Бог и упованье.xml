@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1325" name="О мой Бог и упованье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, мой Бог и упованье!</plain>
+        </string>
+        <string>
+            <plain>Не оставь меня, молю,</plain>
+        </string>
+        <string>
+            <plain>Озари Своим сиянием</plain>
+        </string>
+        <string>
+            <plain>Душу грешную мою.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай мне сердце безмятежное,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Тобой было полно.</plain>
+        </string>
+        <string>
+            <plain>Как Твоя снежинка нежная.</plain>
+        </string>
+        <string>
+            <plain>Чисто было бы оно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтоб Твои законы вечные</plain>
+        </string>
+        <string>
+            <plain>Мог на нем Ты начертать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб святая, бесконечная</plain>
+        </string>
+        <string>
+            <plain>В нем сияла благодать.</plain>
+        </string>
+    </verse>
+</song>

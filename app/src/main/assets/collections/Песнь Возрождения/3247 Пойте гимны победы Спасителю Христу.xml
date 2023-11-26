@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3247" name="Пойте гимны победы Спасителю Христу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пойте гимны победы Спасителю Христу!</plain>
+        </string>
+        <string>
+            <plain>Иисуса, братья, славьте, воспойте все хвалу!</plain>
+        </string>
+        <string>
+            <plain>Кто терпит пораженье, когда с ним Иисус?</plain>
+        </string>
+        <string>
+            <plain>- Он всем даёт победу и освещает путь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гимн победы пойте!</plain>
+        </string>
+        <string>
+            <plain>Мы стойки в любой борьбе,</plain>
+        </string>
+        <string>
+            <plain>Вождь наш ведёт нас к победе</plain>
+        </string>
+        <string>
+            <plain>в этой священной войне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пойте гимны победы, о, пойте от души!</plain>
+        </string>
+        <string>
+            <plain>Пусть враг грозит, не страшитесь, победно пойте вы!</plain>
+        </string>
+        <string>
+            <plain>Пусть громче звуки льются и вострубит труба</plain>
+        </string>
+        <string>
+            <plain>- Иисус нам даст победу при натисках врага.</plain>
+        </string>
+        <string>
+            <plain>З Пойте гимны победы! Для мира пусть звучит:</plain>
+        </string>
+        <string>
+            <plain>«За истиной победа!» - Кто сердце отворит?</plain>
+        </string>
+        <string>
+            <plain>Услышь любви призывы Спасителя Христа,</plain>
+        </string>
+        <string>
+            <plain>ты в Нём своё спасенье спеши найти, душа!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пойте гимны победы, пусть вторят небеса</plain>
+        </string>
+        <string>
+            <plain>и пусть не смолкнут гимны победы никогда!</plain>
+        </string>
+        <string>
+            <plain>Когда мы одолеем последнего врага,</plain>
+        </string>
+        <string>
+            <plain>мы в вечности восславим Спасителя Христа.</plain>
+        </string>
+    </verse>
+</song>

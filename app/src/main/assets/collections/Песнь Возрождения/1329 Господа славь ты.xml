@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1329" name="Господа славь ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господа славь ты,</plain>
+        </string>
+        <string>
+            <plain>мой дух, восхваляй Всеблагого!</plain>
+        </string>
+        <string>
+            <plain>Славь песнопеньем Царя, Всемогущего Бога!</plain>
+        </string>
+        <string>
+            <plain>Славь ты Творца!</plain>
+        </string>
+        <string>
+            <plain>Славь ты Его без конца!</plain>
+        </string>
+        <string>
+            <plain>Он нам дарует так много.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господа славь ты!</plain>
+        </string>
+        <string>
+            <plain>Он мудрый Правитель вселенной,</plain>
+        </string>
+        <string>
+            <plain>К целям Своим нас ведущий стезей сокровенной;</plain>
+        </string>
+        <string>
+            <plain>Он и тебя Вел по пути, где, скорбя.</plain>
+        </string>
+        <string>
+            <plain>Шел ты, тревогой смущенный.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господа славь ты!</plain>
+        </string>
+        <string>
+            <plain>Как дивно тебя так устроил;</plain>
+        </string>
+        <string>
+            <plain>Кто до сих пор все тебя и хранил и покоил;</plain>
+        </string>
+        <string>
+            <plain>Кто Сам тебя</plain>
+        </string>
+        <string>
+            <plain>От смерти спас, возлюбя.</plain>
+        </string>
+        <string>
+            <plain>Жизни благой удостоил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господа славь ты,</plain>
+        </string>
+        <string>
+            <plain>мой дух, не умолкни хвалою.</plain>
+        </string>
+        <string>
+            <plain>Он же тебя утоляет спасенья струею;</plain>
+        </string>
+        <string>
+            <plain>В Боге лишь свет.</plain>
+        </string>
+        <string>
+            <plain>Нам без Него в мире нет</plain>
+        </string>
+        <string>
+            <plain>Счастья, мира, покоя...</plain>
+        </string>
+    </verse>
+</song>

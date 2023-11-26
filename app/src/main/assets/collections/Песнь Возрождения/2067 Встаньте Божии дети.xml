@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2067" name="Встаньте Божии дети" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Встаньте, Божии дети,</plain>
+        </string>
+        <string>
+            <plain>Встаньте, окончились сны.</plain>
+        </string>
+        <string>
+            <plain>Время, последнее время,</plain>
+        </string>
+        <string>
+            <plain>Время, время войны.</plain>
+        </string>
+        <string>
+            <plain>Последнее время (3 р.).</plain>
+        </string>
+        <string>
+            <plain>Время войны (3 р.).</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Идите, Я вас посылаю</plain>
+        </string>
+        <string>
+            <plain>Навстречу судьбам людей,</plain>
+        </string>
+        <string>
+            <plain>Идите и паступайте на зло,</plain>
+        </string>
+        <string>
+            <plain>Скорпионов и змей.</plain>
+        </string>
+        <string>
+            <plain>Вы наступайте (3 р.).</plain>
+        </string>
+        <string>
+            <plain>Наступайте на змей (3 р.).</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Церковь! Грозная в духе!</plain>
+        </string>
+        <string>
+            <plain>Ад пред тобою дрожит.</plain>
+        </string>
+        <string>
+            <plain>Церковь! Время настало.</plain>
+        </string>
+        <string>
+            <plain>Церковь! Ты победишь.</plain>
+        </string>
+        <string>
+            <plain>Время настало (3 р.).</plain>
+        </string>
+        <string>
+            <plain>Ты победишь (3 р.).</plain>
+        </string>
+    </verse>
+</song>

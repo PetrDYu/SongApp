@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2928" name="О грешник что блуждаешь ты на жизненном пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О. грешник, что блуждаешь ты на жизненном пути?</plain>
+        </string>
+        <string>
+            <plain>Взгляни на крест и будь спасён! Беги от сатаны!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Грешник, в Иисусе укройся,</plain>
+        </string>
+        <string>
+            <plain>сердцем поверь Ему;</plain>
+        </string>
+        <string>
+            <plain>ныне Господь оправдает всех,</plain>
+        </string>
+        <string>
+            <plain>кто приходит к Нему.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В ногах нет сил, в глазах - печаль и ноша тяжела,</plain>
+        </string>
+        <string>
+            <plain>но не робей, ведь за тебя кровь на кресте текла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты взор свой к небу обрати и благодать прими,</plain>
+        </string>
+        <string>
+            <plain>на зов Христа: «Приди ко Мне!» - скорей к Нему спеши!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ответь на Духа нежный зов, не отвергай любовь</plain>
+        </string>
+        <string>
+            <plain>- иначе ты не устоишь, когда придёт Он вновь.</plain>
+        </string>
+    </verse>
+</song>

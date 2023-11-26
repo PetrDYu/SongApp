@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="762" name="Любовь Господня все зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь Господня все зовет,</plain>
+        </string>
+        <string>
+            <plain>Не медли к Христу прийти!</plain>
+        </string>
+        <string>
+            <plain>Спеши скорей, пока Он ждет,</plain>
+        </string>
+        <string>
+            <plain>Себя осчастливишь ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Зачем же медлишь?</plain>
+        </string>
+        <string>
+            <plain>Поспеши!</plain>
+        </string>
+        <string>
+            <plain>И время не пропускай!</plain>
+        </string>
+        <string>
+            <plain>Остаться вне врат страшись!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Взгляни на избранных Христа,</plain>
+        </string>
+        <string>
+            <plain>Которые Им живут,</plain>
+        </string>
+        <string>
+            <plain>Чья жизнь пред Господом чиста, -</plain>
+        </string>
+        <string>
+            <plain>Их радость и счастье ждут.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И даже здесь, в долине слез,</plain>
+        </string>
+        <string>
+            <plain>Спасенному легче жить.</plain>
+        </string>
+        <string>
+            <plain>Он твердо верит, что Христос</plain>
+        </string>
+        <string>
+            <plain>Его будет Сам хранить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Примкни к рядам Господних слуг,</plain>
+        </string>
+        <string>
+            <plain>И к небу одной тропой</plain>
+        </string>
+        <string>
+            <plain>Пойдем мы вместе, там наш дух</plain>
+        </string>
+        <string>
+            <plain>Найдет полный мир, покой.</plain>
+        </string>
+    </verse>
+</song>

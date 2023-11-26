@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="409" name="Иисус любит, меня любит, слышит Он всегда меня" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус любит, меня любит, слышит Он всегда меня.</plain>
+        </string>
+        <string>
+            <plain>Иисус любит, меня любит, по земле ведет, храня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я читаю Слово Божье, и оно мне говорит:</plain>
+        </string>
+        <string>
+            <plain>«Иисус любит малых деток и тебя благословит».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Очень я люблю Иисуса. Знаю: друг Он всех детей.</plain>
+        </string>
+        <string>
+            <plain>Очень я люблю Иисуса, больше жизни всей своей.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1914" name="Боже Господи пролей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Господи, пролей</plain>
+        </string>
+        <string>
+            <plain>В сердце мир любви Твоей.</plain>
+        </string>
+        <string>
+            <plain>Путнику пошли покой,</plain>
+        </string>
+        <string>
+            <plain>Дай бальзам душе больной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Звезды с небес сияют,</plain>
+        </string>
+        <string>
+            <plain>К выси нас призывают;</plain>
+        </string>
+        <string>
+            <plain>Счастье сердцам, принятым</plain>
+        </string>
+        <string>
+            <plain>в вечность Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Звуки арфы там звучат,</plain>
+        </string>
+        <string>
+            <plain>Льется в них струя отрад;</plain>
+        </string>
+        <string>
+            <plain>Льется радость с высоты,</plain>
+        </string>
+        <string>
+            <plain>Как из моря полноты.</plain>
+        </string>
+    </verse>
+</song>

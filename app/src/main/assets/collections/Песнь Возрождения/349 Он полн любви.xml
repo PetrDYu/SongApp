@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="349" name="Он полн любви" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он полн любви!</plain>
+        </string>
+        <string>
+            <plain>Ждет тебя Он, твой Бог;</plain>
+        </string>
+        <string>
+            <plain>Друг, приди и сложи</plain>
+        </string>
+        <string>
+            <plain>Бремя у Его ног.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он полн любви!</plain>
+        </string>
+        <string>
+            <plain>С верой детской простой</plain>
+        </string>
+        <string>
+            <plain>Ему сердце открой,</plain>
+        </string>
+        <string>
+            <plain>И Он снимет грех твой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он полн любви!</plain>
+        </string>
+        <string>
+            <plain>Пусть бежит прочь твой страх!</plain>
+        </string>
+        <string>
+            <plain>Поспеши, и тебе</plain>
+        </string>
+        <string>
+            <plain>Он даст мир в небесах.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он полн любви!</plain>
+        </string>
+        <string>
+            <plain>С Ним так жизнь хороша,</plain>
+        </string>
+        <string>
+            <plain>В Нем находит душа</plain>
+        </string>
+        <string>
+            <plain>Счастье, вечный покой!</plain>
+        </string>
+    </verse>
+</song>

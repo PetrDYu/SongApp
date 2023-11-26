@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="233" name="Путь лежит мой долиной смертной тени" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Путь лежит мой долиной смертной тени,</plain>
+        </string>
+        <string>
+            <plain>Я пойду, моим Спасителем храним;</plain>
+        </string>
+        <string>
+            <plain>Он сказал: не бросит Он меня одним,</plain>
+        </string>
+        <string>
+            <plain>Но жезлом поддержит Он Своим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, долиной, да, долиной</plain>
+        </string>
+        <string>
+            <plain>Смертной тени я иду...</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За межою долины смертной тени</plain>
+        </string>
+        <string>
+            <plain>Дни невзгод и немощей навек пройдут,</plain>
+        </string>
+        <string>
+            <plain>Руки Пастыря мне щит от зла дадут,</plain>
+        </string>
+        <string>
+            <plain>Я забуду горечь смертных смут.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть иду я долиной смертной тени,</plain>
+        </string>
+        <string>
+            <plain>Все ж увижу славу утренних лучей;</plain>
+        </string>
+        <string>
+            <plain>К пенью Иорданских я примкну друзей,</plain>
+        </string>
+        <string>
+            <plain>Где любим я в немощи своей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да, пойду я долиной смертной тени,</plain>
+        </string>
+        <string>
+            <plain>Я пойду за Ним, пусть Он идет вперед;</plain>
+        </string>
+        <string>
+            <plain>Через мглу долин меня Он проведет,</plain>
+        </string>
+        <string>
+            <plain>И приду я в край, где нет невзгод.</plain>
+        </string>
+    </verse>
+</song>

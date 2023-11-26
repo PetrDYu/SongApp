@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1217" name="Вдали вдали я вижу крест" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вдали, вдали я вижу крест,</plain>
+        </string>
+        <string>
+            <plain>И лик Страдальца виден мне.</plain>
+        </string>
+        <string>
+            <plain>Там умирает Царь небес</plain>
+        </string>
+        <string>
+            <plain>Среди проклятий на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мой Спаситель, о, мой Бог,</plain>
+        </string>
+        <string>
+            <plain>Твою любовь постигну ль я?</plain>
+        </string>
+        <string>
+            <plain>Ты райский мне открыл чертог.</plain>
+        </string>
+        <string>
+            <plain>Ты мне сказал: "Люблю тебя".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С холма, с холма бежит толпа.</plain>
+        </string>
+        <string>
+            <plain>Боясь на дело рук взглянуть.</plain>
+        </string>
+        <string>
+            <plain>"Ведь это Бог" - слышны слова.</plain>
+        </string>
+        <string>
+            <plain>Рыдает потрясенный люд.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Прости, прости им, Отче Мой,</plain>
+        </string>
+        <string>
+            <plain>Они не знают, что творят",</plain>
+        </string>
+        <string>
+            <plain>- Слова несутся над землей</plain>
+        </string>
+        <string>
+            <plain>Из уст распятого Царя.</plain>
+        </string>
+    </verse>
+</song>

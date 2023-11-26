@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1524" name="Приди ко Мне ты часто слезы льешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди ко Мне, ты часто слезы льешь,</plain>
+        </string>
+        <string>
+            <plain>Не знаешь цель и просто так живешь.</plain>
+        </string>
+        <string>
+            <plain>Приди ко Мне, о, разве ты не слышишь?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ведь Я тебя на дланях начертал,</plain>
+        </string>
+        <string>
+            <plain>Я за тебя томился и страдал,</plain>
+        </string>
+        <string>
+            <plain>И ранами Я на Моем челе</plain>
+        </string>
+        <string>
+            <plain>Ведь твое имя записал.</plain>
+        </string>
+        <string>
+            <plain>Чтоб дух твой утомленный искупить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мир тебе и радость подарить,</plain>
+        </string>
+        <string>
+            <plain>Я за тебя томился и страдал,</plain>
+        </string>
+        <string>
+            <plain>И кровью твое имя записал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди ко Мне, в пороках ты живешь,</plain>
+        </string>
+        <string>
+            <plain>И сердца горечь ядом заливаешь,</plain>
+        </string>
+        <string>
+            <plain>Душе израненной пить соль даешь,</plain>
+        </string>
+        <string>
+            <plain>Приди на зов, что ж ты не отвечаешь?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если ты, раскаявшись, придешь.</plain>
+        </string>
+        <string>
+            <plain>Приму, как сына, как дитя родное.</plain>
+        </string>
+        <string>
+            <plain>Отброшу тяжесть, радость обретешь,</plain>
+        </string>
+        <string>
+            <plain>- Приди ко Мне, Я дух твой успокою.</plain>
+        </string>
+    </verse>
+</song>

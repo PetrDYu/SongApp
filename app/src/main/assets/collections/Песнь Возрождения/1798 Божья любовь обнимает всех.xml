@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1798" name="Божья любовь обнимает всех" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Божья любовь обнимает</plain>
+        </string>
+        <string>
+            <plain>Всех, кто живет на земле.</plain>
+        </string>
+        <string>
+            <plain>И нас Господь посылает</plain>
+        </string>
+        <string>
+            <plain>К людям, заблудшим во тьме.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тысячи душ погибают.</plain>
+        </string>
+        <string>
+            <plain>Братья, пойдем, свет понесем.</plain>
+        </string>
+        <string>
+            <plain>Скажем им весть об Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Что Он и их возлюбил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люди во мраке духовном</plain>
+        </string>
+        <string>
+            <plain>Служат невольно греху,</plain>
+        </string>
+        <string>
+            <plain>Духом страдают и телом,</plain>
+        </string>
+        <string>
+            <plain>Гибель не видят свою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Призваны мы в этой жизни</plain>
+        </string>
+        <string>
+            <plain>Миру любовью служить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб среди дальних и ближних</plain>
+        </string>
+        <string>
+            <plain>Свет Божий распространить.</plain>
+        </string>
+    </verse>
+</song>

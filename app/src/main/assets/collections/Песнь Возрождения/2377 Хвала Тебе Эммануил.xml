@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2377" name="Хвала Тебе Эммануил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвала Тебе, Эммануил,</plain>
+        </string>
+        <string>
+            <plain>Падём мы пред Тобою.</plain>
+        </string>
+        <string>
+            <plain>Ты наши все грехи простил,</plain>
+        </string>
+        <string>
+            <plain>Загладив их Собою.</plain>
+        </string>
+        <string>
+            <plain>Мы славим подвиг Твой в мольбе,</plain>
+        </string>
+        <string>
+            <plain>все небеса поют Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ведь жизнью Ты смерть победил.</plain>
+        </string>
+        <string>
+            <plain>Хвала, хвала, хвала Тебе, Эммануил!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Твоём Ныне и вовек!</plain>
+        </string>
+        <string>
+            <plain>О, Эммануил! Эммануил!</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе, Эммануил!</plain>
+        </string>
+        <string>
+            <plain>О, Эммануил! Хвала Тебе, Эммануил!</plain>
+        </string>
+        <string>
+            <plain>О, Эммануил, Царь царей,</plain>
+        </string>
+        <string>
+            <plain>Господь господ, хвала, Эммануил!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвала Тебе, Эммануил,</plain>
+        </string>
+        <string>
+            <plain>Тебя тьмы окружают,</plain>
+        </string>
+        <string>
+            <plain>Кого Ты кровью искупил,</plain>
+        </string>
+        <string>
+            <plain>Тебя Царём венчают.</plain>
+        </string>
+        <string>
+            <plain>Сошлись они со всех веков,</plain>
+        </string>
+        <string>
+            <plain>Избавленные от грехов,</plain>
+        </string>
+        <string>
+            <plain>И благодать Ты им явил.</plain>
+        </string>
+        <string>
+            <plain>Хвала, хвала! Хвала Тебе, Эммануил!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хвала Тебе, Эммануил,</plain>
+        </string>
+        <string>
+            <plain>Воскресший наш Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Ты всех врагов Своих сразил,</plain>
+        </string>
+        <string>
+            <plain>Предвечный Победитель.</plain>
+        </string>
+        <string>
+            <plain>Грехи земли поверг во прах,</plain>
+        </string>
+        <string>
+            <plain>Могилы ключ держишь в руках</plain>
+        </string>
+        <string>
+            <plain>И жизнь нам, смертным, подарил.</plain>
+        </string>
+        <string>
+            <plain>Хвала, хвала! Хвала Тебе, Эммануил!</plain>
+        </string>
+    </verse>
+</song>

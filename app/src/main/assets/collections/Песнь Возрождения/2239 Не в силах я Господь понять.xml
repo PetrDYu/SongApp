@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2239" name="Не в силах я Господь понять" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не в силах я, Господь, понять</plain>
+        </string>
+        <string>
+            <plain>Твою любовь и благодать.</plain>
+        </string>
+        <string>
+            <plain>Ты нежно милостью Своей</plain>
+        </string>
+        <string>
+            <plain>Желаешь всех обнять, Ведь Ты...</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Искупил вину мою</plain>
+        </string>
+        <string>
+            <plain>Жертвою Своей сполна,</plain>
+        </string>
+        <string>
+            <plain>Тебе я сердце отдаю,</plain>
+        </string>
+        <string>
+            <plain>Прими и меня. На кресте</plain>
+        </string>
+        <string>
+            <plain>Ты кровно истекал</plain>
+        </string>
+        <string>
+            <plain>И умер, чтоб меня простить,</plain>
+        </string>
+        <string>
+            <plain>Свободу от греха мне дать,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я мог вечно жить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как много раз я избирал</plain>
+        </string>
+        <string>
+            <plain>Тот путь, что не ведёт к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Я Слову жизни не внимал</plain>
+        </string>
+        <string>
+            <plain>И был врагом Тебе. Но Ты ... (Припев) .</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Боже мой, я пред Тобой</plain>
+        </string>
+        <string>
+            <plain>В благоговении стою,</plain>
+        </string>
+        <string>
+            <plain>Весь грех Ты мой омыл</plain>
+        </string>
+        <string>
+            <plain>Собой На Голгофе. Ведь Ты... (Припев).</plain>
+        </string>
+    </verse>
+</song>

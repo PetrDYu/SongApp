@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="662" name="Нивы налилися ожидают нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нивы налилися, ожидают нас,</plain>
+        </string>
+        <string>
+            <plain>Бог пришлет жнецов к нам в тот великий час.</plain>
+        </string>
+        <string>
+            <plain>Но теперь их мало, поле жатвы ждет,</plain>
+        </string>
+        <string>
+            <plain>Слышите ли, братья, нас Христос зовет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, ныне жатвы день, радостный жатвы день.</plain>
+        </string>
+        <string>
+            <plain>Золотистое зерно мы будем жать серпом.</plain>
+        </string>
+        <string>
+            <plain>Да, ныне жатвы день, радостный жатвы день.</plain>
+        </string>
+        <string>
+            <plain>Будем гибнущих искать, спасать их со Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Брату слабому ты руку протяни</plain>
+        </string>
+        <string>
+            <plain>И любовь к работе праздному вдохни!</plain>
+        </string>
+        <string>
+            <plain>Радостно работай, с нивы не уйди!</plain>
+        </string>
+        <string>
+            <plain>И услышишь: "Раб Мой, в радость ты войди".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В небе солнце светит, ты спасай народ,</plain>
+        </string>
+        <string>
+            <plain>Жатвы день не долог, скоро он пройдет.</plain>
+        </string>
+        <string>
+            <plain>Бойся без снопов живых к Христу прийти</plain>
+        </string>
+        <string>
+            <plain>И старайся их побольше принести.</plain>
+        </string>
+    </verse>
+</song>

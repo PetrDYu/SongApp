@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="500" name="О, слушай, народ Мой, внимайте Господь, наш Спаситель, грядет" canon="false" text="О. Греджевой" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, слушай, народ Мой, внимайте: Господь, наш Спаситель, грядет!</plain>
+        </string>
+        <string>
+            <plain>Воспрянув, главу поднимайте – последний вас ждет переход.</plain>
+        </string>
+        <string>
+            <plain>Уж все приготовлено в небе, в сиянье и в блеске чертог.</plain>
+        </string>
+        <string>
+            <plain>И близится чудное время всему подвести итог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Невеста Моя, голубица! Готовлю тебя Я давно,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в небо могла бы ты взвиться – тебе это право дано.</plain>
+        </string>
+        <string>
+            <plain>Будь верною Мне до конца ты, мужайся, крепись, не ропщи.</plain>
+        </string>
+        <string>
+            <plain>И чистой одежду храни ты, ходи предо Мною в любви.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как долго народ Мой томился под бременем плоти, греха,</plain>
+        </string>
+        <string>
+            <plain>Душой обновленной стремился туда, где всегда тишина,</plain>
+        </string>
+        <string>
+            <plain>Где, в радости светлой сияя, отрадой, любовью дыша,</plain>
+        </string>
+        <string>
+            <plain>Овеянный славою рая, Жених ожидает тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Готовь свое сердце, народ Мой, чтоб силой Я вас окрылил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб путь ваш последний, тернистый достойно могли б вы пройти.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев.</plain>
+        </string>
+    </verse>
+</song>

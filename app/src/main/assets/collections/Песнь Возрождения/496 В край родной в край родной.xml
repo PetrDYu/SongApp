@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="496" name="В край родной в край родной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В край родной, в край родной,</plain>
+        </string>
+        <string>
+            <plain>В край родной страны,</plain>
+        </string>
+        <string>
+            <plain>В край мира, счастья, тишины</plain>
+        </string>
+        <string>
+            <plain>Стремлюсь я всей душой!</plain>
+        </string>
+        <string>
+            <plain>Ведь мир не родина моя,</plain>
+        </string>
+        <string>
+            <plain>Ему душа чужда;</plain>
+        </string>
+        <string>
+            <plain>На небе дом мой и друзья;</plain>
+        </string>
+        <string>
+            <plain>Стремится дух туда!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>К небесам, к небесам</plain>
+        </string>
+        <string>
+            <plain>Я поднял свой взор;</plain>
+        </string>
+        <string>
+            <plain>Я знаю, много близких там,</plain>
+        </string>
+        <string>
+            <plain>Я ж в мире до сих пор;</plain>
+        </string>
+        <string>
+            <plain>Жесток здесь бой, дни тяжелы</plain>
+        </string>
+        <string>
+            <plain>И страшно мне в борьбе;</plain>
+        </string>
+        <string>
+            <plain>Темно среди греховной мглы</plain>
+        </string>
+        <string>
+            <plain>В скитальческой борьбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Недалек, недалек</plain>
+        </string>
+        <string>
+            <plain>Злой борьбе конец;</plain>
+        </string>
+        <string>
+            <plain>Уж слышу песен я поток, -</plain>
+        </string>
+        <string>
+            <plain>Идет к борцам Отец.</plain>
+        </string>
+        <string>
+            <plain>Чего глаз смертный не видал</plain>
+        </string>
+        <string>
+            <plain>И в мыслях не имел,</plain>
+        </string>
+        <string>
+            <plain>О чем я слухом не слыхал, -</plain>
+        </string>
+        <string>
+            <plain>Там будет мой удел!</plain>
+        </string>
+    </verse>
+</song>

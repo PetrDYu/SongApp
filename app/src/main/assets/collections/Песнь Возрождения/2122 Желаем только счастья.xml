@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2122" name="Желаем только счастья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Желаем только счастья</plain>
+        </string>
+        <string>
+            <plain>На жизненном пути,</plain>
+        </string>
+        <string>
+            <plain>Сквозь бури и ненастья</plain>
+        </string>
+        <string>
+            <plain>За руки вам идти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>.... с .... мы желаем много лет (3 р.).</plain>
+        </string>
+        <string>
+            <plain>Пусть Господь вас сохранит от всяких бед.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть Спаситель будет</plain>
+        </string>
+        <string>
+            <plain>Вождём для вас всегда,</plain>
+        </string>
+        <string>
+            <plain>Ведёт Своей рукою</plain>
+        </string>
+        <string>
+            <plain>В небесные края.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О брат, люби подругу,</plain>
+        </string>
+        <string>
+            <plain>Цени её всегда,</plain>
+        </string>
+        <string>
+            <plain>Ведь это дар от Бога</plain>
+        </string>
+        <string>
+            <plain>На многие года.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сестра, люби ты друга,</plain>
+        </string>
+        <string>
+            <plain>Его не огорчай,</plain>
+        </string>
+        <string>
+            <plain>Всю жизнь ты, как подруга,</plain>
+        </string>
+        <string>
+            <plain>В час трудный помогай.</plain>
+        </string>
+    </verse>
+</song>

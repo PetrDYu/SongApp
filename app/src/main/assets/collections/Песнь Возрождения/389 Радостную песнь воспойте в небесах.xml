@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="389" name="Радостную песнь воспойте в небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радостную песнь воспойте в небесах!</plain>
+        </string>
+        <string>
+            <plain>Блудный сын навеки возвращен;</plain>
+        </string>
+        <string>
+            <plain>С Богом примиренный, в радостных слезах,</plain>
+        </string>
+        <string>
+            <plain>В вечные объятья заключен.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава, слава, пойте небеса!</plain>
+        </string>
+        <string>
+            <plain>Вторьте все земные голоса!</plain>
+        </string>
+        <string>
+            <plain>Не умолкнут хоры пленников греха,</plain>
+        </string>
+        <string>
+            <plain>Искупленных кровию Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радостную песнь воспойте в небесах!</plain>
+        </string>
+        <string>
+            <plain>Найдена пропавшая овца;</plain>
+        </string>
+        <string>
+            <plain>Странник удаленный, мертвый во грехах,</plain>
+        </string>
+        <string>
+            <plain>Жив теперь в обители Отца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Радостную песнь воспойте в небесах!</plain>
+        </string>
+        <string>
+            <plain>Прославляйте там любовь Христа!</plain>
+        </string>
+        <string>
+            <plain>Пусть зажжется пламя в дремлющих сердцах</plain>
+        </string>
+        <string>
+            <plain>И хвалой наполнит все уста.</plain>
+        </string>
+    </verse>
+</song>

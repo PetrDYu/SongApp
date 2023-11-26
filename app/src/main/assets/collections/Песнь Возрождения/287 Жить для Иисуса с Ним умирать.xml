@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="287" name="Жить для Иисуса с Ним умирать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жить для Иисуса, с Ним умирать,</plain>
+        </string>
+        <string>
+            <plain>Лучшую долю можно ль желать?</plain>
+        </string>
+        <string>
+            <plain>Стоит смиряться, стоит бороться,</plain>
+        </string>
+        <string>
+            <plain>Стоит за это жизнь всю отдать.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Жить для Иисуса, краток уж день</plain>
+        </string>
+        <string>
+            <plain>И недалеко смертная тень.</plain>
+        </string>
+        <string>
+            <plain>Не унывая, не уставая,</plain>
+        </string>
+        <string>
+            <plain>Верно трудиться пусть нам не лень.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жить для Иисуса, грех победить;</plain>
+        </string>
+        <string>
+            <plain>Крест поношенья бодро сносить.</plain>
+        </string>
+        <string>
+            <plain>Кончив путь жизни, чтобы в Отчизне</plain>
+        </string>
+        <string>
+            <plain>Славой бессмертья венчанным быть.</plain>
+        </string>
+    </verse>
+</song>

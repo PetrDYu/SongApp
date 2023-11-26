@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="810" name="Задумайся друг на жизнь посмотри" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Задумайся, друг, на жизнь посмотри,</plain>
+        </string>
+        <string>
+            <plain>Какую прожил в году этом.</plain>
+        </string>
+        <string>
+            <plain>Ее Иисус тебе подарил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в мире ты был ярким светом.</plain>
+        </string>
+        <string>
+            <plain>А ты, ярко ль людям собою светил?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не так, как должно?</plain>
+        </string>
+        <string>
+            <plain>А может быть, не Христу ты служил</plain>
+        </string>
+        <string>
+            <plain>И был не Его дитем?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Взгляни на себя, каков ты внутри,</plain>
+        </string>
+        <string>
+            <plain>И может тебе станет стыдно.</plain>
+        </string>
+        <string>
+            <plain>Спаситель Господь всем людям дарит</plain>
+        </string>
+        <string>
+            <plain>Добра и любви так обильно!</plain>
+        </string>
+        <string>
+            <plain>А ты, много ль сделал для ближних добра?</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Не так, как должно?</plain>
+        </string>
+        <string>
+            <plain>А может быть, не Христу ты служил</plain>
+        </string>
+        <string>
+            <plain>И был не Его дитем?</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Проверь, друг, себя: виновен ли ты</plain>
+        </string>
+        <string>
+            <plain>Пред Богом, Христа в мир пославшим.</plain>
+        </string>
+        <string>
+            <plain>Ведь умер Иисус, тебя чтоб спасти</plain>
+        </string>
+        <string>
+            <plain>И стать Другом всех людей падших.</plain>
+        </string>
+        <string>
+            <plain>А ты жизнь свою посвятил ли Христу?</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Не так, как должно?</plain>
+        </string>
+        <string>
+            <plain>А может быть, не Христу ты служил</plain>
+        </string>
+        <string>
+            <plain>И был не Его дитем?</plain>
+        </string>
+    </chorus>
+</song>

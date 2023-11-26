@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1872" name="Боже да будет воля Твоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, да будет воля Твоя,</plain>
+        </string>
+        <string>
+            <plain>Твоим сосудом сделай меня.</plain>
+        </string>
+        <string>
+            <plain>Чтоб перестроил волю мою.</plain>
+        </string>
+        <string>
+            <plain>Перед Тобою с верой стою.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, да будет воля Твоя!</plain>
+        </string>
+        <string>
+            <plain>Проверь, исследуй всего меня.</plain>
+        </string>
+        <string>
+            <plain>Снега белее меня омой.</plain>
+        </string>
+        <string>
+            <plain>Даруй смиренье, пошли покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Боже, да будет воля Твоя!</plain>
+        </string>
+        <string>
+            <plain>Скорби отовсюду сердце язвят.</plain>
+        </string>
+        <string>
+            <plain>Твердость и силу Ты мне пошли.</plain>
+        </string>
+        <string>
+            <plain>Спаси, помилуй, Царь всей земли!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Боже, да будет воля Твоя!</plain>
+        </string>
+        <string>
+            <plain>Да знают люди сущность бытья.</plain>
+        </string>
+        <string>
+            <plain>Сердце так жаждет Духа вдвойне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб видел каждый Бога во мне.</plain>
+        </string>
+    </verse>
+</song>

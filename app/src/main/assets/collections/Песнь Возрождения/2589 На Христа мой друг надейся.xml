@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2589" name="На Христа мой друг надейся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На Христа, мой друг, надейся</plain>
+        </string>
+        <string>
+            <plain>Сердцем всем и всем умом;</plain>
+        </string>
+        <string>
+            <plain>Если мрак кругом, не бойся:</plain>
+        </string>
+        <string>
+            <plain>Помощь и защита Он.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Положись лишь на Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Нет верней и лучше Друга,</plain>
+        </string>
+        <string>
+            <plain>Знает немощи Он наши</plain>
+        </string>
+        <string>
+            <plain>И помочь готов.</plain>
+        </string>
+        <string>
+            <plain>О, не бойся, только веруй.</plain>
+        </string>
+        <string>
+            <plain>На свою судьбу не сетуй.</plain>
+        </string>
+        <string>
+            <plain>Любит нас Спаситель</plain>
+        </string>
+        <string>
+            <plain>И спасет от всех грехов.</plain>
+        </string>
+    </chorus>
+</song>

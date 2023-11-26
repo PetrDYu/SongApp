@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="366" name="Колокольчики звенят бимбом бимбом" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Колокольчики звенят: бим-бом! бим-бом!</plain>
+        </string>
+        <string>
+            <plain>О Христе нам говорят: бим-бом! бим-бом!</plain>
+        </string>
+        <string>
+            <plain>Ныне радость, радость, торжество,</plain>
+        </string>
+        <string>
+            <plain>Ныне праздник, праздник Рождество.</plain>
+        </string>
+        <string>
+            <plain>Бим-бом! бим-бом!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>След остался на снегу, бело кругом,</plain>
+        </string>
+        <string>
+            <plain>Сани по снегу бегут: бим-бом, бим-бом!</plain>
+        </string>
+        <string>
+            <plain>Зимний вечер, на дворе мороз,</plain>
+        </string>
+        <string>
+            <plain>В этот вечер был рожден Христос.</plain>
+        </string>
+        <string>
+            <plain>Бим-бом! бим-бом!</plain>
+        </string>
+    </verse>
+</song>

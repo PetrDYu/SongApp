@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3153" name="Грешник приди же" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешник, приди же,</plain>
+        </string>
+        <string>
+            <plain>больше не жди!</plain>
+        </string>
+        <string>
+            <plain>Зовёт Спаситель:</plain>
+        </string>
+        <string>
+            <plain>«Домой приди!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он призывает и умоляет,</plain>
+        </string>
+        <string>
+            <plain>ждёт терпеливо:</plain>
+        </string>
+        <string>
+            <plain>«Приди домой!</plain>
+        </string>
+        <string>
+            <plain>Грешник, приди же,</plain>
+        </string>
+        <string>
+            <plain>приди домой!»</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он на Голгофе</plain>
+        </string>
+        <string>
+            <plain>умер за нас,</plain>
+        </string>
+        <string>
+            <plain>там Агнец Божий</plain>
+        </string>
+        <string>
+            <plain>в муках нас спас.</plain>
+        </string>
+        <string>
+            <plain>З Любит тебя Он</plain>
+        </string>
+        <string>
+            <plain>- о, поспеши!</plain>
+        </string>
+        <string>
+            <plain>Дарит покой Он,</plain>
+        </string>
+        <string>
+            <plain>мир для души.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди к Иисусу,</plain>
+        </string>
+        <string>
+            <plain>он ждёт ещё,</plain>
+        </string>
+        <string>
+            <plain>счастьем наполнит</plain>
+        </string>
+        <string>
+            <plain>сердце твоё!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди к Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Он ждёт В тиши</plain>
+        </string>
+        <string>
+            <plain>И призывает:</plain>
+        </string>
+        <string>
+            <plain>«Ныне приди!»</plain>
+        </string>
+    </verse>
+</song>

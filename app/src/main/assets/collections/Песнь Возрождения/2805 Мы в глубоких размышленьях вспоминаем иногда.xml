@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2805" name="Мы в глубоких размышленьях вспоминаем иногда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы в глубоких размышленьях вспоминаем иногда,</plain>
+        </string>
+        <string>
+            <plain>Что в пределах Галилейских было в прежние века.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Галилея, как тебя вспоминаю часто я...</plain>
+        </string>
+        <string>
+            <plain>Кто по морю мог ходить, может грех любой омыть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мы охотно пребываем мысленно в земле святой,</plain>
+        </string>
+        <string>
+            <plain>Где когда - то наш Спаситель в жизни странствовал земной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Часто мысленно мы видим, как Его ученики,</plain>
+        </string>
+        <string>
+            <plain>Находясь средь моря в бурю, были к гибели близки.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мечутся они в тревоге, видя, как кипит волна;</plain>
+        </string>
+        <string>
+            <plain>Вдруг услышали Иисуса: «Ободритесь - это Я!»</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Пётр, покинув лодку, смело по воде к Христу пошёл;</plain>
+        </string>
+        <string>
+            <plain>Но когда тонуть он начал, с помощью Господь пришёл.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>На Спасителя взгляните: ныне Он, как и вчера;</plain>
+        </string>
+        <string>
+            <plain>Он такой же будет завтра и на вечные века.</plain>
+        </string>
+    </verse>
+</song>

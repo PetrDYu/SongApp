@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1226" name="Галилея Галилея Мой Христос там жил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Галилея, Галилея!</plain>
+        </string>
+        <string>
+            <plain>Мой Христос там жил.</plain>
+        </string>
+        <string>
+            <plain>Галилея, Галилея!</plain>
+        </string>
+        <string>
+            <plain>Свет тьму озарил.</plain>
+        </string>
+        <string>
+            <plain>И сидящим в мраке ночи</plain>
+        </string>
+        <string>
+            <plain>Иисус открыл всем очи в Галилее.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Исцеленье там, спасенье Многим подарил.</plain>
+        </string>
+        <string>
+            <plain>Узникам в освобожденье темницу открыл.</plain>
+        </string>
+        <string>
+            <plain>Сам стал дверью к жизни вечной.</plain>
+        </string>
+        <string>
+            <plain>Овцам - Пастырь, Бог Предвечный, В Галилее.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но потом рука злодея Бога распяла.</plain>
+        </string>
+        <string>
+            <plain>Кровь Голгофы в Иудее здесь меня спасла.</plain>
+        </string>
+        <string>
+            <plain>О, приди, несчастный грешник,</plain>
+        </string>
+        <string>
+            <plain>И неправды, зла поспешник Ко спасенью.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Галилея, Иудея!</plain>
+        </string>
+        <string>
+            <plain>Слышишь песнь с небес!</plain>
+        </string>
+        <string>
+            <plain>Галилея, Иудея!</plain>
+        </string>
+        <string>
+            <plain>Царь Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Он дает освобожденье,</plain>
+        </string>
+        <string>
+            <plain>Верным всем сердцам спасенье В Воскресеньи!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="474" name="Рано я ищу Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Рано я ищу Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Больше вижу с каждым днем;</plain>
+        </string>
+        <string>
+            <plain>Навсегда хочу пойти я</plain>
+        </string>
+        <string>
+            <plain>Вслед за Ним Его путем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любит Он меня! Он любит!</plain>
+        </string>
+        <string>
+            <plain>Знаю, любит Он меня:</plain>
+        </string>
+        <string>
+            <plain>Он ведь умер за меня;</plain>
+        </string>
+        <string>
+            <plain>Знаю, любит Он меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я пойду, куда велит Он;</plain>
+        </string>
+        <string>
+            <plain>Хоть я юн, мне дано знать,</plain>
+        </string>
+        <string>
+            <plain>Как идти Его тропою,</plain>
+        </string>
+        <string>
+            <plain>Его волю исполнять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он стоит в дверях спасенья,</plain>
+        </string>
+        <string>
+            <plain>Сбросить иго просит Он;</plain>
+        </string>
+        <string>
+            <plain>Я к Нему стучаться буду,</plain>
+        </string>
+        <string>
+            <plain>Он отворит: я спасен.</plain>
+        </string>
+    </verse>
+</song>

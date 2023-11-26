@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3097" name="Иисуса я овца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса я овца,</plain>
+        </string>
+        <string>
+            <plain>радуюсь я в Нем всегда:</plain>
+        </string>
+        <string>
+            <plain>верно Он хранит</plain>
+        </string>
+        <string>
+            <plain>меня, Свою овцу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисуса я овца,</plain>
+        </string>
+        <string>
+            <plain>радуюсь я в Нем всегда:</plain>
+        </string>
+        <string>
+            <plain>верно Он хранит</plain>
+        </string>
+        <string>
+            <plain>меня, Свою овцу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С Ним на верно я пути,</plain>
+        </string>
+        <string>
+            <plain>лишь за Ним хочу идти,</plain>
+        </string>
+        <string>
+            <plain>и вперед стремлюся</plain>
+        </string>
+        <string>
+            <plain>я - Его овца.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я не заблужусь нигде,</plain>
+        </string>
+        <string>
+            <plain>свет Его сияет мне;</plain>
+        </string>
+        <string>
+            <plain>и не бросит Он</plain>
+        </string>
+        <string>
+            <plain>в беде Свою овцу.</plain>
+        </string>
+    </verse>
+</song>

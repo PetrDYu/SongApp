@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1097" name="Господь велик в словах и делах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь велик в словах и делах.</plain>
+        </string>
+        <string>
+            <plain>Его милости нет конца!</plain>
+        </string>
+        <string>
+            <plain>Пусть на земле и на небесах</plain>
+        </string>
+        <string>
+            <plain>Ему не смолкает хвала!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь велик и достоин славы,</plain>
+        </string>
+        <string>
+            <plain>Он лишь один достоин хвалы.</plain>
+        </string>
+        <string>
+            <plain>Господь велик, и потому, и потому</plain>
+        </string>
+        <string>
+            <plain>Слава Ему! Слава Ему!</plain>
+        </string>
+    </verse>
+</song>

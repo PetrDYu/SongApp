@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="279" name="Стою у ясель я Твоих, Иисус, Мой Искупитель" canon="false" text="П. Герхардта" textRus="" music="И.С. Баха" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Стою у ясель я Твоих, Иисус, Мой Искупитель.</plain>
+        </string>
+        <string>
+            <plain>Спешил к Тебе, принес Тебе Твои дары, Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Здесь сердце, дух, душа мои, вся крепость, разум –</plain>
+        </string>
+        <string>
+            <plain>Все, смотри, Тебе отдать желаю.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я не был в мир еще рожден, Ты для меня родился.</plain>
+        </string>
+        <string>
+            <plain>Я был Тобой определен, к спасенью был я призван.</plain>
+        </string>
+        <string>
+            <plain>Ты, так давно меня любя, сойти на землю, как дитя,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, решился.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда был в тени смертной я, мне солнце засияло,</plain>
+        </string>
+        <string>
+            <plain>Дало оно мне жизнь и свет и утешеньем стало.</plain>
+        </string>
+        <string>
+            <plain>Ты – солнце, что в душе больной зажгло</plain>
+        </string>
+        <string>
+            <plain>Огонь любви святой, будь радостью моею.</plain>
+        </string>
+    </verse>
+</song>

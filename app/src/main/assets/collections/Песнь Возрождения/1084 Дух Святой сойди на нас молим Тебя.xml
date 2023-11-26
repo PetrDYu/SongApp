@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1084" name="Дух Святой сойди на нас молим Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, сойди на нас, молим Тебя,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, сойди на нас, молим Тебя.</plain>
+        </string>
+        <string>
+            <plain>Силой свыше обнови нас.</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, сойди на нас, молим Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>На меня повей, на меня повей.</plain>
+        </string>
+        <string>
+            <plain>На меня повей. О, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>На меня повей, о. Дух Святой.</plain>
+        </string>
+    </verse>
+</song>

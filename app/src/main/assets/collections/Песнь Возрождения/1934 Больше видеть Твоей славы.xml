@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1934" name="Больше видеть Твоей славы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Больше видеть Твоей славы</plain>
+        </string>
+        <string>
+            <plain>В нашей жизни мы хотим;</plain>
+        </string>
+        <string>
+            <plain>Дай нести нам крест кровавый,</plain>
+        </string>
+        <string>
+            <plain>Мы достигнем славы с ним.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Больше видеть Твоей славы</plain>
+        </string>
+        <string>
+            <plain>И великих дел любви.</plain>
+        </string>
+        <string>
+            <plain>Нашим песням дай созвучье.</plain>
+        </string>
+        <string>
+            <plain>Наше пенье вдохнови.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боль, печаль на этом свете -</plain>
+        </string>
+        <string>
+            <plain>Лучшей жизни семена.</plain>
+        </string>
+        <string>
+            <plain>Там лишь семя вырастает.</plain>
+        </string>
+        <string>
+            <plain>Где была скорбей волна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На полях, где битвы были.</plain>
+        </string>
+        <string>
+            <plain>Ныне лилии растут.</plain>
+        </string>
+        <string>
+            <plain>Души, что с грехом сражались,</plain>
+        </string>
+        <string>
+            <plain>Славой вечной расцветут.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верой в вечное мы будем</plain>
+        </string>
+        <string>
+            <plain>Для порока умирать;</plain>
+        </string>
+        <string>
+            <plain>В благодати утверждаясь,</plain>
+        </string>
+        <string>
+            <plain>Славы вечной достигать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="530" name="Я просил Иисуса, чтоб дал возрасти" canon="false" text="Дж. Ньютона" textRus="М. Дрондина" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я просил Иисуса, чтоб дал возрасти</plain>
+        </string>
+        <string>
+            <plain>Он мне в вере, любви, красоте благодати,</plain>
+        </string>
+        <string>
+            <plain>Чтобы глубже познать мне спасенья пути,</plain>
+        </string>
+        <string>
+            <plain>Чтобы ревностней лик Иисуса искать мне.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Верю: с Неба спустилась молитва мне та,</plain>
+        </string>
+        <string>
+            <plain>И я знаю, что Бог дал ответ на молитву.</plain>
+        </string>
+        <string>
+            <plain>Только все в моей жизни свершилось не так,</plain>
+        </string>
+        <string>
+            <plain>И пришла не победа, а отчаянье в битве.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я надеялся так, что в какой-то момент</plain>
+        </string>
+        <string>
+            <plain>Он поможет мне любящей твердой рукою,</plain>
+        </string>
+        <string>
+            <plain>Он пошлет подкрепленье, дарует Свой свет</plain>
+        </string>
+        <string>
+            <plain>И меня приведет через бури к покою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он же словно, напротив, дал мне ощутить</plain>
+        </string>
+        <string>
+            <plain>Каждый тайный порок, что застрял в моем сердце,</plain>
+        </string>
+        <string>
+            <plain>Словно всем силам ада позволил вступить</plain>
+        </string>
+        <string>
+            <plain>В битву против меня, отворив ему дверцы.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мне казалось, что Он Сам Своею рукой</plain>
+        </string>
+        <string>
+            <plain>Добавлял мне скорбей, умножал мои боли</plain>
+        </string>
+        <string>
+            <plain>И обрушил за миг каждый замысел мой,</plain>
+        </string>
+        <string>
+            <plain>Опрокинул меня и оставил на поле.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Я вопил, трепеща: «Что ж восстал Ты на плоть?</plain>
+        </string>
+        <string>
+            <plain>Неужель этот прах будешь бить Ты до смерти?»</plain>
+        </string>
+        <string>
+            <plain>«Я ответил тебе, – отозвался Господь, –</plain>
+        </string>
+        <string>
+            <plain>На молитву твою о любви и о вере.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Это Я попустил испытанья в огне,</plain>
+        </string>
+        <string>
+            <plain>Чтоб разрушить твердыни твои и гордыню.</plain>
+        </string>
+        <string>
+            <plain>Чтоб ты знал: мир – ничто, ты ищи лишь во Мне,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Я тебя проведу. Но доверься Мне ныне…»</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

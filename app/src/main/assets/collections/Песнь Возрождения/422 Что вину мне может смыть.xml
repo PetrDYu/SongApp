@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="422" name="Что вину мне может смыть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Что вину мне может смыть?</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Вновь что может исцелить?</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как дорога струя,</plain>
+        </string>
+        <string>
+            <plain>Омывшая меня!</plain>
+        </string>
+        <string>
+            <plain>Она сильней морей:</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чтоб очиститься, гляжу</plain>
+        </string>
+        <string>
+            <plain>Лишь на кровь одну Иисуса.</plain>
+        </string>
+        <string>
+            <plain>Дар прощенья нахожу</plain>
+        </string>
+        <string>
+            <plain>Лишь в крови святой Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От греха искупит дух -</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса;</plain>
+        </string>
+        <string>
+            <plain>Ни добро моих заслуг -</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мир, надежду мне дарит -</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Моя святость мне не щит -</plain>
+        </string>
+        <string>
+            <plain>О, ничто, лишь кровь Иисуса!</plain>
+        </string>
+    </verse>
+</song>

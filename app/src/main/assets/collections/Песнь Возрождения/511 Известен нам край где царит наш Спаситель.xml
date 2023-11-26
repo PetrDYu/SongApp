@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="511" name="Известен нам край где царит наш Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Известен нам край, где царит наш Спаситель</plain>
+        </string>
+        <string>
+            <plain>И город, построенный Богом для нас.</plain>
+        </string>
+        <string>
+            <plain>Христос приготовил для нас там обитель</plain>
+        </string>
+        <string>
+            <plain>И счастье, какого не видел наш глаз.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Райское счастье Голгофа дает,</plain>
+        </string>
+        <string>
+            <plain>Райская радость с Голгофы течет.</plain>
+        </string>
+        <string>
+            <plain>Куплены кровию Агнца, возносим Христу благодарность от нас.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, в рай мы идем чрез Голгофу;</plain>
+        </string>
+        <string>
+            <plain>Слава вовеки Иисусу Христу:</plain>
+        </string>
+        <string>
+            <plain>Он от смерти нас спас!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Живая вода и поток чудный льется</plain>
+        </string>
+        <string>
+            <plain>В стране той, где вечная радость царит,</plain>
+        </string>
+        <string>
+            <plain>Ни осень, ни ночь там, ни смерть не ворвется,</plain>
+        </string>
+        <string>
+            <plain>А солнце весеннее вечно блестит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Здесь часто, глядя на греховные волны,</plain>
+        </string>
+        <string>
+            <plain>Покоя и отдыха жаждет душа,</plain>
+        </string>
+        <string>
+            <plain>Не будет там плача: уста, славой полны,</plain>
+        </string>
+        <string>
+            <plain>Со всеми святыми прославят Христа.</plain>
+        </string>
+    </verse>
+</song>

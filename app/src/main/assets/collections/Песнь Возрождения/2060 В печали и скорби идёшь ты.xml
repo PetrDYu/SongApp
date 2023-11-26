@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2060" name="В печали и скорби идёшь ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В печали и скорби идёшь ты</plain>
+        </string>
+        <string>
+            <plain>Долиной тернистой земной,</plain>
+        </string>
+        <string>
+            <plain>И слезы рекой часто льются,</plain>
+        </string>
+        <string>
+            <plain>Идя к небесам в дом родной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Зачем унывать и томиться?</plain>
+        </string>
+        <string>
+            <plain>Зачем нам так часто страдать?</plain>
+        </string>
+        <string>
+            <plain>Сильнее нам нужно молиться,</plain>
+        </string>
+        <string>
+            <plain>Ответа с терпением ждать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты слез не стыдись, коль бывают</plain>
+        </string>
+        <string>
+            <plain>Они иногда на глазах,</plain>
+        </string>
+        <string>
+            <plain>Их многие не понимают</plain>
+        </string>
+        <string>
+            <plain>В своих зачерствелых сердцах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Заплачешь - и легче вдруг станет,</plain>
+        </string>
+        <string>
+            <plain>Как камень с груди упадёт.</plain>
+        </string>
+        <string>
+            <plain>О, верь, скоро час тот настанет,</plain>
+        </string>
+        <string>
+            <plain>Когда слёзы Спаситель отрёт.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Отдай всё Христу на служенье</plain>
+        </string>
+        <string>
+            <plain>И крест свой неси до конца,</plain>
+        </string>
+        <string>
+            <plain>Направь к небесам все стремленья,</plain>
+        </string>
+        <string>
+            <plain>Служи Христу до конца.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="558" name="О странник к небу ты на пути" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О странник, к небу ты на пути,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Рукой любви будет Он вести:</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Ночью и днем будет Он вождем!</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда приблизится грех к тебе,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Стремись вперед по святой тропе,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не видишь света ли пред собой,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Он Сам сказал: "Буду Я с тобой!"</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Долиной смерти когда пойдешь,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+        <string>
+            <plain>С Ним в радость вечную ты войдешь,</plain>
+        </string>
+        <string>
+            <plain>Глаз не своди с Иисуса!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="399" name="Я в мире с Богом Двери рая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я в мире с Богом! – Двери рая</plain>
+        </string>
+        <string>
+            <plain>Он мне отверз, как брату брат;</plain>
+        </string>
+        <string>
+            <plain>О, как безмерно я богат,</plain>
+        </string>
+        <string>
+            <plain>Его прощеньем обладая!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Моя душа нашла покой,</plain>
+        </string>
+        <string>
+            <plain>Его мне дал Спаситель мой.</plain>
+        </string>
+        <string>
+            <plain>Я в мире с Ним!</plain>
+        </string>
+        <string>
+            <plain>Я в мире с Ним!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не давит сердце мне тоскою,</plain>
+        </string>
+        <string>
+            <plain>И верю я, что для меня</plain>
+        </string>
+        <string>
+            <plain>Есть место там в чертогах дня,</plain>
+        </string>
+        <string>
+            <plain>В стране блаженной за рекою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я в мире с Богом! Он со мною</plain>
+        </string>
+        <string>
+            <plain>Везде, на всех путях моих,</plain>
+        </string>
+        <string>
+            <plain>В тревогах, горестях земных,</plain>
+        </string>
+        <string>
+            <plain>В борьбе с неправдой и нуждою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как в счастье, так и в тяжкой доле</plain>
+        </string>
+        <string>
+            <plain>Всегда твердят мои уста:</plain>
+        </string>
+        <string>
+            <plain>"Пусть воля Господа Христа</plain>
+        </string>
+        <string>
+            <plain>Моею вечно будет волей!"</plain>
+        </string>
+    </verse>
+</song>

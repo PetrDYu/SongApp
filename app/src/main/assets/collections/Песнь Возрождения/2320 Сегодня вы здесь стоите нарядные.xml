@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2320" name="Сегодня вы здесь стоите нарядные" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сегодня вы здесь стоите нарядные,</plain>
+        </string>
+        <string>
+            <plain>Все рады вам и все вам поют.</plain>
+        </string>
+        <string>
+            <plain>И смотрит жених на свою ненаглядную,</plain>
+        </string>
+        <string>
+            <plain>И радость их все, конечно, поймут.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молодожёны стали вы теперь,</plain>
+        </string>
+        <string>
+            <plain>И юность ваша в прошлом остаётся.</plain>
+        </string>
+        <string>
+            <plain>Вам радостно узнать, что в жизни открыта дверь,</plain>
+        </string>
+        <string>
+            <plain>И грустно вам, что юность не вернётся.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прошлая радость звучит, словно эхо,</plain>
+        </string>
+        <string>
+            <plain>Но не жалейте о том, что прошло.</plain>
+        </string>
+        <string>
+            <plain>Юность ушла и с собою забрала</plain>
+        </string>
+        <string>
+            <plain>Мамины ласки, друзей голоса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Детство ушло, следом юность умчалась,</plain>
+        </string>
+        <string>
+            <plain>Жизнь беззаботная быстро прошла.</plain>
+        </string>
+        <string>
+            <plain>Юность ушла и с собою забрала</plain>
+        </string>
+        <string>
+            <plain>Мамины ласки, друзей голоса.</plain>
+        </string>
+    </verse>
+</song>

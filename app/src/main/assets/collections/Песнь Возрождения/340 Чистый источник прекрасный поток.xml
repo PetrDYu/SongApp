@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="340" name="Чистый источник прекрасный поток" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чистый источник, прекрасный поток</plain>
+        </string>
+        <string>
+            <plain>Льется в Иисусе могуч и глубок;</plain>
+        </string>
+        <string>
+            <plain>Там, где течет он, - счастлива земля:</plain>
+        </string>
+        <string>
+            <plain>Пышно цветут там сады и поля.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жаждущих души! Кто верит Ему,</plain>
+        </string>
+        <string>
+            <plain>Бог наш приводит к ручью Своему.</plain>
+        </string>
+        <string>
+            <plain>Жаждущих души! Кто верит Ему,</plain>
+        </string>
+        <string>
+            <plain>Бог наш приводит к ручью Своему.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слово Его, что вовеки живет,</plain>
+        </string>
+        <string>
+            <plain>Жизнь и свободу всем грешным дает;</plain>
+        </string>
+        <string>
+            <plain>Все же, кто жаждет, спешите принять</plain>
+        </string>
+        <string>
+            <plain>Воду живую, Христа благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дивно здесь мир и любовь расцвели;</plain>
+        </string>
+        <string>
+            <plain>Божьи стада на луга прилегли,</plain>
+        </string>
+        <string>
+            <plain>Пажить Иисуса обильна, чиста;</plain>
+        </string>
+        <string>
+            <plain>Как вам приятно здесь, овцы Христа!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Души, что жаждут, придите к ручью,</plain>
+        </string>
+        <string>
+            <plain>Там утолите вы жажду свою;</plain>
+        </string>
+        <string>
+            <plain>К Богу придите не медля, скорей;</plain>
+        </string>
+        <string>
+            <plain>Льется не тщетно тот Божий ручей.</plain>
+        </string>
+    </verse>
+</song>

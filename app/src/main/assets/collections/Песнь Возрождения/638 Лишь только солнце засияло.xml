@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="638" name="Лишь только солнце засияло" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лишь только солнце засияло,</plain>
+        </string>
+        <string>
+            <plain>Христос Спаситель наш воскрес</plain>
+        </string>
+        <string>
+            <plain>И воскресения начало</plain>
+        </string>
+        <string>
+            <plain>Сердцам искупленным принес.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Христос воскрес! И казнь паденья</plain>
+        </string>
+        <string>
+            <plain>Уже нас больше не страшит.</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес! И ветвь спасенья</plain>
+        </string>
+        <string>
+            <plain>Нам с воскресением дарит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос воскрес! И жизни вечной</plain>
+        </string>
+        <string>
+            <plain>Залог священный Он дарит!</plain>
+        </string>
+        <string>
+            <plain>Прими же песнь хвалы сердечной,</plain>
+        </string>
+        <string>
+            <plain>Господь, мой Бог, мой свет и щит!</plain>
+        </string>
+    </verse>
+</song>

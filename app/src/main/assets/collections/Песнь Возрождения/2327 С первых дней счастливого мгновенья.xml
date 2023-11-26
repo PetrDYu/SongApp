@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2327" name="С первых дней счастливого мгновенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С первых дней счастливого мгновенья,</plain>
+        </string>
+        <string>
+            <plain>С той поры, как жизнь стал понимать,</plain>
+        </string>
+        <string>
+            <plain>Первым моим другом утешенья</plain>
+        </string>
+        <string>
+            <plain>Для меня была, конечно, мать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И пусть летят года метелью белой, мама,</plain>
+        </string>
+        <string>
+            <plain>Я тебя за всё благодарю,</plain>
+        </string>
+        <string>
+            <plain>За все годы, прожитые с нами,</plain>
+        </string>
+        <string>
+            <plain>За любовь и доброту твою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Помню, как ты, мама, ночь молилась,</plain>
+        </string>
+        <string>
+            <plain>Всё просила Бога обо мне,</plain>
+        </string>
+        <string>
+            <plain>Чтобы я был верен Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Он позвал меня к Себе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И теперь я вижу, что Спаситель</plain>
+        </string>
+        <string>
+            <plain>Принял ту молитву в небеса,</plain>
+        </string>
+        <string>
+            <plain>Он теперь мой Друг и Утешитель,</plain>
+        </string>
+        <string>
+            <plain>Вера и надежда Он моя.</plain>
+        </string>
+    </verse>
+</song>

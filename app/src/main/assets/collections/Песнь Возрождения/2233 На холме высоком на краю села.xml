@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2233" name="На холме высоком на краю села" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На холме высоком, на краю села,</plain>
+        </string>
+        <string>
+            <plain>Там живут цыгане в таборах сдавна,</plain>
+        </string>
+        <string>
+            <plain>И поют цыгане в радости, в беде</plain>
+        </string>
+        <string>
+            <plain>Песни по-цыгански, песни о Христе (2 р.).</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радостны их лица, слезы на глазах,</plain>
+        </string>
+        <string>
+            <plain>Счастье посетило бедный их очаг.</plain>
+        </string>
+        <string>
+            <plain>К ним пришёл Спаситель, Иисус Христос,</plain>
+        </string>
+        <string>
+            <plain>И навек спасены Он им всем принёс (2 р.).</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И теперь иная жизнь у тех цыган:</plain>
+        </string>
+        <string>
+            <plain>Мир, любовь и ласка, Доброта в сердцах.</plain>
+        </string>
+        <string>
+            <plain>К ним пришёл Спаситель, Иисус Христос,</plain>
+        </string>
+        <string>
+            <plain>И навек спасены Он им всем принёс (2 р.).</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тихо вторят песне рощи и леса,</plain>
+        </string>
+        <string>
+            <plain>И бежит, играя, горная река.</plain>
+        </string>
+        <string>
+            <plain>И поют цыгане в радости, в беде</plain>
+        </string>
+        <string>
+            <plain>Песни по-цыгански, песни о Христе (2 р.).</plain>
+        </string>
+    </verse>
+</song>

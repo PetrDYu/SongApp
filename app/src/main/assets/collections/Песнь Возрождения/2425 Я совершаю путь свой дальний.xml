@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2425" name="Я совершаю путь свой дальний" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я совершаю путь свой дальний</plain>
+        </string>
+        <string>
+            <plain>От тьмы к рассвету, всё вперед.</plain>
+        </string>
+        <string>
+            <plain>То вдруг очнусь я над пучиной</plain>
+        </string>
+        <string>
+            <plain>Безумно бесконечны вод,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>То упаду, споткнувшись больно</plain>
+        </string>
+        <string>
+            <plain>Об острый камень на пути.</plain>
+        </string>
+        <string>
+            <plain>Но не промолвлю я:</plain>
+        </string>
+        <string>
+            <plain>"Довольно", Мне надо всё вперёд идти.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Проходит день, обманный вечер</plain>
+        </string>
+        <string>
+            <plain>Не принесёт покоя мне.</plain>
+        </string>
+        <string>
+            <plain>А ночью бессердечный ветер</plain>
+        </string>
+        <string>
+            <plain>Пронзит меня в случайном сне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И так без отдыха и крова</plain>
+        </string>
+        <string>
+            <plain>От солнца к ночи, снова к дню</plain>
+        </string>
+        <string>
+            <plain>Иду я к цели, давши слово;</plain>
+        </string>
+        <string>
+            <plain>Что обещал - не изменю.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Мне мил мой путь, леса, и камни,</plain>
+        </string>
+        <string>
+            <plain>И дождь, и ветер, и утёс.</plain>
+        </string>
+        <string>
+            <plain>Я радуюсь, что цель близка мне,</plain>
+        </string>
+        <string>
+            <plain>А эта цель - мой Христос.</plain>
+        </string>
+    </verse>
+</song>

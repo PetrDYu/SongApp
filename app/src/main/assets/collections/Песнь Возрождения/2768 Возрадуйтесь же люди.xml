@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2768" name="Возрадуйтесь же люди" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возрадуйтесь же, люди,</plain>
+        </string>
+        <string>
+            <plain>Христос воскрес, воскрес!</plain>
+        </string>
+        <string>
+            <plain>Летит пусть эта песня до самых до небес!</plain>
+        </string>
+        <string>
+            <plain>Ее живые звуки звучат и там и здесь.</plain>
+        </string>
+        <string>
+            <plain>Ликуйте вместе с нами, Христос воскрес!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Арфы золотые не смолкнут, нет!</plain>
+        </string>
+        <string>
+            <plain>Он восстал из мрака, явил нам свет.</plain>
+        </string>
+        <string>
+            <plain>Нашего спасенья зажег звезду,</plain>
+        </string>
+        <string>
+            <plain>Слава, аллилуйя, хвала Христу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В борьбе со мраком ада Он вышел, победил.</plain>
+        </string>
+        <string>
+            <plain>Греховные преграды Христос наш сокрушил.</plain>
+        </string>
+        <string>
+            <plain>Зарею воскресенья мир грешный озарен.</plain>
+        </string>
+        <string>
+            <plain>Христу благодаренье и наш поклон.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="667" name="Быть может зарей когда утро начнется" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Быть может, зарей, когда утро начнется</plain>
+        </string>
+        <string>
+            <plain>И солнечный луч сквозь туманы пробьется,</plain>
+        </string>
+        <string>
+            <plain>Придет Иисус в полноте Своей славы</plain>
+        </string>
+        <string>
+            <plain>Собрать от земли Своих.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, доколе, Господь?</plain>
+        </string>
+        <string>
+            <plain>Когда воспоем мы тот гимн:</plain>
+        </string>
+        <string>
+            <plain>"Он грядет к нам, Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аминь!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Быть может, и в полдень иль в час полуночи</plain>
+        </string>
+        <string>
+            <plain>Внезапно увидят Его наши очи;</plain>
+        </string>
+        <string>
+            <plain>Он будет идти к нам с источником света,</plain>
+        </string>
+        <string>
+            <plain>Чтоб взять от земли Своих.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И воинства Божии, с неба спускаясь,</plain>
+        </string>
+        <string>
+            <plain>И души спасенных, с Грядущим сливаясь,</plain>
+        </string>
+        <string>
+            <plain>Все вместе Ему воспоют песнь хваленья,</plain>
+        </string>
+        <string>
+            <plain>Что взял Он с земли Своих.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, радость туда перейти без страданий,</plain>
+        </string>
+        <string>
+            <plain>Без боли недуга, без мук умиранья,</plain>
+        </string>
+        <string>
+            <plain>Быть с Господом в славу Его восхищенным,</plain>
+        </string>
+        <string>
+            <plain>Куда Он возьмет Своих.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="409" name="О дивный день О дивный час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О дивный день! О дивный час,</plain>
+        </string>
+        <string>
+            <plain>Когда Спаситель в первый раз</plain>
+        </string>
+        <string>
+            <plain>С душой моей в завет вступил</plain>
+        </string>
+        <string>
+            <plain>И мир мне в сердце подарил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Дивный день, дивный день,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь меня простил!</plain>
+        </string>
+        <string>
+            <plain>С тех пор Христос всегда со мной</plain>
+        </string>
+        <string>
+            <plain>И водит Сам меня рукой.</plain>
+        </string>
+        <string>
+            <plain>Дивный день, дивный день,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь меня простил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О дивный день, когда Христос</plain>
+        </string>
+        <string>
+            <plain>Меня нашел в долине слез,</plain>
+        </string>
+        <string>
+            <plain>Он мой теперь и я Его,</plain>
+        </string>
+        <string>
+            <plain>И не страшусь я ничего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О дивный день, когда простер</plain>
+        </string>
+        <string>
+            <plain>Ко мне Он руку, я прозрел,</plain>
+        </string>
+        <string>
+            <plain>Когда Христа увидел взор</plain>
+        </string>
+        <string>
+            <plain>И дух любовь Его воспел.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О дивный день, когда душой</plain>
+        </string>
+        <string>
+            <plain>Я к жизни радостной восстал,</plain>
+        </string>
+        <string>
+            <plain>Когда и счастье и покой</plain>
+        </string>
+        <string>
+            <plain>Спаситель в душу мне послал.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О дивный день, когда душой</plain>
+        </string>
+        <string>
+            <plain>Поверил я в любовь Христа</plain>
+        </string>
+        <string>
+            <plain>И был омыт крови струей,</plain>
+        </string>
+        <string>
+            <plain>Стекавшей некогда с креста.</plain>
+        </string>
+    </verse>
+</song>

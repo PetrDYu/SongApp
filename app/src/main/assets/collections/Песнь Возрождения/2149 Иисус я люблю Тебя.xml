@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2149" name="Иисус я люблю Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, я люблю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Я благодарю Тебя!</plain>
+        </string>
+        <string>
+            <plain>Только Ты достоин</plain>
+        </string>
+        <string>
+            <plain>песнь хвалы моей принять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, я люблю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Я благодарю Тебя!</plain>
+        </string>
+        <string>
+            <plain>Только Ты достоин</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы принять.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вся слава Тебе принадлежит!</plain>
+        </string>
+        <string>
+            <plain>Лишь Твой престол вовеки устоит!</plain>
+        </string>
+        <string>
+            <plain>И, воздевая к небу руки, Тебя воспою,</plain>
+        </string>
+        <string>
+            <plain>Царь царей, Господь великий.</plain>
+        </string>
+        <string>
+            <plain>Эммануил, Тебя люблю.</plain>
+        </string>
+    </verse>
+</song>

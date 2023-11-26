@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="722" name="Как прекрасен как чудесен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как прекрасен, как чудесен</plain>
+        </string>
+        <string>
+            <plain>Виноградник молодой!</plain>
+        </string>
+        <string>
+            <plain>С добрым духом, с хором песен</plain>
+        </string>
+        <string>
+            <plain>Примемся за труд святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, как прекрасен, чудесен, о, как прекрасен, чудесен,</plain>
+        </string>
+        <string>
+            <plain>Как прекрасен (как прекрасен, как чудесен),</plain>
+        </string>
+        <string>
+            <plain>Как чудесен (как прекрасен, как чудесен)</plain>
+        </string>
+        <string>
+            <plain>Виноградник молодой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будем к лозам в мире диким</plain>
+        </string>
+        <string>
+            <plain>Лозы Божьи прививать,</plain>
+        </string>
+        <string>
+            <plain>Будем сад Господень шире</plain>
+        </string>
+        <string>
+            <plain>На земле распространять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем лозы молодые</plain>
+        </string>
+        <string>
+            <plain>Влагой мира поливать,</plain>
+        </string>
+        <string>
+            <plain>А недужные, больные –</plain>
+        </string>
+        <string>
+            <plain>Верой Божьей врачевать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будем птиц и лис лукавых</plain>
+        </string>
+        <string>
+            <plain>Силой Божьей изгонять</plain>
+        </string>
+        <string>
+            <plain>И ограду мыслей здравых</plain>
+        </string>
+        <string>
+            <plain>От разрухи охранять.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Будем ревностно трудиться,</plain>
+        </string>
+        <string>
+            <plain>Обрабатывать, полоть,</plain>
+        </string>
+        <string>
+            <plain>А творя свой труд, молиться,</plain>
+        </string>
+        <string>
+            <plain>Чтобы плод послал Господь.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Сбор обильный ожидая,</plain>
+        </string>
+        <string>
+            <plain>Будем Бога воспевать</plain>
+        </string>
+        <string>
+            <plain>За богатство урожая,</plain>
+        </string>
+        <string>
+            <plain>За дары, за благодать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2688" name="Мой Христос Учитель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Христос - Учитель</plain>
+        </string>
+        <string>
+            <plain>Душу спас мою,</plain>
+        </string>
+        <string>
+            <plain>Я Тебе, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы спою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже благой, сердцем я Твой.</plain>
+        </string>
+        <string>
+            <plain>Счастлив в борьбе, слава Тебе.</plain>
+        </string>
+        <string>
+            <plain>В жизни моей много скорбей,</plain>
+        </string>
+        <string>
+            <plain>Будь мне Вождем ночью и днем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Грешников Ты любишь,</plain>
+        </string>
+        <string>
+            <plain>Жизнь за них отдал.</plain>
+        </string>
+        <string>
+            <plain>Счастья всем желаешь,</plain>
+        </string>
+        <string>
+            <plain>Кто Тебя познал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В Слове Твоем, Боже,</plain>
+        </string>
+        <string>
+            <plain>Жажду я пребыть,</plain>
+        </string>
+        <string>
+            <plain>На Тебя похожим</plain>
+        </string>
+        <string>
+            <plain>Я стараюсь быть.</plain>
+        </string>
+    </verse>
+</song>

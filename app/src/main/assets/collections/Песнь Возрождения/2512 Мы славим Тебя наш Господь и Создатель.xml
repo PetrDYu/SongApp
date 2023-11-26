@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2512" name="Мы славим Тебя наш Господь и Создатель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы славим Тебя, наш Господь и Создатель,</plain>
+        </string>
+        <string>
+            <plain>Тебе с благодарностыо песни поем.</plain>
+        </string>
+        <string>
+            <plain>Стоим пред Тобою с покорной моль-бою</plain>
+        </string>
+        <string>
+            <plain>И прославляем в песнях имя Твое.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тебе поклоняемся, Боже великий;</plain>
+        </string>
+        <string>
+            <plain>Чрез бури и грозы Ты был нам Вождем,</plain>
+        </string>
+        <string>
+            <plain>Могучего властью спасал от напастей,</plain>
+        </string>
+        <string>
+            <plain>Мы смело за Тобой к победе идем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сливаемся в песни, хвалу, поклоненье Тебе,</plain>
+        </string>
+        <string>
+            <plain>Всемогущий, спешим мы принесть.</plain>
+        </string>
+        <string>
+            <plain>Хранитель наш Чудный всегда с нами всюду,</plain>
+        </string>
+        <string>
+            <plain>Тебе, наш Искупитель, слава и честь. Аминь.</plain>
+        </string>
+    </verse>
+</song>

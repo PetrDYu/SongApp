@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="110" name="Хвалу Небесному Отцу спешите вознести" canon="false" text="В. Х. Кларка" textRus="" music="В. Дж. Киркпатрика" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Хвалу Небесному Отцу спешите вознести!</plain>
+        </string>
+        <string>
+            <plain>На землю Сына Он послал, чтоб грешников спасти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Будь благословен! Будь благословен!</plain>
+        </string>
+        <string>
+            <plain>Будь благословен, наш Господь!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он выше всех превознесен, с Отцом на троне Он,</plain>
+        </string>
+        <string>
+            <plain>Небесный хор поет хвалу воскресшему Христу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос Спаситель, верный друг страдающих людей,</plain>
+        </string>
+        <string>
+            <plain>Терпел позор и много мук за всех в любви Своей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Советник, Чудный, Мира Князь, Владыка всех владык,</plain>
+        </string>
+        <string>
+            <plain>Придет опять в нежданный час, и будет Он велик.</plain>
+        </string>
+    </verse>
+</song>

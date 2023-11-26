@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="468" name="Я отдыхать на ночь ложусь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я отдыхать на ночь ложусь,</plain>
+        </string>
+        <string>
+            <plain>И в тишине ночной</plain>
+        </string>
+        <string>
+            <plain>В Твои я руки предаюсь</plain>
+        </string>
+        <string>
+            <plain>И телом и душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты будь Хранитель верный мой</plain>
+        </string>
+        <string>
+            <plain>И береги от зла;</plain>
+        </string>
+        <string>
+            <plain>Дай телу сон, душе покой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мысль с Тобой была.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда я по Твоей судьбе</plain>
+        </string>
+        <string>
+            <plain>Сном вечным здесь усну,</plain>
+        </string>
+        <string>
+            <plain>То дух мой Ты прими к Себе</plain>
+        </string>
+        <string>
+            <plain>В небесную страну.</plain>
+        </string>
+    </verse>
+</song>

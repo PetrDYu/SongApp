@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="561" name="Ты Мой Не бойся ничего" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты Мой! Не бойся ничего,</plain>
+        </string>
+        <string>
+            <plain>Хотя бы мир поднялся целый</plain>
+        </string>
+        <string>
+            <plain>И все свои направил стрелы</plain>
+        </string>
+        <string>
+            <plain>В слугу спасенья Моего.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не бойся ничего! Ты - Мой,</plain>
+        </string>
+        <string>
+            <plain>И вот тебе Моя десница;</plain>
+        </string>
+        <string>
+            <plain>Под нею можешь ты укрыться.</plain>
+        </string>
+        <string>
+            <plain>Иди, не бойся, Я с тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не бойся! Над тобой Мой щит,</plain>
+        </string>
+        <string>
+            <plain>Будь духом бодр, будь верой камень;</plain>
+        </string>
+        <string>
+            <plain>Иди без страха в грозный пламень</plain>
+        </string>
+        <string>
+            <plain>И огнь тебе не повредит.</plain>
+        </string>
+    </verse>
+</song>

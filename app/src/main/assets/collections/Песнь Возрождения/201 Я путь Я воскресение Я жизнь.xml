@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="201" name="Я путь Я воскресение Я жизнь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Я - путь, Я - воскресение, Я - жизнь". Христос сказал:</plain>
+        </string>
+        <string>
+            <plain>"Дерзай, о чадо, в славу Я Свою тебя призвал,</plain>
+        </string>
+        <string>
+            <plain>Я - путь на небеса, Где святость и краса,</plain>
+        </string>
+        <string>
+            <plain>И здесь пока иди за Мной вослед".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христа прославить призван ты, иди за Ним вослед.</plain>
+        </string>
+        <string>
+            <plain>Христа прославить призван ты, иди за Ним вослед.</plain>
+        </string>
+        <string>
+            <plain>Он - путь на небеса, в Нем святость и краса,</plain>
+        </string>
+        <string>
+            <plain>И здесь иди, иди за Ним вослед.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С тех пор как в Вифлееме Он на землю снизошел,</plain>
+        </string>
+        <string>
+            <plain>Путем тернистым Он до самой смерти крестной шел;</plain>
+        </string>
+        <string>
+            <plain>Господь предал Себя, Чтоб искупить тебя,</plain>
+        </string>
+        <string>
+            <plain>И за Собой тебя зовет вослед.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как много поношенья от людей Он здесь принял!</plain>
+        </string>
+        <string>
+            <plain>Но, будучи злословим, Он врагов благословлял;</plain>
+        </string>
+        <string>
+            <plain>Он здесь избрал страдать, чтоб там нам царство дать,</plain>
+        </string>
+        <string>
+            <plain>Коль прежде здесь за Ним пойдем вослед.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пойдем же здесь повсюду мы за Господом вослед,</plain>
+        </string>
+        <string>
+            <plain>Идет ли средь пустыни путь, идет ли средь побед:</plain>
+        </string>
+        <string>
+            <plain>Чтоб жизнь Христову дать в нас людям прочитать</plain>
+        </string>
+        <string>
+            <plain>И грешных здесь к Нему привлечь вослед.</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Христа прославить призван я, иду за Ним вослед.</plain>
+        </string>
+        <string>
+            <plain>Христа прославить призван я, иду за Ним вослед.</plain>
+        </string>
+        <string>
+            <plain>Он путь на небеса, в Нем святость и краса;</plain>
+        </string>
+        <string>
+            <plain>И здесь пойдем, пойдем за Ним вослед.</plain>
+        </string>
+    </chorus>
+</song>

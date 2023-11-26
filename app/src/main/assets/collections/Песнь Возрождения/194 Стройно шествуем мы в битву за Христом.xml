@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="194" name="Стройно шествуем мы в битву за Христом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стройно шествуем мы в битву за Христом</plain>
+        </string>
+        <string>
+            <plain>С ярким знаменем, с оружьем и щитом,</plain>
+        </string>
+        <string>
+            <plain>Кровью Агнца торжествуя над врагом</plain>
+        </string>
+        <string>
+            <plain>До пришествия Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Воспоем все Ему,</plain>
+        </string>
+        <string>
+            <plain>И воспрянь, песня, Богу моему!</plain>
+        </string>
+        <string>
+            <plain>Верой будем жить, к нам многие примкнут</plain>
+        </string>
+        <string>
+            <plain>В путь туда, где реки радостей текут.</plain>
+        </string>
+        <string>
+            <plain>Наши песни многих к Богу привлекут</plain>
+        </string>
+        <string>
+            <plain>До пришествия Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Размеряя силы, мы готовим строй:</plain>
+        </string>
+        <string>
+            <plain>Нам вступить с врагом не малым надо в бой;</plain>
+        </string>
+        <string>
+            <plain>С нами больше сил, чем с вражьей стороной</plain>
+        </string>
+        <string>
+            <plain>До пришествия Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Близок к нам Господь, чтоб всех руководить,</plain>
+        </string>
+        <string>
+            <plain>Оком нас Своим Он обещал хранить.</plain>
+        </string>
+        <string>
+            <plain>Враг нас никогда не может устрашить</plain>
+        </string>
+        <string>
+            <plain>До пришествия Христа.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К славе мы небесной царствовать идем.</plain>
+        </string>
+        <string>
+            <plain>Мы к высокой чести званы со Христом;</plain>
+        </string>
+        <string>
+            <plain>Здесь венец терновый вместе с Ним несем</plain>
+        </string>
+        <string>
+            <plain>До пришествия Христа.</plain>
+        </string>
+    </verse>
+</song>

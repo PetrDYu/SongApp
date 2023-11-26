@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2577" name="Сколько в жизни есть страданья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сколько в жизни есть страданья,</plain>
+        </string>
+        <string>
+            <plain>Горя, слез не перечесть,</plain>
+        </string>
+        <string>
+            <plain>Но не только ведь страданья,</plain>
+        </string>
+        <string>
+            <plain>И отрада в жизни есть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Научи, Господь, смиренно</plain>
+        </string>
+        <string>
+            <plain>На Тебя лишь уповать.</plain>
+        </string>
+        <string>
+            <plain>Помоги в долготерпенье</plain>
+        </string>
+        <string>
+            <plain>На свой жребий не роптать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И так мчатся годы жизни,</plain>
+        </string>
+        <string>
+            <plain>В свете дня иль в тьме ночной.</plain>
+        </string>
+        <string>
+            <plain>То в одной лишь непогоде,</plain>
+        </string>
+        <string>
+            <plain>То в лазури голубой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Помоги, Господь Спаситель,</plain>
+        </string>
+        <string>
+            <plain>В свете дня иль в тьме ночной</plain>
+        </string>
+        <string>
+            <plain>Мне войти в Твою обитель,</plain>
+        </string>
+        <string>
+            <plain>Где нет бурь, где Твой покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2370" name="Уж день прошел и стража пост сменяет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж день прошел, и стража пост сменяет,</plain>
+        </string>
+        <string>
+            <plain>Египет шлёт на отдых сыновей.</plain>
+        </string>
+        <string>
+            <plain>Израиль же полночи ожидает</plain>
+        </string>
+        <string>
+            <plain>И бодрствует у косяков дверей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я пройду мимо вас, как увижу кровь.</plain>
+        </string>
+        <string>
+            <plain>Я пройду мимо вас и дам вам покров.</plain>
+        </string>
+        <string>
+            <plain>Я пройду мимо, как увижу кровь,</plain>
+        </string>
+        <string>
+            <plain>Святую кровь Иисуса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Уж Агнец, закланный живого жертвой,</plain>
+        </string>
+        <string>
+            <plain>За нас умер, невинно пролил кровь.</plain>
+        </string>
+        <string>
+            <plain>Омыл ли ею ты предсмертный грех свой?</plain>
+        </string>
+        <string>
+            <plain>Друг мой, начал ли ты путь жизни вновь?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душа, не спи в своём ты упоенье,</plain>
+        </string>
+        <string>
+            <plain>Иди за Тем, Кто умер за тебя.</plain>
+        </string>
+        <string>
+            <plain>Провозглашай всем гибнущим спасены,</plain>
+        </string>
+        <string>
+            <plain>Спасая всех, спасая и себя.</plain>
+        </string>
+    </verse>
+</song>

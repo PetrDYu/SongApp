@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="337" name="Мой мир вам, друзья, Мой мир вам, друзья, шалом, шалом" canon="false" text="" textRus="И. Языковой, Ю. Пастернака" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Мой мир вам, друзья, Мой мир вам, друзья, шалом, шалом!</plain>
+        </string>
+        <string>
+            <plain>Увидимся вновь, увидимся вновь, шалом, шалом!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>ШАЛО́М ХАВЕРИ́М ШАЛО́М ХАВЕРО́Т ШАЛО́М ШАЛО́М</plain>
+        </string>
+        <string>
+            <plain>ЛЭИТРАО́Т ЛЭИТРАО́Т ШАЛО́М ШАЛО́М</plain>
+        </string>
+    </verse>
+</song>

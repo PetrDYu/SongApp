@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1219" name="Вечный край таинственный далекий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечный край, таинственный, далекий,</plain>
+        </string>
+        <string>
+            <plain>Сердце так волнуется порой.</plain>
+        </string>
+        <string>
+            <plain>Вот шагает путник одинокий.</plain>
+        </string>
+        <string>
+            <plain>Что ему назначено судьбой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Небо на земле так непонятно,</plain>
+        </string>
+        <string>
+            <plain>Много не известно нам о нем,</plain>
+        </string>
+        <string>
+            <plain>А душа немой тоской объята.</plain>
+        </string>
+        <string>
+            <plain>Ждет переселенья своего.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь земная призрачна, туманна,</plain>
+        </string>
+        <string>
+            <plain>Пролетит, как стая журавлей,</plain>
+        </string>
+        <string>
+            <plain>И когда-нибудь, совсем нежданно.</plain>
+        </string>
+        <string>
+            <plain>Вечность постучится у дверей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я глаза когда-нибудь открою</plain>
+        </string>
+        <string>
+            <plain>Далеко в неведомом</plain>
+        </string>
+        <string>
+            <plain>краю, На колени стану - всей душою,</plain>
+        </string>
+        <string>
+            <plain>И за все Иисуса обниму.</plain>
+        </string>
+    </verse>
+</song>

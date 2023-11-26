@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3112" name="Я знаю дал жизнь мне Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю: дал жизнь мне Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Он - мир мой, и радость, и свет.</plain>
+        </string>
+        <string>
+            <plain>Вину мою снял Искупитель,</plain>
+        </string>
+        <string>
+            <plain>распял и вознес грех на крест.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, славьте Христа,</plain>
+        </string>
+        <string>
+            <plain>о, славьте Христа!</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой жив,</plain>
+        </string>
+        <string>
+            <plain>в этом радость моя.</plain>
+        </string>
+        <string>
+            <plain>Он - жизнь и надежды моей звезда!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Прославьте Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь есть обилье богатства.</plain>
+        </string>
+        <string>
+            <plain>Он в Сыне любовь нам явил,</plain>
+        </string>
+        <string>
+            <plain>призвал нас к свободе из рабства</plain>
+        </string>
+        <string>
+            <plain>и грешникам небо открыл.</plain>
+        </string>
+        <string>
+            <plain>З Всех щедро Он благословляет,</plain>
+        </string>
+        <string>
+            <plain>кто здесь благодарен Ему,</plain>
+        </string>
+        <string>
+            <plain>и боли Он тем утоляет,</plain>
+        </string>
+        <string>
+            <plain>кто в скорби приходит к Нему.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душа, славь Христа за спасенье</plain>
+        </string>
+        <string>
+            <plain>и имя Его восхваляй,</plain>
+        </string>
+        <string>
+            <plain>неси Ему благодаренье,</plain>
+        </string>
+        <string>
+            <plain>с восторгом Его воспевай!</plain>
+        </string>
+    </verse>
+</song>

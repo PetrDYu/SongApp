@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2279" name="Очень рано на рассвете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Очень рано на рассвете,</plain>
+        </string>
+        <string>
+            <plain>с ароматами в руках</plain>
+        </string>
+        <string>
+            <plain>Жены веры, Божьи дети,</plain>
+        </string>
+        <string>
+            <plain>шли ко гробу, сбросив страх.</plain>
+        </string>
+        <string>
+            <plain>Но у гроба изумились</plain>
+        </string>
+        <string>
+            <plain>- нету Господа, исчез!</plain>
+        </string>
+        <string>
+            <plain>Ангелы им вдруг явились,</plain>
+        </string>
+        <string>
+            <plain>и сказали: "Он воскрес!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет живого среди мертвых,</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Пусть Ему сердца охотно</plain>
+        </string>
+        <string>
+            <plain>воспевают до небес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Вот и место, где лежал Он",</plain>
+        </string>
+        <string>
+            <plain>- убеждали они жен -</plain>
+        </string>
+        <string>
+            <plain>"Смертью смерти убил жало,</plain>
+        </string>
+        <string>
+            <plain>и воскрес навеки Он!"</plain>
+        </string>
+        <string>
+            <plain>Радость славы просияла</plain>
+        </string>
+        <string>
+            <plain>воскресением Христа,</plain>
+        </string>
+        <string>
+            <plain>миром Божьим нас объяла,</plain>
+        </string>
+        <string>
+            <plain>осчастливила сердца.</plain>
+        </string>
+    </verse>
+</song>

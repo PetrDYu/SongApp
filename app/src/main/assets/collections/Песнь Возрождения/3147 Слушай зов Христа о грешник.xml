@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3147" name="Слушай зов Христа о грешник" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слушай зов Христа, о грешник!</plain>
+        </string>
+        <string>
+            <plain>Он приветливо зовёт.</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Нему сегодня</plain>
+        </string>
+        <string>
+            <plain>- Он покой И мир даёт!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Грешник, слушай Иисуса!</plain>
+        </string>
+        <string>
+            <plain>Поспеши к Нему прийти.</plain>
+        </string>
+        <string>
+            <plain>Примет Он тебя, утешит,</plain>
+        </string>
+        <string>
+            <plain>даст одежду святости.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слушай зов Христа, не медли</plain>
+        </string>
+        <string>
+            <plain>- о тебе Он слёзы льёт!</plain>
+        </string>
+        <string>
+            <plain>Если на пути про медлишь,</plain>
+        </string>
+        <string>
+            <plain>враг навечно в плен возьмёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слушай зов Христа!</plain>
+        </string>
+        <string>
+            <plain>С мольбою простирает руки Он.</plain>
+        </string>
+        <string>
+            <plain>О, приди! - Тебя с любовью</plain>
+        </string>
+        <string>
+            <plain>Он введёт в Отцовский дом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Слушай зов Христа!</plain>
+        </string>
+        <string>
+            <plain>Сегодня призывает Он тебя.</plain>
+        </string>
+        <string>
+            <plain>Если благодать отвергнешь,</plain>
+        </string>
+        <string>
+            <plain>дверь закроет навсегда.</plain>
+        </string>
+    </verse>
+</song>

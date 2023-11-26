@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2056" name="Вот опять наступила осень" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот опять наступила осень,</plain>
+        </string>
+        <string>
+            <plain>Листья счастья по свету ищут,</plain>
+        </string>
+        <string>
+            <plain>Дождь слезливо о чем-то просит,</plain>
+        </string>
+        <string>
+            <plain>Словно нищий.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И с прощальным напевом птицы</plain>
+        </string>
+        <string>
+            <plain>Улетают вдогонку лету,</plain>
+        </string>
+        <string>
+            <plain>И куда-то душа стремится,</plain>
+        </string>
+        <string>
+            <plain>Словно птица, тоскуя в клетке.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>От унылых дождей ненастных</plain>
+        </string>
+        <string>
+            <plain>И от ветров тревожных песен</plain>
+        </string>
+        <string>
+            <plain>Так хотелось бы вдруг попасть мне</plain>
+        </string>
+        <string>
+            <plain>В край небесный.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В том краю нет скорбей, тревоги,</plain>
+        </string>
+        <string>
+            <plain>Там Спаситель нас ждет с любовью,</plain>
+        </string>
+        <string>
+            <plain>Осветив путь земной дороги</plain>
+        </string>
+        <string>
+            <plain>Своей Кровью.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Там не будет прощальных песен,</plain>
+        </string>
+        <string>
+            <plain>Позабудет душа печали</plain>
+        </string>
+        <string>
+            <plain>И со всеми святыми вместе</plain>
+        </string>
+        <string>
+            <plain>Иисуса Христа прославит.</plain>
+        </string>
+    </chorus>
+</song>

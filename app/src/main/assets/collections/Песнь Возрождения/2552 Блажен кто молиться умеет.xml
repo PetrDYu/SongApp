@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2552" name="Блажен кто молиться умеет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Блажен, кто молиться умеет</plain>
+        </string>
+        <string>
+            <plain>Молитвой от сердца, живой.</plain>
+        </string>
+        <string>
+            <plain>Тот духом всегда пламенеет</plain>
+        </string>
+        <string>
+            <plain>И светел, как ангел, душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В нем радости солнышко светит,</plain>
+        </string>
+        <string>
+            <plain>Лаская лучами других.</plain>
+        </string>
+        <string>
+            <plain>За ним уж никто не заметит</plain>
+        </string>
+        <string>
+            <plain>Поступков неверных и злых.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Живет он по Божию Слову,</plain>
+        </string>
+        <string>
+            <plain>Под знаменем Крови святой,</plain>
+        </string>
+        <string>
+            <plain>И душу имеет Христову,</plain>
+        </string>
+        <string>
+            <plain>И чудный сердечный покой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Блажен, кто молиться умеет</plain>
+        </string>
+        <string>
+            <plain>Молитвой от сердца, живой,</plain>
+        </string>
+        <string>
+            <plain>Успех он чудесный имеет</plain>
+        </string>
+        <string>
+            <plain>В делах своей веры святой.</plain>
+        </string>
+    </verse>
+</song>

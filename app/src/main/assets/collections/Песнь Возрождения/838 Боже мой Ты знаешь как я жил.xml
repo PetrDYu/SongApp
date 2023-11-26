@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="838" name="Боже мой Ты знаешь как я жил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже мой. Ты знаешь, как я жил.</plain>
+        </string>
+        <string>
+            <plain>До сих пор как пред Тобой ходил.</plain>
+        </string>
+        <string>
+            <plain>Сколько раз колени я склонял</plain>
+        </string>
+        <string>
+            <plain>И в ночной тиши к Тебе взывал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Помоги мне этот мир победить</plain>
+        </string>
+        <string>
+            <plain>Так, как Ты его однажды победил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Манит мир меня своей красой</plain>
+        </string>
+        <string>
+            <plain>И пленит он также суетой.</plain>
+        </string>
+        <string>
+            <plain>Но душа стремится все же ввысь</plain>
+        </string>
+        <string>
+            <plain>И твердит: "Пред Господом смирись".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Помнишь, как обеты я давал.</plain>
+        </string>
+        <string>
+            <plain>Пред Лицом я искренне стоял.</plain>
+        </string>
+        <string>
+            <plain>А теперь огонь любви погас,</plain>
+        </string>
+        <string>
+            <plain>И нет сил у ног Твоих стоять.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верю, Боже, любишь Ты меня</plain>
+        </string>
+        <string>
+            <plain>И омоешь снова добела,</plain>
+        </string>
+        <string>
+            <plain>И вернешь мне прежнюю любовь,</plain>
+        </string>
+        <string>
+            <plain>- Ведь искуплен я Самим Тобой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="709" name="Честь Тебе Спаситель слава" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Честь Тебе, Спаситель, слава,</plain>
+        </string>
+        <string>
+            <plain>Что Ты смертию Своей</plain>
+        </string>
+        <string>
+            <plain>Дал мне радостное право</plain>
+        </string>
+        <string>
+            <plain>Быть средь Божиих детей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Честь Тебе, Спаситель, слава,</plain>
+        </string>
+        <string>
+            <plain>Что Ты смертию Своей</plain>
+        </string>
+        <string>
+            <plain>Дал мне радостное право</plain>
+        </string>
+        <string>
+            <plain>Быть средь Божиих детей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Долго я искал упорно</plain>
+        </string>
+        <string>
+            <plain>Мир, о Боге позабыв;</plain>
+        </string>
+        <string>
+            <plain>Лишь со дня, когда покорно</plain>
+        </string>
+        <string>
+            <plain>Я поверил, я счастлив.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И с тех пор я полагаю</plain>
+        </string>
+        <string>
+            <plain>Всю надежду на Христа,</plain>
+        </string>
+        <string>
+            <plain>Вести радостной внимаю</plain>
+        </string>
+        <string>
+            <plain>И несу во все места.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Твой, Спаситель, навсегда я,</plain>
+        </string>
+        <string>
+            <plain>Твой слуга, Твоя овца;</plain>
+        </string>
+        <string>
+            <plain>Твой, живя иль умирая,</plain>
+        </string>
+        <string>
+            <plain>Твой я вечно, без конца.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты как Пастырь ежечасно</plain>
+        </string>
+        <string>
+            <plain>Все ведешь меня вперед</plain>
+        </string>
+        <string>
+            <plain>В царство милости всевластной,</plain>
+        </string>
+        <string>
+            <plain>К жизни вечной, в мир красот.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Честь Тебе, Спаситель дивный,</plain>
+        </string>
+        <string>
+            <plain>За Твой подвиг на кресте</plain>
+        </string>
+        <string>
+            <plain>И за зов Твой непрерывный</plain>
+        </string>
+        <string>
+            <plain>К светлой, славной высоте.</plain>
+        </string>
+    </verse>
+</song>

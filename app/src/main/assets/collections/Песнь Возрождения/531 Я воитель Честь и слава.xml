@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="531" name="Я воитель Честь и слава" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я воитель! Честь и слава</plain>
+        </string>
+        <string>
+            <plain>Ждет меня на небесах.</plain>
+        </string>
+        <string>
+            <plain>Приидите и скажу я,</plain>
+        </string>
+        <string>
+            <plain>Как ко мне Спаситель благ!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда окончим жаркий бой,</plain>
+        </string>
+        <string>
+            <plain>Придем в небесный дом святой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочешь знать, кем был я призван</plain>
+        </string>
+        <string>
+            <plain>Честь иметь в борьбе святой?</plain>
+        </string>
+        <string>
+            <plain>Иисус Своей любовью</plain>
+        </string>
+        <string>
+            <plain>Звал меня идти с Собой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Про меня сказали люди:</plain>
+        </string>
+        <string>
+            <plain>В битве он не устоит.</plain>
+        </string>
+        <string>
+            <plain>Все, однако, в том ошиблись:</plain>
+        </string>
+        <string>
+            <plain>Бог - Хранитель мой и щит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я обрадован победой:</plain>
+        </string>
+        <string>
+            <plain>Бог один то совершил!</plain>
+        </string>
+        <string>
+            <plain>Я на камне веры твердой</plain>
+        </string>
+        <string>
+            <plain>Дух свой слабый укрепил.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Богу слава и Иисусу!</plain>
+        </string>
+        <string>
+            <plain>О, как крепко любит Он!</plain>
+        </string>
+        <string>
+            <plain>И в любви Ему служу я,</plain>
+        </string>
+        <string>
+            <plain>Духом правды освящен.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Скоро мой Господь вернется,</plain>
+        </string>
+        <string>
+            <plain>Скоро снова Он придет!</plain>
+        </string>
+        <string>
+            <plain>Счастлив тот, кто сердцем бодрым</plain>
+        </string>
+        <string>
+            <plain>Встретить Господа пойдет.</plain>
+        </string>
+    </verse>
+</song>

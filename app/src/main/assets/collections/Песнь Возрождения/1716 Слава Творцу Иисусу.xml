@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1716" name="Слава Творцу Иисусу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слава Творцу Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Слава Творцу (2 раза)</plain>
+        </string>
+        <string>
+            <plain>Славь Творца Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Да льётся наша песнь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь нас спас и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Любовь и жизнь нам даровал.</plain>
+        </string>
+        <string>
+            <plain>Воспойте Господу псалом,</plain>
+        </string>
+        <string>
+            <plain>Прославьте Бога с торжеством.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Слава Творцу Иисусу (2 раза)</plain>
+        </string>
+        <string>
+            <plain>Слава, слава, слава, слава,</plain>
+        </string>
+        <string>
+            <plain>Слава Богу в небесах.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Когда мы к Господу придём,</plain>
+        </string>
+        <string>
+            <plain>Песнь новую там воспоём,</plain>
+        </string>
+        <string>
+            <plain>Тому, кто жизнь Свою отдал</plain>
+        </string>
+        <string>
+            <plain>И вечность с Богом даровал.</plain>
+        </string>
+    </verse>
+</song>

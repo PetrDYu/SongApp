@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1090" name="Господи к Тебе я поднимаю взор" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи, к Тебе я поднимаю взор,</plain>
+        </string>
+        <string>
+            <plain>К Тебе ищу пути.</plain>
+        </string>
+        <string>
+            <plain>Ты - Утешитель с давних пор,</plain>
+        </string>
+        <string>
+            <plain>К Тебе хочу придти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Знаю, что любишь Ты меня.</plain>
+        </string>
+        <string>
+            <plain>И бережешь, храня.</plain>
+        </string>
+        <string>
+            <plain>Хоть недостоин я,</plain>
+        </string>
+        <string>
+            <plain>Но Ты научи меня</plain>
+        </string>
+        <string>
+            <plain>Любить, Господь, Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господи, к Тебе я поднимаю взор,</plain>
+        </string>
+        <string>
+            <plain>К Тебе ищу пути.</plain>
+        </string>
+        <string>
+            <plain>Дай в мире все считать за сор</plain>
+        </string>
+        <string>
+            <plain>И жизнь в Тебе найти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Знаю, Ты можешь все понять,</plain>
+        </string>
+        <string>
+            <plain>С души все бремя снять</plain>
+        </string>
+        <string>
+            <plain>И дать покой душе.</plain>
+        </string>
+        <string>
+            <plain>Истомленной душе,</plain>
+        </string>
+        <string>
+            <plain>И сердцу мир послать!</plain>
+        </string>
+    </verse>
+</song>

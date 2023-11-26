@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1235" name="Как прекрасны вверху небеса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как прекрасны вверху небеса.</plain>
+        </string>
+        <string>
+            <plain>Среди звезд ходит плавно луна,</plain>
+        </string>
+        <string>
+            <plain>И всегда мои смотрят глаза</plain>
+        </string>
+        <string>
+            <plain>Лишь туда, лишь туда, лишь туда.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вижу неба красивый наряд,</plain>
+        </string>
+        <string>
+            <plain>Почему "нет Творца" говорят.</plain>
+        </string>
+        <string>
+            <plain>И умом я понять не могу:</plain>
+        </string>
+        <string>
+            <plain>Почему, почему, почему?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все сияет в своей красоте,</plain>
+        </string>
+        <string>
+            <plain>Небо мне говорит о Творце.</plain>
+        </string>
+        <string>
+            <plain>И поет эту песня Земля:</plain>
+        </string>
+        <string>
+            <plain>Для тебя, для тебя, для тебя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Буду петь я о том, что спасен.</plain>
+        </string>
+        <string>
+            <plain>Что жить буду с Иисусом Христом.</plain>
+        </string>
+        <string>
+            <plain>У Него Кровь стекала с чела</plain>
+        </string>
+        <string>
+            <plain>За меня, за меня, за меня.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Свой восторг я хочу передать,</plain>
+        </string>
+        <string>
+            <plain>Иисусу Христу рассказать,</plain>
+        </string>
+        <string>
+            <plain>Но слов лучших найти не могу,</plain>
+        </string>
+        <string>
+            <plain>Как Иисуса всем сердцем люблю.</plain>
+        </string>
+    </verse>
+</song>

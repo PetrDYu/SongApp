@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="392" name="Скажите мне братья и сестры" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скажите мне, братья и сестры,</plain>
+        </string>
+        <string>
+            <plain>Куда вы хотите идти?</plain>
+        </string>
+        <string>
+            <plain>Терновник колючий и острый,</plain>
+        </string>
+        <string>
+            <plain>И камни, и тьма на пути. –</plain>
+        </string>
+        <string>
+            <plain>Мы путники в рай Ханаана:</plain>
+        </string>
+        <string>
+            <plain>Там вечного счастья расцвет;</plain>
+        </string>
+        <string>
+            <plain>Сквозь сумрак и вихрь урагана</plain>
+        </string>
+        <string>
+            <plain>Мы видим спасительный свет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Недолго, и путь мы свершим,</plain>
+        </string>
+        <string>
+            <plain>Пришедши к воротам родным.</plain>
+        </string>
+        <string>
+            <plain>Там примет Господь нас в Свой город,</plain>
+        </string>
+        <string>
+            <plain>Там будем блаженствовать с Ним.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мне очень хотелось бы с вами</plain>
+        </string>
+        <string>
+            <plain>В далекий отправиться путь,</plain>
+        </string>
+        <string>
+            <plain>Но только страшусь пред скорбями,</plain>
+        </string>
+        <string>
+            <plain>Не знаю, где сил почерпнуть. –</plain>
+        </string>
+        <string>
+            <plain>Мы слушаем Божье веленье,</plain>
+        </string>
+        <string>
+            <plain>И он посылает Свой Дух,</plain>
+        </string>
+        <string>
+            <plain>Который дает подкрепленье</plain>
+        </string>
+        <string>
+            <plain>И учит, и лечит недуг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Друзья! Я решился оставить</plain>
+        </string>
+        <string>
+            <plain>Все в мире и с вами пойти.</plain>
+        </string>
+        <string>
+            <plain>Я верю, Бог может наставить,</plain>
+        </string>
+        <string>
+            <plain>Как иго святое нести. –</plain>
+        </string>
+        <string>
+            <plain>Приветствуем сердца решенье,</plain>
+        </string>
+        <string>
+            <plain>Поспешно нам руки давай</plain>
+        </string>
+        <string>
+            <plain>И вместе пойдем в единенье</plain>
+        </string>
+        <string>
+            <plain>В тот славный обещанный край.</plain>
+        </string>
+    </verse>
+</song>

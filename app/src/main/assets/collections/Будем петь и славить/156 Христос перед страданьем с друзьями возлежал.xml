@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="156" name="Христос перед страданьем с друзьями возлежал" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Христос перед страданьем с друзьями возлежал.</plain>
+        </string>
+        <string>
+            <plain>Перед Своим созданьем Себя Он унижал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Мойте, мойте вы, мойте ноги всем.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда Иуда в сердце предать Его решил,</plain>
+        </string>
+        <string>
+            <plain>Тогда Спаситель делом любовь Свою явил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он снял Свою одежду, с вечери вдруг восстал.</plain>
+        </string>
+        <string>
+            <plain>Он был Господь, как прежде, но вид раба принял.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Он Сам, Своей рукою воды в сосуд налил.</plain>
+        </string>
+        <string>
+            <plain>И чистою водою Он ноги им омыл.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Он чресла препоясал и голову склонил.</plain>
+        </string>
+        <string>
+            <plain>Служить Он всем старался и ноги всем омыл.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Потом, возлегши снова, ученикам сказал:</plain>
+        </string>
+        <string>
+            <plain>«Примите Мое Слово, пример, друзья, вам дал».</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Коль Сам Господь Учитель вам ноги омывал</plain>
+        </string>
+        <string>
+            <plain>И чистым полотенцем, склонившись, отирал,</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>То вы должны друг другу так ноги омывать</plain>
+        </string>
+        <string>
+            <plain>И чистым полотенцем, склонившись, отирать.</plain>
+        </string>
+    </verse>
+    <verse number="9">
+        <string>
+            <plain>Тогда сердец гордыня оставит вас, друзья,</plain>
+        </string>
+        <string>
+            <plain>И Божия святыня не будет вам судья.</plain>
+        </string>
+    </verse>
+</song>

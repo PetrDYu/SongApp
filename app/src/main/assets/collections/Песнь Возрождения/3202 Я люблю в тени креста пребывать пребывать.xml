@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3202" name="Я люблю в тени креста пребывать пребывать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я люблю в тени креста пребывать, (пребывать),</plain>
+        </string>
+        <string>
+            <plain>где Иисус мне даровал благодать, (да благодать).</plain>
+        </string>
+        <string>
+            <plain>Кровь с Голгофского креста нас омыла и спасла!</plain>
+        </string>
+        <string>
+            <plain>Я в тени креста люблю пребывать. (пребывать).</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я в тени креста спасенье нашёл, (да, я нашёл)</plain>
+        </string>
+        <string>
+            <plain>в Боге сладостный покой я обрёл. (да, обрёл).</plain>
+        </string>
+        <string>
+            <plain>Счастлив я в Его любви с теми, кто омыт в крови.</plain>
+        </string>
+        <string>
+            <plain>Я в тени креста спасенье нашел. (Да, я нашёл).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я люблю бывать под тенью креста, (у креста),</plain>
+        </string>
+        <string>
+            <plain>и сидеть у ног Иисуса Христа; ( у ног Христа);</plain>
+        </string>
+        <string>
+            <plain>Здесь так близок мне Иисус, ничего я не страшусь.</plain>
+        </string>
+        <string>
+            <plain>Я люблю бывать под тенью креста. ( у Креста).</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я крестом Христа хвалиться хочу, (да, хочу),</plain>
+        </string>
+        <string>
+            <plain>ведь Христу теперь принадлежу, (принадлежу).</plain>
+        </string>
+        <string>
+            <plain>Дух и Слово для меня — путеводная звезда.</plain>
+        </string>
+        <string>
+            <plain>Я крестом Христа хвалиться хочу (да, хочу).</plain>
+        </string>
+    </verse>
+</song>

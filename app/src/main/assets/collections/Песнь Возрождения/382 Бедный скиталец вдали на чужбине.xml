@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="382" name="Бедный скиталец вдали на чужбине" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бедный скиталец, вдали на чужбине</plain>
+        </string>
+        <string>
+            <plain>Горько тебе, ты один, как в пустыне,</plain>
+        </string>
+        <string>
+            <plain>С Отчего дома зовет Иисус тебя:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скоро ли придешь?</plain>
+        </string>
+        <string>
+            <plain>Скоро ли придешь?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух твой усталый как отдыха жаждет,</plain>
+        </string>
+        <string>
+            <plain>Как истомился, и стонет, и страждет!</plain>
+        </string>
+        <string>
+            <plain>Слышишь ли, голос Иисуса зовет тебя?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сердце больное утешить Он может,</plain>
+        </string>
+        <string>
+            <plain>Раны твои исцелить все Он хочет;</plain>
+        </string>
+        <string>
+            <plain>О не противься! Он громче зовет тебя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Брось все, что держит: земное минует,</plain>
+        </string>
+        <string>
+            <plain>Силу Он в жизни и смерти дарует,</plain>
+        </string>
+        <string>
+            <plain>Свет вечный манит тебя, о спеши к Нему.</plain>
+        </string>
+    </verse>
+</song>

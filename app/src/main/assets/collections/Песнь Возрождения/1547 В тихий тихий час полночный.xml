@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1547" name="В тихий тихий час полночный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В тихий, тихий час полночный.</plain>
+        </string>
+        <string>
+            <plain>Когда мир усталый спит.</plain>
+        </string>
+        <string>
+            <plain>Кротко Иисус приходит</plain>
+        </string>
+        <string>
+            <plain>И к тебе, душа, стучит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Грешник, Он к тебе приходит,</plain>
+        </string>
+        <string>
+            <plain>Словно странник издали.</plain>
+        </string>
+        <string>
+            <plain>Нам с тобой Он жизнь приносит.</plain>
+        </string>
+        <string>
+            <plain>Жизнь с избытком для души.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как часто в мире этом</plain>
+        </string>
+        <string>
+            <plain>Нет здесь места для Христа,</plain>
+        </string>
+        <string>
+            <plain>Всюду лишь одни кумиры,</plain>
+        </string>
+        <string>
+            <plain>Суетой жизнь занята.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, войди, Иисус Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Сердце я Тебе открыл.</plain>
+        </string>
+        <string>
+            <plain>Будь мой брат и Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто нас так возлюбил.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3151" name="Веры щит возьми и в свете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Веры щит возьми и в свете</plain>
+        </string>
+        <string>
+            <plain>ты иди без страха с ним.</plain>
+        </string>
+        <string>
+            <plain>Излучает свет он ясный</plain>
+        </string>
+        <string>
+            <plain>- будешь ты непобедим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В славном имени Иисуса</plain>
+        </string>
+        <string>
+            <plain>выше щит свой подними</plain>
+        </string>
+        <string>
+            <plain>и используй меч духовный,</plain>
+        </string>
+        <string>
+            <plain>не страшись, вперёд иди.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В вере обретёшь победу,</plain>
+        </string>
+        <string>
+            <plain>- твёрдо помни всей душой</plain>
+        </string>
+        <string>
+            <plain>- щит твой огненные стрелы</plain>
+        </string>
+        <string>
+            <plain>отразит: Господь с тобой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если дух заботы тяжкой</plain>
+        </string>
+        <string>
+            <plain>хочет душу погубить, щит держи:</plain>
+        </string>
+        <string>
+            <plain>здесь твой Учитель</plain>
+        </string>
+        <string>
+            <plain>- враг с позором убежит!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Облекись во всеоружье,</plain>
+        </string>
+        <string>
+            <plain>в жаркой битве не страшись,</plain>
+        </string>
+        <string>
+            <plain>пользуйся мечом умело</plain>
+        </string>
+        <string>
+            <plain>и с победой возвратись!</plain>
+        </string>
+    </verse>
+</song>

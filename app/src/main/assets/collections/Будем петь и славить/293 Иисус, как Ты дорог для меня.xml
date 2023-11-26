@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="293" name="Иисус, как Ты дорог для меня" canon="false" text="Т. Кумса" textRus="" music="Т. Кумса" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисус, как Ты дорог для меня!</plain>
+        </string>
+        <string>
+            <plain>Иисус, внемлешь Ты мольбе моей.</plain>
+        </string>
+        <string>
+            <plain>О Иисус, поднимешь Ты, коль упаду.</plain>
+        </string>
+        <string>
+            <plain>Как Ты дорог, дорог для меня!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисус, Тебя люблю я восхвалять.</plain>
+        </string>
+        <string>
+            <plain>Иисус, Ты без начала, без конца.</plain>
+        </string>
+        <string>
+            <plain>О Иисус, Ты умер и омыл мой грех.</plain>
+        </string>
+        <string>
+            <plain>Как Ты дорог, дорог для меня!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус, Ты обещал прийти сюда.</plain>
+        </string>
+        <string>
+            <plain>Иисус, мы ждем Тебя, открыв сердца.</plain>
+        </string>
+        <string>
+            <plain>О Иисус, услышь Ты наши голоса.</plain>
+        </string>
+        <string>
+            <plain>Как Ты дорог, дорог для меня!</plain>
+        </string>
+    </verse>
+</song>

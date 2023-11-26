@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="33" name="О Господь веди мой челн" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, веди мой челн</plain>
+        </string>
+        <string>
+            <plain>Посреди житейских волн!</plain>
+        </string>
+        <string>
+            <plain>Буря грозная пред мной,</plain>
+        </string>
+        <string>
+            <plain>Скалы скрыты под водой.</plain>
+        </string>
+        <string>
+            <plain>Я молюсь, доверья полн,</plain>
+        </string>
+        <string>
+            <plain>О Господь, веди мой челн!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как детей родная мать,</plain>
+        </string>
+        <string>
+            <plain>Можешь море Ты унять,</plain>
+        </string>
+        <string>
+            <plain>Ветер слушает Твой зов,</plain>
+        </string>
+        <string>
+            <plain>Успокоиться готов.</plain>
+        </string>
+        <string>
+            <plain>Повелитель бурных волн,</plain>
+        </string>
+        <string>
+            <plain>О Господь, веди мой челн!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не всегда мне быть в челне,</plain>
+        </string>
+        <string>
+            <plain>Пристань близится ко мне.</plain>
+        </string>
+        <string>
+            <plain>Слыша грозный волн прибой,</plain>
+        </string>
+        <string>
+            <plain>Ко Христу спешу с мольбой.</plain>
+        </string>
+        <string>
+            <plain>Я испуган, я смущен,</plain>
+        </string>
+        <string>
+            <plain>О Господь, веди мой челн!</plain>
+        </string>
+    </verse>
+</song>

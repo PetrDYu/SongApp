@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2464" name="Даже если всю землю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Даже если всю землю</plain>
+        </string>
+        <string>
+            <plain>Ты сложишь к моим ногам,</plain>
+        </string>
+        <string>
+            <plain>Если даже за слово "не верю"</plain>
+        </string>
+        <string>
+            <plain>Ты воздвигнешь мне звездный храм,</plain>
+        </string>
+        <string>
+            <plain>Если звезды с луною</plain>
+        </string>
+        <string>
+            <plain>Заставишь днем светить,</plain>
+        </string>
+        <string>
+            <plain>И на льду для меня зимою</plain>
+        </string>
+        <string>
+            <plain>Будешь розы растить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И тогда все равно</plain>
+        </string>
+        <string>
+            <plain>Я пойду за Ним,</plain>
+        </string>
+        <string>
+            <plain>За Иисусом Христом моим.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Буду тихой рабой Его,</plain>
+        </string>
+        <string>
+            <plain>Буду смелой слугой Его.</plain>
+        </string>
+        <string>
+            <plain>И послушно пойду вслед за Ним</plain>
+        </string>
+        <string>
+            <plain>По шипам и по склонам крутым.</plain>
+        </string>
+        <string>
+            <plain>Пусть изранена буду в суровом бою,</plain>
+        </string>
+        <string>
+            <plain>Пусть сне будет труднее,</plain>
+        </string>
+        <string>
+            <plain>Чем людям в любом краю.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Пусть я слезы порой</plain>
+        </string>
+        <string>
+            <plain>Не смогу сдержать,</plain>
+        </string>
+        <string>
+            <plain>Со Христом буду путь совершать.</plain>
+        </string>
+    </chorus>
+</song>

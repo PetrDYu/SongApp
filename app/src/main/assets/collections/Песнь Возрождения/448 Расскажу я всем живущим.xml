@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="448" name="Расскажу я всем живущим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Расскажу я всем живущим,</plain>
+        </string>
+        <string>
+            <plain>Как Христос мой пострадал,</plain>
+        </string>
+        <string>
+            <plain>Как под бременем гнетущим</plain>
+        </string>
+        <string>
+            <plain>На кресте Он умирал.</plain>
+        </string>
+        <string>
+            <plain>Расскажу я всем живущим,</plain>
+        </string>
+        <string>
+            <plain>Как Христос мой пострадал,</plain>
+        </string>
+        <string>
+            <plain>Как Он всем, к нему идущим,</plain>
+        </string>
+        <string>
+            <plain>Мир и радость обещал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Часто я не слышу зова</plain>
+        </string>
+        <string>
+            <plain>И блуждаю, как овца,</plain>
+        </string>
+        <string>
+            <plain>Но меня находит снова</plain>
+        </string>
+        <string>
+            <plain>Он с любовию Отца.</plain>
+        </string>
+        <string>
+            <plain>Я в борьбе с грехом был ранен,</plain>
+        </string>
+        <string>
+            <plain>Я устал и изнемог,</plain>
+        </string>
+        <string>
+            <plain>Взор был скорбью затуманен</plain>
+        </string>
+        <string>
+            <plain>- Он же мне во всем помог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мимо смерти прохожу я,</plain>
+        </string>
+        <string>
+            <plain>Много зол в пути моем,</plain>
+        </string>
+        <string>
+            <plain>Но пред ними не паду я,</plain>
+        </string>
+        <string>
+            <plain>Их сражу святым мечом.</plain>
+        </string>
+        <string>
+            <plain>Он берет меня за руки</plain>
+        </string>
+        <string>
+            <plain>И опять вперед ведет;</plain>
+        </string>
+        <string>
+            <plain>Я не знаю с Ним разлуки,</plain>
+        </string>
+        <string>
+            <plain>Я не знаю с Ним забот.</plain>
+        </string>
+    </verse>
+</song>

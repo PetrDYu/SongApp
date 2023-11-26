@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="82" name="Иисус есть Путь, Истина и Жизнь" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иисус есть Путь, Истина и Жизнь.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Жизнь, Истина. Иисус есть Путь.</plain>
+        </string>
+    </verse>
+</song>

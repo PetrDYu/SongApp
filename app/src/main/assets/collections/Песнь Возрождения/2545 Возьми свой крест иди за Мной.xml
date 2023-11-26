@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2545" name="Возьми свой крест иди за Мной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Возьми свой крест, иди за Мной!"</plain>
+        </string>
+        <string>
+            <plain>Христос мне говорит:</plain>
+        </string>
+        <string>
+            <plain>"Я за тебя перед толпой</plain>
+        </string>
+        <string>
+            <plain>был ко кресту прибит".</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Куда б Он ни повел,</plain>
+        </string>
+        <string>
+            <plain>куда б Он ни повел,</plain>
+        </string>
+        <string>
+            <plain>Я вслед за Ним пойду везде,</plain>
+        </string>
+        <string>
+            <plain>куда б Он ни повел.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Меня приблизил Он к себе,</plain>
+        </string>
+        <string>
+            <plain>с души снял тяжкий гнет.</plain>
+        </string>
+        <string>
+            <plain>Хочу послушным быть везде,</plain>
+        </string>
+        <string>
+            <plain>идти, куда ведет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чрез ряд скорбей иль смерти тьму,</plain>
+        </string>
+        <string>
+            <plain>чрез бурные моря,</plain>
+        </string>
+        <string>
+            <plain>Взяв крест за Ним я вслед пойду,</plain>
+        </string>
+        <string>
+            <plain>куда б ни вел меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все сердце, волю, жизнь мою</plain>
+        </string>
+        <string>
+            <plain>- Христу я отдаю;</plain>
+        </string>
+        <string>
+            <plain>Он - мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>мой Господь, спасает дух и плоть.</plain>
+        </string>
+    </verse>
+</song>

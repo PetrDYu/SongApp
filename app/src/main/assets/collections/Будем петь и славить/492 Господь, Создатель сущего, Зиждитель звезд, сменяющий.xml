@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="492" name="Господь, Создатель сущего, Зиждитель звезд, сменяющий" canon="false" text="" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Господь, Создатель сущего, Зиждитель звезд, сменяющий</plain>
+        </string>
+        <string>
+            <plain>Полудня светлость ясную полночной тихой дремою,</plain>
+        </string>
+        <string>
+            <plain>Дабы тела усталые вернуть трудам окрепшими,</plain>
+        </string>
+        <string>
+            <plain>Унять ума дерзание, унять души уныние.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молимся Отцу и Сыну, молимся Святому Духу,</plain>
+        </string>
+        <string>
+            <plain>Единству всевладычному. Помилуй верных, Троица!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Помилуй, помилуй, помилуй верных, Троица!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тебе молитва теплая, Тебе напевы стройные.</plain>
+        </string>
+        <string>
+            <plain>К Тебе любовь безгрешная и ум стремится бодрственный,</plain>
+        </string>
+        <string>
+            <plain>Дабы, когда глубокая поглотит мгла сияние,</plain>
+        </string>
+        <string>
+            <plain>Не гасла вера светлая и ночь сияла верою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не дай забыться совести: грех учит нас забвению.</plain>
+        </string>
+        <string>
+            <plain>Для чистых верой строгою дремота растворяется.</plain>
+        </string>
+        <string>
+            <plain>Отринув блудный помысел, Тобой да грезит сердца глубь.</plain>
+        </string>
+        <string>
+            <plain>Да не смутит лукавый враг душевного спокойствия.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь, Создатель сущего, Зиждитель звезд, сменяющий</plain>
+        </string>
+        <string>
+            <plain>Полудня светлость ясную полночной тихой дремою,</plain>
+        </string>
+        <string>
+            <plain>За день сей, ныне гаснущий, за ночь, в наш мир грядущую,</plain>
+        </string>
+        <string>
+            <plain>Пылая благодарностью, поем мы песнь уставную.</plain>
+        </string>
+    </verse>
+</song>

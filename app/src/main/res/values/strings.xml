@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SongApp</string>
+    <string name="verse_title">Куплет</string>
+    <string name="chorus_title">Припев</string>
+    <string name="bridge_title">Мост</string>
+    <string name="times"> (%1$d р.)</string>
+    <string name="font_size_setting_label">Размер шрифта</string>
+    <string name="collections_not_added">Ни одного сборника ещё не добавлено</string>
+    <string name="search_by_full_text">Искать по текстам песен</string>
+    <string name="not_found_songs_in_collection">В сборнике не найдено ни одной песни</string>
+    <string name="not_added_songs_in_collection">В сборник не добавлено ни одной песни</string>
+    <string name="search_bar_placeholder">Название или номер песни</string>
+
+    <string name="settings_button_description">Настройки песни</string>
+    <string name="edit_button_description">Редактировать песню</string>
+</resources>

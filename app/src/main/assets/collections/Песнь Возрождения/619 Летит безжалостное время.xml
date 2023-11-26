@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="619" name="Летит безжалостное время" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Летит безжалостное время,</plain>
+        </string>
+        <string>
+            <plain>Промчались тысячи годов.</plain>
+        </string>
+        <string>
+            <plain>Пройдет и нынешнее племя</plain>
+        </string>
+        <string>
+            <plain>Вослед исчезнувших родов.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так в вечность день за днем стремится,</plain>
+        </string>
+        <string>
+            <plain>Не оставляя нам следа;</plain>
+        </string>
+        <string>
+            <plain>И жизнь на крыльях ветра мчится,</plain>
+        </string>
+        <string>
+            <plain>Придет и наша череда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И наши громкие деянья,</plain>
+        </string>
+        <string>
+            <plain>Труды, заботы, суета</plain>
+        </string>
+        <string>
+            <plain>Скользнут в пучину мирозданья,</plain>
+        </string>
+        <string>
+            <plain>Как неприметная мечта...</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Так вот зачем ты в свет родился</plain>
+        </string>
+        <string>
+            <plain>И столько выдержал скорбей?</plain>
+        </string>
+        <string>
+            <plain>К тому ль твой жадный ум стремился,</plain>
+        </string>
+        <string>
+            <plain>Чтоб стать добычею червей?</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>То жизни счастья призрак ложный</plain>
+        </string>
+        <string>
+            <plain>Всегда кружил тебя во мгле;</plain>
+        </string>
+        <string>
+            <plain>И забываешь, прах ничтожный,</plain>
+        </string>
+        <string>
+            <plain>Что ты - прохожий на земле.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Но есть за гробом жизнь иная,</plain>
+        </string>
+        <string>
+            <plain>Жизнь вечная без счета лет.</plain>
+        </string>
+        <string>
+            <plain>Тебя там участь ждет какая,</plain>
+        </string>
+        <string>
+            <plain>Об этом думал ты иль нет?</plain>
+        </string>
+    </chorus>
+</song>

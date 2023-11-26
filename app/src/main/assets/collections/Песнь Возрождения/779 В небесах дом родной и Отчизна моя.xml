@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="779" name="В небесах дом родной и Отчизна моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В небесах дом родной и Отчизна моя,</plain>
+        </string>
+        <string>
+            <plain>Я стремлюся, друзья, всей душою туда.</plain>
+        </string>
+        <string>
+            <plain>Там Спаситель Христос, ожидая меня,</plain>
+        </string>
+        <string>
+            <plain>Приготовил навеки мне место, любя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В той стране нет скорбей, ни печалей, ни мглы,</plain>
+        </string>
+        <string>
+            <plain>Там мы будем все жить и увидим святых,</plain>
+        </string>
+        <string>
+            <plain>Тех, кто раньше ушел отдыхать в чудный край,</plain>
+        </string>
+        <string>
+            <plain>Кто, страдая, обрел вечный рай, вечный рай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О Господь дорогой, жажду вечно я жить</plain>
+        </string>
+        <string>
+            <plain>В небесах, где покой, и Тебе лишь служить.</plain>
+        </string>
+        <string>
+            <plain>Ты веди Сам меня в чудный город святой,</plain>
+        </string>
+        <string>
+            <plain>Там, где свет вечный мир и покой, и покой.</plain>
+        </string>
+    </verse>
+</song>

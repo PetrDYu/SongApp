@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2865" name="Живу я на святой земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Живу я на святой земле,</plain>
+        </string>
+        <string>
+            <plain>не страшны здесь все бури мне:</plain>
+        </string>
+        <string>
+            <plain>дом мой стоит не на песке</plain>
+        </string>
+        <string>
+            <plain>- дом мой, он на скале.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Надёжно я свой дом</plain>
+        </string>
+        <string>
+            <plain>построил на скале;</plain>
+        </string>
+        <string>
+            <plain>все бури не страшат меня</plain>
+        </string>
+        <string>
+            <plain>- дом мой ведь на скале.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В тяжёлых испытаниях,</plain>
+        </string>
+        <string>
+            <plain>когда мой путь скрывает тьма,</plain>
+        </string>
+        <string>
+            <plain>смогу я всё же устоять</plain>
+        </string>
+        <string>
+            <plain>- дом мой ведь на скале.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда же мне грозит беда</plain>
+        </string>
+        <string>
+            <plain>и падают вокруг дома,</plain>
+        </string>
+        <string>
+            <plain>укрыт я в Боге и тогда</plain>
+        </string>
+        <string>
+            <plain>- дом мой ведь на скале.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда последний час пробьёт,</plain>
+        </string>
+        <string>
+            <plain>меня Иисус к Себе возьмёт</plain>
+        </string>
+        <string>
+            <plain>туда,  где славят все Его</plain>
+        </string>
+        <string>
+            <plain>- дом мой, ведь на скале.</plain>
+        </string>
+    </verse>
+</song>

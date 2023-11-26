@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="556" name="Дорогое обещанье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дорогое обещанье</plain>
+        </string>
+        <string>
+            <plain>Бог нам, странникам, дает:</plain>
+        </string>
+        <string>
+            <plain>"По дороге испытанья</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя вперед!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>"Поведу Я, поведу Я,</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя вперед.</plain>
+        </string>
+        <string>
+            <plain>По дороге испытанья</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя вперед!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В час, когда в огне терзанья</plain>
+        </string>
+        <string>
+            <plain>Сердце друга не найдет,</plain>
+        </string>
+        <string>
+            <plain>Пусть звучит то обещанье:</plain>
+        </string>
+        <string>
+            <plain>"Поведу тебя вперед!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если сердца упованье</plain>
+        </string>
+        <string>
+            <plain>Горечь жизни разобьет,</plain>
+        </string>
+        <string>
+            <plain>Слушай с верой обещанье:</plain>
+        </string>
+        <string>
+            <plain>"Поведу тебя вперед!"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если ночи тень спадает</plain>
+        </string>
+        <string>
+            <plain>И кончины час грядет,</plain>
+        </string>
+        <string>
+            <plain>Слушай, Кормчий твой взывает:</plain>
+        </string>
+        <string>
+            <plain>"Поведу тебя вперед!"</plain>
+        </string>
+    </verse>
+</song>

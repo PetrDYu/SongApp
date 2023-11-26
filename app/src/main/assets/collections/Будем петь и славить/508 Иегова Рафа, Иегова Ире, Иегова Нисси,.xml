@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="508" name="Иегова Рафа, Иегова Ире, Иегова Нисси," canon="false" text="В. Коропа" textRus="" music="В. Коропа" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иегова Рафа, Иегова Ире, Иегова Нисси,</plain>
+        </string>
+        <string>
+            <plain>Саваоф, Адонай, Элохим, Эль Шаддай.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Великий Бог, Бог Израиля,</plain>
+        </string>
+        <string>
+            <plain>Авраама, Исаака и Иакова,</plain>
+        </string>
+        <string>
+            <plain>Великий Бог, Бог Израиля.</plain>
+        </string>
+        <string>
+            <plain>Во Христе открылся нам.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(Иегова Рафа. – в конце)</plain>
+        </string>
+    </verse>
+</song>

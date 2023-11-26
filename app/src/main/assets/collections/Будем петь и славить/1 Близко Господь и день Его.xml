@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1" name="Близко Господь и день Его" canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Близко Господь и день Его.</plain>
+        </string>
+        <string>
+            <plain>Близко Господь, оставьте страх.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Wait for the Lord, whose day is near.</plain>
+        </string>
+        <string>
+            <plain>Wait for the Lord, keep watch, take heart!</plain>
+        </string>
+    </verse>
+</song>

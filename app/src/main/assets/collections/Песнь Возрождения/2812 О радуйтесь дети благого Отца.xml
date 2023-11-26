@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2812" name="О радуйтесь дети благого Отца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, радуйтесь, дети благого Отца!</plain>
+        </string>
+        <string>
+            <plain>Исполнил Писанья Он через Христа:</plain>
+        </string>
+        <string>
+            <plain>в спасение полном Он славу явил</plain>
+        </string>
+        <string>
+            <plain>для всех, кого Он Своей кровью омыл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Снега белее, да, снега белей!</plain>
+        </string>
+        <string>
+            <plain>Слава Спасителю! Снега белей!</plain>
+        </string>
+        <string>
+            <plain>О, чтобы каждому стало ясней:</plain>
+        </string>
+        <string>
+            <plain>кровь омывает нас снега белей!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Взгляни на Иисуса: он умер за нас</plain>
+        </string>
+        <string>
+            <plain>и кровью Своею от смерти нас спас.</plain>
+        </string>
+        <string>
+            <plain>Омоет Он ею тебя дочиста</plain>
+        </string>
+        <string>
+            <plain>и даст освяшенье наследье Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нельзя здесь мамоне и Богу служить</plain>
+        </string>
+        <string>
+            <plain>- святым суждено в Царствии Божьем пребыть.</plain>
+        </string>
+        <string>
+            <plain>Хранить чистоту совершенной любви</plain>
+        </string>
+        <string>
+            <plain>нам в жизни земной, о Господь, помоги.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Прощай же, о мир, я иду за Христом со всеми,</plain>
+        </string>
+        <string>
+            <plain>кто сердцем един с Ним во всем.</plain>
+        </string>
+        <string>
+            <plain>Прекрасна, как солнце, ясна, как луна,</plain>
+        </string>
+        <string>
+            <plain>Христова невеста, что Им создана.</plain>
+        </string>
+    </verse>
+</song>

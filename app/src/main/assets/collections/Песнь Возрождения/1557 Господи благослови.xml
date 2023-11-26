@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1557" name="Господи благослови" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи, благослови</plain>
+        </string>
+        <string>
+            <plain>Сам сей брак в Твоей любви;</plain>
+        </string>
+        <string>
+            <plain>Дай Ты им прожить в Тебе</plain>
+        </string>
+        <string>
+            <plain>В радости, без суеты.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Будь Помощник им во всем,</plain>
+        </string>
+        <string>
+            <plain>Сохраняй их ночью, днём;</plain>
+        </string>
+        <string>
+            <plain>Веру их Ты утверди,</plain>
+        </string>
+        <string>
+            <plain>В славу вечную введи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И в надежде на Тебя</plain>
+        </string>
+        <string>
+            <plain>Дай пройти им путь земной;</plain>
+        </string>
+        <string>
+            <plain>Да хранит Твоя рука</plain>
+        </string>
+        <string>
+            <plain>Жизнь их в истине святой!</plain>
+        </string>
+    </verse>
+</song>

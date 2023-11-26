@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2435" name="Благодарю Тебя Творец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Творец,</plain>
+        </string>
+        <string>
+            <plain>За все обычное, простое,</plain>
+        </string>
+        <string>
+            <plain>3а небо звездное ночное,</plain>
+        </string>
+        <string>
+            <plain>Луны сиянье голубое,</plain>
+        </string>
+        <string>
+            <plain>За плеск волны, за, солнца луч,</plain>
+        </string>
+        <string>
+            <plain>За пены птиц, за гром из туч.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Благодарю за Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Который в жизни наставляет,</plain>
+        </string>
+        <string>
+            <plain>И на колени повергает,</plain>
+        </string>
+        <string>
+            <plain>И горько плакать заставляет</plain>
+        </string>
+        <string>
+            <plain>В смиреньи сердца гордеца,</plain>
+        </string>
+        <string>
+            <plain>И кротких духом ободряет.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>За то, что душу новой песней</plain>
+        </string>
+        <string>
+            <plain>Наполнил в юности моей,</plain>
+        </string>
+        <string>
+            <plain>За то, что в милости Твоей</plain>
+        </string>
+        <string>
+            <plain>Ты бил меня не так уж много.</plain>
+        </string>
+        <string>
+            <plain>И утешал средь всех скорбей.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Благодарю за кровь Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Что за меня с креста текла,</plain>
+        </string>
+        <string>
+            <plain>За возрожденъе к жизни новой,</plain>
+        </string>
+        <string>
+            <plain>За новый путь Христа,</plain>
+        </string>
+        <string>
+            <plain>Который в жизни сей суровой</plain>
+        </string>
+        <string>
+            <plain>К добру ведет меня от зла.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>За все прими благодарены,</plain>
+        </string>
+        <string>
+            <plain>Ведь мне всего не перечесть.</plain>
+        </string>
+        <string>
+            <plain>За все, что было и что есть.</plain>
+        </string>
+        <string>
+            <plain>За все грехи прошу прощенья,</plain>
+        </string>
+        <string>
+            <plain>И приношу Тебе хвалены</plain>
+        </string>
+        <string>
+            <plain>Из уст и сердца славу честь.</plain>
+        </string>
+    </verse>
+</song>

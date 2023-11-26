@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1112" name="Та любовь что Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Та любовь, что, Господь,</plain>
+        </string>
+        <string>
+            <plain>Ты нам подарил.</plain>
+        </string>
+        <string>
+            <plain>Озаряет наши сердца, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И когда мы дарим её другим.</plain>
+        </string>
+        <string>
+            <plain>То нашей радости нет конца!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Эту любовь дает Господь,</plain>
+        </string>
+        <string>
+            <plain>Чтобы светом озарен был шар земной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Эту любовь мы раздаем.</plain>
+        </string>
+        <string>
+            <plain>Чтобы радость, мир и счастье</plain>
+        </string>
+        <string>
+            <plain>Правили миром всегда.</plain>
+        </string>
+    </verse>
+</song>

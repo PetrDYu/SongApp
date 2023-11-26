@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1382" name="Вот полночь над горой маслин" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот полночь... над горой маслин</plain>
+        </string>
+        <string>
+            <plain>Звезда померкла в небесах.</plain>
+        </string>
+        <string>
+            <plain>Вот полночь... и в саду один</plain>
+        </string>
+        <string>
+            <plain>Спаситель молится в слезах.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот полночь... Он уединен.</plain>
+        </string>
+        <string>
+            <plain>Он борется со тьмой врагов;</plain>
+        </string>
+        <string>
+            <plain>И не тревожит тяжкий стон</plain>
+        </string>
+        <string>
+            <plain>Любимых Им учеников.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот полночь... За вину других</plain>
+        </string>
+        <string>
+            <plain>Рыдает горько Муж скорбей.</plain>
+        </string>
+        <string>
+            <plain>Но, преклонен средь мук людских,</plain>
+        </string>
+        <string>
+            <plain>Он не забыт Отцом людей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В ту полночь в небе гимн звучал,</plain>
+        </string>
+        <string>
+            <plain>Что знают ангелы одни;</plain>
+        </string>
+        <string>
+            <plain>Но мир тех звуков не слыхал;</plain>
+        </string>
+        <string>
+            <plain>Его утешили они...</plain>
+        </string>
+    </verse>
+</song>

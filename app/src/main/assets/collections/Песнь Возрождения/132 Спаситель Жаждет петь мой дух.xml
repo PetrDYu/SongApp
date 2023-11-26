@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="132" name="Спаситель Жаждет петь мой дух" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель! Жаждет петь мой дух</plain>
+        </string>
+        <string>
+            <plain>Хвалу Твоих заслуг. Хвалу Твоих заслуг.</plain>
+        </string>
+        <string>
+            <plain>Хочу я петь, мольбу творя,</plain>
+        </string>
+        <string>
+            <plain>Победу сил Царя. Победу сил Царя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, помоги мне возвестить</plain>
+        </string>
+        <string>
+            <plain>Об имени Твоем. Об имени Твоем.</plain>
+        </string>
+        <string>
+            <plain>И весть Твою распространить</plain>
+        </string>
+        <string>
+            <plain>Среди людей кругом. Среди людей кругом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисуса имя гонит страх,</plain>
+        </string>
+        <string>
+            <plain>Творит из плача пир. Творит из плача пир.</plain>
+        </string>
+        <string>
+            <plain>Как сладкий звон, звучит в сердцах,</plain>
+        </string>
+        <string>
+            <plain>Несет нам радость, мир. Несет нам радость, мир.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты сокрушаешь власть грехов,</plain>
+        </string>
+        <string>
+            <plain>Спасаешь от оков. Спасаешь от оков.</plain>
+        </string>
+        <string>
+            <plain>И кровь Твоя, Господь, струей</plain>
+        </string>
+        <string>
+            <plain>Смывает грех людской. Смывает грех людской.</plain>
+        </string>
+    </verse>
+</song>

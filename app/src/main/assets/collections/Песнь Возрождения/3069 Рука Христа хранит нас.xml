@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3069" name="Рука Христа хранит нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Рука Христа хранит нас.</plain>
+        </string>
+        <string>
+            <plain>Я не страшусь,</plain>
+        </string>
+        <string>
+            <plain>Ему я доверяюсь,</plain>
+        </string>
+        <string>
+            <plain>свет мой - Иисус.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Его рука всесильна,</plain>
+        </string>
+        <string>
+            <plain>я не страшусь.</plain>
+        </string>
+        <string>
+            <plain>Покой и мир даёт</plain>
+        </string>
+        <string>
+            <plain>мне свет мой - Иисус.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Рука Христа хранит</plain>
+        </string>
+        <string>
+            <plain>нас - хвала Ему!</plain>
+        </string>
+        <string>
+            <plain>Он - врач мой и Спаситель,</plain>
+        </string>
+        <string>
+            <plain>за Ним иду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Рука Христа хранит</plain>
+        </string>
+        <string>
+            <plain>нас в беде, в нужде.</plain>
+        </string>
+        <string>
+            <plain>Он благодать до</plain>
+        </string>
+        <string>
+            <plain>смерти дарует мне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Рука Христа всесильна.</plain>
+        </string>
+        <string>
+            <plain>Я не страшусь,</plain>
+        </string>
+        <string>
+            <plain>я в Нём сокрыт</plain>
+        </string>
+        <string>
+            <plain>надёжно, не убоюсь.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Рука Христа хранит нас.</plain>
+        </string>
+        <string>
+            <plain>Твёрдо в вере я,</plain>
+        </string>
+        <string>
+            <plain>Он никогда не бросит</plain>
+        </string>
+        <string>
+            <plain>в беде меня.</plain>
+        </string>
+    </verse>
+</song>

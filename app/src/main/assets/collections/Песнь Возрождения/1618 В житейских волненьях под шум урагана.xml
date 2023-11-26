@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1618" name="В житейских волненьях под шум урагана" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В житейских волненьях, под шум урагана,</plain>
+        </string>
+        <string>
+            <plain>Тернистой тропой простираюсь вперёд</plain>
+        </string>
+        <string>
+            <plain>К небесной Отчизне, к полям Ханаана,</plain>
+        </string>
+        <string>
+            <plain>Где дух мой усталый покой обретёт.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>По мрачным ущельям, по горной тропинке</plain>
+        </string>
+        <string>
+            <plain>Проходит тернистый мой путь к небесам.</plain>
+        </string>
+        <string>
+            <plain>Все ближе и ближе небесные дали.</plain>
+        </string>
+        <string>
+            <plain>Всё ближе и ближе земля Ханаан.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мне острые камни изранили ноги.</plain>
+        </string>
+        <string>
+            <plain>Колючки щипов оцарапали грудь.</plain>
+        </string>
+        <string>
+            <plain>Одежда моя обветшала в дороге.</plain>
+        </string>
+        <string>
+            <plain>Уж скоро окончится скорбный мой путь.</plain>
+        </string>
+    </verse>
+</song>

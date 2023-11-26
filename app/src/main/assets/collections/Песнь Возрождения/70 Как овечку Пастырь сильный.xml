@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="70" name="Как овечку Пастырь сильный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как овечку, Пастырь сильный,</plain>
+        </string>
+        <string>
+            <plain>Ты веди меня вперед;</plain>
+        </string>
+        <string>
+            <plain>Пажити Твои обильны,</plain>
+        </string>
+        <string>
+            <plain>Голос Твой к водам зовет.</plain>
+        </string>
+        <string>
+            <plain>О Иисус мой! О Иисус мой!</plain>
+        </string>
+        <string>
+            <plain>За меня Ты кровь пролил.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>На земле Ты будь мне Другом,</plain>
+        </string>
+        <string>
+            <plain>Агнцев в мире охраняй;</plain>
+        </string>
+        <string>
+            <plain>Нас веди небесным лугом,</plain>
+        </string>
+        <string>
+            <plain>А заблудших выручай.</plain>
+        </string>
+        <string>
+            <plain>О Иисус мой! О Иисус мой!</plain>
+        </string>
+        <string>
+            <plain>Ты грехи мои понес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, исполни обещанье:</plain>
+        </string>
+        <string>
+            <plain>Дай Свою мне благодать!</plain>
+        </string>
+        <string>
+            <plain>После долгого скитанья</plain>
+        </string>
+        <string>
+            <plain>Поспеши меня принять.</plain>
+        </string>
+        <string>
+            <plain>О Иисус мой! О Иисус мой!</plain>
+        </string>
+        <string>
+            <plain>Приближай меня к Себе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сделай сердце мне способным</plain>
+        </string>
+        <string>
+            <plain>Вечный Твой завет любить.</plain>
+        </string>
+        <string>
+            <plain>Дай любовь ко мне подобным,</plain>
+        </string>
+        <string>
+            <plain>Научи любовью жить.</plain>
+        </string>
+        <string>
+            <plain>О Иисус мой! О Иисус мой!</plain>
+        </string>
+        <string>
+            <plain>До могилы будь со мной!</plain>
+        </string>
+    </verse>
+</song>

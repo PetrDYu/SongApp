@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="13" name="Даруй, о Господи, мир Твой всем тем, кто верит в Тебя" canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Даруй, о Господи, мир Твой всем тем, кто верит в Тебя.</plain>
+        </string>
+        <string>
+            <plain>Даруй, даруй, о Господи, мир Твой, даруй нам мир Твой.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Dona la pace, Signore, a chi confida in te.</plain>
+        </string>
+        <string>
+            <plain>Dona, dona la pace, Signore, dona la pace.</plain>
+        </string>
+    </verse>
+</song>

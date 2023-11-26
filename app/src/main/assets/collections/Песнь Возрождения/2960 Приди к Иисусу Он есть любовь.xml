@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2960" name="Приди к Иисусу Он есть любовь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди к Иисусу - Он есть любовь!</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему Он пролил Свою кровь.</plain>
+        </string>
+        <string>
+            <plain>Ныне тебя Он может спасти,</plain>
+        </string>
+        <string>
+            <plain>в сердце с любовью стучит: «Впусти!»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди же к Нему! Тебя Он зовет</plain>
+        </string>
+        <string>
+            <plain>и все согрешенья твои возьмет.</plain>
+        </string>
+        <string>
+            <plain>Горе, печали забудешь ты,</plain>
+        </string>
+        <string>
+            <plain>будешь блажен ты с Ним в вечности!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Приди к Иисусу! Вот плачет Он.</plain>
+        </string>
+        <string>
+            <plain>Знай: ты коварным врагом обольщен!</plain>
+        </string>
+        <string>
+            <plain>Долго Иисус идет за тобой,</plain>
+        </string>
+        <string>
+            <plain>в небо тебя хочет взять с Собой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди к Иисусу! Ныне Он ждет.</plain>
+        </string>
+        <string>
+            <plain>Завтра, быть может, Он сам уж придет!</plain>
+        </string>
+        <string>
+            <plain>Неизмерима милость Его,</plain>
+        </string>
+        <string>
+            <plain>данная для блага твоего.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Приди к Иисусу! Он на кресте</plain>
+        </string>
+        <string>
+            <plain>умер, чтоб было спасенье тебе.</plain>
+        </string>
+        <string>
+            <plain>Сколько ж ты будешь против идти?</plain>
+        </string>
+        <string>
+            <plain>Хочешь навечно погибнуть ты?</plain>
+        </string>
+    </verse>
+</song>

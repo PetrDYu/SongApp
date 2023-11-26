@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2653" name="Слыша просьбы Слыша зов" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слыша просьбы, Слыша зов,</plain>
+        </string>
+        <string>
+            <plain>Чувствуя нужду души,</plain>
+        </string>
+        <string>
+            <plain>Друг мой, под Отцовский кров</plain>
+        </string>
+        <string>
+            <plain>Возвратиться поспеши!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Почему не спешишь к</plain>
+        </string>
+        <string>
+            <plain>Искупителю сейчас?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тяжело душе твоей,</plain>
+        </string>
+        <string>
+            <plain>Не теряй напрасно дней.</plain>
+        </string>
+        <string>
+            <plain>Перестань во тьме блуждать,</plain>
+        </string>
+        <string>
+            <plain>Бог дает нам благодать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире тщетно ты искал</plain>
+        </string>
+        <string>
+            <plain>Мира грешному уму.</plain>
+        </string>
+        <string>
+            <plain>Ко Христу приди, Он даст</plain>
+        </string>
+        <string>
+            <plain>Радость сердцу твоему.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все открой перед Христом</plain>
+        </string>
+        <string>
+            <plain>И прощения дар прими.</plain>
+        </string>
+        <string>
+            <plain>Будет Он твоим Вождем.</plain>
+        </string>
+        <string>
+            <plain>Верь и будь с Его детьми.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2718" name="Взглянь Спаситель на рыданья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Взглянь, Спаситель, на рыданья,</plain>
+        </string>
+        <string>
+            <plain>Видишь, скорбно, горько жить.</plain>
+        </string>
+        <string>
+            <plain>Дай забыть мне все страданья,</plain>
+        </string>
+        <string>
+            <plain>Помоги Тебя любить.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Видишь, слабнут мои крылья,</plain>
+        </string>
+        <string>
+            <plain>Застилает все туман.</plain>
+        </string>
+        <string>
+            <plain>Надорвалась моя сила,</plain>
+        </string>
+        <string>
+            <plain>Воет ветер, ураган.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб стихло шумно море,</plain>
+        </string>
+        <string>
+            <plain>И чтоб ветер перестал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб зажглися в небе зори,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Тебя я прославлял.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Взглянь, Спаситель, на страданья,</plain>
+        </string>
+        <string>
+            <plain>Помоги Тебя любить.</plain>
+        </string>
+        <string>
+            <plain>Песней все смени рыданья,</plain>
+        </string>
+        <string>
+            <plain>Для Тебя дай только жить.</plain>
+        </string>
+    </verse>
+</song>

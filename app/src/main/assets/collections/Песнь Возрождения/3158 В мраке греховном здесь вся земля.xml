@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3158" name="В мраке греховном здесь вся земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В мраке греховном здесь вся земля,</plain>
+        </string>
+        <string>
+            <plain>где Ты, Господь, поставил меня.</plain>
+        </string>
+        <string>
+            <plain>Слово Твоё мне свет на пути,</plain>
+        </string>
+        <string>
+            <plain>сильной рукою меня Ты веди!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты веди, Господь, меня!</plain>
+        </string>
+        <string>
+            <plain>Ты ведёшь, Господь, меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердца надежда, сила души,</plain>
+        </string>
+        <string>
+            <plain>шаг мой направь, от зла сохрани!</plain>
+        </string>
+        <string>
+            <plain>Солнце и щит, с Тобой нет нужды,</plain>
+        </string>
+        <string>
+            <plain>сильной рукою меня Ты веди!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бурю уйми и путь мне открой,</plain>
+        </string>
+        <string>
+            <plain>Ты день за днём и в борьбе будь со мной!</plain>
+        </string>
+        <string>
+            <plain>Верным мне быть во всём помоги,</plain>
+        </string>
+        <string>
+            <plain>твёрдой рукою меня Ты веди!</plain>
+        </string>
+    </verse>
+</song>

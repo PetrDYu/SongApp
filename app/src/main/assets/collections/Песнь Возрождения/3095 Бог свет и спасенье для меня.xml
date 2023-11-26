@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3095" name="Бог свет и спасенье для меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог - свет и спасенье для меня</plain>
+        </string>
+        <string>
+            <plain>- кого должен я бояться?</plain>
+        </string>
+        <string>
+            <plain>Господь - моя крепость, жизнь моя:</plain>
+        </string>
+        <string>
+            <plain>Хочу Ему доверяться.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я не страшусь, мой свет - Иисус,</plain>
+        </string>
+        <string>
+            <plain>нужды ни в чем с ним нет;</plain>
+        </string>
+        <string>
+            <plain>коль Он со мной, я рад душой:</plain>
+        </string>
+        <string>
+            <plain>спасенье Он и свет</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кого же страшиться должен я,</plain>
+        </string>
+        <string>
+            <plain>когда Бог мне дал спасенье?</plain>
+        </string>
+        <string>
+            <plain>С избытком Он жизнь дал для меня</plain>
+        </string>
+        <string>
+            <plain>и сердцу дал обновленье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ведь Бог есть спасение мое</plain>
+        </string>
+        <string>
+            <plain>- ликует душа от счастья.</plain>
+        </string>
+        <string>
+            <plain>Хочу для Него исполнить все</plain>
+        </string>
+        <string>
+            <plain>в дни радости и ненастья.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На Господа уповаю я</plain>
+        </string>
+        <string>
+            <plain>и славлю Его за Слово.</plain>
+        </string>
+        <string>
+            <plain>Коль буду любить Его всегда,</plain>
+        </string>
+        <string>
+            <plain>лицо я узрю Христово.</plain>
+        </string>
+    </verse>
+</song>

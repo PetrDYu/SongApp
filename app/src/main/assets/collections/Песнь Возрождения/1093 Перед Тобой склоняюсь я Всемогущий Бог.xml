@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1093" name="Перед Тобой склоняюсь я Всемогущий Бог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Перед Тобой склоняюсь я, Всемогущий Бог!</plain>
+        </string>
+        <string>
+            <plain>Источник утешения я нашел у Твоих ног!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О, Ты велик! Нет Тебе подобного.</plain>
+        </string>
+        <string>
+            <plain>Перед Тобой склоняюсь я.</plain>
+        </string>
+        <string>
+            <plain>Ты - любовь моя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты дивный! О, Отец, Ты дивный!</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь безмерна, о, Отец,</plain>
+        </string>
+        <string>
+            <plain>Ты дивный!</plain>
+        </string>
+        <string>
+            <plain>Ты любишь нас такими, как мы есть.</plain>
+        </string>
+        <string>
+            <plain>И песнь звучит в сердцах у нас:</plain>
+        </string>
+        <string>
+            <plain>Ты дивный!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="385" name="Я спасен Грехи мне прощены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я спасен! Грехи мне прощены.</plain>
+        </string>
+        <string>
+            <plain>Мой Христос! Я к небесам иду.</plain>
+        </string>
+        <string>
+            <plain>Был рабом греха и суеты,</plain>
+        </string>
+        <string>
+            <plain>А теперь я стал своим Христу.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я спасен! Христос мне все во всем.</plain>
+        </string>
+        <string>
+            <plain>Я спасен! Мои все блага в Нем.</plain>
+        </string>
+        <string>
+            <plain>Он для меня сходил с небес,</plain>
+        </string>
+        <string>
+            <plain>Страдал, и умер, и воскрес,</plain>
+        </string>
+        <string>
+            <plain>И ныне я навек спасен,</plain>
+        </string>
+        <string>
+            <plain>Спасен Христом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я спасен любовью неземной.</plain>
+        </string>
+        <string>
+            <plain>Благодать Свою явил Он мне.</plain>
+        </string>
+        <string>
+            <plain>За меня Он плакал в тишине,</plain>
+        </string>
+        <string>
+            <plain>За меня был жертвою живой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я спасен! Покой в Нем нахожу.</plain>
+        </string>
+        <string>
+            <plain>Жизнь моя сокрыта во Христе.</plain>
+        </string>
+        <string>
+            <plain>Помнит Он меня всегда, везде.</plain>
+        </string>
+        <string>
+            <plain>С Ним живу, Ему принадлежу.</plain>
+        </string>
+    </verse>
+</song>

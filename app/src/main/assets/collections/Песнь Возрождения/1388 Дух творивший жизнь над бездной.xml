@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1388" name="Дух творивший жизнь над бездной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дух, творивший жизнь над бездной</plain>
+        </string>
+        <string>
+            <plain>До начала всяких дней;</plain>
+        </string>
+        <string>
+            <plain>Дух, создавший мир надзвездный,</plain>
+        </string>
+        <string>
+            <plain>Ширь земли и глубь морей!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, внемли мольбе и вере.</plain>
+        </string>
+        <string>
+            <plain>О, излейся в полной мере</plain>
+        </string>
+        <string>
+            <plain>На Своих детей!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух, воздвигший Моисея</plain>
+        </string>
+        <string>
+            <plain>И пророкам давший речь,</plain>
+        </string>
+        <string>
+            <plain>Помоги нам, правду сея,</plain>
+        </string>
+        <string>
+            <plain>Гордый мир к Тебе привлечь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизни Дух! От уз могильных</plain>
+        </string>
+        <string>
+            <plain>Мертвецов Ты воскрешай;</plain>
+        </string>
+        <string>
+            <plain>Силы Дух! из слабых в сильных</plain>
+        </string>
+        <string>
+            <plain>Слуг Своих преображай!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В ветхой жизни и греховной</plain>
+        </string>
+        <string>
+            <plain>Новую Ты жизнь создай:</plain>
+        </string>
+        <string>
+            <plain>В нас воздвигни трон духовный;</plain>
+        </string>
+        <string>
+            <plain>Голос плоти угашай!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Дух немеркнущей святыни!</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, приди с небес!</plain>
+        </string>
+        <string>
+            <plain>Сотвори, чтоб дух гордыни,</plain>
+        </string>
+        <string>
+            <plain>Дух сомненья в нас исчез!</plain>
+        </string>
+    </verse>
+</song>

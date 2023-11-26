@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="673" name="Уж слышу я шум как бы множества вод" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж слышу я шум как бы множества вод</plain>
+        </string>
+        <string>
+            <plain>И стон ожидания мира.</plain>
+        </string>
+        <string>
+            <plain>Готовься, невеста! Жених твой идет</plain>
+        </string>
+        <string>
+            <plain>И близок час брачного пира!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гряди, мой Спаситель, отрада очей!</plain>
+        </string>
+        <string>
+            <plain>Готова войти я в обитель;</plain>
+        </string>
+        <string>
+            <plain>Омыта в пречистой крови я Твоей,</plain>
+        </string>
+        <string>
+            <plain>О Боже, мой Царь, мой Спаситель!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Забудь все, чем мир твое сердце мутил,</plain>
+        </string>
+        <string>
+            <plain>Все слезы, печаль, ожиданья</plain>
+        </string>
+        <string>
+            <plain>И вспомни, как Бог твой тебя возлюбил,</plain>
+        </string>
+        <string>
+            <plain>Какие понес Он страданья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Люби, как один Он любить тебя мог,</plain>
+        </string>
+        <string>
+            <plain>Страдай, на Иисуса взирая;</plain>
+        </string>
+        <string>
+            <plain>Прощай, как Спаситель твой дивный и Бог</plain>
+        </string>
+        <string>
+            <plain>Простил, за тебя умирая.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О верь, как поверил любви Он твоей,</plain>
+        </string>
+        <string>
+            <plain>О верь, что Он любит безмерно;</plain>
+        </string>
+        <string>
+            <plain>Что выше и глубже всех гор и морей</plain>
+        </string>
+        <string>
+            <plain>Любовь Его вечна и верна!</plain>
+        </string>
+    </verse>
+</song>

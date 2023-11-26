@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3066" name="Я не молю чтоб жизнь моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я не молю, чтоб жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>безоблачной была,</plain>
+        </string>
+        <string>
+            <plain>но чтоб чрез жизни океан</plain>
+        </string>
+        <string>
+            <plain>Христос провёл меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я не молю, чтоб на пути</plain>
+        </string>
+        <string>
+            <plain>моём цвели цветы,</plain>
+        </string>
+        <string>
+            <plain>но чтоб Христос не дал</plain>
+        </string>
+        <string>
+            <plain>сойти мне с узкого пути.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Коль поведёшь Своей рукой</plain>
+        </string>
+        <string>
+            <plain>и шаг направишь мой,</plain>
+        </string>
+        <string>
+            <plain>Спаситель мой, я всё приму</plain>
+        </string>
+        <string>
+            <plain>из рук Твоих с хвалой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Твой крест я с радостью несу.</plain>
+        </string>
+        <string>
+            <plain>Когда ж придёт конец,</plain>
+        </string>
+        <string>
+            <plain>в награду даст Спаситель</plain>
+        </string>
+        <string>
+            <plain>мне из золота венец.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Проходит всё здесь на земле,</plain>
+        </string>
+        <string>
+            <plain>хоть радость, хоть беда.</plain>
+        </string>
+        <string>
+            <plain>Тогда с Тобой на небесах</plain>
+        </string>
+        <string>
+            <plain>пребуду вечно я.</plain>
+        </string>
+    </verse>
+</song>

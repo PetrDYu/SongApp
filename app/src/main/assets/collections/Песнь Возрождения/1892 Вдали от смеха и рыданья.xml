@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1892" name="Вдали от смеха и рыданья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вдали от смеха и рыданья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+        <string>
+            <plain>Вдали от сонных грех, вставанья.</plain>
+        </string>
+        <string>
+            <plain>От сеянья и ожиданья-</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мир, радость, дом:</plain>
+        </string>
+        <string>
+            <plain>Мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Не медли, но гряди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вдали рассвета, увещанья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+        <string>
+            <plain>Вдали от тени и мерцанья,</plain>
+        </string>
+        <string>
+            <plain>Вдали надежд и отчаянья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вдали восхода и затменья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+        <string>
+            <plain>Вдали от бури и волненья,</plain>
+        </string>
+        <string>
+            <plain>Вдали дум памятных, забвенья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вдали от дрожи, боли в членах -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+        <string>
+            <plain>Вдали от рек и скал бесценных,</plain>
+        </string>
+        <string>
+            <plain>Вещей и временных, и тленных -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Вдали разлуки и свиданья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+        <string>
+            <plain>Вдали приветствий и прощанья,</plain>
+        </string>
+        <string>
+            <plain>И жгучих дум, и трепетанья -</plain>
+        </string>
+        <string>
+            <plain>Скоро буду!</plain>
+        </string>
+    </verse>
+</song>

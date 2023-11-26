@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="311" name="Адонай, Ты Пастырь добрый мой" canon="false" text="" textRus="М. Винецкой" music="сестры Рахэль" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Адонай, Ты Пастырь добрый мой.</plain>
+        </string>
+        <string>
+            <plain>Рядом с Тобою я нуждаться не буду ни в чем:</plain>
+        </string>
+        <string>
+            <plain>В злачных лугах Твоих я нахожу покой,</plain>
+        </string>
+        <string>
+            <plain>Тихие воды Твои исцеляют меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Адонай.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Адонай, Ты Пастырь добрый мой.</plain>
+        </string>
+        <string>
+            <plain>Ты открываешь мне правду путей Твоих.</plain>
+        </string>
+        <string>
+            <plain>Если пойду долиной смертной тени я,</plain>
+        </string>
+        <string>
+            <plain>Не испугаюсь – посох Твой успокоит меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Адонай, Ты Пастырь добрый мой.</plain>
+        </string>
+        <string>
+            <plain>Ты приготовил мне трапезу средь невзгод,</plain>
+        </string>
+        <string>
+            <plain>Голову умастил, в сердце пролил елей.</plain>
+        </string>
+        <string>
+            <plain>Чаша в руке моей полна – в ней любовь Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Адонай, Ты Пастырь добрый мой.</plain>
+        </string>
+        <string>
+            <plain>Благость и милость Твоя будут вечно со мной.</plain>
+        </string>
+        <string>
+            <plain>День во дворах Твоих лучше, чем сотни лет.</plain>
+        </string>
+        <string>
+            <plain>О, как я жажду пребывать в Твоем доме вовек!</plain>
+        </string>
+    </verse>
+</song>

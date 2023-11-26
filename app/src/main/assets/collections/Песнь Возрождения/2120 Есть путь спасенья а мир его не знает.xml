@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2120" name="Есть путь спасенья а мир его не знает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть путь спасенья, а мир его не знает,</plain>
+        </string>
+        <string>
+            <plain>Есть путь спасения от гибели в грехах,</plain>
+        </string>
+        <string>
+            <plain>Всех ко спасенью Спаситель призывает,</plain>
+        </string>
+        <string>
+            <plain>Для всех есть место в блаженных небесах.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мои друзья и знакомые, родные</plain>
+        </string>
+        <string>
+            <plain>И все другие участники в грехе</plain>
+        </string>
+        <string>
+            <plain>Меня отвергли, когда они узнали,</plain>
+        </string>
+        <string>
+            <plain>Что Иисусу отдался я вполне.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Путь этот узкий, путь скорби и страданья</plain>
+        </string>
+        <string>
+            <plain>Меня в обитель Спасителя введет.</plain>
+        </string>
+        <string>
+            <plain>И что за радость в минуту восхищенья,</plain>
+        </string>
+        <string>
+            <plain>Когда Спаситель на облаках грядет!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2730" name="Над землею ночь нависла" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Над землею ночь нависла</plain>
+        </string>
+        <string>
+            <plain>Россыпью кристальных звезд.</plain>
+        </string>
+        <string>
+            <plain>Срок настал, сошлись все числа:</plain>
+        </string>
+        <string>
+            <plain>В мир пришел Господь Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Это чудо воплощенья</plain>
+        </string>
+        <string>
+            <plain>Вечной сути бытия,</plain>
+        </string>
+        <string>
+            <plain>Это радость всепрощенья</plain>
+        </string>
+        <string>
+            <plain>Облетела все края.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И узнали все народы,</plain>
+        </string>
+        <string>
+            <plain>Что селены Вифлеем</plain>
+        </string>
+        <string>
+            <plain>Колыбель из рода в роды</plain>
+        </string>
+        <string>
+            <plain>Новой заповеди всем.</plain>
+        </string>
+    </verse>
+</song>

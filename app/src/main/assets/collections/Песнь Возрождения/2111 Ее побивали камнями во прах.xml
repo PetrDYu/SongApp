@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2111" name="Ее побивали камнями во прах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ее побивали камнями во прах,</plain>
+        </string>
+        <string>
+            <plain>Ее на кресте распинали,</plain>
+        </string>
+        <string>
+            <plain>в темницах томили и жгли на кострах,</plain>
+        </string>
+        <string>
+            <plain>и львам на съедены бросали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И в тайные щели, как день золотой,</plain>
+        </string>
+        <string>
+            <plain>как воздух, она проникала.</plain>
+        </string>
+        <string>
+            <plain>Ей дана великое имя - Любовь,</plain>
+        </string>
+        <string>
+            <plain>Она ко Христу нас призвала.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>То пошлость, то глупость людская стеной</plain>
+        </string>
+        <string>
+            <plain>Повсюду Ей путь преграждала,</plain>
+        </string>
+        <string>
+            <plain>но в тайные щели, как день золотой,</plain>
+        </string>
+        <string>
+            <plain>как воздух Она проникала.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Из мрака неволи, из пепла костров,</plain>
+        </string>
+        <string>
+            <plain>сильна и прекрасна вставала,</plain>
+        </string>
+        <string>
+            <plain>и ржавые цепи срывала с рабов,</plain>
+        </string>
+        <string>
+            <plain>и спящих от сна пробуждала.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И путь на Голгофу во мраке мирском,</plain>
+        </string>
+        <string>
+            <plain>Она пред людьми озаряла,</plain>
+        </string>
+        <string>
+            <plain>и в сердце порочном,</plain>
+        </string>
+        <string>
+            <plain>холодном людском счастливую жизнь создавала.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>За правду святую нетленный венец</plain>
+        </string>
+        <string>
+            <plain>в подвалах, дворцах предлагала.</plain>
+        </string>
+        <string>
+            <plain>И раны разбитых и черствых сердец</plain>
+        </string>
+        <string>
+            <plain>дыханьем Своим врачевала.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>О если б на миг Ты оставила нас,</plain>
+        </string>
+        <string>
+            <plain>холодных, жестоких, презренных,</plain>
+        </string>
+        <string>
+            <plain>- исчезла бы радость и свет бы угас</plain>
+        </string>
+        <string>
+            <plain>в сердцах наших злых и надменных.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="24" name="О Боже милостивый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Боже милостивый!</plain>
+        </string>
+        <string>
+            <plain>Благослови Ты нас,</plain>
+        </string>
+        <string>
+            <plain>Чтоб крепнули порывы</plain>
+        </string>
+        <string>
+            <plain>К добру во всякий час.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О Боже! Вечным светом</plain>
+        </string>
+        <string>
+            <plain>Ты всех нас осени;</plain>
+        </string>
+        <string>
+            <plain>Когда даем обеты,</plain>
+        </string>
+        <string>
+            <plain>Ты к нам главу склони.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Веди Ты нас путями</plain>
+        </string>
+        <string>
+            <plain>Разумного труда!</plain>
+        </string>
+        <string>
+            <plain>Пребудь Ты Духом с нами</plain>
+        </string>
+        <string>
+            <plain>И ныне, и всегда.</plain>
+        </string>
+    </verse>
+</song>

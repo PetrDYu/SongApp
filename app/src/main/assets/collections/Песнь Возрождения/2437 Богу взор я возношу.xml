@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2437" name="Богу взор я возношу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Богу взор я возношу,</plain>
+        </string>
+        <string>
+            <plain>И Тебя, Господь, прошу:</plain>
+        </string>
+        <string>
+            <plain>Будь со мной, как верный Друг,</plain>
+        </string>
+        <string>
+            <plain>Пусть хоть свет, хоть тьма вокруг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Рядом с Тобой идти</plain>
+        </string>
+        <string>
+            <plain>- Цель лишь одна.</plain>
+        </string>
+        <string>
+            <plain>Чашу Твою испить</plain>
+        </string>
+        <string>
+            <plain>Пусть хоть до дна.</plain>
+        </string>
+        <string>
+            <plain>Радость Тебе дарить,</plain>
+        </string>
+        <string>
+            <plain>За все благодарить</plain>
+        </string>
+        <string>
+            <plain>Буду я всегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь моя в Твоих руках,</plain>
+        </string>
+        <string>
+            <plain>Хоть я пред Тобой не прав,</plain>
+        </string>
+        <string>
+            <plain>Господи, Твоя любовь</plain>
+        </string>
+        <string>
+            <plain>Греет сердце вновь и вновь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>День за днем идут года,</plain>
+        </string>
+        <string>
+            <plain>Как с вершины гор вода,</plain>
+        </string>
+        <string>
+            <plain>Так и мы к концу идем,</plain>
+        </string>
+        <string>
+            <plain>Где же вечность мы найдем.</plain>
+        </string>
+    </verse>
+</song>

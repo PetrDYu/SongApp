@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="981" name="Отчего ты скажи головою поник" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отчего ты, скажи, головою поник</plain>
+        </string>
+        <string>
+            <plain>И глаза опустил, и печален твой лик?</plain>
+        </string>
+        <string>
+            <plain>Посмотри на цветы! Разве грустны они?</plain>
+        </string>
+        <string>
+            <plain>Разве плачут весною в саду соловьи?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Посмотри ты на лес, как он убран стоит</plain>
+        </string>
+        <string>
+            <plain>И приветливо в ясное небо глядит.</plain>
+        </string>
+        <string>
+            <plain>Посмотри, оглянись - все в природе цветет.</plain>
+        </string>
+        <string>
+            <plain>Прославляет Творца, песнь хваленья поет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Отчего ты, скажи, невеселый такой:</plain>
+        </string>
+        <string>
+            <plain>То вздохнешь тяжело, то заплачешь порой?</plain>
+        </string>
+        <string>
+            <plain>Расскажи же Творцу, что тебя так гнетет,</plain>
+        </string>
+        <string>
+            <plain>И Он радость скорбящему сердцу пошлет.</plain>
+        </string>
+        <string>
+            <plain>И тогда для тебя будет мило кругом,</plain>
+        </string>
+        <string>
+            <plain>И забудешь тогда ты о горе своем.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1" name="Слушайте повесть любви в простоте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слушайте повесть любви в простоте,</plain>
+        </string>
+        <string>
+            <plain>Слушайте дивный рассказ;</plain>
+        </string>
+        <string>
+            <plain>Бог нас навеки простил во Христе,</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог нас от гибели спас!</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас!</plain>
+        </string>
+        <string>
+            <plain>Да! Бог нас навеки простил во Христе,</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если неправда потерянных дней</plain>
+        </string>
+        <string>
+            <plain>Мучит вас в тягостный час,</plain>
+        </string>
+        <string>
+            <plain>Верьте всем сердцем и верою всей:</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если под мраком житейских скорбей</plain>
+        </string>
+        <string>
+            <plain>Пламень надежды погас,</plain>
+        </string>
+        <string>
+            <plain>Вспомните только хоть мыслью своей:</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если при виде соблазнов земных</plain>
+        </string>
+        <string>
+            <plain>Слабый смущается глаз</plain>
+        </string>
+        <string>
+            <plain>Слово да слышится в чувствах простых:</plain>
+        </string>
+        <string>
+            <plain>Бог нас от гибели спас.</plain>
+        </string>
+    </verse>
+</song>

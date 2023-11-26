@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1415" name="Если ты в пути помни Я с тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если ты в пути, помни: Я с тобой.</plain>
+        </string>
+        <string>
+            <plain>Помогу тебе Я Своей рукой,</plain>
+        </string>
+        <string>
+            <plain>Если ты в скорбях, и уныл твой дух,</plain>
+        </string>
+        <string>
+            <plain>И на сердце грусть, и в глазах испуг,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Помни, Я с тобой, Иисус, твой Друг,</plain>
+        </string>
+        <string>
+            <plain>Дам тебе покой, исцелю недуг.</plain>
+        </string>
+        <string>
+            <plain>Если ты в нужде, приходи ко Мне,</plain>
+        </string>
+        <string>
+            <plain>Я готов всегда помогать тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если иногда враг смутит твой дух.</plain>
+        </string>
+        <string>
+            <plain>Помни, Я всегда твой надежный Друг.</plain>
+        </string>
+        <string>
+            <plain>Пусть грозит волна и бросает челн,</plain>
+        </string>
+        <string>
+            <plain>Я спасу тебя средь житейских волн.</plain>
+        </string>
+    </verse>
+</song>

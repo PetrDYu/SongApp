@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="470" name="О, если б я упала в греховную бездну," canon="false" text="Терезы Малой из Лизьё" textRus="" music="бр. Эфраима" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, если б я упала в греховную бездну,</plain>
+        </string>
+        <string>
+            <plain>Уверенность в одном спасла бы меня,</plain>
+        </string>
+        <string>
+            <plain>Что эти преступленья, словно капли, исчезнут,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Коснувшись Твоего палящего огня.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Где мне найти Того, Чье сердце все покроет</plain>
+        </string>
+        <string>
+            <plain>И станет навсегда опорою моей?</plain>
+        </string>
+        <string>
+            <plain>А если я слаба, полюбит и такою</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И будет с каждым днем любить еще сильней.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но никакая тварь, рожденная от века,</plain>
+        </string>
+        <string>
+            <plain>Не может так любить, бессмертие храня.</plain>
+        </string>
+        <string>
+            <plain>Мне нужен Ты, Господь, Ты, ставший Человеком, –</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ты Братом стал моим, страдая за меня.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я знаю хорошо, что все дела и мысли,</plain>
+        </string>
+        <string>
+            <plain>И жертвы пред Тобой не стоят ничего.</plain>
+        </string>
+        <string>
+            <plain>Но чтобы им придать хотя б немного смысла,</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Я все их положу у сердца Твоего.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты даже в ангелах увидел недостатки,</plain>
+        </string>
+        <string>
+            <plain>А людям дал Закон средь молний с высоты,</plain>
+        </string>
+        <string>
+            <plain>Но к сердцу Твоему спешу я без оглядки,</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>И страха нет во мне</plain>
+        </string>
+    </verse>
+</song>

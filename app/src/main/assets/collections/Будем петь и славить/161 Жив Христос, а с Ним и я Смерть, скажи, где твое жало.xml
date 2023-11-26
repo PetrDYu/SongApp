@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="161" name="Жив Христос, а с Ним и я Смерть, скажи, где твое жало" canon="false" text="Х. Ф. Геллерта" textRus="" music="Й. Крюгера" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Жив Христос, а с Ним и я... Смерть, скажи, где твое жало?</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто умер за меня, новой жизни дал начало,</plain>
+        </string>
+        <string>
+            <plain>И меня Он воскресит. Он – Спаситель мой и щит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Жив Христос! Ему дана власть под небом и на небе.</plain>
+        </string>
+        <string>
+            <plain>Он призвал к Себе меня, дал навек чудесный жребий,</plain>
+        </string>
+        <string>
+            <plain>Что сказал, то совершит. Он – Спаситель мой и щит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жив Христос! Ничто теперь от Него нас не отлучит:</plain>
+        </string>
+        <string>
+            <plain>Ни тюрьма, ни лютый зверь, ни нужда, ни скорби тучи.</plain>
+        </string>
+        <string>
+            <plain>Он все козни победит. Он – Спаситель мой и щит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жив Христос! Отныне смерть будет входом в жизнь иную.</plain>
+        </string>
+        <string>
+            <plain>В час последний я б хотел петь Иисусу аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>Богу славы возгласить: «Он – Спаситель мой и щит».</plain>
+        </string>
+    </verse>
+</song>

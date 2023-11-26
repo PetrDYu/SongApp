@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="466" name="С надеждой на Тебя Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С надеждой на Тебя, Господь,</plain>
+        </string>
+        <string>
+            <plain>Я в труд дневной иду.</plain>
+        </string>
+        <string>
+            <plain>Ты укрепи мне дух и плоть</plain>
+        </string>
+        <string>
+            <plain>К полезному труду.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты Сам благослови меня,</plain>
+        </string>
+        <string>
+            <plain>Помощник будь в труде,</plain>
+        </string>
+        <string>
+            <plain>И дай Ты мне в теченье дня</plain>
+        </string>
+        <string>
+            <plain>С Тобою быть везде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Наставь, чтоб для Тебя мог жить</plain>
+        </string>
+        <string>
+            <plain>Я сердцем и душой,</plain>
+        </string>
+        <string>
+            <plain>Тебе все в жертву приносить,</plain>
+        </string>
+        <string>
+            <plain>Что мне дано Тобой!</plain>
+        </string>
+    </verse>
+</song>

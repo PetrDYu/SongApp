@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1083" name="Почему Иисус пострадал на кресте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Почему Иисус пострадал на кресте?</plain>
+        </string>
+        <string>
+            <plain>Почему был осмеян людьми?</plain>
+        </string>
+        <string>
+            <plain>Почему Божий Сын на земле жил, как мы,</plain>
+        </string>
+        <string>
+            <plain>Почему был гоним Он везде?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Освободил, Освободил</plain>
+        </string>
+        <string>
+            <plain>Он меня от греха и суда!</plain>
+        </string>
+        <string>
+            <plain>Иисус один, Иисус один,</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель, со мной Он всегда.</plain>
+        </string>
+        <string>
+            <plain>Да, лишь Ему пусть звучит песнь моя:</plain>
+        </string>
+        <string>
+            <plain>Освободил Он меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За тебя и меня нес Он тяжесть креста.</plain>
+        </string>
+        <string>
+            <plain>Победил этим Он грех и тьму.</plain>
+        </string>
+        <string>
+            <plain>Этот путь Божий Сын перенес для того,</plain>
+        </string>
+        <string>
+            <plain>Чтобы счастлив ты был навсегда!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я хочу Ему петь, Его благодарить</plain>
+        </string>
+        <string>
+            <plain>За терпенье ко мне и любовь.</plain>
+        </string>
+        <string>
+            <plain>За прощенье грехов хочу петь Ему вновь.</plain>
+        </string>
+        <string>
+            <plain>Для Него хочу жить и любить!</plain>
+        </string>
+    </verse>
+</song>

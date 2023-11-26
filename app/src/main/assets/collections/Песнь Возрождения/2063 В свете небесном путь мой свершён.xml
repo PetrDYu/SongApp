@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2063" name="В свете небесном путь мой свершён" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В свете небесном путь мой свершён</plain>
+        </string>
+        <string>
+            <plain>Через долины, через холмы.</plain>
+        </string>
+        <string>
+            <plain>Христос со мною, Им утешаюсь,</plain>
+        </string>
+        <string>
+            <plain>Он Верен слову больше, чем мы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В свете небесном, в свете чудесном</plain>
+        </string>
+        <string>
+            <plain>Душа свободна от всяких уз. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Я торжествую, иду я с песней, мой Иисус!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Близятся тени, чёрные тени,</plain>
+        </string>
+        <string>
+            <plain>Но скрыть не могут вечных высот.</plain>
+        </string>
+        <string>
+            <plain>Тьму прогоняет свет не вечерний,</plain>
+        </string>
+        <string>
+            <plain>Радует сердце, вперёд и вперёд.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В свете небесном дух мой ликует,</plain>
+        </string>
+        <string>
+            <plain>К Родине вечной жажду прийти.</plain>
+        </string>
+        <string>
+            <plain>С пеньем встречаю скорби земные,</plain>
+        </string>
+        <string>
+            <plain>Живу во свете, свете любви.</plain>
+        </string>
+    </verse>
+</song>

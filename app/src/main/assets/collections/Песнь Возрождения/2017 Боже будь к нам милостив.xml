@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2017" name="Боже будь к нам милостив" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, будь к нам милостив</plain>
+        </string>
+        <string>
+            <plain>И нас благослави,</plain>
+        </string>
+        <string>
+            <plain>Освяти лицом Твоим,</plain>
+        </string>
+        <string>
+            <plain>Чтоб знать Твои пути.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да восхвалят Тебя народы,</plain>
+        </string>
+        <string>
+            <plain>Да восхвалят Тебя, народы все,</plain>
+        </string>
+        <string>
+            <plain>Ибо праведен суд Господень,</plain>
+        </string>
+        <string>
+            <plain>Ибо правишь Ты на земле.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дал Ты нам спасены</plain>
+        </string>
+        <string>
+            <plain>- Веселятся племена,</plain>
+        </string>
+        <string>
+            <plain>Так благословил нас Бог,</plain>
+        </string>
+        <string>
+            <plain>Свой плод дала земля.</plain>
+        </string>
+    </verse>
+</song>

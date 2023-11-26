@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="155" name="Тебя хочу хвалить я пеньем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебя хочу хвалить я пеньем</plain>
+        </string>
+        <string>
+            <plain>За милости Твои, мой Бог!</plain>
+        </string>
+        <string>
+            <plain>Меня возвысил Ты спасеньем,</plain>
+        </string>
+        <string>
+            <plain>Прими мой благодарный вздох.</plain>
+        </string>
+        <string>
+            <plain>Я никогда не перестану</plain>
+        </string>
+        <string>
+            <plain>Хвалить Тебя и петь осанну!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе я песни посвящу,</plain>
+        </string>
+        <string>
+            <plain>Ты - мой Господь</plain>
+        </string>
+        <string>
+            <plain>И мой псалом, о Господи!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лишь небо утром озарится,</plain>
+        </string>
+        <string>
+            <plain>К Тебе я вознестись люблю;</plain>
+        </string>
+        <string>
+            <plain>Порой ночной, как мгла сгустится,</plain>
+        </string>
+        <string>
+            <plain>Тебя я песнею хвалю;</plain>
+        </string>
+        <string>
+            <plain>Какое счастье песнь готовить,</plain>
+        </string>
+        <string>
+            <plain>Тебя в смиренье славословить!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тебя святить хочу Святого,</plain>
+        </string>
+        <string>
+            <plain>Тебе хочу я жизнь отдать;</plain>
+        </string>
+        <string>
+            <plain>Тебя лишь Одного Благого,</plain>
+        </string>
+        <string>
+            <plain>Твою любовь хочу лишь знать;</plain>
+        </string>
+        <string>
+            <plain>Тебе лишь в выси лучезарной</plain>
+        </string>
+        <string>
+            <plain>Польется гимн мой благодарный.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1078" name="На святой земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На святой земле,</plain>
+        </string>
+        <string>
+            <plain>Мы стоим на святой земле...</plain>
+        </string>
+        <string>
+            <plain>Здесь Господь, а там, где Он -</plain>
+        </string>
+        <string>
+            <plain>То место свято.</plain>
+        </string>
+        <string>
+            <plain>То место свято.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Перед Богом предстали мы!</plain>
+        </string>
+        <string>
+            <plain>Ангелами Его славы окружены!</plain>
+        </string>
+        <string>
+            <plain>Так прославим Бога ты и я.</plain>
+        </string>
+        <string>
+            <plain>Это место свято от</plain>
+        </string>
+        <string>
+            <plain>Его присутствия!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1909" name="Когда тяжесть нам на сердце ляжет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда тяжесть нам на сердце ляжет,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Когда душу горе сильно свяжет,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу обо всем.</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Он — Друг, известен нам всем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нет уж брата или друга лучше,</plain>
+        </string>
+        <string>
+            <plain>Чем наш Спаситель Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда слезы наш покой нарушат,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Или тайные грехи нас мучат,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу обо всем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если видим, бедствия приходят,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Смерть и голод страшно всюду бродят,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу обо всем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если с миром не хотим погибнуть,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Но желаем Царствия достигнуть,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу обо всем.</plain>
+        </string>
+    </verse>
+</song>

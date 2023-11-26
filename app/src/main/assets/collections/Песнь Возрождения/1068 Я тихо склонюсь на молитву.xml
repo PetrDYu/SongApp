@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1068" name="Я тихо склонюсь на молитву" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я тихо склонюсь на молитву</plain>
+        </string>
+        <string>
+            <plain>И руки тихонько сомкну.</plain>
+        </string>
+        <string>
+            <plain>И дух покидает мой битву,</plain>
+        </string>
+        <string>
+            <plain>И вместе с ним я отдохну.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В молитве есть что-то святое,</plain>
+        </string>
+        <string>
+            <plain>Знакомое мне и другим.</plain>
+        </string>
+        <string>
+            <plain>В молитве, как в сладостном рае,</plain>
+        </string>
+        <string>
+            <plain>К брегам я несуся родным.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Молитва, порой тихо спетая,</plain>
+        </string>
+        <string>
+            <plain>Порой из разбитых сердец</plain>
+        </string>
+        <string>
+            <plain>Всесильным Иисусом воспетая.</plain>
+        </string>
+        <string>
+            <plain>Рванулась из крепкой груди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Молитва! Как много прекрасного</plain>
+        </string>
+        <string>
+            <plain>Таишь ты в глубинах своих!</plain>
+        </string>
+        <string>
+            <plain>Как много полезного, ясного</plain>
+        </string>
+        <string>
+            <plain>Черпаю в истоках твоих!</plain>
+        </string>
+    </verse>
+</song>

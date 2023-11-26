@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2469" name="Дивная весть чудная весть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дивная весть, чудная весть,</plain>
+        </string>
+        <string>
+            <plain>Все унесли года.</plain>
+        </string>
+        <string>
+            <plain>Тихая ночь, дивная ночь,</plain>
+        </string>
+        <string>
+            <plain>Ночь Рождества прошла.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть же всегда В памяти людей</plain>
+        </string>
+        <string>
+            <plain>Ночь Рождества Видеть сильней.</plain>
+        </string>
+        <string>
+            <plain>Вечно живой Иисус в ту ночь</plain>
+        </string>
+        <string>
+            <plain>К людям пришел, Чтобы помочь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Люди земли, помните о том,</plain>
+        </string>
+        <string>
+            <plain>Что Иисус вас спас.</plain>
+        </string>
+        <string>
+            <plain>Он приходил, чтоб я и ты</plain>
+        </string>
+        <string>
+            <plain>Счастье себе нашли.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам, молодым, дорог Иисус,</plain>
+        </string>
+        <string>
+            <plain>Ведь спас Он нас от уз,</plain>
+        </string>
+        <string>
+            <plain>Счастье дарит, даром дарит,</plain>
+        </string>
+        <string>
+            <plain>Ярко звезда горит.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1023" name="Слава Богу за все даяния" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слава Богу за все даяния,</plain>
+        </string>
+        <string>
+            <plain>Слава Богу за все страдания,</plain>
+        </string>
+        <string>
+            <plain>Слава Богу за ночи мрачные,</plain>
+        </string>
+        <string>
+            <plain>Дни удачные и неудачные.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава Богу, за все Ему слава,</plain>
+        </string>
+        <string>
+            <plain>Он имеет на это право!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слава Богу за дни погожие,</plain>
+        </string>
+        <string>
+            <plain>За характеры наши несхожие,</plain>
+        </string>
+        <string>
+            <plain>За дороги тяжелые, дальние,</plain>
+        </string>
+        <string>
+            <plain>За разлуки, всегда печальные.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слава Богу за слезы с песнями.</plain>
+        </string>
+        <string>
+            <plain>Что Он тропками вел чудесными.</plain>
+        </string>
+        <string>
+            <plain>Слава Богу за многие милости.</plain>
+        </string>
+        <string>
+            <plain>Что помог христианами вырасти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Что Он путь нам всегда указывал,</plain>
+        </string>
+        <string>
+            <plain>Что не больно Он нас наказывал,</plain>
+        </string>
+        <string>
+            <plain>Что прощал, забывая прошлое.</plain>
+        </string>
+        <string>
+            <plain>Что давал Он нам только хорошее!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="114" name="Отвлечемся от себя и будем прославлять Всевышнего" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Отвлечемся от себя и будем прославлять Всевышнего.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Возвеличим Бога, воспоем хвалу.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Отвлечемся от себя и воспоем Христа Царя царей,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>И склонимся перед Господом Творцом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Отвлечемся от себя, наш Иисус Христос грядет с небес.</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Возвеличим, воспоем Ему хвалу.</plain>
+        </string>
+    </verse>
+</song>

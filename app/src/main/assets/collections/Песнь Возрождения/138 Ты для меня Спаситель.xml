@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="138" name="Ты для меня Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты для меня, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Сошел с святых небес,</plain>
+        </string>
+        <string>
+            <plain>Оставил Ты обитель</plain>
+        </string>
+        <string>
+            <plain>Всю полную чудес.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты для меня, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Принял Голгофский крест.</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе, о мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе и честь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты для меня, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Смирившись, в яслях был;</plain>
+        </string>
+        <string>
+            <plain>Слепым Ты был водитель,</plain>
+        </string>
+        <string>
+            <plain>Для бедных мира жил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спаситель, красотою</plain>
+        </string>
+        <string>
+            <plain>Любви Твоей пленен,</plain>
+        </string>
+        <string>
+            <plain>Я жить хочу с Тобою,</plain>
+        </string>
+        <string>
+            <plain>Тобою я спасен.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В Тебе лишь, о Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Хочу сокрыться я.</plain>
+        </string>
+        <string>
+            <plain>Во мне Твою обитель</plain>
+        </string>
+        <string>
+            <plain>Устрой Ты для Себя.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Тебе лишь петь хочу я</plain>
+        </string>
+        <string>
+            <plain>Всегда, во всякий миг.</plain>
+        </string>
+        <string>
+            <plain>Тебе принадлежу я,</plain>
+        </string>
+        <string>
+            <plain>Я весь в руках Твоих!</plain>
+        </string>
+    </verse>
+</song>

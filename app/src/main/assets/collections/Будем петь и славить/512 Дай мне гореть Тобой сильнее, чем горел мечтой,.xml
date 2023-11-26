@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="512" name="Дай мне гореть Тобой сильнее, чем горел мечтой," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дай мне гореть Тобой сильнее, чем горел мечтой,</plain>
+        </string>
+        <string>
+            <plain>Сильнее, чем всякая страсть, что жжет меня изнутри.</plain>
+        </string>
+        <string>
+            <plain>Дай мне владеть собой, чтобы жизнь моя служила Тебе,</plain>
+        </string>
+        <string>
+            <plain>Была бы живою хвалой, что льется из глубины.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвалою Тебе, мой Бог, спасенье и надежда моя!</plain>
+        </string>
+        <string>
+            <plain>Молюсь, чтобы моя глубина была бы Твоей глубиной.</plain>
+        </string>
+        <string>
+            <plain>Из глубины живая вода, вода Твоей любви, как река,</plain>
+        </string>
+        <string>
+            <plain>Пусть льется, пробуждая от сна, сердца наполняя хвалой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай мне идти вперед, оставив все кривые пути,</plain>
+        </string>
+        <string>
+            <plain>Идти Твоею тропой, небесной тропой любви.</plain>
+        </string>
+        <string>
+            <plain>Пусть растает в сердце лед и спящая без неба душа,</plain>
+        </string>
+        <string>
+            <plain>Пусть станет горящей стрелой, летящей из глубины.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Стрелою к Тебе, мой Бог, спасенье и надежда моя!</plain>
+        </string>
+        <string>
+            <plain>Молюсь, чтобы моя глубина была бы Твоей глубиной.</plain>
+        </string>
+        <string>
+            <plain>Из глубины живая вода, вода Твоей любви, как река,</plain>
+        </string>
+        <string>
+            <plain>Пусть льется, пробуждая от сна, сердца наполняя хвалой.</plain>
+        </string>
+    </chorus>
+</song>

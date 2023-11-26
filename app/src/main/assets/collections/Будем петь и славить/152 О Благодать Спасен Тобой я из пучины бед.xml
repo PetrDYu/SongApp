@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="152" name="О Благодать Спасен Тобой я из пучины бед" canon="false" text="Дж. Ньютона" textRus="" music="Дж. Ньютона" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О Благодать! Спасен Тобой я из пучины бед;</plain>
+        </string>
+        <string>
+            <plain>Был мертв и чудом стал живой, был слеп и вижу свет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты мне вложила в сердце страх, от страхов всех спасла.</plain>
+        </string>
+        <string>
+            <plain>Я скорбь души излил в слезах, и Ты в мой дух сошла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Прошел немало я скорбей, невзгод и черных дней,</plain>
+        </string>
+        <string>
+            <plain>Но Ты всегда была со мной, ведешь меня домой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Словам Господним верю я, моя вся крепость в них;</plain>
+        </string>
+        <string>
+            <plain>Он верный щит, Он часть моя во всех путях моих.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда же плоть моя умрет, придет борьбе конец,</plain>
+        </string>
+        <string>
+            <plain>Меня в небесном доме ждет и радость, и венец.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Пройдут десятки тысяч лет, забудем смерти тень.</plain>
+        </string>
+        <string>
+            <plain>А Богу так же будем петь, как в самый первый день.</plain>
+        </string>
+    </verse>
+</song>

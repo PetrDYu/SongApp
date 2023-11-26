@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3155" name="Все девяносто девять там" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все девяносто девять там</plain>
+        </string>
+        <string>
+            <plain>в горах укрыты от беды,</plain>
+        </string>
+        <string>
+            <plain>одна блуждает по камням</plain>
+        </string>
+        <string>
+            <plain>от стада Пастыря вдали.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Найди её и приведи!</plain>
+        </string>
+        <string>
+            <plain>Не дай погибнуть ей вдали!</plain>
+        </string>
+        <string>
+            <plain>Она устала от скорбей.</plain>
+        </string>
+        <string>
+            <plain>О, приведи её скорей!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все девяносто девять</plain>
+        </string>
+        <string>
+            <plain>в Нём имеют радость и приют,</plain>
+        </string>
+        <string>
+            <plain>одна оставила свою</plain>
+        </string>
+        <string>
+            <plain>наследства долю и уют.</plain>
+        </string>
+        <string>
+            <plain>З Все девяносто девять</plain>
+        </string>
+        <string>
+            <plain>Он на злачных пажитях пасёт,</plain>
+        </string>
+        <string>
+            <plain>одна лишь ищет мир, покой,</plain>
+        </string>
+        <string>
+            <plain>и В страхе· жалобно зовёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жаль Пастырю одной овцы,</plain>
+        </string>
+        <string>
+            <plain>из глаз Его слеза течёт.</plain>
+        </string>
+        <string>
+            <plain>Кто к девяносто девяти</plain>
+        </string>
+        <string>
+            <plain>одну овечку приведёт?</plain>
+        </string>
+    </verse>
+</song>

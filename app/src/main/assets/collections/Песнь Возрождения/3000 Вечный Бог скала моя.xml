@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3000" name="Вечный Бог скала моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечный Бог, скала моя,</plain>
+        </string>
+        <string>
+            <plain>защити, укрой меня;</plain>
+        </string>
+        <string>
+            <plain>если ветры зло шумят,</plain>
+        </string>
+        <string>
+            <plain>дай, Господь, мне устоять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вечный Бог, моя скала!</plain>
+        </string>
+        <string>
+            <plain>Ты свети во мне всегда,</plain>
+        </string>
+        <string>
+            <plain>чтоб я бодр в молитве был,</plain>
+        </string>
+        <string>
+            <plain>для Тебя Господь, лишь жил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В волнах жизни я тонул,</plain>
+        </string>
+        <string>
+            <plain>Ты мне руку протянул;</plain>
+        </string>
+        <string>
+            <plain>чистым стал я от греха</plain>
+        </string>
+        <string>
+            <plain>в час, когда нашёл Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если волны мне грозят,</plain>
+        </string>
+        <string>
+            <plain>устремлю я к небу взгляд;</plain>
+        </string>
+        <string>
+            <plain>если твёрдо верю я,</plain>
+        </string>
+        <string>
+            <plain>враг не устрашит меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О надёжная скала,</plain>
+        </string>
+        <string>
+            <plain>крепость твёрдая моя,</plain>
+        </string>
+        <string>
+            <plain>Ты — убежище моё,</plain>
+        </string>
+        <string>
+            <plain>рог спасенья моего.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Рухнет хижина моя</plain>
+        </string>
+        <string>
+            <plain>и покину землю я,</plain>
+        </string>
+        <string>
+            <plain>в дом небесный я войду,</plain>
+        </string>
+        <string>
+            <plain>где я вечно отдохну.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Дорогой Иисус, укрой</plain>
+        </string>
+        <string>
+            <plain>Ты меня навек Собой;</plain>
+        </string>
+        <string>
+            <plain>я в Тебе пребыть хочу,</plain>
+        </string>
+        <string>
+            <plain>весь Тебе принадлежу.</plain>
+        </string>
+    </verse>
+</song>

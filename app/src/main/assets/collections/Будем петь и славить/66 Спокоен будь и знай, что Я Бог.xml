@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="66" name="Спокоен будь и знай, что Я Бог" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Спокоен будь и знай, что Я – Бог.</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Я твой Господь, Целитель твой.</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>В Тебя, Господь, уверовал я.</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+</song>

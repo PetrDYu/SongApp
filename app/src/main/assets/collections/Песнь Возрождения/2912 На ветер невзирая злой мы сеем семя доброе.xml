@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2912" name="На ветер невзирая злой мы сеем семя доброе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На ветер невзирая злой мы сеем семя доброе</plain>
+        </string>
+        <string>
+            <plain>и Слова истины благой несём в сердца холодные.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>У вод повсюду сеем мы - да сеем мы -</plain>
+        </string>
+        <string>
+            <plain>Бог даст богатые плоды.</plain>
+        </string>
+        <string>
+            <plain>Снопы мы Богу принесём, (принесём),</plain>
+        </string>
+        <string>
+            <plain>хвалу Ему мы воспоём (воспоём)</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Найдёт Господь одну листву,</plain>
+        </string>
+        <string>
+            <plain>когда придёт собрать плоды? - Нет!</plain>
+        </string>
+        <string>
+            <plain>Сея семя день за днём,</plain>
+        </string>
+        <string>
+            <plain>мы принесём Ему снопы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хотя порой нелёгок труд</plain>
+        </string>
+        <string>
+            <plain>- награда ждёт нас впереди.</plain>
+        </string>
+        <string>
+            <plain>Заблудших всюду ищем мы,</plain>
+        </string>
+        <string>
+            <plain>ведём во свет из власти тьмы.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И если б даже не было</plain>
+        </string>
+        <string>
+            <plain>небес и воскресения,</plain>
+        </string>
+        <string>
+            <plain>всё ж самым ценным было б то,</plain>
+        </string>
+        <string>
+            <plain>что здесь в любви посеяно.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Наш труд напрасно не пройдёт;</plain>
+        </string>
+        <string>
+            <plain>и кто С слезами сеял тут,</plain>
+        </string>
+        <string>
+            <plain>тот с радостью снопы пожнёт</plain>
+        </string>
+        <string>
+            <plain>и сможет вечно отдохнуть.</plain>
+        </string>
+    </verse>
+</song>

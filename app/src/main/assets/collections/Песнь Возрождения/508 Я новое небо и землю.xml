@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="508" name="Я новое небо и землю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я новое небо и землю</plain>
+        </string>
+        <string>
+            <plain>Увижу, по Слову Творца,</plain>
+        </string>
+        <string>
+            <plain>И славу от Бога приемлю,</plain>
+        </string>
+        <string>
+            <plain>Я буду счастлив без конца!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там поют с торжеством,</plain>
+        </string>
+        <string>
+            <plain>Ожидают меня пред Христом;</plain>
+        </string>
+        <string>
+            <plain>Там мой крест будет снят,</plain>
+        </string>
+        <string>
+            <plain>И мне скажут: "Ты Богом принят!"</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Увижу я город в Отчизне;</plain>
+        </string>
+        <string>
+            <plain>Там все в украшенье венца,</plain>
+        </string>
+        <string>
+            <plain>Там славное дерево жизни,</plain>
+        </string>
+        <string>
+            <plain>Я буду счастлив без конца!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Двенадцать там врат из жемчужин,</plain>
+        </string>
+        <string>
+            <plain>Там светит свет Божья лица;</plain>
+        </string>
+        <string>
+            <plain>Свет солнца там будет не нужен,</plain>
+        </string>
+        <string>
+            <plain>Я буду счастлив без конца!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там в стенах святого чертога</plain>
+        </string>
+        <string>
+            <plain>Сольются спасенных сердца;</plain>
+        </string>
+        <string>
+            <plain>В хваленье восторженном Бога,</plain>
+        </string>
+        <string>
+            <plain>Я буду счастлив без конца!</plain>
+        </string>
+    </verse>
+</song>

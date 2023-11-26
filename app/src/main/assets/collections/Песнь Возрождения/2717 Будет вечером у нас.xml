@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2717" name="Будет вечером у нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будет вечером у нас</plain>
+        </string>
+        <string>
+            <plain>И тепло, и уют.</plain>
+        </string>
+        <string>
+            <plain>Это бабушка у нас</plain>
+        </string>
+        <string>
+            <plain>Самый лучший друг.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бабушка милая,</plain>
+        </string>
+        <string>
+            <plain>Бабушка моя,</plain>
+        </string>
+        <string>
+            <plain>Самая добрая</plain>
+        </string>
+        <string>
+            <plain>Ты у меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О Христе расскажет нам,</plain>
+        </string>
+        <string>
+            <plain>Если я попрошу.</plain>
+        </string>
+        <string>
+            <plain>Иногда накажет нас,</plain>
+        </string>
+        <string>
+            <plain>Если заслужу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вяжет наша бабушка</plain>
+        </string>
+        <string>
+            <plain>Варежки теплые,</plain>
+        </string>
+        <string>
+            <plain>Руки нашей бабушки</plain>
+        </string>
+        <string>
+            <plain>Очень добрые.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="13" name="Скажи мне весть благую" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скажи мне весть благую,</plain>
+        </string>
+        <string>
+            <plain>Скажи, Спаситель, вновь</plain>
+        </string>
+        <string>
+            <plain>Про смерть и жизнь святую</plain>
+        </string>
+        <string>
+            <plain>И про Твою любовь!</plain>
+        </string>
+        <string>
+            <plain>Скажи мне весть спасенья</plain>
+        </string>
+        <string>
+            <plain>Так просто, как детям;</plain>
+        </string>
+        <string>
+            <plain>Устал я от хожденья по суетным путям.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скажи мне повесть чудную,</plain>
+        </string>
+        <string>
+            <plain>Скажи ее мне вновь,</plain>
+        </string>
+        <string>
+            <plain>Скажи в минуту трудную</plain>
+        </string>
+        <string>
+            <plain>Мне про Твою любовь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Скажи мне весть благую,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я постиг душой</plain>
+        </string>
+        <string>
+            <plain>Всю тайну дорогую</plain>
+        </string>
+        <string>
+            <plain>И дар спасенья Твой.</plain>
+        </string>
+        <string>
+            <plain>Вещай мне повесть часто,</plain>
+        </string>
+        <string>
+            <plain>В душе мне начертай,</plain>
+        </string>
+        <string>
+            <plain>Что людям в тьме несчастной</plain>
+        </string>
+        <string>
+            <plain>Открыл Ты вечный рай.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скажи мне весть благую,</plain>
+        </string>
+        <string>
+            <plain>Когда заметишь Ты,</plain>
+        </string>
+        <string>
+            <plain>Что в душу мне больную</plain>
+        </string>
+        <string>
+            <plain>Проникли суеты.</plain>
+        </string>
+        <string>
+            <plain>Когда же предо мною</plain>
+        </string>
+        <string>
+            <plain>Предстанет мир иной,</plain>
+        </string>
+        <string>
+            <plain>Ты сделай весть живою,</plain>
+        </string>
+        <string>
+            <plain>Что Ты - Спаситель мой.</plain>
+        </string>
+    </verse>
+</song>

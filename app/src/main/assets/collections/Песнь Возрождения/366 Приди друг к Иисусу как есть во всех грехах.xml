@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="366" name="Приди друг к Иисусу как есть во всех грехах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди, друг, к Иисусу как есть, во всех грехах!</plain>
+        </string>
+        <string>
+            <plain>Он уврачует душу, не бойся, сбрось свой страх.</plain>
+        </string>
+        <string>
+            <plain>О, ободрись словами Христа: "Не изгоню"</plain>
+        </string>
+        <string>
+            <plain>Открой пред Ним все раны, всю боль греха твою.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Его предайся воле, Его лишь слушай ты,</plain>
+        </string>
+        <string>
+            <plain>И Он излечит вскоре от всей нечистоты.</plain>
+        </string>
+        <string>
+            <plain>В крови Его пролитой ты будешь исцелен,</plain>
+        </string>
+        <string>
+            <plain>Душою в ней омытый, ты будешь ввек спасен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возьми свой крест и следуй в путь узкий за Христом!</plain>
+        </string>
+        <string>
+            <plain>Идя за Ним, не сетуй, не плачь ты под крестом!</plain>
+        </string>
+        <string>
+            <plain>Стремись путь к вечной жизни пройти ты до конца,</plain>
+        </string>
+        <string>
+            <plain>Тогда найдешь в Отчизне заветный дом Отца.</plain>
+        </string>
+    </verse>
+</song>

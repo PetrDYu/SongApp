@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2354" name="Только Ты мой Единственный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Только Ты, мой Единственный,</plain>
+        </string>
+        <string>
+            <plain>Ты Видишь душу мою с высоты.</plain>
+        </string>
+        <string>
+            <plain>Только Ты охраняешь меня</plain>
+        </string>
+        <string>
+            <plain>Тёмной ночью, в течение дня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Говори мне, Господь, говори</plain>
+        </string>
+        <string>
+            <plain>Ночью, днём, при рассвете зари.</plain>
+        </string>
+        <string>
+            <plain>Ты мне песни даруешь в ночи,</plain>
+        </string>
+        <string>
+            <plain>И от радости сердце стучит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как я счастлив, с Тобой говоря,</plain>
+        </string>
+        <string>
+            <plain>Когда утром алеет заря.</plain>
+        </string>
+        <string>
+            <plain>Когда звёзд загорается рой,</plain>
+        </string>
+        <string>
+            <plain>Ты опять неизменно со мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет при жизни минуты одной,</plain>
+        </string>
+        <string>
+            <plain>Когда б Ты не был нежен со мной</plain>
+        </string>
+        <string>
+            <plain>В моей жизненной трудной борьбе.</plain>
+        </string>
+        <string>
+            <plain>Что за это воздам я Тебе?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Только Ты, мой Единственный,</plain>
+        </string>
+        <string>
+            <plain>Ты Видишь душу мою с высоты.</plain>
+        </string>
+        <string>
+            <plain>Только Ты охраняешь меня</plain>
+        </string>
+        <string>
+            <plain>Тёмной ночью, в течение дня.</plain>
+        </string>
+    </verse>
+</song>

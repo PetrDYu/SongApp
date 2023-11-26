@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2068" name="Все небеса славят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все небеса славят</plain>
+        </string>
+        <string>
+            <plain>Христа воскресшего.</plain>
+        </string>
+        <string>
+            <plain>Сравнится кто</plain>
+        </string>
+        <string>
+            <plain>С сияньем красоты Его?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вовеки будет Он</plain>
+        </string>
+        <string>
+            <plain>На троне Агнцем,</plain>
+        </string>
+        <string>
+            <plain>Колени преклоню</plain>
+        </string>
+        <string>
+            <plain>Ему я одному.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Провозглашу славу</plain>
+        </string>
+        <string>
+            <plain>Христа воскресшего,</plain>
+        </string>
+        <string>
+            <plain>Как был распят,</plain>
+        </string>
+        <string>
+            <plain>Чтоб примирить людей с Творцом.</plain>
+        </string>
+    </verse>
+</song>

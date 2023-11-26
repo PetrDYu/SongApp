@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2204" name="Мой Бог Отец Твоею славой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Бог Отец, Твоею славой</plain>
+        </string>
+        <string>
+            <plain>покрыты небо и вся земля,</plain>
+        </string>
+        <string>
+            <plain>В Твоих руках вся власть и сила,</plain>
+        </string>
+        <string>
+            <plain>В Твоих руках судьба моя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бог Отец, Твое имя свято,</plain>
+        </string>
+        <string>
+            <plain>Твоим огнём сердца объяты.</plain>
+        </string>
+        <string>
+            <plain>Отче наш, мы Твои дети,</plain>
+        </string>
+        <string>
+            <plain>Вечность - наш дом,</plain>
+        </string>
+        <string>
+            <plain>Тебя мы встретим. Тебе моя хвала.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мой Бог Отец, Я знаю,</plain>
+        </string>
+        <string>
+            <plain>любишь сынов Своих и дочерей.</plain>
+        </string>
+        <string>
+            <plain>Во мне Твой Дух усыновленья,</plain>
+        </string>
+        <string>
+            <plain>О, Авва Отче, Ты всех родней.</plain>
+        </string>
+    </verse>
+</song>

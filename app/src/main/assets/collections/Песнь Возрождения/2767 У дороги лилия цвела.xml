@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2767" name="У дороги лилия цвела" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>У дороги лилия цвела,</plain>
+        </string>
+        <string>
+            <plain>Пыль не раз над ней кружилась серая,</plain>
+        </string>
+        <string>
+            <plain>А она во все часы была</plain>
+        </string>
+        <string>
+            <plain>Чистая, прекрасная и белая.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>:,:Господи, среди земных дорог</plain>
+        </string>
+        <string>
+            <plain>Пусть моя душа Тобой омытая,</plain>
+        </string>
+        <string>
+            <plain>Белизной трепещет, как цветок,</plain>
+        </string>
+        <string>
+            <plain>От греха и зла Тобой хранимая.:,:</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пронеслась над лилией гроза,</plain>
+        </string>
+        <string>
+            <plain>А она стоит вся серебристая.</plain>
+        </string>
+        <string>
+            <plain>Я смотрю па цвет ее в слезах.</plain>
+        </string>
+        <string>
+            <plain>Будет ли душа такая чистая?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>У дороги лилия цвела,</plain>
+        </string>
+        <string>
+            <plain>Пыль не раз над ней кружилась серая,</plain>
+        </string>
+        <string>
+            <plain>Но всегда свой аромат несла</plain>
+        </string>
+        <string>
+            <plain>Лилия, прекрасная и белая.</plain>
+        </string>
+    </verse>
+</song>

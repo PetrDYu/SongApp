@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="527" name="Еще немного лет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Еще немного лет,</plain>
+        </string>
+        <string>
+            <plain>Еще немного битв,</plain>
+        </string>
+        <string>
+            <plain>Немного слез, забот и бед,</plain>
+        </string>
+        <string>
+            <plain>Немного лишь молитв.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Еще немного мук,</plain>
+        </string>
+        <string>
+            <plain>Немного тяжких снов,</plain>
+        </string>
+        <string>
+            <plain>Немного вздохов и разлук, -</plain>
+        </string>
+        <string>
+            <plain>Немного лишь псалмов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И будет вечный мир,</plain>
+        </string>
+        <string>
+            <plain>И будет вечный пир,</plain>
+        </string>
+        <string>
+            <plain>И будет вечный день без мглы,</plain>
+        </string>
+        <string>
+            <plain>И вечный гимн хвалы.</plain>
+        </string>
+    </verse>
+</song>

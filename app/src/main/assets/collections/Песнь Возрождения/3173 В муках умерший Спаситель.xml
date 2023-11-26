@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3173" name="В муках умерший Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В муках умерший Спаситель</plain>
+        </string>
+        <string>
+            <plain>жизнь тебе желает дать.</plain>
+        </string>
+        <string>
+            <plain>Хочешь ли, греха служитель,</plain>
+        </string>
+        <string>
+            <plain>Друга этого принять?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Зов Спасителя послушай,</plain>
+        </string>
+        <string>
+            <plain>не гони Его теперь!</plain>
+        </string>
+        <string>
+            <plain>О, Спасителя впусти же,</plain>
+        </string>
+        <string>
+            <plain>отвори же сердца дверь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, прими, не отвергай</plain>
+        </string>
+        <string>
+            <plain>ты тихий, нежный зов Христа!</plain>
+        </string>
+        <string>
+            <plain>Может ли любовь такая</plain>
+        </string>
+        <string>
+            <plain>быть не нужной для тебя?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он стучит в любви безмерной,</plain>
+        </string>
+        <string>
+            <plain>ждёт у сердца твоего.</plain>
+        </string>
+        <string>
+            <plain>Отвори Христу же двери,</plain>
+        </string>
+        <string>
+            <plain>о, не оттолкни Его!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если ты Его отвергнешь,</plain>
+        </string>
+        <string>
+            <plain>может Он навек уйти.</plain>
+        </string>
+        <string>
+            <plain>Благодать сейчас прими ты,</plain>
+        </string>
+        <string>
+            <plain>силен Он тебя спасти!</plain>
+        </string>
+    </verse>
+</song>

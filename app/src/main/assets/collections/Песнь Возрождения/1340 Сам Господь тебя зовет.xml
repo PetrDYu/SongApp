@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1340" name="Сам Господь тебя зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сам Господь тебя зовет:</plain>
+        </string>
+        <string>
+            <plain>"Пробудись!" Слушай громкий голос тот:</plain>
+        </string>
+        <string>
+            <plain>"Пробудись!" Пробудись, пробудись!</plain>
+        </string>
+        <string>
+            <plain>О, церковь Божья, пробудись!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Встань, мужайся,</plain>
+        </string>
+        <string>
+            <plain>встань, мужайся, подкрепляйся,</plain>
+        </string>
+        <string>
+            <plain>Силой свыше, силой свыше облекись.</plain>
+        </string>
+        <string>
+            <plain>Против тьмы единодушно все сердца пусть восстают!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Дух Святой, мы ждем, приди.</plain>
+        </string>
+        <string>
+            <plain>О, Дух Святой, приди, приди!</plain>
+        </string>
+        <string>
+            <plain>Огнем святым сердца зажги.</plain>
+        </string>
+        <string>
+            <plain>Чтоб мы трудились все в любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дай нам духом обновиться,</plain>
+        </string>
+        <string>
+            <plain>К святости, к добру стремиться!</plain>
+        </string>
+        <string>
+            <plain>Ближе к небесам, ближе к небесам!</plain>
+        </string>
+        <string>
+            <plain>Ближе к небесам!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="136" name="Всевышнему слава Он нас оправдал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всевышнему слава! Он нас оправдал;</plain>
+        </string>
+        <string>
+            <plain>Так мир возлюбил Он, что Сына нам дал.</plain>
+        </string>
+        <string>
+            <plain>Спаситель нас кровью Своею омыл</plain>
+        </string>
+        <string>
+            <plain>И доступ к небесному счастью открыл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славь Христа! Славь Христа!</plain>
+        </string>
+        <string>
+            <plain>С торжеством славь земля!</plain>
+        </string>
+        <string>
+            <plain>Славь Христа! Славь Христа!</plain>
+        </string>
+        <string>
+            <plain>Славь о природа вся!</plain>
+        </string>
+        <string>
+            <plain>Придите, о люди, к престолу Христа;</plain>
+        </string>
+        <string>
+            <plain>Прославьте всесильную жертву креста.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Прощенье грехов Бог дарует тому,</plain>
+        </string>
+        <string>
+            <plain>Кто в полном смиренье падет пред Христом.</plain>
+        </string>
+        <string>
+            <plain>И злейший преступник, пришедший к Нему,</plain>
+        </string>
+        <string>
+            <plain>Прощен в согрешенье великом своем</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спаситель - Наставник спасенным во всем,</plain>
+        </string>
+        <string>
+            <plain>И сила Христа нас от зла оградит.</plain>
+        </string>
+        <string>
+            <plain>Везде под Его благодатным крылом</plain>
+        </string>
+        <string>
+            <plain>Найдем мы от бурь и волнения щит.</plain>
+        </string>
+    </verse>
+</song>

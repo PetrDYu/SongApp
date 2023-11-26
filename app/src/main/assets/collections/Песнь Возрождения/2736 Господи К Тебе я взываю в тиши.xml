@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2736" name="Господи К Тебе я взываю в тиши" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи! К Тебе я взываю в тиши,</plain>
+        </string>
+        <string>
+            <plain>Господи! На помощь ко мне поспеши.</plain>
+        </string>
+        <string>
+            <plain>О, помоги мне в борьбе,</plain>
+        </string>
+        <string>
+            <plain>Будь Спутником добрым в судьбе,</plain>
+        </string>
+        <string>
+            <plain>В горе меня не оставь,</plain>
+        </string>
+        <string>
+            <plain>Но к небу мой путь направь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я устал, так много преград на пути,</plain>
+        </string>
+        <string>
+            <plain>Силы нет порою мне дальше идти.</plain>
+        </string>
+        <string>
+            <plain>О, помоги мне скорей,</plain>
+        </string>
+        <string>
+            <plain>Сомнения тучи развей,</plain>
+        </string>
+        <string>
+            <plain>Дай сил не напрасно страдать,</plain>
+        </string>
+        <string>
+            <plain>Но жизнью Тебя прославлять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знаю я, Ты скоро на землю придешь,</plain>
+        </string>
+        <string>
+            <plain>Верных всех на небо в обитель возьмешь,</plain>
+        </string>
+        <string>
+            <plain>Возьми и меня Ты с Собой,</plain>
+        </string>
+        <string>
+            <plain>Дай в небе мне Твой покой.</plain>
+        </string>
+        <string>
+            <plain>Услышь и меня, Боже мой,</plain>
+        </string>
+        <string>
+            <plain>Я ведь тоже хочу домой.</plain>
+        </string>
+    </verse>
+</song>

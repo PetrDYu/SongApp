@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1216" name="В битве ли сердце изнемогает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В битве ли сердце изнемогает,</plain>
+        </string>
+        <string>
+            <plain>Путь тернистый душу устрашает.</plain>
+        </string>
+        <string>
+            <plain>Солнце ль туча грозная скрывает</plain>
+        </string>
+        <string>
+            <plain>С нами Бог! Вперед!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хоть и труден путь земной.</plain>
+        </string>
+        <string>
+            <plain>Помнить мы должны:</plain>
+        </string>
+        <string>
+            <plain>Силой в Господе святой Мы облечены.</plain>
+        </string>
+        <string>
+            <plain>Скажем, идя в жаркий бой. Богом ведены:</plain>
+        </string>
+        <string>
+            <plain>Вперед, вперед к победе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если горестью душа теснится.</plain>
+        </string>
+        <string>
+            <plain>Ко Христу тотчас пусть устремится;</plain>
+        </string>
+        <string>
+            <plain>Мир Его тогда в нее вселится.</plain>
+        </string>
+        <string>
+            <plain>С нами Бог! Вперед!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бодрым будь: тем бремя облегчится,</plain>
+        </string>
+        <string>
+            <plain>И другого сердце укрепится,</plain>
+        </string>
+        <string>
+            <plain>Робкий духом лишь борьбы страшится.</plain>
+        </string>
+        <string>
+            <plain>С нами Бог! Вперед!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Верен будь всегда, не отступая,</plain>
+        </string>
+        <string>
+            <plain>За Христом иди, не унывая.</plain>
+        </string>
+        <string>
+            <plain>На Него надежду возлагая.</plain>
+        </string>
+        <string>
+            <plain>С нами Бог! Вперед!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Жизнь отдай на славное служение!</plain>
+        </string>
+        <string>
+            <plain>Твердо со грехом веди сраженье.</plain>
+        </string>
+        <string>
+            <plain>Совершитель веры даст терпенье.</plain>
+        </string>
+        <string>
+            <plain>С нами Бог! Вперед!</plain>
+        </string>
+    </verse>
+</song>

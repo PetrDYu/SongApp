@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="18" name="Брат напомни мне опять" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Брат, напомни мне опять</plain>
+        </string>
+        <string>
+            <plain>Звуки слов любви,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я сердцем мог понять</plain>
+        </string>
+        <string>
+            <plain>Тайну слов любви.</plain>
+        </string>
+        <string>
+            <plain>Песнь любви польется,</plain>
+        </string>
+        <string>
+            <plain>К небу дух взнесется.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте Христа,</plain>
+        </string>
+        <string>
+            <plain>Славьте Христа,</plain>
+        </string>
+        <string>
+            <plain>Славьте любовь Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сам Спаситель в мир принес</plain>
+        </string>
+        <string>
+            <plain>Звуки слов любви;</plain>
+        </string>
+        <string>
+            <plain>И гласят в утеху слез</plain>
+        </string>
+        <string>
+            <plain>Звуки слов любви.</plain>
+        </string>
+        <string>
+            <plain>Песнь любви вещает:</plain>
+        </string>
+        <string>
+            <plain>Грешных Бог прощает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дышат радостью святой</plain>
+        </string>
+        <string>
+            <plain>Звуки слов любви;</plain>
+        </string>
+        <string>
+            <plain>Полны дивной красотой</plain>
+        </string>
+        <string>
+            <plain>Звуки слов любви.</plain>
+        </string>
+        <string>
+            <plain>Песнь любви Христовой</plain>
+        </string>
+        <string>
+            <plain>Будит к жизни новой.</plain>
+        </string>
+    </verse>
+</song>

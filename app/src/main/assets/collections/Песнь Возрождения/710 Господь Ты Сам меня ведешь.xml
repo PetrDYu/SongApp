@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="710" name="Господь Ты Сам меня ведешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! Ты Сам меня ведешь</plain>
+        </string>
+        <string>
+            <plain>Своим путем, Своей тропой,</plain>
+        </string>
+        <string>
+            <plain>Меня от бедствий бережешь</plain>
+        </string>
+        <string>
+            <plain>И мне даешь совет благой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь! Ты Сам меня ведешь</plain>
+        </string>
+        <string>
+            <plain>Своей тропой, Своим путем;</plain>
+        </string>
+        <string>
+            <plain>Ты в край чудес меня влечешь,</plain>
+        </string>
+        <string>
+            <plain>Где наградишь меня венцом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь! Ты управляешь мной</plain>
+        </string>
+        <string>
+            <plain>В моих желаньях и делах;</plain>
+        </string>
+        <string>
+            <plain>Как хорошо мне быть с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Покоиться в Твоих руках!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я прохожу чрез мглу долин</plain>
+        </string>
+        <string>
+            <plain>Иль под сияньем снежных гор,</plain>
+        </string>
+        <string>
+            <plain>Через поток, чрез гладь озер –</plain>
+        </string>
+        <string>
+            <plain>Везде со мной мой Властелин.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В конце пути через туман</plain>
+        </string>
+        <string>
+            <plain>Блеснет мне вечный Ханаан,</plain>
+        </string>
+        <string>
+            <plain>И я в спасительных лучах</plain>
+        </string>
+        <string>
+            <plain>Забуду горе, смерть и страх.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я за Тебя держусь рукой,</plain>
+        </string>
+        <string>
+            <plain>Иду я твердо за Тобой;</plain>
+        </string>
+        <string>
+            <plain>Что б не случилося со мной,</plain>
+        </string>
+        <string>
+            <plain>Ничто мой не смутит покой.</plain>
+        </string>
+    </verse>
+</song>

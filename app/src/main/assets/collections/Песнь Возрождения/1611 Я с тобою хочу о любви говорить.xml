@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1611" name="Я с тобою хочу о любви говорить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я с тобою хочу о любви говорить,</plain>
+        </string>
+        <string>
+            <plain>О любви, для тебя незнакомой:</plain>
+        </string>
+        <string>
+            <plain>Кроме близких людей надо Бога любить,</plain>
+        </string>
+        <string>
+            <plain>Тосковать по небесному дому.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Можно веру иметь, можно веру хранить,</plain>
+        </string>
+        <string>
+            <plain>Заучив христианскую догму.</plain>
+        </string>
+        <string>
+            <plain>Все же главное в том, чтобы Бога любить,</plain>
+        </string>
+        <string>
+            <plain>Тосковать по небесному дому.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не безжизненный строй богословских идей.</plain>
+        </string>
+        <string>
+            <plain>Не служенье по строгому долгу.</plain>
+        </string>
+        <string>
+            <plain>Бог желает любви от спасенных людей</plain>
+        </string>
+        <string>
+            <plain>И тоски по небесному дому.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не спеши о других по закону судить.</plain>
+        </string>
+        <string>
+            <plain>Но доверься веленью простому:</plain>
+        </string>
+        <string>
+            <plain>Больше всех и всего надо Бога любить,</plain>
+        </string>
+        <string>
+            <plain>Тосковать по небесному дому.</plain>
+        </string>
+    </verse>
+</song>

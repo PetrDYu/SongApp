@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3038" name="О Господь нас в любви совершенствуй" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, нас в любви совершенствуй,</plain>
+        </string>
+        <string>
+            <plain>уподобиться дай нам Тебе,</plain>
+        </string>
+        <string>
+            <plain>чтоб Тебя, Бог, мы не огорчали,</plain>
+        </string>
+        <string>
+            <plain>дай любовь нам Твою в полноте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь - драгоценный дар,</plain>
+        </string>
+        <string>
+            <plain>любовь — совершенный дар!</plain>
+        </string>
+        <string>
+            <plain>Велика к нам любовь Иисуса;</plain>
+        </string>
+        <string>
+            <plain>из любви Он спасенье нам дал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если б знал языки я земные</plain>
+        </string>
+        <string>
+            <plain>и всю высшую мудрость познал,</plain>
+        </string>
+        <string>
+            <plain>хоть свершал бы дела я большие,</plain>
+        </string>
+        <string>
+            <plain>без любви я — звучащий кимвал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если б верою горы мог сдвинуть,</plain>
+        </string>
+        <string>
+            <plain>проникать в тайны Божьи мог бы,</plain>
+        </string>
+        <string>
+            <plain>дар пророческий был бы и сила</plain>
+        </string>
+        <string>
+            <plain>- всё ничто, не имей я любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если б роздал своё я именье,</plain>
+        </string>
+        <string>
+            <plain>жизнь служенью другим посвятил,</plain>
+        </string>
+        <string>
+            <plain>тело б отдал своё на сожженье</plain>
+        </string>
+        <string>
+            <plain>- без любви пользы б не получил.</plain>
+        </string>
+    </verse>
+</song>

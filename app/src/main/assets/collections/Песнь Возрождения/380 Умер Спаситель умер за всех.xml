@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="380" name="Умер Спаситель умер за всех" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Умер Спаситель, умер за всех,</plain>
+        </string>
+        <string>
+            <plain>Крестною смертью жизнь нам дает.</plain>
+        </string>
+        <string>
+            <plain>Кто Его кровью смоет свой грех,</plain>
+        </string>
+        <string>
+            <plain>Того гнев Божий мимо пройдет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда Агнца кровь дала вам покров,</plain>
+        </string>
+        <string>
+            <plain>Узрю я тотчас и пройду, и пройду мимо вас.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто бы ты ни был, смело приди:</plain>
+        </string>
+        <string>
+            <plain>Бедных, несчастных примет Господь.</plain>
+        </string>
+        <string>
+            <plain>Кто ко Христовой прильнет груди,</plain>
+        </string>
+        <string>
+            <plain>Того гнев Божий мимо пройдет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Суд недалеко, все будем там;</plain>
+        </string>
+        <string>
+            <plain>Всех там награда верная ждет.</plain>
+        </string>
+        <string>
+            <plain>Кто смог укрыться в ранах Христа,</plain>
+        </string>
+        <string>
+            <plain>Того гнев Божий мимо пройдет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дивная жертва! Дар неземной.</plain>
+        </string>
+        <string>
+            <plain>Милость Господня, масса щедрот.</plain>
+        </string>
+        <string>
+            <plain>Кто не чуждался крови святой,</plain>
+        </string>
+        <string>
+            <plain>Того гнев Божий мимо пройдет.</plain>
+        </string>
+    </verse>
+</song>

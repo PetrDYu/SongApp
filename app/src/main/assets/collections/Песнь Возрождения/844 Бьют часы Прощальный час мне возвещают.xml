@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="844" name="Бьют часы Прощальный час мне возвещают" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бьют часы! Прощальный час мне возвещают!</plain>
+        </string>
+        <string>
+            <plain>Бьют часы! О чем - то новом говорят!</plain>
+        </string>
+        <string>
+            <plain>Бьют часы! И этим боем возвещают.</plain>
+        </string>
+        <string>
+            <plain>Что я пришлец на сей земле. Не здесь мой град.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я думу крепкую свою</plain>
+        </string>
+        <string>
+            <plain>все думаю под этот бой</plain>
+        </string>
+        <string>
+            <plain>И песню новую пою:</plain>
+        </string>
+        <string>
+            <plain>Пора домой! Пора домой!</plain>
+        </string>
+        <string>
+            <plain>Пою ее! Как сладок звук мне песни той!</plain>
+        </string>
+        <string>
+            <plain>Ее всегда я буду петь:</plain>
+        </string>
+        <string>
+            <plain>Пора домой! Пора домой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бьют часы! Я взор свой к небу поднимаю.</plain>
+        </string>
+        <string>
+            <plain>Бьют часы! В Святую высь меня зовут.</plain>
+        </string>
+        <string>
+            <plain>О Господь! К Тебе я руки простираю,</plain>
+        </string>
+        <string>
+            <plain>Всевышний Бог, прошу: "Прими мольбу мою".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бьют часы! Я жажду с миром сим расстаться.</plain>
+        </string>
+        <string>
+            <plain>Бьют часы! Но здесь я тяжко так томлюсь.</plain>
+        </string>
+        <string>
+            <plain>О мой Бог! Хочу к Тебе я водвориться,</plain>
+        </string>
+        <string>
+            <plain>Я жду тот миг, когда с Тобой навек сольюсь.</plain>
+        </string>
+    </verse>
+</song>

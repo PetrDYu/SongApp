@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="138" name="Хвалите Господа с небес, хвалите Бога" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Хвалите Господа с небес, хвалите Бога</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хвалите, море и река, хвалите, горы и поля,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, ветер и туман, хвалите, струны и орган.</plain>
+        </string>
+        <string>
+            <plain>Хвалите, море и река, хвалите, горы и поля,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, ветер и туман, хвалите Бога.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Хвалите Господа с небес, хвалите Бога</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хвалите, ангелы Его, хвалите, воинства Его,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, небо и земля, хвалите, солнце и луна,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, ангелы Его, хвалите, воинства Его,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, небо и земля, хвалите Бога.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Хвалите Господа с небес, хвалите Бога</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хвалите, суша и вода, хвалите, бездна, высота,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, птицы, облака, хвалите, люди, племена,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, суша и вода, хвалите, бездна, высота,</plain>
+        </string>
+        <string>
+            <plain>Хвалите, птицы, облака, хвалите Бога.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Хвалите Его, хвалите, славу Царю несите,</plain>
+        </string>
+        <string>
+            <plain>Имя Его прославьте, Господа воспевайте.</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+        </string>
+    </verse>
+</song>

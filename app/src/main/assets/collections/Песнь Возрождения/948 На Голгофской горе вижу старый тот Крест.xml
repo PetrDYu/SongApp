@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="948" name="На Голгофской горе вижу старый тот Крест" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На Голгофской горе вижу старый тот Крест,</plain>
+        </string>
+        <string>
+            <plain>Что есть символ мучений, стыда.</plain>
+        </string>
+        <string>
+            <plain>Но люблю я его, он дороже всего:</plain>
+        </string>
+        <string>
+            <plain>Грех людей возложен на него.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не забуду вовек я тот Крест,</plain>
+        </string>
+        <string>
+            <plain>В нем прощенье дарует Отец.</plain>
+        </string>
+        <string>
+            <plain>Я к нему привлечен на всю жизнь,</plain>
+        </string>
+        <string>
+            <plain>В славный день заменю на венец.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как стар этот Крест, уж забытый людьми,</plain>
+        </string>
+        <string>
+            <plain>Но к нему привлечен дух мой весь.</plain>
+        </string>
+        <string>
+            <plain>Ведь на нем Агнец Божий заклан за меня,</plain>
+        </string>
+        <string>
+            <plain>Снизойдя на Голгофу с небес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На том старом Кресте вижу Кровь я Христа,</plain>
+        </string>
+        <string>
+            <plain>Вспоминаю всегда горький час,</plain>
+        </string>
+        <string>
+            <plain>Как страдал Иисус, пролил Кровь за меня,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мне вечную жизнь даровать.</plain>
+        </string>
+    </verse>
+</song>

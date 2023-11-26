@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="74" name="Посещай Господь меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Посещай, Господь, меня</plain>
+        </string>
+        <string>
+            <plain>Среди ночи, среди дня;</plain>
+        </string>
+        <string>
+            <plain>Чаще будь с моей душой;</plain>
+        </string>
+        <string>
+            <plain>Жив Твой раб одним Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мне ни в чем покоя нет,</plain>
+        </string>
+        <string>
+            <plain>Ты - отрада мне и свет.</plain>
+        </string>
+        <string>
+            <plain>Полн я мыслью лишь одной:</plain>
+        </string>
+        <string>
+            <plain>Будь всегда с моей душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет мне радости нигде:</plain>
+        </string>
+        <string>
+            <plain>Ни в покое, ни в труде,</plain>
+        </string>
+        <string>
+            <plain>Если Бог далеко мой;</plain>
+        </string>
+        <string>
+            <plain>Но как радостно с Тобой!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты, Спаситель и Творец,</plain>
+        </string>
+        <string>
+            <plain>- Жизни радость и венец;</plain>
+        </string>
+        <string>
+            <plain>Ты, за грех мой давший кровь,</plain>
+        </string>
+        <string>
+            <plain>Ты - покров мой и любовь!</plain>
+        </string>
+    </verse>
+</song>

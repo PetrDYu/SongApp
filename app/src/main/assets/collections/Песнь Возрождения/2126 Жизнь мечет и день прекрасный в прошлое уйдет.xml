@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2126" name="Жизнь мечет и день прекрасный в прошлое уйдет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь мечет и день прекрасный в прошлое уйдет,</plain>
+        </string>
+        <string>
+            <plain>И в альбоме дней прожитых место обретет.</plain>
+        </string>
+        <string>
+            <plain>Мы тревожим юность нашу памятью своей,</plain>
+        </string>
+        <string>
+            <plain>А душе не хочется расставаться с ней.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будет время, все мы станем юными опять,</plain>
+        </string>
+        <string>
+            <plain>Как все будет, мы не знаем, Можем лишь гадать.</plain>
+        </string>
+        <string>
+            <plain>Время есть и нужно в жизни много наверстать,</plain>
+        </string>
+        <string>
+            <plain>Не устанет намять наша прошлого листать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Есть у жизни своя граница, как у моря - песок,</plain>
+        </string>
+        <string>
+            <plain>Есть в полете цель у птицы, и к свободе рывок.</plain>
+        </string>
+        <string>
+            <plain>Пусть же юность наша стремится к вечной цели святой,</plain>
+        </string>
+        <string>
+            <plain>Чтобы в вечности обновиться неземной красой:</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С чем сравнить же юность нашу, знает ее каждый.</plain>
+        </string>
+        <string>
+            <plain>Жизнь пройдет и не дано нам прожить ее дважды.</plain>
+        </string>
+        <string>
+            <plain>Чтобы в светлой памяти нашей юность жила с нами,</plain>
+        </string>
+        <string>
+            <plain>Будем украшать ее мы добрыми делами.</plain>
+        </string>
+    </verse>
+</song>

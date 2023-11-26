@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1688" name="Сумерки сгущаются за твоим окном" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сумерки сгущаются за твоим окном,</plain>
+        </string>
+        <string>
+            <plain>Звезды зажигаются в небе голубом;</plain>
+        </string>
+        <string>
+            <plain>Светят в отдалении огоньки селения,</plain>
+        </string>
+        <string>
+            <plain>Ветерок доносит нам аромат цветов.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Спи, дитя любимое, баюшки-баю.</plain>
+        </string>
+        <string>
+            <plain>Песню колыбельную я тебе спою.</plain>
+        </string>
+        <string>
+            <plain>Пусть она запомнится добрым наставлением,</plain>
+        </string>
+        <string>
+            <plain>Предостережением на всю жизнь твою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Годы беззаботные быстро пролетят.</plain>
+        </string>
+        <string>
+            <plain>Первые тревоги несмело постучат.</plain>
+        </string>
+        <string>
+            <plain>В жизни встретишь разное, и печаль, и радости.</plain>
+        </string>
+        <string>
+            <plain>Думы безотрадные затуманят взгляд.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если хочешь радостным и счастливым быть.</plain>
+        </string>
+        <string>
+            <plain>Постарайся Господу сердце подарить.</plain>
+        </string>
+        <string>
+            <plain>И тогда о прожитом, обо всем, что пройдено.</plain>
+        </string>
+        <string>
+            <plain>Не придется в будущем никогда тужить.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В жизни бесконечное множество путей,</plain>
+        </string>
+        <string>
+            <plain>Много в ней наставников и учителей.</plain>
+        </string>
+        <string>
+            <plain>Лишь в Христе не встретишь ты разочарования,</plain>
+        </string>
+        <string>
+            <plain>не грозят блуждания с Ним душе твоей.</plain>
+        </string>
+    </verse>
+</song>

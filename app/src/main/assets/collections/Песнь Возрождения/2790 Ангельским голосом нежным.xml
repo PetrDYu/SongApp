@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2790" name="Ангельским голосом нежным" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ангельским голосом нежным</plain>
+        </string>
+        <string>
+            <plain>Шепчет надежда в груди;</plain>
+        </string>
+        <string>
+            <plain>Будит к порывам священным,</plain>
+        </string>
+        <string>
+            <plain>Радость несет для души.</plain>
+        </string>
+        <string>
+            <plain>Жди, тают сумраки ночи,</plain>
+        </string>
+        <string>
+            <plain>Жди, скоро буря пройдет,</plain>
+        </string>
+        <string>
+            <plain>Жди, скоро высохнут очи,</plain>
+        </string>
+        <string>
+            <plain>Бог утешены пошлет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Шепчет надежда и к Богу зовет.</plain>
+        </string>
+        <string>
+            <plain>(Шепчет в груди)</plain>
+        </string>
+        <string>
+            <plain>Радость и мир она сердцу несет.</plain>
+        </string>
+        <string>
+            <plain>(Радость и мир,Она сердцу несет, несет).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если не видно рассвета,</plain>
+        </string>
+        <string>
+            <plain>Душу сомнения томят,</plain>
+        </string>
+        <string>
+            <plain>Помни, чем глубже мрак ночи,</plain>
+        </string>
+        <string>
+            <plain>Звезды светлее горят.</plain>
+        </string>
+        <string>
+            <plain>Вот уж тьма ночи проходит,</plain>
+        </string>
+        <string>
+            <plain>Вслед день отрады грядет,</plain>
+        </string>
+        <string>
+            <plain>Слово и Дух возвещают:</plain>
+        </string>
+        <string>
+            <plain>Скоро Господь наш придет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вера нужна для победы,</plain>
+        </string>
+        <string>
+            <plain>Чтобы Христа обрести;</plain>
+        </string>
+        <string>
+            <plain>Время придет, и надежда</plain>
+        </string>
+        <string>
+            <plain>Место уступит любви.</plain>
+        </string>
+        <string>
+            <plain>В вечных обителях рая</plain>
+        </string>
+        <string>
+            <plain>Радость полнит нас вновь.</plain>
+        </string>
+        <string>
+            <plain>Кончится вера, надежда,</plain>
+        </string>
+        <string>
+            <plain>Вечно прибудет любовь.</plain>
+        </string>
+    </verse>
+</song>

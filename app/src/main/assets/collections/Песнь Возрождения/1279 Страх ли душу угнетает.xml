@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1279" name="Страх ли душу угнетает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страх ли душу угнетает.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, держи!</plain>
+        </string>
+        <string>
+            <plain>Иль сомненья глас смущает.</plain>
+        </string>
+        <string>
+            <plain>Ты меня держи.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За руку держи, за руку держи!</plain>
+        </string>
+        <string>
+            <plain>О, Спаситель Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Сам всегда держи.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если близко искушенье.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, держи!</plain>
+        </string>
+        <string>
+            <plain>Дай мне верить в избавленье.</plain>
+        </string>
+        <string>
+            <plain>Ты меня держи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В светлый час иль час ненастья.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, держи!</plain>
+        </string>
+        <string>
+            <plain>Среди скорби или счастья.</plain>
+        </string>
+        <string>
+            <plain>Ты меня держи!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мрак ли путь мой затмевает.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, держи! Свет</plain>
+        </string>
+        <string>
+            <plain>Твой тьму пусть озаряет,</plain>
+        </string>
+        <string>
+            <plain>Ты меня держи!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, веди рукой пронзенной</plain>
+        </string>
+        <string>
+            <plain>К небу Ты меня.</plain>
+        </string>
+        <string>
+            <plain>Там душою обновленной</plain>
+        </string>
+        <string>
+            <plain>Восхвалю тебя.</plain>
+        </string>
+    </verse>
+</song>

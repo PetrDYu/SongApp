@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2286" name="По дороге по тернистой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>По дороге, по тернистой</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель проходил.</plain>
+        </string>
+        <string>
+            <plain>Повелительным Он словом</plain>
+        </string>
+        <string>
+            <plain>Мне за Ним идти гласил.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Этот путь не есть широкий</plain>
+        </string>
+        <string>
+            <plain>И на нем горят костры,</plain>
+        </string>
+        <string>
+            <plain>На которых сожигались</plain>
+        </string>
+        <string>
+            <plain>Господа ученики.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Этот путь пропитан кровью,</plain>
+        </string>
+        <string>
+            <plain>Кровью той, что нет цены,</plain>
+        </string>
+        <string>
+            <plain>На нем памятник воздвигнут</plain>
+        </string>
+        <string>
+            <plain>Вечной правды и любви.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И по этой по дороге Хочет</plain>
+        </string>
+        <string>
+            <plain>Он чтоб ты пошел,</plain>
+        </string>
+        <string>
+            <plain>А широкий путь оставил,</plain>
+        </string>
+        <string>
+            <plain>В Боге жизни цель обрел.</plain>
+        </string>
+    </verse>
+</song>

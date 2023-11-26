@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="444" name="Твое детство пролетает, за собою оставляет" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Твое детство пролетает, за собою оставляет</plain>
+        </string>
+        <string>
+            <plain>След минувших дней, беспечных дней.</plain>
+        </string>
+        <string>
+            <plain>Две дороги разделились, многому мы научились,</plain>
+        </string>
+        <string>
+            <plain>Научились, как ценить друзей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>И тогда, когда нам трудно, нам нужна поддержка Друга,</plain>
+        </string>
+        <string>
+            <plain>Нам необходим Его совет.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И такого Друга каждый назовет своим однажды,</plain>
+        </string>
+        <string>
+            <plain>Иисус – наш Друг из Назарета.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В жизни много непонятно, но доступно нам и внятно</plain>
+        </string>
+        <string>
+            <plain>Скажет Иисус, как быть, как жить.</plain>
+        </string>
+        <string>
+            <plain>Поведет Своей тропою, только будь всегда готовым</plain>
+        </string>
+        <string>
+            <plain>Ближних и врагов своих любить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты идешь Его путями, знай, что впереди с врагами</plain>
+        </string>
+        <string>
+            <plain>Скорбным будет и нелегким путь.</plain>
+        </string>
+        <string>
+            <plain>Но сквозь тернии испытанья, униженья и страданья</plain>
+        </string>
+        <string>
+            <plain>Про Иисуса Друга не забудь.</plain>
+        </string>
+    </verse>
+</song>

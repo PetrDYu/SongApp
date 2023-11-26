@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="959" name="Обитель моя у потоков живых v2" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Обитель моя у потоков живых.</plain>
+        </string>
+        <string>
+            <plain>Цветы там не блекнут от зноя.</plain>
+        </string>
+        <string>
+            <plain>Там ясное солнце лучей золотых,</plain>
+        </string>
+        <string>
+            <plain>- Там я отдохну от страданья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Стремлюсь я душой, с надеждой живой</plain>
+        </string>
+        <string>
+            <plain>К нетленному раю на небо.</plain>
+        </string>
+        <string>
+            <plain>Дай силы, Господь, мне идти за Тобой,</plain>
+        </string>
+        <string>
+            <plain>Тебе воздавать честь хваленья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Обитель моя уж не там, где печаль,</plain>
+        </string>
+        <string>
+            <plain>Не там, где зубов скрежетанье,</plain>
+        </string>
+        <string>
+            <plain>А там, где торжественно песни звучат,</plain>
+        </string>
+        <string>
+            <plain>- Там я отдохну от страданья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Обитель моя среди райских аллей,</plain>
+        </string>
+        <string>
+            <plain>На пажитях чудных с плодами.</plain>
+        </string>
+        <string>
+            <plain>Там нет уже горя, Там нет уж скорбей,</plain>
+        </string>
+        <string>
+            <plain>- Там Бога увижу очами.</plain>
+        </string>
+    </verse>
+</song>

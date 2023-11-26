@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1048" name="Ты сердце новое Господь мне подарил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты сердце новое. Господь, мне подарил,</plain>
+        </string>
+        <string>
+            <plain>Любовию мне раны излечил.</plain>
+        </string>
+        <string>
+            <plain>Тебя я буду вечно прославлять</plain>
+        </string>
+        <string>
+            <plain>И на Тебя с надеждою взирать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С надеждой,</plain>
+        </string>
+        <string>
+            <plain>С надеждой на Тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как хорошо, что есть на свете Ты!</plain>
+        </string>
+        <string>
+            <plain>К Тебе стремясь, летят мои мечты.</plain>
+        </string>
+        <string>
+            <plain>Тебе хочу я сердце открывать,</plain>
+        </string>
+        <string>
+            <plain>Тебе лишь свои тайны доверять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть нелегко мне за Тобой идти,</plain>
+        </string>
+        <string>
+            <plain>И тернии, а не розы на пути.</plain>
+        </string>
+        <string>
+            <plain>Но все равно я за Тобой иду,</plain>
+        </string>
+        <string>
+            <plain>Пока здесь путь земной не совершу.</plain>
+        </string>
+    </verse>
+</song>

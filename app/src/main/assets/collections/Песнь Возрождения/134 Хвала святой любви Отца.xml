@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="134" name="Хвала святой любви Отца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвала святой любви Отца,</plain>
+        </string>
+        <string>
+            <plain>Пославшей в мир страдать Христа!</plain>
+        </string>
+        <string>
+            <plain>И Он в мучениях креста</plain>
+        </string>
+        <string>
+            <plain>Испил всю чашу до конца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь силою Христовой</plain>
+        </string>
+        <string>
+            <plain>С нас сняты все оковы;</plain>
+        </string>
+        <string>
+            <plain>Так много сделал Бог для нас!</plain>
+        </string>
+        <string>
+            <plain>Хвала любви Христовой!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лишь у Христа в любви святой</plain>
+        </string>
+        <string>
+            <plain>Найдут все грешники покой;</plain>
+        </string>
+        <string>
+            <plain>Пред Ним рассеется в сердцах,</plain>
+        </string>
+        <string>
+            <plain>Как дым, сомнение и страх.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слова Христа даны для нас</plain>
+        </string>
+        <string>
+            <plain>Как пища сердцу всякий час;</plain>
+        </string>
+        <string>
+            <plain>Они ведут нас к небесам,</plain>
+        </string>
+        <string>
+            <plain>Где примет нас Спаситель Сам.</plain>
+        </string>
+    </verse>
+</song>

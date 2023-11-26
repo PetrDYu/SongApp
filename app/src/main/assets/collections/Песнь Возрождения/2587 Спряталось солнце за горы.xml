@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2587" name="Спряталось солнце за горы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спряталось солнце за горы,</plain>
+        </string>
+        <string>
+            <plain>Стынет темнеющий лес.</plain>
+        </string>
+        <string>
+            <plain>Месяц серебряным взором</plain>
+        </string>
+        <string>
+            <plain>Смотрит на землю с небес.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Краски незримой рукою</plain>
+        </string>
+        <string>
+            <plain>Нежно на все положил</plain>
+        </string>
+        <string>
+            <plain>И безмятежным покоем</plain>
+        </string>
+        <string>
+            <plain>Спящую землю укрыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дивной красою пленяюсь,</plain>
+        </string>
+        <string>
+            <plain>Сердце запело во мне.</plain>
+        </string>
+        <string>
+            <plain>С песней хвалы устремляюсь</plain>
+        </string>
+        <string>
+            <plain>К Богу любви в вышине.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Радость и боль принимаю,</plain>
+        </string>
+        <string>
+            <plain>Всё примиряя в себе.</plain>
+        </string>
+        <string>
+            <plain>Дай жить, люба и прощая,</plain>
+        </string>
+        <string>
+            <plain>Боке, на этой земле!</plain>
+        </string>
+    </verse>
+</song>

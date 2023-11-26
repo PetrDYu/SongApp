@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="255" name="Открой, открой Стою Я у двери и стучу" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Открой, открой! Стою Я у двери и стучу.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Если ты услышишь глас, если ты услышишь глас</plain>
+        </string>
+        <string>
+            <plain>И откроешь, откроешь, дверь Мне откроешь, Я войду.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Стучу, стучу! Я в сердце твое войти хочу.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Открой, открой! Получишь ты радость и покой.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

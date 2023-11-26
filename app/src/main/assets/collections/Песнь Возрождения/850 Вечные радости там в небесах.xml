@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="850" name="Вечные радости там в небесах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вечные радости там (в небесах).</plain>
+        </string>
+        <string>
+            <plain>Тяжки скитанья здесь (на земле).</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, как хочу я туда (в небеса),</plain>
+        </string>
+        <string>
+            <plain>Как мне не хочется здесь (на земле).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там так прекрасно, светло (в небесах),</plain>
+        </string>
+        <string>
+            <plain>Здесь мне ужасно темно (на земле).</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там ожидает Христос (в небесах),</plain>
+        </string>
+        <string>
+            <plain>Здесь изнываю от слез (на земле).</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там приготовлен покой (в небесах),</plain>
+        </string>
+        <string>
+            <plain>Здесь только битва с собой (на земле).</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Там ожидают меня (в небесах).</plain>
+        </string>
+        <string>
+            <plain>Здесь забывают порой (на земле).</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Там ждет родимый приют (в небесах),</plain>
+        </string>
+        <string>
+            <plain>Здесь лишь болезни и труд (на земле).</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Здесь лишь болезни и труд (на земле).</plain>
+        </string>
+        <string>
+            <plain>Там на Христовую грудь (в небесах)</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Я восклонюсь от скорбей (в небесах).</plain>
+        </string>
+        <string>
+            <plain>Жажду туда я скорей (на земле).</plain>
+        </string>
+    </verse>
+</song>

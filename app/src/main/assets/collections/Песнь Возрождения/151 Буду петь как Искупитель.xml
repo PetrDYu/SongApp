@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="151" name="Буду петь как Искупитель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Буду петь, как Искупитель</plain>
+        </string>
+        <string>
+            <plain>Дух мой грешный возлюбил.</plain>
+        </string>
+        <string>
+            <plain>Как страдал Он, Избавитель,</plain>
+        </string>
+        <string>
+            <plain>И меня освободил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Песнь звучит пусть об Иисусе!</plain>
+        </string>
+        <string>
+            <plain>Кровью Он меня купил,</plain>
+        </string>
+        <string>
+            <plain>На кресте меня простил Он,</plain>
+        </string>
+        <string>
+            <plain>Долг мой взял - освободил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Буду петь повествованье:</plain>
+        </string>
+        <string>
+            <plain>Чтоб меня от мук изъять,</plain>
+        </string>
+        <string>
+            <plain>Он в любви и состраданье</plain>
+        </string>
+        <string>
+            <plain>Восхотел Свой выкуп дать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Буду петь, как Искупитель</plain>
+        </string>
+        <string>
+            <plain>Славен вечным торжеством;</plain>
+        </string>
+        <string>
+            <plain>Как силен, как победитель,</plain>
+        </string>
+        <string>
+            <plain>Он над смертью и грехом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Буду петь, как Искупитель</plain>
+        </string>
+        <string>
+            <plain>Любит слабого меня;</plain>
+        </string>
+        <string>
+            <plain>Он мне в рай путеводитель,</plain>
+        </string>
+        <string>
+            <plain>Вечно с Ним пребуду я.</plain>
+        </string>
+    </verse>
+</song>

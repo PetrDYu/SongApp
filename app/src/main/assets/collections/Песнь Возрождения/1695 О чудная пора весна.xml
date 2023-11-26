@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1695" name="О чудная пора весна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О чудная пора весн,</plain>
+        </string>
+        <string>
+            <plain>Как солнце заблестит,</plain>
+        </string>
+        <string>
+            <plain>Природа, в жизни встав от сна,</plain>
+        </string>
+        <string>
+            <plain>Всем сердце веселит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юность ты моя.</plain>
+        </string>
+        <string>
+            <plain>Жизни всей весна!</plain>
+        </string>
+        <string>
+            <plain>Расцвет всех сил и чувств святых</plain>
+        </string>
+        <string>
+            <plain>- Для Господа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда везде, в полях, лесах.</plain>
+        </string>
+        <string>
+            <plain>Все пышно расцветёт,</plain>
+        </string>
+        <string>
+            <plain>Хор пташек, взвившись к небесам.</plain>
+        </string>
+        <string>
+            <plain>Творцу свой гимн поёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да, есть пора расцвета сил</plain>
+        </string>
+        <string>
+            <plain>Для сердца всех людей,</plain>
+        </string>
+        <string>
+            <plain>Блажен, кто Богу посвятил</plain>
+        </string>
+        <string>
+            <plain>Ее в любви своей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мой друг, ведь юность - та пора -</plain>
+        </string>
+        <string>
+            <plain>Весна всех дней твоих.</plain>
+        </string>
+        <string>
+            <plain>Расцвет мечтаний золотых.</plain>
+        </string>
+        <string>
+            <plain>Расцвет всех чувств святых.</plain>
+        </string>
+    </verse>
+</song>

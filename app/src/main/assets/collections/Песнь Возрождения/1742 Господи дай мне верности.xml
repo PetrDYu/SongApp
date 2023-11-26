@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1742" name="Господи дай мне верности" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господи, дай мне верности,</plain>
+        </string>
+        <string>
+            <plain>Святости, чистоты,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не к земле, а к вечности</plain>
+        </string>
+        <string>
+            <plain>Рвались мои мечты!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Чтобы любила искренне,</plain>
+        </string>
+        <string>
+            <plain>В мыслях была чиста</plain>
+        </string>
+        <string>
+            <plain>И за святую истину</plain>
+        </string>
+        <string>
+            <plain>Не побоялась встать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай, чтоб стремленья чистые</plain>
+        </string>
+        <string>
+            <plain>В деле могли ожить!</plain>
+        </string>
+        <string>
+            <plain>Ты помоги мне выстоять,</plain>
+        </string>
+        <string>
+            <plain>Силу свою вложи!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господи, дай мне верности,</plain>
+        </string>
+        <string>
+            <plain>Святости, простоты,</plain>
+        </string>
+        <string>
+            <plain>Чтобы достигнуть вечности,</plain>
+        </string>
+        <string>
+            <plain>Чтобы гореть, не стыть!</plain>
+        </string>
+    </verse>
+</song>

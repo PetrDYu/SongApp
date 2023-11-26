@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="760" name="Звучит труба пора нам выступать в поход" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Звучит труба, пора нам выступать в поход,</plain>
+        </string>
+        <string>
+            <plain>Господь зовет, Он - победитель наш!</plain>
+        </string>
+        <string>
+            <plain>Вперед, вперед! Врагов не бойся и невзгод,</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему! Он - победитель наш.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Единодушно на пути</plain>
+        </string>
+        <string>
+            <plain>Стремимся к вечной цели мы.</plain>
+        </string>
+        <string>
+            <plain>Спасенных войско благослови Ты,</plain>
+        </string>
+        <string>
+            <plain>Чтоб ревностью горели мы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть силен враг, он против нас не устоит,</plain>
+        </string>
+        <string>
+            <plain>Мы победим его чрез Агнца кровь.</plain>
+        </string>
+        <string>
+            <plain>Христос – наш Вождь, живая вера, крепкий щит,</plain>
+        </string>
+        <string>
+            <plain>Едины мы чрез Божию любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О человек! Доколе будешь ты врагом?!</plain>
+        </string>
+        <string>
+            <plain>Оставь свой грех, вступи в ряды Христа!</plain>
+        </string>
+        <string>
+            <plain>В смирении вернись скорей в Отцовский дом</plain>
+        </string>
+        <string>
+            <plain>Для славного и вечного труда.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2453" name="В синем небе первая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В синем небе первая</plain>
+        </string>
+        <string>
+            <plain>Звездочка качается,</plain>
+        </string>
+        <string>
+            <plain>Деткам говорит она:</plain>
+        </string>
+        <string>
+            <plain>"Этот день кончается".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Птички спят, зверюшки спят,</plain>
+        </string>
+        <string>
+            <plain>Только звездочки горят.</plain>
+        </string>
+        <string>
+            <plain>С мамой на колени</plain>
+        </string>
+        <string>
+            <plain>Доченька склоняется:</plain>
+        </string>
+        <string>
+            <plain>"Слава Богу, этот день</plain>
+        </string>
+        <string>
+            <plain>Хорошо кончается".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С добрым Иисусом</plain>
+        </string>
+        <string>
+            <plain>Скоро повстречаемся,</plain>
+        </string>
+        <string>
+            <plain>А на небе никогда</plain>
+        </string>
+        <string>
+            <plain>Радость не кончается.</plain>
+        </string>
+        <string>
+            <plain>Птички спят, детишки спят,</plain>
+        </string>
+        <string>
+            <plain>Только звездочки горят.</plain>
+        </string>
+    </verse>
+</song>

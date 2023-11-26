@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="283" name="Где вы познавшие радость спасенья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где вы, познавшие радость спасенья?</plain>
+        </string>
+        <string>
+            <plain>Где вы, омытые кровью Христа?</plain>
+        </string>
+        <string>
+            <plain>Иль вы не видите наши мученья?</plain>
+        </string>
+        <string>
+            <plain>Иль вы забыли заветы Христа?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В тьме беспросветной весь мир утопает,</plain>
+        </string>
+        <string>
+            <plain>Тысячи гибнут в неравной борьбе,</plain>
+        </string>
+        <string>
+            <plain>В пламени адском вся внутренность тает,</plain>
+        </string>
+        <string>
+            <plain>Сжальтесь, придите! Зовем вас к себе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нас покрывают лохмотья порока;</plain>
+        </string>
+        <string>
+            <plain>Нищи, убоги, мы помощи ждем.</plain>
+        </string>
+        <string>
+            <plain>Скоро ль услышим мы голос пророка,</plain>
+        </string>
+        <string>
+            <plain>Скоро ль спасенье и мир обретем?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В чаде угарном больного веселья,</plain>
+        </string>
+        <string>
+            <plain>В пламени жгучем безбожных речей,</plain>
+        </string>
+        <string>
+            <plain>В чаше отравы мы ищем забвенья.</plain>
+        </string>
+        <string>
+            <plain>Гибнем мы, где вы? Спасайте скорей!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Где же, о где вы, носители света,</plain>
+        </string>
+        <string>
+            <plain>Дети чертога и вечного дня?</plain>
+        </string>
+        <string>
+            <plain>Мы вас зовем и не слышим ответа,</plain>
+        </string>
+        <string>
+            <plain>Иль вы уснули, молчанье храня?</plain>
+        </string>
+    </verse>
+</song>

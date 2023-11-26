@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2133" name="Зачем так мучаешь себя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Зачем так мучаешь себя,</plain>
+        </string>
+        <string>
+            <plain>Сказав: "Когда же Он придет?"</plain>
+        </string>
+        <string>
+            <plain>Ведь Он всегда, везде с тобой,</plain>
+        </string>
+        <string>
+            <plain>В святую Церковь свет Свой льет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, приходи же, наш Иисус,</plain>
+        </string>
+        <string>
+            <plain>Омой сердца, по-том уж пусть,</plain>
+        </string>
+        <string>
+            <plain>Пусть даже мир падет к ногам,</plain>
+        </string>
+        <string>
+            <plain>Я сердце лишь Тебе отдам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чтоб только не быть, кем я был,</plain>
+        </string>
+        <string>
+            <plain>Когда еще я в мире жил.</plain>
+        </string>
+        <string>
+            <plain>Я согрешал, не понимал,</plain>
+        </string>
+        <string>
+            <plain>Ты только лишь мне руку дал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как давно жду той поры,</plain>
+        </string>
+        <string>
+            <plain>Когда с Тобою мне уйти,</plain>
+        </string>
+        <string>
+            <plain>И взявшись за руки, вдвоем</plain>
+        </string>
+        <string>
+            <plain>Путь к вечной жизни мы пройдем.</plain>
+        </string>
+    </verse>
+</song>

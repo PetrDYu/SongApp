@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3012" name="Из живых камней здесь строит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Из живых камней здесь строит</plain>
+        </string>
+        <string>
+            <plain>храм Иисус Свой неземной,</plain>
+        </string>
+        <string>
+            <plain>только чистых удостоит</plain>
+        </string>
+        <string>
+            <plain>Он вложить в тот храм святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Камень Он краеугольный</plain>
+        </string>
+        <string>
+            <plain>в храме из камней живых;</plain>
+        </string>
+        <string>
+            <plain>камень Он краеугольный</plain>
+        </string>
+        <string>
+            <plain>- только на Него смотри.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кто спасён Иисуса кровью,</plain>
+        </string>
+        <string>
+            <plain>камнем в храме стал живым;</plain>
+        </string>
+        <string>
+            <plain>прочно связаны любовью</plain>
+        </string>
+        <string>
+            <plain>камни все один с другим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Камни ревностно ищите,</plain>
+        </string>
+        <string>
+            <plain>чтобы строить Божий храм,</plain>
+        </string>
+        <string>
+            <plain>дружно их к Христу несите:</plain>
+        </string>
+        <string>
+            <plain>Он их в стены вложит Сам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, трудитесь, чтоб положен</plain>
+        </string>
+        <string>
+            <plain>был последний камень в дом;</plain>
+        </string>
+        <string>
+            <plain>будет храм тогда построен,</plain>
+        </string>
+        <string>
+            <plain>и на небо мы войдём.</plain>
+        </string>
+    </verse>
+</song>

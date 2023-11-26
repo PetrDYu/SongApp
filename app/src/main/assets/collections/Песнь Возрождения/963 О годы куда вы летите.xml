@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="963" name="О годы куда вы летите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О годы, куда вы летите,</plain>
+        </string>
+        <string>
+            <plain>Быстрее, чем птицы полет?</plain>
+        </string>
+        <string>
+            <plain>Скажите, о годы, скажите,</plain>
+        </string>
+        <string>
+            <plain>Что в жизни меня еще ждет?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Годы летят,</plain>
+        </string>
+        <string>
+            <plain>быстро летят,</plain>
+        </string>
+        <string>
+            <plain>Быстро так,</plain>
+        </string>
+        <string>
+            <plain>быстро летят.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О годы, куда вы летите?</plain>
+        </string>
+        <string>
+            <plain>Творец положил вам предел.</plain>
+        </string>
+        <string>
+            <plain>Но разве того Бог желает,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я о прошедшем жалел?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О годы, куда вы летите?</plain>
+        </string>
+        <string>
+            <plain>Нельзя вас назад возвратить.</plain>
+        </string>
+        <string>
+            <plain>Своей быстротой научите</plain>
+        </string>
+        <string>
+            <plain>Разумным и бережным быть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О годы, летите, летите.</plain>
+        </string>
+        <string>
+            <plain>Но только всем сердцем прошу:</plain>
+        </string>
+        <string>
+            <plain>Любовь, радость людям несите!</plain>
+        </string>
+        <string>
+            <plain>Для добрых дел жить лишь хочу.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О годы, летите, летите,</plain>
+        </string>
+        <string>
+            <plain>Гореньем и светом полны.</plain>
+        </string>
+        <string>
+            <plain>Вы жаждущим всем возвестите</plain>
+        </string>
+        <string>
+            <plain>О вечной Христовой любви.</plain>
+        </string>
+    </verse>
+</song>

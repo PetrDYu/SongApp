@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2560" name="Молись душа моя молись" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молись, душа моя, молись!</plain>
+        </string>
+        <string>
+            <plain>Греха и скорби ночь пройдет,</plain>
+        </string>
+        <string>
+            <plain>Настанет день, откроют вход,</plain>
+        </string>
+        <string>
+            <plain>С доверием молись!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Молись, душа моя, молись!</plain>
+        </string>
+        <string>
+            <plain>Господь - Спаситель твой от бед,</plain>
+        </string>
+        <string>
+            <plain>На все молитвы даст ответ,</plain>
+        </string>
+        <string>
+            <plain>Мужайся и молись!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Молись, душа моя, молись!</plain>
+        </string>
+        <string>
+            <plain>Когда свой путь мы совершим,</plain>
+        </string>
+        <string>
+            <plain>Во славе явимся пред Ним,</plain>
+        </string>
+        <string>
+            <plain>С надеждою молись!</plain>
+        </string>
+    </verse>
+</song>

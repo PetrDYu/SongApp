@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1955" name="Боже юного меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, юного меня</plain>
+        </string>
+        <string>
+            <plain>Спас Ты, счастьем осеня,</plain>
+        </string>
+        <string>
+            <plain>Песнью радостной, святой</plain>
+        </string>
+        <string>
+            <plain>Воспеваю жребий свой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но взгляни с высот Своих,</plain>
+        </string>
+        <string>
+            <plain>Сколько жизней молодых,</plain>
+        </string>
+        <string>
+            <plain>Затаив смертельных страх,</plain>
+        </string>
+        <string>
+            <plain>Гибнут в роковых волнах.</plain>
+        </string>
+    </verse>
+</song>

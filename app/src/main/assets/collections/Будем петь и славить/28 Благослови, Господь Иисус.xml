@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="28" name="Благослови, Господь Иисус" canon="false" text="А. Ашикяна" textRus="" music="А. Ашикяна" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Благослови, Господь Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Béni, béni, Jesus mon Seigneur.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Bless me, bless me, Jesus my Lord.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Segne mir, Jesus mein Herr.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Bendiceme, Seсor Jesus.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Орхнир, орхнир, орхнир, Тер Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Эвлогисон, кюрие Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <plain>Бархуни, Иешуа Адони.</plain>
+        </string>
+    </verse>
+</song>

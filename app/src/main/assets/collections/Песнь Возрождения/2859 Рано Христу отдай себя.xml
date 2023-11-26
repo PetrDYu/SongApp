@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2859" name="Рано Христу отдай себя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Рано Христу отдай себя</plain>
+        </string>
+        <string>
+            <plain>- чудную жизнь найдёшь;</plain>
+        </string>
+        <string>
+            <plain>время, что потерял ты зря,</plain>
+        </string>
+        <string>
+            <plain>больше ведь не вернёшь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, в небеса взгляни, где Бог царит.</plain>
+        </string>
+        <string>
+            <plain>Время идёт к концу!</plain>
+        </string>
+        <string>
+            <plain>Ныне приди: Господь тебе дарит</plain>
+        </string>
+        <string>
+            <plain>всё к благу твоему!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Разве не слышишь ты Христа,</plain>
+        </string>
+        <string>
+            <plain>как нежно Он зовёт?</plain>
+        </string>
+        <string>
+            <plain>Он избавляет от греха,</plain>
+        </string>
+        <string>
+            <plain>который в ад ведёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жаждет спасения душа</plain>
+        </string>
+        <string>
+            <plain>- ищет его в Христе;</plain>
+        </string>
+        <string>
+            <plain>Он приготовил небеса</plain>
+        </string>
+        <string>
+            <plain>в вечный удел тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Спишь ты весеннею порой</plain>
+        </string>
+        <string>
+            <plain>- жатву не соберёшь.</plain>
+        </string>
+        <string>
+            <plain>То, что упущено весной,</plain>
+        </string>
+        <string>
+            <plain>осенью не вернёшь.</plain>
+        </string>
+    </verse>
+</song>

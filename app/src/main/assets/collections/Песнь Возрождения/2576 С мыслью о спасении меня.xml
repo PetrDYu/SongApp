@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2576" name="С мыслью о спасении меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С мыслью о спасении меня</plain>
+        </string>
+        <string>
+            <plain>Шел Христос на крест, на смерть.</plain>
+        </string>
+        <string>
+            <plain>Потому, друзья, решил и я</plain>
+        </string>
+        <string>
+            <plain>С Ним и жить и умереть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Без Христа я жизни не хочу,</plain>
+        </string>
+        <string>
+            <plain>Без Него она пуста.</plain>
+        </string>
+        <string>
+            <plain>Я душой общения ищу</plain>
+        </string>
+        <string>
+            <plain>С Тем, в Ком жизни полнота.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Чтобы мне открылась рая дверь,</plain>
+        </string>
+        <string>
+            <plain>Был Христос презрён, гоним.</plain>
+        </string>
+        <string>
+            <plain>Как же я могу, друзья, теперь</plain>
+        </string>
+        <string>
+            <plain>Без креста идти за Ним?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В славе царственной Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Он - вселенной Царь благой,</plain>
+        </string>
+        <string>
+            <plain>Он наследство вечное небес</plain>
+        </string>
+        <string>
+            <plain>Разделит, друзья, со мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть идет войною на меня</plain>
+        </string>
+        <string>
+            <plain>Духов злобы легион,</plain>
+        </string>
+        <string>
+            <plain>Верю, не дано всем силам зла</plain>
+        </string>
+        <string>
+            <plain>Разлучить меня с Христом.</plain>
+        </string>
+    </verse>
+</song>

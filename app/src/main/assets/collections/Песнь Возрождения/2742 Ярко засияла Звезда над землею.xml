@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2742" name="Ярко засияла Звезда над землею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ярко засияла</plain>
+        </string>
+        <string>
+            <plain>Звезда над землею,</plain>
+        </string>
+        <string>
+            <plain>В яслях Вифлеемских</plain>
+        </string>
+        <string>
+            <plain>Родился Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Волхвы-звездочеты</plain>
+        </string>
+        <string>
+            <plain>Шли с Востока к яслям,</plain>
+        </string>
+        <string>
+            <plain>Принесли подарки</plain>
+        </string>
+        <string>
+            <plain>Господу Христу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А какой подарок</plain>
+        </string>
+        <string>
+            <plain>Ты принес бы в ясли,</plain>
+        </string>
+        <string>
+            <plain>В Рождество Христово</plain>
+        </string>
+        <string>
+            <plain>Где подарок твой?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будь послушен маме,</plain>
+        </string>
+        <string>
+            <plain>Будь послушен папе.</plain>
+        </string>
+        <string>
+            <plain>Вот какой подарок</plain>
+        </string>
+        <string>
+            <plain>Принеси Христу.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="143" name="Любовь Господню прославляем, что во Христе открылась нам" canon="false" text="Дж. Терстигена" textRus="" music="Д. Бортнянского" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Любовь Господню прославляем, что во Христе открылась нам;</plain>
+        </string>
+        <string>
+            <plain>Любовь из праха поднимает, влечет из бездны к небесам!</plain>
+        </string>
+        <string>
+            <plain>Покой от всех земных страданий в любви Господней океане.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты утолил души исканья, я счастлив быть Твоим рабом;</plain>
+        </string>
+        <string>
+            <plain>Я жажду не Твоих даяний, моя вся жизнь в Тебе одном.</plain>
+        </string>
+        <string>
+            <plain>В Тебе покой, в Тебе отрада, в Тебе все то, что сердцу надо.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тебе мои все помышленья, Ты – мой Господь и лучший Друг.</plain>
+        </string>
+        <string>
+            <plain>Ты для меня понес мученья и спас меня от вечных мук,</plain>
+        </string>
+        <string>
+            <plain>Простил грехи, дал жизнь иную, в Тебе всегда я торжествую.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хвала Спасителю Иисусу, источнику любви святой!</plain>
+        </string>
+        <string>
+            <plain>Лишь от Него потоки льются, что оживляют род людской.</plain>
+        </string>
+        <string>
+            <plain>Пред Ним склоняются колени, Ему хвала от всех творений.</plain>
+        </string>
+    </verse>
+</song>

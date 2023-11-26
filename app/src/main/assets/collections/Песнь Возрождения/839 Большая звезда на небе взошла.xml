@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="839" name="Большая звезда на небе взошла" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Большая звезда на небе взошла</plain>
+        </string>
+        <string>
+            <plain>И радостный свет вокруг пролила.</plain>
+        </string>
+        <string>
+            <plain>Она мудрецов с востока вела</plain>
+        </string>
+        <string>
+            <plain>И к яслям в Вифлеем привела.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На небесах горит звезда!</plain>
+        </string>
+        <string>
+            <plain>Она для всех там зажжена.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Поверили мудрецы в ту звезду</plain>
+        </string>
+        <string>
+            <plain>- Она приведет их ко Христу.</plain>
+        </string>
+        <string>
+            <plain>Она им видна издалека</plain>
+        </string>
+        <string>
+            <plain>- Христос их вечная звезда!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пойдем за Христом, как шли мудрецы,</plain>
+        </string>
+        <string>
+            <plain>В Небесный тот Свет, Господь, нас веди.</plain>
+        </string>
+        <string>
+            <plain>Веди нас из тьмы прямым путем</plain>
+        </string>
+        <string>
+            <plain>В тот чудный край, в Отцовский дом.</plain>
+        </string>
+    </verse>
+</song>

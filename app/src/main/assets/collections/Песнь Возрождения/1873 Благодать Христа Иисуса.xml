@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1873" name="Благодать Христа Иисуса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодать Христа Иисуса</plain>
+        </string>
+        <string>
+            <plain>И любовь Бога Отца</plain>
+        </string>
+        <string>
+            <plain>И залог Святого Духа</plain>
+        </string>
+        <string>
+            <plain>Да исполнит нам сердца.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Счастье быть соединенным</plain>
+        </string>
+        <string>
+            <plain>Друг со другом во Христе,</plain>
+        </string>
+        <string>
+            <plain>Кротким и в сердцах смиренным</plain>
+        </string>
+        <string>
+            <plain>Жить для Бога в простоте.</plain>
+        </string>
+    </verse>
+</song>

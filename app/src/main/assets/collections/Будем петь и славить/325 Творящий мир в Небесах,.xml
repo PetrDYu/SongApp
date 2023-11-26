@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="325" name="Творящий мир в Небесах," canon="false" text="" textRus="Ю. Пастернака, И. Языковой" music="Нуриты Хирш" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Творящий мир в Небесах,</plain>
+        </string>
+        <string>
+            <plain>Мир подари нам и спасенье дай народу Твоему!</plain>
+        </string>
+        <string>
+            <plain>И воскликнем все: аминь!::</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Даруй нам мир, даруй нам мир,</plain>
+        </string>
+        <string>
+            <plain>Даруй нам мир и народу Твоему.</plain>
+            <repeat id="1" rep_rate="5" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>ОСЭ́ ШАЛО́М БИМРОМА́В</plain>
+        </string>
+        <string>
+            <plain>У ЯАСЭ́ ШАЛОМ АЛЭ́ЙНУ</plain>
+        </string>
+        <string>
+            <plain>ВЭ́АЛЬ КО́ЛЬ ИСРАЭ́ЛЬ</plain>
+        </string>
+        <string>
+            <plain>ВЭИМРУ́ ИМРУ́ АМЭ́Н</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Я́АСЭ ШАЛО́М Я́АСЭ ШАЛО́М</plain>
+        </string>
+        <string>
+            <plain>ША́ЛОМ АЛЭ́ЙНУ ВЭА́ЛЬ КОЛЬ ИСРАЭ́ЛЬ</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

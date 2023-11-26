@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1330" name="Воспойте в восторге сердечном" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспойте в восторге сердечном</plain>
+        </string>
+        <string>
+            <plain>Спасителя - Господа сил!</plain>
+        </string>
+        <string>
+            <plain>Он нас возлюбил бесконечно.</plain>
+        </string>
+        <string>
+            <plain>Он нас от греха искупил!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он славную дал нам победу</plain>
+        </string>
+        <string>
+            <plain>Над всем обольщеньем плотским,</plain>
+        </string>
+        <string>
+            <plain>И на душу шепчет беседу</plain>
+        </string>
+        <string>
+            <plain>Он голосом кротким Своим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В надежде спасительной стойте</plain>
+        </string>
+        <string>
+            <plain>И с радостью верьте в Него!</plain>
+        </string>
+        <string>
+            <plain>В восторге духовном воспойте</plain>
+        </string>
+        <string>
+            <plain>Иисуса Христа своего!</plain>
+        </string>
+    </verse>
+</song>

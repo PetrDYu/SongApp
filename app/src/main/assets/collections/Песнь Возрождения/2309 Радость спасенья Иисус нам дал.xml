@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2309" name="Радость спасенья Иисус нам дал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радость спасенья</plain>
+        </string>
+        <string>
+            <plain>Иисус нам дал, (Аллилуйя!) 2 р.</plain>
+        </string>
+        <string>
+            <plain>Он на Голгофе за нас страдал,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аминь!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За спасены, за любовь</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>За Христа святую Кровь</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аминь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славу оставил Он ради нас!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Всех, погибавших в мире, спас!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аминь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть не смолкает Христу хвала,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>О, как чудны все Его дела!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аминь!</plain>
+        </string>
+    </verse>
+</song>

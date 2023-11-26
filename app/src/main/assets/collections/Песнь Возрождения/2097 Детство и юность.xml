@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2097" name="Детство и юность" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Детство и юность (2 р.)</plain>
+        </string>
+        <string>
+            <plain>Умчались, Два сердца теперь сочетались.</plain>
+        </string>
+        <string>
+            <plain>И будет здесь праздник,</plain>
+        </string>
+        <string>
+            <plain>И будет здесь день красивый,</plain>
+        </string>
+        <string>
+            <plain>И будет ли время счастливей?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Один раз в году к нам приходит весна,</plain>
+        </string>
+        <string>
+            <plain>А юность приходит на всю жизнь одна.</plain>
+        </string>
+        <string>
+            <plain>Прощальную песню пропела она,</plain>
+        </string>
+        <string>
+            <plain>Наполнила грустью сердца.</plain>
+        </string>
+        <string>
+            <plain>Прой-дёт год, опять к нам вернётся весна,</plain>
+        </string>
+        <string>
+            <plain>А юность уходит, уйдёт навсегда.</plain>
+        </string>
+        <string>
+            <plain>Поэтому в радостный день торжества</plain>
+        </string>
+        <string>
+            <plain>Печальные ваши глаза.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Шагнуть в неизвестность (2 р.) непросто,</plain>
+        </string>
+        <string>
+            <plain>Без Бога в пути ненадёжно.</plain>
+        </string>
+        <string>
+            <plain>Как в мире тревожно, как в мире и трудно, и сложно!</plain>
+        </string>
+        <string>
+            <plain>Пред Господом счастье надёжно.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Доверим путь жизни (2 р.)</plain>
+        </string>
+        <string>
+            <plain>Иисусу, Держитесь за сильную руку.</plain>
+        </string>
+        <string>
+            <plain>И в холоде, ливне (2 р.) и в стужу</plain>
+        </string>
+        <string>
+            <plain>Идите, как к лучшему Другу.</plain>
+        </string>
+    </verse>
+</song>

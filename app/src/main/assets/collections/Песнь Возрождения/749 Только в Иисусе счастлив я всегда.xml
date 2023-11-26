@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="749" name="Только в Иисусе счастлив я всегда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Только в Иисусе счастлив я всегда,</plain>
+        </string>
+        <string>
+            <plain>Только в Иисусе отдых от труда;</plain>
+        </string>
+        <string>
+            <plain>Он мой Друг, с которым я делюсь во всем,</plain>
+        </string>
+        <string>
+            <plain>Верного Друга я нашел лишь в Нем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, какое счастье другом быть Христа!</plain>
+        </string>
+        <string>
+            <plain>Выразить не могут так мои уста,</plain>
+        </string>
+        <string>
+            <plain>Только мое сердце радуется в Нем,</plain>
+        </string>
+        <string>
+            <plain>В Иисусе, Друге дивном моем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друг, с которым вечно буду жить в любви,</plain>
+        </string>
+        <string>
+            <plain>Друг, который спас меня в Своей крови,</plain>
+        </string>
+        <string>
+            <plain>Доказал любовь Свою Он на кресте,</plain>
+        </string>
+        <string>
+            <plain>Верного Друга я нашел в Христе!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Союз вечной дружбы заключил со мной,</plain>
+        </string>
+        <string>
+            <plain>С юных лет ведет меня Своей рукой</plain>
+        </string>
+        <string>
+            <plain>В ту страну, откуда Он придет за мной,</plain>
+        </string>
+        <string>
+            <plain>Где вечно буду ликовать душой!</plain>
+        </string>
+    </verse>
+</song>

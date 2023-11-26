@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3003" name="Много рук к нам тянется изза морей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много рук к нам тянется из-за морей,</plain>
+        </string>
+        <string>
+            <plain>хлеба жизни каждый ждёт.</plain>
+        </string>
+        <string>
+            <plain>- Что ж, теперь погибнуть им в нужде своей?</plain>
+        </string>
+        <string>
+            <plain>Кто на помощь им придёт?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пусть чрез сушу и моря несётся весть:</plain>
+        </string>
+        <string>
+            <plain>жаждущим спасенья помощь есть!</plain>
+        </string>
+        <string>
+            <plain>И Спаситель, возлюбивший их давно,</plain>
+        </string>
+        <string>
+            <plain>пусть в стадо их ведёт Своё.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Много рук сковал во тьме язычества</plain>
+        </string>
+        <string>
+            <plain>дьявол силою своей.</plain>
+        </string>
+        <string>
+            <plain>Разве не должны мы принести туда</plain>
+        </string>
+        <string>
+            <plain>свет евангельский скорей?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, стоять не можем больше праздно мы,</plain>
+        </string>
+        <string>
+            <plain>видя грех в сердцах людских.</plain>
+        </string>
+        <string>
+            <plain>Многие из них идут к погибели:</plain>
+        </string>
+        <string>
+            <plain>нет Спасителя у них.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Много рук к нам тянется издалека,</plain>
+        </string>
+        <string>
+            <plain>просят нас в скорбях они:</plain>
+        </string>
+        <string>
+            <plain>«Принесите весть нам о любви Христа,</plain>
+        </string>
+        <string>
+            <plain>чтоб нам радость обрести».</plain>
+        </string>
+    </verse>
+</song>

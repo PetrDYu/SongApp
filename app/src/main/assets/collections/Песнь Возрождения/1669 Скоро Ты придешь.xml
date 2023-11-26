@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1669" name="Скоро Ты придешь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скоро Ты придешь</plain>
+        </string>
+        <string>
+            <plain>И меня возьмешь к Себе.</plain>
+        </string>
+        <string>
+            <plain>Только нужно мне</plain>
+        </string>
+        <string>
+            <plain>Верным быть Тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты ведь Сам сказал:</plain>
+        </string>
+        <string>
+            <plain>Будь верен Мне.</plain>
+        </string>
+        <string>
+            <plain>Но найдешь ли Ты</plain>
+        </string>
+        <string>
+            <plain>Веру на земле?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай мне каждый день</plain>
+        </string>
+        <string>
+            <plain>Пребывать в Тебе.</plain>
+        </string>
+        <string>
+            <plain>Я молю Тебя,</plain>
+        </string>
+        <string>
+            <plain>О, услышь меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дай мне побеждать.</plain>
+        </string>
+        <string>
+            <plain>Вражьи силы отражать.</plain>
+        </string>
+        <string>
+            <plain>Чтобы приближать</plain>
+        </string>
+        <string>
+            <plain>Царствие Твое.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1802" name="Хвала хвала" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвала, хвала!</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему утром.</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему в полдень.</plain>
+        </string>
+        <string>
+            <plain>Хвала, хвала!</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему вечером.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слава, слава!</plain>
+        </string>
+        <string>
+            <plain>Слава Ему утром,</plain>
+        </string>
+        <string>
+            <plain>Слава Ему в полдень,</plain>
+        </string>
+        <string>
+            <plain>Слава, слава!</plain>
+        </string>
+        <string>
+            <plain>Слава Ему вечером.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Служу, служу!</plain>
+        </string>
+        <string>
+            <plain>Служу Ему утром.</plain>
+        </string>
+        <string>
+            <plain>Служу Ему в полдень.</plain>
+        </string>
+        <string>
+            <plain>Служу, служу!</plain>
+        </string>
+        <string>
+            <plain>Служу Ему вечером.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Люблю, люблю!</plain>
+        </string>
+        <string>
+            <plain>Люблю Его утром.</plain>
+        </string>
+        <string>
+            <plain>Люблю Его в полдень,</plain>
+        </string>
+        <string>
+            <plain>Люблю, люблю!</plain>
+        </string>
+        <string>
+            <plain>Люблю Его вечером.</plain>
+        </string>
+    </verse>
+</song>

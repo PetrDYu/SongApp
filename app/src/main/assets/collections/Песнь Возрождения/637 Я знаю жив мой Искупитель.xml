@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="637" name="Я знаю жив мой Искупитель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю, жив мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>И Он стоит невдалеке;</plain>
+        </string>
+        <string>
+            <plain>Он - мой Господь и Вседержитель,</plain>
+        </string>
+        <string>
+            <plain>Миров судьба в Его руке.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я знаю, жив Воскресший чудно,</plain>
+        </string>
+        <string>
+            <plain>К Его ногам враги падут.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, жизнь дает Он людям,</plain>
+        </string>
+        <string>
+            <plain>В Его руке и власть, и суд.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я знаю, твердо обещанье:</plain>
+        </string>
+        <string>
+            <plain>Что Он сказал, то совершит;</plain>
+        </string>
+        <string>
+            <plain>Не устрашат меня страданья,</plain>
+        </string>
+        <string>
+            <plain>Путь к небесам Христом открыт!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я знаю, место мне готово,</plain>
+        </string>
+        <string>
+            <plain>Где ночи нет, где нет забот;</plain>
+        </string>
+        <string>
+            <plain>Теперь живу под Его кровом,</plain>
+        </string>
+        <string>
+            <plain>И Он меня к Себе возьмет.</plain>
+        </string>
+    </verse>
+</song>

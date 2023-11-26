@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1807" name="Христос мой как о Тебе молчать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос мой, как о Тебе молчать,</plain>
+        </string>
+        <string>
+            <plain>Как Тебя не благодарить.</plain>
+        </string>
+        <string>
+            <plain>Ведь Ты дал право Тебя познать</plain>
+        </string>
+        <string>
+            <plain>И Твой свет всем людям дарить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Не покидай меня, я быть хочу с Тобой</plain>
+        </string>
+        <string>
+            <plain>Каждый день, и час, и миг земной.</plain>
+        </string>
+        <string>
+            <plain>Руку подай любя, в вечность веди меня,</plain>
+        </string>
+        <string>
+            <plain>В мир счастья, солнечного дня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Творец мой, Ты для людей лишь миф,</plain>
+        </string>
+        <string>
+            <plain>Для меня - Спаситель Христос,</plain>
+        </string>
+        <string>
+            <plain>Создатель неба, планет и звезд,</plain>
+        </string>
+        <string>
+            <plain>Утешитель горя и слез.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всевышний, Ты нас благослови</plain>
+        </string>
+        <string>
+            <plain>Для труда во имя Христа.</plain>
+        </string>
+        <string>
+            <plain>Пошли нам больше дара любви,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не смолкли наши уста.</plain>
+        </string>
+    </verse>
+</song>

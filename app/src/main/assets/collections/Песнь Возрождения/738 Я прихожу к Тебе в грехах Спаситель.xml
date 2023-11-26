@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="738" name="Я прихожу к Тебе в грехах Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я прихожу к Тебе в грехах, Спаситель.</plain>
+        </string>
+        <string>
+            <plain>Я много сделал зла за жизнь свою,</plain>
+        </string>
+        <string>
+            <plain>Пути не знал я Твоего, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>В грехах, во тьме бродил, прости, молю.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Услышь, Господь, мою молитву ныне,</plain>
+        </string>
+        <string>
+            <plain>Прости, прости грехи, омой меня.</plain>
+        </string>
+        <string>
+            <plain>Я сознаю греха и зла пучину,</plain>
+        </string>
+        <string>
+            <plain>О смилуйся в любви, прими раба.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть не достоин возносить молитву,</plain>
+        </string>
+        <string>
+            <plain>Но ради смерти и святой крови,</plain>
+        </string>
+        <string>
+            <plain>Прости вину, омой греха пучину,</plain>
+        </string>
+        <string>
+            <plain>Я жажду мира, святости, любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не отклони моей молитвы, Боже,</plain>
+        </string>
+        <string>
+            <plain>Я верю в силу Сына Твоего,</plain>
+        </string>
+        <string>
+            <plain>Я верю в кровь пролитую и слово,</plain>
+        </string>
+        <string>
+            <plain>Что Ты простишь меня ради Него.</plain>
+        </string>
+    </verse>
+</song>

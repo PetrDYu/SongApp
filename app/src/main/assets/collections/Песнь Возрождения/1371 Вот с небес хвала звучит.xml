@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1371" name="Вот с небес хвала звучит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот с небес хвала звучит:</plain>
+        </string>
+        <string>
+            <plain>Богу слава и хваленье!</plain>
+        </string>
+        <string>
+            <plain>Мир земле Господь дарит.</plain>
+        </string>
+        <string>
+            <plain>Людям всем благоволенье.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот Спаситель вам рожден</plain>
+        </string>
+        <string>
+            <plain>В Вифлееме, Благодатный,</plain>
+        </string>
+        <string>
+            <plain>Он смиренно положен</plain>
+        </string>
+        <string>
+            <plain>В тесных яслях. Необъятный.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что с небес в страну скорбей</plain>
+        </string>
+        <string>
+            <plain>Привело Тебя, Спаситель?</plain>
+        </string>
+        <string>
+            <plain>В чудной благости Своей</plain>
+        </string>
+        <string>
+            <plain>Ты пришел как Избавитель.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Всех людей спасти от зла.</plain>
+        </string>
+        <string>
+            <plain>От грехов и сокрушенья;</plain>
+        </string>
+        <string>
+            <plain>Наша скорбь Тебя свела</plain>
+        </string>
+        <string>
+            <plain>В мир для нашего спасенья.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты пришел спасти, взыскать</plain>
+        </string>
+        <string>
+            <plain>Всех заблудших, угнетенных,</plain>
+        </string>
+        <string>
+            <plain>Помощь и отраду дать</plain>
+        </string>
+        <string>
+            <plain>Для сердец обремененных.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Бедные! Не лейте слез.</plain>
+        </string>
+        <string>
+            <plain>Он принес вам утешенье;</plain>
+        </string>
+        <string>
+            <plain>Он ваш Брат и Царь небес,</plain>
+        </string>
+        <string>
+            <plain>- Вечное Ему хваленье.</plain>
+        </string>
+    </verse>
+</song>

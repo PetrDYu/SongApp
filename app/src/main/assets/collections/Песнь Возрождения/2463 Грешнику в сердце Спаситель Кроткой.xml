@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2463" name="Грешнику в сердце Спаситель Кроткой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грешнику в сердце Спаситель Кроткой рукой постучал,</plain>
+        </string>
+        <string>
+            <plain>Но от него Искупитель Гордый ответ услыхал:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Напрасны мольбы, Не знаю, кто Ты,</plain>
+        </string>
+        <string>
+            <plain>Что душу тревожишь сою.</plain>
+        </string>
+        <string>
+            <plain>Иди же Своей Дорогой скорбей,</plain>
+        </string>
+        <string>
+            <plain>Я дверь не открою свою.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Умерло грешное тело,</plain>
+        </string>
+        <string>
+            <plain>К райским небесным вратам</plain>
+        </string>
+        <string>
+            <plain>В думах стучится несмело,</plain>
+        </string>
+        <string>
+            <plain>Но внемлет Божьим словам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Слышишь: Спаситель твой ходит,</plain>
+        </string>
+        <string>
+            <plain>Сердце Ему распахни.</plain>
+        </string>
+        <string>
+            <plain>И в день последний ответит</plain>
+        </string>
+        <string>
+            <plain>Он на молитвы твои.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Не нужны мольбы, Я знаю, кто ты,</plain>
+        </string>
+        <string>
+            <plain>И дверь открываю Свою.</plain>
+        </string>
+        <string>
+            <plain>Войди же скорей,</plain>
+        </string>
+        <string>
+            <plain>От долгих скорбей</plain>
+        </string>
+        <string>
+            <plain>В святую обитель Мою.</plain>
+        </string>
+    </chorus>
+</song>

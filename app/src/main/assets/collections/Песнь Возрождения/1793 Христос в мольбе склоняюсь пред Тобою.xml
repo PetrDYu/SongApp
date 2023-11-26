@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1793" name="Христос в мольбе склоняюсь пред Тобою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос, в мольбе склоняюсь пред Тобою,</plain>
+        </string>
+        <string>
+            <plain>Взглянь на меня с Голгофской высоты!</plain>
+        </string>
+        <string>
+            <plain>Своих грехов я от Тебя не скрою.</plain>
+        </string>
+        <string>
+            <plain>Господь, кто мне поможет? - Только Ты.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О Иисус, коснись моей проказы</plain>
+        </string>
+        <string>
+            <plain>Своей рукой, способной исцелять.</plain>
+        </string>
+        <string>
+            <plain>Я так, Господь, к греху привязан,</plain>
+        </string>
+        <string>
+            <plain>Что взор к Тебе я не могу поднять.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нет сил бороться, руки опустились,</plain>
+        </string>
+        <string>
+            <plain>Сомненье камнем давит мне на грудь,</plain>
+        </string>
+        <string>
+            <plain>Но прояви ко мне, Спаситель, милость,</plain>
+        </string>
+        <string>
+            <plain>Хочу я с верой на Тебя взглянуть.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2884" name="Пойте дружно детки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пойте дружно, детки,</plain>
+        </string>
+        <string>
+            <plain>песни нашему Христу</plain>
+        </string>
+        <string>
+            <plain>- Он ведь небеса оставил,</plain>
+        </string>
+        <string>
+            <plain>нам явив любовь Свою.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Радостно пойте, славьте Христа!</plain>
+        </string>
+        <string>
+            <plain>Чтите Его во всём и всегда!</plain>
+        </string>
+        <string>
+            <plain>Радостно пойте, славьте Христа!</plain>
+        </string>
+        <string>
+            <plain>Чтите Его во всём и всегда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Да, Христос для нас родился,</plain>
+        </string>
+        <string>
+            <plain>- радость велика!</plain>
+        </string>
+        <string>
+            <plain>- без Него мы б заблудились</plain>
+        </string>
+        <string>
+            <plain>и погибли навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем больше Иисуса</plain>
+        </string>
+        <string>
+            <plain>с каждым днём любить,</plain>
+        </string>
+        <string>
+            <plain>чтоб Его не огорчать нам,</plain>
+        </string>
+        <string>
+            <plain>но лишь ревностней служить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, взгляни на нас,</plain>
+        </string>
+        <string>
+            <plain>Спаситель, мы теперь - Твои;</plain>
+        </string>
+        <string>
+            <plain>ждём, когда придёшь Ты снова,</plain>
+        </string>
+        <string>
+            <plain>чтоб с Тобой быть в вечности.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="316" name="К Тебе, Господь Адонай, на небесах живущий Бог," canon="false" text="" textRus="А. Мерцена" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>К Тебе, Господь Адонай, на небесах живущий Бог,</plain>
+        </string>
+        <string>
+            <plain>Стремимся мы от бед житейских и тревог.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ты простри к нам руки, Адонай Элокейну,</plain>
+        </string>
+        <string>
+            <plain>Адонай Элокейну, о наш Господь, помилуй нас!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Вот, как на руку господ глаза рабов обращены,</plain>
+        </string>
+        <string>
+            <plain>Как очи рабы – на руку госпожи ее,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Так на Тебя взираем, Адонай Элокейну,</plain>
+        </string>
+        <string>
+            <plain>Адонай Элокейну, о наш Господь, помилуй нас!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>(О наш Господь, помилуй нас! – в конце)</plain>
+        </string>
+    </verse>
+</song>

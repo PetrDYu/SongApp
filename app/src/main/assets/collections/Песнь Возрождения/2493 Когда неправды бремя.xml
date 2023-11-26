@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2493" name="Когда неправды бремя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда неправды бремя</plain>
+        </string>
+        <string>
+            <plain>Ложится над душой,</plain>
+        </string>
+        <string>
+            <plain>Христа я голос слышу:</plain>
+        </string>
+        <string>
+            <plain>"Приди, Я дам покой".</plain>
+        </string>
+        <string>
+            <plain>Когда друзей лишаюсь,</plain>
+        </string>
+        <string>
+            <plain>Душа полна тоской,</plain>
+        </string>
+        <string>
+            <plain>Тогда Господь мне шепчет:</plain>
+        </string>
+        <string>
+            <plain>"Я дам тебе покой".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И если мне в прошенье</plain>
+        </string>
+        <string>
+            <plain>Господь откажет мой,</plain>
+        </string>
+        <string>
+            <plain>Взамен Он призывает:</plain>
+        </string>
+        <string>
+            <plain>"Я дам тебе покой".</plain>
+        </string>
+        <string>
+            <plain>Ко всем то приглашены,</plain>
+        </string>
+        <string>
+            <plain>Ко всем тот зов благой,</plain>
+        </string>
+        <string>
+            <plain>Придите все страдальцы,</plain>
+        </string>
+        <string>
+            <plain>И Он вам даст покой.</plain>
+        </string>
+    </verse>
+</song>

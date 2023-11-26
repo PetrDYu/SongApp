@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2701" name="Как любит Бог как счастлив я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как любит Бог, как счастлив я!</plain>
+        </string>
+        <string>
+            <plain>Он - моя цель и жизнь моя.</plain>
+        </string>
+        <string>
+            <plain>Его путем пойду вперед,</plain>
+        </string>
+        <string>
+            <plain>Он в небеса меня ведет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Царила тьма в душе моей,</plain>
+        </string>
+        <string>
+            <plain>Но свет Божественных лучей</plain>
+        </string>
+        <string>
+            <plain>Проник в нее и день настал,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь меня принял.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда лучи святой зари</plain>
+        </string>
+        <string>
+            <plain>Проникли вглубь больной души,</plain>
+        </string>
+        <string>
+            <plain>Нашла душа себе покой,</plain>
+        </string>
+        <string>
+            <plain>И песнь звучит Христу хвалой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Какая радость быть с Отцом,</plain>
+        </string>
+        <string>
+            <plain>Водимым быть Его путем,</plain>
+        </string>
+        <string>
+            <plain>Лишь Им дышу, о Нем мечты,</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему, о друг, и ты.</plain>
+        </string>
+    </verse>
+</song>

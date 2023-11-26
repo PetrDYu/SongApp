@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2776" name="Лето простилось осень к нам пришла" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Лето простилось, осень к нам пришла,</plain>
+        </string>
+        <string>
+            <plain>Лето простилось, наступили холода,</plain>
+        </string>
+        <string>
+            <plain>Грустит природа, льют дождями небеса</plain>
+        </string>
+        <string>
+            <plain>И все стоит, погрузившись в раздумье.</plain>
+        </string>
+        <string>
+            <plain>Мой друг, что в сердце у тебя?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>В душе моей всегда тепло,</plain>
+        </string>
+        <string>
+            <plain>Грустить ей Богом не дано.</plain>
+        </string>
+        <string>
+            <plain>Пою Христу я непрестанно гимн хвалы</plain>
+        </string>
+        <string>
+            <plain>За вечный дар Его любви ко мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь, словно птица, улетает все вперед,</plain>
+        </string>
+        <string>
+            <plain>На смену лету осень грустная идет.</plain>
+        </string>
+        <string>
+            <plain>С чем я предстану, о Господь мой, помоги</plain>
+        </string>
+        <string>
+            <plain>Прожить жизнь так, чтобы не было больно</plain>
+        </string>
+        <string>
+            <plain>За праздно прожитые дни.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Чтоб было в сердце лишь тепло,</plain>
+        </string>
+        <string>
+            <plain>Где места грусти не дано,</plain>
+        </string>
+        <string>
+            <plain>Чтоб пел Христу я непрестанно гимн хвалы</plain>
+        </string>
+        <string>
+            <plain>За вечный дар Его любви ко мне.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Лето простилось, осень к нам пришла,</plain>
+        </string>
+        <string>
+            <plain>Лето простилось, наступили холода,</plain>
+        </string>
+        <string>
+            <plain>Но в сердце радость, не страшны нам холода,</plain>
+        </string>
+        <string>
+            <plain>Ведь наш Христос - жизни нашей основа,</plain>
+        </string>
+        <string>
+            <plain>С Ним будем царствовать всегда.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>В душе моей всегда тепло,</plain>
+        </string>
+        <string>
+            <plain>Грустить ей Богом не дано.</plain>
+        </string>
+        <string>
+            <plain>Пою Христу я непрестанно гимн хвалы</plain>
+        </string>
+        <string>
+            <plain>За вечный дар Его любви ко мне.</plain>
+        </string>
+    </chorus>
+</song>

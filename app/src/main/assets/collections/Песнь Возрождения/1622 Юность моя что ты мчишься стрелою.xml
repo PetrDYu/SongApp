@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1622" name="Юность моя что ты мчишься стрелою" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Юность моя, что ты мчишься стрелою.</plain>
+        </string>
+        <string>
+            <plain>Быстрым потоком несешься, течешь?</plain>
+        </string>
+        <string>
+            <plain>Сколько ты грез принесла мне с собою.</plain>
+        </string>
+        <string>
+            <plain>Но ненадолго, ты скоро уйдешь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты пронесешься, как птичка залетная</plain>
+        </string>
+        <string>
+            <plain>И как заря, в краткой жизни моей.</plain>
+        </string>
+        <string>
+            <plain>Вспыхнешь, осветишь, но жизни заботы</plain>
+        </string>
+        <string>
+            <plain>Вновь заглушают мраком скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И ты угаснешь зарею вечернею.</plain>
+        </string>
+        <string>
+            <plain>Луч твой прощальный мне сладко прольешь.</plain>
+        </string>
+        <string>
+            <plain>И улетят мои радости первые,</plain>
+        </string>
+        <string>
+            <plain>Юность моя от меня улетит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я бы хотел до конца до могильного</plain>
+        </string>
+        <string>
+            <plain>Жизнь свою Богу и людям отдать.</plain>
+        </string>
+        <string>
+            <plain>Жить и дышать той же верой всесильного,</plain>
+        </string>
+        <string>
+            <plain>Так же надеяться, так же любить.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1912" name="Великий Бог Всесильный Бог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Великий Бог, Всесильный Бог!</plain>
+        </string>
+        <string>
+            <plain>Бороться с Вечным кто бы мог?</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! От сердца страх Он удалил</plain>
+        </string>
+        <string>
+            <plain>И грех, как камень, отвалил. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он хлеб. Он щит, Он мир дает;</plain>
+        </string>
+        <string>
+            <plain>Умру я, Он к Себе возьмет.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Где Он живет, там буду я.</plain>
+        </string>
+        <string>
+            <plain>Ведь без Него мне нет житья, Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возрадуйся, Христов народ,</plain>
+        </string>
+        <string>
+            <plain>Тебе Он свет любви дает;</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Так свет Христа рассеет ночь,</plain>
+        </string>
+        <string>
+            <plain>Он может бездну превозмочь. Аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

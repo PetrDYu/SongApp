@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2404" name="Юность свою Богу посвяти" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Юность свою Богу посвяти</plain>
+        </string>
+        <string>
+            <plain>- Будешь счастлив тогда.</plain>
+        </string>
+        <string>
+            <plain>То, что потеряно в юности,</plain>
+        </string>
+        <string>
+            <plain>Уж не вернешь никогда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, поспеши и к Богу обратись,</plain>
+        </string>
+        <string>
+            <plain>Время тебя не ждет.</plain>
+        </string>
+        <string>
+            <plain>Господь сегодня ждет твоей души,</plain>
+        </string>
+        <string>
+            <plain>Спасение дает.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если же счастья хочешь ты,</plain>
+        </string>
+        <string>
+            <plain>То у Христа найдешь.</plain>
+        </string>
+        <string>
+            <plain>Полностью Богу жизнь посвяти,</plain>
+        </string>
+        <string>
+            <plain>Небо ты обретешь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Услышь сегодня зов Христа,</plain>
+        </string>
+        <string>
+            <plain>Давно тебя Он ждет.</plain>
+        </string>
+        <string>
+            <plain>Оставь греховные дела,</plain>
+        </string>
+        <string>
+            <plain>Грех к смерти приведет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Кто отвергнет зов Христа,</plain>
+        </string>
+        <string>
+            <plain>Того отвергнет Он.</plain>
+        </string>
+        <string>
+            <plain>Больше не будет зова Его,</plain>
+        </string>
+        <string>
+            <plain>Он скажет: "Выйди вон".</plain>
+        </string>
+    </verse>
+</song>

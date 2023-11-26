@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2713" name="Пойте Спасителю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пойте Спасителю,</plain>
+        </string>
+        <string>
+            <plain>славьте святые - Он наш Творец.</plain>
+        </string>
+        <string>
+            <plain>За нашу славу и песни простые</plain>
+        </string>
+        <string>
+            <plain>Он даст венец.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пой Ему юноша, девица также,</plain>
+        </string>
+        <string>
+            <plain>Славьте Творца.</plain>
+        </string>
+        <string>
+            <plain>Голосом стройным все радостней,</plain>
+        </string>
+        <string>
+            <plain>громче - Песнь в небеса.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Отроки славьте и дети с хваленым,</plain>
+        </string>
+        <string>
+            <plain>Встретим Христа. С ревностным,</plain>
+        </string>
+        <string>
+            <plain>Сильным к хваленью стремленьем</plain>
+        </string>
+        <string>
+            <plain>Будем всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Славь Его старец, а также старица,</plain>
+        </string>
+        <string>
+            <plain>Пойте Ему, Славьте</plain>
+        </string>
+        <string>
+            <plain>Его всего возраста лица</plain>
+        </string>
+        <string>
+            <plain>- Богу хвалу!</plain>
+        </string>
+    </verse>
+</song>

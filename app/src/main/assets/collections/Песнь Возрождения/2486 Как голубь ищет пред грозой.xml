@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2486" name="Как голубь ищет пред грозой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как голубь ищет пред грозой</plain>
+        </string>
+        <string>
+            <plain>В ущелье крова и спасенья,</plain>
+        </string>
+        <string>
+            <plain>Спеши к Христу, и прегрешенья</plain>
+        </string>
+        <string>
+            <plain>Ты кровью Господа омой, омой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В крови Христа найдешь ты кров,</plain>
+        </string>
+        <string>
+            <plain>В Господней жертве мир и силу.</plain>
+        </string>
+        <string>
+            <plain>Телесно ты пойдешь в могилу,</plain>
+        </string>
+        <string>
+            <plain>А духом в светлый мир духов, духов.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>В крови Его грехи омой</plain>
+        </string>
+        <string>
+            <plain>И встретишь смерть ты с упованьем</plain>
+        </string>
+        <string>
+            <plain>На смерть Его, Христа, страданье</plain>
+        </string>
+        <string>
+            <plain>Тебе даст радость, жизнь, покой, покой.</plain>
+        </string>
+    </chorus>
+</song>

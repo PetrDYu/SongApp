@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="768" name="На рассвете последнего утра" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На рассвете последнего утра</plain>
+        </string>
+        <string>
+            <plain>В вечной славе наш Царь Христос придет,</plain>
+        </string>
+        <string>
+            <plain>Всех искупленных кровию Голгофы</plain>
+        </string>
+        <string>
+            <plain>В Свое вечное царство позовет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там не нужен будет свет,</plain>
+        </string>
+        <string>
+            <plain>В той стране святой, благой</plain>
+        </string>
+        <string>
+            <plain>Не сияет солнца луч,</plain>
+        </string>
+        <string>
+            <plain>Не постигнет жаркий зной.</plain>
+        </string>
+        <string>
+            <plain>Не войдет туда вражда,</plain>
+        </string>
+        <string>
+            <plain>Ни тоска, ни вопль, ни стон.</plain>
+        </string>
+        <string>
+            <plain>Светом будет Иисус Христос во славе,</plain>
+        </string>
+        <string>
+            <plain>Вечный Свет - Утешитель, крепкий Бог.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Христиане, духовно живые,</plain>
+        </string>
+        <string>
+            <plain>Не страшился кто тяжести креста,</plain>
+        </string>
+        <string>
+            <plain>Члены Церкви Святой – Невесты Агнца –</plain>
+        </string>
+        <string>
+            <plain>Вечно будут в объятиях Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ожидаем прекрасного утра,</plain>
+        </string>
+        <string>
+            <plain>Когда встретим грядущего Христа</plain>
+        </string>
+        <string>
+            <plain>И в небесное царство золотое</plain>
+        </string>
+        <string>
+            <plain>Водворимся с Иисусом навсегда.</plain>
+        </string>
+    </verse>
+</song>

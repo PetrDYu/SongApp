@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2355" name="Трубы Божии звучите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Трубы Божии, звучите,</plain>
+        </string>
+        <string>
+            <plain>Как потоки многих вод!</plain>
+        </string>
+        <string>
+            <plain>Спящих грешников будите,</plain>
+        </string>
+        <string>
+            <plain>Возвещайте: "Бог грядёт!".</plain>
+        </string>
+        <string>
+            <plain>Призывайте ко Христу</plain>
+        </string>
+        <string>
+            <plain>И к Голгофскому кресту.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Трубы Божии, звучите</plain>
+        </string>
+        <string>
+            <plain>Непрестанно, без конца,</plain>
+        </string>
+        <string>
+            <plain>Крепость смерти устрашите</plain>
+        </string>
+        <string>
+            <plain>Силой вечного Творца.</plain>
+        </string>
+        <string>
+            <plain>Да падёт, потрясена,</plain>
+        </string>
+        <string>
+            <plain>Иерихонская стена.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Трубы Божии, звучите,</plain>
+        </string>
+        <string>
+            <plain>Заглушайте ада гром!</plain>
+        </string>
+        <string>
+            <plain>Как волна реки в граните,</plain>
+        </string>
+        <string>
+            <plain>Скован дух людской грехом.</plain>
+        </string>
+        <string>
+            <plain>Люди стонут, но их стон</plain>
+        </string>
+        <string>
+            <plain>Будет радостью сменён.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Трубы Божии, звучите</plain>
+        </string>
+        <string>
+            <plain>О великих чудесах,</plain>
+        </string>
+        <string>
+            <plain>О победе возвестите</plain>
+        </string>
+        <string>
+            <plain>Хором Божьим в небесах.</plain>
+        </string>
+        <string>
+            <plain>Вот, Творцом потрясена,</plain>
+        </string>
+        <string>
+            <plain>Пала грозная стена.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2087" name="Господь я люблю Тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, я люблю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Иисус, я люблю Тебя,</plain>
+        </string>
+        <string>
+            <plain>Ты солнце мое каждый час,</plain>
+        </string>
+        <string>
+            <plain>Я люблю Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты звезца в ночи (в темной ночи),</plain>
+        </string>
+        <string>
+            <plain>Сделал все для ме-ня (для меня),</plain>
+        </string>
+        <string>
+            <plain>В целом мире опора лишь</plain>
+        </string>
+        <string>
+            <plain>Ты, Я люблю Тебя.</plain>
+        </string>
+    </verse>
+</song>

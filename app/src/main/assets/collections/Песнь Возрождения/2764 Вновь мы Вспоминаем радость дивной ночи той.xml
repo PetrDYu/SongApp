@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2764" name="Вновь мы Вспоминаем радость дивной ночи той" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вновь мы Вспоминаем радость дивной ночи той!</plain>
+        </string>
+        <string>
+            <plain>Наш Спаситель в мир родился, людям дан покой.</plain>
+        </string>
+        <string>
+            <plain>Радость эта вечно нова, вечно дорога,</plain>
+        </string>
+        <string>
+            <plain>Вспоминаем каждый год день Рождества.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пойте люди, пойте - Христос рожден,</plain>
+        </string>
+        <string>
+            <plain>В ясли Он положен.</plain>
+        </string>
+        <string>
+            <plain>Всем людам мир был возвещен</plain>
+        </string>
+        <string>
+            <plain>В ту ночь, когда Христос рожден.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Весть благую ангел светлый пастухам сказал,</plain>
+        </string>
+        <string>
+            <plain>Город Вифлеем беспечно в это время спал.</plain>
+        </string>
+        <string>
+            <plain>Вести ангельской не слышал, тьмой он был обьят,</plain>
+        </string>
+        <string>
+            <plain>Не внимал словам небесным, что звучат.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Слава, слава Богу в вышних", - пусть поют уста.</plain>
+        </string>
+        <string>
+            <plain>"Людам мир, благоволенье", - вторят небеса.</plain>
+        </string>
+        <string>
+            <plain>Бог погибший мир так любит, Сына что послан,</plain>
+        </string>
+        <string>
+            <plain>От грехов освобожденье нам Он дал.</plain>
+        </string>
+    </verse>
+</song>

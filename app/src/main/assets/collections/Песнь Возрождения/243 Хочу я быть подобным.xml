@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="243" name="Хочу я быть подобным" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хочу я быть подобным</plain>
+        </string>
+        <string>
+            <plain>Иисусу моему;</plain>
+        </string>
+        <string>
+            <plain>Хочу воспеть о Нем я</plain>
+        </string>
+        <string>
+            <plain>Созданию всему.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус пришел спасти нас,</plain>
+        </string>
+        <string>
+            <plain>Страдал в скорбях за нас;</plain>
+        </string>
+        <string>
+            <plain>Хочу о том вещать я</plain>
+        </string>
+        <string>
+            <plain>Повсюду всякий час.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочу слугою верным</plain>
+        </string>
+        <string>
+            <plain>Работать для Него;</plain>
+        </string>
+        <string>
+            <plain>Да знает мир: люблю я</plain>
+        </string>
+        <string>
+            <plain>Иисуса моего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу я быть с Иисусом</plain>
+        </string>
+        <string>
+            <plain>Там в светлой вышине,</plain>
+        </string>
+        <string>
+            <plain>Где Он в любви безмерной</plain>
+        </string>
+        <string>
+            <plain>Готовит место мне.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2216" name="Мы пред Тобою все предстоим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы пред Тобою все предстоим,</plain>
+        </string>
+        <string>
+            <plain>Благодарим, благодарим.</plain>
+        </string>
+        <string>
+            <plain>Дети Твои, мы в Твоей крови,</plain>
+        </string>
+        <string>
+            <plain>Мы от смерти искуплены.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боксе, Свет проливаешь в долину слёз,</plain>
+        </string>
+        <string>
+            <plain>Перед Тобою горы растают, как воск.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Радость, надежду, душе покой</plain>
+        </string>
+        <string>
+            <plain>Мы получаем при встрече с Тобой.</plain>
+        </string>
+        <string>
+            <plain>Дети Твои, мы в Твоей любви</plain>
+        </string>
+        <string>
+            <plain>Всё имеем, и нет нужды.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Свет воскресенья настиг меня,</plain>
+        </string>
+        <string>
+            <plain>Я прозрел от света дпя.</plain>
+        </string>
+        <string>
+            <plain>Сильной рукою хранишь от беды,</plain>
+        </string>
+        <string>
+            <plain>Мой Спаситель, со мною Ты.</plain>
+        </string>
+    </verse>
+</song>

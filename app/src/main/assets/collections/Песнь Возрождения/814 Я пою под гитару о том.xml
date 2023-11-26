@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="814" name="Я пою под гитару о том" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я пою под гитару о том,</plain>
+        </string>
+        <string>
+            <plain>Что расстался со всяким грехом;</plain>
+        </string>
+        <string>
+            <plain>Прославляя Христову любовь,</plain>
+        </string>
+        <string>
+            <plain>Кто пролил на кресте Свою кровь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Звонче, звонче, гитара, звучи,</plain>
+        </string>
+        <string>
+            <plain>О могучем Христе не молчи!</plain>
+        </string>
+        <string>
+            <plain>Звонче, звонче, гитара, играй,</plain>
+        </string>
+        <string>
+            <plain>Иисуса Христа прославляй!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он великою жертвой Своей</plain>
+        </string>
+        <string>
+            <plain>Спас меня от греховных путей;</plain>
+        </string>
+        <string>
+            <plain>Он лишь смог меня к счастью вернуть.</plain>
+        </string>
+        <string>
+            <plain>И наставить на праведный путь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он мне сердце мое возродил,</plain>
+        </string>
+        <string>
+            <plain>К новой жизни меня пробудил,</plain>
+        </string>
+        <string>
+            <plain>И душа переполнена Им,</plain>
+        </string>
+        <string>
+            <plain>Познакомить желает всех с Ним.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О как счастлив я, зная о том,</plain>
+        </string>
+        <string>
+            <plain>Что на небе я встречусь с Христом</plain>
+        </string>
+        <string>
+            <plain>И войду в Его дом золотой,</plain>
+        </string>
+        <string>
+            <plain>Получу в нем желанный покой!</plain>
+        </string>
+    </verse>
+</song>

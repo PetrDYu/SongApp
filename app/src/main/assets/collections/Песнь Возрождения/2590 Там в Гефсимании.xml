@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2590" name="Там в Гефсимании" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Там, в Гефсимании,</plain>
+        </string>
+        <string>
+            <plain>Один, Спаситель чашу пил.</plain>
+        </string>
+        <string>
+            <plain>И за меня Сам Божий</plain>
+        </string>
+        <string>
+            <plain>Сын Так тяжко мучим был.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Один, Один страдал Он за меня,</plain>
+        </string>
+        <string>
+            <plain>И, чтобы меня от мук спасти,</plain>
+        </string>
+        <string>
+            <plain>Там, на кресте, Он умирал Один...</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И на суде Один стоял</plain>
+        </string>
+        <string>
+            <plain>Перед Пилотом Он.</plain>
+        </string>
+        <string>
+            <plain>Ему трость воин в руки дал.</plain>
+        </string>
+        <string>
+            <plain>Он бьи уничижен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Потом на крест повешен был,</plain>
+        </string>
+        <string>
+            <plain>Кок вор иль кок злодей.</plain>
+        </string>
+        <string>
+            <plain>И Тот, Кто всем добро творил,</plain>
+        </string>
+        <string>
+            <plain>Страдал за всех людей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Зачем ты медлишь, о мой друг?</plain>
+        </string>
+        <string>
+            <plain>Зачем вдали стоишь?</plain>
+        </string>
+        <string>
+            <plain>Приди с молитвой и к Нему</plain>
+        </string>
+        <string>
+            <plain>Всем сердцем обратись.</plain>
+        </string>
+    </verse>
+</song>

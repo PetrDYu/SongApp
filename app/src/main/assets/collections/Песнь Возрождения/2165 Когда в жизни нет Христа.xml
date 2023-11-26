@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2165" name="Когда в жизни нет Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда в жизни нет Христа,</plain>
+        </string>
+        <string>
+            <plain>Когда в сердце нет любви</plain>
+        </string>
+        <string>
+            <plain>И в душе мрак, суета,</plain>
+        </string>
+        <string>
+            <plain>Ты на Бога посмотри.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди, Иисус, в моё сердце,</plain>
+        </string>
+        <string>
+            <plain>я так жду, я так жажду.</plain>
+        </string>
+        <string>
+            <plain>Наполни радостью Своей</plain>
+        </string>
+        <string>
+            <plain>И душу нежно мне согрей,</plain>
+        </string>
+        <string>
+            <plain>Пусть в ней всегда будет покой,</plain>
+        </string>
+        <string>
+            <plain>И буду вечно я с Тобой, навсегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как пламень, вспыхнула любовь</plain>
+        </string>
+        <string>
+            <plain>И озарила всё везде.</plain>
+        </string>
+        <string>
+            <plain>Ты поселился в сердце</plain>
+        </string>
+        <string>
+            <plain>И теперь живёшь во мне.</plain>
+        </string>
+    </verse>
+</song>

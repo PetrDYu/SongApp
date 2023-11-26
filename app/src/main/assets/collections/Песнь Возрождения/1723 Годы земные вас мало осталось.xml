@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1723" name="Годы земные вас мало осталось" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Годы земные, вас мало осталось,</plain>
+        </string>
+        <string>
+            <plain>Вы, как мгновения, быстро летите;</plain>
+        </string>
+        <string>
+            <plain>Милое детство вчера лишь смеялось -</plain>
+        </string>
+        <string>
+            <plain>О, наши годы, зачем вы спешите.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Словно осенние падают листья,</plain>
+        </string>
+        <string>
+            <plain>Так и года наши быстро уходят,</plain>
+        </string>
+        <string>
+            <plain>Нам оставляя о пройденном вести -</plain>
+        </string>
+        <string>
+            <plain>К вечности ближе идут наши годы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Словно корабль, что отправился в море,</plain>
+        </string>
+        <string>
+            <plain>Где наша жизнь незаметно проходит,</plain>
+        </string>
+        <string>
+            <plain>Тихое море и бурное море -</plain>
+        </string>
+        <string>
+            <plain>Так нашей жизни бегущие годы.</plain>
+        </string>
+    </verse>
+</song>

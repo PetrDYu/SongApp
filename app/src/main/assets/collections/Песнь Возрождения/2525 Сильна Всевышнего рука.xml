@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2525" name="Сильна Всевышнего рука" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сильна Всевышнего рука,</plain>
+        </string>
+        <string>
+            <plain>Как воздух всюду к нам близка;</plain>
+        </string>
+        <string>
+            <plain>От зла греха и стрел врага</plain>
+        </string>
+        <string>
+            <plain>Хранит меня.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Блажен, кто герою живет,</plain>
+        </string>
+        <string>
+            <plain>Не стонет под ярмом забот!</plain>
+        </string>
+        <string>
+            <plain>Я льну к Тому,</plain>
+        </string>
+        <string>
+            <plain>Кто средь невзгод Хранит меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, в любви Твоей святой</plain>
+        </string>
+        <string>
+            <plain>Веди меня добра стезей</plain>
+        </string>
+        <string>
+            <plain>И в жизни суетной, земной</plain>
+        </string>
+        <string>
+            <plain>Храни меня. Аминь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3065" name="Весь на жертвеннике я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Весь на жертвеннике я</plain>
+        </string>
+        <string>
+            <plain>- знаю, освятишь меня.</plain>
+        </string>
+        <string>
+            <plain>Верю я, Господь, Тебе,</plain>
+        </string>
+        <string>
+            <plain>Ты свидетельство дал мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты освятишь, Господь, меня.</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе во все века!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Умер я для дел греха</plain>
+        </string>
+        <string>
+            <plain>и живу лишь для Тебя</plain>
+        </string>
+        <string>
+            <plain>- тело, душу, жизнь свою</plain>
+        </string>
+        <string>
+            <plain>в Твои руки отдаю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Свой талант и время всё,</plain>
+        </string>
+        <string>
+            <plain>золото и серебро</plain>
+        </string>
+        <string>
+            <plain>- что оставлю я себе?</plain>
+        </string>
+        <string>
+            <plain>Нет, я всё отдам Тебе!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Славьте Бога! Кровь Христа</plain>
+        </string>
+        <string>
+            <plain>сердцу счастье принесла,</plain>
+        </string>
+        <string>
+            <plain>в нём чертог создали Свой</plain>
+        </string>
+        <string>
+            <plain>Бог и Сын, и Дух святой.</plain>
+        </string>
+    </verse>
+</song>

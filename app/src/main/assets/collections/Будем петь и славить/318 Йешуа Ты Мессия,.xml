@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="318" name="Йешуа Ты Мессия," canon="false" text="" textRus="Н.Чернышева" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Йешуа! Ты – Мессия,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Ты – наш Царь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="1">
+        <string>
+            <plain>Воскликни, вся земля, славь своего Царя.</plain>
+        </string>
+        <string>
+            <plain>Перед лицом Его пляши и пой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ликуй, Сиона дщерь, радуйся, Исраэль.</plain>
+        </string>
+        <string>
+            <plain>Бог твой грядет к тебе, Спаситель твой.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>ЙЕШУА А-МАШИАХ</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>МЕЛЕХ ИСРАЭЛЬ.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

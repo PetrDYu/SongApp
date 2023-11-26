@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="43" name="Молись в день радужного счастья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Молись в день радужного счастья,</plain>
+        </string>
+        <string>
+            <plain>Пред трудным подвигом молись!</plain>
+        </string>
+        <string>
+            <plain>Молись, когда грозит несчастье,</plain>
+        </string>
+        <string>
+            <plain>Когда смущаешься, молись!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Молись, когда обиду сносишь,</plain>
+        </string>
+        <string>
+            <plain>Когда в опасности, молись!</plain>
+        </string>
+        <string>
+            <plain>Молись, когда за милых просишь,</plain>
+        </string>
+        <string>
+            <plain>За злого недруга молись!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Молись, когда слабеют силы,</plain>
+        </string>
+        <string>
+            <plain>Когда возносишься - молись!</plain>
+        </string>
+        <string>
+            <plain>Молись у дорогой могилы,</plain>
+        </string>
+        <string>
+            <plain>За жизнь рожденную молись!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Молись в минуту искушенья,</plain>
+        </string>
+        <string>
+            <plain>Коль победил себя - молись!</plain>
+        </string>
+        <string>
+            <plain>Молись в печальное мгновенье,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Бог простил тебя - молись!</plain>
+        </string>
+    </verse>
+</song>

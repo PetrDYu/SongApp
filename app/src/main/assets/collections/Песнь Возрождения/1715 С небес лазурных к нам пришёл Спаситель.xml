@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1715" name="С небес лазурных к нам пришёл Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С небес лазурных к нам пришёл Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Он в яслях был рождён, Иисусом наречён.</plain>
+        </string>
+        <string>
+            <plain>Он был отвержен и скорби подвержен,</plain>
+        </string>
+        <string>
+            <plain>Страданья, боль и горе испытал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Творец Великий, Ты мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Тобой дышу я. Ты все во всем.</plain>
+        </string>
+        <string>
+            <plain>Тебе с любовью я поклоняюсь,</plain>
+        </string>
+        <string>
+            <plain>Все совершенство в Тебе одном!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>К нам снизошёл Он, и во мраке ночи,</plain>
+        </string>
+        <string>
+            <plain>И в безнадёжности, как солнце, воссиял.</plain>
+        </string>
+        <string>
+            <plain>Бог милосердный. Он в любви безмерной</plain>
+        </string>
+        <string>
+            <plain>К Себе привлёк нас, спас и оправдал!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Велик план Божий, благочестья тайна,</plain>
+        </string>
+        <string>
+            <plain>Чтоб плоть и кровь принять,</plain>
+        </string>
+        <string>
+            <plain>За нас чтоб пострадать.</plain>
+        </string>
+        <string>
+            <plain>Пришлось Иисусу в жертву искупленья</plain>
+        </string>
+        <string>
+            <plain>На крест Голгофы жизнь Свою отдать.</plain>
+        </string>
+    </chorus>
+</song>

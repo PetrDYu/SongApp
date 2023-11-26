@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1447" name="Как ива что склоняется над чистою рекой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как ива, что склоняется над чистою рекой</plain>
+        </string>
+        <string>
+            <plain>И в воду погружается запыленной листвой,</plain>
+        </string>
+        <string>
+            <plain>И пыль смывая серую в беспечной с ней борьбе.</plain>
+        </string>
+        <string>
+            <plain>Так я порою с верою иду, Господь, к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Иду к Тебе с надеждою, что смоешь грех в мольбе.</plain>
+        </string>
+        <string>
+            <plain>С запыленной одеждою иду, Господь, к Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как ждёт прибоя чистого гранит на берегу</plain>
+        </string>
+        <string>
+            <plain>И дождичка зернистого растенье на лугу,</plain>
+        </string>
+        <string>
+            <plain>Так я за чистой совестью среди житейских волн.</plain>
+        </string>
+        <string>
+            <plain>За вечной жизни повестью к Тебе, Господь, пришёл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иду обезображенный, как вечером домой</plain>
+        </string>
+        <string>
+            <plain>Идёт шахтёр замазанный, оставив свой забой.</plain>
+        </string>
+        <string>
+            <plain>Иду к Тебе с надеждою, что смоешь грех в мольбе, С запыленной одеждою иду.</plain>
+        </string>
+        <string>
+            <plain>Господь, к Тебе.</plain>
+        </string>
+    </verse>
+</song>

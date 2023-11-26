@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3300" name="Много дорог есть на свете друзья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много дорог есть на свете друзья,</plain>
+        </string>
+        <string>
+            <plain>Каждый из нас в жизни путь выбирает.</plain>
+        </string>
+        <string>
+            <plain>Трудно идти - неизвестны края,</plain>
+        </string>
+        <string>
+            <plain>но есть лишь одна стезя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скоро придёт всем скорбям конец.</plain>
+        </string>
+        <string>
+            <plain>Всех нас возьмёт от земли Творец.</plain>
+        </string>
+        <string>
+            <plain>Будем на небе, где вечная красота</plain>
+        </string>
+        <string>
+            <plain>прославлять Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Этой стезёй шёл Спаситель Христос.</plain>
+        </string>
+        <string>
+            <plain>Всё испытал, всех любя и прощая.</plain>
+        </string>
+        <string>
+            <plain>Путь совершил, путь страданий и слёз,</plain>
+        </string>
+        <string>
+            <plain>и вечный нам мир принёс.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Быстро проходят земные года.</plain>
+        </string>
+        <string>
+            <plain>Милый мой друг, обратись к Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Может прерваться жизнь навсегда.</plain>
+        </string>
+        <string>
+            <plain>О, что скажешь ты тогда?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Цель нашей жизни - Спаситель Христос.</plain>
+        </string>
+        <string>
+            <plain>Давший спасение всем кто желает.</plain>
+        </string>
+        <string>
+            <plain>Вечное счастье всем Он принёс.</plain>
+        </string>
+        <string>
+            <plain>Да! В небе не будет слёз</plain>
+        </string>
+    </verse>
+</song>

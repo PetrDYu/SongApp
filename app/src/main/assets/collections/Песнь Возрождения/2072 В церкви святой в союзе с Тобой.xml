@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2072" name="В церкви святой в союзе с Тобой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В церкви святой, в союзе с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Я счастлив навек, что я человек,</plain>
+        </string>
+        <string>
+            <plain>И я не один христианин,</plain>
+        </string>
+        <string>
+            <plain>Над всею землей звучит голос мой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда я в Тебе - Тогда Ты во мне,</plain>
+        </string>
+        <string>
+            <plain>Когда я с Тобой, Тогда Ты со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>С Иисусом в труде, в житейской борьбе,</plain>
+        </string>
+        <string>
+            <plain>На всяком пути легко с Ним идти,</plain>
+        </string>
+        <string>
+            <plain>С тяжелого ношей, когда устаю,</plain>
+        </string>
+        <string>
+            <plain>Тогда я знакомую песню пою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда за Тебя осудят меня,</plain>
+        </string>
+        <string>
+            <plain>Куда-то отправят в чужие края,</plain>
+        </string>
+        <string>
+            <plain>Но знаю: и там не буду я сам,</plain>
+        </string>
+        <string>
+            <plain>В далеком краю песнь вновь запою.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как радостно мне: Он Духом во мне,</plain>
+        </string>
+        <string>
+            <plain>И сердцем я с Ним, с Иисусом моим,</plain>
+        </string>
+        <string>
+            <plain>Ведь я не один христианин,</plain>
+        </string>
+        <string>
+            <plain>Над всею землей звучит голос мой.</plain>
+        </string>
+    </verse>
+</song>

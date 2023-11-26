@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2580" name="Если в жизни путь твой тёмен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если в жизни путь твой тёмен</plain>
+        </string>
+        <string>
+            <plain>И его прикрыла мгла,</plain>
+        </string>
+        <string>
+            <plain>Если шаг твой слаб и робок,</plain>
+        </string>
+        <string>
+            <plain>Пригласи тогда Христа.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Приди, о Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Ты Помощник верный мой,</plain>
+        </string>
+        <string>
+            <plain>Средь опасностей Хранитель,</plain>
+        </string>
+        <string>
+            <plain>Хорошо мне быть с Тобой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если горе давит гнетом</plain>
+        </string>
+        <string>
+            <plain>И молчат твои друзья,</plain>
+        </string>
+        <string>
+            <plain>Сердцу боль но, одиноко,</plain>
+        </string>
+        <string>
+            <plain>Пригласи тогда Христа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если ты с грехом в боренье</plain>
+        </string>
+        <string>
+            <plain>И победа далека,</plain>
+        </string>
+        <string>
+            <plain>Если силы нет в служенье,</plain>
+        </string>
+        <string>
+            <plain>Пригласи тогда Христа.</plain>
+        </string>
+    </verse>
+</song>

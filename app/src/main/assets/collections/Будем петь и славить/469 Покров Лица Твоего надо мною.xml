@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="469" name="Покров Лица Твоего надо мною" canon="false" text="Терезы Малой из Лизьё" textRus="" music="бр. Эфраима" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Покров Лица Твоего надо мною.</plain>
+        </string>
+        <string>
+            <plain>Хвалу Тебе пусть вознесут уста</plain>
+        </string>
+        <string>
+            <plain>За благодать, которой удостоил</plain>
+        </string>
+        <string>
+            <plain>Тех, кто терпел под тяжестью Креста.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Испив до дна эту горькую чашу,</plain>
+        </string>
+        <string>
+            <plain>Теперь сама я убедилась в том,</plain>
+        </string>
+        <string>
+            <plain>Что не напрасны все страданья наши:</plain>
+        </string>
+        <string>
+            <plain>Грех победить возможно лишь Крестом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страданье делает душу великой,</plain>
+        </string>
+        <string>
+            <plain>Как небеса, без края и конца.</plain>
+        </string>
+        <string>
+            <plain>Свет Твоего Божественного Лика</plain>
+        </string>
+        <string>
+            <plain>К небу вознес ослабшие сердца.</plain>
+        </string>
+    </verse>
+</song>

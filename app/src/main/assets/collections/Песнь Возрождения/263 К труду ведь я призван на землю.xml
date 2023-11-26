@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="263" name="К труду ведь я призван на землю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К труду ведь я призван на землю,</plain>
+        </string>
+        <string>
+            <plain>К борьбе с своей плотью и злом,</plain>
+        </string>
+        <string>
+            <plain>К вражде ко всему, что греховно,</plain>
+        </string>
+        <string>
+            <plain>И к жизни в любви со врагом;</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любить же любовью Христа,</plain>
+        </string>
+        <string>
+            <plain>Кто Сам, не щадя Своей жизни,</plain>
+        </string>
+        <string>
+            <plain>Отдал Себя муке креста.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я воин небесного града,</plain>
+        </string>
+        <string>
+            <plain>Мне славы не надо земной;</plain>
+        </string>
+        <string>
+            <plain>Здесь слезы, печаль и страданья –</plain>
+        </string>
+        <string>
+            <plain>Там будет венец золотой.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Не глядя на робких друзей,</plain>
+        </string>
+        <string>
+            <plain>Свидетелем быть перед миром,</plain>
+        </string>
+        <string>
+            <plain>Суда не бояться людей.</plain>
+        </string>
+    </chorus>
+</song>

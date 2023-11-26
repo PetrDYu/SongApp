@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="766" name="Куда теперь идти мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Куда теперь идти мне?</plain>
+        </string>
+        <string>
+            <plain>Куда направить путь?</plain>
+        </string>
+        <string>
+            <plain>К земным ли благам жизни?</plain>
+        </string>
+        <string>
+            <plain>Где можно отдохнуть?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь там найду покой я,</plain>
+        </string>
+        <string>
+            <plain>Лишь там не будет слез,</plain>
+        </string>
+        <string>
+            <plain>Лишь там забуду скорбь я –</plain>
+        </string>
+        <string>
+            <plain>Где Сам царит Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как трудно все оставить,</plain>
+        </string>
+        <string>
+            <plain>Стремиться лишь туда,</plain>
+        </string>
+        <string>
+            <plain>Где ждет меня Отчизна,</plain>
+        </string>
+        <string>
+            <plain>Желанная страна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не знаю что со мною</plain>
+        </string>
+        <string>
+            <plain>Случилось вдруг теперь,</plain>
+        </string>
+        <string>
+            <plain>А сердце все тоскует</plain>
+        </string>
+        <string>
+            <plain>О Родине моей.</plain>
+        </string>
+    </verse>
+</song>

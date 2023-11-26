@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="515" name="Я пью Твою любовь, и сердце мое хранит" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Я пью Твою любовь, и сердце мое хранит</plain>
+        </string>
+        <string>
+            <plain>Благодать напитка Твоего.</plain>
+        </string>
+        <string>
+            <plain>Живой рекой течет мед из уст Твоих,</plain>
+        </string>
+        <string>
+            <plain>Твой Суд и милость – сладость для меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Прекрасней всех прекрас, чудесней всех чудес</plain>
+        </string>
+        <string>
+            <plain>Неизреченный Бог – сокровище небес.</plain>
+        </string>
+        <string>
+            <plain>Превыше всех высот, глубинней всей глубин,</plain>
+        </string>
+        <string>
+            <plain>Вовеки с нами Бог, Слуга и Господин.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я пью Твою любовь, теплом Твоим согрет,</plain>
+        </string>
+        <string>
+            <plain>Отцовскою заботой окружен.</plain>
+        </string>
+        <string>
+            <plain>О, сколько огорчал неверностью своей</plain>
+        </string>
+        <string>
+            <plain>Тебя, Отец, и сколько Ты прощал!</plain>
+        </string>
+    </verse>
+</song>

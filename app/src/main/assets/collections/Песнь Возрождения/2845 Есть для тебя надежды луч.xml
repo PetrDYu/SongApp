@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2845" name="Есть для тебя надежды луч" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть для тебя надежды луч,</plain>
+        </string>
+        <string>
+            <plain>несчастная душа:</plain>
+        </string>
+        <string>
+            <plain>взгляни на крест узри Того,</plain>
+        </string>
+        <string>
+            <plain>кто умер за тебя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Путь всем открыт, путь к небесам открыт,</plain>
+        </string>
+        <string>
+            <plain>светит надежды луч с небес тебе.</plain>
+        </string>
+        <string>
+            <plain>Ныне приди, ныне к Нему приди,</plain>
+        </string>
+        <string>
+            <plain>верь и живи вовеки во Христе!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Смотри, унылая душа, и знай:</plain>
+        </string>
+        <string>
+            <plain>Бог есть любовь!</plain>
+        </string>
+        <string>
+            <plain>Ведь на Голгофе за тебя</plain>
+        </string>
+        <string>
+            <plain>Сын пролил Свою кровь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть ты томим виной,</plain>
+        </string>
+        <string>
+            <plain>стыдом, и сердце как гранит,</plain>
+        </string>
+        <string>
+            <plain>если раскаешься в грехах,</plain>
+        </string>
+        <string>
+            <plain>Он все тебе простит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть угнетает грех тебя</plain>
+        </string>
+        <string>
+            <plain>и смерть грозит, и ад,</plain>
+        </string>
+        <string>
+            <plain>- Господь тебе в Своей любви</plain>
+        </string>
+        <string>
+            <plain>спасенье хочет дать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О бедная душа в грехах,</plain>
+        </string>
+        <string>
+            <plain>гонимая врагом,</plain>
+        </string>
+        <string>
+            <plain>- Бог есть любовь,</plain>
+        </string>
+        <string>
+            <plain>приди к Нему,</plain>
+        </string>
+        <string>
+            <plain>спасение лишь в Нем!</plain>
+        </string>
+    </verse>
+</song>

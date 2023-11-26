@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2732" name="Вот Божий Сын распятый на кресте" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот Божий Сын, распятый на кресте,</plain>
+        </string>
+        <string>
+            <plain>Страданьями Он жизнь мне подарил;</plain>
+        </string>
+        <string>
+            <plain>Мир погибающий давно в грехе</plain>
+        </string>
+        <string>
+            <plain>Голгофской Кровью искупил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Муки, раны</plain>
+        </string>
+        <string>
+            <plain>За меня Христос принял (принял).</plain>
+        </string>
+        <string>
+            <plain>Принял крестной смертью,</plain>
+        </string>
+        <string>
+            <plain>Меня навеки оправдал (оправдал).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Божий Сын пять ран за нас принял,</plain>
+        </string>
+        <string>
+            <plain>Нас искупил, Он Кровь за нас пролил;</plain>
+        </string>
+        <string>
+            <plain>В тяжелых муках на кресте страдал,</plain>
+        </string>
+        <string>
+            <plain>И смертью жизнь нам подарил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот Божий Сын, Он пред Отцом предстал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб защитить меня от клеветы,</plain>
+        </string>
+        <string>
+            <plain>Он на себя вину мою принял,</plain>
+        </string>
+        <string>
+            <plain>Защитник Он моей души.</plain>
+        </string>
+    </verse>
+</song>

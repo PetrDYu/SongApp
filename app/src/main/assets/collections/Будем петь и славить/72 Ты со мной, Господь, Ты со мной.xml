@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="72" name="Ты со мной, Господь, Ты со мной" canon="false" text="Л. Маянц" textRus="" music="Л. Маянц" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Ты со мной, Господь, Ты со мной!</plain>
+        </string>
+        <string>
+            <plain>Ты всегда услышишь меня.</plain>
+        </string>
+        <string>
+            <plain>От беды избавишь любой,</plain>
+        </string>
+        <string>
+            <plain>Из воды спасешь и огня.</plain>
+        </string>
+        <string>
+            <plain>Светит мне Твой ласковый свет,</plain>
+        </string>
+        <string>
+            <plain>Возвещая милость Твою.</plain>
+        </string>
+        <string>
+            <plain>И Твоей любовью согретый(та),</plain>
+        </string>
+        <string>
+            <plain>Я пою...</plain>
+        </string>
+    </verse>
+</song>

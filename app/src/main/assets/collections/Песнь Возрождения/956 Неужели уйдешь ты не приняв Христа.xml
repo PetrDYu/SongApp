@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="956" name="Неужели уйдешь ты не приняв Христа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Неужели уйдешь ты, не приняв Христа,</plain>
+        </string>
+        <string>
+            <plain>Чтоб дальше во мраке блуждать?</plain>
+        </string>
+        <string>
+            <plain>Прощеньем Божественным пренебрежешь,</plain>
+        </string>
+        <string>
+            <plain>Не приняв Его благодать?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Неужели уйдешь, неужели уйдешь,</plain>
+        </string>
+        <string>
+            <plain>Неужели уйдешь ты, не приняв Христа?</plain>
+        </string>
+        <string>
+            <plain>Неужели уйдешь?</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Неужели уйдешь ты, хоть другом своим</plain>
+        </string>
+        <string>
+            <plain>Ты мог бы Христа приобресть?</plain>
+        </string>
+        <string>
+            <plain>Он был бы Хранителем верным твоим,</plain>
+        </string>
+        <string>
+            <plain>Оценишь ли ты эту честь?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Иисус из любви свою жизнь положил,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грешников освободить,</plain>
+        </string>
+        <string>
+            <plain>И чудный источник спасенья открыл,</plain>
+        </string>
+        <string>
+            <plain>Где можно грехи все омыть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О друг, в этой жизни Христа не отринь,</plain>
+        </string>
+        <string>
+            <plain>Покой даст тебе только Он.</plain>
+        </string>
+        <string>
+            <plain>Внемли же спасенью, сомненья откинь,</plain>
+        </string>
+        <string>
+            <plain>Покайся - и будешь спасен.</plain>
+        </string>
+    </verse>
+</song>

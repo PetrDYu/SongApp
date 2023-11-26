@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="620" name="Наши годы пролетают" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Наши годы пролетают</plain>
+        </string>
+        <string>
+            <plain>Незаметной чередой;</plain>
+        </string>
+        <string>
+            <plain>Скорбь и горе исчезают,</plain>
+        </string>
+        <string>
+            <plain>Их уносит жизнь с собой.</plain>
+        </string>
+        <string>
+            <plain>Мир земной так скоротечен,</plain>
+        </string>
+        <string>
+            <plain>Все приходит в нем к концу!</plain>
+        </string>
+        <string>
+            <plain>Жизнь важна, не будь беспечен,</plain>
+        </string>
+        <string>
+            <plain>Как ответишь ты Творцу?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Наши годы пролетают,</plain>
+        </string>
+        <string>
+            <plain>Точно ветер над волной;</plain>
+        </string>
+        <string>
+            <plain>Свой полет не замедляют,</plain>
+        </string>
+        <string>
+            <plain>Мчатся к цели неземной.</plain>
+        </string>
+        <string>
+            <plain>Мы назад не возвратимся,</plain>
+        </string>
+        <string>
+            <plain>Что прошло, не встретить нам!</plain>
+        </string>
+        <string>
+            <plain>К вечной жизни мы стремимся,</plain>
+        </string>
+        <string>
+            <plain>Как поток бежит к морям.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В сокрушении сердечном</plain>
+        </string>
+        <string>
+            <plain>Я бы горько слезы лил,</plain>
+        </string>
+        <string>
+            <plain>Если б Бог мне в Слове вечном</plain>
+        </string>
+        <string>
+            <plain>Неземное не открыл.</plain>
+        </string>
+        <string>
+            <plain>Пусть проходят жизни годы</plain>
+        </string>
+        <string>
+            <plain>Смерть мне душу не страшит!</plain>
+        </string>
+        <string>
+            <plain>Прекратятся все невзгоды,</plain>
+        </string>
+        <string>
+            <plain>Свет небесный заблестит.</plain>
+        </string>
+    </verse>
+</song>

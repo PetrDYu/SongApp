@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1229" name="Знаешь ли ты Кто тебя возлюбил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Знаешь ли ты, Кто тебя возлюбил?</plain>
+        </string>
+        <string>
+            <plain>В трудные дни твою душу хранил.</plain>
+        </string>
+        <string>
+            <plain>Ты расскажи, не тая в глубине,</plain>
+        </string>
+        <string>
+            <plain>Как и когда помогал Он тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сердце твое пусть теперь не молчит.</plain>
+        </string>
+        <string>
+            <plain>Может, оно как сталь, как гранит,</plain>
+        </string>
+        <string>
+            <plain>Вспомни, как Он на руках тебя нес,</plain>
+        </string>
+        <string>
+            <plain>Он и теперь - твой Спаситель Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Знаешь ли ты, что Христос любит всех,</plain>
+        </string>
+        <string>
+            <plain>Он победил окончательно грех.</plain>
+        </string>
+        <string>
+            <plain>Кровью Святой и тебя Он омыл,</plain>
+        </string>
+        <string>
+            <plain>Чтобы и ты с Ним в обителях жил.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Сердце твое пусть теперь не молчит.</plain>
+        </string>
+        <string>
+            <plain>Может, оно как сталь, как гранит,</plain>
+        </string>
+        <string>
+            <plain>Вспомни, как Он на руках тебя нес,</plain>
+        </string>
+        <string>
+            <plain>Он и теперь - твой Спаситель Христос.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1021" name="Скоро время придет час страданья пройдет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скоро время придет, час страданья пройдет.</plain>
+        </string>
+        <string>
+            <plain>Возликуем тогда со Христом навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Край чудесный родной, полный счастья, любви,</plain>
+        </string>
+        <string>
+            <plain>Там приют наш святой - чудный край дорогой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Поспешайте, друзья, в чудный край навсегда.</plain>
+        </string>
+        <string>
+            <plain>Прославляйте Христа, и пойдем в небеса.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там покой обретем и о Нем воспоем,</plain>
+        </string>
+        <string>
+            <plain>Будем славить Христа со святыми всегда!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2171" name="Когда Иисус мой лучший Друг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда Иисус - мой лучший Друг,Тогда счастлив я,</plain>
+        </string>
+        <string>
+            <plain>Пусть даже гром гремит вокруг, Тверда душа моя.</plain>
+        </string>
+        <string>
+            <plain>Пусть гаснут звезды и луна, Все покроет ночь.</plain>
+        </string>
+        <string>
+            <plain>Душа надеждою полна, Он силен ей помочь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Он мой лучший Друг, Верю я Ему,</plain>
+        </string>
+        <string>
+            <plain>С Ним не страшно мне:</plain>
+        </string>
+        <string>
+            <plain>Он мой лучший Друг.</plain>
+        </string>
+        <string>
+            <plain>Пусть гаснут звезды и луна,</plain>
+        </string>
+        <string>
+            <plain>Все покроет ночь.</plain>
+        </string>
+        <string>
+            <plain>Душа надеждою полна,</plain>
+        </string>
+        <string>
+            <plain>Он силен ей помочь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда Иисус мне в жизни свет, Сердце песнь поет,</plain>
+        </string>
+        <string>
+            <plain>Что там на небе горя нет, Где мой Господь живет.</plain>
+        </string>
+        <string>
+            <plain>Я знаю, скоро Он придет, придет Божий Сын</plain>
+        </string>
+        <string>
+            <plain>И в Свой чертог меня введет Великий Властелин.</plain>
+        </string>
+    </verse>
+</song>

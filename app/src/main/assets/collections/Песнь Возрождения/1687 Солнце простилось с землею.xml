@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1687" name="Солнце простилось с землею" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Солнце простилось с землею,</plain>
+        </string>
+        <string>
+            <plain>Солнце сказало: Довстречи!</plain>
+        </string>
+        <string>
+            <plain>С первой на небе звездою</plain>
+        </string>
+        <string>
+            <plain>Тихо приходит к нам вечер.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там, в вышине небес</plain>
+        </string>
+        <string>
+            <plain>Ангелы славят Его,</plain>
+        </string>
+        <string>
+            <plain>А мы здесь, на земле</plain>
+        </string>
+        <string>
+            <plain>Славим Господню любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сумрачней стало и глуше,</plain>
+        </string>
+        <string>
+            <plain>Птицы заснули в гнездах.</plain>
+        </string>
+        <string>
+            <plain>Не уходи, послушай.</plain>
+        </string>
+        <string>
+            <plain>Как напевают звезды.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Гимн их торжественно плавный,</plain>
+        </string>
+        <string>
+            <plain>Песнь Сотворившему все.</plain>
+        </string>
+        <string>
+            <plain>Слава Христу, слава,</plain>
+        </string>
+        <string>
+            <plain>- Пусть воспевают все.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если тревожит душу</plain>
+        </string>
+        <string>
+            <plain>Мысль, для чего я создан,</plain>
+        </string>
+        <string>
+            <plain>- Не уходи, послушай:</plain>
+        </string>
+        <string>
+            <plain>Славят Создателя звезды.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Голос свой влей в их пенье.</plain>
+        </string>
+        <string>
+            <plain>Всем о любви скажи,</plain>
+        </string>
+        <string>
+            <plain>Чтоб к небесам стремленье</plain>
+        </string>
+        <string>
+            <plain>В души людей вложить.</plain>
+        </string>
+    </verse>
+</song>

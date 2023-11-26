@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1240" name="Кровь Христа омыла меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кровь Христа омыла меня.</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа освободила меня.</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа омыла меня</plain>
+        </string>
+        <string>
+            <plain>От всякого греха.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Слава и хвала за Кровь Твою,</plain>
+        </string>
+        <string>
+            <plain>Слава и хвала за Кровь Твою,</plain>
+        </string>
+        <string>
+            <plain>Слава и хвала за Кровь Твою,</plain>
+        </string>
+        <string>
+            <plain>Любящий Иисус!</plain>
+        </string>
+    </verse>
+</song>

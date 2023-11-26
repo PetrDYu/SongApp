@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="275" name="Над землею ночь нависла россыпью кристальных звезд" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Над землею ночь нависла россыпью кристальных звезд.</plain>
+        </string>
+        <string>
+            <plain>Срок настал, всем радость в жизни: в мир пришел</plain>
+        </string>
+        <string>
+            <plain>Господь Христос.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Это чудо воплощенья вечной сути бытия.</plain>
+        </string>
+        <string>
+            <plain>Эта радость всепрощенья облетела все края.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И узнали все народы, что селенье Вифлеем –</plain>
+        </string>
+        <string>
+            <plain>Колыбель из рода в роды новой заповеди всем.</plain>
+        </string>
+    </verse>
+</song>

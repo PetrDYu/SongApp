@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="220" name="Я не стыжуся возвещать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я не стыжуся возвещать</plain>
+        </string>
+        <string>
+            <plain>Умершего Христа,</plain>
+        </string>
+        <string>
+            <plain>Его веленья защищать</plain>
+        </string>
+        <string>
+            <plain>И мощь Его креста.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Близ Христа, близ Христа я душой оживел,</plain>
+        </string>
+        <string>
+            <plain>Близ Христа навек от тьмы прозрел,</plain>
+        </string>
+        <string>
+            <plain>Близ Него спасенья свет увидал</plain>
+        </string>
+        <string>
+            <plain>И ныне навек я счастлив стал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я не стыжусь провозглашать</plain>
+        </string>
+        <string>
+            <plain>В Нем Бога Самого,</plain>
+        </string>
+        <string>
+            <plain>Кто спас меня, дал благодать</plain>
+        </string>
+        <string>
+            <plain>И Духа Своего.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я в мире не стыжусь носить</plain>
+        </string>
+        <string>
+            <plain>Бесчестье за Него;</plain>
+        </string>
+        <string>
+            <plain>Моля незнающих простить,</plain>
+        </string>
+        <string>
+            <plain>Я рад кресту Его.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не даст Он постыдиться мне</plain>
+        </string>
+        <string>
+            <plain>В надежде на Него,</plain>
+        </string>
+        <string>
+            <plain>И не оставит на земле</plain>
+        </string>
+        <string>
+            <plain>Меня Он одного.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Во всем, что мне Он обещал.</plain>
+        </string>
+        <string>
+            <plain>Он тверже, чем кремень,</plain>
+        </string>
+        <string>
+            <plain>Он сбережет по славный день.</plain>
+        </string>
+        <string>
+            <plain>Что я Ему отдал.</plain>
+        </string>
+    </verse>
+</song>

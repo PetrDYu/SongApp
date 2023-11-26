@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1266" name="Пой Аллилуйя Господу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пой Аллилуйя Господу!</plain>
+        </string>
+        <string>
+            <plain>Пой Аллилуйя Господу!</plain>
+        </string>
+        <string>
+            <plain>Пой Аллилуйя,</plain>
+        </string>
+        <string>
+            <plain>пой Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Пой Аллилуйя Господу!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь простил нам все грехи.</plain>
+        </string>
+        <string>
+            <plain>Господь простил нам все грехи.</plain>
+        </string>
+        <string>
+            <plain>Господь простил нам,</plain>
+        </string>
+        <string>
+            <plain>Господь простил нам,</plain>
+        </string>
+        <string>
+            <plain>Господь простил нам все грехи.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Творец наш дивен и велик!</plain>
+        </string>
+        <string>
+            <plain>Творец наш дивен и велик!</plain>
+        </string>
+        <string>
+            <plain>Творец наш дивен,</plain>
+        </string>
+        <string>
+            <plain>Творец наш дивен.</plain>
+        </string>
+        <string>
+            <plain>Творец наш дивен и велик.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Воздайте славу Господу!</plain>
+        </string>
+        <string>
+            <plain>Воздайте славу Господу!</plain>
+        </string>
+        <string>
+            <plain>Воздайте славу,</plain>
+        </string>
+        <string>
+            <plain>воздайте славу.</plain>
+        </string>
+        <string>
+            <plain>Воздайте славу Господу!</plain>
+        </string>
+    </verse>
+</song>

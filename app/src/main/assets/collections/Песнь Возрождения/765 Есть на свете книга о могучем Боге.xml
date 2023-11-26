@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="765" name="Есть на свете книга о могучем Боге" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть на свете книга о могучем Боге,</plain>
+        </string>
+        <string>
+            <plain>Говорит всем людям о любви Творца.</plain>
+        </string>
+        <string>
+            <plain>Кто ее читает, к сердцу прилагает,</plain>
+        </string>
+        <string>
+            <plain>Тот получит радость в светлых небесах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Библия! Рассказала ты мне о Творце.</plain>
+        </string>
+        <string>
+            <plain>Библия! Повествуешь ты мне о Христе.</plain>
+        </string>
+        <string>
+            <plain>О друзья! Прочитайте ее поскорей,</plain>
+        </string>
+        <string>
+            <plain>Чтобы, Бога познав, полюбить эту книгу сильней.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как в лесу дремучем, у опасной топи,</plain>
+        </string>
+        <string>
+            <plain>Я бродил без Бога по земным путям.</plain>
+        </string>
+        <string>
+            <plain>Как-то раз случайно я увидел книгу,</plain>
+        </string>
+        <string>
+            <plain>Прочитал о Боге, о Его делах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если кто сегодня позабыл о Боге,</plain>
+        </string>
+        <string>
+            <plain>О спасенье дивном и любви Христа,</plain>
+        </string>
+        <string>
+            <plain>Вас мы очень просим: Библию читайте</plain>
+        </string>
+        <string>
+            <plain>И найдете путь вы к светлым небесам.</plain>
+        </string>
+    </verse>
+</song>

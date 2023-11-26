@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="346" name="Спаси Твой народ, Господь, наследие благослови" canon="false" text="" textRus="Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Спаси Твой народ, Господь, наследие благослови.</plain>
+        </string>
+        <string>
+            <plain>Ты их паси, паси, паси и возвышай,</plain>
+        </string>
+        <string>
+            <plain>паси и возвышай вовеки.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>ОШИ́А ЭТ-А́МЭХА́ У-ВА́РЭХ ЭТ-НА́ХЛАТЭХА́</plain>
+        </string>
+        <string>
+            <plain>У́-РЭМ У-РЭ́М У-РЭМ У́РЭМ ВЭ-НА́СЭМ</plain>
+        </string>
+        <string>
+            <plain>У-РЭ́М ВЭ-НАСЭМ А́Д А-ОЛА́М</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

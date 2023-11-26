@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1114" name="Ах Земля чужая сторона" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ах, Земля, чужая сторона,</plain>
+        </string>
+        <string>
+            <plain>чуть обжитый уголок Вселенной!</plain>
+        </string>
+        <string>
+            <plain>О другом Отечестве узнав.</plain>
+        </string>
+        <string>
+            <plain>Мы идем к нему без сожаленья!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты, Земля, обиды не таи.</plain>
+        </string>
+        <string>
+            <plain>Не суди придирчиво и строго.</plain>
+        </string>
+        <string>
+            <plain>Нынешние жители Земли</plain>
+        </string>
+        <string>
+            <plain>Завтра, может быть, увидят Бога!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Скоро скажем мы тебе "Прощай!"</plain>
+        </string>
+        <string>
+            <plain>И свершится вмиг переселенье.</plain>
+        </string>
+        <string>
+            <plain>Ах, Земля, наш временный причал,</plain>
+        </string>
+        <string>
+            <plain>Чуть обжитый уголок Вселенной!</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>А пока что в хрупкости цветка</plain>
+        </string>
+        <string>
+            <plain>И в тревожном ожиданьи почек</plain>
+        </string>
+        <string>
+            <plain>Знаешь, как приятно узнавать</plain>
+        </string>
+        <string>
+            <plain>Божией любви знакомый почерк!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но растут грехи, как сорняки,</plain>
+        </string>
+        <string>
+            <plain>И порою даже в птичьих песнях</plain>
+        </string>
+        <string>
+            <plain>Слышно столько горестной тоски</plain>
+        </string>
+        <string>
+            <plain>О нетленной красоте небесной!</plain>
+        </string>
+    </verse>
+</song>

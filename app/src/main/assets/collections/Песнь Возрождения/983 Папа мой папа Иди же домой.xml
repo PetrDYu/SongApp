@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="983" name="Папа мой папа Иди же домой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Папа, мой папа! Иди же домой!</plain>
+        </string>
+        <string>
+            <plain>На башне уж пробило час.</plain>
+        </string>
+        <string>
+            <plain>Нет топлива дома, камин наш погас.</plain>
+        </string>
+        <string>
+            <plain>Нет хлеба, нет крошки одной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иди домой, иди.</plain>
+        </string>
+        <string>
+            <plain>О папа, прошу я, иди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Папа, мой папа! Иди же домой!</plain>
+        </string>
+        <string>
+            <plain>На башне уж пробило два.</plain>
+        </string>
+        <string>
+            <plain>Усилился холод, слабеет больной,</plain>
+        </string>
+        <string>
+            <plain>Он шепчет: "Где папочка мой?"</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Послала меня за тобой.</plain>
+        </string>
+        <string>
+            <plain>О папа, осталось немного минут,</plain>
+        </string>
+        <string>
+            <plain>И ангелы Ваню возьмут.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Папа, мой папа! Иди же домой!</plain>
+        </string>
+        <string>
+            <plain>На башне уж пробило три.</plain>
+        </string>
+        <string>
+            <plain>Ванюша скончался - иди посмотри,</plain>
+        </string>
+        <string>
+            <plain>Как мама страдает душой.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Не может уж плакать она.</plain>
+        </string>
+        <string>
+            <plain>Ванюша шептал все: "Где папочка мой?"</plain>
+        </string>
+        <string>
+            <plain>Хотел он проститься с тобой.</plain>
+        </string>
+    </chorus>
+</song>

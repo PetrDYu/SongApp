@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="30" name="Не пройди Иисус меня Ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не пройди, Иисус, меня Ты,</plain>
+        </string>
+        <string>
+            <plain>Дух не осеня!</plain>
+        </string>
+        <string>
+            <plain>Слыша люд, мольбой объятый,</plain>
+        </string>
+        <string>
+            <plain>Не пройди меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже! Боже!</plain>
+        </string>
+        <string>
+            <plain>О, услышь меня!</plain>
+        </string>
+        <string>
+            <plain>Слыша люд, мольбой объятый,</plain>
+        </string>
+        <string>
+            <plain>Не пройди меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дай у трона пред Тобою</plain>
+        </string>
+        <string>
+            <plain>Мне найти бальзам;</plain>
+        </string>
+        <string>
+            <plain>Я простерт теперь душою,</plain>
+        </string>
+        <string>
+            <plain>Помоги мне Сам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Полагаюсь на Тебя я,</plain>
+        </string>
+        <string>
+            <plain>Лик ищу я Твой;</plain>
+        </string>
+        <string>
+            <plain>Исцели мой дух, спасая</plain>
+        </string>
+        <string>
+            <plain>Милостью святой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты - источник утешенья,</plain>
+        </string>
+        <string>
+            <plain>Лучше всяких благ;</plain>
+        </string>
+        <string>
+            <plain>Друг мой - Ты, как в мире тленья,</plain>
+        </string>
+        <string>
+            <plain>Так и в небесах.</plain>
+        </string>
+    </verse>
+</song>

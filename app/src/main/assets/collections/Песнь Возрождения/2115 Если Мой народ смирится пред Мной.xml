@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2115" name="Если Мой народ смирится пред Мной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если Мой народ смирится пред Мной,</plain>
+        </string>
+        <string>
+            <plain>молитвы вознесет,</plain>
+        </string>
+        <string>
+            <plain>Если взыщет лица Моего,</plain>
+        </string>
+        <string>
+            <plain>оставив путь свой злой,</plain>
+        </string>
+        <string>
+            <plain>Я услышу с неба и прощу их грех,</plain>
+        </string>
+        <string>
+            <plain>Исцелю их землю, утешу всех.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, исцели нашу землю, О Отец!</plain>
+        </string>
+        <string>
+            <plain>Народ наш обрати к Себе!</plain>
+        </string>
+        <string>
+            <plain>О, исцели, Отче, услышь нас, исцели!</plain>
+        </string>
+        <string>
+            <plain>Прости наш грех и мир твой нам верни.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пред Тобой, Господь, смиряемся мы,</plain>
+        </string>
+        <string>
+            <plain>молимся день и ночь,</plain>
+        </string>
+        <string>
+            <plain>Ищем искренно лица Твоего,</plain>
+        </string>
+        <string>
+            <plain>все злое отвергнув прочь.</plain>
+        </string>
+        <string>
+            <plain>Ты услыши с неба и прости наш грех,</plain>
+        </string>
+        <string>
+            <plain>Исцели нам землю, утешь нас всех.</plain>
+        </string>
+    </verse>
+</song>

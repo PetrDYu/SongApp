@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1106" name="Торжествует наша земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Торжествует наша земля,</plain>
+        </string>
+        <string>
+            <plain>Небеса славят Бога.</plain>
+        </string>
+        <string>
+            <plain>Дети света и дети дня.</plain>
+        </string>
+        <string>
+            <plain>Нам открыта в жизни дорога.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Царство Божье внутри меня,</plain>
+        </string>
+        <string>
+            <plain>Царство счастья и света.</plain>
+        </string>
+        <string>
+            <plain>Дух Господень, любви, огня,</plain>
+        </string>
+        <string>
+            <plain>Он наполнил всю планету.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Никого не бойтесь в мире.</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто в нас живет - сильнее всех.</plain>
+        </string>
+        <string>
+            <plain>Новое творенье Божье</plain>
+        </string>
+        <string>
+            <plain>побеждает мир, болезни, грех!</plain>
+        </string>
+    </verse>
+</song>

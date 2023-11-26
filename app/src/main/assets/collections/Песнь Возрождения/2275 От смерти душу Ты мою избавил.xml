@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2275" name="От смерти душу Ты мою избавил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>От смерти душу Ты мою избавил,</plain>
+        </string>
+        <string>
+            <plain>От преткновений на пути, и слёз,</plain>
+        </string>
+        <string>
+            <plain>На камне ноги навсегда поставил</plain>
+        </string>
+        <string>
+            <plain>И на скалу спасения вознёс.</plain>
+        </string>
+        <string>
+            <plain>Извлёк меня из рва, где на попраны</plain>
+        </string>
+        <string>
+            <plain>Греху я был оставлен чуть живой</plain>
+        </string>
+        <string>
+            <plain>И, низко наклонившись, в состраданьи</plain>
+        </string>
+        <string>
+            <plain>Коснулся ран души Своей рукой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе хвала моя не перестанет,</plain>
+        </string>
+        <string>
+            <plain>Я буду петь, мой Бог, доколе жив!</plain>
+        </string>
+        <string>
+            <plain>Пусть гимном жизни эта песня станет,</plain>
+        </string>
+        <string>
+            <plain>Которую в уста Ты мне вложил.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нашёл меня, как добрый самарянин</plain>
+        </string>
+        <string>
+            <plain>С любовью позаботился о мне,</plain>
+        </string>
+        <string>
+            <plain>И я теперь не просто прихожанин</plain>
+        </string>
+        <string>
+            <plain>Я гражданин в Твоей святой стране.</plain>
+        </string>
+        <string>
+            <plain>Тебе хвала моя не перестанет.</plain>
+        </string>
+        <string>
+            <plain>Я буду петь, мой Бог, доколе жив,</plain>
+        </string>
+        <string>
+            <plain>Пусть гимном жизни эта песня станет,</plain>
+        </string>
+        <string>
+            <plain>Которую в уста Ты мне вложил.</plain>
+        </string>
+    </verse>
+</song>

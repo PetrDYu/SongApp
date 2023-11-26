@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="634" name="Тишина царит в полночи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тишина царит в полночи,</plain>
+        </string>
+        <string>
+            <plain>В полумраке дремлет сад.</plain>
+        </string>
+        <string>
+            <plain>Там в гробу лежит Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ангелы к Нему спешат.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ликуй, Мария! Господь твой воскрес!</plain>
+        </string>
+        <string>
+            <plain>Пойте хвалу, ведь Господь наш воскрес!</plain>
+        </string>
+        <string>
+            <plain>И возвещайте о том пред народом,</plain>
+        </string>
+        <string>
+            <plain>Что Он детей Своих к жизни ведет.</plain>
+        </string>
+        <string>
+            <plain>Их к жизни ведет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Воины упали в страхе:</plain>
+        </string>
+        <string>
+            <plain>Гроб расторгнут, Он воскрес.</plain>
+        </string>
+        <string>
+            <plain>Для друзей и для Марии</plain>
+        </string>
+        <string>
+            <plain>Радость Он принес с небес.</plain>
+        </string>
+    </verse>
+</song>

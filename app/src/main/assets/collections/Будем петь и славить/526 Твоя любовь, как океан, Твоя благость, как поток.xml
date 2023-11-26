@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="526" name="Твоя любовь, как океан, Твоя благость, как поток" canon="false" text="У. Рииса" textRus="С. Морозова, Е. Морозовой" music="Р. Лоури" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Твоя любовь, как океан, Твоя благость, как поток.</plain>
+        </string>
+        <string>
+            <plain>Искупитель, Ты пролил за нас драгоценную Свою Кровь.</plain>
+        </string>
+        <string>
+            <plain>Кто Его любовь забудет, перестанет петь хвалу?</plain>
+        </string>
+        <string>
+            <plain>Дни небес доколе длятся, будем славу петь Ему.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>На Голгофе тот Источник, что глубины нам открыл</plain>
+        </string>
+        <string>
+            <plain>Благодати и прощенья, Божью милость нам явил.</plain>
+        </string>
+        <string>
+            <plain>Благость и любовь, как реки, изливаются на нас,</plain>
+        </string>
+        <string>
+            <plain>Мир и праведность в Иисусе обнимают грешный мир.</plain>
+        </string>
+    </verse>
+</song>

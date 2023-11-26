@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2473" name="Душа твоя жемчужина реликвий" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Душа твоя - жемчужина реликвий.</plain>
+        </string>
+        <string>
+            <plain>Но, увлекаясь мелким и пустым,</plain>
+        </string>
+        <string>
+            <plain>Дар жизни - и бесценный, и великий</plain>
+        </string>
+        <string>
+            <plain>На суету размениваешь ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы в этом мире, словно на квартире,</plain>
+        </string>
+        <string>
+            <plain>Земная жизнь отпущена в кредит,</plain>
+        </string>
+        <string>
+            <plain>Какая польза владеть всем миром,</plain>
+        </string>
+        <string>
+            <plain>А вот душе бессмертной повредить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нам власть дана - не понукать другими,</plain>
+        </string>
+        <string>
+            <plain>Чтоб увлекать надменно за собой,</plain>
+        </string>
+        <string>
+            <plain>Или владеть богатствами земными,</plain>
+        </string>
+        <string>
+            <plain>Нам власть дана над собственной душой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В предвечном Боге будущность и помощь,</plain>
+        </string>
+        <string>
+            <plain>И никому мы больше не нужны.</plain>
+        </string>
+        <string>
+            <plain>На мировых часах уже за полночь.</plain>
+        </string>
+        <string>
+            <plain>Дни суеты под солнцем сочтены.</plain>
+        </string>
+    </verse>
+</song>

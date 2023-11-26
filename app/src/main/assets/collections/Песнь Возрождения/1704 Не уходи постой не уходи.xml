@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1704" name="Не уходи постой не уходи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Не уходи, постой, не уходи,</plain>
+        </string>
+        <string>
+            <plain>В который раз прислушайся к тем звукам,</plain>
+        </string>
+        <string>
+            <plain>Ведь у тебя не камень же в груди,</plain>
+        </string>
+        <string>
+            <plain>А гвозди бьют не в дерево, а в руки.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Они опять готовы мир обнять,</plain>
+        </string>
+        <string>
+            <plain>Роняя жизнь в багровых каплях крови.</plain>
+        </string>
+        <string>
+            <plain>Не уходи, твоё спасенье здесь</plain>
+        </string>
+        <string>
+            <plain>И та любовь, что грех простить готова.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Куда пойдешь ты от любви такой,</plain>
+        </string>
+        <string>
+            <plain>И неужели сердцем не ответишь</plain>
+        </string>
+        <string>
+            <plain>На зов Того, Кто, жертвуя Собой,</plain>
+        </string>
+        <string>
+            <plain>Тебя любя, терпел страданья эти?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Уже часы считают благодать,</plain>
+        </string>
+        <string>
+            <plain>И на Земле Он пред Отцом Ходатай.</plain>
+        </string>
+        <string>
+            <plain>Не уходи, спеши Христа принять,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не пришла за грех тебе расплата.</plain>
+        </string>
+    </verse>
+</song>

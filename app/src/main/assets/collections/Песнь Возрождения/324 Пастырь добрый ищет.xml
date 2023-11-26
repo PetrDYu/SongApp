@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="324" name="Пастырь добрый ищет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пастырь добрый ищет</plain>
+        </string>
+        <string>
+            <plain>Бедную овцу!</plain>
+        </string>
+        <string>
+            <plain>Без Него погибнет:</plain>
+        </string>
+        <string>
+            <plain>Жаль ее Ему.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ищет тебя, ищет тебя,</plain>
+        </string>
+        <string>
+            <plain>Жаждет Господь спасти тебя.</plain>
+        </string>
+        <string>
+            <plain>Ищет тебя, ищет тебя,</plain>
+        </string>
+        <string>
+            <plain>Жаждет Господь спасти тебя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Драхма дорогая</plain>
+        </string>
+        <string>
+            <plain>Вновь обретена:</plain>
+        </string>
+        <string>
+            <plain>Из земли и мрака</plain>
+        </string>
+        <string>
+            <plain>Поднята она.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С Ним делить веселье</plain>
+        </string>
+        <string>
+            <plain>Всех Отец зовет:</plain>
+        </string>
+        <string>
+            <plain>Сын был мертв, потерян –</plain>
+        </string>
+        <string>
+            <plain>Найден и живет.</plain>
+        </string>
+    </verse>
+</song>

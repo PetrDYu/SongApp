@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2753" name="Благодарю Тебя Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Господь</plain>
+        </string>
+        <string>
+            <plain>3а этот уж прошедший год,</plain>
+        </string>
+        <string>
+            <plain>Что диет-но Ты меня хранил,</plain>
+        </string>
+        <string>
+            <plain>Своим путем всегда водил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь, прошу я всей душой,</plain>
+        </string>
+        <string>
+            <plain>Храни от всех невзгод.</plain>
+        </string>
+        <string>
+            <plain>Тебе хвалу я воспою</plain>
+        </string>
+        <string>
+            <plain>За обновленный год.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Теперь прошу, Господь, Тебя:</plain>
+        </string>
+        <string>
+            <plain>Храни меня всегда от зла,</plain>
+        </string>
+        <string>
+            <plain>Во мне дух правый обнови,</plain>
+        </string>
+        <string>
+            <plain>На новый год мне сил пошли.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть этот год несет с собой</plain>
+        </string>
+        <string>
+            <plain>Благословенье и покой,</plain>
+        </string>
+        <string>
+            <plain>Даруй мне свято жизнь прожить</plain>
+        </string>
+        <string>
+            <plain>И чистым пред Тобой ходить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дабы когда придешь Ты вновь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб царствовать вовек веков,</plain>
+        </string>
+        <string>
+            <plain>Мне быть всегда с Тобой везде,</plain>
+        </string>
+        <string>
+            <plain>На новом небе и земле.</plain>
+        </string>
+    </verse>
+</song>

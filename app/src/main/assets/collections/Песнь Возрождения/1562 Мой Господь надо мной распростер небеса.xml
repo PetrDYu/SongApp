@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1562" name="Мой Господь надо мной распростер небеса" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой Господь надо мной распростер небеса,</plain>
+        </string>
+        <string>
+            <plain>Чтобы я видел в них необъятность Творца,</plain>
+        </string>
+        <string>
+            <plain>Чтобы помнил, что Божья любовь без конца.</plain>
+        </string>
+        <string>
+            <plain>Чтобы славил Его, всеблагого Творца.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, пусть же звучит Осанна Творцу</plain>
+        </string>
+        <string>
+            <plain>За то, что Он любит всех.</plain>
+        </string>
+        <string>
+            <plain>Владыка владык, в любви</plain>
+        </string>
+        <string>
+            <plain>Он велик, Осанна Ему вовек.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мой Господь предо мной расстелил все поля.</plain>
+        </string>
+        <string>
+            <plain>Чтобы славой Его наполнялась земля.</plain>
+        </string>
+        <string>
+            <plain>Мой Господь возрастил все сады, все леса.</plain>
+        </string>
+        <string>
+            <plain>Чтоб к престолу Творца вознеслася хвала.</plain>
+        </string>
+    </verse>
+</song>

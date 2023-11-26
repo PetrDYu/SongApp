@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3057" name="Он вернётся Он вернётся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он вернётся, Он вернётся,</plain>
+        </string>
+        <string>
+            <plain>Царь славы, Христос,</plain>
+        </string>
+        <string>
+            <plain>чтоб забрать всех Им</plain>
+        </string>
+        <string>
+            <plain>спасённых в небесный чертог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Словно звёзды</plain>
+        </string>
+        <string>
+            <plain>сверкают в ночи в вышине,</plain>
+        </string>
+        <string>
+            <plain>так они воссияют</plain>
+        </string>
+        <string>
+            <plain>на царском венце.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он возьмёт всех,</plain>
+        </string>
+        <string>
+            <plain>Он возьмёт всех</plain>
+        </string>
+        <string>
+            <plain>к Себе в небеса,</plain>
+        </string>
+        <string>
+            <plain>что здесь кровию</plain>
+        </string>
+        <string>
+            <plain>священной омылись сполна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И всех деток, и всех деток</plain>
+        </string>
+        <string>
+            <plain>прижмёт Он к Себе,</plain>
+        </string>
+        <string>
+            <plain>что сердца свои</plain>
+        </string>
+        <string>
+            <plain>отдали Ему на земле.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Люди малые, большие,</plain>
+        </string>
+        <string>
+            <plain>Он всех вас зовёт;</plain>
+        </string>
+        <string>
+            <plain>о, придите, Он спасёт</plain>
+        </string>
+        <string>
+            <plain>вас и ввысь поведёт!</plain>
+        </string>
+    </verse>
+</song>

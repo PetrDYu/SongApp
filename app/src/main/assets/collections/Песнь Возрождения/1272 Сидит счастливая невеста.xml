@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1272" name="Сидит счастливая невеста" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сидит счастливая невеста,</plain>
+        </string>
+        <string>
+            <plain>А рядом радостный жених.</plain>
+        </string>
+        <string>
+            <plain>Прообраз вышнего блаженства</plain>
+        </string>
+        <string>
+            <plain>Представим мы, смотря на них.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гряди скорее, мой желанный,</plain>
+        </string>
+        <string>
+            <plain>Гряди скорей, мой Иисус!</plain>
+        </string>
+        <string>
+            <plain>Тот дивный день жду неустанно,</plain>
+        </string>
+        <string>
+            <plain>Как в небесах с Тобой сольюсь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, чудный час с Христом общенья</plain>
+        </string>
+        <string>
+            <plain>Уж не в мечтах, а наяву.</plain>
+        </string>
+        <string>
+            <plain>Восторг души и радость пенья</plain>
+        </string>
+        <string>
+            <plain>Представить даже не могу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сидит нарядная невеста,</plain>
+        </string>
+        <string>
+            <plain>И радостью блестят глаза.</plain>
+        </string>
+        <string>
+            <plain>Когда ж с Иисусом будем вместе?</plain>
+        </string>
+        <string>
+            <plain>Невольно катится слеза.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="308" name="В небесных доспехах войдем в этот мир " canon="false" text="Дж. Оуэнс-Коллинз" textRus="А. Черняка" music="Дж. Оуэнс-Коллинз" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В небесных доспехах войдем в этот мир –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+        <string>
+            <plain>Земное оружье нас не устрашит –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иисусу слава,</plain>
+        </string>
+        <string>
+            <plain>Сила и крепость и честь!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пусть воинство тьмы выйдет из берегов –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+        <string>
+            <plain>Мы кровью Его одолеем врагов –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если тяжел для тебя этот бой –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+        <string>
+            <plain>Смелее, мой друг, твой Спаситель с тобой –</plain>
+        </string>
+        <string>
+            <plain>Ведет эту битву Господь!</plain>
+        </string>
+    </verse>
+</song>

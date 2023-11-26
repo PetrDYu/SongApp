@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="882" name="Господь меня голодного" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь! меня, голодного,</plain>
+        </string>
+        <string>
+            <plain>Ты хлебом накормил.</plain>
+        </string>
+        <string>
+            <plain>И сироту безродного</plain>
+        </string>
+        <string>
+            <plain>Себе усыновил.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хвала Тебе за милости!</plain>
+        </string>
+        <string>
+            <plain>Хвала за дар любви!</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе за радости!</plain>
+        </string>
+        <string>
+            <plain>Хвала Тебе за все!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но не за те даяния</plain>
+        </string>
+        <string>
+            <plain>Ищу Твой дивный трон.</plain>
+        </string>
+        <string>
+            <plain>Я красотой сияния</plain>
+        </string>
+        <string>
+            <plain>Твоей любви пленен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как солнышко прекрасное,</plain>
+        </string>
+        <string>
+            <plain>Твой лик меня манит.</plain>
+        </string>
+        <string>
+            <plain>Взгляну... и счастья ясного</plain>
+        </string>
+        <string>
+            <plain>В душе мне свет горит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как ручеек затерянный</plain>
+        </string>
+        <string>
+            <plain>Стремится в океан,</plain>
+        </string>
+        <string>
+            <plain>Так я, в Тебе уверенный,</plain>
+        </string>
+        <string>
+            <plain>Стремлюсь в Твой вечный стан.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Твоих уст дуновением</plain>
+        </string>
+        <string>
+            <plain>Восстал я к жизни вновь.</plain>
+        </string>
+        <string>
+            <plain>Живу одним стремлением</plain>
+        </string>
+        <string>
+            <plain>- Постичь Твою любовь.</plain>
+        </string>
+    </verse>
+</song>

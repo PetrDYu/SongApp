@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1082" name="Живет живет Иисус живет во мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Живет, живет, Иисус живет во мне!</plain>
+        </string>
+        <string>
+            <plain>Иисус живет во мне каждый день.</plain>
+        </string>
+        <string>
+            <plain>О, аллилуйя! О, аллилуйя! Иисус живет во мне.</plain>
+        </string>
+        <string>
+            <plain>О, аллилуйя. О, аллилуйя, Иисус живет во мне!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Прославьте все Творца святых чудес.</plain>
+        </string>
+        <string>
+            <plain>Воистину Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>О, аллилуйя! О, аллилуйя! Христос воскрес!</plain>
+        </string>
+        <string>
+            <plain>Воистину воскрес!</plain>
+        </string>
+        <string>
+            <plain>О, аллилуйя! О, аллилуйя! Воистину воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ликуй, ликуй, спасенный человек</plain>
+        </string>
+        <string>
+            <plain>- Воистину Христос воскрес.</plain>
+        </string>
+    </verse>
+</song>

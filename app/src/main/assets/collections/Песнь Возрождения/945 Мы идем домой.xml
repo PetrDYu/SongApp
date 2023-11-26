@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="945" name="Мы идем домой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы идем домой,</plain>
+        </string>
+        <string>
+            <plain>Пастырь добрый мой.</plain>
+        </string>
+        <string>
+            <plain>Мы по миру слово несем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молодые дни, золотые дни,</plain>
+        </string>
+        <string>
+            <plain>Мы для Господа живем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Кровь с Креста лилась.</plain>
+        </string>
+        <string>
+            <plain>Он за нас страдал.</plain>
+        </string>
+        <string>
+            <plain>Смело, дружно мы воспоем!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Божий Дух Святой -</plain>
+        </string>
+        <string>
+            <plain>Он ведет нас в бой,</plain>
+        </string>
+        <string>
+            <plain>Он ведет нас всею семьей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Твердо стой, мой друг,</plain>
+        </string>
+        <string>
+            <plain>Не страшись врага,</plain>
+        </string>
+        <string>
+            <plain>Мы для мира все здесь умрем.</plain>
+        </string>
+    </verse>
+</song>

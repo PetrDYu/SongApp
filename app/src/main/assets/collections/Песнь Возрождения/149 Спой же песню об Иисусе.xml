@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="149" name="Спой же песню об Иисусе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спой же песню об Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Славя Его,</plain>
+        </string>
+        <string>
+            <plain>Он так благ, ты полагайся</plain>
+        </string>
+        <string>
+            <plain>Лишь на Него.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любит нас Он как лучший друг,</plain>
+        </string>
+        <string>
+            <plain>Он вблизи нас всегда вокруг,</plain>
+        </string>
+        <string>
+            <plain>Поспеши же Ему принесть</plain>
+        </string>
+        <string>
+            <plain>Хвалу и честь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Одно слово для Иисуса:</plain>
+        </string>
+        <string>
+            <plain>Он Свой чужим;</plain>
+        </string>
+        <string>
+            <plain>Чтобы все Ему служили,</plain>
+        </string>
+        <string>
+            <plain>Мы все хотим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он во всякое мгновенье</plain>
+        </string>
+        <string>
+            <plain>Близок к сердцам.</plain>
+        </string>
+        <string>
+            <plain>Люди могут обмануть нас,</plain>
+        </string>
+        <string>
+            <plain>Он верен нам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будем петь мы все сердечно:</plain>
+        </string>
+        <string>
+            <plain>"Иисус Один".</plain>
+        </string>
+        <string>
+            <plain>Будет все во всем нам вечно</plain>
+        </string>
+        <string>
+            <plain>Вышнего Сын.</plain>
+        </string>
+    </verse>
+</song>

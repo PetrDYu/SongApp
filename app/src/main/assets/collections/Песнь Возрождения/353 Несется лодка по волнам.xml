@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="353" name="Несется лодка по волнам" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Несется лодка по волнам:</plain>
+        </string>
+        <string>
+            <plain>Христово братство в ней;</plain>
+        </string>
+        <string>
+            <plain>Невидимо рукой Своей</plain>
+        </string>
+        <string>
+            <plain>Он ею правит Сам.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чрез бури он тебя введет</plain>
+        </string>
+        <string>
+            <plain>Туда, где нет уже невзгод,</plain>
+        </string>
+        <string>
+            <plain>Где ясен небосвод.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друг, гибнущий в волнах грехов!</plain>
+        </string>
+        <string>
+            <plain>К Нему тотчас зови,</plain>
+        </string>
+        <string>
+            <plain>И примет Он тебя в любви</plain>
+        </string>
+        <string>
+            <plain>В ладью учеников.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ладья, ведомая Христом,</plain>
+        </string>
+        <string>
+            <plain>Достигнет берегов,</plain>
+        </string>
+        <string>
+            <plain>И примет нас Он в вечный дом,</plain>
+        </string>
+        <string>
+            <plain>Что полн Его даров.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сомненья брось, Ему молись,</plain>
+        </string>
+        <string>
+            <plain>Ему скорей вручись;</plain>
+        </string>
+        <string>
+            <plain>Войди скорей в Его ладью,</plain>
+        </string>
+        <string>
+            <plain>Он ждет тебя давно.</plain>
+        </string>
+    </verse>
+</song>

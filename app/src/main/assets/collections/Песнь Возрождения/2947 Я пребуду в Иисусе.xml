@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2947" name="Я пребуду в Иисусе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я пребуду в Иисусе.</plain>
+        </string>
+        <string>
+            <plain>О, как счастлив я!</plain>
+        </string>
+        <string>
+            <plain>Знаю, обо мне печётся Он.</plain>
+        </string>
+        <string>
+            <plain>На Него уповаю, Он - опора мне,</plain>
+        </string>
+        <string>
+            <plain>я чрез кровь Его освобождён.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Да, пребуду я в любви Христа,</plain>
+        </string>
+        <string>
+            <plain>о мне печётся Он.</plain>
+        </string>
+        <string>
+            <plain>Да, пребуду я в любви Христа,</plain>
+        </string>
+        <string>
+            <plain>я в Нём освобождён.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я пребуду в Иисусе.</plain>
+        </string>
+        <string>
+            <plain>Утешенье - в Нём.</plain>
+        </string>
+        <string>
+            <plain>Радость мира вянет, как трава.</plain>
+        </string>
+        <string>
+            <plain>Рад я, зная,</plain>
+        </string>
+        <string>
+            <plain>что в благодати Господа - радость,</plain>
+        </string>
+        <string>
+            <plain>что не меркнет никогда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я пребуду в Иисусе.</plain>
+        </string>
+        <string>
+            <plain>У Его груди я найду защиту от врага.</plain>
+        </string>
+        <string>
+            <plain>В полноте Его Духа твёрдо знаю я,</plain>
+        </string>
+        <string>
+            <plain>что меня ведёт Его рука.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я пребуду в Иисусе.</plain>
+        </string>
+        <string>
+            <plain>О, блаженный мир!</plain>
+        </string>
+        <string>
+            <plain>Благодать разрушит силу зла.</plain>
+        </string>
+        <string>
+            <plain>Вечной жизнью и радостью полна душа,</plain>
+        </string>
+        <string>
+            <plain>потому так счастлив я всегда.</plain>
+        </string>
+    </verse>
+</song>

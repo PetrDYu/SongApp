@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1576" name="В сердце песня новая звучит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В сердце песня новая звучит.</plain>
+        </string>
+        <string>
+            <plain>Что мне дал Спаситель мой:</plain>
+        </string>
+        <string>
+            <plain>Я с тобою всюду,</plain>
+        </string>
+        <string>
+            <plain>Я - твой шит.</plain>
+        </string>
+        <string>
+            <plain>Не пугайся тьмы земной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Радость мне дает.</plain>
+        </string>
+        <string>
+            <plain>Восполняет нужды,</plain>
+        </string>
+        <string>
+            <plain>В Нем душа всегда поет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жизнь мою терзал грех и порок,</plain>
+        </string>
+        <string>
+            <plain>Весь разбитый я страдал.</plain>
+        </string>
+        <string>
+            <plain>Но Господь меня к Себе привлек.</plain>
+        </string>
+        <string>
+            <plain>Песню новую мне дал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я питаюсь от Его стола,</plain>
+        </string>
+        <string>
+            <plain>Сплю я под Его крылом.</plain>
+        </string>
+        <string>
+            <plain>Лик Его не закрывает мгла,</plain>
+        </string>
+        <string>
+            <plain>Я всегда пою о Нем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть порой чрез воды Он ведет,</plain>
+        </string>
+        <string>
+            <plain>И страшат меня труды.</plain>
+        </string>
+        <string>
+            <plain>Хоть встречаю длинный ряд невзгод,</plain>
+        </string>
+        <string>
+            <plain>Но везде Его следы.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Скоро Он придет опять с небес</plain>
+        </string>
+        <string>
+            <plain>И возьмет меня к Себе.</plain>
+        </string>
+        <string>
+            <plain>С Ним войду я в светлый мир чудес,</plain>
+        </string>
+        <string>
+            <plain>Царствовать на высоте.</plain>
+        </string>
+    </verse>
+</song>

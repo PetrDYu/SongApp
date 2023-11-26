@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2735" name="Мы идем во имя Бога Нам Отчизна дорога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы идем во имя Бога, Нам Отчизна дорога.</plain>
+        </string>
+        <string>
+            <plain>Вера во Христа святая Нас ввести туда сильна.</plain>
+        </string>
+        <string>
+            <plain>Продвигаемся хоть тихо, Но на месте не стоим.</plain>
+        </string>
+        <string>
+            <plain>Не теряя даже мига, Все вперед идти хотим.</plain>
+        </string>
+        <string>
+            <plain>Город там нас ожидает, Город чудный, золотой.</plain>
+        </string>
+        <string>
+            <plain>Всё там счастием сияет В дивной радости святой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тьмы ночной там ввек не будет, Слава Божья светит там.</plain>
+        </string>
+        <string>
+            <plain>Там Господь всегда пребудет, Радость, счастье даст Он нам.</plain>
+        </string>
+        <string>
+            <plain>Там ворота из жемчужин, Там святые все живут,</plain>
+        </string>
+        <string>
+            <plain>Свет там солнечныймне нужен, Мир, блаженство нас там ждут.</plain>
+        </string>
+        <string>
+            <plain>Радость ждет нас там живая, Радость, радость без конца,</plain>
+        </string>
+        <string>
+            <plain>Жизнь там вечная, благая, Слава Божьего лица.</plain>
+        </string>
+    </verse>
+</song>

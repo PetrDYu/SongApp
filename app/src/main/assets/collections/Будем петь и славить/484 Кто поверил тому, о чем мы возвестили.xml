@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="484" name="Кто поверил тому, о чем мы возвестили" canon="false" text="Ю. Шевчук" textRus="" music="Ю. Шевчук" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Кто поверил тому, о чем мы возвестили?</plain>
+        </string>
+        <string>
+            <plain>И кому Бог открыл мышцу сильной руки?</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Он взошел перед Ним, словно отпрыск в пустыне,</plain>
+        </string>
+        <string>
+            <plain>Словно слабый росток из иссохшей земли!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Не имел Его облик ни величья, ни вида,</plain>
+        </string>
+        <string>
+            <plain>Ничего, что бы нас привлекало к Нему.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Он презрен, умален пред людьми всего мира,</plain>
+        </string>
+        <string>
+            <plain>Муж скорбей, Он изведал и болезни, и тьму.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но Он взял на Себя наши немощи, боли,</plain>
+        </string>
+        <string>
+            <plain>Он страдал, был отвержен даже Отцом,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Он был мучим за наши грехи, беззаконья,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мы исцелились в ранах Его.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Мы блуждали, как овцы, шли своими путями.</plain>
+        </string>
+        <string>
+            <plain>На Него возложил Бог все наши грехи.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Истязуем был, мучим, но страдал Он в молчаньи,</plain>
+        </string>
+        <string>
+            <plain>Как овца пред закланьем покорно молчит.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Он страдал за народ Свой, был отторгнут, поруган,</plain>
+        </string>
+        <string>
+            <plain>Чтобы милости жертву на алтарь вознести.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Он прощенье, любовь и спасенье принес нам,</plain>
+        </string>
+        <string>
+            <plain>Чтобы нас как детей в Свой чертог привести.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Он на подвиг души Своей смотрит с довольством,</plain>
+        </string>
+        <string>
+            <plain>Знает Он, не напрасна Его жертва для нас.</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Пусть сердца не устанут предстоять перед Богом,</plain>
+        </string>
+        <string>
+            <plain>Обретая любовь и прощенье с Креста.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

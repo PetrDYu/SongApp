@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="104" name="Если б знал я Боже правый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если б знал я, Боже правый,</plain>
+        </string>
+        <string>
+            <plain>Что на небе любишь</plain>
+        </string>
+        <string>
+            <plain>Ты Ангелов, питомцев славы,</plain>
+        </string>
+        <string>
+            <plain>Духов вечной чистоты, -</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я б то мыслью постигал,</plain>
+        </string>
+        <string>
+            <plain>Я бы сердцем песнь слагал,</plain>
+        </string>
+        <string>
+            <plain>Я бы сердцем Богу правды</plain>
+        </string>
+        <string>
+            <plain>Песнь слагал, да, песнь слагал.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если б знал я, правый Боже,</plain>
+        </string>
+        <string>
+            <plain>Что Ты любишь только тех,</plain>
+        </string>
+        <string>
+            <plain>Кто на образ Твой похожи</plain>
+        </string>
+        <string>
+            <plain>И кого не тронул грех, -</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Но когда я слышу повесть,</plain>
+        </string>
+        <string>
+            <plain>Что Ты любишь и меня,</plain>
+        </string>
+        <string>
+            <plain>Кто грешил, поправши совесть,</plain>
+        </string>
+        <string>
+            <plain>Образ Твой в себе казня, -</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Не могу я постигать,</plain>
+        </string>
+        <string>
+            <plain>Но хочу я песнь слагать;</plain>
+        </string>
+        <string>
+            <plain>Господу любви хочу я</plain>
+        </string>
+        <string>
+            <plain>Песнь слагать, да, песнь слагать.</plain>
+        </string>
+    </chorus>
+</song>

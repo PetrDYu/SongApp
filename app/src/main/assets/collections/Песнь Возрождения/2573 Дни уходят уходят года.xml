@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2573" name="Дни уходят уходят года" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дни уходят, уходят года,</plain>
+        </string>
+        <string>
+            <plain>Словно в почву сухую вода.</plain>
+        </string>
+        <string>
+            <plain>Пролетяг три десятка лет</plain>
+        </string>
+        <string>
+            <plain>- И от юности только след.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ну и пусть годы идут,</plain>
+        </string>
+        <string>
+            <plain>Уточнили мы в небо маршрут,</plain>
+        </string>
+        <string>
+            <plain>В те края, где над нами века</plain>
+        </string>
+        <string>
+            <plain>Поплывут, как весной облака.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог зовет нас туда. Л пока...</plain>
+        </string>
+        <string>
+            <plain>Тают дни, как весною снега.</plain>
+        </string>
+        <string>
+            <plain>И па дело святое зовут</plain>
+        </string>
+        <string>
+            <plain>Нас свершать чтоб с усердием труд.</plain>
+        </string>
+    </verse>
+</song>

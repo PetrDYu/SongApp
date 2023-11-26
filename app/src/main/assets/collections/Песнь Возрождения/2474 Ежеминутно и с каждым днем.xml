@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2474" name="Ежеминутно и с каждым днем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ежеминутно и с каждым днем</plain>
+        </string>
+        <string>
+            <plain>Я постоянно с Тобой вдвоем,</plain>
+        </string>
+        <string>
+            <plain>Хвалу Тебе я буду творить,</plain>
+        </string>
+        <string>
+            <plain>И людям правду говорить.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ежеминутно Он помощь шлет,</plain>
+        </string>
+        <string>
+            <plain>Ежеминутно во мне живет,</plain>
+        </string>
+        <string>
+            <plain>И поражает силой креста</plain>
+        </string>
+        <string>
+            <plain>В сердце моем всех врагов Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Стану заботиться ли о том,</plain>
+        </string>
+        <string>
+            <plain>Что пить и кушать душе моей?</plain>
+        </string>
+        <string>
+            <plain>Раньше сыщу Царства и потом</plain>
+        </string>
+        <string>
+            <plain>Он даст мне все в любви Своей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть самолюбия мой кумир</plain>
+        </string>
+        <string>
+            <plain>Меня не тянет служить греху,</plain>
+        </string>
+        <string>
+            <plain>В любви нужду ведь терпит нош мир</plain>
+        </string>
+        <string>
+            <plain>Больше, чем небеса вверху.</plain>
+        </string>
+    </verse>
+</song>

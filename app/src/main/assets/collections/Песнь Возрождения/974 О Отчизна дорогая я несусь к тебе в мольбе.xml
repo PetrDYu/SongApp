@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="974" name="О Отчизна дорогая я несусь к тебе в мольбе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О Отчизна дорогая, я несусь к тебе в мольбе.</plain>
+        </string>
+        <string>
+            <plain>Видел солнце я, вступая в первый раз на путь к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Дом Отца с листвою сада. Есть ли где страна милей?</plain>
+        </string>
+        <string>
+            <plain>Здесь одна лишь мне отрада: Мысль о Родине моей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К небесам путь идет, К небесам нас путь ведет.</plain>
+        </string>
+        <string>
+            <plain>Мы к родной стране стремимся -</plain>
+        </string>
+        <string>
+            <plain>Жребий чудный нас там ждет.</plain>
+        </string>
+        <string>
+            <plain>На груди Иисуса грешник Вечную любовь найдет.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Юность жизни, радость жизни. Не забудется она.</plain>
+        </string>
+        <string>
+            <plain>Ведь она в краю Отчизны протекала, как весна.</plain>
+        </string>
+        <string>
+            <plain>Дух горел и песнь звучала, я избытком сил дышал,</plain>
+        </string>
+        <string>
+            <plain>Но теперь зима настала, я от бурь души устал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Почиют мои родные, образ их со мной всегда.</plain>
+        </string>
+        <string>
+            <plain>Знаю: их дела благие не исчезнут никогда.</plain>
+        </string>
+        <string>
+            <plain>Но они на смертном ложе скрыты в гробе под землей.</plain>
+        </string>
+        <string>
+            <plain>День придет, умру я тоже... Нет, не здесь мой дом родной!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="466" name="О, прииди, Отче Света, Боже правды и любви," canon="false" text="Людовика Г. де Монфора" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, прииди, Отче Света, Боже правды и любви,</plain>
+        </string>
+        <string>
+            <plain>Не остави без ответа, на молитву вдохнови.</plain>
+        </string>
+        <string>
+            <plain>Оброни тихонько в сердце искру Твоего огня,</plain>
+        </string>
+        <string>
+            <plain>Дай душе моей согреться, а затем вселись в меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Прииди, прииди, прииди, Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Напои нас живой водой!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой, во мне соделай тот родник воды живой,</plain>
+        </string>
+        <string>
+            <plain>Чтоб иного не хотело сердце полное Тобой.</plain>
+        </string>
+        <string>
+            <plain>Дай воды живой! Я жажду и хочу Тебя молить</plain>
+        </string>
+        <string>
+            <plain>Навсегда, а не однажды эту жажду утолить!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всемогущий и Высокий, Дух Святой, молю, сойди,</plain>
+        </string>
+        <string>
+            <plain>Ты – глаголавший в пророках, указующий пути.</plain>
+        </string>
+        <string>
+            <plain>Сам Христос дорогой крестной шел по зову Твоему.</plain>
+        </string>
+        <string>
+            <plain>Помоги же, Царь Небесный, уподобиться Ему.</plain>
+        </string>
+    </verse>
+</song>

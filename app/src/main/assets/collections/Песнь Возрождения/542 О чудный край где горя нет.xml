@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="542" name="О чудный край где горя нет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О чудный край, где горя нет,</plain>
+        </string>
+        <string>
+            <plain>Где нет насилья и оков,</plain>
+        </string>
+        <string>
+            <plain>Лишь царствует там жизнь и свет</plain>
+        </string>
+        <string>
+            <plain>В краю чудесном и святом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, жди, кротко жди и не ропщи!</plain>
+        </string>
+        <string>
+            <plain>О, жди, кротко жди и не ропщи!</plain>
+        </string>
+        <string>
+            <plain>О, жди, мой друг, без ропота кротко жди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В краю родном нет мук, нет слез,</plain>
+        </string>
+        <string>
+            <plain>Там нет страданий жизненных,</plain>
+        </string>
+        <string>
+            <plain>Там нет могил и нет угроз,</plain>
+        </string>
+        <string>
+            <plain>В стране для истинных святых.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О друг, трудись, в надежде жди,</plain>
+        </string>
+        <string>
+            <plain>Христос введет нас в край родной,</plain>
+        </string>
+        <string>
+            <plain>И всем погибшим весть неси,</plain>
+        </string>
+        <string>
+            <plain>Что в Иисусе есть покой.</plain>
+        </string>
+    </verse>
+</song>

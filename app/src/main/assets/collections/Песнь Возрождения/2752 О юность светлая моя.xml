@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2752" name="О юность светлая моя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, юность светлая моя,</plain>
+        </string>
+        <string>
+            <plain>Всегда свети ты для Христа.</plain>
+        </string>
+        <string>
+            <plain>Пусть каждый день и каждый час</plain>
+        </string>
+        <string>
+            <plain>Ведет Христова Церковь нас.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Пусть Бог прославится всегда</plain>
+        </string>
+        <string>
+            <plain>Чрез наши юные сердца.</plain>
+        </string>
+        <string>
+            <plain>Пусть всякий миг хвала звучит</plain>
+        </string>
+        <string>
+            <plain>И о Христе всем говорит.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если в этом мире злом</plain>
+        </string>
+        <string>
+            <plain>Христу мы юность принесем,</plain>
+        </string>
+        <string>
+            <plain>То в небе там, у ног Христа,</plain>
+        </string>
+        <string>
+            <plain>Уж будет юность без конца.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О юность светлая моя,</plain>
+        </string>
+        <string>
+            <plain>Всегда свети ты для Христа.</plain>
+        </string>
+        <string>
+            <plain>Пусть каждый день и каждый час</plain>
+        </string>
+        <string>
+            <plain>Христу звучит хваленья глас.</plain>
+        </string>
+    </verse>
+</song>

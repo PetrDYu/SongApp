@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2105" name="Друг мой мятущийся духом" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Друг мой, мятущийся духом</plain>
+        </string>
+        <string>
+            <plain>В тяжкой житейской борьбе,</plain>
+        </string>
+        <string>
+            <plain>Слушай внимательно ухом</plain>
+        </string>
+        <string>
+            <plain>Слово Господне к тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Око Моё над землёю,</plain>
+        </string>
+        <string>
+            <plain>Дух Мой в сердцах глубине.</plain>
+        </string>
+        <string>
+            <plain>Вечно Я буду с тобою,</plain>
+        </string>
+        <string>
+            <plain>Если пребудешь во Мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Тьма ли тебя окружает -</plain>
+        </string>
+        <string>
+            <plain>В Боге немеркнущий свет.</plain>
+        </string>
+        <string>
+            <plain>В Нём наша помощь и сила,</plain>
+        </string>
+        <string>
+            <plain>Счастье и вечный совет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грех ли тебя искушает,</plain>
+        </string>
+        <string>
+            <plain>Бог говорит: "Берегись",</plain>
+        </string>
+        <string>
+            <plain>Враг ли тебя устрашает,</plain>
+        </string>
+        <string>
+            <plain>Бог тебя Сам защитит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Люди ль тебе изменили?</plain>
+        </string>
+        <string>
+            <plain>Бог не изменит ни в чём.</plain>
+        </string>
+        <string>
+            <plain>Ложно ль тебя осудили?</plain>
+        </string>
+        <string>
+            <plain>Он оправдает во всём.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Сердце порой содрогнётся</plain>
+        </string>
+        <string>
+            <plain>В тяжкой житейской борьбе.</plain>
+        </string>
+        <string>
+            <plain>Слушай: в тиши раздаётся</plain>
+        </string>
+        <string>
+            <plain>Слово Господне к тебе.</plain>
+        </string>
+    </verse>
+</song>

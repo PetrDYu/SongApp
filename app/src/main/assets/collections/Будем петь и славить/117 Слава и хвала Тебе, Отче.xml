@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="117" name="Слава и хвала Тебе, Отче" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава и хвала Тебе, Отче!</plain>
+        </string>
+        <string>
+            <plain>Слава и хвала Тебе, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Слава и хвала Тебе, Господь Дух Святой!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Слава, слава, слава в вышних Богу!</plain>
+        </string>
+        <string>
+            <plain>Слава, слава в вышних!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Я благодарю Тебя, Отче!</plain>
+        </string>
+        <string>
+            <plain>Я благодарю Тебя, Иисус!</plain>
+        </string>
+        <string>
+            <plain>Я благодарю Тебя, Господь Дух Святой!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

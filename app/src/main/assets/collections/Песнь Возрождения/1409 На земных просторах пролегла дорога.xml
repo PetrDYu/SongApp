@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1409" name="На земных просторах пролегла дорога" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На земных просторах пролегла дорога</plain>
+        </string>
+        <string>
+            <plain>В неземное царство вечного бытья</plain>
+        </string>
+        <string>
+            <plain>Через океаны, бурные потоки</plain>
+        </string>
+        <string>
+            <plain>И большие горы, реки и моря.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это моя дорога, веди меня</plain>
+        </string>
+        <string>
+            <plain>В край чудесный за рекою,</plain>
+        </string>
+        <string>
+            <plain>В вечный Дом Отца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На пути широком сильные туманы,</plain>
+        </string>
+        <string>
+            <plain>И не видно солнца, скрылась луна.</plain>
+        </string>
+        <string>
+            <plain>На пути же узком, озаренном светом.</plain>
+        </string>
+        <string>
+            <plain>Ныне расцветает вечная весна.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>На пути же этом, за рекой широкой,</plain>
+        </string>
+        <string>
+            <plain>В свете вечной славы расцветает сад.</plain>
+        </string>
+        <string>
+            <plain>Листья где не вянут, вечно пребывают,</plain>
+        </string>
+        <string>
+            <plain>И плоды снимают в год двенадцать раз.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>На пути же этом свет Христов сияет,</plain>
+        </string>
+        <string>
+            <plain>И святая влага - Божия роса -</plain>
+        </string>
+        <string>
+            <plain>Душу орошает, силы подкрепляет</plain>
+        </string>
+        <string>
+            <plain>И ведет к чертогу Вечного Отца.</plain>
+        </string>
+    </verse>
+</song>

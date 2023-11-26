@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2533" name="Я спою вам песню веры о" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я спою вам песню веры о</plain>
+        </string>
+        <string>
+            <plain>Спасителе Христе,</plain>
+        </string>
+        <string>
+            <plain>Как Он любит нас без меры,</plain>
+        </string>
+        <string>
+            <plain>как Он умер на кресте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Буду петь слова живые</plain>
+        </string>
+        <string>
+            <plain>о Христе, как умер Он,</plain>
+        </string>
+        <string>
+            <plain>Буду петь я со святыми,</plain>
+        </string>
+        <string>
+            <plain>окружим небесный трон.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Спас меня Христос от муки,</plain>
+        </string>
+        <string>
+            <plain>как заблудшую овцу,</plain>
+        </string>
+        <string>
+            <plain>Наклонился, взял на руки</plain>
+        </string>
+        <string>
+            <plain>и принес меня к Отцу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я был ранен - исцелил Он,</plain>
+        </string>
+        <string>
+            <plain>я в блужданьях изнемог,</plain>
+        </string>
+        <string>
+            <plain>Мрак объял, душа смутилась,</plain>
+        </string>
+        <string>
+            <plain>- Он дал вечных сил залог.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не страшусь я перед тьмою,</plain>
+        </string>
+        <string>
+            <plain>хоть бедой не раз тесним,</plain>
+        </string>
+        <string>
+            <plain>- Искупитель мой со мною,</plain>
+        </string>
+        <string>
+            <plain>я рукой Его храним.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>К Иордану с Ним приду я.</plain>
+        </string>
+        <string>
+            <plain>Зашумит у ног моих...</plain>
+        </string>
+        <string>
+            <plain>Вдруг войду в страну святую,</plain>
+        </string>
+        <string>
+            <plain>где я встречу дорогих.</plain>
+        </string>
+    </verse>
+</song>

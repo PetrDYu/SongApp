@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="61" name="О, Иисус О Иисус Возносим руки," canon="false" text="WG “Living Sound”" textRus="" music="WG “Living Sound”" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, Иисус! О Иисус! Возносим руки,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя, о Иисус!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты среди нас! Ты среди нас! Возносим руки,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя, Ты среди нас!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты любишь нас! Ты любишь нас! Возносим руки,</plain>
+        </string>
+        <string>
+            <plain>Славим Твое имя, Ты любишь нас!</plain>
+        </string>
+    </verse>
+</song>

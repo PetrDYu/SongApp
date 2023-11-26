@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="360" name="Сколько раз скорбя жестоко" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сколько раз, скорбя жестоко,</plain>
+        </string>
+        <string>
+            <plain>Ты со вздохом повторял:</plain>
+        </string>
+        <string>
+            <plain>"Кто бы из тоски глубокой</plain>
+        </string>
+        <string>
+            <plain>Сердцу выход указал?"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, приди скорей к Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Знает скорбь твою, поверь;</plain>
+        </string>
+        <string>
+            <plain>Всех Он с радостью встречает.</plain>
+        </string>
+        <string>
+            <plain>О, приди к Нему теперь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Да, приди! Душою черствой</plain>
+        </string>
+        <string>
+            <plain>Ты Его не оттолкни;</plain>
+        </string>
+        <string>
+            <plain>Вспомни вечность, не упорствуй,</plain>
+        </string>
+        <string>
+            <plain>Сочтены ведь наши дни.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Да, приди! Благоприятный</plain>
+        </string>
+        <string>
+            <plain>Ныне день: Христос зовет,</plain>
+        </string>
+        <string>
+            <plain>Даром Он и безвозвратно</plain>
+        </string>
+        <string>
+            <plain>Полный мир душе дает.</plain>
+        </string>
+    </verse>
+</song>

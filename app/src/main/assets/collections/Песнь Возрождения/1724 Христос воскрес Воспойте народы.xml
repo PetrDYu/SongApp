@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1724" name="Христос воскрес Воспойте народы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Христос воскрес! Воспойте, народы,</plain>
+        </string>
+        <string>
+            <plain>И торжествуй, весь мир!</plain>
+        </string>
+        <string>
+            <plain>И хор спасённых,</plain>
+        </string>
+        <string>
+            <plain>И хор спасённых,</plain>
+        </string>
+        <string>
+            <plain>Прославь в восторге дивном Бога сил!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Христос воскрес! Ликуй, вся природа,</plain>
+        </string>
+        <string>
+            <plain>Воспой, вселенский хор.</plain>
+        </string>
+        <string>
+            <plain>Пусть песнь несётся,</plain>
+        </string>
+        <string>
+            <plain>Пусть песнь несётся,</plain>
+        </string>
+        <string>
+            <plain>Наш дивный Бог воистину воскрес!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос воскрес! Из мёртвых воскрес,</plain>
+        </string>
+        <string>
+            <plain>Смертию смерть попрал.</plain>
+        </string>
+        <string>
+            <plain>И нам, погибшим,</plain>
+        </string>
+        <string>
+            <plain>И нам, погибшим,</plain>
+        </string>
+        <string>
+            <plain>Он воскресением жизнь даровал.</plain>
+        </string>
+    </verse>
+</song>

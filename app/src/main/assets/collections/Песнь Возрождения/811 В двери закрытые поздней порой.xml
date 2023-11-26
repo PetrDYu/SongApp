@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="811" name="В двери закрытые поздней порой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В двери закрытые поздней порой</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, кто-то стучит,</plain>
+        </string>
+        <string>
+            <plain>Отзыва нет и усталой рукой</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, стучит.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это Спаситель у двери стоит,</plain>
+        </string>
+        <string>
+            <plain>Кротко стучит, нежно стучит.</plain>
+        </string>
+        <string>
+            <plain>Сердце открой, Он недуг исцелит,</plain>
+        </string>
+        <string>
+            <plain>Снова Христос стучит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В сердце уныние, радости нет,</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, кто-то стучит!</plain>
+        </string>
+        <string>
+            <plain>В доме погас утешения свет,</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, стучит!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Совесть томит обличения глас,</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, кто-то стучит!</plain>
+        </string>
+        <string>
+            <plain>Зов не смолкает в душе ни на час,</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, стучит!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Стук все сильнее звучит за стеной,</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, кто-то стучит!</plain>
+        </string>
+        <string>
+            <plain>Грешник, покайся и сердце открой!</plain>
+        </string>
+        <string>
+            <plain>Кто-то стучит, стучит!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3110" name="Я с Христом иду к небесной стране" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я с Христом иду к небесной стране,</plain>
+        </string>
+        <string>
+            <plain>глазом веры зрю ее красу;</plain>
+        </string>
+        <string>
+            <plain>будет место со спасенными мне,</plain>
+        </string>
+        <string>
+            <plain>когда в небо навек я войду.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я войду с радостью через</plain>
+        </string>
+        <string>
+            <plain>узкие врата в тот град;</plain>
+        </string>
+        <string>
+            <plain>небесный град и венец,</plain>
+        </string>
+        <string>
+            <plain>что Отец приготовил мне,</plain>
+        </string>
+        <string>
+            <plain>принять я рад.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там обитель приготовлена мне;</plain>
+        </string>
+        <string>
+            <plain>и уж скоро я ее займу,</plain>
+        </string>
+        <string>
+            <plain>чтобы жить там со Христом в вышине,</plain>
+        </string>
+        <string>
+            <plain>когда в небо я навек войду.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Больше здесь ничто не держит меня,</plain>
+        </string>
+        <string>
+            <plain>я спешу в небесную страну.</plain>
+        </string>
+        <string>
+            <plain>О, как чудно после трудного дня,</plain>
+        </string>
+        <string>
+            <plain>когда в небо я навек войду.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да, войду я в небеса через кровь,</plain>
+        </string>
+        <string>
+            <plain>что очистила мою вину;</plain>
+        </string>
+        <string>
+            <plain>оценю сполна я Божью любовь,</plain>
+        </string>
+        <string>
+            <plain>когда в небо я навек войду.</plain>
+        </string>
+    </verse>
+</song>

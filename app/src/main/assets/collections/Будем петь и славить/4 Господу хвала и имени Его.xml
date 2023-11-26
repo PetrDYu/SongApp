@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="4" name="Господу хвала и имени Его" canon="false" text="" textRus="Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Господу хвала и имени Его.</plain>
+        </string>
+        <string>
+            <plain>Господу хвала, Он в жизнь меня ведет.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Составитель «Христианская Библейская миссия «Елеон»</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Bless the Lord, my soul, and bless God’s holy name.</plain>
+        </string>
+        <string>
+            <plain>Bless the Lord, my soul, who leads me into life.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="455" name="Небеса, ликуйте, и земля, возрадуйся" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Небеса, ликуйте, и земля, возрадуйся!</plain>
+        </string>
+        <string>
+            <plain>Что Иисус Христос воистину воскрес!</plain>
+        </string>
+        <string>
+            <plain>(Воистину воскрес! Аминь. – в конце)</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Jubilate coeli, jubilate mundi!</plain>
+        </string>
+        <string>
+            <plain>Jesus Christus surrexit vere!</plain>
+        </string>
+    </verse>
+</song>

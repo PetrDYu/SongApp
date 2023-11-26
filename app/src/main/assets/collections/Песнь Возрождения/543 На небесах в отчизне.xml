@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="543" name="На небесах в отчизне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На небесах в отчизне</plain>
+        </string>
+        <string>
+            <plain>И вольно, и светло</plain>
+        </string>
+        <string>
+            <plain>Бежит источник жизни</plain>
+        </string>
+        <string>
+            <plain>Прозрачный, как стекло.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О источник вечной жизни!</plain>
+        </string>
+        <string>
+            <plain>Я стремлюсь к тебе.</plain>
+        </string>
+        <string>
+            <plain>О источник вечной жизни!</plain>
+        </string>
+        <string>
+            <plain>Я стремлюсь к тебе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На пажити чудесной</plain>
+        </string>
+        <string>
+            <plain>Нас славный пир там ждет,</plain>
+        </string>
+        <string>
+            <plain>Великий хор небесный</plain>
+        </string>
+        <string>
+            <plain>Там радостно поет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Источник дивный, чудный,</plain>
+        </string>
+        <string>
+            <plain>Поток воды живой!</plain>
+        </string>
+        <string>
+            <plain>В надежде в жизни трудной</plain>
+        </string>
+        <string>
+            <plain>Крепится дух тобой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="314" name="Вот Он идет, вот Он идет, мой Возлюбленный идет" canon="false" text="Сары Леви-Танай" textRus="Ю. Пастернака" music="Сары Леви-Танай" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Вот Он идет, вот Он идет, мой Возлюбленный идет.</plain>
+        </string>
+        <string>
+            <plain>Вот Он идет, вот Он идет, Он навстречу мне спешит.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Мой Возлюбленный сказал мне: «Встань, прекрасная моя!</plain>
+        </string>
+        <string>
+            <plain>Время пения настало, голубица чистая».</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мой Возлюбленный стучится: «Отвори, сестра моя!</plain>
+        </string>
+        <string>
+            <plain>Время пения настало, голубица чистая».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мой Возлюбленный прекрасен, лучше тысячи других.</plain>
+        </string>
+        <string>
+            <plain>Вид Его подобен кедру на подножьях золотых.</plain>
+        </string>
+    </verse>
+</song>

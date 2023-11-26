@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1558" name="В нашей жизни краткой есть одна надежда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В нашей жизни краткой есть одна надежда</plain>
+        </string>
+        <string>
+            <plain>Для души усталой в мире от греха.</plain>
+        </string>
+        <string>
+            <plain>Что любовь Господня ласкова и нежна</plain>
+        </string>
+        <string>
+            <plain>Завтра и сегодня будет, как вчера.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Опадают листья, увядают травы,</plain>
+        </string>
+        <string>
+            <plain>В золоте закатном гаснут вечера,</plain>
+        </string>
+        <string>
+            <plain>А любовь Господня этим миром правит</plain>
+        </string>
+        <string>
+            <plain>Завтра и сегодня - так же, как вчера.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Обмелеют реки, обветшают горы.</plain>
+        </string>
+        <string>
+            <plain>Звезды в миг последний вспыхнут и сгорят,</plain>
+        </string>
+        <string>
+            <plain>А любовь Господня нас утешит в горе</plain>
+        </string>
+        <string>
+            <plain>Завтра и сегодня - так же, как вчера.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1961" name="Вот Отец тебя зовет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот, Отец тебя зовет:</plain>
+        </string>
+        <string>
+            <plain>"Перестань блуждать в миру,</plain>
+        </string>
+        <string>
+            <plain>Сбрось с души неправды гнет,</plain>
+        </string>
+        <string>
+            <plain>Внемли правде и добру".</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вот, Спаситель твой зовет</plain>
+        </string>
+        <string>
+            <plain>К жизни вечной, неземной;</plain>
+        </string>
+        <string>
+            <plain>Кровь Его с креста течет,</plain>
+        </string>
+        <string>
+            <plain>И смывает грех людской.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Божий Дух тебя зовет,</plain>
+        </string>
+        <string>
+            <plain>Хочет Он тебя вести</plain>
+        </string>
+        <string>
+            <plain>До Его святых ворот</plain>
+        </string>
+        <string>
+            <plain>По тернистому пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Церковь Божия зовет.</plain>
+        </string>
+        <string>
+            <plain>Обещая поддержать</plain>
+        </string>
+        <string>
+            <plain>В час страданья, в час невзгод</plain>
+        </string>
+        <string>
+            <plain>И молитвой утешать.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Неужель отвергнешь ты</plain>
+        </string>
+        <string>
+            <plain>Призыв дивных голосов?</plain>
+        </string>
+        <string>
+            <plain>Друг, в сознаньи нищеты</plain>
+        </string>
+        <string>
+            <plain>Поспеши на дивный зов.</plain>
+        </string>
+    </verse>
+</song>

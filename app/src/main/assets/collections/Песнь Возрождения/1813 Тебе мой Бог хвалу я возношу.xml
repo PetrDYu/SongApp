@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1813" name="Тебе мой Бог хвалу я возношу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Тебе, мой Бог, хвалу я возношу</plain>
+        </string>
+        <string>
+            <plain>За дар любви, прощенья и спасенья.</plain>
+        </string>
+        <string>
+            <plain>Тебе, Отец, я сердце приношу,</plain>
+        </string>
+        <string>
+            <plain>Возьми его и будь его владельцем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Прими мое благодаренье.</plain>
+        </string>
+        <string>
+            <plain>Достоин славы и хваленья Ты,</plain>
+        </string>
+        <string>
+            <plain>За то, что любишь Ты Свое творенье,</plain>
+        </string>
+        <string>
+            <plain>За то, что пострадал за грешных Ты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не в силах я все выразить вполне.</plain>
+        </string>
+        <string>
+            <plain>Чего достоин Ты, предвечный Бог,</plain>
+        </string>
+        <string>
+            <plain>Но знаю я, что только лишь Тебе</plain>
+        </string>
+        <string>
+            <plain>Должна звучать хвала всегда, везде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кто, как не Ты, даруешь людям счастье,</plain>
+        </string>
+        <string>
+            <plain>Примите люди Божью благодать.</plain>
+        </string>
+        <string>
+            <plain>О, поспешите все к Нему скорее,</plain>
+        </string>
+        <string>
+            <plain>Всем жаждущим жизнь вечную Он даст.</plain>
+        </string>
+    </verse>
+</song>

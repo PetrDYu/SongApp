@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="302" name="Ах в этой бурной жизни" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ах, в этой бурной жизни</plain>
+        </string>
+        <string>
+            <plain>Кто сердцу даст покой,</plain>
+        </string>
+        <string>
+            <plain>Кто жаждущих напоит</plain>
+        </string>
+        <string>
+            <plain>Живительной водой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Христос Лишь Один,</plain>
+        </string>
+        <string>
+            <plain>Христос лишь Один,</plain>
+        </string>
+        <string>
+            <plain>Христос лишь один</plain>
+        </string>
+        <string>
+            <plain>Тебя утешит навсегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я скорбью удрученный,</plain>
+        </string>
+        <string>
+            <plain>Со всех сторон враги,</plain>
+        </string>
+        <string>
+            <plain>Кто защитит, утешит</plain>
+        </string>
+        <string>
+            <plain>На жизненном пути?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, грех меня терзает,</plain>
+        </string>
+        <string>
+            <plain>Страшусь я пред судом;</plain>
+        </string>
+        <string>
+            <plain>Не знаю избавленье</plain>
+        </string>
+        <string>
+            <plain>Найти мне где и в ком.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>В Христе лишь одном,</plain>
+        </string>
+        <string>
+            <plain>В Христе лишь одном!</plain>
+        </string>
+        <string>
+            <plain>В Христе лишь одном,</plain>
+        </string>
+        <string>
+            <plain>Мой друг, спасенье ты найдешь.</plain>
+        </string>
+    </chorus>
+</song>

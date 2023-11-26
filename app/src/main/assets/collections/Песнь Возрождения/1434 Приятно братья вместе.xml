@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1434" name="Приятно братья вместе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приятно, братья, вместе</plain>
+        </string>
+        <string>
+            <plain>Жить дружною семьей.</plain>
+        </string>
+        <string>
+            <plain>Всегда, во всяком месте</plain>
+        </string>
+        <string>
+            <plain>Жить в мире меж собой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Так, как роса спадает</plain>
+        </string>
+        <string>
+            <plain>С Ермона на Сион,</plain>
+        </string>
+        <string>
+            <plain>Господь благословляет,</plain>
+        </string>
+        <string>
+            <plain>И к нам нисходит Он.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И с нами пребывает.</plain>
+        </string>
+        <string>
+            <plain>От зла хранит нас Сам.</plain>
+        </string>
+        <string>
+            <plain>И путь наш направляет</plain>
+        </string>
+        <string>
+            <plain>Из мрака к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Там воспоем в отраде.</plain>
+        </string>
+        <string>
+            <plain>Свободны от тревог.</plain>
+        </string>
+        <string>
+            <plain>В едином будем стаде,</plain>
+        </string>
+        <string>
+            <plain>Единый Пастырь - Бог.</plain>
+        </string>
+    </verse>
+</song>

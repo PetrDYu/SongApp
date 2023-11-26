@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2942" name="Кто с слезами сеет семя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто с слезами сеет семя</plain>
+        </string>
+        <string>
+            <plain>у воды вблизи, вдали,</plain>
+        </string>
+        <string>
+            <plain>с ликованьем возвратится,</plain>
+        </string>
+        <string>
+            <plain>Господу неся снопы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сейте и жните, сейте и жните,</plain>
+        </string>
+        <string>
+            <plain>время настало жатву собрать!</plain>
+        </string>
+        <string>
+            <plain>Сейте и жните, сейте и жните,</plain>
+        </string>
+        <string>
+            <plain>чтоб золотые снопы убрать!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будем же повсюду сеять семя,</plain>
+        </string>
+        <string>
+            <plain>не жалея сил!</plain>
+        </string>
+        <string>
+            <plain>Бог воздаст нам многократно,</plain>
+        </string>
+        <string>
+            <plain>когда труд свой завершим.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Братья, все вперёд спешите</plain>
+        </string>
+        <string>
+            <plain>и не стойте праздно тут,</plain>
+        </string>
+        <string>
+            <plain>ибо скоро ночь настанет,</plain>
+        </string>
+        <string>
+            <plain>невозможен будет труд.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, какая радость будет,</plain>
+        </string>
+        <string>
+            <plain>если мы у ног Его все</plain>
+        </string>
+        <string>
+            <plain>снопы положим наши,</plain>
+        </string>
+        <string>
+            <plain>что собрали для Него!</plain>
+        </string>
+    </verse>
+</song>

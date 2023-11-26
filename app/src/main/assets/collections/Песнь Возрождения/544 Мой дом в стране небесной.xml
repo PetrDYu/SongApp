@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="544" name="Мой дом в стране небесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мой дом в стране небесной,</plain>
+        </string>
+        <string>
+            <plain>Среди живых цветов,</plain>
+        </string>
+        <string>
+            <plain>Где сад растет чудесный,</plain>
+        </string>
+        <string>
+            <plain>Где царствует любовь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Где хоры прославляют</plain>
+        </string>
+        <string>
+            <plain>Спасителя людей.</plain>
+        </string>
+        <string>
+            <plain>Где жители не знают</plain>
+        </string>
+        <string>
+            <plain>Ни слез и ни скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Там отдых для пришельцев,</plain>
+        </string>
+        <string>
+            <plain>Там радость для сердец,</plain>
+        </string>
+        <string>
+            <plain>Там все мои родные</plain>
+        </string>
+        <string>
+            <plain>И там же мой Отец.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я странник и пришелец</plain>
+        </string>
+        <string>
+            <plain>Среди земных скорбей,</plain>
+        </string>
+        <string>
+            <plain>Иду и лишь мечтаю</plain>
+        </string>
+        <string>
+            <plain>Прийти домой скорей.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О ты, страна родная,</plain>
+        </string>
+        <string>
+            <plain>Как сердцу ты мила!</plain>
+        </string>
+        <string>
+            <plain>Отчизна дорогая,</plain>
+        </string>
+        <string>
+            <plain>Забуду ль я тебя?!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Здесь горе и страданье</plain>
+        </string>
+        <string>
+            <plain>Назначены Отцом,</plain>
+        </string>
+        <string>
+            <plain>Там - сердцу ликованье</plain>
+        </string>
+        <string>
+            <plain>И радость со Христом.</plain>
+        </string>
+    </verse>
+</song>

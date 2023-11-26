@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2008" name="Иисус понимает всё" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисус понимает всё</plain>
+        </string>
+        <string>
+            <plain>- Трудностей в жизни много.</plain>
+        </string>
+        <string>
+            <plain>Он верою меня ведет</plain>
+        </string>
+        <string>
+            <plain>По жизненной трудной дороге,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И я иду за Ним,</plain>
+        </string>
+        <string>
+            <plain>Любовью Его хранимый,</plain>
+        </string>
+        <string>
+            <plain>Моя рука - в Его руке,</plain>
+        </string>
+        <string>
+            <plain>И я не разлучаюсь с Ним</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Верить; надеяться, любить</plain>
+        </string>
+        <string>
+            <plain>- Больше в этой жизни ничего не надо!</plain>
+        </string>
+        <string>
+            <plain>Верить, надеяться, любить</plain>
+        </string>
+        <string>
+            <plain>- Самая большая радость!</plain>
+        </string>
+    </chorus>
+</song>

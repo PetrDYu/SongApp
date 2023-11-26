@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2707" name="Отче мой От Тебя я ушел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отче мой! От Тебя я ушел,</plain>
+        </string>
+        <string>
+            <plain>В этом мире нашел</plain>
+        </string>
+        <string>
+            <plain>Только грех и обман.</plain>
+        </string>
+        <string>
+            <plain>А теперь я к Тебе иду,</plain>
+        </string>
+        <string>
+            <plain>Ты прости всю вину,</plain>
+        </string>
+        <string>
+            <plain>Дай Твою полноту.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, помилуй, грешил я и каюсь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб Ты мне простил всю вину.</plain>
+        </string>
+        <string>
+            <plain>Я недостоин Твоей доброты,</plain>
+        </string>
+        <string>
+            <plain>О, яви Свою милость ко мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Боже мой, Ты помилуй, прости,</plain>
+        </string>
+        <string>
+            <plain>За Тобою идти Обещаю Тебе.</plain>
+        </string>
+        <string>
+            <plain>Боже мой, не отбрось, а прими.</plain>
+        </string>
+        <string>
+            <plain>Веру Сам утверди,</plain>
+        </string>
+        <string>
+            <plain>В Твое Царство введи.</plain>
+        </string>
+    </verse>
+</song>

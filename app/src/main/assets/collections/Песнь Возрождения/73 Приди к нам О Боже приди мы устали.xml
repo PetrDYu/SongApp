@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="73" name="Приди к нам О Боже приди мы устали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приди к нам, О Боже, приди, мы устали,</plain>
+        </string>
+        <string>
+            <plain>Последние силы слабеют в груди;</plain>
+        </string>
+        <string>
+            <plain>Поверглись на землю под гнетом печали,</plain>
+        </string>
+        <string>
+            <plain>Но дай нам подняться, чтоб дальше идти.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В святыню без страха бросают каменья,</plain>
+        </string>
+        <string>
+            <plain>Мир гонит безжалостно паству Твою.</plain>
+        </string>
+        <string>
+            <plain>Зло дышит повсюду убийством и мщеньем,</plain>
+        </string>
+        <string>
+            <plain>- О, дай нам не сдаться в смертельном бою.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Идти за Тобою на смерть и страданья,</plain>
+        </string>
+        <string>
+            <plain>Стоять за святые заветы</plain>
+        </string>
+        <string>
+            <plain>Твои Зажги нас огнем, и в часы испытанья</plain>
+        </string>
+        <string>
+            <plain>Любовью Твоею сердца озари.</plain>
+        </string>
+    </verse>
+</song>

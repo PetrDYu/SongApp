@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="309" name="Мой возлюбленный Отче милосердный" canon="false" text="Сары и Йехуды Цвейг" textRus="М. Винецкой" music="Сары и Йехуды Цвейг" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Мой возлюбленный Отче милосердный!</plain>
+        </string>
+        <string>
+            <plain>Мой возлюбленный Отче милосердный!</plain>
+        </string>
+        <string>
+            <plain>Ты веди меня волею Твоей! Ты веди меня</plain>
+        </string>
+        <string>
+            <plain>ла-ла-ла-лай-лай-лай... волею Твоей!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Устремится Твой слуга, как олень быстроногий,</plain>
+        </string>
+        <string>
+            <plain>Чтобы склониться ла-лай-ла-ла-ла... перед славой Твоей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Светом милости Твоей Ты меня наполни.</plain>
+        </string>
+        <string>
+            <plain>Слаще всего на земле ла-лай-ла-ла-ла... мне любовь Твоя.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Е́ДИД НЭ́ФЕШ А́В А-РАХАМА́Н</plain>
+        </string>
+        <string>
+            <plain>Е́ДИД НЭ́ФЕШ А́В А-РАХАМА́Н</plain>
+        </string>
+        <string>
+            <plain>МЭ́ШОХ А́ВДЭХА́ Э́ЛЬ РЭЦО́НЭХА</plain>
+        </string>
+        <string>
+            <plain>МЭ́ШОХ А́ВДЭХА́ ЛА-ЛА-ЛА... Э́ЛЬ РЭЦО́НЭХА́</plain>
+        </string>
+    </chorus>
+</song>

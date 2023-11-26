@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1044" name="Торжествуй Евангельская правда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Торжествуй, Евангельская правда.</plain>
+        </string>
+        <string>
+            <plain>Торжествуй: велик ее народ.</plain>
+        </string>
+        <string>
+            <plain>Твой Мессия, славный Победитель,</plain>
+        </string>
+        <string>
+            <plain>Всех людей к спасению зовет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Здесь работы очень - очень много.</plain>
+        </string>
+        <string>
+            <plain>Но жнецов на ниве очень мало.</plain>
+        </string>
+        <string>
+            <plain>Все спешите, идите, не медлите</plain>
+        </string>
+        <string>
+            <plain>Звать на ниву всех.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все трудиться будем для спасенья,</plain>
+        </string>
+        <string>
+            <plain>Всех поспешно будем призывать,</plain>
+        </string>
+        <string>
+            <plain>Проповедывать Святое Слово,</plain>
+        </string>
+        <string>
+            <plain>Славный путь готовы совершать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Правда в мире да восторжествует!</plain>
+        </string>
+        <string>
+            <plain>Слово правды пусть всех озарит.</plain>
+        </string>
+        <string>
+            <plain>Падший мир весь да восторжествует:</plain>
+        </string>
+        <string>
+            <plain>Эту радость небо нам дарит.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Время благодати уж настало,</plain>
+        </string>
+        <string>
+            <plain>Чтоб светило солнце нам в пути,</plain>
+        </string>
+        <string>
+            <plain>Чтобы люди быстро все узнали,</plain>
+        </string>
+        <string>
+            <plain>Что Христос желает всех спасти.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Торжествуй, Мессия-Победитель!</plain>
+        </string>
+        <string>
+            <plain>Все Тебе мы славу воздадим.</plain>
+        </string>
+        <string>
+            <plain>Боже! Ты достоин славы, чести.</plain>
+        </string>
+        <string>
+            <plain>Со Христом одним мы победим.</plain>
+        </string>
+    </verse>
+</song>

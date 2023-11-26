@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3154" name="Люблю я Церковь ту что сам Христом создал" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю я Церковь ту, что сам Христом создал,</plain>
+        </string>
+        <string>
+            <plain>ту, что Он кровью Своей невестою избрал.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На прочном основании построена она,</plain>
+        </string>
+        <string>
+            <plain>и сам Христос — Спаситель главою стал угла.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Невеста Агнца здесь прелестна и чиста,</plain>
+        </string>
+        <string>
+            <plain>лишь В вечности проявится её вся красота.</plain>
+        </string>
+        <string>
+            <plain>З Лишь через Агнца кровь ты славна и чиста.</plain>
+        </string>
+        <string>
+            <plain>От веры к славе поведёт тебя Его рука.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жених придёт с небес невесту взять к Себе,</plain>
+        </string>
+        <string>
+            <plain>пребудет вечно с Ним она в небесной красоте.</plain>
+        </string>
+    </verse>
+</song>

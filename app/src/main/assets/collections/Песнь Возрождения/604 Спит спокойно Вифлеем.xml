@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="604" name="Спит спокойно Вифлеем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спит спокойно Вифлеем,</plain>
+        </string>
+        <string>
+            <plain>Но горит небес простор:</plain>
+        </string>
+        <string>
+            <plain>В вышине над миром всем</plain>
+        </string>
+        <string>
+            <plain>Воспевает Божий хор.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Богу слава и хваленье!</plain>
+        </string>
+        <string>
+            <plain>Вот Спаситель вам рожден!</plain>
+        </string>
+        <string>
+            <plain>Мир земле, благоволенье</plain>
+        </string>
+        <string>
+            <plain>От Отца приносит Он.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пробудися, Вифлеем!</plain>
+        </string>
+        <string>
+            <plain>Пробудися, грешный люд!</plain>
+        </string>
+        <string>
+            <plain>Встань, послушай, сердцем нем,</plain>
+        </string>
+        <string>
+            <plain>Песнь, что ангелы поют.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пробудись, порочный мир,</plain>
+        </string>
+        <string>
+            <plain>Ты заснул в пучине зол;</plain>
+        </string>
+        <string>
+            <plain>Встань, низвергни свой кумир,</plain>
+        </string>
+        <string>
+            <plain>Ныне Бог к тебе пришел.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но не спят лишь пастухи,</plain>
+        </string>
+        <string>
+            <plain>И им ангел весть несет:</plain>
+        </string>
+        <string>
+            <plain>Бог, прощаюший грехи,</plain>
+        </string>
+        <string>
+            <plain>Вам Спасителя дает.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Торжествуйте, пастухи!</plain>
+        </string>
+        <string>
+            <plain>За заблудшею душой</plain>
+        </string>
+        <string>
+            <plain>Всех, кто к призыву глухи,</plain>
+        </string>
+        <string>
+            <plain>Пастырь к нам пришел Благой!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1346" name="Спаситель наш Мы в этот час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель наш! Мы в этот час</plain>
+        </string>
+        <string>
+            <plain>Перед Тобой стоим в мольбе;</plain>
+        </string>
+        <string>
+            <plain>Зажги в нас слова правды свет</plain>
+        </string>
+        <string>
+            <plain>И оживи святой завет.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дай слышать слово нам,</plain>
+        </string>
+        <string>
+            <plain>Христос, Чтоб огонь любви к Тебе возрос</plain>
+        </string>
+        <string>
+            <plain>И чтоб, идя путем земли.</plain>
+        </string>
+        <string>
+            <plain>Твои дары мы сберегли.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И мы желаем лишь одно:</plain>
+        </string>
+        <string>
+            <plain>Да сохранится в нас оно</plain>
+        </string>
+        <string>
+            <plain>И в этот час, и до конца.</plain>
+        </string>
+        <string>
+            <plain>Когда войдем мы в Дом Отца.</plain>
+        </string>
+    </verse>
+</song>

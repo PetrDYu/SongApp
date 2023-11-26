@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="644" name="Вождь наш верный Дух Святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вождь наш верный, Дух Святой!</plain>
+        </string>
+        <string>
+            <plain>Будь всегда Ты близок к нам!</plain>
+        </string>
+        <string>
+            <plain>И веди Своей рукой</plain>
+        </string>
+        <string>
+            <plain>Нас по жизненным путям.</plain>
+        </string>
+        <string>
+            <plain>Слышим голос мы святой</plain>
+        </string>
+        <string>
+            <plain>С чистой радостью в груди:</plain>
+        </string>
+        <string>
+            <plain>"Путник слабый, о приди!</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя домой!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вечно близкий, верный Друг!</plain>
+        </string>
+        <string>
+            <plain>Ты готов всегда помочь,</plain>
+        </string>
+        <string>
+            <plain>Не оставь Своих Ты слуг</plain>
+        </string>
+        <string>
+            <plain>Здесь блуждать сквозь тьму и ночь.</plain>
+        </string>
+        <string>
+            <plain>Если буря впереди,</plain>
+        </string>
+        <string>
+            <plain>Сердце слабнет под нуждой,</plain>
+        </string>
+        <string>
+            <plain>Молви: "Путник, о приди!</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя домой!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда день пройдет трудов</plain>
+        </string>
+        <string>
+            <plain>И услышим сладкий зов,</plain>
+        </string>
+        <string>
+            <plain>Когда в небо, как домой,</plain>
+        </string>
+        <string>
+            <plain>Соберемся мы с мольбой,</plain>
+        </string>
+        <string>
+            <plain>Веря в мощь крови святой,</plain>
+        </string>
+        <string>
+            <plain>Чрез поток нас проведи,</plain>
+        </string>
+        <string>
+            <plain>Молви: "Путник, о приди!</plain>
+        </string>
+        <string>
+            <plain>Поведу тебя домой!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1693" name="Я иду по земле злобным ветром гоним" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я иду по земле, злобным ветром гоним,</plain>
+        </string>
+        <string>
+            <plain>Мимо люди куда-то спешат.</plain>
+        </string>
+        <string>
+            <plain>Среди них я иду, как в пустыне, один,</plain>
+        </string>
+        <string>
+            <plain>И усталые ноги горят.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Видит мой Господь:</plain>
+        </string>
+        <string>
+            <plain>Сердце так устало</plain>
+        </string>
+        <string>
+            <plain>Верить и любить</plain>
+        </string>
+        <string>
+            <plain>Среди зла, обмана.</plain>
+        </string>
+        <string>
+            <plain>Так боюсь упасть.</plain>
+        </string>
+        <string>
+            <plain>Ведь хочу дойти</plain>
+        </string>
+        <string>
+            <plain>К вечным берегам.</plain>
+        </string>
+        <string>
+            <plain>Ждущим впереди.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я иду безмятежно, спокойно везде.</plain>
+        </string>
+        <string>
+            <plain>И сквозь слезы не вижу опять.</plain>
+        </string>
+        <string>
+            <plain>Если я упаду, то, наверное, мне</plain>
+        </string>
+        <string>
+            <plain>Не подняться и больше не встать.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда Ты проходишь ночною порой.</plain>
+        </string>
+        <string>
+            <plain>Не пройдешь мимо скорби моей.</plain>
+        </string>
+        <string>
+            <plain>Ты мне руку подашь, поведешь за</plain>
+        </string>
+        <string>
+            <plain>Собой Мимо бурь и палящих огней.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я иду, прикоснись ко мне. Боже, скорей,</plain>
+        </string>
+        <string>
+            <plain>И я стану намного сильней,</plain>
+        </string>
+        <string>
+            <plain>И над гибнущим миром свободно взлечу,</plain>
+        </string>
+        <string>
+            <plain>О, услышь, укрепи, я молю.</plain>
+        </string>
+    </verse>
+</song>

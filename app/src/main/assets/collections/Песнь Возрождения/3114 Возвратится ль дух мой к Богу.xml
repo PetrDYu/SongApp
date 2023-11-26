@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3114" name="Возвратится ль дух мой к Богу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возвратится ль дух мой к Богу,</plain>
+        </string>
+        <string>
+            <plain>если путь окончу свой?</plain>
+        </string>
+        <string>
+            <plain>Если станет прах землею,</plain>
+        </string>
+        <string>
+            <plain>буду ль я, Господь, с Тобой?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, вперед, душа, стремись ты,</plain>
+        </string>
+        <string>
+            <plain>в небе счастье ждет тебя;</plain>
+        </string>
+        <string>
+            <plain>если путь твой завершиться,</plain>
+        </string>
+        <string>
+            <plain>будешь с Христом всегда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, действительно ль увижу</plain>
+        </string>
+        <string>
+            <plain>Сына Божьего я там,</plain>
+        </string>
+        <string>
+            <plain>пострадавшего невинно,</plain>
+        </string>
+        <string>
+            <plain>давшего спасенье нам?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, услышу ль я звучанье</plain>
+        </string>
+        <string>
+            <plain>гуслей золотых в раю,</plain>
+        </string>
+        <string>
+            <plain>и в небесном ликованьи</plain>
+        </string>
+        <string>
+            <plain>«Аллилуйя» воспою?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вознесется ль дух мой в небо,</plain>
+        </string>
+        <string>
+            <plain>если ангелы меня позовут</plain>
+        </string>
+        <string>
+            <plain>в страну блаженства,</plain>
+        </string>
+        <string>
+            <plain>где жить вечно буду я?</plain>
+        </string>
+    </verse>
+</song>

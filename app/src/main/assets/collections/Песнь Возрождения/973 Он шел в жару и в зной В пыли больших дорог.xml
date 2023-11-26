@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="973" name="Он шел в жару и в зной В пыли больших дорог" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Он шел в жару и в зной, В пыли больших дорог,</plain>
+        </string>
+        <string>
+            <plain>Учил любить всех и прощать обиды.</plain>
+        </string>
+        <string>
+            <plain>Он с мытарями жил, Не знал ни в ком врага,</plain>
+        </string>
+        <string>
+            <plain>Склонялся к тем, кто был в слезах и горе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Учитель, свой путь пройти Я должен так, как сделал это Ты.</plain>
+        </string>
+        <string>
+            <plain>Учитель! Вокруг есть люди, И я должен их любить, как Ты,</plain>
+        </string>
+        <string>
+            <plain>Учитель. Ведь не легко нести чужое бремя Так, как Ты,</plain>
+        </string>
+        <string>
+            <plain>Учитель Я все смогу, но только Будь всегда со мною.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он принял грош вдовы И Магдалины плач.</plain>
+        </string>
+        <string>
+            <plain>Он знал, что надо их любить, прощать.</plain>
+        </string>
+        <string>
+            <plain>И Никодиму путь во тьме Он указал,</plain>
+        </string>
+        <string>
+            <plain>И в Иордане принял Сам крещенье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И мы пойдем в жару, В пыли больших дорог,</plain>
+        </string>
+        <string>
+            <plain>А Он научит нас любви, прощенью,</plain>
+        </string>
+        <string>
+            <plain>И мытаря принять, и зло забыть,</plain>
+        </string>
+        <string>
+            <plain>И людям дать добро и утешенье.</plain>
+        </string>
+    </verse>
+</song>

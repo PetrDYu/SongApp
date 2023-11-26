@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1615" name="Еще одна свеча погасла на земле" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Еще одна свеча погасла на земле,</plain>
+        </string>
+        <string>
+            <plain>Еще одна звезда зажглась на небе.</plain>
+        </string>
+        <string>
+            <plain>Чем ночи холодней и ближе мы к зиме,</plain>
+        </string>
+        <string>
+            <plain>Тем выше травы тянут к солнцу стебель.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На небе, на небе, на небе</plain>
+        </string>
+        <string>
+            <plain>Будем вечно петь "Осанна".</plain>
+        </string>
+        <string>
+            <plain>На небе, на небе,</plain>
+        </string>
+        <string>
+            <plain>Мы будем с вами вечно жить на небе.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Оборвалась струна, и не окончен такт,</plain>
+        </string>
+        <string>
+            <plain>И песня прервалась на полутоне.</plain>
+        </string>
+        <string>
+            <plain>Чем ближе наша цель, тем торопливей шаг</plain>
+        </string>
+        <string>
+            <plain>В предчувствии покоя в вечном доме.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нам трудно на земле под властью плоти жить,</plain>
+        </string>
+        <string>
+            <plain>В стране неволи и несовершенства.</plain>
+        </string>
+        <string>
+            <plain>Но нам должно страдать, чтоб верно оценить</plain>
+        </string>
+        <string>
+            <plain>Покой и мир небесного блаженства.</plain>
+        </string>
+        <string>
+            <plain>Еще одна свеча...</plain>
+        </string>
+    </verse>
+</song>

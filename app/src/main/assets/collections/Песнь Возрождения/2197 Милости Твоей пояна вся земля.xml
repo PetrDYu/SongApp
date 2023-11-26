@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2197" name="Милости Твоей пояна вся земля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Милости Твоей пояна вся земля,</plain>
+        </string>
+        <string>
+            <plain>Милости Твоей полна жизнь моя,</plain>
+        </string>
+        <string>
+            <plain>Милость Свою Ты превознёс над судом,</plain>
+        </string>
+        <string>
+            <plain>Возлюбил меня и ввёл в Свой дом.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты спас меня и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Освободил от вины.</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя!</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя!</plain>
+        </string>
+        <string>
+            <plain>Ты спас меня и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Освободил от вины.</plain>
+        </string>
+    </chorus>
+</song>

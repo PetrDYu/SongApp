@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2642" name="Боже Тебя я молю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Боже, Тебя я молю,</plain>
+        </string>
+        <string>
+            <plain>Бедный я грешник несчастный,</plain>
+        </string>
+        <string>
+            <plain>Громко в тиши я к Тебе вопию:</plain>
+        </string>
+        <string>
+            <plain>О, помоги в день ненастный.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Боже, Ты душу мою</plain>
+        </string>
+        <string>
+            <plain>Сам облегчи от страданья,</plain>
+        </string>
+        <string>
+            <plain>В трудные дни от тяжелых скорбей,</plain>
+        </string>
+        <string>
+            <plain>Освободи от терзанья.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Тебе я молиться хочу,</plain>
+        </string>
+        <string>
+            <plain>Тебе открывать свою душу,</plain>
+        </string>
+        <string>
+            <plain>В Тебе для себя я покой нахожу,</plain>
+        </string>
+        <string>
+            <plain>Мир сей покой мне нарушил...</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть все здесь оставят меня,</plain>
+        </string>
+        <string>
+            <plain>Но в мир убегать не желаю.</plain>
+        </string>
+        <string>
+            <plain>Если и даже оставят друзья,</plain>
+        </string>
+        <string>
+            <plain>К Тебе, мой Господь, прибегаю.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я счастлив бываю тогда,</plain>
+        </string>
+        <string>
+            <plain>Коль грешнику - мне - Ты прощаешь,</plain>
+        </string>
+        <string>
+            <plain>Порок и прокляты и тяжесть греха</plain>
+        </string>
+        <string>
+            <plain>С меня навсегда Ты снимаешь...</plain>
+        </string>
+    </verse>
+</song>

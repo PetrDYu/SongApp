@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="615" name="Царь царящий в вышнем свете" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Царь, царящий в вышнем свете,</plain>
+        </string>
+        <string>
+            <plain>Жизни вечной Властелин!</plain>
+        </string>
+        <string>
+            <plain>Ряд веков, тысячелетий</plain>
+        </string>
+        <string>
+            <plain>Пред Тобой, как день один.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Полн загадок год грядущий,</plain>
+        </string>
+        <string>
+            <plain>Но он весь в руках Твоих;</plain>
+        </string>
+        <string>
+            <plain>Помоги нам, Всемогущий,</plain>
+        </string>
+        <string>
+            <plain>Жить с Тобою каждый миг!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Что весь век наш пред Тобою?</plain>
+        </string>
+        <string>
+            <plain>Как мелькнувшая звезда,</plain>
+        </string>
+        <string>
+            <plain>Наша жизнь блеснет порою</plain>
+        </string>
+        <string>
+            <plain>И погаснет без следа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что весь век наш пред Тобою?</plain>
+        </string>
+        <string>
+            <plain>Наша жизнь, как легкий пар,</plain>
+        </string>
+        <string>
+            <plain>Что, поднявшись над землею,</plain>
+        </string>
+        <string>
+            <plain>Исчезает в летний жар.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жизнь вся наша пред Тобою,</plain>
+        </string>
+        <string>
+            <plain>Как трава, что, лишь взойдет,</plain>
+        </string>
+        <string>
+            <plain>Тотчас вянет под жарою</plain>
+        </string>
+        <string>
+            <plain>Иссушающих забот.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты ведь бренность нашу знаешь;</plain>
+        </string>
+        <string>
+            <plain>Все же нашей жизни день</plain>
+        </string>
+        <string>
+            <plain>Больше тысяч лет считаешь</plain>
+        </string>
+        <string>
+            <plain>И даешь бессмертья сень.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Словно царь дружине верной</plain>
+        </string>
+        <string>
+            <plain>За день битвы дарит год,</plain>
+        </string>
+        <string>
+            <plain>Ты сулишь в любви безмерной</plain>
+        </string>
+        <string>
+            <plain>Вечность нам за день невзгод.</plain>
+        </string>
+    </verse>
+</song>

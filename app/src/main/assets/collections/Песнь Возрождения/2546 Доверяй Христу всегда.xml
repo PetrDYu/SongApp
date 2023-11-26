@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2546" name="Доверяй Христу всегда" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Доверяй Христу всегда!</plain>
+        </string>
+        <string>
+            <plain>Сам литы, грозит беда,</plain>
+        </string>
+        <string>
+            <plain>Буря ль воет, ночь кругом,</plain>
+        </string>
+        <string>
+            <plain>- Доверяй Христу во всем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Доверяй во всякий час!</plain>
+        </string>
+        <string>
+            <plain>Доверяй, хоть свет погас;</plain>
+        </string>
+        <string>
+            <plain>Что б ни встретил в мире злом,</plain>
+        </string>
+        <string>
+            <plain>- Доверяй Христу во всем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дух Святой сиянье льет</plain>
+        </string>
+        <string>
+            <plain>В сердце бедное мое,</plain>
+        </string>
+        <string>
+            <plain>Он ведет прямым путем:</plain>
+        </string>
+        <string>
+            <plain>Доверяй Христу во всем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог со мной - я веселюсь;</plain>
+        </string>
+        <string>
+            <plain>Одинок? - сильней молюсь;</plain>
+        </string>
+        <string>
+            <plain>В страхе? - слышу как бы гром:</plain>
+        </string>
+        <string>
+            <plain>Доверяй Христу во всем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Доверяй Тому, Кто спас;</plain>
+        </string>
+        <string>
+            <plain>Доверяй и в смертный час;</plain>
+        </string>
+        <string>
+            <plain>Пока в вечность не уйдем,</plain>
+        </string>
+        <string>
+            <plain>Доверяй Христу во всем.</plain>
+        </string>
+    </verse>
+</song>

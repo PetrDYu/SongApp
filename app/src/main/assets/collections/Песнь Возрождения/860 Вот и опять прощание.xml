@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="860" name="Вот и опять прощание" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вот и опять прощание,</plain>
+        </string>
+        <string>
+            <plain>Снова вокзал и дороги...</plain>
+        </string>
+        <string>
+            <plain>Последнее пожелание,</plain>
+        </string>
+        <string>
+            <plain>Краткое слово: "С Богом!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>С Богом в дорогу дальнюю,</plain>
+        </string>
+        <string>
+            <plain>С Богом на труд и страдания.</plain>
+        </string>
+        <string>
+            <plain>Видно далекое зарево,</plain>
+        </string>
+        <string>
+            <plain>С Богом, друзья, до свидания!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Скоро ль придется встретиться</plain>
+        </string>
+        <string>
+            <plain>В жизненном море скитания?</plain>
+        </string>
+        <string>
+            <plain>А горизонт все светится,</plain>
+        </string>
+        <string>
+            <plain>С Богом, друзья, до свидания.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизнь наша скоротечная,</plain>
+        </string>
+        <string>
+            <plain>В небо - одно лишь желание.</plain>
+        </string>
+        <string>
+            <plain>На смену придет жизнь вечная,</plain>
+        </string>
+        <string>
+            <plain>Скажем: "Земля, до свидания!"</plain>
+        </string>
+    </verse>
+</song>

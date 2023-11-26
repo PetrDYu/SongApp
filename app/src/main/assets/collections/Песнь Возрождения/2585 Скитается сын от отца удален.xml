@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2585" name="Скитается сын от отца удален" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Скитается сын, от отца удален,</plain>
+        </string>
+        <string>
+            <plain>Мечтой увлечен, дом покинул он.</plain>
+        </string>
+        <string>
+            <plain>В нем сердце печально и дух омрачен,</plain>
+        </string>
+        <string>
+            <plain>И слышен был часто о родине стон.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он с места на место в исканьях ходил,</plain>
+        </string>
+        <string>
+            <plain>Он жаждою к счастью охвачен был.</plain>
+        </string>
+        <string>
+            <plain>В веселье, в разгуле он дни проводил</plain>
+        </string>
+        <string>
+            <plain>И скоро именье свое расточил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И вот в раскаянье идет он домой.</plain>
+        </string>
+        <string>
+            <plain>"Прости, - он взывает, - прости грех мой!"</plain>
+        </string>
+        <string>
+            <plain>Отец принимает с любовью святой.</plain>
+        </string>
+        <string>
+            <plain>Прощенный, ноет он счастливой душой.</plain>
+        </string>
+    </verse>
+</song>

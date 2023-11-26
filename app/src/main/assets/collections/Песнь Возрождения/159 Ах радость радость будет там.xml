@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="159" name="Ах радость радость будет там" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ах, радость, радость будет там</plain>
+        </string>
+        <string>
+            <plain>Искупленным сердцам,</plain>
+        </string>
+        <string>
+            <plain>Когда окончим жизнь свою</plain>
+        </string>
+        <string>
+            <plain>И будем там в раю.</plain>
+        </string>
+        <string>
+            <plain>Где жизни дерево с плодом</plain>
+        </string>
+        <string>
+            <plain>Там пред Спасителем Христом,</plain>
+        </string>
+        <string>
+            <plain>Где Он, избавивший людей,</plain>
+        </string>
+        <string>
+            <plain>Царит в любви Своей!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ах, что за радость там, радость там, радость там!</plain>
+        </string>
+        <string>
+            <plain>Ах, что за радость там спасенным будет нам,</plain>
+        </string>
+        <string>
+            <plain>Где все святые без числа</plain>
+        </string>
+        <string>
+            <plain>Поют Христу вдали от зла;</plain>
+        </string>
+        <string>
+            <plain>И мы там громко воспоем,</plain>
+        </string>
+        <string>
+            <plain>Когда свой путь пройдем.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дорога узкая одна</plain>
+        </string>
+        <string>
+            <plain>К спасенью нам дана,</plain>
+        </string>
+        <string>
+            <plain>И если ею не пойдем,</plain>
+        </string>
+        <string>
+            <plain>Навеки мы умрем;</plain>
+        </string>
+        <string>
+            <plain>Когда ж путь узкий изберем,</plain>
+        </string>
+        <string>
+            <plain>То хоть мы слезы здесь прольем,</plain>
+        </string>
+        <string>
+            <plain>Но там в блаженстве воспоем</plain>
+        </string>
+        <string>
+            <plain>Пред любящим Отцом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос воскрес, рассеяв страх,</plain>
+        </string>
+        <string>
+            <plain>И вот в великий час</plain>
+        </string>
+        <string>
+            <plain>В пречистых, светлых небесах</plain>
+        </string>
+        <string>
+            <plain>Он предваряет нас.</plain>
+        </string>
+        <string>
+            <plain>Ах, верьте, робкие друзья,</plain>
+        </string>
+        <string>
+            <plain>Есть вечной радости края;</plain>
+        </string>
+        <string>
+            <plain>Хоть тяжко, грустно в мире нам,</plain>
+        </string>
+        <string>
+            <plain>Зато спасенье там!</plain>
+        </string>
+    </verse>
+</song>

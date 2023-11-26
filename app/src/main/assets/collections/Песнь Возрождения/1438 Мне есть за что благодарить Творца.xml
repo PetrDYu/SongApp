@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1438" name="Мне есть за что благодарить Творца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мне есть за что благодарить Творца -</plain>
+        </string>
+        <string>
+            <plain>Он снял с меня греховную проказу.</plain>
+        </string>
+        <string>
+            <plain>О, пусть теперь польется без конца</plain>
+        </string>
+        <string>
+            <plain>Хвала Ему в поэмах и рассказах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Вот почему мне хочется любить</plain>
+        </string>
+        <string>
+            <plain>Его сильней, и искренней, и чище.</plain>
+        </string>
+        <string>
+            <plain>Мне есть за что Христа благодарить -</plain>
+        </string>
+        <string>
+            <plain>Он мне купил небесное жилище.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Душа взывать к Христу не устает,</plain>
+        </string>
+        <string>
+            <plain>Где падала - прощения просила.</plain>
+        </string>
+        <string>
+            <plain>Ведь Он в беде мне руку подает,</plain>
+        </string>
+        <string>
+            <plain>Ведь Он один - прибежище и сила.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все от Него, и все к Нему идет,</plain>
+        </string>
+        <string>
+            <plain>Душа поет небесным отголоском.</plain>
+        </string>
+        <string>
+            <plain>Придет в мой дом - я ноги обниму</plain>
+        </string>
+        <string>
+            <plain>Того, Кто умер на кресте Голгофском.</plain>
+        </string>
+    </verse>
+</song>

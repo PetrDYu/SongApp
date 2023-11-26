@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="96" name="Чтоб пасти народ избранный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чтоб пасти народ избранный,</plain>
+        </string>
+        <string>
+            <plain>Ты с небес спустился к нам,</plain>
+        </string>
+        <string>
+            <plain>Пастырь добрый, неустанный</plain>
+        </string>
+        <string>
+            <plain>В милосердии к овцам.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Чей язык красноречивый,</plain>
+        </string>
+        <string>
+            <plain>Чьи блаженные уста</plain>
+        </string>
+        <string>
+            <plain>Нам расскажут, как счастливы</plain>
+        </string>
+        <string>
+            <plain>Овцы Пастыря Христа?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что опасность нам и нужды?</plain>
+        </string>
+        <string>
+            <plain>Разве силы нету в Нем?</plain>
+        </string>
+        <string>
+            <plain>К злу мы будем вечно чужды</plain>
+        </string>
+        <string>
+            <plain>С нашим Пастырем Христом.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если нас недуг терзает,</plain>
+        </string>
+        <string>
+            <plain>Кто покой нам ниспошлет?</plain>
+        </string>
+        <string>
+            <plain>Кто врачует, утешает,</plain>
+        </string>
+        <string>
+            <plain>Как не чудный Пастырь тот?</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О Великий Пастырь стада</plain>
+        </string>
+        <string>
+            <plain>Верных избранных</plain>
+        </string>
+        <string>
+            <plain>Твоих! Ты святая мне ограда</plain>
+        </string>
+        <string>
+            <plain>На земных путях моих.</plain>
+        </string>
+    </verse>
+</song>

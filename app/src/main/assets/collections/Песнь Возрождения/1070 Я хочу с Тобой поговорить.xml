@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1070" name="Я хочу с Тобой поговорить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я хочу с Тобой поговорить,</plain>
+        </string>
+        <string>
+            <plain>Мой хороший, самый лучший Друг.</plain>
+        </string>
+        <string>
+            <plain>На меня с небес Ты посмотри,</plain>
+        </string>
+        <string>
+            <plain>Слышишь сердца частый-частый стук.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я хочу с Тобой поговорить,</plain>
+        </string>
+        <string>
+            <plain>Облегчить печали тяжкий груз.</plain>
+        </string>
+        <string>
+            <plain>То, что здесь мне некому открыть,</plain>
+        </string>
+        <string>
+            <plain>Я несу Тебе, мой Иисус.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я с Тобой поговорить хочу,</plain>
+        </string>
+        <string>
+            <plain>Потому что далеки друзья,</plain>
+        </string>
+        <string>
+            <plain>С ними я о горе помолчу.</plain>
+        </string>
+        <string>
+            <plain>Им не понесу печали я.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я с Тобой спешу поговорить</plain>
+        </string>
+        <string>
+            <plain>В час, когда темно-темно вокруг.</plain>
+        </string>
+        <string>
+            <plain>На меня с небес Ты посмотри</plain>
+        </string>
+        <string>
+            <plain>И приди, как самый лучший Друг.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="785" name="Факел веры угасает" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Факел веры угасает,</plain>
+        </string>
+        <string>
+            <plain>Песни мира замирают,</plain>
+        </string>
+        <string>
+            <plain>Нет надежды, нет любви,</plain>
+        </string>
+        <string>
+            <plain>О мой брат, о мой друг, о где же ты?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Все забыл ты и забросил,</plain>
+        </string>
+        <string>
+            <plain>Колос веры грубо скошен,</plain>
+        </string>
+        <string>
+            <plain>Ты оставил всех друзей,</plain>
+        </string>
+        <string>
+            <plain>О мой друг, о мой брат, вернись скорей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты покинул, друг, собранье,</plain>
+        </string>
+        <string>
+            <plain>Видит Бог твои страданья,</plain>
+        </string>
+        <string>
+            <plain>Он зовет тебя: "Приди!"</plain>
+        </string>
+        <string>
+            <plain>Ты на зов, ты на зов Его спеши.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Друг мой бедный, где блуждаешь,</plain>
+        </string>
+        <string>
+            <plain>Где напрасно ты страдаешь?</plain>
+        </string>
+        <string>
+            <plain>Мрак в душе твоей сильней.</plain>
+        </string>
+        <string>
+            <plain>О мой друг, о мой брат, вернись скорей!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Тихо в небе песни льются,</plain>
+        </string>
+        <string>
+            <plain>То рыданья вдруг прорвутся;</plain>
+        </string>
+        <string>
+            <plain>Это слезы, друг, Творца</plain>
+        </string>
+        <string>
+            <plain>За тебя, за тебя и за меня.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Сумрак ночи опустился,</plain>
+        </string>
+        <string>
+            <plain>Ты сегодня не молился,</plain>
+        </string>
+        <string>
+            <plain>О, склони пред Ним главу</plain>
+        </string>
+        <string>
+            <plain>И скажи: "Я у ног Твоих стою".</plain>
+        </string>
+    </verse>
+</song>

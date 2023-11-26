@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="128" name="Прекрасен Тот, Кто нам Благую Весть принес," canon="false" text="Л. Э. Смита" textRus="И. Языковой, Ю. Пастернака" music="Л. Э. Смита" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Прекрасен Тот, Кто нам Благую Весть принес,</plain>
+        </string>
+        <string>
+            <plain>Принес с небес, нам с небес,</plain>
+        </string>
+        <string>
+            <plain>Кто возвестил нам мир и Царство нам явил,</plain>
+        </string>
+        <string>
+            <plain>Он – наш Царь, Он – наш Царь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Он – наш Царь, Он – наш Царь.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Восстав из мертвых, Он пришел к нам с милостью,</plain>
+        </string>
+        <string>
+            <plain>Он – Бог живой, Бог живой!</plain>
+        </string>
+        <string>
+            <plain>Он обнял нас пронзенными руками –</plain>
+        </string>
+        <string>
+            <plain>Знаем мы: Он живой!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Он живой, Он живой!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Он – наш Царь, Он – наш Царь.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

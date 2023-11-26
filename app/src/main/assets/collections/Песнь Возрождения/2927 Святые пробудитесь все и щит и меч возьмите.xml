@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2927" name="Святые пробудитесь все и щит и меч возьмите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Святые, пробудитесь все и щит, и меч возьмите!</plain>
+        </string>
+        <string>
+            <plain>Постойте вы за град святой, что создал наш Спаситель.</plain>
+        </string>
+        <string>
+            <plain>На поле битвы враг всю мощь свою напряг</plain>
+        </string>
+        <string>
+            <plain>- ты смело с ним в борьбе вступай и подвиг веры совершай!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Вперёд, о воины Христа, вы с силой тьмы сразитесь!</plain>
+        </string>
+        <string>
+            <plain>Победу Бог чрез веру даст, вы Словом ободритесь.</plain>
+        </string>
+        <string>
+            <plain>И враг не устоит, он с поля побежит.</plain>
+        </string>
+        <string>
+            <plain>Как Гедеон, ты победишь и подвиг веры совершишь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В борьбе за веру твёрдо стой, светать уж начинает;</plain>
+        </string>
+        <string>
+            <plain>победы знамя подними - уж враг изнемогает.</plain>
+        </string>
+        <string>
+            <plain>Услышим скоро мы сигнал седьмой трубы,</plain>
+        </string>
+        <string>
+            <plain>тогда придёт Господь и сам даст вечную победу нам.</plain>
+        </string>
+    </verse>
+</song>

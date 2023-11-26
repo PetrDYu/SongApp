@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2770" name="Давайте смотреть друг на друга" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Давайте смотреть друг на друга,</plain>
+        </string>
+        <string>
+            <plain>Друг друга запоминать.</plain>
+        </string>
+        <string>
+            <plain>Нас всех ожидает разлука,</plain>
+        </string>
+        <string>
+            <plain>Нам всем предстоит умирать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Давайте же будем добрее,</plain>
+        </string>
+        <string>
+            <plain>Друг друга жалеть и любить.</plain>
+        </string>
+        <string>
+            <plain>Спаситель нас всех обогреет,</plain>
+        </string>
+        <string>
+            <plain>И тьма не сумеет сгубить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не знать нам, как смерть обернется,</plain>
+        </string>
+        <string>
+            <plain>Как долго мы будем стареть.</plain>
+        </string>
+        <string>
+            <plain>И в вечности, может, придется</plain>
+        </string>
+        <string>
+            <plain>В глаза нам друг другу смотреть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И встретившись там, в новом теле,</plain>
+        </string>
+        <string>
+            <plain>Не будет ли стыдно тогда,</plain>
+        </string>
+        <string>
+            <plain>Что здесь, на земле, не смотрели</plain>
+        </string>
+        <string>
+            <plain>Друг другу с любовью в глаза?</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Давайте смотреть друг на друга,</plain>
+        </string>
+        <string>
+            <plain>Друг друга запоминать.</plain>
+        </string>
+        <string>
+            <plain>Нас всех ожидает разлука.</plain>
+        </string>
+        <string>
+            <plain>Нам всем предстоит уезжать.</plain>
+        </string>
+    </verse>
+</song>

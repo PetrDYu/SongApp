@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="81" name="Научи меня Боже любить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Научи меня, Боже, любить</plain>
+        </string>
+        <string>
+            <plain>Всем умом Тебя, всем помышленьем,</plain>
+        </string>
+        <string>
+            <plain>Чтоб и душу Тебе посвятить,</plain>
+        </string>
+        <string>
+            <plain>И всю жизнь с каждым сердца биеньем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Научи ты меня соблюдать</plain>
+        </string>
+        <string>
+            <plain>Лишь Твою милосердную волю;</plain>
+        </string>
+        <string>
+            <plain>Научи никогда не роптать</plain>
+        </string>
+        <string>
+            <plain>На свою многотрудную долю.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Всех, которых пришел искупить</plain>
+        </string>
+        <string>
+            <plain>Ты Своею пречистою кровью, -</plain>
+        </string>
+        <string>
+            <plain>Бескорыстной, глубокой любовью</plain>
+        </string>
+        <string>
+            <plain>Научи меня, Боже, любить!</plain>
+        </string>
+    </verse>
+</song>

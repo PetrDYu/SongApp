@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2455" name="В чистую воду тихой реки" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В чистую воду тихой реки</plain>
+        </string>
+        <string>
+            <plain>Ивы склонили ветви свои,</plain>
+        </string>
+        <string>
+            <plain>А по реке той в родные края</plain>
+        </string>
+        <string>
+            <plain>Начала путь свой ваша ладья.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Там, за рекою, Ваш край родной.</plain>
+        </string>
+        <string>
+            <plain>Там вы найдете Счастье, покой.</plain>
+        </string>
+        <string>
+            <plain>Вас ожидает Вечный Отец,</plain>
+        </string>
+        <string>
+            <plain>Чтоб возложить вам На главы венец.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Путь этот может вас утомить.</plain>
+        </string>
+        <string>
+            <plain>Веры, терпенья, силы лишить.</plain>
+        </string>
+        <string>
+            <plain>Вы не бросайте весла ладьи,</plain>
+        </string>
+        <string>
+            <plain>Знайте: покой вас ждет впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если вдруг бури, море шумит,</plain>
+        </string>
+        <string>
+            <plain>Волны хотят ладью утопить,</plain>
+        </string>
+        <string>
+            <plain>Вы не теряйте надежды своей,</plain>
+        </string>
+        <string>
+            <plain>К радостной цели плывите скорей.</plain>
+        </string>
+    </verse>
+</song>

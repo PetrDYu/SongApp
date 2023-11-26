@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="491" name="Мы у берега земного" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы у берега земного;</plain>
+        </string>
+        <string>
+            <plain>Там за бурною рекой</plain>
+        </string>
+        <string>
+            <plain>Виден берег жизни новой,</plain>
+        </string>
+        <string>
+            <plain>Жизни вечной и святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будем с верою живою</plain>
+        </string>
+        <string>
+            <plain>Ждать Вождя чрез Иордан,</plain>
+        </string>
+        <string>
+            <plain>И Он Сам Своей рукою</plain>
+        </string>
+        <string>
+            <plain>Приведет нас в Ханаан.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В блеске солнца виден пышный</plain>
+        </string>
+        <string>
+            <plain>И святой Иерусалим;</plain>
+        </string>
+        <string>
+            <plain>Песни радости там слышны,</plain>
+        </string>
+        <string>
+            <plain>Их язык неизьясним.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот уж многие святые</plain>
+        </string>
+        <string>
+            <plain>Перешли к тем берегам,</plain>
+        </string>
+        <string>
+            <plain>И грядут часы благие,</plain>
+        </string>
+        <string>
+            <plain>Скоро мы все будем там.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сумрак смерти над рекою,</plain>
+        </string>
+        <string>
+            <plain>Но за далью непогод</plain>
+        </string>
+        <string>
+            <plain>Царство вечного покоя</plain>
+        </string>
+        <string>
+            <plain>И блаженства свет нас ждет.</plain>
+        </string>
+    </verse>
+</song>

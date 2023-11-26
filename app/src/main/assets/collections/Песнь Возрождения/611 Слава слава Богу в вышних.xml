@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="611" name="Слава слава Богу в вышних" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слава, слава Богу в вышних!</plain>
+        </string>
+        <string>
+            <plain>Мир земле и благодать;</plain>
+        </string>
+        <string>
+            <plain>Призывайте, братья, ближних,</plain>
+        </string>
+        <string>
+            <plain>Будем Бога воспевать:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Богу в вышних.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя, Аллилуйя, Аминь.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, Аллилуйя, Аллилуйя, Аминь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Царь царей, причин причина!</plain>
+        </string>
+        <string>
+            <plain>Кто имеет Свой престол,</plain>
+        </string>
+        <string>
+            <plain>В славе вечной Божья Сына,</plain>
+        </string>
+        <string>
+            <plain>Человеком в мир пришел.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Грешники! Всем вам прощенье</plain>
+        </string>
+        <string>
+            <plain>Ныне с неба Он принес;</plain>
+        </string>
+        <string>
+            <plain>С Богом дать вам примиренье</plain>
+        </string>
+        <string>
+            <plain>Ныне хочет Сам Христос.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В этот день Он воплотился,</plain>
+        </string>
+        <string>
+            <plain>Скромный вид раба принял,</plain>
+        </string>
+        <string>
+            <plain>Чтоб без страха обратился</plain>
+        </string>
+        <string>
+            <plain>Грешник и к Нему воззвал.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>О, к Нему, к Нему придите</plain>
+        </string>
+        <string>
+            <plain>Вы, погрязшие в грехах!</plain>
+        </string>
+        <string>
+            <plain>Благодать Его примите</plain>
+        </string>
+        <string>
+            <plain>И блаженство в небесах.</plain>
+        </string>
+    </verse>
+</song>

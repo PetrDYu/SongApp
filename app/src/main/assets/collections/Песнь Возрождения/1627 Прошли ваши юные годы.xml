@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1627" name="Прошли ваши юные годы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Прошли ваши юные годы.</plain>
+        </string>
+        <string>
+            <plain>Прошла золотая пора</plain>
+        </string>
+        <string>
+            <plain>Радостных песен, свободы,</plain>
+        </string>
+        <string>
+            <plain>- Как будто все было вчера.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Юность, о, юность, о, юность.</plain>
+        </string>
+        <string>
+            <plain>Прекрасная в жизни пора</plain>
+        </string>
+        <string>
+            <plain>Звездочкой ясной светилась.</plain>
+        </string>
+        <string>
+            <plain>Розой Саронской цвела.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вы в Церкви Христовой родились.</plain>
+        </string>
+        <string>
+            <plain>Счастливые с детства росли.</plain>
+        </string>
+        <string>
+            <plain>Здесь юность свою проводили,</plain>
+        </string>
+        <string>
+            <plain>На пажитях злачных росли.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спасибо вам, папы и мамы,</plain>
+        </string>
+        <string>
+            <plain>Мы не забудем о вас.</plain>
+        </string>
+        <string>
+            <plain>Ваши молитвы и слезы,</plain>
+        </string>
+        <string>
+            <plain>Что пролиты были за нас.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Сегодня, друзья дорогие.</plain>
+        </string>
+        <string>
+            <plain>Вступаете в брачный союз.</plain>
+        </string>
+        <string>
+            <plain>Желаем, чтоб был неизменным</plain>
+        </string>
+        <string>
+            <plain>Спутником в жизни Иисус.</plain>
+        </string>
+    </verse>
+</song>

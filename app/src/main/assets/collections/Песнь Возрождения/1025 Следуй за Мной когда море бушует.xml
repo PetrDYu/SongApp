@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1025" name="Следуй за Мной когда море бушует" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Следуй за Мной, когда море бушует,</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной, когда тьма торжествует,</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной через терни, шипы,</plain>
+        </string>
+        <string>
+            <plain>Следуй, о, следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Следуй за Мной, когда в жизни страдаешь.</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной, когда силу теряешь,</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной - помогу Я тебе.</plain>
+        </string>
+        <string>
+            <plain>Следуй, о, следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Следуй за Мной, когда враг искушает.</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной, когда друг изменяет,</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной - не оставлю тебя.</plain>
+        </string>
+        <string>
+            <plain>Следуй, о, следуй за Мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Следуй за Мной, когда дали темнеют.</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной, когда очи тускнеют,</plain>
+        </string>
+        <string>
+            <plain>Следуй за Мной - в вечный дом ты войдешь,</plain>
+        </string>
+        <string>
+            <plain>Следуй, о, следуй за Мной.</plain>
+        </string>
+    </verse>
+</song>

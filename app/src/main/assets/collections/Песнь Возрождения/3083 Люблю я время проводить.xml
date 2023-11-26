@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3083" name="Люблю я время проводить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю я время проводить</plain>
+        </string>
+        <string>
+            <plain>с Тобой наедине,</plain>
+        </string>
+        <string>
+            <plain>где близок Ты, Господь,</plain>
+        </string>
+        <string>
+            <plain>ко мне, и думать о Тебе.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Помню, Господь, я о Тебе и о любви Твоей.</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь огонь зажгла в душе моей.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я слышу, как Ты за меня</plain>
+        </string>
+        <string>
+            <plain>молился на горе,</plain>
+        </string>
+        <string>
+            <plain>я вижу слёз Твоих</plain>
+        </string>
+        <string>
+            <plain>поток и помню о Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я вижу: в Гефсимании пот-</plain>
+        </string>
+        <string>
+            <plain>кровью на челе,</plain>
+        </string>
+        <string>
+            <plain>там Ты боролся за меня.</plain>
+        </string>
+        <string>
+            <plain>Я помню о Тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебя я вижу на кресте</plain>
+        </string>
+        <string>
+            <plain>со скорбью на лице.</plain>
+        </string>
+        <string>
+            <plain>Ты, Агнец, за меня страдал!</plain>
+        </string>
+        <string>
+            <plain>Я помню о Тебе!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Воскресшим вижу я</plain>
+        </string>
+        <string>
+            <plain>Тебя во славе, в вышине.</plain>
+        </string>
+        <string>
+            <plain>Твои святые Ждут Тебя</plain>
+        </string>
+        <string>
+            <plain>и помнят о Тебе.</plain>
+        </string>
+    </verse>
+</song>

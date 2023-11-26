@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2200" name="Много в мире горя и слез" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Много в мире горя и слез,</plain>
+        </string>
+        <string>
+            <plain>Страх, унынье в сердцах.</plain>
+        </string>
+        <string>
+            <plain>Мир в тревоге чего-то ждет,</plain>
+        </string>
+        <string>
+            <plain>Видно в словах и делах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Бремя снимается у креста,</plain>
+        </string>
+        <string>
+            <plain>У креста, у креста,</plain>
+        </string>
+        <string>
+            <plain>Бремя снимается у креста,</plain>
+        </string>
+        <string>
+            <plain>Близок Господь всегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жжет ли совесть иль давит грех,</plain>
+        </string>
+        <string>
+            <plain>Нет отрады ни в чем.</plain>
+        </string>
+        <string>
+            <plain>Скучно душе даже средь утех,</plain>
+        </string>
+        <string>
+            <plain>Неверьем ум смущен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все заботы Он понесет,</plain>
+        </string>
+        <string>
+            <plain>Верь всем сердцем в Христа.</plain>
+        </string>
+        <string>
+            <plain>Руку дай, и Он поведет,</plain>
+        </string>
+        <string>
+            <plain>Тяжесть всю сняв с тебя.</plain>
+        </string>
+    </verse>
+</song>

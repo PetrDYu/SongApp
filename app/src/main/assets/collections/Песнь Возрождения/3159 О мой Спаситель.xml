@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3159" name="О мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>о мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>венец терновый Ты нёс!</plain>
+        </string>
+        <string>
+            <plain>Тебя сердечно люблю навечно,</plain>
+        </string>
+        <string>
+            <plain>Ты мир мне с Богом принёс.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>О мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>о мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ты пострадал за меня!</plain>
+        </string>
+        <string>
+            <plain>Я провинился - Ты поплатился,</plain>
+        </string>
+        <string>
+            <plain>взяв весь мой грех на Себя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>о мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>в гроб положили Тебя!</plain>
+        </string>
+        <string>
+            <plain>Но Ты из смерти воскрес в бессмертье,</plain>
+        </string>
+        <string>
+            <plain>Царство Твоё - на века.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>о мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ты грех и смерть поборол!</plain>
+        </string>
+        <string>
+            <plain>Я ежедневно живу победно,</plain>
+        </string>
+        <string>
+            <plain>страх мой навеки ушёл.</plain>
+        </string>
+    </verse>
+</song>

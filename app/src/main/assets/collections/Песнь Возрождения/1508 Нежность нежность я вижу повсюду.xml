@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1508" name="Нежность нежность я вижу повсюду" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нежность, нежность я вижу повсюду:</plain>
+        </string>
+        <string>
+            <plain>В ласковом шелесте трав,</plain>
+        </string>
+        <string>
+            <plain>В белых березках, цветочках.</plain>
+        </string>
+        <string>
+            <plain>Растущих в саду, на лугах.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Нежность, нежность прекрасна.</plain>
+        </string>
+        <string>
+            <plain>Нежность, нежность чиста,</plain>
+        </string>
+        <string>
+            <plain>Послана, послана свыше нам Богом,</plain>
+        </string>
+        <string>
+            <plain>Чтобы объять, чтобы объять людские сердца.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Нежность, нежность в любви материнской.</plain>
+        </string>
+        <string>
+            <plain>Нежность в горячих слезах,</plain>
+        </string>
+        <string>
+            <plain>Нежность в любви неизменной.</plain>
+        </string>
+        <string>
+            <plain>Нежность в любимых глазах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Нежность, нежность готова повсюду</plain>
+        </string>
+        <string>
+            <plain>Помощи руку подать.</plain>
+        </string>
+        <string>
+            <plain>Нежность, ты ласковым словом</plain>
+        </string>
+        <string>
+            <plain>Можешь страдальца объять.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нежность, нежность научимся, люди,</plain>
+        </string>
+        <string>
+            <plain>Больше хранить и ценить.</plain>
+        </string>
+        <string>
+            <plain>Если ж ее у нас нету.</plain>
+        </string>
+        <string>
+            <plain>Будем у Бога ее мы просить.</plain>
+        </string>
+    </verse>
+</song>

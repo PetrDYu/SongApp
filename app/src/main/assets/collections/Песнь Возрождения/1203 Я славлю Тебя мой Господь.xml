@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1203" name="Я славлю Тебя мой Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я славлю Тебя, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>всем сердцем и душой.</plain>
+        </string>
+        <string>
+            <plain>Песнь хвалы из уст пусть льётся</plain>
+        </string>
+        <string>
+            <plain>За милость надо мной.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Новое все, новое все</plain>
+        </string>
+        <string>
+            <plain>И новое все дала.</plain>
+        </string>
+        <string>
+            <plain>Новое все, новое все</plain>
+        </string>
+        <string>
+            <plain>О, кровь Христа меня спасла, и новое все дала!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, как моя душа была всегда омрачена,</plain>
+        </string>
+        <string>
+            <plain>- Теперь же пусть звучит хвала</plain>
+        </string>
+        <string>
+            <plain>И день и ночь - всегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я раньше все мечтал о том,</plain>
+        </string>
+        <string>
+            <plain>как больше нагрешить.</plain>
+        </string>
+        <string>
+            <plain>Теперь же для Тебя,</plain>
+        </string>
+        <string>
+            <plain>Господь, хочу я послужить.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как страшно было жить в грехах,</plain>
+        </string>
+        <string>
+            <plain>- Теперь же я спасен!</plain>
+        </string>
+        <string>
+            <plain>Через кровь Христа искуплен я.</plain>
+        </string>
+        <string>
+            <plain>О, счастлив, счастлив я</plain>
+        </string>
+    </verse>
+</song>

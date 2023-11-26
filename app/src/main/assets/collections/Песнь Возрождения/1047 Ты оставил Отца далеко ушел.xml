@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1047" name="Ты оставил Отца далеко ушел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ты оставил Отца, далеко ушел,</plain>
+        </string>
+        <string>
+            <plain>В мире счастья ты все ж не нашел.</plain>
+        </string>
+        <string>
+            <plain>Слушай, любящий голос тебя зовет:</plain>
+        </string>
+        <string>
+            <plain>"О, вернись, сын ушедший, домой!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, вернись, сын, домой!</plain>
+        </string>
+        <string>
+            <plain>Гибнешь ты в стране чужой.</plain>
+        </string>
+        <string>
+            <plain>Слушай нежный зов Отца:</plain>
+        </string>
+        <string>
+            <plain>"О, вернись, сын, домой".</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Волны жизни бросают твою ладью,</plain>
+        </string>
+        <string>
+            <plain>Страх наполнил уж душу твою.</plain>
+        </string>
+        <string>
+            <plain>В доме Отчем найдешь полный ты покой.</plain>
+        </string>
+        <string>
+            <plain>О, вернись, сын ушедший, домой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, подумай, как чудно и хорошо</plain>
+        </string>
+        <string>
+            <plain>Дома жить у Отца своего.</plain>
+        </string>
+        <string>
+            <plain>Что же медлишь еще ты в стране чужой?</plain>
+        </string>
+        <string>
+            <plain>О, вернись, сын ушедший, домой!</plain>
+        </string>
+    </verse>
+</song>

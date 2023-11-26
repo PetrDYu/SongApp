@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="17" name="Христос воскрес, аллилуйя, аллилуйя" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Христос воскрес, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Воспойте Господу, аллилуйя, аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>O... Surrexit Christus, alleluia!</plain>
+        </string>
+        <string>
+            <plain>O... Cantate Domino, alleluia!</plain>
+        </string>
+    </verse>
+</song>

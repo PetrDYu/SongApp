@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1200" name="Я нуждаюсь в Тебе мой Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я нуждаюсь в Тебе, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Я желаю всегда быть с Тобой,</plain>
+        </string>
+        <string>
+            <plain>Ты - Господь мой, любимый</plain>
+        </string>
+        <string>
+            <plain>Учитель, Упованье мое и покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я жду Тебя, люблю Тебя.</plain>
+        </string>
+        <string>
+            <plain>Мне трудно на пути.</plain>
+        </string>
+        <string>
+            <plain>Без Пастыря, Хранителя</plain>
+        </string>
+        <string>
+            <plain>Я не могу идти.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Очищенья душа моя жаждет.</plain>
+        </string>
+        <string>
+            <plain>Плоть желает противного ей.</plain>
+        </string>
+        <string>
+            <plain>Все борьба и борьба, о, когда же</plain>
+        </string>
+        <string>
+            <plain>Я достигну небесных дверей?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда в этой жизни унылой</plain>
+        </string>
+        <string>
+            <plain>От борьбы утомится душа,</plain>
+        </string>
+        <string>
+            <plain>Подойди же ко мне, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ведь с Тобою так жизнь хороша.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поселись Ты во мне, мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>И даруй чувствованья Твои,</plain>
+        </string>
+        <string>
+            <plain>Чтобы верным я был. Твой служитель,</plain>
+        </string>
+        <string>
+            <plain>О, приди же ко мне и живи.</plain>
+        </string>
+    </verse>
+</song>

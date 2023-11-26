@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2727" name="Велика Спаситель вся любовь Твоя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Велика, Спаситель, вся любовь Твоя,</plain>
+        </string>
+        <string>
+            <plain>Как непостижима для меня.</plain>
+        </string>
+        <string>
+            <plain>Выше всей вселенной, глубже всех миров.</plain>
+        </string>
+        <string>
+            <plain>Все поет, Спаситель, про Твою любовь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь Твоя безмерная.</plain>
+        </string>
+        <string>
+            <plain>В Тебе, Господь мой, Вся Жизнь моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лилии, цветочки, зелень и краса,</plain>
+        </string>
+        <string>
+            <plain>Утром их покроет влага, роса.</plain>
+        </string>
+        <string>
+            <plain>Слышно птичек пены, в звонких голосах</plain>
+        </string>
+        <string>
+            <plain>Все поет, Спаситель, о Твоих делах.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И когда взгляну я на Голгофский крест,</plain>
+        </string>
+        <string>
+            <plain>Где страдал Спаситель За мой грех,</plain>
+        </string>
+        <string>
+            <plain>Вида, как пролил Он там святую Кровь,</plain>
+        </string>
+        <string>
+            <plain>- И тогда пою я про Твою любовь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2023" name="Бывают в жизни трудные минуты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бывают в жизни трудные минуты,</plain>
+        </string>
+        <string>
+            <plain>Когда не видно солнышко из туч,</plain>
+        </string>
+        <string>
+            <plain>Когда приходят вдруг часы разлуки,</plain>
+        </string>
+        <string>
+            <plain>Всё уже, уже кажется наш путы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Когда ослабнут силы и нет рядом</plain>
+        </string>
+        <string>
+            <plain>Того, кто б смог утешить, смог поняты,</plain>
+        </string>
+        <string>
+            <plain>Ты вспомни, друг, о Том, Кто всегда рядом,</plain>
+        </string>
+        <string>
+            <plain>Он за тебя пошёл на крест страдать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>А солнце ниже, ниже всё садится,</plain>
+        </string>
+        <string>
+            <plain>Совсем к закату скоро уж придёт.</plain>
+        </string>
+        <string>
+            <plain>Наш путы тернистый скоро прекратится,</plain>
+        </string>
+        <string>
+            <plain>А в небе радость с Иисусом ждёт.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И вновь по узкой жизненной дороге</plain>
+        </string>
+        <string>
+            <plain>С тобою рядом, рядом Он идёт.</plain>
+        </string>
+        <string>
+            <plain>И, если вдруг поранишь свои ноги,</plain>
+        </string>
+        <string>
+            <plain>Берёт на руки нежно и несёт.</plain>
+        </string>
+    </verse>
+</song>

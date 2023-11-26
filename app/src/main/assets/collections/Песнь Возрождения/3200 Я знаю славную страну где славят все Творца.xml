@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3200" name="Я знаю славную страну где славят все Творца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я знаю славную страну, где славят все Творца,</plain>
+        </string>
+        <string>
+            <plain>поют песнь новую Ему спасённые сердца.</plain>
+        </string>
+        <string>
+            <plain>Страна великой благости там, где святые все</plain>
+        </string>
+        <string>
+            <plain>жить будут в вечности и дивной красоте.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Край мой блаженный, край родной,</plain>
+        </string>
+        <string>
+            <plain>вечный, блаженный там покой;</plain>
+        </string>
+        <string>
+            <plain>край, где не знают боль, нужду;</plain>
+        </string>
+        <string>
+            <plain>мой дом, к тебе спешу!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Глазами веры вижу я небесную красу,</plain>
+        </string>
+        <string>
+            <plain>где вечная весна царит и всё кругом в цвету.</plain>
+        </string>
+        <string>
+            <plain>Уж на пути к стране благой вкушаю радость я.</plain>
+        </string>
+        <string>
+            <plain>Ведёт меня в мой дом родной Всевышнего рука.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Страна сияющего дня, где радость лишь царит.</plain>
+        </string>
+        <string>
+            <plain>Душа стремится ввысь, туда, где трон Христа стоит.</plain>
+        </string>
+        <string>
+            <plain>В Кого всем сердцем верю я, Того в раю узрю,</plain>
+        </string>
+        <string>
+            <plain>и вечной жизни я венец из рук Его приму.</plain>
+        </string>
+    </verse>
+</song>

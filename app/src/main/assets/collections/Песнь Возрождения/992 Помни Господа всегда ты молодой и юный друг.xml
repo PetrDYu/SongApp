@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="992" name="Помни Господа всегда ты молодой и юный друг" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Помни Господа всегда ты, молодой и юный друг,</plain>
+        </string>
+        <string>
+            <plain>Не забудь Его прославить за красу Его заслуг.</plain>
+        </string>
+        <string>
+            <plain>Может быть ты рассуждаешь: "Когда молод - веселись!</plain>
+        </string>
+        <string>
+            <plain>А когда уж постареешь, тогда кайся и молись"?</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но, несчастный, ты не знаешь, когда можешь умереть.</plain>
+        </string>
+        <string>
+            <plain>Может, завтра уж не встанешь на свет Божий посмотреть,</plain>
+        </string>
+        <string>
+            <plain>Может, завтра приготовят гроб сосновый для тебя</plain>
+        </string>
+        <string>
+            <plain>И сырой землей покроют твое тело навсегда.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И душа твоя погибнет... Да, погибнет навсегда!</plain>
+        </string>
+        <string>
+            <plain>Поздно каяться уж будет, милый друг мой, для тебя.</plain>
+        </string>
+        <string>
+            <plain>Помни Господа всегда ты, милый друг, не забывай!</plain>
+        </string>
+        <string>
+            <plain>Словом, жизнью и делами Его имя прославляй!</plain>
+        </string>
+    </verse>
+</song>

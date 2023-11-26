@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="208" name="Вы готовы слышен призыв" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>"Вы готовы, - слышен призыв, -</plain>
+        </string>
+        <string>
+            <plain>И на крест пойти со Мной?"</plain>
+        </string>
+        <string>
+            <plain>"Да, Учитель, будь лишь близок,</plain>
+        </string>
+        <string>
+            <plain>И чрез смерть пойдем с Тобой!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На все готовы, мы духом Твои;</plain>
+        </string>
+        <string>
+            <plain>Преобрази нас как хочешь Ты.</plain>
+        </string>
+        <string>
+            <plain>Светом небесным нас так озари,</plain>
+        </string>
+        <string>
+            <plain>Чтоб всюду светить могли средь темноты.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>"Вы готовы, правде внемля,</plain>
+        </string>
+        <string>
+            <plain>О величье не мечтать?</plain>
+        </string>
+        <string>
+            <plain>В Гефсиманьи пасть на землю,</plain>
+        </string>
+        <string>
+            <plain>На Голгофе умирать?"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>"Вы готовы, все прощая,</plain>
+        </string>
+        <string>
+            <plain>Другом быть и для того,</plain>
+        </string>
+        <string>
+            <plain>Кем разбита жизнь земная,</plain>
+        </string>
+        <string>
+            <plain>Кто дерзнул лишить всего?"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>"Вы готовы помнить это,</plain>
+        </string>
+        <string>
+            <plain>Что разбойник со креста</plain>
+        </string>
+        <string>
+            <plain>Перешел в обитель света</plain>
+        </string>
+        <string>
+            <plain>Лишь по милости Христа?"</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>"Вы готовы тьму густую</plain>
+        </string>
+        <string>
+            <plain>Светлой верой прогонять,</plain>
+        </string>
+        <string>
+            <plain>Побеждать вражду людскую,</plain>
+        </string>
+        <string>
+            <plain>Дух свой Богу предавать?"</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>"Вы готовы?" - так Сын Божий</plain>
+        </string>
+        <string>
+            <plain>Говорит к нам и теперь.</plain>
+        </string>
+        <string>
+            <plain>Пусть решительные скажут:</plain>
+        </string>
+        <string>
+            <plain>"Да, Господь, Ты нам пример!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1720" name="Есть на свете страна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Есть на свете страна -</plain>
+        </string>
+        <string>
+            <plain>Из жемчужин Она (врата).</plain>
+        </string>
+        <string>
+            <plain>Золотые дома, вдоль прекрасных аллей</plain>
+        </string>
+        <string>
+            <plain>В центре города, протекает река -</plain>
+        </string>
+        <string>
+            <plain>Как кристалл течёт в тени ветвей.</plain>
+        </string>
+        <string>
+            <plain>А на деревьях страны - постоянно цветы,</plain>
+        </string>
+        <string>
+            <plain>Круглый год плоды, зрея, красят сады,</plain>
+        </string>
+        <string>
+            <plain>Счастлив там живёт лучший в мире народ,</plain>
+        </string>
+        <string>
+            <plain>И нету там ни горя, ни забот.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>На зелёном лугу лев щипает траву,</plain>
+        </string>
+        <string>
+            <plain>Рядом с волком играет дитя,</plain>
+        </string>
+        <string>
+            <plain>Все поля, все луга ожидают там тебя -</plain>
+        </string>
+        <string>
+            <plain>Там Отчизна твоя и моя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Но чтоб в город войти, нужно скорби пройти,</plain>
+        </string>
+        <string>
+            <plain>И не сбиться с пути, не сорваться с тропы,</plain>
+        </string>
+        <string>
+            <plain>Нужно не робеть, нужно горе стерпеть</plain>
+        </string>
+        <string>
+            <plain>И всегда смотреть на свет в конце пути.</plain>
+        </string>
+        <string>
+            <plain>Там будет Пётр и Фома, и разбойник с креста,</plain>
+        </string>
+        <string>
+            <plain>Также будет там первый грешник Адам;</plain>
+        </string>
+        <string>
+            <plain>Счастлив там живёт лучший в мире народ,</plain>
+        </string>
+        <string>
+            <plain>И нету там ни горя, ни тревог!</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>На зелёном лугу лев щипает траву,</plain>
+        </string>
+        <string>
+            <plain>Рядом с волком играет дитя,</plain>
+        </string>
+        <string>
+            <plain>Все поля, все луга ожидают там тебя -</plain>
+        </string>
+        <string>
+            <plain>Там Отчизна твоя и моя.</plain>
+        </string>
+    </chorus>
+</song>

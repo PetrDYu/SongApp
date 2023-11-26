@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="154" name="Начальник жизни Пастырь мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Начальник жизни, Пастырь мой,</plain>
+        </string>
+        <string>
+            <plain>Хвала Твоей любви!</plain>
+        </string>
+        <string>
+            <plain>Чтоб не забыл я подвиг Твой,</plain>
+        </string>
+        <string>
+            <plain>Голгофу мне яви!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чтоб не забыл Твоей мольбы,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не забыл Твоей борьбы,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не забыл Твоей любви,</plain>
+        </string>
+        <string>
+            <plain>- Голгофу мне яви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Яви мне новый гроб, где Ты</plain>
+        </string>
+        <string>
+            <plain>Замученный лежал,</plain>
+        </string>
+        <string>
+            <plain>И ангела, что с высоты</plain>
+        </string>
+        <string>
+            <plain>Явился сторожам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочу, как жены на заре,</plain>
+        </string>
+        <string>
+            <plain>Принесть дары мои.</plain>
+        </string>
+        <string>
+            <plain>Чтоб веры луч во мне горел,</plain>
+        </string>
+        <string>
+            <plain>Голгофу мне яви!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Тебе хочу я подражать,</plain>
+        </string>
+        <string>
+            <plain>Покорно крест нести</plain>
+        </string>
+        <string>
+            <plain>И чашу скорби принимать,</plain>
+        </string>
+        <string>
+            <plain>Что дашь мне на пути.</plain>
+        </string>
+    </verse>
+</song>

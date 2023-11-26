@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="315" name="Пойдут в хороводе с веселою песней" canon="false" text="М. Уотсон" textRus="Ю. Пастернака" music="М. Уотсон" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Пойдут в хороводе с веселою песней</plain>
+        </string>
+        <string>
+            <plain>И старцы, и юноши вместе.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Ла-лай-ла-ла-лай-ла-ла...</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>И радостью станет печаль,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>И будет их душа, и будет их душа,</plain>
+        </string>
+        <string>
+            <plain>Как сад, водою напоенный сад.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

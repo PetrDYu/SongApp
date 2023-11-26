@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1657" name="Жизнь наша на наших путях и дорогах" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Жизнь наша на наших путях и дорогах</plain>
+        </string>
+        <string>
+            <plain>Меняет всё быстро, меняет всё просто.</plain>
+        </string>
+        <string>
+            <plain>И в жизни нам нужно ещё научиться</plain>
+        </string>
+        <string>
+            <plain>Учиться у Бога, учиться у Бога.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бывает всё гладко, бывает и сложно,</plain>
+        </string>
+        <string>
+            <plain>Бывает несладко, бывает тревожно.</plain>
+        </string>
+        <string>
+            <plain>И лучшее, что пожелать только можно:</plain>
+        </string>
+        <string>
+            <plain>Учиться у Бога, учиться у Бога.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А время скользит и проходит так быстро.</plain>
+        </string>
+        <string>
+            <plain>Судьба нам подводит однажды итоги.</plain>
+        </string>
+        <string>
+            <plain>Одно только значить тогда будет много:</plain>
+        </string>
+        <string>
+            <plain>Чему научились мы в жизни у Бога.</plain>
+        </string>
+    </verse>
+</song>

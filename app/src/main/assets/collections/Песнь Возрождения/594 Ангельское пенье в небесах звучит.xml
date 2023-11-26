@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="594" name="Ангельское пенье в небесах звучит" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ангельское пенье в небесах звучит,</plain>
+        </string>
+        <string>
+            <plain>Радость, утешенье, мир оно дарит.</plain>
+        </string>
+        <string>
+            <plain>Нам рожден Спаситель, дивное Дитя,</plain>
+        </string>
+        <string>
+            <plain>Всех Он Искупитель грешников, как я.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ангельское пенье в небесах звучит</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир!</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир.</plain>
+        </string>
+        <string>
+            <plain>Аминь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В высотах небесных слава, честь Ему,</plain>
+        </string>
+        <string>
+            <plain>Спасшему нас грешных, возлюбивших тьму.</plain>
+        </string>
+        <string>
+            <plain>Из глубин сердечных к светлым небесам</plain>
+        </string>
+        <string>
+            <plain>Ликований вечных хор стремится сам.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Радость, утешенье, мир оно дарит.</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир!</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир.</plain>
+        </string>
+        <string>
+            <plain>Аминь.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Будем же любовью за любовь платить</plain>
+        </string>
+        <string>
+            <plain>Спасшему нас кровью, чтобы вечно жить.</plain>
+        </string>
+        <string>
+            <plain>Гибнущему брату руку подадим,</plain>
+        </string>
+        <string>
+            <plain>Не за мзду и плату будем вечно с Ним.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Ангельское пенье в небесах звучит</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир!</plain>
+        </string>
+        <string>
+            <plain>Слава в вышних Богу и на земле мир.</plain>
+        </string>
+        <string>
+            <plain>Аминь.</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3002" name="Спаситель возлюбил тебя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Спаситель возлюбил тебя,</plain>
+        </string>
+        <string>
+            <plain>открыл тебе Он путь;</plain>
+        </string>
+        <string>
+            <plain>чтоб жить свободным от греха,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Молитву не забудь,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+        <string>
+            <plain>Свою всю нужду скажи Христу,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда защиту ищешь ты,</plain>
+        </string>
+        <string>
+            <plain>спеши к Нему прильнуть;</plain>
+        </string>
+        <string>
+            <plain>чтоб пребывать в Его близи,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Взывай к Иисусу по утру,</plain>
+        </string>
+        <string>
+            <plain>предай Ему твой путь;</plain>
+        </string>
+        <string>
+            <plain>и чтоб Он вёл твою ладью,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И если трудности в пути</plain>
+        </string>
+        <string>
+            <plain>твою тревожат грудь,</plain>
+        </string>
+        <string>
+            <plain>ты верно за Христом иди,</plain>
+        </string>
+        <string>
+            <plain>молитву не забудь!</plain>
+        </string>
+    </verse>
+</song>

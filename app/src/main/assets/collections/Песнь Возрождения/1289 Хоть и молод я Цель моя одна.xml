@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1289" name="Хоть и молод я Цель моя одна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хоть и молод я - Цель моя одна,</plain>
+        </string>
+        <string>
+            <plain>Чтоб прийти, Господь, в Твои объятья.</plain>
+        </string>
+        <string>
+            <plain>Чтоб Тебе служить, С чистым сердцем жить</plain>
+        </string>
+        <string>
+            <plain>И любить без меры, без предела братьев.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Впереди ведь так много у меня еще страданий,</plain>
+        </string>
+        <string>
+            <plain>Но всегда, везде</plain>
+        </string>
+        <string>
+            <plain>Силы дай Ты мне</plain>
+        </string>
+        <string>
+            <plain>Приносить к Тебе мои желанья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хоть и молод я - Цель моя одна.</plain>
+        </string>
+        <string>
+            <plain>Чтоб служить Тебе со всем стремленьем.</plain>
+        </string>
+        <string>
+            <plain>И во всех скорбях побеждать дай страх,</plain>
+        </string>
+        <string>
+            <plain>И в Твоем лишь деле дай мне дерзновенье.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хоть и молод я - Цель моя одна.</plain>
+        </string>
+        <string>
+            <plain>Чтобы жизнь прожить Тебе в угоду.</plain>
+        </string>
+        <string>
+            <plain>Чтоб, где б ни был я - твердо чтить</plain>
+        </string>
+        <string>
+            <plain>Тебя, И отныне дать Тебе мою свободу.</plain>
+        </string>
+    </verse>
+</song>

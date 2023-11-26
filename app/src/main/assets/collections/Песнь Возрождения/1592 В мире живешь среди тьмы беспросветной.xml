@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1592" name="В мире живешь среди тьмы беспросветной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В мире живешь среди тьмы беспросветной,</plain>
+        </string>
+        <string>
+            <plain>Быстро летят твои дни и года.</plain>
+        </string>
+        <string>
+            <plain>О, поспеши к той Отчизне небесной,</plain>
+        </string>
+        <string>
+            <plain>Чтоб быть тогда со Христом навсегда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я о тебе непрестанно молюсь:</plain>
+        </string>
+        <string>
+            <plain>Сжалься над ним, мой Господь Иисус,</plain>
+        </string>
+        <string>
+            <plain>Дай этот мир навсегда позабыть,</plain>
+        </string>
+        <string>
+            <plain>Чтобы спасенным от гибели быть.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В мире живешь и не знаешь о счастье.</plain>
+        </string>
+        <string>
+            <plain>Счастье святом и прекрасном таком.</plain>
+        </string>
+        <string>
+            <plain>О, обратись и утихнет ненастье</plain>
+        </string>
+        <string>
+            <plain>В сердце твоем, словно камень, глухом.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В мире живешь и не веришь в спасенье.</plain>
+        </string>
+        <string>
+            <plain>Много проходит утраченных дней.</plain>
+        </string>
+        <string>
+            <plain>О, друг, поверь, что придет воскресенье.</plain>
+        </string>
+        <string>
+            <plain>Вечности свет и конец наших дней.</plain>
+        </string>
+    </verse>
+</song>

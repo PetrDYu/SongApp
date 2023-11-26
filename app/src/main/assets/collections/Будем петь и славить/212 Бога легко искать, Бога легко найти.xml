@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="212" name="Бога легко искать, Бога легко найти" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бога легко искать, Бога легко найти.</plain>
+        </string>
+        <string>
+            <plain>Бог – это благодать, Бог – это свет в пути,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Это любовь моя, это добро Твое,</plain>
+        </string>
+        <string>
+            <plain>Это средь бурь маяк, отдых в конце пути.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог – это первый вздох, первый ребенка крик,</plain>
+        </string>
+        <string>
+            <plain>В новую жизнь порог, в вечность манящий миг.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Бог – это наш судья, истины вечный страж.</plain>
+        </string>
+        <string>
+            <plain>Бог – это суть моя, совести голос наш.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог – это в сотах мед, Бог – это хлеб и соль,</plain>
+        </string>
+        <string>
+            <plain>Тот, Кто нам мир дает, Тот, Кто врачует боль,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Это любовь людей, это прощенье зла,</plain>
+        </string>
+        <string>
+            <plain>Это в душе моей мощный родник тепла.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Это осенний дождь, это весенний гром,</plain>
+        </string>
+        <string>
+            <plain>Это по телу дрожь в храме Его святом,</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Это молитвы стон, гимнов хваленья звук,</plain>
+        </string>
+        <string>
+            <plain>Это земной поклон, это скрещенье рук.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Бог – это вечный Дух, это стихий закон,</plain>
+        </string>
+        <string>
+            <plain>Бог – это лучший друг, в бедах помощник Он.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Это воскресный день, это Голгофский крест,</plain>
+        </string>
+        <string>
+            <plain>Это благая весть, крыльев могучих сень.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Бог – это жизни пульс, это надежды луч,</plain>
+        </string>
+        <string>
+            <plain>Щит от враждебных пуль, кров от нависших туч.</plain>
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Это святая Кровь, это прощенный грех...</plain>
+        </string>
+        <string>
+            <plain>Бог – это та любовь, что обнимает всех.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

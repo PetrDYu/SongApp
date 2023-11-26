@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3088" name="Я от всех грехов свободен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я от всех грехов свободен,</plain>
+        </string>
+        <string>
+            <plain>тяготивших так меня.</plain>
+        </string>
+        <string>
+            <plain>Иисус сказал мне нежно:</plain>
+        </string>
+        <string>
+            <plain>«О, приди ко Мне, душа»</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Честь и слава!</plain>
+        </string>
+        <string>
+            <plain>Воспою любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>расскажу о дивной крови,</plain>
+        </string>
+        <string>
+            <plain>что очистила меня!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он по милости избавил</plain>
+        </string>
+        <string>
+            <plain>от греховных уз меня,</plain>
+        </string>
+        <string>
+            <plain>и в Его крови бесценной</plain>
+        </string>
+        <string>
+            <plain>стал белее снега я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир глубокий и безбрежный</plain>
+        </string>
+        <string>
+            <plain>в сердце мне Господь даёт.</plain>
+        </string>
+        <string>
+            <plain>Гимн хвалы чудесный, нежный</plain>
+        </string>
+        <string>
+            <plain>радостно душа поёт.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Описать язык не может</plain>
+        </string>
+        <string>
+            <plain>и того не видел глаз,</plain>
+        </string>
+        <string>
+            <plain>что Господь там приготовил</plain>
+        </string>
+        <string>
+            <plain>тем, кого в любви Он спас.</plain>
+        </string>
+    </verse>
+</song>

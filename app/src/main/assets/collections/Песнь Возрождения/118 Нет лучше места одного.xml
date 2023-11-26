@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="118" name="Нет лучше места одного" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нет лучше места одного,</plain>
+        </string>
+        <string>
+            <plain>Как ни был бы мой грех тяжел,</plain>
+        </string>
+        <string>
+            <plain>Мой дух счастлив вблизи него:</plain>
+        </string>
+        <string>
+            <plain>То Божьей милости престол.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>То Божьей милости престол,</plain>
+        </string>
+        <string>
+            <plain>То милости престол.</plain>
+        </string>
+        <string>
+            <plain>То Божьей милости престол,</plain>
+        </string>
+        <string>
+            <plain>То милости престол.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Елей любви с престола льет</plain>
+        </string>
+        <string>
+            <plain>И очищает дух от зол;</plain>
+        </string>
+        <string>
+            <plain>И приходящим мир дает</plain>
+        </string>
+        <string>
+            <plain>Господней милости престол.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог путь к нему открыл для всех,</plain>
+        </string>
+        <string>
+            <plain>И кто б к нему ни подошел,</plain>
+        </string>
+        <string>
+            <plain>С него спадет великий грех,</plain>
+        </string>
+        <string>
+            <plain>Где Божьей милости престол.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда измучит суета,</plain>
+        </string>
+        <string>
+            <plain>То дух, как радостный посол,</plain>
+        </string>
+        <string>
+            <plain>Зовет меня к груди Христа,</plain>
+        </string>
+        <string>
+            <plain>Где Божьей милости престол.</plain>
+        </string>
+    </verse>
+</song>

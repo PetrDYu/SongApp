@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="177" name="На сердце лишь песня одна" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>На сердце лишь песня одна,</plain>
+        </string>
+        <string>
+            <plain>И в радости льется она</plain>
+        </string>
+        <string>
+            <plain>Всегда, как живая волна:</plain>
+        </string>
+        <string>
+            <plain>Мир, мир - дар Божьей любви!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мир, мир, покой,</plain>
+        </string>
+        <string>
+            <plain>Чудный подарок небес!</plain>
+        </string>
+        <string>
+            <plain>О сладостный, сладостный мир!</plain>
+        </string>
+        <string>
+            <plain>Мир, мир - дар Божьей любви!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Когда я Иисуса познал,</plain>
+        </string>
+        <string>
+            <plain>Он мир в изобилье мне дал:</plain>
+        </string>
+        <string>
+            <plain>Я море любви ощущал;</plain>
+        </string>
+        <string>
+            <plain>Мир, мир - дар Божьей любви!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В Христе пребываю душой,</plain>
+        </string>
+        <string>
+            <plain>К Нему прибегает дух мой,</plain>
+        </string>
+        <string>
+            <plain>В Нем мир я вкушаю святой;</plain>
+        </string>
+        <string>
+            <plain>Мир, мир - дар Божьей любви!</plain>
+        </string>
+    </verse>
+</song>

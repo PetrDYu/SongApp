@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1147" name="Когда сердце болит и тоскует порой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда сердце болит и тоскует порой,</plain>
+        </string>
+        <string>
+            <plain>Непосильным покажется гнет,</plain>
+        </string>
+        <string>
+            <plain>Ты склонись надо мной, Боже мой, Боже мой,</plain>
+        </string>
+        <string>
+            <plain>Дай мне сил у Тебя почерпнуть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если видишь меня в тишине Ты ночной</plain>
+        </string>
+        <string>
+            <plain>На коленях в слезах пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Ты склонись надо мной, Боже мой, Боже мой.</plain>
+        </string>
+        <string>
+            <plain>И сними с меня тяжкий гнет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда время придет мне расстаться с землей</plain>
+        </string>
+        <string>
+            <plain>И оставить всю жизнь позади,</plain>
+        </string>
+        <string>
+            <plain>Ты склонись надо мной, Боже мой, Боже мой,</plain>
+        </string>
+        <string>
+            <plain>И в покой меня вечный веди.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если видишь меня в тишине Ты ночной</plain>
+        </string>
+        <string>
+            <plain>На коленях, в слезах пред Тобой,</plain>
+        </string>
+        <string>
+            <plain>Ты склонись надо мной. Боже мой, Боже мой,</plain>
+        </string>
+        <string>
+            <plain>И очисть, и прости, и омой.</plain>
+        </string>
+    </verse>
+</song>

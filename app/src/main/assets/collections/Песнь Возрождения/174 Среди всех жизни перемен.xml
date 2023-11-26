@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="174" name="Среди всех жизни перемен" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Среди всех жизни перемен,</plain>
+        </string>
+        <string>
+            <plain>Хотя б пришлось скорбеть,</plain>
+        </string>
+        <string>
+            <plain>Но, Божьей милостью блажен,</plain>
+        </string>
+        <string>
+            <plain>Не перестану петь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как я рад, я искуплен</plain>
+        </string>
+        <string>
+            <plain>Драгоценной кровью Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хвалиться не оставлю я</plain>
+        </string>
+        <string>
+            <plain>Спасителем Христом,</plain>
+        </string>
+        <string>
+            <plain>Пока страдальцы, как и я,</plain>
+        </string>
+        <string>
+            <plain>Найдут отраду в Нем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вкусите вы любовь Творца,</plain>
+        </string>
+        <string>
+            <plain>Иисуса доброту;</plain>
+        </string>
+        <string>
+            <plain>Как в мире счастливы сердца,</plain>
+        </string>
+        <string>
+            <plain>Что вверились Христу!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Лишь Бога бойтесь, и тогда</plain>
+        </string>
+        <string>
+            <plain>Ничто не устрашит.</plain>
+        </string>
+        <string>
+            <plain>Не бойтесь вы Его труда,</plain>
+        </string>
+        <string>
+            <plain>И Он вас сохранит.</plain>
+        </string>
+    </verse>
+</song>

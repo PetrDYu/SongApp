@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1680" name="В моем сердце покой не от мира сего" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В моем сердце покой не от мира сего,</plain>
+        </string>
+        <string>
+            <plain>Что мир сей не может отнять.</plain>
+        </string>
+        <string>
+            <plain>Хоть беда за бедой здесь лишают всего,</plain>
+        </string>
+        <string>
+            <plain>- Сладкий мир мне дает благодать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всюду Он со мною, мой Иисус.</plain>
+        </string>
+        <string>
+            <plain>Всюду Он со мною, я не страшусь.</plain>
+        </string>
+        <string>
+            <plain>Меня Он не оставит. Он слово дает:</plain>
+        </string>
+        <string>
+            <plain>Я всегда с тобою, Я - твой Господь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слышу песню везде об Иисусе Христе,</plain>
+        </string>
+        <string>
+            <plain>Когда в моем сердце покой.</plain>
+        </string>
+        <string>
+            <plain>Скорбь ушла со стыдом, ночь сменилася днем.</plain>
+        </string>
+        <string>
+            <plain>О, Господь, как отрадно с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я храню этот клад в слабом сердце моем.</plain>
+        </string>
+        <string>
+            <plain>Блуждая по стезям земным.</plain>
+        </string>
+        <string>
+            <plain>Но придет Он опять и возьмет меня в Дом,</plain>
+        </string>
+        <string>
+            <plain>В царство света, в Отчизну святых.</plain>
+        </string>
+    </verse>
+</song>

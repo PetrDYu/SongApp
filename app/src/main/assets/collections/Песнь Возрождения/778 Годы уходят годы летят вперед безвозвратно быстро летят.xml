@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="778" name="Годы уходят годы летят вперед безвозвратно быстро летят" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Годы уходят (годы летят) вперед безвозвратно (быстро летят),</plain>
+        </string>
+        <string>
+            <plain>И невозможно (остановить) их остановить (никогда).</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Друг, живи свято (друг живи), чтоб был там и ты (в том краю).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Годы уходят (годы бегут) вперед безвозвратно (быстро бегут)</plain>
+        </string>
+        <string>
+            <plain>И нашу жизнь (нас с собой) за собою влекут (навсегда).</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Скоро пройдет (не вернуть) и его не вернуть (никогда).</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Годы уходят (годы пройдут) вперед безвозвратно (быстро пройдут),</plain>
+        </string>
+        <string>
+            <plain>Весть о спасенье (о мой друг) звучит на земле (для тебя).</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Чтобы и вам быть (чтоб вам быть) в той чудной стране (в том краю)!</plain>
+        </string>
+    </chorus>
+</song>

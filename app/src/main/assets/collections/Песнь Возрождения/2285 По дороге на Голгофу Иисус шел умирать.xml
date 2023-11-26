@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2285" name="По дороге на Голгофу Иисус шел умирать" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>По дороге на Голгофу Иисус шел умирать.</plain>
+        </string>
+        <string>
+            <plain>От побоев истекал</plain>
+        </string>
+        <string>
+            <plain>Он кровью, на спине тяжелый крест.</plain>
+        </string>
+        <string>
+            <plain>И на челе терновый венец.</plain>
+        </string>
+        <string>
+            <plain>По дороге на Голгофу Иисус шел умирать.</plain>
+        </string>
+        <string>
+            <plain>Он презрен умален пред людьми,</plain>
+        </string>
+        <string>
+            <plain>На Себе Он понес грехи, страданья и болезни наши.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Словно Агнец, шел Мессия на Голгофу умирать.</plain>
+        </string>
+        <string>
+            <plain>Ведь Он выбрал этот путь за нас с тобой,</plain>
+        </string>
+        <string>
+            <plain>Словно Агнец на Голгофу шел Мессия умирать,</plain>
+        </string>
+        <string>
+            <plain>Так как любит Он меня и тебя, мой милый брат.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>По дороге на Голгофу Иисус шел умирать,</plain>
+        </string>
+        <string>
+            <plain>Он презрен, умален пред людьми,</plain>
+        </string>
+        <string>
+            <plain>На Себе Он понес грехи, страдания и болезни наши.</plain>
+        </string>
+        <string>
+            <plain>Спасение тебе Христос подарил,</plain>
+        </string>
+        <string>
+            <plain>Прими этот дар поскорей, скорей.</plain>
+        </string>
+    </verse>
+</song>

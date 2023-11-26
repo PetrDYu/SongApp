@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3184" name="Мы живём на земле среди зла и скорбей" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы живём на земле среди зла и скорбей,</plain>
+        </string>
+        <string>
+            <plain>Где приносят нам боль даже руки друзей.</plain>
+        </string>
+        <string>
+            <plain>Но обид не тая нужно все принимать</plain>
+        </string>
+        <string>
+            <plain>И учась у Христа, всё с любовью прощать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А небо всё слышит, небо всё знает,</plain>
+        </string>
+        <string>
+            <plain>каждый твой шаг на земле отмечает.</plain>
+        </string>
+        <string>
+            <plain>Радость и боль причинённую нами,</plain>
+        </string>
+        <string>
+            <plain>Небо вернёт нам возмездья путями.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будет время поймём, почему добрый Бог,</plain>
+        </string>
+        <string>
+            <plain>Допустил испытанья в жизни столько тревог,</plain>
+        </string>
+        <string>
+            <plain>А пока верь всё во благо тебе</plain>
+        </string>
+        <string>
+            <plain>И без страха шагать по дороге - судьбе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Чтобы радость найти, нужно радость дарить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб добро получать, нужно добрыми быть,</plain>
+        </string>
+        <string>
+            <plain>Не смотри на людей, а учись у Христа,</plain>
+        </string>
+        <string>
+            <plain>И пусть радость несёт вам твоя доброта.</plain>
+        </string>
+    </verse>
+</song>

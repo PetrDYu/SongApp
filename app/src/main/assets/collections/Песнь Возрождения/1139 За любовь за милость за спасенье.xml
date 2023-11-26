@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1139" name="За любовь за милость за спасенье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За любовь, за милость, за спасенье</plain>
+        </string>
+        <string>
+            <plain>Благодарность Ты прими от нас.</plain>
+        </string>
+        <string>
+            <plain>Пусть несется песнь благодаренья</plain>
+        </string>
+        <string>
+            <plain>Господу - Он кровию нас спас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благодарим, благодарим,</plain>
+        </string>
+        <string>
+            <plain>За Твою любовь благодарим.</plain>
+        </string>
+        <string>
+            <plain>Достоин Ты вечной хвалы,</plain>
+        </string>
+        <string>
+            <plain>За Твою любовь благодарим.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>За Твои Голгофские страданья,</plain>
+        </string>
+        <string>
+            <plain>За спасенье, данное Тобой,</plain>
+        </string>
+        <string>
+            <plain>И за все Твои благодеянья</plain>
+        </string>
+        <string>
+            <plain>Сердце пусть всегда звучит хвалой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>За прекрасный дом в лазурном небе,</plain>
+        </string>
+        <string>
+            <plain>За святую вечность без конца,</plain>
+        </string>
+        <string>
+            <plain>Пусть звучит сегодня песнь хваленья,</plain>
+        </string>
+        <string>
+            <plain>Эту песнь поют наши сердца.</plain>
+        </string>
+    </verse>
+</song>

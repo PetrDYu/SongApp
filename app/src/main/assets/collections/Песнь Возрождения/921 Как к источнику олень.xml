@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="921" name="Как к источнику олень" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Как к источнику олень,</plain>
+        </string>
+        <string>
+            <plain>Так душа моя жаждет</plain>
+        </string>
+        <string>
+            <plain>Лишь к Тебе, Святой Боже,</plain>
+        </string>
+        <string>
+            <plain>Все лететь и лететь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Лишь к Тебе, о мой дивный,</plain>
+        </string>
+        <string>
+            <plain>Среди дня, среди ночи</plain>
+        </string>
+        <string>
+            <plain>Поднимаю я очи,</plain>
+        </string>
+        <string>
+            <plain>Хоть слеза в них блестит.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Лишь Тобой укрепляюсь</plain>
+        </string>
+        <string>
+            <plain>Средь земных странствований,</plain>
+        </string>
+        <string>
+            <plain>Только Ты - утешенье,</plain>
+        </string>
+        <string>
+            <plain>Избавленье от слез.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты царишь над мирами,</plain>
+        </string>
+        <string>
+            <plain>Над землей, над морями,</plain>
+        </string>
+        <string>
+            <plain>Ты - мой Царь и Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Мой Господь, мой Христос.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И к Тебе, Богу жизни,</plain>
+        </string>
+        <string>
+            <plain>Словно к лилии пчелка,</plain>
+        </string>
+        <string>
+            <plain>И как олень к потоку,</plain>
+        </string>
+        <string>
+            <plain>Я стремлюсь всей душой.</plain>
+        </string>
+    </verse>
+</song>

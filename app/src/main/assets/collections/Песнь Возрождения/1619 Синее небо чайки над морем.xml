@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1619" name="Синее небо чайки над морем" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Синее небо, чайки над морем,</plain>
+        </string>
+        <string>
+            <plain>Стройные сосны на берегу.</plain>
+        </string>
+        <string>
+            <plain>Всюду я вижу руку Божью</plain>
+        </string>
+        <string>
+            <plain>И красоту творенья Его.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Как бы хотелось стать белой чайкой,</plain>
+        </string>
+        <string>
+            <plain>Чтобы летать высоко над землей.</plain>
+        </string>
+        <string>
+            <plain>На крыльях веры в небо подняться</plain>
+        </string>
+        <string>
+            <plain>И пребывать, Господь, лишь с Тобой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как бы хотелось стать мне травою.</plain>
+        </string>
+        <string>
+            <plain>Или простым цветком полевым.</plain>
+        </string>
+        <string>
+            <plain>И научиться ходить в смиреньи</plain>
+        </string>
+        <string>
+            <plain>И в послушаньи пред Богом моим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как бы хотелось стать мне звездою,</plain>
+        </string>
+        <string>
+            <plain>Что ярко светит людям в ночи,</plain>
+        </string>
+        <string>
+            <plain>И возвещать всем о Божьем Слове</plain>
+        </string>
+        <string>
+            <plain>И о спасении дивном души.</plain>
+        </string>
+    </verse>
+</song>

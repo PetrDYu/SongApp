@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2916" name="Пришёл к реке я Иордан" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пришёл к реке я Иордан,</plain>
+        </string>
+        <string>
+            <plain>идя в священный Ханаан,</plain>
+        </string>
+        <string>
+            <plain>куда Господь меня позвал</plain>
+        </string>
+        <string>
+            <plain>и я всем сердцем зову внял.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Войди в священный Ханаан,</plain>
+        </string>
+        <string>
+            <plain>войди в священный Ханаан!</plain>
+        </string>
+        <string>
+            <plain>Там сладкие плоды растут,</plain>
+        </string>
+        <string>
+            <plain>там молоко и мёд текут.</plain>
+        </string>
+        <string>
+            <plain>Войди в священный Ханаан!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он все мои грехи простил</plain>
+        </string>
+        <string>
+            <plain>и светом свыше озарил;</plain>
+        </string>
+        <string>
+            <plain>однако страстно жаждал</plain>
+        </string>
+        <string>
+            <plain>я войти в священный Ханаан.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И здесь пред смертью я предстал,</plain>
+        </string>
+        <string>
+            <plain>и смерти «я» своё предал,</plain>
+        </string>
+        <string>
+            <plain>и ветхий человек распят;</plain>
+        </string>
+        <string>
+            <plain>теперь свободен я и свят.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И благодати дар второй</plain>
+        </string>
+        <string>
+            <plain>мне даровал Спаситель мой;</plain>
+        </string>
+        <string>
+            <plain>грех первородный побеждён</plain>
+        </string>
+        <string>
+            <plain>и весь я Богу посвящён.</plain>
+        </string>
+    </verse>
+</song>

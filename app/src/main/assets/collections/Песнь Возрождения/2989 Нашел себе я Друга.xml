@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2989" name="Нашел себе я Друга" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Нашел себе я Друга,</plain>
+        </string>
+        <string>
+            <plain>Он каждый миг со мной,</plain>
+        </string>
+        <string>
+            <plain>Его я слышу Слово,</plain>
+        </string>
+        <string>
+            <plain>зрю лик Его святой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе, Спаситель верный,</plain>
+        </string>
+        <string>
+            <plain>звучит моя хвала!</plain>
+        </string>
+        <string>
+            <plain>Ты — Друг мой неизменный,</plain>
+        </string>
+        <string>
+            <plain>пребудь со мной всегда.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Здесь все я оставляю,</plain>
+        </string>
+        <string>
+            <plain>и с Ним иду лишь я,</plain>
+        </string>
+        <string>
+            <plain>Его лишь знать хочу я,</plain>
+        </string>
+        <string>
+            <plain>и знает Он меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мой Друг меня в гоненьях</plain>
+        </string>
+        <string>
+            <plain>не бросит никогда,</plain>
+        </string>
+        <string>
+            <plain>Его лишь знать хочу я,</plain>
+        </string>
+        <string>
+            <plain>и знает Он меня.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Весь день Он посылает</plain>
+        </string>
+        <string>
+            <plain>мне силу для труда</plain>
+        </string>
+        <string>
+            <plain>и ношу облегчает,</plain>
+        </string>
+        <string>
+            <plain>ведь Он со мной всегда.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>С Христом я засыпаю,</plain>
+        </string>
+        <string>
+            <plain>не давит душу страх;</plain>
+        </string>
+        <string>
+            <plain>покоем наслаждаясь,</plain>
+        </string>
+        <string>
+            <plain>проснусь в Его руках.</plain>
+        </string>
+    </verse>
+</song>

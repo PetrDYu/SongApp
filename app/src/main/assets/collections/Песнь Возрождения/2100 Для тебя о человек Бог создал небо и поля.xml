@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2100" name="Для тебя о человек Бог создал небо и поля" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Для тебя, о человек, Бог создал небо и поля,</plain>
+        </string>
+        <string>
+            <plain>Для тебя цветут сады и плод даёт земля.</plain>
+        </string>
+        <string>
+            <plain>Для тебя поля и горы, всё живое для тебя,</plain>
+        </string>
+        <string>
+            <plain>Для тебя и солнце, и гроза.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Что отдал ты Ему за эту красоту?</plain>
+        </string>
+        <string>
+            <plain>Что отдал ты Творцу за эти чудеса?</plain>
+        </string>
+        <string>
+            <plain>Подумай, человек, ведь твой недолгий век,</plain>
+        </string>
+        <string>
+            <plain>Отдай Ему себя, отдай Христу себя.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Для тебя звучит мелодия в далёкой вышине,</plain>
+        </string>
+        <string>
+            <plain>Для тебя роса на травах на заре.</plain>
+        </string>
+        <string>
+            <plain>Для тебя на небе звёзды и луна,</plain>
+        </string>
+        <string>
+            <plain>Для тебя всё это создала Его рука.</plain>
+        </string>
+    </verse>
+</song>

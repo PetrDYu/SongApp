@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="5" name="О Господи, Ты мой свет" canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>О Господи, Ты мой свет.</plain>
+        </string>
+        <string>
+            <plain>Мой Бог, Ты тьму во мне рассеял.</plain>
+        </string>
+        <string>
+            <plain>Мой Бог, мой Бог, Ты тьму во мне рассеял.</plain>
+        </string>
+        <string>
+            <plain>Мой Бог, мой Бог, Ты тьму во мне рассеял.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>C’est toi ma lampe, Seigneur.</plain>
+        </string>
+        <string>
+            <plain>Mon Dieu éclaire ma ténèbre.</plain>
+        </string>
+        <string>
+            <plain>Mon Dieu, mon Dieu, éclaire ma ténèbre.</plain>
+        </string>
+        <string>
+            <plain>Mon Dieu, mon Dieu, éclaire ma ténèbre.</plain>
+        </string>
+    </verse>
+</song>

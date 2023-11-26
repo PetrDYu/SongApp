@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="349" name="Ты ликуй, дочь Сиона, и возрадуйся, Израиль" canon="false" text="Давида Лодена" textRus="И. Языковой, Ю. Пастернака" music="Давида Лодена" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Ты ликуй, дочь Сиона, и возрадуйся, Израиль.</plain>
+        </string>
+        <string>
+            <plain>Ты ликуй и возвеселись, дочь Иерусалима.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Гнев Господь сменил на милость, удалил врага.</plain>
+        </string>
+        <string>
+            <plain>Царь Израилев посреди тебя, зло к тебе теперь не приблизится.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Скажут в день тот</plain>
+        </string>
+        <string>
+            <plain>Не страшись, Сион, не ослабнут твои руки.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Твой Господь посреди тебя, Он дарует вам спасенье.</plain>
+        </string>
+        <string>
+            <plain>Будет милостив, будет ликовать и торжествовать о тебе, Сион.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>РО́НИ РО́НИ БАТ-ЦИ́ОН АРИ́У ИСРАЭ́ЛЬ</plain>
+        </string>
+        <string>
+            <plain>СИ́МХИ ВА́ЛЗИ БЭ-ХОЛЬ ЛЕ́В БАТ ЙЕРУ́ШАЛАИ́М</plain>
+        </string>
+    </verse>
+</song>

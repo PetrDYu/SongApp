@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="390" name="На кроватке из соломы спит Иисус малыш" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>На кроватке из соломы спит Иисус малыш.</plain>
+        </string>
+        <string>
+            <plain>В мягких ясельках в хлеву Ты, Иисус, лежишь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>С Малышом Мария мама рядышком сидит,</plain>
+        </string>
+        <string>
+            <plain>Колыбельную поет: «Спи, спи, Малыш».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Льются с уст ее слова полные любви,</plain>
+        </string>
+        <string>
+            <plain>Греют сердце теплотой: «Спи, спи, Малыш».</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Наш небесный Бог хранит Твой покой в любви.</plain>
+        </string>
+        <string>
+            <plain>Вторит вновь она, любя: «Мальчик мой, расти».</plain>
+        </string>
+    </verse>
+</song>

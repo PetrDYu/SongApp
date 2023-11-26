@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="134" name="Ты искупил мир от греха, Ты дал ему любовь и свет," canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Ты искупил мир от греха, Ты дал ему любовь и свет,</plain>
+        </string>
+        <string>
+            <plain>Зажег потухшие сердца и дал надежду.</plain>
+        </string>
+        <string>
+            <plain>Мы пред Тобою предстоим, и каждый дорог для Тебя.</plain>
+        </string>
+        <string>
+            <plain>За все, Отец, благодарим и превозносим!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава Тебе и величье!</plain>
+        </string>
+        <string>
+            <plain>Слава в веках и народах!</plain>
+        </string>
+        <string>
+            <plain>Сила Твоя безгранична,</plain>
+        </string>
+        <string>
+            <plain>Милость Твоя во все роды!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я больше не во власти зла и не служу иным богам.</plain>
+        </string>
+        <string>
+            <plain>Твой свет дорогу указал и дал надежду.</plain>
+        </string>
+        <string>
+            <plain>К престолу славы прихожу и не стыжусь поднять глаза:</plain>
+        </string>
+        <string>
+            <plain>Иисус меня от смерти спас и дал свободу!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ты открываешь новый мир любви, надежды, чистоты.</plain>
+        </string>
+        <string>
+            <plain>С Тобой не трудно мне идти, ведь Ты со мною.</plain>
+        </string>
+        <string>
+            <plain>Твоя любовь меня хранит, дает надежду и покой,</plain>
+        </string>
+        <string>
+            <plain>И потому сердца людей полны хвалою.</plain>
+        </string>
+    </verse>
+</song>

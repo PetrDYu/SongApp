@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="265" name="Рождественская ночь Иисус Христос родился" canon="false" text="Т. Витман" textRus="" music="Т. Витман" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Рождественская ночь – Иисус Христос родился.</plain>
+        </string>
+        <string>
+            <plain>Провозглашает ангельский небесный хор:</plain>
+        </string>
+        <string>
+            <plain>«Мир, счастье на земле! Сам Бог в плоти явился,</plain>
+        </string>
+        <string>
+            <plain>Чтобы освободить людей от всех грехов».</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Счастье в небе, праздник в небе,</plain>
+        </string>
+        <string>
+            <plain>Ангелы с небес поют,</plain>
+        </string>
+        <string>
+            <plain>Яркая звезда сияет,</plain>
+        </string>
+        <string>
+            <plain>Освещая путь к Тому,</plain>
+        </string>
+        <string>
+            <plain>Кто дает нам всем спасенье,</plain>
+        </string>
+        <string>
+            <plain>Радость вечную Свою.</plain>
+        </string>
+        <string>
+            <plain>Преклонись пред Ним – есть время –</plain>
+        </string>
+        <string>
+            <plain>И доверься ты Ему.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не во дворце, а в яслях Иисус родился,</plain>
+        </string>
+        <string>
+            <plain>Чтоб каждый, не смущаясь, смог прийти к Нему;</plain>
+        </string>
+        <string>
+            <plain>Чтобы и ты, мой друг, как Сам Господь, смирился</plain>
+        </string>
+        <string>
+            <plain>И сердцем смог принять Его тернистый путь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Волхвы пошли к Нему, и ты иди за ними,</plain>
+        </string>
+        <string>
+            <plain>Спеши за пастухами, чтобы не отстать,</plain>
+        </string>
+        <string>
+            <plain>Пока горит звезда на небе темно-синем,</plain>
+        </string>
+        <string>
+            <plain>Ты торопись скорее, чтоб не опоздать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И пусть багряный грех – как снег он станет белым;</plain>
+        </string>
+        <string>
+            <plain>Все потому, что Иисус лежит в яслях.</plain>
+        </string>
+        <string>
+            <plain>Склонись к Нему и преклони свои колени,</plain>
+        </string>
+        <string>
+            <plain>И сердце принеси Ему свое, как дар.</plain>
+        </string>
+    </verse>
+</song>

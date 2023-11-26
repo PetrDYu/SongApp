@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="180" name="Радуйтесь братья и в песнях духовных" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Радуйтесь, братья, и в песнях духовных</plain>
+        </string>
+        <string>
+            <plain>Славу и честь воссылайте Христу!</plain>
+        </string>
+        <string>
+            <plain>Он нас нашел всех в оковах греховных,</plain>
+        </string>
+        <string>
+            <plain>Он проявил к нам любви полноту.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Дивен в Своей благодати Спаситель!</plain>
+        </string>
+        <string>
+            <plain>Он охраняет нас в жизни земной;</plain>
+        </string>
+        <string>
+            <plain>Он нам воздвигнет святую обитель,</plain>
+        </string>
+        <string>
+            <plain>Он подарит нам венец золотой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В радости, братья, тяжелый наш жребий</plain>
+        </string>
+        <string>
+            <plain>Будем мы в мире строптивом нести.</plain>
+        </string>
+        <string>
+            <plain>Бог даст покой нам блаженный на небе,</plain>
+        </string>
+        <string>
+            <plain>Он подкрепит нас в тернистом пути.</plain>
+        </string>
+    </verse>
+</song>

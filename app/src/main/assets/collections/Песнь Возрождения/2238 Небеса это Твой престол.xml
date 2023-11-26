@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2238" name="Небеса это Твой престол" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Небеса - это Твой престол,</plain>
+        </string>
+        <string>
+            <plain>А земля - подножие ног Твоих.</plain>
+        </string>
+        <string>
+            <plain>Где же можно построить дом для Тебя,</plain>
+        </string>
+        <string>
+            <plain>Где бы Ты в покое жил?</plain>
+        </string>
+        <string>
+            <plain>О, Господь, я Тебе отдаю</plain>
+        </string>
+        <string>
+            <plain>Сокрушённое сердце моё.</plain>
+        </string>
+        <string>
+            <plain>О, Отец, Я Тебя люблю,</plain>
+        </string>
+        <string>
+            <plain>И да святится имя Твоё.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Так да святится имя Твоё</plain>
+        </string>
+        <string>
+            <plain>На земле и на небесах.</plain>
+        </string>
+        <string>
+            <plain>Так да святится имя Твоё</plain>
+        </string>
+        <string>
+            <plain>В нашей жизни и в наших сердцах, О Господь!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Верю я: мой сердечный дом</plain>
+        </string>
+        <string>
+            <plain>Стал обителью Духа Святого,</plain>
+        </string>
+        <string>
+            <plain>И любовь поселилась в нём</plain>
+        </string>
+        <string>
+            <plain>- Это выше богатства земного.</plain>
+        </string>
+        <string>
+            <plain>Мой Господь, я Тебе отдаю</plain>
+        </string>
+        <string>
+            <plain>Жертву уст - приношенье моё.</plain>
+        </string>
+        <string>
+            <plain>О, Иисус, я Тебя люблю,</plain>
+        </string>
+        <string>
+            <plain>И да святится имя Твоё.</plain>
+        </string>
+    </verse>
+</song>

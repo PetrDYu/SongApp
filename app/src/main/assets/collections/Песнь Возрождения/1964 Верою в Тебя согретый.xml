@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1964" name="Верою в Тебя согретый" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верою в Тебя согретый,</plain>
+        </string>
+        <string>
+            <plain>Поли я чувств, Господь, к Тебе,</plain>
+        </string>
+        <string>
+            <plain>С ними я несу обеты</plain>
+        </string>
+        <string>
+            <plain>В тихом лепете, в мольбе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я люблю Твой путь.</plain>
+        </string>
+        <string>
+            <plain>Всесильный, И хочу на нем пребыть,</plain>
+        </string>
+        <string>
+            <plain>И в любви Твоей обильной</plain>
+        </string>
+        <string>
+            <plain>Жизнь свою укоренить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я люблю в тиши, в молчаньи</plain>
+        </string>
+        <string>
+            <plain>Ум в закон Твой углублять,</plain>
+        </string>
+        <string>
+            <plain>Твой завет, Твое Писанье,</plain>
+        </string>
+        <string>
+            <plain>Больше сердцем познавать.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я люблю Твой голос слышать,</plain>
+        </string>
+        <string>
+            <plain>К сердцу близко принимать,</plain>
+        </string>
+        <string>
+            <plain>Милосердьем неба дышать</plain>
+        </string>
+        <string>
+            <plain>И о вечном размышлять.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я люблю о правде вечной</plain>
+        </string>
+        <string>
+            <plain>Душам грешным возвещать</plain>
+        </string>
+        <string>
+            <plain>И из праздности беспечной</plain>
+        </string>
+        <string>
+            <plain>Их на труд Твой призывать.</plain>
+        </string>
+    </verse>
+</song>

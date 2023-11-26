@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="287" name="Манит сердце мечтою высь небес голубая" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Манит сердце мечтою высь небес голубая.</plain>
+        </string>
+        <string>
+            <plain>Нашей общей судьбою стала вера живая.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Он нас сделал родными, Он нас сделал друзьями,</plain>
+        </string>
+        <string>
+            <plain>Дал нам новое имя – нас зовут христиане.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Иисус стал нам другом. Мы на деле узнали:</plain>
+        </string>
+        <string>
+            <plain>Он врачует недуги, удаляет печали.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он дарует спасенье, мир и счастье без меры,</plain>
+        </string>
+        <string>
+            <plain>И второе рожденье, только искренно веруй.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

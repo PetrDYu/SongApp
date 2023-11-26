@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="867" name="Всем известно людям как прекрасна жизнь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Всем известно людям, как прекрасна жизнь.</plain>
+        </string>
+        <string>
+            <plain>Но еще прекрасней, как познаешь смысл.</plain>
+        </string>
+        <string>
+            <plain>Как Творца вселенной сердцем обретешь,</plain>
+        </string>
+        <string>
+            <plain>Жизнью полноценной лишь тогда живешь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Тогда жизнь понятна, ясно цель видна,</plain>
+        </string>
+        <string>
+            <plain>Слышу голос внятно: "Ты - мое дитя,</plain>
+        </string>
+        <string>
+            <plain>Я - Отец твой вечный, Я люблю тебя,</plain>
+        </string>
+        <string>
+            <plain>На пути к Отчизне сохраню от зла".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, как мы счастливы, кто познал Христа,</plain>
+        </string>
+        <string>
+            <plain>Радость в нашем сердце льется, как река.</plain>
+        </string>
+        <string>
+            <plain>Нам и в этой жизни хорошо с Христом.</plain>
+        </string>
+        <string>
+            <plain>У Отца в Отчизне мы приют найдем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Поспеши к Иисусу ты прийти, друг мой,</plain>
+        </string>
+        <string>
+            <plain>Он с любовью примет, даст тебе покой.</plain>
+        </string>
+        <string>
+            <plain>И вот в этой жизни будешь Им храним,</plain>
+        </string>
+        <string>
+            <plain>А потом в Отчизне вечно будешь с Ним.</plain>
+        </string>
+    </verse>
+</song>

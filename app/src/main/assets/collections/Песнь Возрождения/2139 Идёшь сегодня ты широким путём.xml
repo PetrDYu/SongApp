@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2139" name="Идёшь сегодня ты широким путём" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Идёшь сегодня ты широким путём,</plain>
+        </string>
+        <string>
+            <plain>Уверенно шагая.</plain>
+        </string>
+        <string>
+            <plain>А завтра будет что с тобой?</plain>
+        </string>
+        <string>
+            <plain>Ни я, ни ты не знаем.</plain>
+        </string>
+        <string>
+            <plain>А Бог даёт сегодня знать чудесную Обитель,</plain>
+        </string>
+        <string>
+            <plain>Последовать Его путём,</plain>
+        </string>
+        <string>
+            <plain>А не идти в погибель:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А ты выбирай, а ты выбирай,</plain>
+        </string>
+        <string>
+            <plain>Но знай, что есть две вечности - ад и рай.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господь зовёт, приди к Нему,</plain>
+        </string>
+        <string>
+            <plain>Он даст успокоены</plain>
+        </string>
+        <string>
+            <plain>Всем, всем измученным сердцам,</plain>
+        </string>
+        <string>
+            <plain>Грехи предаст забвению.</plain>
+        </string>
+        <string>
+            <plain>А сатане скажи ты:</plain>
+        </string>
+        <string>
+            <plain>"Нет, я не пойду с тобою".</plain>
+        </string>
+        <string>
+            <plain>Скажи ему: "Иисус зовёт,</plain>
+        </string>
+        <string>
+            <plain>Пойду Его тропою",</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сегодня Бог людей зовёт,</plain>
+        </string>
+        <string>
+            <plain>Даёт тепло и нежность.</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему, Он жизнь даёт,</plain>
+        </string>
+        <string>
+            <plain>Любовь Его безбрежна.</plain>
+        </string>
+    </verse>
+</song>

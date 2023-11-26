@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="231" name="Куда б Ты ни повел меня, Я знаю, что Ты там" canon="false" text="" textRus="" music="" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Куда б Ты ни повел меня, Я знаю, что Ты там:</plain>
+        </string>
+        <string>
+            <plain>И в море темном, и в вышине –</plain>
+        </string>
+        <string>
+            <plain>Везде Ты близок к нам!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Ведь пред Тобой открыто все – нам нечего таить,</plain>
+        </string>
+        <string>
+            <plain>И сердца помышления Ты можешь все узреть.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И пред моим рождением, Господь, Ты знал меня,</plain>
+        </string>
+        <string>
+            <plain>Твоя рука пронзенная к Себе влечет меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Господь, ведь вся Вселенная есть дело Твоих рук.</plain>
+        </string>
+        <string>
+            <plain>Прославить я хочу Тебя, мой Бог, как Ты велик!</plain>
+        </string>
+    </verse>
+</song>

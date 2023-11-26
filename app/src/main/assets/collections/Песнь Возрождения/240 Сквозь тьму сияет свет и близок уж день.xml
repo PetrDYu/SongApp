@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="240" name="Сквозь тьму сияет свет и близок уж день" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Сквозь тьму сияет свет и близок уж день;</plain>
+        </string>
+        <string>
+            <plain>Там за волнами манит берега тень.</plain>
+        </string>
+        <string>
+            <plain>Близок конец пути; греби, друг, скорей!</plain>
+        </string>
+        <string>
+            <plain>К берегу стремись в ладье спасенья скорей!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>К берегу, к берегу правь поскорей!</plain>
+        </string>
+        <string>
+            <plain>Не бойся бури и греби веселей.</plain>
+        </string>
+        <string>
+            <plain>В ладье спасенья безопасно ты плыви.</plain>
+        </string>
+        <string>
+            <plain>Брось корабль разбитый и вперед все гляди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Надейся на Господа, Он лишь спасет,</plain>
+        </string>
+        <string>
+            <plain>Буря вздымается и ветер ревет.</plain>
+        </string>
+        <string>
+            <plain>Не бойся мрака, гула волн не страшись!</plain>
+        </string>
+        <string>
+            <plain>Светлая звезда взойдет, на берег держись!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вот рассветает день, главу восклони;</plain>
+        </string>
+        <string>
+            <plain>Тучи рассеялись уж слава вблизи!</plain>
+        </string>
+        <string>
+            <plain>В ладье спасенья аллилуйя воспой,</plain>
+        </string>
+        <string>
+            <plain>Радость там у пристани тебя ждет святой!</plain>
+        </string>
+    </verse>
+</song>

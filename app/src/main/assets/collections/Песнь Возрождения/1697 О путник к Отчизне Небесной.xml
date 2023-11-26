@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1697" name="О путник к Отчизне Небесной" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, путник к Отчизне Небесной,</plain>
+        </string>
+        <string>
+            <plain>Взирай на Христа, молись,</plain>
+        </string>
+        <string>
+            <plain>В стране отдохнёшь ты чудесной,</plain>
+        </string>
+        <string>
+            <plain>Вперёд, всё вперёд стремись.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Но путь каменистый, тернистый,</plain>
+        </string>
+        <string>
+            <plain>Ведущий к Отчизне родной,</plain>
+        </string>
+        <string>
+            <plain>Пройдёшь ли с одеждою чистой,</plain>
+        </string>
+        <string>
+            <plain>Залог сохранив дорогой?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В тяжёлые дни к Иисусу</plain>
+        </string>
+        <string>
+            <plain>С горячей спеши мольбой,</plain>
+        </string>
+        <string>
+            <plain>Пред Ним ты и сердце и душу</plain>
+        </string>
+        <string>
+            <plain>Доверчиво, друг мой, открой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты чудо тогда испытаешь,</plain>
+        </string>
+        <string>
+            <plain>В Иисусе ты мир найдёшь,</plain>
+        </string>
+        <string>
+            <plain>В Нём счастье души ты узнаешь</plain>
+        </string>
+        <string>
+            <plain>И в радости путь пройдёшь.</plain>
+        </string>
+    </verse>
+</song>

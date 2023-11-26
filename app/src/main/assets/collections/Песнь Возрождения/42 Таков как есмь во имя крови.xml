@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="42" name="Таков как есмь во имя крови" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Таков как есмь, во имя крови,</plain>
+        </string>
+        <string>
+            <plain>За нас пролитой на кресте,</plain>
+        </string>
+        <string>
+            <plain>Во имя Божьих призываний,</plain>
+        </string>
+        <string>
+            <plain>Христос, я прихожу к Тебе!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Таков как есмь, слепой и бедный,</plain>
+        </string>
+        <string>
+            <plain>Добра не находя в себе,</plain>
+        </string>
+        <string>
+            <plain>За верой, зреньем и прощеньем,</plain>
+        </string>
+        <string>
+            <plain>Христос, я прохожу к Тебе!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Таков как есмь, меня Ты примешь,</plain>
+        </string>
+        <string>
+            <plain>Дашь жизнь, спасенье, мир Твой мне;</plain>
+        </string>
+        <string>
+            <plain>К Тебе я прихожу, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Дай мне Тебя познать вполне!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Таков как есмь, Твоей любовью</plain>
+        </string>
+        <string>
+            <plain>Низвергнул Ты преграды все.</plain>
+        </string>
+        <string>
+            <plain>Я Твой отныне и вовеки, -</plain>
+        </string>
+        <string>
+            <plain>Христос, я прихожу к Тебе!</plain>
+        </string>
+    </verse>
+</song>

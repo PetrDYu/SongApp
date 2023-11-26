@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2466" name="Две березы утром ранним" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Две березы утром ранним</plain>
+        </string>
+        <string>
+            <plain>Смотрят в солнечную высь,</plain>
+        </string>
+        <string>
+            <plain>Обнялись они корнями</plain>
+        </string>
+        <string>
+            <plain>И ветвями обнялись.</plain>
+        </string>
+        <string>
+            <plain>Вместе силы набирались,</plain>
+        </string>
+        <string>
+            <plain>Сил у матери земли.</plain>
+        </string>
+        <string>
+            <plain>Друг на друга опирались,</plain>
+        </string>
+        <string>
+            <plain>Опирались и росли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Жить не просто, жить совсем не просто,</plain>
+        </string>
+        <string>
+            <plain>Только жизнь не напрасно дана,</plain>
+        </string>
+        <string>
+            <plain>Две березы, Две березы в чистом поле,</plain>
+        </string>
+        <string>
+            <plain>Две березы, а судьба одна.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Было горестей немало,</plain>
+        </string>
+        <string>
+            <plain>Гнул их ветер ледяной,</plain>
+        </string>
+        <string>
+            <plain>Но одна другой шептали:</plain>
+        </string>
+        <string>
+            <plain>"Не печалься, я с тобой.</plain>
+        </string>
+        <string>
+            <plain>Мы сильней, чем этот ветер,</plain>
+        </string>
+        <string>
+            <plain>Всех буранов мы сильней,</plain>
+        </string>
+        <string>
+            <plain>Ведь у нас с тобою дети,</plain>
+        </string>
+        <string>
+            <plain>- Надо вырастить детей.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Стали стебли уж сухие,</plain>
+        </string>
+        <string>
+            <plain>Постаревшие стволы,</plain>
+        </string>
+        <string>
+            <plain>А березки перед ними</plain>
+        </string>
+        <string>
+            <plain>Высоки и так белы.</plain>
+        </string>
+        <string>
+            <plain>Но седые беззаветно</plain>
+        </string>
+        <string>
+            <plain>Над весеннюю землей</plain>
+        </string>
+        <string>
+            <plain>Все стараются от ветра</plain>
+        </string>
+        <string>
+            <plain>Моло-дых прикрыть собой.</plain>
+        </string>
+    </verse>
+</song>

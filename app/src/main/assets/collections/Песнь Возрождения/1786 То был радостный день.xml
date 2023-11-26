@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1786" name="То был радостный день" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>То был радостный день</plain>
+        </string>
+        <string>
+            <plain>В моей жизни земной,</plain>
+        </string>
+        <string>
+            <plain>Когда Ты, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>Подарил мне покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Буду славить Тебя</plain>
+        </string>
+        <string>
+            <plain>За дар чудный любви,</plain>
+        </string>
+        <string>
+            <plain>Что омыл Ты меня</plain>
+        </string>
+        <string>
+            <plain>В драгоценной Крови.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Было время, когда</plain>
+        </string>
+        <string>
+            <plain>Без Тебя я блуждал,</plain>
+        </string>
+        <string>
+            <plain>Но Ты руку Свою</plain>
+        </string>
+        <string>
+            <plain>В темноте мне подал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Душу светом Своим</plain>
+        </string>
+        <string>
+            <plain>Ты мою озарил,</plain>
+        </string>
+        <string>
+            <plain>Дар спасения мне</plain>
+        </string>
+        <string>
+            <plain>Из любви подарил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И с тех пор в дивный край</plain>
+        </string>
+        <string>
+            <plain>Я иду за Тобой,</plain>
+        </string>
+        <string>
+            <plain>Там блаженный мой рай,</plain>
+        </string>
+        <string>
+            <plain>Там мой вечный покой.</plain>
+        </string>
+    </verse>
+</song>

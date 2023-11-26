@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="93" name="Не устанем петь мы о любви Твоей," canon="false" text="Н.-А. Шефно" textRus="" music="Н.-А. Шефно" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Не устанем петь мы о любви Твоей,</plain>
+        </string>
+        <string>
+            <plain>Нет на свете песни чище и нежней.</plain>
+        </string>
+        <string>
+            <plain>Мы в простом ее напеве слышим всякий раз:</plain>
+        </string>
+        <string>
+            <plain>«Любит, любит неизменно наш Спаситель нас».</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Он в хлеву рожден был ночью, ночью Рождества,</plain>
+        </string>
+        <string>
+            <plain>И положен был в ясли для скота.</plain>
+        </string>
+        <string>
+            <plain>Он с разбойниками рядом умер на кресте.</plain>
+        </string>
+        <string>
+            <plain>Для Царя царей доли нет странней.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>А когда Мария утром к гробу подошла,</plain>
+        </string>
+        <string>
+            <plain>То отвален камень был, тела не нашла.</plain>
+        </string>
+        <string>
+            <plain>И услышала она, горе позабыв:</plain>
+        </string>
+        <string>
+            <plain>«Среди мертвых не ищи ты Того, Кто жив».</plain>
+        </string>
+    </verse>
+</song>

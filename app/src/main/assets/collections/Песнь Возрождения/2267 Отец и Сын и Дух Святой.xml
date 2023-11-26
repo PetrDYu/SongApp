@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2267" name="Отец и Сын и Дух Святой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Отец и Сын, и Дух Святой</plain>
+        </string>
+        <string>
+            <plain>- Святая Троица,</plain>
+        </string>
+        <string>
+            <plain>Призри с небес к стране земной,</plain>
+        </string>
+        <string>
+            <plain>Народ Твой молится.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе мы молимся,</plain>
+        </string>
+        <string>
+            <plain>О Дух Святой,</plain>
+        </string>
+        <string>
+            <plain>Тебя мы славим в этот час,</plain>
+        </string>
+        <string>
+            <plain>Святая Троица.</plain>
+        </string>
+        <string>
+            <plain>Дай силы верным быть до конца,</plain>
+        </string>
+        <string>
+            <plain>Хоть мало сильных среди нас,</plain>
+        </string>
+        <string>
+            <plain>Но Церковь строится.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты силу в Церкви прояви,</plain>
+        </string>
+        <string>
+            <plain>Как в дни начальные.</plain>
+        </string>
+        <string>
+            <plain>И радостью благослови</plain>
+        </string>
+        <string>
+            <plain>Сердца печальные.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Из года в год, то тут, то там</plain>
+        </string>
+        <string>
+            <plain>Нам ямы роются,</plain>
+        </string>
+        <string>
+            <plain>Но к цели даже среди ям</plain>
+        </string>
+        <string>
+            <plain>Веди нас, Троица.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть истина чрез Твой народ</plain>
+        </string>
+        <string>
+            <plain>Провозглашается.</plain>
+        </string>
+        <string>
+            <plain>И с верою Твоя любовь</plain>
+        </string>
+        <string>
+            <plain>В нас открывается.</plain>
+        </string>
+    </verse>
+</song>

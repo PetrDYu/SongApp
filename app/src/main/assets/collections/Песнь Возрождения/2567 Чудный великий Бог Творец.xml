@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2567" name="Чудный великий Бог Творец" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Чудный, великий Бог Творец,</plain>
+        </string>
+        <string>
+            <plain>В вечных путях непревзойденный.</plain>
+        </string>
+        <string>
+            <plain>Как справедливо прославлять</plain>
+        </string>
+        <string>
+            <plain>Твой лик, Сияньем озаренный.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Кто так прощает наш</plain>
+        </string>
+        <string>
+            <plain>Господь, как Ты,</plain>
+        </string>
+        <string>
+            <plain>Что есть ценней</plain>
+        </string>
+        <string>
+            <plain>Твоей доброты?!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Балы-то, жестоко ранит грех,</plain>
+        </string>
+        <string>
+            <plain>Душу виной нам отравляя,</plain>
+        </string>
+        <string>
+            <plain>Ты исцеляешь раны все,</plain>
+        </string>
+        <string>
+            <plain>В любви к нам руки простирая.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В радости сердца, о Господь,</plain>
+        </string>
+        <string>
+            <plain>Прощенья дар воспринимаем,</plain>
+        </string>
+        <string>
+            <plain>Любовь Твою, завета Кровь</plain>
+        </string>
+        <string>
+            <plain>И крест тяжелый постигаем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Жертва Голгофы, боль любви,</plain>
+        </string>
+        <string>
+            <plain>Чудо добра и всепрощенья...</plain>
+        </string>
+        <string>
+            <plain>О Иисус, от нас прими</plain>
+        </string>
+        <string>
+            <plain>Хвалу сердец и поклоненье.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1539" name="Где ты бродишь бродишь сын несчастный" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Где ты бродишь, бродишь, сын несчастный,</plain>
+        </string>
+        <string>
+            <plain>Вдалеке оставив дом родной?</plain>
+        </string>
+        <string>
+            <plain>О, вернись, то Божий голос властный.</plain>
+        </string>
+        <string>
+            <plain>Что зовет, зовет тебя домой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, вернись, - нежно обниму,</plain>
+        </string>
+        <string>
+            <plain>О, вернись, - грех с тебя сниму,</plain>
+        </string>
+        <string>
+            <plain>В белые одежды вновь одену</plain>
+        </string>
+        <string>
+            <plain>И на пир введу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Где ты бродишь, бродишь, тратя время,</plain>
+        </string>
+        <string>
+            <plain>Силы в тщетной, тщетной суете?</plain>
+        </string>
+        <string>
+            <plain>О, вернись, сниму твое Я бремя,</plain>
+        </string>
+        <string>
+            <plain>- За тебя Я умер на кресте.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Где ты бродишь, сын Мой, без приюта.</plain>
+        </string>
+        <string>
+            <plain>Одинок, без близких и друзей.</plain>
+        </string>
+        <string>
+            <plain>О, вернись, дом полон, полон света,</plain>
+        </string>
+        <string>
+            <plain>Ждет тебя к покою от скорбей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Где ты бродишь, бродишь, сын голодный,</plain>
+        </string>
+        <string>
+            <plain>Удаляясь в холод, ночи тьму?</plain>
+        </string>
+        <string>
+            <plain>О, вернись, оставив край холодный,</plain>
+        </string>
+        <string>
+            <plain>Я тебя в объятия приму.</plain>
+        </string>
+    </verse>
+</song>

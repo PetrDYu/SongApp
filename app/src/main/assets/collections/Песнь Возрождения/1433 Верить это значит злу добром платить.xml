@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1433" name="Верить это значит злу добром платить" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Верить - это значит злу добром платить,</plain>
+        </string>
+        <string>
+            <plain>Верить - это значит искренне любить,</plain>
+        </string>
+        <string>
+            <plain>Верить - это значит проходить свой путь,</plain>
+        </string>
+        <string>
+            <plain>Зная Божью правду, зная жизни суть.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Это значит Христу доверяться всегда,</plain>
+        </string>
+        <string>
+            <plain>В скорби, в радости верить.</plain>
+        </string>
+        <string>
+            <plain>И, чрез жизнь к дорогим небесам проходя,</plain>
+        </string>
+        <string>
+            <plain>Верить, верить, верить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Верить - это ближних от души прощать,</plain>
+        </string>
+        <string>
+            <plain>Малые ошибки чтоб не замечать.</plain>
+        </string>
+        <string>
+            <plain>Безвозмездно людям доброту дарить,</plain>
+        </string>
+        <string>
+            <plain>Гибнущие души братьев полюбить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Верить - это значит со Христом идти.</plain>
+        </string>
+        <string>
+            <plain>Злые поношенья с радостью нести.</plain>
+        </string>
+        <string>
+            <plain>Верить - это видеть вечности чертог.</plain>
+        </string>
+        <string>
+            <plain>Где с любовью примет пилигримов Бог.</plain>
+        </string>
+    </verse>
+</song>

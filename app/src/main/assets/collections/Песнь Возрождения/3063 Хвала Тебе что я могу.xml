@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3063" name="Хвала Тебе что я могу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвала Тебе, что я могу</plain>
+        </string>
+        <string>
+            <plain>заботы на Тебя все возложить.</plain>
+        </string>
+        <string>
+            <plain>Ты обещал нести их за меня.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Хочу любить Тебя сильней,</plain>
+        </string>
+        <string>
+            <plain>держаться за Тебя.</plain>
+        </string>
+        <string>
+            <plain>В борьбе жестокой здесь</plain>
+        </string>
+        <string>
+            <plain>веди победно Ты меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В Тяжёлых искушениях</plain>
+        </string>
+        <string>
+            <plain>доверяюсь я Тебе.</plain>
+        </string>
+        <string>
+            <plain>Ты к цели приведёшь меня,</plain>
+        </string>
+        <string>
+            <plain>покоюсь я в Тебе.</plain>
+        </string>
+        <string>
+            <plain>З Хоть дьявол и пытается</plain>
+        </string>
+        <string>
+            <plain>сразить меня в борьбе,</plain>
+        </string>
+        <string>
+            <plain>в смирении душу отдаю</plain>
+        </string>
+        <string>
+            <plain>всецело я Тебе.</plain>
+        </string>
+    </verse>
+</song>

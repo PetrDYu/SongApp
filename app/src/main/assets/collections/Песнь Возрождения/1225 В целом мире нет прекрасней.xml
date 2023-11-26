@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1225" name="В целом мире нет прекрасней" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В целом мире нет прекрасней,</plain>
+        </string>
+        <string>
+            <plain>В целом мире не найдешь,</plain>
+        </string>
+        <string>
+            <plain>Нет милее и прекрасней,</plain>
+        </string>
+        <string>
+            <plain>Чем Христова молодежь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сам Христос идет, и смело</plain>
+        </string>
+        <string>
+            <plain>Слушаем Его мы зов.</plain>
+        </string>
+        <string>
+            <plain>И за это, братья, смело</plain>
+        </string>
+        <string>
+            <plain>Станьте правые в пролом.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Расцветайте, юные силы.</plain>
+        </string>
+        <string>
+            <plain>Славьте день Его и ночь.</plain>
+        </string>
+        <string>
+            <plain>За Христом пойдем в Отчизну,</plain>
+        </string>
+        <string>
+            <plain>Наша славная молодежь.</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Сам Христос идет, и смело</plain>
+        </string>
+        <string>
+            <plain>Слушаем Его мы зов.</plain>
+        </string>
+        <string>
+            <plain>И за это, братья, смело</plain>
+        </string>
+        <string>
+            <plain>Станьте правые в пролом.</plain>
+        </string>
+    </chorus>
+</song>

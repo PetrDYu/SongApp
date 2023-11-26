@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2076" name="В этом мире грека" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В этом мире грека</plain>
+        </string>
+        <string>
+            <plain>Надоело мне жить</plain>
+        </string>
+        <string>
+            <plain>И не видеть Христа</plain>
+        </string>
+        <string>
+            <plain>И во мраке ходить...</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Пропустите меня,</plain>
+        </string>
+        <string>
+            <plain>Пропустите скорей,</plain>
+        </string>
+        <string>
+            <plain>Я увидеть хочу Иисуса Христа!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В жизни долгой Закхей</plain>
+        </string>
+        <string>
+            <plain>Мир и счастье искал,</plain>
+        </string>
+        <string>
+            <plain>И нашел лишь тогда,</plain>
+        </string>
+        <string>
+            <plain>Как Христа повстречал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Трудно в жизни земной</plain>
+        </string>
+        <string>
+            <plain>Жить от Бога вдали,</plain>
+        </string>
+        <string>
+            <plain>Со Христом лишь войдут</plain>
+        </string>
+        <string>
+            <plain>В сердце радость и мир.</plain>
+        </string>
+    </verse>
+</song>

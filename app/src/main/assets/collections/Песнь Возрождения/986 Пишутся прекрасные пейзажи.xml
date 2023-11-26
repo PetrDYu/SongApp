@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="986" name="Пишутся прекрасные пейзажи" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пишутся прекрасные пейзажи</plain>
+        </string>
+        <string>
+            <plain>Вечного художника рукой.</plain>
+        </string>
+        <string>
+            <plain>Пусть никто о Боге нам не скажет</plain>
+        </string>
+        <string>
+            <plain>- Все творенье говорит о Нем.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Скажут звезды, скажет буйный ветер</plain>
+        </string>
+        <string>
+            <plain>И колосьев золото, и лес,</plain>
+        </string>
+        <string>
+            <plain>И закат в прозрачный летний вечер</plain>
+        </string>
+        <string>
+            <plain>Нам откроет дверь в страну чудес.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир безмолвный нам о Боге скажет.</plain>
+        </string>
+        <string>
+            <plain>Скажет громом, молнией, грозой,</plain>
+        </string>
+        <string>
+            <plain>Скажет солнцем и росой, что ляжет</plain>
+        </string>
+        <string>
+            <plain>На траву серебряной слезой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пусть никто о Боге нам не скажет,</plain>
+        </string>
+        <string>
+            <plain>Пусть не слышен голос нам живой.</plain>
+        </string>
+        <string>
+            <plain>Пишутся прекрасные пейзажи</plain>
+        </string>
+        <string>
+            <plain>Вечного художника рукой.</plain>
+        </string>
+    </verse>
+</song>

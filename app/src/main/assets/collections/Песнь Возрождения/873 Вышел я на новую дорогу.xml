@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="873" name="Вышел я на новую дорогу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вышел я на новую дорогу,</plain>
+        </string>
+        <string>
+            <plain>Предо мной тернистый путь лежит,</plain>
+        </string>
+        <string>
+            <plain>А вдали к небесному чертогу</plain>
+        </string>
+        <string>
+            <plain>Огонек живительный горит.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>За стеной, как волны у прибоя,</plain>
+        </string>
+        <string>
+            <plain>Кто-то страшно стонет и ревет!</plain>
+        </string>
+        <string>
+            <plain>Это он, не знающий покоя,</plain>
+        </string>
+        <string>
+            <plain>Грешный мир меня к себе зовет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Никогда назад я не вернусь,</plain>
+        </string>
+        <string>
+            <plain>Хоть и труден путь мой и далек.</plain>
+        </string>
+        <string>
+            <plain>Никаких препятствий не страшусь я,</plain>
+        </string>
+        <string>
+            <plain>Впереди лишь был бы огонек.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Огонек, живительный и чудный!</plain>
+        </string>
+        <string>
+            <plain>Будь моим невидимым вождем,</plain>
+        </string>
+        <string>
+            <plain>Помоги пройти дорогой трудной,</plain>
+        </string>
+        <string>
+            <plain>Помоги войти мне в Отчий дом.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Расточил я все свое именье</plain>
+        </string>
+        <string>
+            <plain>И таков, как есть, иду к Отцу.</plain>
+        </string>
+        <string>
+            <plain>Но я верю, верю без сомненья</plain>
+        </string>
+        <string>
+            <plain>- Примет Он заблудшую овцу.</plain>
+        </string>
+    </verse>
+</song>

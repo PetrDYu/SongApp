@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1601" name="Приходи Иисус ко мне" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Приходи, Иисус, ко мне.</plain>
+        </string>
+        <string>
+            <plain>Приходи в полночной мгле.</plain>
+        </string>
+        <string>
+            <plain>Приходи, когда в сердце грусть.</plain>
+        </string>
+        <string>
+            <plain>Приходи, когда я страшусь.</plain>
+        </string>
+        <string>
+            <plain>Приходи, когда я молюсь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И, когда Ты придешь ко мне,</plain>
+        </string>
+        <string>
+            <plain>Станет светлым все на земле.</plain>
+        </string>
+        <string>
+            <plain>И страдания полную чашу я</plain>
+        </string>
+        <string>
+            <plain>С радостью приму за Тебя,</plain>
+        </string>
+        <string>
+            <plain>Потому что со мною Ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В этом мире, в безбожной тьме.</plain>
+        </string>
+        <string>
+            <plain>Очень нужен, Иисус, Ты мне.</plain>
+        </string>
+        <string>
+            <plain>Дай мне силы, Создатель, здесь так прожить.</plain>
+        </string>
+        <string>
+            <plain>Чтоб обители вечной я мог достичь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб вовеки с Тобой жить.</plain>
+        </string>
+    </verse>
+</song>

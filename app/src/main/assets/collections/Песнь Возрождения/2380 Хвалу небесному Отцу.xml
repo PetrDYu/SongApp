@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2380" name="Хвалу небесному Отцу" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Хвалу небесному Отцу</plain>
+        </string>
+        <string>
+            <plain>Спешите вознести,</plain>
+        </string>
+        <string>
+            <plain>На землю Сына Он послал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб грешников спасти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Будь благословен!</plain>
+        </string>
+        <string>
+            <plain>Будь благословен!</plain>
+        </string>
+        <string>
+            <plain>Будь благословен наш Господь (2 раза).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он выше всех превознесён,</plain>
+        </string>
+        <string>
+            <plain>С Отцом на троне,</plain>
+        </string>
+        <string>
+            <plain>Он Небесный хор поёт хвалу</plain>
+        </string>
+        <string>
+            <plain>Воскресшему Христу.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Христос - Спаситель, верный друг</plain>
+        </string>
+        <string>
+            <plain>Страдающих люцей</plain>
+        </string>
+        <string>
+            <plain>- Терпел позор и много мук</plain>
+        </string>
+        <string>
+            <plain>За всех, в любви своей.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Советник, Чудный, Мира Князь,</plain>
+        </string>
+        <string>
+            <plain>Владыка всех владык,</plain>
+        </string>
+        <string>
+            <plain>Придёт опять в нежданный час</plain>
+        </string>
+        <string>
+            <plain>- И будет Он велик!</plain>
+        </string>
+    </verse>
+</song>

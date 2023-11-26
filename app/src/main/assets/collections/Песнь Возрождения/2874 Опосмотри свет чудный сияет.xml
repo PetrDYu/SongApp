@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2874" name="Опосмотри свет чудный сияет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О,посмотри: свет чудный сияет</plain>
+        </string>
+        <string>
+            <plain>благословеньем издалека;</plain>
+        </string>
+        <string>
+            <plain>радость собою провозглашая,</plain>
+        </string>
+        <string>
+            <plain>Божья любовь ясна, как звезда.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Взглянь, взглянь,</plain>
+        </string>
+        <string>
+            <plain>он светит тебе;</plain>
+        </string>
+        <string>
+            <plain>взглянь, взглянь,</plain>
+        </string>
+        <string>
+            <plain>он светит и мне!</plain>
+        </string>
+        <string>
+            <plain>О, благодати радостный</plain>
+        </string>
+        <string>
+            <plain>свет сияет всем людям во тьме.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Свет - Иисус, Он всех озаряет</plain>
+        </string>
+        <string>
+            <plain>- радость ли, скорби или печаль.</plain>
+        </string>
+        <string>
+            <plain>Жизнь - Иисус, Он - истина, путь наш,</plain>
+        </string>
+        <string>
+            <plain>к славе ведёт Он нас, к небесам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Взгляд на Христа</plain>
+        </string>
+        <string>
+            <plain>- и скорбь исчезает;</plain>
+        </string>
+        <string>
+            <plain>враг пусть бушует, но власть Его.</plain>
+        </string>
+        <string>
+            <plain>Жизнь отдаю Ему, в Нём укроюсь.</plain>
+        </string>
+    </verse>
+</song>

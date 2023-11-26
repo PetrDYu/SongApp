@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="443" name="Грех победить о желаешь ли ты" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грех победить, о, желаешь ли ты?</plain>
+        </string>
+        <string>
+            <plain>Есть сила  в крови, в крови Христа!</plain>
+        </string>
+        <string>
+            <plain>Сердцем в свободу Христову войти?</plain>
+        </string>
+        <string>
+            <plain>Есть сила - в Его крови.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Сила Божья чудотворная</plain>
+        </string>
+        <string>
+            <plain>В крови Христа!</plain>
+        </string>
+        <string>
+            <plain>Сила Божья чудотворная</plain>
+        </string>
+        <string>
+            <plain>В драгоценной крови Христа.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Хочешь ли гордость и страсть умертвить?</plain>
+        </string>
+        <string>
+            <plain>Есть сила в крови, в крови Христа!</plain>
+        </string>
+        <string>
+            <plain>Может Христос весь твой грех удалить,</plain>
+        </string>
+        <string>
+            <plain>Есть сила - в Его крови.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жаждешь ли снега белее ты быть?</plain>
+        </string>
+        <string>
+            <plain>Есть сила в крови, в крови Христа!</plain>
+        </string>
+        <string>
+            <plain>Кровь Иисуса все может омыть,</plain>
+        </string>
+        <string>
+            <plain>Есть сила - в Его крови.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господу хочешь ли верно служить?</plain>
+        </string>
+        <string>
+            <plain>Есть сила в крови, в крови Христа!</plain>
+        </string>
+        <string>
+            <plain>Жизнью, устами Иисуса хвалить,</plain>
+        </string>
+        <string>
+            <plain>Есть сила - в Его крови.</plain>
+        </string>
+    </verse>
+</song>

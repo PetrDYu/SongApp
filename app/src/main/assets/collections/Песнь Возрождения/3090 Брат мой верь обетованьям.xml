@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3090" name="Брат мой верь обетованьям" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Брат мой, верь обетованьям</plain>
+        </string>
+        <string>
+            <plain>и маловерным не будь!</plain>
+        </string>
+        <string>
+            <plain>Ты побори все сомненья,</plain>
+        </string>
+        <string>
+            <plain>в истине Божьей пребудь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Братья, сёстры, молитесь,</plain>
+        </string>
+        <string>
+            <plain>возьмите веры щит!</plain>
+        </string>
+        <string>
+            <plain>Всё, что просите,</plain>
+        </string>
+        <string>
+            <plain>будет - истина устоит!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сам Искупитель в страданьях</plain>
+        </string>
+        <string>
+            <plain>долг за тебя заплатил.</plain>
+        </string>
+        <string>
+            <plain>Брат мой, верь обетованьям,</plain>
+        </string>
+        <string>
+            <plain>враг чтоб тебя не смутил.</plain>
+        </string>
+        <string>
+            <plain>З Всё, в чём нужду ты имеешь,</plain>
+        </string>
+        <string>
+            <plain>к трону Отца принеси.</plain>
+        </string>
+        <string>
+            <plain>Верь, что тебя Он услышит</plain>
+        </string>
+        <string>
+            <plain>- обетованья верны.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Брат, тебе небо открыто;</plain>
+        </string>
+        <string>
+            <plain>видишь: святые дары.</plain>
+        </string>
+        <string>
+            <plain>Просишь - дано тебе будет</plain>
+        </string>
+        <string>
+            <plain>всё, что во благо души!</plain>
+        </string>
+    </verse>
+</song>

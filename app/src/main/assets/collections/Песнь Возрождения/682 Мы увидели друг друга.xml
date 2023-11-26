@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="682" name="Мы увидели друг друга" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы увидели друг друга,</plain>
+        </string>
+        <string>
+            <plain>В этом дивный есть бальзам,</plain>
+        </string>
+        <string>
+            <plain>Исцеленье от недуга,</plain>
+        </string>
+        <string>
+            <plain>Укрепление сердцам.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всем привет вам, всем привет вам,</plain>
+        </string>
+        <string>
+            <plain>Братьям, сестрам, всем привет.</plain>
+        </string>
+        <string>
+            <plain>Здесь мы в сладостном общенье</plain>
+        </string>
+        <string>
+            <plain>За Христом пойдем вослед.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Сердце полно восхищенья</plain>
+        </string>
+        <string>
+            <plain>И восторгом дышит грудь,</plain>
+        </string>
+        <string>
+            <plain>В дивном сладостном общенье</plain>
+        </string>
+        <string>
+            <plain>Здесь мы можем отдохнуть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Что за счастье, что за радость</plain>
+        </string>
+        <string>
+            <plain>Вечно пребывать с Христом,</plain>
+        </string>
+        <string>
+            <plain>Там, где все сердца в согласьи</plain>
+        </string>
+        <string>
+            <plain>И в любви ликуют в Нем!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Наше счастье неземное</plain>
+        </string>
+        <string>
+            <plain>Выше всех даров земли</plain>
+        </string>
+        <string>
+            <plain>И общенье дорогое.</plain>
+        </string>
+        <string>
+            <plain>Возликуем сердцем мы!</plain>
+        </string>
+    </verse>
+</song>

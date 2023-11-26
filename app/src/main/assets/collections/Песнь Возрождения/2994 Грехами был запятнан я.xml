@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2994" name="Грехами был запятнан я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Грехами был запятнан я,</plain>
+        </string>
+        <string>
+            <plain>- Господь освободил меня;</plain>
+        </string>
+        <string>
+            <plain>и в сердце радость лишь царит,</plain>
+        </string>
+        <string>
+            <plain>белее снега я омыт.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Снега я белее омыт от греха,</plain>
+        </string>
+        <string>
+            <plain>Снега Он белей сделал меня! (2 раза)</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Не сомневаясь говорю,</plain>
+        </string>
+        <string>
+            <plain>что в свете Божьем я хожу;</plain>
+        </string>
+        <string>
+            <plain>мне Слово с каждым днем ясней:</plain>
+        </string>
+        <string>
+            <plain>«Омоет кровь белей, чем снег».</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>От многих в мире слышу я:</plain>
+        </string>
+        <string>
+            <plain>«Жить невозможно без греха».</plain>
+        </string>
+        <string>
+            <plain>Они оправдывают грех,</plain>
+        </string>
+        <string>
+            <plain>но чистит кровь белей, чем снег.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Войди в поток, и он тебя</plain>
+        </string>
+        <string>
+            <plain>очистит от вины греха;</plain>
+        </string>
+        <string>
+            <plain>прошу тебя, иди скорей,</plain>
+        </string>
+        <string>
+            <plain>и снега станешь ты белей!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Кто хочет, пусть придет,</plain>
+        </string>
+        <string>
+            <plain>Он снимет весь греховный гнет.</plain>
+        </string>
+        <string>
+            <plain>Приди к Нему, о, человек,</plain>
+        </string>
+        <string>
+            <plain>омоет Он белей, чем снег!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2668" name="Благодарю Тебя Господь за хлеб" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарю Тебя, Господь, за хлеб,</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя, Господь, за сон,</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя, что вижу свет,</plain>
+        </string>
+        <string>
+            <plain>Благодарю Тебя за подвиг Твой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Благодарение я приношу,</plain>
+        </string>
+        <string>
+            <plain>Тебе, Христос, Благодарение.</plain>
+        </string>
+        <string>
+            <plain>Ты обещал: не будет слез,</plain>
+        </string>
+        <string>
+            <plain>Благодарение, тьма отступила далеко,</plain>
+        </string>
+        <string>
+            <plain>Благодарение, с Тобою мне всегда легко.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Благодарю, что Сына в мир послал,</plain>
+        </string>
+        <string>
+            <plain>Благодарю, что за грехи страдал.</plain>
+        </string>
+        <string>
+            <plain>Благодарю, что спас в Его Крови,</plain>
+        </string>
+        <string>
+            <plain>Благодарю за дар святой любви.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодарю, что счастье мне даешь,</plain>
+        </string>
+        <string>
+            <plain>Что часто на руках меня несешь,</plain>
+        </string>
+        <string>
+            <plain>Чтоб не упасть мне на моем пути,</plain>
+        </string>
+        <string>
+            <plain>Лишь за Собой меня, мой Бог, веди.</plain>
+        </string>
+    </verse>
+</song>

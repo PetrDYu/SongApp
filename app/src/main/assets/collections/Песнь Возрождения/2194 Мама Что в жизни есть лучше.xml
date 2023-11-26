@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2194" name="Мама Что в жизни есть лучше" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мама! Что в жизни есть лучше</plain>
+        </string>
+        <string>
+            <plain>твоей материнской любви?</plain>
+        </string>
+        <string>
+            <plain>Чужд ей покой - она молится, греет,</plain>
+        </string>
+        <string>
+            <plain>В горе спешит мне на помощь прийти. О, мама!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Часто непрошенным гостем стучалось</plain>
+        </string>
+        <string>
+            <plain>злое предчувствие в сердце твое...</plain>
+        </string>
+        <string>
+            <plain>Сколько ты раз до рассвета молилась</plain>
+        </string>
+        <string>
+            <plain>Вечному Богу за счастье мое. О, мама!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Рано ты стала от горя седая,</plain>
+        </string>
+        <string>
+            <plain>Много за жизнь горьких слез пролила,</plain>
+        </string>
+        <string>
+            <plain>сколько нужды и лишений терпела,</plain>
+        </string>
+        <string>
+            <plain>В мире безропотной, кроткой была. О, мама!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Вот уже недолго и вечность желанная</plain>
+        </string>
+        <string>
+            <plain>Сменит суровый твой жизненный путь.</plain>
+        </string>
+        <string>
+            <plain>Там за любовь тебе, многострадальная,</plain>
+        </string>
+        <string>
+            <plain>Ангелы лучший венец поднесут. О, мама!</plain>
+        </string>
+    </verse>
+</song>

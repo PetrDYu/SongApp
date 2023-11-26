@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="411" name="Кто кто сии и кем облечены" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Кто, кто сии и кем облечены</plain>
+        </string>
+        <string>
+            <plain>В светлые ризы снежной белизны?</plain>
+        </string>
+        <string>
+            <plain>Их уста хвалой полны,</plain>
+        </string>
+        <string>
+            <plain>Агнец их кровью омыл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Агнец нас привел в вышний Иерусалим</plain>
+        </string>
+        <string>
+            <plain>И Своей кровью омыл, омыл.</plain>
+        </string>
+        <string>
+            <plain>Мы пребудем вечно в небесной славе с Ним</plain>
+        </string>
+        <string>
+            <plain>Агнец нас кровью омыл!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все это те, кого Христос призвал,</plain>
+        </string>
+        <string>
+            <plain>Все,за кого Он умер и страдал;</plain>
+        </string>
+        <string>
+            <plain>Он их спас и оправдал,</plain>
+        </string>
+        <string>
+            <plain>Агнец их кровью омыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все, все за Агнцем вслед они пошли,</plain>
+        </string>
+        <string>
+            <plain>Все через скорбь великую прошли;</plain>
+        </string>
+        <string>
+            <plain>Но в Нем мир душе нашли;</plain>
+        </string>
+        <string>
+            <plain>Агнец их кровью омыл.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Путь их земной тернистой шел тропой,</plain>
+        </string>
+        <string>
+            <plain>Но Иисус с любовию святой</plain>
+        </string>
+        <string>
+            <plain>Вел их сильною рукой;</plain>
+        </string>
+        <string>
+            <plain>Агнец их кровью омыл.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Всем тем, кто верой в Господа посмел</plain>
+        </string>
+        <string>
+            <plain>В битву вступить средь раскаленных стрел,</plain>
+        </string>
+        <string>
+            <plain>Бог им славу дал в удел,</plain>
+        </string>
+        <string>
+            <plain>Агнец их кровью омыл."</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>В Божьем чертоге вечен их приют,</plain>
+        </string>
+        <string>
+            <plain>Скорбь их забыта, слез они не льют</plain>
+        </string>
+        <string>
+            <plain>И песнь новую поют:</plain>
+        </string>
+        <string>
+            <plain>"Агнец нас кровью омыл!"</plain>
+        </string>
+    </verse>
+</song>

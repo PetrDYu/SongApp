@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2304" name="Пустыней знойной и бесплодною" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пустыней знойной и бесплодною</plain>
+        </string>
+        <string>
+            <plain>Иду я узкого тропой.</plain>
+        </string>
+        <string>
+            <plain>Уж близко, близко моя Родина,</plain>
+        </string>
+        <string>
+            <plain>Меня проводит Дух Святой,</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И если солнце в горы скроется,</plain>
+        </string>
+        <string>
+            <plain>И день и ночь покроет тьмой,</plain>
+        </string>
+        <string>
+            <plain>Вокруг все мглой густой покроется,</plain>
+        </string>
+        <string>
+            <plain>- Мне путь осветит Дух Святой!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Когда враги толпою грозною</plain>
+        </string>
+        <string>
+            <plain>Меня окружат, как стеной,</plain>
+        </string>
+        <string>
+            <plain>В лицо мне смерть дохнет угрозою,</plain>
+        </string>
+        <string>
+            <plain>- Победу даст мне Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Когда в пути к небесной Родине</plain>
+        </string>
+        <string>
+            <plain>Родным я стану, как чужой,</plain>
+        </string>
+        <string>
+            <plain>И если все друзья изменят мне,</plain>
+        </string>
+        <string>
+            <plain>Со мной пребудет Дух Святой!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Когда же все, что здесь имею я,</plain>
+        </string>
+        <string>
+            <plain>Отнимет смерть своей рукой,</plain>
+        </string>
+        <string>
+            <plain>Наследьем тела станет тление,</plain>
+        </string>
+        <string>
+            <plain>- Со мной пребудет Дух Святой!</plain>
+        </string>
+    </verse>
+</song>

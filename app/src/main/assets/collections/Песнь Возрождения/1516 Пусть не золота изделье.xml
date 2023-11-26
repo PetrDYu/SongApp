@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1516" name="Пусть не золота изделье" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Пусть не золота изделье</plain>
+        </string>
+        <string>
+            <plain>И не камень дорогой,</plain>
+        </string>
+        <string>
+            <plain>Пусть не жемчуг, ожерелье</plain>
+        </string>
+        <string>
+            <plain>Украшают, украшают образ твой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Камнем вечности заветной</plain>
+        </string>
+        <string>
+            <plain>С пышным цветом доброты,</plain>
+        </string>
+        <string>
+            <plain>Светом радости, привета</plain>
+        </string>
+        <string>
+            <plain>Украшайся, украшайся в жизни ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>С торжествующим смиреньем,</plain>
+        </string>
+        <string>
+            <plain>С кроткой властию любви</plain>
+        </string>
+        <string>
+            <plain>Будь сама ты украшеньем.</plain>
+        </string>
+        <string>
+            <plain>На восторг, на восторг других живи.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Будь счастлива, разливая</plain>
+        </string>
+        <string>
+            <plain>Счастье мирное вокруг,</plain>
+        </string>
+        <string>
+            <plain>- Вот что хочет, дорогая,</plain>
+        </string>
+        <string>
+            <plain>От тебя, от тебя твой лучший друг.</plain>
+        </string>
+    </verse>
+</song>

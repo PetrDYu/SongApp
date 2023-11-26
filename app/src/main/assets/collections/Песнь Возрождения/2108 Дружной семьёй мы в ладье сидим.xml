@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2108" name="Дружной семьёй мы в ладье сидим" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дружной семьёй мы в ладье сидим,</plain>
+        </string>
+        <string>
+            <plain>О Господе нашем поём, говорим.</plain>
+        </string>
+        <string>
+            <plain>И вёсел удары, и звуки гитары</plain>
+        </string>
+        <string>
+            <plain>Нам вторят, и мы вдоль но глади спешим.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Греби, друг, ладней, греби веселей,</plain>
+        </string>
+        <string>
+            <plain>И песни о радости, ветер, развей,</plain>
+        </string>
+        <string>
+            <plain>Неси их. в прекрасную высь, в небеса,</plain>
+        </string>
+        <string>
+            <plain>А также сердца, где печаль и тоска.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Немало встречаем мы в жизни бурь,</plain>
+        </string>
+        <string>
+            <plain>Но даже тогда видим неба лазурь.</plain>
+        </string>
+        <string>
+            <plain>Спаситель наш с нами,</plain>
+        </string>
+        <string>
+            <plain>Его верим словам Мы молим тогда:</plain>
+        </string>
+        <string>
+            <plain>"Свыше силы нам дай".</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сегодня же тихий погоды час,</plain>
+        </string>
+        <string>
+            <plain>И мы отдыхаем все вместе сейчас.</plain>
+        </string>
+        <string>
+            <plain>Дай, Боже, нам радость вкушать эту сладость</plain>
+        </string>
+        <string>
+            <plain>И в отдыхе нашем пребудь среди нас.</plain>
+        </string>
+    </verse>
+</song>

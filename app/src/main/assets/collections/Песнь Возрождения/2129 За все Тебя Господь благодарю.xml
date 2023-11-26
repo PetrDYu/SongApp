@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2129" name="За все Тебя Господь благодарю" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>За все Тебя, Господь, благодарю,</plain>
+        </string>
+        <string>
+            <plain>Ты после дня тревоги и печали</plain>
+        </string>
+        <string>
+            <plain>Даруешь мне вечернюю зарю,</plain>
+        </string>
+        <string>
+            <plain>Простор полей и кротость синей дали.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я одинок и ныне как всегда,</plain>
+        </string>
+        <string>
+            <plain>Но вот закат разлил свой пышный пламень,</plain>
+        </string>
+        <string>
+            <plain>И. тает в нем вечерняя звезда,</plain>
+        </string>
+        <string>
+            <plain>Дрожа насквозь, как самоцветный камень.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И счастлив я печальною судьбой,</plain>
+        </string>
+        <string>
+            <plain>И есть отрада сладкая в сознаньи,</plain>
+        </string>
+        <string>
+            <plain>Что я один в безмолвном созерцанье,</plain>
+        </string>
+        <string>
+            <plain>Что всем я чужд и говорю с Тобой.</plain>
+        </string>
+        <string>
+            <plain>За все Тебя, Господь, благодарю.</plain>
+        </string>
+    </verse>
+</song>

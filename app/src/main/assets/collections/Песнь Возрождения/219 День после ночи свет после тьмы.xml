@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="219" name="День после ночи свет после тьмы" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>День после ночи, свет после тьмы;</plain>
+        </string>
+        <string>
+            <plain>Тень после зноя, блеск после мглы;</plain>
+        </string>
+        <string>
+            <plain>Жизнь после смерти, песнь после слез</plain>
+        </string>
+        <string>
+            <plain>- Вот что дарует верным Христос!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Радость за горем, луч за дождем.</plain>
+        </string>
+        <string>
+            <plain>Сбор после жатвы, пир за трудом!</plain>
+        </string>
+        <string>
+            <plain>Мир за борьбою, явь после грез –</plain>
+        </string>
+        <string>
+            <plain>Вот что дарует верным Христос!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>После скитанья - милость Отца,</plain>
+        </string>
+        <string>
+            <plain>После страданья - слава венца.</plain>
+        </string>
+        <string>
+            <plain>Сладость покоя - после угроз,</plain>
+        </string>
+        <string>
+            <plain>- Вот что дарует верным Христос!</plain>
+        </string>
+    </verse>
+</song>

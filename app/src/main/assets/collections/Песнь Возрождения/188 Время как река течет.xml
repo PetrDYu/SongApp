@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="188" name="Время как река течет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Время, как река, течет</plain>
+        </string>
+        <string>
+            <plain>Непрестанно все вперед;</plain>
+        </string>
+        <string>
+            <plain>С каждым днем ясней пред мною</plain>
+        </string>
+        <string>
+            <plain>Смерть является с грозою,</plain>
+        </string>
+        <string>
+            <plain>Но я верю всей душой:</plain>
+        </string>
+        <string>
+            <plain>Бог со мною, Бог со мной!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Бог меня своей рукой</plain>
+        </string>
+        <string>
+            <plain>Сам ведет в борьбу со тьмой,</plain>
+        </string>
+        <string>
+            <plain>И в минуты утомленья</plain>
+        </string>
+        <string>
+            <plain>Он дает мне укрепленье;</plain>
+        </string>
+        <string>
+            <plain>И я верю всей душой:</plain>
+        </string>
+        <string>
+            <plain>Бог со мною, Бог со мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вижу я в пути земном</plain>
+        </string>
+        <string>
+            <plain>Искушения вовсем,</plain>
+        </string>
+        <string>
+            <plain>И мне в сердце яд отравы</plain>
+        </string>
+        <string>
+            <plain>Хочет влить наш враг лукавый;</plain>
+        </string>
+        <string>
+            <plain>Но я верю всей душой:</plain>
+        </string>
+        <string>
+            <plain>Бог со мною, Бог со мной.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Не страшусь, когда друзья</plain>
+        </string>
+        <string>
+            <plain>Оставляют вдруг меня</plain>
+        </string>
+        <string>
+            <plain>И гонений ряд суровый</plain>
+        </string>
+        <string>
+            <plain>Возведут за Божье слово;</plain>
+        </string>
+        <string>
+            <plain>Но я верю всей душой:</plain>
+        </string>
+        <string>
+            <plain>Бог со мною, Бог со мной.</plain>
+        </string>
+    </verse>
+</song>

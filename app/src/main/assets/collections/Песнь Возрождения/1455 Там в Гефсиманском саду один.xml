@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1455" name="Там в Гефсиманском саду один" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Там, в Гефсиманском саду один</plain>
+        </string>
+        <string>
+            <plain>Христос боролся в тяжких скорбях,</plain>
+        </string>
+        <string>
+            <plain>Падали капли крови с чела,</plain>
+        </string>
+        <string>
+            <plain>Спали друзья, Христос был один.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мой Победитель над смертью - Христос!</plain>
+        </string>
+        <string>
+            <plain>Освободитель от горя и слез.</plain>
+        </string>
+        <string>
+            <plain>Ты мой хранитель до вечности,</plain>
+        </string>
+        <string>
+            <plain>Только Ты можешь всем мир принести.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот на Голгофу крест Он несет</plain>
+        </string>
+        <string>
+            <plain>И наш позор и бремя несет.</plain>
+        </string>
+        <string>
+            <plain>Если сегодня стоишь во тьме.</plain>
+        </string>
+        <string>
+            <plain>Вспомни: "Свершилось!" - твердит Он тебе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Он и сегодня чудо творит.</plain>
+        </string>
+        <string>
+            <plain>Кровь та святая спасенье дарит.</plain>
+        </string>
+        <string>
+            <plain>Он не оставит вечно тебя.</plain>
+        </string>
+        <string>
+            <plain>Верь этой вести: Христос спас тебя.</plain>
+        </string>
+    </verse>
+</song>

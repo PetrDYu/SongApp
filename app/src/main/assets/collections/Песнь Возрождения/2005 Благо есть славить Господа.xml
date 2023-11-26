@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2005" name="Благо есть славить Господа" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благо есть славить Господа</plain>
+        </string>
+        <string>
+            <plain>И петь имени Твоему Всевышний.</plain>
+        </string>
+        <string>
+            <plain>Возвещать утром милость Твою</plain>
+        </string>
+        <string>
+            <plain>И истину Твою весь день.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты возвеселил душу мою.</plain>
+        </string>
+        <string>
+            <plain>Я Тебе, Господь, пою Хвалу,</plain>
+        </string>
+        <string>
+            <plain>Дела Твой велики, мой Отец</plain>
+        </string>
+        <string>
+            <plain>Ты мой Господь.</plain>
+        </string>
+        <string>
+            <plain>Ты мой Творец</plain>
+        </string>
+        <string>
+            <plain>Ты мой Творец</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Господи - Ты защита моя,</plain>
+        </string>
+        <string>
+            <plain>Ты мой Бог, Ты Твердыня жизни.</plain>
+        </string>
+        <string>
+            <plain>Над землёй, небеса высоко,</plain>
+        </string>
+        <string>
+            <plain>Слава Твоя во веки веков.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возвожу мои очи к горам,</plain>
+        </string>
+        <string>
+            <plain>Взношу мои руки к небу.</plain>
+        </string>
+        <string>
+            <plain>Я познал, что Господь велик мой,</plain>
+        </string>
+        <string>
+            <plain>Что милость Его над всей землёй.</plain>
+        </string>
+    </verse>
+</song>

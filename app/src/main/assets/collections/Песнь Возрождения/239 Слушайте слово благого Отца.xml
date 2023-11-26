@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="239" name="Слушайте слово благого Отца" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Слушайте слово благого Отца;</plain>
+        </string>
+        <string>
+            <plain>Оно вам очистит сердца.</plain>
+        </string>
+        <string>
+            <plain>Вторите за мной, уповая вполне:</plain>
+        </string>
+        <string>
+            <plain>"Ныне спасение мне!"</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Если краснее, чем пурпур вина,</plain>
+        </string>
+        <string>
+            <plain>Грехами душа сражена,</plain>
+        </string>
+        <string>
+            <plain>С верою вы говорите себе:</plain>
+        </string>
+        <string>
+            <plain>"Ныне спасение мне!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если вам мир искушеньем грозит</plain>
+        </string>
+        <string>
+            <plain>И недруг вам сердце мутит,</plain>
+        </string>
+        <string>
+            <plain>То вы взывайте без страха в душе:</plain>
+        </string>
+        <string>
+            <plain>"Ныне спасение мне!"</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если вам слезы, заботы, нужда</plain>
+        </string>
+        <string>
+            <plain>Печалят ваш дух иногда,</plain>
+        </string>
+        <string>
+            <plain>Вы говорите, взглянув к вышине:</plain>
+        </string>
+        <string>
+            <plain>"Ныне спасение мне!"</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Если пойдете вы мрачным путем,</plain>
+        </string>
+        <string>
+            <plain>Воспойте с святым торжеством:</plain>
+        </string>
+        <string>
+            <plain>"К славным идем мы небесным краям,</plain>
+        </string>
+        <string>
+            <plain>Ныне спасение нам!"</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="399" name="Бог посылает все для нас Я так счастлив" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог посылает все для нас. Я так счастлив!</plain>
+        </string>
+        <string>
+            <plain>Свет солнца, дождик в нужный час. Я так счастлив!</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Люблю я травку и цветы, деревья, кустики, сады.</plain>
+        </string>
+        <string>
+            <plain>На них прекрасные плоды. Я так счастлив!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Господь заботится о мне. Я так счастлив!</plain>
+        </string>
+        <string>
+            <plain>На небе дом готовит мне. Я так счастлив!</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Там все прекрасней и милей. Там сделан сад.</plain>
+        </string>
+        <string>
+            <plain>Простор полей Бог даст по милости Своей.</plain>
+        </string>
+        <string>
+            <plain>Я так счастлив!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

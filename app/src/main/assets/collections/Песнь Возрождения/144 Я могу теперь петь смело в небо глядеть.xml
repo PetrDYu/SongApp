@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="144" name="Я могу теперь петь смело в небо глядеть" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Я могу теперь петь, смело в небо глядеть;</plain>
+        </string>
+        <string>
+            <plain>Наступила в душе тишина.</plain>
+        </string>
+        <string>
+            <plain>Тьма сомнений ушла, раздается хвала:</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа искупила меня!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Искупил Он меня,</plain>
+        </string>
+        <string>
+            <plain>Искупил и хранит в свете дня. Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>И в небесном раю эту песню спою:</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа искупила меня.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я живу со Христом и борюся с грехом,</plain>
+        </string>
+        <string>
+            <plain>Не страшусь лютой битвы огня.</plain>
+        </string>
+        <string>
+            <plain>Бог дает благодать грех и зло побеждать:</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа искупила меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жизни хлеб Он дает и в пути бережет,</plain>
+        </string>
+        <string>
+            <plain>Утешает, Собой осеня.</plain>
+        </string>
+        <string>
+            <plain>Врач недугов моих, клад сокровищ живых.</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа искупила меня!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если встречу грозу, на Иисуса гляжу,</plain>
+        </string>
+        <string>
+            <plain>В Нем надежда и крепость моя.</plain>
+        </string>
+        <string>
+            <plain>Враг живет в темноте, я сокрыт во Христе.</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа искупила меня.</plain>
+        </string>
+    </verse>
+</song>

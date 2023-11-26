@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="591" name="Полный благости полный радости" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Полный благости, полный радости</plain>
+        </string>
+        <string>
+            <plain>Благодатный день Рождества!</plain>
+        </string>
+        <string>
+            <plain>Мир грехом томился, вот Христос родился,</plain>
+        </string>
+        <string>
+            <plain>Верующим всем день торжества!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Полный благости, полный радости.</plain>
+        </string>
+        <string>
+            <plain>Благодатный день Рождества!</plain>
+        </string>
+        <string>
+            <plain>Силы неземные, песни дорогие</plain>
+        </string>
+        <string>
+            <plain>Возвещают всем день торжества!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Полный благости, полный радости.</plain>
+        </string>
+        <string>
+            <plain>Благодатный день Рождества!</plain>
+        </string>
+        <string>
+            <plain>Людям дан Спаситель, С Богом Примиритель.</plain>
+        </string>
+        <string>
+            <plain>Радуйтесь, настал день торжества!</plain>
+        </string>
+    </verse>
+</song>

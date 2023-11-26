@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2078" name="Года как река большая" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Года как река большая,</plain>
+        </string>
+        <string>
+            <plain>Всё спешат куда-то, всё летят.</plain>
+        </string>
+        <string>
+            <plain>Поседела голова у папы,</plain>
+        </string>
+        <string>
+            <plain>Тяжелее дышит мать.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Богу жизнь свою отдали,</plain>
+        </string>
+        <string>
+            <plain>Духом молодые стали.</plain>
+        </string>
+        <string>
+            <plain>Кто с Иисусом, твёрдо знаю,</plain>
+        </string>
+        <string>
+            <plain>Может даже годы не считать.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Года всем даны от Бога,</plain>
+        </string>
+        <string>
+            <plain>Придёт время и дадим отчёт.</plain>
+        </string>
+        <string>
+            <plain>Но не властна надо мной тревога,</plain>
+        </string>
+        <string>
+            <plain>Потому что я с Тобой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Года, я одно желаю:</plain>
+        </string>
+        <string>
+            <plain>Пусть ваш торопливый бег</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос благословляет,</plain>
+        </string>
+        <string>
+            <plain>Пусть горит в вас Божий свет.</plain>
+        </string>
+    </verse>
+</song>

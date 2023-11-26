@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2538" name="Той чудной вести твердо верю я" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Той чудной вести твердо верю я,</plain>
+        </string>
+        <string>
+            <plain>Что страдал, умер за меня Иисус,</plain>
+        </string>
+        <string>
+            <plain>С Ним умер я ныне для греха,</plain>
+        </string>
+        <string>
+            <plain>И в знак того по вере я крещусь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Умер для греха; Жить чтоб для Христа!</plain>
+        </string>
+        <string>
+            <plain>(Умер, умер для греха; Жить всегда чтоб для Христа!)</plain>
+        </string>
+        <string>
+            <plain>Чтоб всегда во мне Христос был виден,</plain>
+        </string>
+        <string>
+            <plain>О, Дух Святой, Будь всегда (будь всегда) со мной.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Там на кресте лилась святая Кровь,</plain>
+        </string>
+        <string>
+            <plain>Ею грех мой омыт и я спасен,</plain>
+        </string>
+        <string>
+            <plain>Все, все совершила та любовь,</plain>
+        </string>
+        <string>
+            <plain>По милости я чадом наречен.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Во всем Христу хочу я подражать</plain>
+        </string>
+        <string>
+            <plain>И всегда по Его стопам ходить.</plain>
+        </string>
+        <string>
+            <plain>Чтоб имя Иисуса прославлять,</plain>
+        </string>
+        <string>
+            <plain>Лишь для того хочу отныне жить.</plain>
+        </string>
+    </verse>
+</song>

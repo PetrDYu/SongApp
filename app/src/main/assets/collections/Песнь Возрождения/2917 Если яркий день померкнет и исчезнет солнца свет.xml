@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2917" name="Если яркий день померкнет и исчезнет солнца свет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если яркий день померкнет и исчезнет солнца свет,</plain>
+        </string>
+        <string>
+            <plain>если жизнь пройдёт земная, - смолкнет наша песнь иль нет?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О, мы будем петь там песни со святыми без числа!</plain>
+        </string>
+        <string>
+            <plain>И в отчизне той не смолкнут наши песни никогда!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Если в хижине телесной Бог песнь звучит в сердцах,</plain>
+        </string>
+        <string>
+            <plain>- о тогда какое пенье мы услышим в небесах!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если здесь мы прославляем подвиг Господа Христа,</plain>
+        </string>
+        <string>
+            <plain>- возликуют наши души в небесах. Аллилуйя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>О, как дорог нам Спаситель, рады быть детьми Его!</plain>
+        </string>
+        <string>
+            <plain>И любить сердечней будем, видя лик святой Его.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Честь и слава Иисусу за любовь и благодать!</plain>
+        </string>
+        <string>
+            <plain>Скоро чудеса Господни будем в небе прославлять.</plain>
+        </string>
+    </verse>
+</song>

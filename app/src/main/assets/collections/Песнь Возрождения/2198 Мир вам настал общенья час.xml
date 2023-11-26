@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2198" name="Мир вам настал общенья час" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мир вам, настал общенья час.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, мы приветствуем вас.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, пусть будет слышен смех детей,</plain>
+        </string>
+        <string>
+            <plain>Мир вам и больше радостных дней.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, сердца пусть будут добрей,</plain>
+        </string>
+        <string>
+            <plain>Мир вам, вы не судите людей.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, и вашим близким и друзьям,</plain>
+        </string>
+        <string>
+            <plain>Мир, братья, сёстры, вам!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мир вам., братья, сёстры,</plain>
+        </string>
+        <string>
+            <plain>Мир вам! Так же просто вы говорите всем друзьям.</plain>
+        </string>
+        <string>
+            <plain>Мир вам и с любовью</plain>
+        </string>
+        <string>
+            <plain>Счастья и здоровья.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, братья, сёстры, вам.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мир вам, и пусть Господь вас хранит.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, пусть крепче дом ваш стоит.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, пусть крепнет вера каждый час.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, пусть враг отступит от вас.</plain>
+        </string>
+        <string>
+            <plain>"Мир вам", - мы говорим в этот час.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, злой дух покинет пусть вас.</plain>
+        </string>
+        <string>
+            <plain>Мир вам, конца не будет вашим дням.</plain>
+        </string>
+        <string>
+            <plain>Мир братья, сёстры, вам!</plain>
+        </string>
+    </verse>
+</song>

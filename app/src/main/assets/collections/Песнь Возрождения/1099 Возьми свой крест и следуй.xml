@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1099" name="Возьми свой крест и следуй" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Возьми свой крест и следуй</plain>
+        </string>
+        <string>
+            <plain>В путь узкий за Христом.</plain>
+        </string>
+        <string>
+            <plain>Идя за Ним, не сетуй.</plain>
+        </string>
+        <string>
+            <plain>Не плачь ты под крестом.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Стремись путь к вечной жизни</plain>
+        </string>
+        <string>
+            <plain>Пройти ты до конца.</plain>
+        </string>
+        <string>
+            <plain>Тогда войдешь в Отчизну,</plain>
+        </string>
+        <string>
+            <plain>заветный дом Отца.</plain>
+        </string>
+    </verse>
+</song>

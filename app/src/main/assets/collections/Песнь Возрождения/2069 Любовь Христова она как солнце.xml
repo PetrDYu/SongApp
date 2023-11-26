@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2069" name="Любовь Христова она как солнце" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Любовь Христова... она как солнце,</plain>
+        </string>
+        <string>
+            <plain>Что светит в небе над всей землей.</plain>
+        </string>
+        <string>
+            <plain>Любовь Христова... что поравняться</plain>
+        </string>
+        <string>
+            <plain>Могло бы в мире с любовью той?</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь святая - любовь Христа,</plain>
+        </string>
+        <string>
+            <plain>Она повсюду со мной была,</plain>
+        </string>
+        <string>
+            <plain>Когда я падал, бесчетно поднимала</plain>
+        </string>
+        <string>
+            <plain>И снова к небу меня вела.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Любовь Христова... там, на Голгофе,</plain>
+        </string>
+        <string>
+            <plain>Страдал Спаситель за грешных нас.</plain>
+        </string>
+        <string>
+            <plain>Любовь Христова... в оковах тяжких</plain>
+        </string>
+        <string>
+            <plain>От страшной боли Христос нас спас.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Любовь Христова... она и сегодня</plain>
+        </string>
+        <string>
+            <plain>К тебе все ближе, приди теперь.</plain>
+        </string>
+        <string>
+            <plain>Приди к Иисусу, вперед стремись ты,</plain>
+        </string>
+        <string>
+            <plain>Пока открыта спасенья дверь.</plain>
+        </string>
+    </verse>
+</song>

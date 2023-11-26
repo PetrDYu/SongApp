@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2155" name="Ищите Бога ищите слёзно" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Ищите Бога, ищите слёзно,</plain>
+        </string>
+        <string>
+            <plain>Ищите, люди, пока не поздно.</plain>
+        </string>
+        <string>
+            <plain>И днём, и ночью, в жару и в стужу</plain>
+        </string>
+        <string>
+            <plain>Ищите Бога, Он сердцу нужен.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ищите всюду, ищите каждый,</plain>
+        </string>
+        <string>
+            <plain>И вы найдёте Его однажды.</plain>
+        </string>
+        <string>
+            <plain>И будет радость превыше неба,</plain>
+        </string>
+        <string>
+            <plain>Но так ищите, как ищут хлеба.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ищите Бога, ищите слёзно,</plain>
+        </string>
+        <string>
+            <plain>Ищите, люди, пока не поздно.</plain>
+        </string>
+        <string>
+            <plain>И днём, и ночью, в жару и в стужу</plain>
+        </string>
+        <string>
+            <plain>Ищите Бога, Он сердцу нужен.</plain>
+        </string>
+        <string>
+            <plain>И будет радость превыше неба,</plain>
+        </string>
+        <string>
+            <plain>Но так ищите, как ищут хлеба.</plain>
+        </string>
+    </verse>
+</song>

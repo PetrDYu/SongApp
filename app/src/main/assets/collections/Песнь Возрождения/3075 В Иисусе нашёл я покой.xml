@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3075" name="В Иисусе нашёл я покой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>В Иисусе нашёл я покой</plain>
+        </string>
+        <string>
+            <plain>от горя, страданий и слёз.</plain>
+        </string>
+        <string>
+            <plain>Он с миром ко мне снизошёл,</plain>
+        </string>
+        <string>
+            <plain>и счастье я в Боге обрёл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Как блажен я с Христом!</plain>
+        </string>
+        <string>
+            <plain>Я к Нему пришёл</plain>
+        </string>
+        <string>
+            <plain>и счастье нашёл.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я шёл за спасеньем к Нему,</plain>
+        </string>
+        <string>
+            <plain>подавленным тяжким грехом,</plain>
+        </string>
+        <string>
+            <plain>и Он дал мне новую жизнь.</plain>
+        </string>
+        <string>
+            <plain>Как счастлив сегодня я в Нём!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если я здесь искушён,</plain>
+        </string>
+        <string>
+            <plain>с Ним будет победа моя.</plain>
+        </string>
+        <string>
+            <plain>Пока я преследую цель,</plain>
+        </string>
+        <string>
+            <plain>со мной Он везде и всегда.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисусу хвалу приношу:</plain>
+        </string>
+        <string>
+            <plain>Он спас Своей кровью меня.</plain>
+        </string>
+        <string>
+            <plain>Познал я, как благ мой Господь,</plain>
+        </string>
+        <string>
+            <plain>теперь я Его навсегда.</plain>
+        </string>
+    </verse>
+</song>

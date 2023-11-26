@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="554" name="Если тяжесть нам на сердце ляжет" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Если тяжесть нам на сердце ляжет,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Если горе давит нас и морит,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу о всем.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу!</plain>
+        </string>
+        <string>
+            <plain>Он нам спасенье принес.</plain>
+        </string>
+        <string>
+            <plain>Нет другого ближнего такого,</plain>
+        </string>
+        <string>
+            <plain>Как наш Спаситель Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Слез потоки обжигают щеки,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Грех ли тайный мучит постоянно,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу о всем.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Скорбь земная душу ль угнетает,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу,</plain>
+        </string>
+        <string>
+            <plain>Иль заботы тянут от работы,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу о всем.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Смерти ль тени вносят мрак сомнений,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу, скажем Иисусу.</plain>
+        </string>
+        <string>
+            <plain>Иль вздыхаем о Господней славе,</plain>
+        </string>
+        <string>
+            <plain>Скажем Иисусу о всем.</plain>
+        </string>
+    </verse>
+</song>

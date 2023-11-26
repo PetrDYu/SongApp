@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="629" name="Свершилось чудо из чудес" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Свершилось чудо из чудес:</plain>
+        </string>
+        <string>
+            <plain>Нет Христа во гробе - Он воскрес.</plain>
+        </string>
+        <string>
+            <plain>О, поспешите возвестить</plain>
+        </string>
+        <string>
+            <plain>Ту весть благую всем, всем открыть.</plain>
+        </string>
+        <string>
+            <plain>Народы, люди, Бог радость вам лал:</plain>
+        </string>
+        <string>
+            <plain>Христос, который во гробе лежал,-</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Всю темную силу Сын Божий попрал,</plain>
+        </string>
+        <string>
+            <plain>Победу над адом, над смертью Он одержал;</plain>
+        </string>
+        <string>
+            <plain>Ликуй, народ, Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Он воскрес!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ради нас Он умер и воскрес,</plain>
+        </string>
+        <string>
+            <plain>Распахнул для нас врата небес.</plain>
+        </string>
+        <string>
+            <plain>Его любовь для всех горит,</plain>
+        </string>
+        <string>
+            <plain>Над смертными теперь жизнь царит,</plain>
+        </string>
+        <string>
+            <plain>Спасенье, радость: Спаситель Христос</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Он воскрес! Он из мертвых воскрес!</plain>
+        </string>
+        <string>
+            <plain>Всю темную силу Сын Божий попрал,</plain>
+        </string>
+        <string>
+            <plain>Победу над адом, над смертью Он одержал;</plain>
+        </string>
+        <string>
+            <plain>Ликуй, народ: Христос воскрес,</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, Он воскрес!</plain>
+        </string>
+    </chorus>
+</song>

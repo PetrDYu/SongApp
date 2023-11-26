@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2083" name="Господь наставь меня" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Господь, наставь меня,</plain>
+        </string>
+        <string>
+            <plain>Сам не способен я,</plain>
+        </string>
+        <string>
+            <plain>Но полагаюсь на Тебя</plain>
+        </string>
+        <string>
+            <plain>Вдали я от Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я праведно живу,</plain>
+        </string>
+        <string>
+            <plain>Когда вблизи Тебя.</plain>
+        </string>
+        <string>
+            <plain>Я сердцем согрешать могу,</plain>
+        </string>
+        <string>
+            <plain>Ты поддержи меня.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, дай мне веровать</plain>
+        </string>
+        <string>
+            <plain>В премудрые дела,</plain>
+        </string>
+        <string>
+            <plain>Всем сердцем я познать хочу,</plain>
+        </string>
+        <string>
+            <plain>Заслуга лишь Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты сердце поддержи,</plain>
+        </string>
+        <string>
+            <plain>Не дай ему роптать,</plain>
+        </string>
+        <string>
+            <plain>Твоим путём меня веди,</plain>
+        </string>
+        <string>
+            <plain>В раю дай пребывать.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1213" name="Будем сеять утром" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Будем сеять утром.</plain>
+        </string>
+        <string>
+            <plain>Сеять Слово Божье</plain>
+        </string>
+        <string>
+            <plain>В полдень и к закату</plain>
+        </string>
+        <string>
+            <plain>Солнца над землей;</plain>
+        </string>
+        <string>
+            <plain>Будем ждать и жатвы,</plain>
+        </string>
+        <string>
+            <plain>Сбора урожая,</plain>
+        </string>
+        <string>
+            <plain>С радостию вместе понесем снопы.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Понесем снопы, понесем снопы,</plain>
+        </string>
+        <string>
+            <plain>С радостию вместе понесем снопы.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>В ясную ль погоду</plain>
+        </string>
+        <string>
+            <plain>Иль во дни ненастья,</plain>
+        </string>
+        <string>
+            <plain>Будь ли то во время</plain>
+        </string>
+        <string>
+            <plain>Бури и дождя,</plain>
+        </string>
+        <string>
+            <plain>Мы не устрашимся.</plain>
+        </string>
+        <string>
+            <plain>Соберем мы жатву,</plain>
+        </string>
+        <string>
+            <plain>С радостию вместе понесем снопы.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Будем со слезами</plain>
+        </string>
+        <string>
+            <plain>Сеять для Иисуса,</plain>
+        </string>
+        <string>
+            <plain>Хоть и грудь порою</plain>
+        </string>
+        <string>
+            <plain>Дышит тяжело;</plain>
+        </string>
+        <string>
+            <plain>Скоро час настанет,</plain>
+        </string>
+        <string>
+            <plain>Жатва вся созреет,</plain>
+        </string>
+        <string>
+            <plain>С радостию вместе понесем снопы.</plain>
+        </string>
+    </verse>
+</song>

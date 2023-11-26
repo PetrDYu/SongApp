@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1034" name="Стоишь на пороге ты в вечность" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Стоишь на пороге ты в вечность.</plain>
+        </string>
+        <string>
+            <plain>Зовет тебя счастье: "Приди!"</plain>
+        </string>
+        <string>
+            <plain>Но мир так красив и так манит.</plain>
+        </string>
+        <string>
+            <plain>Как будто цветы на пути.</plain>
+        </string>
+        <string>
+            <plain>А змей, укрываясь цветами,</plain>
+        </string>
+        <string>
+            <plain>В них жало свое притаил.</plain>
+        </string>
+        <string>
+            <plain>Он ловок, чарует грехами.</plain>
+        </string>
+        <string>
+            <plain>Но ты отвечай ему: "Нет!"</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Но ты отвечай ему: "Нет!"</plain>
+        </string>
+        <string>
+            <plain>Хотя бы красивым был цвет.</plain>
+        </string>
+        <string>
+            <plain>Цветы, о цветы! Не рви их, не рви!</plain>
+        </string>
+        <string>
+            <plain>Но дальше и дальше иди!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друзья так прекрасны порою,</plain>
+        </string>
+        <string>
+            <plain>И сладки слова их любви.</plain>
+        </string>
+        <string>
+            <plain>Но часто горячей слезою</plain>
+        </string>
+        <string>
+            <plain>Омоешь ресницы твои.</plain>
+        </string>
+        <string>
+            <plain>И если друзья искушают</plain>
+        </string>
+        <string>
+            <plain>Ходить там, где нету Христа,</plain>
+        </string>
+        <string>
+            <plain>Пусть розами путь устилают.</plain>
+        </string>
+        <string>
+            <plain>Но ты отвечай только: "Нет!"</plain>
+        </string>
+    </verse>
+    <chorus number="2">
+        <string>
+            <plain>Твой друг, лучший друг - Иисус!</plain>
+        </string>
+        <string>
+            <plain>Иди с Ним куда Он зовет.</plain>
+        </string>
+        <string>
+            <plain>Он радость твою и горе поймет,</plain>
+        </string>
+        <string>
+            <plain>Иди с Ним, куда Он зовет.</plain>
+        </string>
+    </chorus>
+    <verse number="3">
+        <string>
+            <plain>Когда твое сердце наполнит</plain>
+        </string>
+        <string>
+            <plain>Святой Дух и Дивный Христос,</plain>
+        </string>
+        <string>
+            <plain>Иди в мир с оружием веры.</plain>
+        </string>
+        <string>
+            <plain>Не бойся - все зло победишь!</plain>
+        </string>
+        <string>
+            <plain>Но если хоть капля сомненья</plain>
+        </string>
+        <string>
+            <plain>Таится в душе у тебя.</plain>
+        </string>
+        <string>
+            <plain>Ты громко ответь с дерзновеньем:</plain>
+        </string>
+        <string>
+            <plain>"В Иисусе победа моя!"</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Борьба со грехом тяжела,</plain>
+        </string>
+        <string>
+            <plain>сомненья так трудно прогнать.</plain>
+        </string>
+        <string>
+            <plain>Но только борьба к победе ведет,</plain>
+        </string>
+        <string>
+            <plain>О воин Христа, твердо стой!</plain>
+        </string>
+    </chorus>
+</song>

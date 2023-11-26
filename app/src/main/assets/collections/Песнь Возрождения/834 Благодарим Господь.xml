@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="834" name="Благодарим Господь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>За Иисуса из Назарета</plain>
+        </string>
+        <string>
+            <plain>И что Его Ты к нам послал.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>За спасенье, за исцеленье</plain>
+        </string>
+        <string>
+            <plain>И что грехи Ты нам простил.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>За терпенье, за Крест мученья</plain>
+        </string>
+        <string>
+            <plain>И что за нас Ты пострадал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>За страданья, за испытанья</plain>
+        </string>
+        <string>
+            <plain>И что Ты в жизни нам даешь.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>Благодарим, Господь</plain>
+        </string>
+        <string>
+            <plain>За дар жизни в Вечной Отчизне</plain>
+        </string>
+        <string>
+            <plain>И что туда Ты нас ведешь.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="888" name="Дайте мне Библию Святое Слово" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Дайте мне Библию, Святое Слово,</plain>
+        </string>
+        <string>
+            <plain>Для радости мне, страннику в пути.</plain>
+        </string>
+        <string>
+            <plain>Оно мне в сердце живо, мило, ново,</plain>
+        </string>
+        <string>
+            <plain>Когда Христос пришел меня спасти.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Обет, любовь, закон, завет</plain>
+        </string>
+        <string>
+            <plain>Предвечный, даруй мне</plain>
+        </string>
+        <string>
+            <plain>Сохранить до вечности.</plain>
+        </string>
+        <string>
+            <plain>Дайте мне Библию,</plain>
+        </string>
+        <string>
+            <plain>Бальзам сердечный в ней.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Дайте мне Библию, когда я болен.</plain>
+        </string>
+        <string>
+            <plain>Прочесть то слово утешения.</plain>
+        </string>
+        <string>
+            <plain>Когда я страхом сильно переполнен,</plain>
+        </string>
+        <string>
+            <plain>Хочу я в ней найти спасение.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дайте мне Библию, источник света,</plain>
+        </string>
+        <string>
+            <plain>Дабы мог видеть я стезю мою,</plain>
+        </string>
+        <string>
+            <plain>И жить в согласии ее совета,</plain>
+        </string>
+        <string>
+            <plain>И, наконец, обресть жизнь вечную.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дайте мне Библию, светильник правды,</plain>
+        </string>
+        <string>
+            <plain>Чтоб я вести мог верно жизнь свою.</plain>
+        </string>
+        <string>
+            <plain>Пройдя же Иордан, реку преграды,</plain>
+        </string>
+        <string>
+            <plain>Войти в страну мне Ханаанскую.</plain>
+        </string>
+    </verse>
+</song>

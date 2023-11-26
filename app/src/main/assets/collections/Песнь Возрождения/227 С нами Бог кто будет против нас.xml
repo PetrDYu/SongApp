@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="227" name="С нами Бог кто будет против нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>С нами Бог, кто будет против нас,</plain>
+        </string>
+        <string>
+            <plain>С нами Бог, кто будет против нас, с нами Бог!</plain>
+        </string>
+        <string>
+            <plain>С нами Бог, кто будет против нас, -</plain>
+        </string>
+        <string>
+            <plain>Так Апостол Павел нам сказал!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Се, Я с вами буду каждый день,</plain>
+        </string>
+        <string>
+            <plain>Се, Я с вами буду каждый день, каждый день,</plain>
+        </string>
+        <string>
+            <plain>Се, Я с вами буду каждый день, -</plain>
+        </string>
+        <string>
+            <plain>Так Господь Спаситель наш сказал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Кровь Христа смывает всякий грех,</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа смывает всякий грех, всякий грех,</plain>
+        </string>
+        <string>
+            <plain>Кровь Христа смывает всякий грех, -</plain>
+        </string>
+        <string>
+            <plain>Так Апостол Иоанн сказал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Дать Святого Духа обещал,</plain>
+        </string>
+        <string>
+            <plain>Дать Святого Духа нам Господь обещал,</plain>
+        </string>
+        <string>
+            <plain>Дать Святого Духа обещал, -</plain>
+        </string>
+        <string>
+            <plain>Иоиль-пророк так предсказал.</plain>
+        </string>
+    </verse>
+</song>

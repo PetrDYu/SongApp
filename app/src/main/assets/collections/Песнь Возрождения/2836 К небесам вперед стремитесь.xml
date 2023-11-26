@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2836" name="К небесам вперед стремитесь" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>К небесам вперед стремитесь</plain>
+        </string>
+        <string>
+            <plain>в битве, воины Христа!</plain>
+        </string>
+        <string>
+            <plain>Ждет награда нас большая,</plain>
+        </string>
+        <string>
+            <plain>и победа уж близка.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя! Гимн победы пусть</plain>
+        </string>
+        <string>
+            <plain>звучит в борьбе с врагом!</plain>
+        </string>
+        <string>
+            <plain>Нам венцы победы в небе</plain>
+        </string>
+        <string>
+            <plain>приготовлены Христом!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Меч возьмите, бейтесь смело,</plain>
+        </string>
+        <string>
+            <plain>будьте бодры вы в мольбе</plain>
+        </string>
+        <string>
+            <plain>и не падайте вы духом,</plain>
+        </string>
+        <string>
+            <plain>но вперед стремитесь все!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пленных вы освобождайте,</plain>
+        </string>
+        <string>
+            <plain>мир оставьте позади;</plain>
+        </string>
+        <string>
+            <plain>стойте в вере без сомнений,</plain>
+        </string>
+        <string>
+            <plain>счастье ждет нас впереди!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>«К небесам вперед!» - наш лозунг</plain>
+        </string>
+        <string>
+            <plain>будет до конца времен.</plain>
+        </string>
+        <string>
+            <plain>Будем мы в небесном царстве</plain>
+        </string>
+        <string>
+            <plain>вечно царствовать с Христом.</plain>
+        </string>
+    </verse>
+</song>

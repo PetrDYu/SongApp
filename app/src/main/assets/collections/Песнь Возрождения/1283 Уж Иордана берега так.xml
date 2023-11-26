@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1283" name="Уж Иордана берега так" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Уж Иордана берега так</plain>
+        </string>
+        <string>
+            <plain>ясно видны мне.</plain>
+        </string>
+        <string>
+            <plain>Родная ты моя страна,</plain>
+        </string>
+        <string>
+            <plain>тебя узрю вполне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Уж скоро челн - у пристани,</plain>
+        </string>
+        <string>
+            <plain>бури где нет, ни волн.</plain>
+        </string>
+        <string>
+            <plain>Проходит мгла, светлеют дни.</plain>
+        </string>
+        <string>
+            <plain>Туда придёт мой челн.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Уж издали твой берег мне</plain>
+        </string>
+        <string>
+            <plain>Блаженный мир несет.</plain>
+        </string>
+        <string>
+            <plain>Вещает он о той стране,</plain>
+        </string>
+        <string>
+            <plain>Где солнце не зайдет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, берег чудный, берег мой.</plain>
+        </string>
+        <string>
+            <plain>Как я стремлюсь к тебе.</plain>
+        </string>
+        <string>
+            <plain>Родной достигну город свой</plain>
+        </string>
+        <string>
+            <plain>И полный мир душе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Еще немного и я - там,</plain>
+        </string>
+        <string>
+            <plain>Где больше нет скорбей,</plain>
+        </string>
+        <string>
+            <plain>Где Иисус все слезы</plain>
+        </string>
+        <string>
+            <plain>Сам Отрет с моих очей.</plain>
+        </string>
+    </verse>
+</song>

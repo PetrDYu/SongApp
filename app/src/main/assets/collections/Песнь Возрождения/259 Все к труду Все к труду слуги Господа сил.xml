@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="259" name="Все к труду Все к труду слуги Господа сил" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Все к труду! Все к труду, слуги Господа сил!</plain>
+        </string>
+        <string>
+            <plain>В путь пойдем, что Спаситель наш Сам проложил;</plain>
+        </string>
+        <string>
+            <plain>Дух совета Его будет нас направлять,</plain>
+        </string>
+        <string>
+            <plain>Веру, силы и жизнь каждый день обновлять.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Все к труду! Все к труду!</plain>
+        </string>
+        <string>
+            <plain>Бодрствуй ты и молись!</plain>
+        </string>
+        <string>
+            <plain>Уповай и трудись</plain>
+        </string>
+        <string>
+            <plain>Доколе наш Господь придет!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Все к труду! Все к труду! Алчущий хлеб найдет,</plain>
+        </string>
+        <string>
+            <plain>И кто жаждет к источнику жизни придет.</plain>
+        </string>
+        <string>
+            <plain>Искупленье Христом возвещать мы должны,</plain>
+        </string>
+        <string>
+            <plain>Не заслугой своей - мы Христом спасены.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Все к труду! Все к труду! В мире много труда;</plain>
+        </string>
+        <string>
+            <plain>Царство мрака и лжи пасть должно навсегда;</plain>
+        </string>
+        <string>
+            <plain>Имя Господа сил мы прославить должны,</plain>
+        </string>
+        <string>
+            <plain>С торжеством воспевать: мы Христом спасены!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Все к труду! Все к труду! Наш небесный Отец,</plain>
+        </string>
+        <string>
+            <plain>Когда кончится труд, нам дарует венец;</plain>
+        </string>
+        <string>
+            <plain>Как в обитель святых будем водворены,</plain>
+        </string>
+        <string>
+            <plain>С ними песнь воспоем: мы Христом спасены!</plain>
+        </string>
+    </verse>
+</song>

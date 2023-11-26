@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2831" name="Славьте Христа Умер Он за нас" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Славьте Христа! Умер Он за нас</plain>
+        </string>
+        <string>
+            <plain>и от грехов Собой нас спас.</plain>
+        </string>
+        <string>
+            <plain>Пойте: победа над смертью - в Нём;</plain>
+        </string>
+        <string>
+            <plain>пойте о Нём, да, пойте о Нём!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Славьте Христа - наш Спаситель Он,</plain>
+        </string>
+        <string>
+            <plain>пойте о Нём, пойте о Нём!</plain>
+        </string>
+        <string>
+            <plain>Пойте все вместе хвалы псалом;</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, да, пойте о Нем!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Славьте Христа! Он меня принял</plain>
+        </string>
+        <string>
+            <plain>и от грехов спасенье дал.</plain>
+        </string>
+        <string>
+            <plain>Истинным нас Он ведет путем;</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, да пойте о Нем!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пойте о Праведнике - Христе!</plain>
+        </string>
+        <string>
+            <plain>Все совершил Он на кресте.</plain>
+        </string>
+        <string>
+            <plain>Хоть чрез страдания мы идем,</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, да, пойте о Нем!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пойте все больше вы о Христе,</plain>
+        </string>
+        <string>
+            <plain>имя Его прославьте все!</plain>
+        </string>
+        <string>
+            <plain>В Духе хвалите Его во всем,</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, да, пойте о Нем!</plain>
+        </string>
+    </verse>
+    <chorus number="4">
+        <string>
+            <plain>Славьте Христа - наш Спаситель Он,</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, пойте о Нем!</plain>
+        </string>
+        <string>
+            <plain>Пойте все вместе хвалы псалом;</plain>
+        </string>
+        <string>
+            <plain>пойте о Нем, да, пойте о Нем!</plain>
+        </string>
+    </chorus>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="601" name="Вести радостной внемлите" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Вести радостной внемлите:</plain>
+        </string>
+        <string>
+            <plain>Бог пришел в юдоль скорбей!</plain>
+        </string>
+        <string>
+            <plain>Всем народам возвестите:</plain>
+        </string>
+        <string>
+            <plain>Он пришел спасти людей.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Слава, слава Богу в вышних!</plain>
+        </string>
+        <string>
+            <plain>Слава, ангелы поют;</plain>
+        </string>
+        <string>
+            <plain>Слава, слава, мир и благость</plain>
+        </string>
+        <string>
+            <plain>К нам на землю снизойдут.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот над мрачною землею</plain>
+        </string>
+        <string>
+            <plain>Чудная звезда взошла;</plain>
+        </string>
+        <string>
+            <plain>Вместе с ангельской хвалою</plain>
+        </string>
+        <string>
+            <plain>Весть благую принесла.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Подымите ваши главы,</plain>
+        </string>
+        <string>
+            <plain>Люди, пленники забот:</plain>
+        </string>
+        <string>
+            <plain>Вот в сиянье вечной славы</plain>
+        </string>
+        <string>
+            <plain>Сам Спаситель к нам грядет.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус давно желает</plain>
+        </string>
+        <string>
+            <plain>Весь греховный мир спасти,</plain>
+        </string>
+        <string>
+            <plain>Всех Он к счастью приглашает.</plain>
+        </string>
+        <string>
+            <plain>О, не медлите прийти.</plain>
+        </string>
+    </verse>
+</song>

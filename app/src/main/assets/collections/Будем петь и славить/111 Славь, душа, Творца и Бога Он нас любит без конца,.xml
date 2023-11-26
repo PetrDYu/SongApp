@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="111" name="Славь, душа, Творца и Бога Он нас любит без конца," canon="false" text="Х. Ф. Лите" textRus="" music="Х. Смарта" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Славь, душа, Творца и Бога! Он нас любит без конца,</plain>
+        </string>
+        <string>
+            <plain>Он открыл Свои чертоги, Он послал Свой мир в сердца.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Славь премудрого Творца.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Славь за все благодеянья, что в нужде являл отцам,</plain>
+        </string>
+        <string>
+            <plain>Избавлял их от страданья, воздавал не по делам.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Дивен Бог теперь и к нам.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Как отец детей, жалеет, принимать всегда готов.</plain>
+        </string>
+        <string>
+            <plain>Водит милостью Своею, охраняет от врагов.</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Аллилуйя! Славь Творца во век веков!</plain>
+        </string>
+    </verse>
+</song>

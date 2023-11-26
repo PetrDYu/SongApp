@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="179" name="Все Духом Божиим водимые," canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Все Духом Божиим водимые,</plain>
+        </string>
+        <string>
+            <plain>Все вы есть Божии Сыны,</plain>
+        </string>
+        <string>
+            <plain>Ибо приняли Дух усыновления,</plain>
+        </string>
+        <string>
+            <plain>Которым взываем к Отцу:</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Авва Отче, Отче наш, Отче наш!</plain>
+        </string>
+        <string>
+            <plain>Авва Отче, наш возлюбленный Небесный Отец!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вы не по плоти, но по Духу,</plain>
+        </string>
+        <string>
+            <plain>Если Дух Божий в вас живет.</plain>
+        </string>
+        <string>
+            <plain>Если Духа Христова не имеете,</plain>
+        </string>
+        <string>
+            <plain>То знайте, что вы не Его.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если мы дети, то наследники,</plain>
+        </string>
+        <string>
+            <plain>Все мы сонаследники Христу.</plain>
+        </string>
+        <string>
+            <plain>Если с Ним мы действительно страдаем,</plain>
+        </string>
+        <string>
+            <plain>То с Ним и прославимся мы.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Припев 2 р.</plain>
+        </string>
+    </verse>
+</song>

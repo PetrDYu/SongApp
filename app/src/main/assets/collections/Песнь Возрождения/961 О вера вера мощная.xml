@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="961" name="О вера вера мощная" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, вера, вера мощная,</plain>
+        </string>
+        <string>
+            <plain>Сразившая врагов,</plain>
+        </string>
+        <string>
+            <plain>Святая, непорочная,</plain>
+        </string>
+        <string>
+            <plain>Сильнее всех оков.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Довольна ты судьбой своей,</plain>
+        </string>
+        <string>
+            <plain>Не споришь никогда.</plain>
+        </string>
+        <string>
+            <plain>Но в час печали и скорбей</plain>
+        </string>
+        <string>
+            <plain>Зовешь ты Господа.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О вера, равной тебе нет,</plain>
+        </string>
+        <string>
+            <plain>Помощник нам во тьме!</plain>
+        </string>
+        <string>
+            <plain>Поддерживаешь в мире свет,</plain>
+        </string>
+        <string>
+            <plain>И в сердце, и в уме.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь! Дай эту веру мне,</plain>
+        </string>
+        <string>
+            <plain>И больше ничего,</plain>
+        </string>
+        <string>
+            <plain>С ней я не буду на войне</plain>
+        </string>
+        <string>
+            <plain>Бояться ничего!</plain>
+        </string>
+    </verse>
+</song>

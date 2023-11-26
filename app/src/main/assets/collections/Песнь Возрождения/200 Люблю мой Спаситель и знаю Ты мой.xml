@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="200" name="Люблю мой Спаситель и знаю Ты мой" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Люблю, мой Спаситель, и знаю - Ты мой!</plain>
+        </string>
+        <string>
+            <plain>Тобою спасен я от жизни пустой.</plain>
+        </string>
+        <string>
+            <plain>Меня чтоб избавить, отдал Ты Себя.</plain>
+        </string>
+        <string>
+            <plain>Люблю, мой Спаситель, люблю я Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Люблю, но Ты первый меня возлюбил</plain>
+        </string>
+        <string>
+            <plain>И мне на Голгофе спасенье купил.</plain>
+        </string>
+        <string>
+            <plain>Ты умер за грешных, безмерно любя.</plain>
+        </string>
+        <string>
+            <plain>Люблю, мой Спаситель, люблю я Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И в жизни и в смерти хочу я любить,</plain>
+        </string>
+        <string>
+            <plain>Доколе живу Твое имя хвалить,</plain>
+        </string>
+        <string>
+            <plain>И даже в час смерти твердить про себя:</plain>
+        </string>
+        <string>
+            <plain>Люблю, мой Спаситель, люблю я Тебя!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>В обителях славы, в небесном краю,</plain>
+        </string>
+        <string>
+            <plain>С венцом на челе, в свете вечного дня,</plain>
+        </string>
+        <string>
+            <plain>Восторженно в сонме спасенных спою:</plain>
+        </string>
+        <string>
+            <plain>Люблю, мой Спаситель, люблю я Тебя!</plain>
+        </string>
+    </verse>
+</song>

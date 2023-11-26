@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2497" name="О храни меня Спаситель" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>О, храни меня, Спаситель,</plain>
+        </string>
+        <string>
+            <plain>Ибо буря настает;</plain>
+        </string>
+        <string>
+            <plain>Без Тебя, мой Искупитель,</plain>
+        </string>
+        <string>
+            <plain>Вмиг она меня собьет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Боже, дорогой Спаситель, будь моим Вождем;</plain>
+        </string>
+        <string>
+            <plain>В юности меня веди Своим путем;</plain>
+        </string>
+        <string>
+            <plain>И где бы я ни был, иль куда бы я ни шел,</plain>
+        </string>
+        <string>
+            <plain>В Тебе покоюсь душой.</plain>
+        </string>
+        <string>
+            <plain>И где бы я ни был, иль каков жребий мой,</plain>
+        </string>
+        <string>
+            <plain>Я вовеки сердцем буду Твой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Мне опасность неизбежна,</plain>
+        </string>
+        <string>
+            <plain>все чужды берега,</plain>
+        </string>
+        <string>
+            <plain>О, даруй с Тобой совместно</plain>
+        </string>
+        <string>
+            <plain>Избежать души врага.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Дух мой сильно боязливый</plain>
+        </string>
+        <string>
+            <plain>Подними Своей рукой,</plain>
+        </string>
+        <string>
+            <plain>И направь на путь счастливый,</plain>
+        </string>
+        <string>
+            <plain>Даровав душе покой.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1386" name="Светлый праздник обновленья" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Светлый праздник обновленья,</plain>
+        </string>
+        <string>
+            <plain>Юной жизни пышный пир!</plain>
+        </string>
+        <string>
+            <plain>Жизнедавца воскресенье</plain>
+        </string>
+        <string>
+            <plain>Воспевает Божий мир.</plain>
+        </string>
+        <string>
+            <plain>Он воскрес, и сердца крылья</plain>
+        </string>
+        <string>
+            <plain>Словно ширятся, растут.</plain>
+        </string>
+        <string>
+            <plain>Тает прежнее бессилье.</plain>
+        </string>
+        <string>
+            <plain>Не страшны борьба и труд.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Смерти нет! Христос, страдая.</plain>
+        </string>
+        <string>
+            <plain>Смертью крестной смерть попрал.</plain>
+        </string>
+        <string>
+            <plain>Всем изгнанникам из рая</plain>
+        </string>
+        <string>
+            <plain>Жизнь Собою даровал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Смерти нет! Христос из гроба</plain>
+        </string>
+        <string>
+            <plain>Мощной силою восстал!</plain>
+        </string>
+        <string>
+            <plain>Смерти нет! Христос спасенье</plain>
+        </string>
+        <string>
+            <plain>В обновленный мир несет!</plain>
+        </string>
+        <string>
+            <plain>Ныне с небом примиренье</plain>
+        </string>
+        <string>
+            <plain>Бедным грешникам дает.</plain>
+        </string>
+        <string>
+            <plain>Пусть несется весть благая:</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос воскрес!</plain>
+        </string>
+    </verse>
+</song>

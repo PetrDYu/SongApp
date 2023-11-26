@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="3040" name="Воспрянь душа и восхвали" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Воспрянь, душа, и восхвали</plain>
+        </string>
+        <string>
+            <plain>Иисуса в этот час:</plain>
+        </string>
+        <string>
+            <plain>меня Господь усыновил</plain>
+        </string>
+        <string>
+            <plain>и от неволи спас!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господа славьте в стихах,</plain>
+        </string>
+        <string>
+            <plain>Господа славьте в делах,</plain>
+        </string>
+        <string>
+            <plain>в песнях Его прославляйте!</plain>
+        </string>
+        <string>
+            <plain>Господь - наш Спаситель в веках!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Создатель мой - извечный Бог,</plain>
+        </string>
+        <string>
+            <plain>мне жизнь Он даровал;</plain>
+        </string>
+        <string>
+            <plain>Он истину найти помог,</plain>
+        </string>
+        <string>
+            <plain>меня Он оправдал.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Живёт в моей душе Христос,</plain>
+        </string>
+        <string>
+            <plain>Он мир в меня вселил,</plain>
+        </string>
+        <string>
+            <plain>и благодать Он мне принёс,</plain>
+        </string>
+        <string>
+            <plain>любовью окружил.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Хоть жизнь моя и коротка,</plain>
+        </string>
+        <string>
+            <plain>но вечно буду с Ним;</plain>
+        </string>
+        <string>
+            <plain>борьба порою не легка,</plain>
+        </string>
+        <string>
+            <plain>но я Христом храним.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Воспрянь, душа, и восхвали</plain>
+        </string>
+        <string>
+            <plain>любовь ко мне Христа,</plain>
+        </string>
+        <string>
+            <plain>и с ликованьем возвести,</plain>
+        </string>
+        <string>
+            <plain>что ты чрез кровь чиста!</plain>
+        </string>
+    </verse>
+</song>

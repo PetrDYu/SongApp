@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="87" name="Страшно бушует житейское море" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Страшно бушует житейское море,</plain>
+        </string>
+        <string>
+            <plain>Сильные волны качают ладью.</plain>
+        </string>
+        <string>
+            <plain>В ужасе смертном, в отчаянном горе:</plain>
+        </string>
+        <string>
+            <plain>"Боже, мой Боже!" к Тебе вопию.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Сжалься над мною, спаси и помилуй!</plain>
+        </string>
+        <string>
+            <plain>С первых дней жизни я страшно борюсь.</plain>
+        </string>
+        <string>
+            <plain>Больше бороться уж мне не под силу.</plain>
+        </string>
+        <string>
+            <plain>"Боже, мой Боже!" - Тебе я молюсь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>К пристани тихой Твоих повелений</plain>
+        </string>
+        <string>
+            <plain>Путь мой направь и меня успокой.</plain>
+        </string>
+        <string>
+            <plain>И из пучины житейских волнений</plain>
+        </string>
+        <string>
+            <plain>К берегу выведи, Боже благой!</plain>
+        </string>
+    </verse>
+</song>

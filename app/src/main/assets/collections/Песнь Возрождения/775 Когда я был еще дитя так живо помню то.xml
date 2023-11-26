@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="775" name="Когда я был еще дитя так живо помню то" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Когда я был еще дитя,- так живо помню то, -</plain>
+        </string>
+        <string>
+            <plain>Как часто маму огорчал и причинял ей зло.</plain>
+        </string>
+        <string>
+            <plain>Теперь она на небесах, уж нет ее со мной...</plain>
+        </string>
+        <string>
+            <plain>Скажи ей, о Спаситель, что я - Твой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О мама, ты всегда молилась за меня!</plain>
+        </string>
+        <string>
+            <plain>Скажи, Спаситель, маме, что я - Твой.</plain>
+        </string>
+        <string>
+            <plain>Приду я к небесам с ней радоваться там.</plain>
+        </string>
+        <string>
+            <plain>Скажи, Спаситель, маме, что я - Твой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Как часто был упрямым я, боль сердцу принося,</plain>
+        </string>
+        <string>
+            <plain>Но кротко, ласково она любила все ж меня.</plain>
+        </string>
+        <string>
+            <plain>И в детстве радость и печаль делила пополам.</plain>
+        </string>
+        <string>
+            <plain>Спасен я! О скажи ей, Боже, Сам!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Затем, как тот заблудший сын, оставил дом отца...</plain>
+        </string>
+        <string>
+            <plain>Изранил сердце маме я, не знав любви Творца.</plain>
+        </string>
+        <string>
+            <plain>Она ж молилась день и ночь о милости большой,</plain>
+        </string>
+        <string>
+            <plain>Скажи ей, о Спаситель, что я - Твой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Но вдруг с тревогой слышу весть: на смертном одре мать,</plain>
+        </string>
+        <string>
+            <plain>Спеши же видеть, время есть, ведь можешь опоздать!</plain>
+        </string>
+        <string>
+            <plain>И я пришел тогда и ей дал слово пред Тобой:</plain>
+        </string>
+        <string>
+            <plain>Что я отныне, о Спаситель, - Твой!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="246" name="Вс в этом мире суета, вс в этом мире быстротечно," canon="false" text="Т. Витман" textRus="" music="Т. Витман" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Всё в этом мире суета, всё в этом мире быстротечно,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>А Ты, мой Бог, – Ты навсегда, и всё Твое – оно навечно.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Когда взываю я к Тебе, в своих скорбях, в своих печалях,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>То Ты в заботе обо мне с Своих небес мне отвечаешь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, Господи, умножь во мне надежду, веру, вдохновенье,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И чтоб жила любовь во мне, что служит всем в Твоем смиренье.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты изливаешь в сердце мне Твой мир, покой и утешенье.</plain>
+        </string>
+        <string>
+            <plain>О, как же сладки для меня Твоей руки прикосновенья!</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Твой Лик прекрасный предо мной, в Твоих глазах любовь сияет.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Стремлюсь душой я в небеса, где радость чаши наполняет.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Склоняюсь низко пред Тобой, Твое величье прославляю.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Господь, веди меня домой... Тебе себя я доверяю.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

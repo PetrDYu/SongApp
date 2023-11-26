@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2992" name="Мы чудную проповедь слышим в тебе" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Мы чудную проповедь слышим в тебе,</plain>
+        </string>
+        <string>
+            <plain>град Божий, ты - Церковь Христа.</plain>
+        </string>
+        <string>
+            <plain>Небесный Сион, свет твой виден везде,</plain>
+        </string>
+        <string>
+            <plain>слышна всюду слава твоя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Град Божий, община Христа,</plain>
+        </string>
+        <string>
+            <plain>как славен, красив облик твой!</plain>
+        </string>
+        <string>
+            <plain>Блажен, кто познал всем сердцем тебя,</plain>
+        </string>
+        <string>
+            <plain>нашел в тебе вечный покой.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Пророкам являл ось сиянье твое,</plain>
+        </string>
+        <string>
+            <plain>в псалмах воспевали тебя,</plain>
+        </string>
+        <string>
+            <plain>но ныне в тебе пребывать нам дано.</plain>
+        </string>
+        <string>
+            <plain>О, вечная Богу хвала!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Сион, ты надежная крепость моя,</plain>
+        </string>
+        <string>
+            <plain>спасенье в стенах твоих мне;</plain>
+        </string>
+        <string>
+            <plain>святые лишь входят в твои ворота,</plain>
+        </string>
+        <string>
+            <plain>нечистым нет доли в тебе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Нет сходства с церквами людей у тебя,</plain>
+        </string>
+        <string>
+            <plain>где добрый со злым живет;</plain>
+        </string>
+        <string>
+            <plain>свята и чиста ты, невеста Христа,</plain>
+        </string>
+        <string>
+            <plain>ждешь верно, пока ОН придет.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>В Христе ты основана, как на скале,</plain>
+        </string>
+        <string>
+            <plain>и поступь победна твоя;</plain>
+        </string>
+        <string>
+            <plain>не страшны врата ада больше тебе</plain>
+        </string>
+        <string>
+            <plain>- Господь укрывает тебя.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <plain>Грозит сатана, и гоненья страшны,</plain>
+        </string>
+        <string>
+            <plain>и грешники сильно гнетут,</plain>
+        </string>
+        <string>
+            <plain>- Сион, устоишь победителем ты,</plain>
+        </string>
+        <string>
+            <plain>в позоре враги убегут.</plain>
+        </string>
+    </verse>
+</song>

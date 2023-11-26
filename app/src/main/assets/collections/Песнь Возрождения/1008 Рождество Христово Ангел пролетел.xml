@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="1008" name="Рождество Христово Ангел пролетел" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Рождество Христово! Ангел пролетел.</plain>
+        </string>
+        <string>
+            <plain>Он летел по небу, людям песню пел:</plain>
+        </string>
+        <string>
+            <plain>"Все люди ликуйте, в сей день торжествуйте!</plain>
+        </string>
+        <string>
+            <plain>В день Христова Рождества!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Я лечу от Бога, радость вам принес,</plain>
+        </string>
+        <string>
+            <plain>Что в пещере темной родился Христос!</plain>
+        </string>
+        <string>
+            <plain>Скорей поспешайте, Младенца встречайте</plain>
+        </string>
+        <string>
+            <plain>Новонарожденного!"</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пастухи в пещеру прежде всех пришли,</plain>
+        </string>
+        <string>
+            <plain>В яслях на соломе Господа нашли.</plain>
+        </string>
+        <string>
+            <plain>На колени пали, Христу дары дали</plain>
+        </string>
+        <string>
+            <plain>Новонарожденному!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ирод злоречивый о Христе узнал</plain>
+        </string>
+        <string>
+            <plain>И убить Младенца воинов послал.</plain>
+        </string>
+        <string>
+            <plain>Всех детей избили, мечи притупили,</plain>
+        </string>
+        <string>
+            <plain>А Христос в Египте был!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="686" name="Бог с тобой доколе свидимся" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+        <string>
+            <plain>Путь твой Он да охраняет,</plain>
+        </string>
+        <string>
+            <plain>Каждый шаг твой направляет,</plain>
+        </string>
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Доколе мы свидимся,</plain>
+        </string>
+        <string>
+            <plain>Мы свидимся у ног Христа;</plain>
+        </string>
+        <string>
+            <plain>Доколе мы свидимся,</plain>
+        </string>
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+        <string>
+            <plain>Душу Он да ободряет,</plain>
+        </string>
+        <string>
+            <plain>Манной свыше Сам питает,</plain>
+        </string>
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+        <string>
+            <plain>Он от зла тебе защита,</plain>
+        </string>
+        <string>
+            <plain>В Нем вся жизнь твоя сокрыта.</plain>
+        </string>
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+        <string>
+            <plain>На Христа иди, взирая,</plain>
+        </string>
+        <string>
+            <plain>Всем любовь Его являя,</plain>
+        </string>
+        <string>
+            <plain>Бог с тобой, доколе свидимся!</plain>
+        </string>
+    </verse>
+</song>

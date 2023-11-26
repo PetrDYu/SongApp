@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="2144" name="Иисуса крест стоит аллилуйя аллилуйя" canon="false" text="" textRus="" music="">
+    <verse number="1">
+        <string>
+            <plain>Иисуса крест стоит, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Ничто его не сокрушит, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Здесь кровь Христос пролил,</plain>
+        </string>
+        <string>
+            <plain>Спасены совершил,</plain>
+        </string>
+        <string>
+            <plain>Любовь Отца явил.</plain>
+        </string>
+        <string>
+            <plain>Слава Господу Христу!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Господ у Христу!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Слава Господу Христу.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Стоит он, крест веков, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Незыблем средь врагов, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Невзгоды пережил,</plain>
+        </string>
+        <string>
+            <plain>Все козни победил,</plain>
+        </string>
+        <string>
+            <plain>Мир с Богом примирил.</plain>
+        </string>
+        <string>
+            <plain>Слава Господу Христу!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Распяты со Христом, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Мы хвалимся крестом, аллилуйя, аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Евангелие креста</plain>
+        </string>
+        <string>
+            <plain>Дапримут все сердца,</plain>
+        </string>
+        <string>
+            <plain>Да славят все уста.</plain>
+        </string>
+        <string>
+            <plain>Слава Господу Христу!</plain>
+        </string>
+    </verse>
+</song>

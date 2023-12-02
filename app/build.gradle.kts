@@ -69,14 +69,21 @@ dependencies {
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
-    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material3:material3:1.1.2")
     implementation("com.arkivanov.decompose:decompose:2.2.0-alpha04")
     implementation("com.arkivanov.decompose:extensions-compose-jetbrains:2.2.0-alpha04")
     implementation("androidx.room:room-ktx:2.6.0")
+    // Jetpack Datastore
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("androidx.datastore:datastore-core:1.0.0")
+
     ksp("androidx.room:room-compiler:2.6.0")
     androidTestImplementation("androidx.room:room-testing:2.6.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
+
+    // Constraint layout compose
+    implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="min_font_size">15</integer>
+    <integer name="max_font_size">40</integer>
+    <integer name="default_font_size">20</integer>
+    <bool name="default_pro_mode">true</bool>
+</resources>

@@ -13,9 +13,8 @@ import com.arkivanov.decompose.extensions.compose.jetbrains.stack.animation.stac
 import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import ru.petr.songapp.root.RootComponent.Child.*
 import ru.petr.songapp.screens.collections.CollectionsContent
-import ru.petr.songapp.screens.song.SongContent
 import ru.petr.songapp.screens.songListScreen.SongListScreenContent
-import ru.petr.songapp.screens.songListScreen.songList.SongListContent
+import ru.petr.songapp.screens.songScreen.SongScreenContent
 
 @Composable
 fun RootContent(component: RootComponent, modifier: Modifier = Modifier) {
@@ -35,8 +34,8 @@ fun RootContent(component: RootComponent, modifier: Modifier = Modifier) {
                                                               modifier = Modifier.fillMaxSize())
                     is SongListScreenChild -> SongListScreenContent(component = child.component,
                                                                     modifier = Modifier.fillMaxSize())
-                    is SongChild -> SongContent(component = child.component,
-                                                modifier = Modifier.fillMaxSize())
+                    is SongChild -> SongScreenContent(component = child.component,
+                                                      modifier = Modifier.fillMaxSize())
                 }
             }
         }

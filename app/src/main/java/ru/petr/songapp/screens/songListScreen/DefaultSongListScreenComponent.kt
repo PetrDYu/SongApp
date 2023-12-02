@@ -1,9 +1,7 @@
 package ru.petr.songapp.screens.songListScreen
 
-import android.util.Log
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.childContext
-import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import com.arkivanov.decompose.router.pages.ChildPages
 import com.arkivanov.decompose.router.pages.Pages
 import com.arkivanov.decompose.router.pages.PagesNavigation
@@ -16,8 +14,8 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
-import ru.petr.songapp.database.room.SongAppDB
 import ru.petr.songapp.database.room.songData.SongCollectionDBModel
+import ru.petr.songapp.commonAndroid.database
 import ru.petr.songapp.screens.common.searchBar.DefaultSearchBarComponent
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 import ru.petr.songapp.screens.songListScreen.songList.DefaultSongListComponent
@@ -25,7 +23,6 @@ import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
 class DefaultSongListScreenComponent(
     componentContext: ComponentContext,
-    private val database: SongAppDB,
     private var collections: List<SongCollectionDBModel>,
     private val selectedCollectionId: Int = 0,
     private val onSongSelect: (collectionId: Int, songId: Int) -> Unit,
@@ -56,7 +53,6 @@ class DefaultSongListScreenComponent(
             DefaultSongListComponent(
                 componentContext = childComponentContext,
                 collectionId = config.collectionId,
-                database = database,
                 searchIsActive = searchBarComponent.searchIsActive,
                 clickSearchObservable,
             ) { songId -> onSongSelect(config.collectionId, songId) }
@@ -83,7 +79,6 @@ class DefaultSongListScreenComponent(
                             DefaultSongListComponent(
                                     componentContext = childComponentContext,
                                     collectionId = config.collectionId,
-                                    database,
                                     searchIsActive = searchBarComponent.searchIsActive,
                                     clickSearchObservable,
                             ) { songId -> onSongSelect(config.collectionId, songId) }

@@ -8,12 +8,11 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import kotlinx.serialization.Serializable
-import ru.petr.songapp.database.room.SongAppDB
 import ru.petr.songapp.database.room.songData.SongCollectionDBModel
+import ru.petr.songapp.commonAndroid.database
 
 class DefaultCollectionsComponent(
     componentContext: ComponentContext,
-    private val database: SongAppDB,
     private val onCollectionSelected: (id: Int, collections: List<SongCollectionDBModel>) -> Unit,
 ) : CollectionsComponent, ComponentContext by componentContext {
 

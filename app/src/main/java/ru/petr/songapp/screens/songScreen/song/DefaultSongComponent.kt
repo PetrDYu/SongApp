@@ -1,0 +1,32 @@
+package ru.petr.songapp.screens.songScreen.song
+
+import com.arkivanov.decompose.ComponentContext
+import com.arkivanov.decompose.value.MutableValue
+import com.arkivanov.decompose.value.Value
+import com.arkivanov.decompose.value.update
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
+import ru.petr.songapp.commonAndroid.database
+import ru.petr.songapp.commonAndroid.settings
+import ru.petr.songapp.screens.songScreen.song.models.Song
+import ru.petr.songapp.screens.songScreen.song.models.parsing.SongBuilder.getSong
+
+class DefaultSongComponent(
+    componentContext: ComponentContext,
+    private val collectionId: Int,
+    private val songId: Int,
+) : SongComponent, ComponentContext by componentContext {
+
+    private val _song: MutableValue<Song> = MutableValue(Song.emptySong)
+    override val song: Value<Song> = _song
+    override val fontSize: Value<Int> = settings.songFontSize
+
+    init {
+        CoroutineScope(Job()).launch {
+            database.SongDao().getSongWithCollectionById(songId).collect { songFromDB ->
+                _song.update { getSong(songFromDB) }
+            }
+        }
+    }
+}

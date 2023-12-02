@@ -1,23 +1,18 @@
 package ru.petr.songapp.screens.songListScreen.songList
 
-import android.util.Log
-import androidx.core.text.isDigitsOnly
 import com.arkivanov.decompose.ComponentContext
-import com.arkivanov.decompose.childContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
-import ru.petr.songapp.database.room.SongAppDB
-import ru.petr.songapp.screens.common.searchBar.DefaultSearchBarComponent
+import ru.petr.songapp.commonAndroid.database
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 
 class DefaultSongListComponent(
     componentContext: ComponentContext,
     private val collectionId: Int,
-    private val database: SongAppDB,
     override val searchIsActive: Value<Boolean>,
     clickSearchObservable: Value<String>,
     private val onSongSelected: (id: Int) -> Unit,
@@ -41,7 +36,7 @@ class DefaultSongListComponent(
         }
 
         CoroutineScope(Job()).launch {
-            database.SongDao().getCollectionSongs(collectionId).collect {
+            componentContext.database.SongDao().getCollectionSongs(collectionId).collect {
                 val newList = mutableListOf<SongListComponent.SongItem>()
                 for(song in it) {
                     newList.add(
@@ -63,29 +58,6 @@ class DefaultSongListComponent(
         }
     }
 
-//    fun searchSongs(searchText: String) {
-//        if (searchText != "") {
-//            _songItemsCopy.toMutableList().let { songCollectionViews ->
-//                songCollectionViews.forEachIndexed { index, songCollectionView ->
-//                    val songCollectionViewNew: SongCollectionView = if (searchText.isDigitsOnly()) {
-//                        SongCollectionView(
-//                                songCollectionView.songCollection,
-//                                songCollectionView.songs.filter { searchText.toInt() == it.numberInCollection }
-//                        )
-//                    } else {
-//                        SongCollectionView(
-//                                songCollectionView.songCollection,
-//                                songCollectionView.songs.filter { searchText.lowercase() in it.name.lowercase() }
-//                        )
-//                    }
-//                    songCollectionViews[index] = songCollectionViewNew
-//                }
-//
-//                _songsByCollections.value = songCollectionViews
-//                this._searchIsActive = true
-//            }
-//        }
-//    }
 
     override fun onSongClicked(id: Int) {
         onSongSelected(id)

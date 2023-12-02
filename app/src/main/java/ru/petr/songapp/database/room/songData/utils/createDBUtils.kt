@@ -9,7 +9,7 @@ import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.SongCollectionDBModel
 import ru.petr.songapp.database.room.songData.SongData
 import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
-import ru.petr.songapp.screens.song.models.parsing.TagAndAttrNames
+import ru.petr.songapp.screens.songScreen.song.models.parsing.TagAndAttrNames
 
 const val INFO_FILE_EXT = "info"
 const val COLLECTIONS_FOLDER = "collections"

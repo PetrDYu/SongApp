@@ -21,15 +21,14 @@ class MainActivity : ComponentActivity() {
 
         val root =
             DefaultRootComponent(
-                    componentContext = defaultComponentContext(),
-                    context = this
+                componentContext = defaultComponentContext()
             )
 
         setContent {
             SongAppTheme {
                 Surface(
-                        modifier = Modifier.fillMaxSize(),
-                        color = MaterialTheme.colorScheme.background) {
+                    modifier = Modifier.fillMaxSize(),
+                    color = MaterialTheme.colorScheme.background) {
                     RootContent(component = root, modifier = Modifier.fillMaxSize())
                 }
             }

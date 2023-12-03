@@ -1,6 +1,5 @@
 package ru.petr.songapp.screens.songListScreen.songList
 
-import android.graphics.fonts.FontStyle
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -17,11 +16,17 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.SpanStyle
+import androidx.compose.ui.text.buildAnnotatedString
+import androidx.compose.ui.text.font.FontStyle
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import ru.petr.songapp.R
-import ru.petr.songapp.screens.common.searchBar.SearchBarContent
+import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResult
+import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
@@ -29,8 +34,9 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
              songs = component.songItems.subscribeAsState().value,
              onSongNameClick = component::onSongClicked,
              searchIsActive = component.searchIsActive.subscribeAsState().value,
-             fullTextSearchIsActive = false) {
-
+             fullTextSearchIsActive = component.fullTextSearchIsActive.subscribeAsState().value,
+             fullTextSearchResult = component.fullSearchResult.subscribeAsState().value) {
+        component.onFullTextSearch()
     }
 }
 
@@ -41,22 +47,28 @@ fun SongList(modifier: Modifier = Modifier,
              onSongNameClick: (id:Int) -> Unit,
              searchIsActive: Boolean,
              fullTextSearchIsActive: Boolean,
-             //fullTextSearchResult: List<FullTextSearchResultItem>,
+             fullTextSearchResult: FullSearchResult,
              onFullTextSearchClick: () -> Unit,
 ){
     Box(modifier) {
-        if (songs.isEmpty()) {
+        if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
             if (searchIsActive) {
-                Text(
+                Column {
+                    Text(
                         stringResource(
-                                id = R.string.not_found_songs_in_collection),
+                            id = R.string.not_found_songs_in_collection),
                         modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
-                )
+                    )
+                    if (!fullTextSearchIsActive) {
+                        FullSearchButton(onFullTextSearchClick)
+                    }
+
+                }
             } else {
                 Text(
-                        stringResource(
-                                id = R.string.not_added_songs_in_collection),
-                        modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
+                    stringResource(
+                            id = R.string.not_added_songs_in_collection),
+                    modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
                 )
             }
         } else {
@@ -65,58 +77,97 @@ fun SongList(modifier: Modifier = Modifier,
                         .fillMaxSize()
             ) {
                 items(songs.size) { index ->
-                    Row(
-                            Modifier
-                                .clickable { onSongNameClick(songs[index].id) }
-                                .padding(vertical = 10.dp, horizontal = 20.dp)
-                                .fillMaxWidth()
+                    SongRow(songs[index], onSongNameClick)
 
-                    ) {
-                        Text(
-                                "${songs[index].numInColl}. ",
-                                fontSize = 20.sp,
-                                color = MaterialTheme.colorScheme.secondary,
-                                //fontStyle = FontStyle.Italic
-                        )
-                        Text(
-                                songs[index].name,
-                                fontSize = 20.sp
-                        )
+                    if (index != songs.size - 1 || fullTextSearchIsActive) {
+                        SongRowDivider()
                     }
-
-                    if (index != songs.size - 1 || fullTextSearchIsActive)
-                        Divider(Modifier.padding(horizontal = 20.dp))
                 }
 
                 if (searchIsActive) {
                     if (!fullTextSearchIsActive) {
                         items(1) {
-                            Button(
-                                    modifier = Modifier
-                                        .padding(horizontal = 40.dp, vertical = 10.dp)
-                                        .fillMaxWidth()
-                                        .height(40.dp),
-                                    onClick = { onFullTextSearchClick() }
-                            ) {
-                                Text(stringResource(id = R.string.search_by_full_text))
-                            }
+                            FullSearchButton(onFullTextSearchClick)
                         }
                     } else {
-                        //                    items(fullTextSearchResult.size) { index ->
-                        //                        Text(
-                        //                                "${fullTextSearchResult[index].song.numberInCollection}. ${fullTextSearchResult[index].song.name}",
-                        //                                Modifier
-                        //                                    .clickable { onSongNameClick(fullTextSearchResult[index].song.id) }
-                        //                                    .padding(vertical = 10.dp)
-                        //                                    .fillMaxWidth(),
-                        //                                fontSize = 20.sp
-                        //                        )
-                        //                        if (index != fullTextSearchResult.size - 1)
-                        //                            Divider()
-                        //                    }
+                        items(fullTextSearchResult.resultsList.size) { index ->
+                            fullTextSearchResult.resultsList[index].also {resultItem ->
+                                SongRow(
+                                    song = SongListComponent.SongItem(resultItem.song.id,
+                                                                      resultItem.song.songData.numberInCollection,
+                                                                      resultItem.song.songData.name),
+                                    onSongNameClick = onSongNameClick,
+                                    fullTextSearchIsActive = true,
+                                    fullSearchResultItem = resultItem)
+                            }
+                            if (index != fullTextSearchResult.resultsList.size - 1) {
+                                SongRowDivider()
+                            }
+                        }
                     }
                 }
             }
         }
+    }
+}
+
+@Composable
+fun SongRow(song: SongListComponent.SongItem,
+            onSongNameClick: (id:Int) -> Unit,
+            fontSize: Int = 20,
+            fullTextSearchIsActive: Boolean = false,
+            fullSearchResultItem: FullSearchResultItem? = null
+) {
+    Column (Modifier
+                .clickable { onSongNameClick(song.id) }
+                .padding(vertical = 10.dp, horizontal = 20.dp)
+                .fillMaxWidth()
+    ) {
+        Row {
+            Text(
+                "${song.numInColl}. ",
+                fontSize = fontSize.sp,
+                color = MaterialTheme.colorScheme.secondary
+            )
+            Text(
+                song.name,
+                fontSize = 20.sp
+            )
+        }
+        if (fullTextSearchIsActive && fullSearchResultItem != null) {
+            Text(
+                text = buildAnnotatedString {
+                    withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                        append(fullSearchResultItem.prevWords)
+                    }
+                    withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
+                        append(fullSearchResultItem.searchedText)
+                    }
+                    withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                        append(fullSearchResultItem.nextWords)
+                    }
+                },
+                fontSize = (fontSize - 5).sp,
+                color = MaterialTheme.colorScheme.secondary
+            )
+        }
+    }
+}
+
+@Composable
+fun SongRowDivider(modifier: Modifier = Modifier) {
+    Divider(modifier.padding(horizontal = 20.dp))
+}
+
+@Composable
+fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
+    Button(
+        modifier = Modifier
+            .padding(horizontal = 40.dp, vertical = 10.dp)
+            .fillMaxWidth()
+            .height(40.dp),
+        onClick = { onFullTextSearchClick() }
+    ) {
+        Text(stringResource(id = R.string.search_by_full_text))
     }
 }

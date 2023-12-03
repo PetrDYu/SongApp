@@ -2,6 +2,7 @@ package ru.petr.songapp.screens.songListScreen
 
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.childContext
+import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import com.arkivanov.decompose.router.pages.ChildPages
 import com.arkivanov.decompose.router.pages.Pages
 import com.arkivanov.decompose.router.pages.PagesNavigation
@@ -54,7 +55,7 @@ class DefaultSongListScreenComponent(
                 componentContext = childComponentContext,
                 collectionId = config.collectionId,
                 searchIsActive = searchBarComponent.searchIsActive,
-                clickSearchObservable,
+                clickSearchObservable
             ) { songId -> onSongSelect(config.collectionId, songId) }
         }
 

@@ -24,14 +24,9 @@ import ru.petr.songapp.screens.songListScreen.DefaultSongListScreenComponent
 import ru.petr.songapp.screens.songScreen.DefaultSongScreenComponent
 
 class DefaultRootComponent(
-    componentContext: ComponentContext,
-    context: Context
+    componentContext: ComponentContext
 ) : RootComponent, ComponentContext by componentContext {
     private val navigation = StackNavigation<Config>()
-
-
-
-
 
     private val stack =
         childStack(

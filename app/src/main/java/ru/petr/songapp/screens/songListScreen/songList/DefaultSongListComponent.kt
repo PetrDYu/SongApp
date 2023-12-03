@@ -10,8 +10,7 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import ru.petr.songapp.commonAndroid.database
 import ru.petr.songapp.screens.common.fullTextSearch.DefaultFullTextSearchComponent
-import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResult
-import ru.petr.songapp.screens.common.fullTextSearch.FullTextSearchComponent
+import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 
 class DefaultSongListComponent(
@@ -25,28 +24,23 @@ class DefaultSongListComponent(
     private var _songItems = MutableValue(listOf<SongListComponent.SongItem>())
     override val songItems: Value<List<SongListComponent.SongItem>> = _songItems
 
-    private val _fullTextSearchIsActive = MutableValue(false)
-    override val fullTextSearchIsActive: Value<Boolean> = _fullTextSearchIsActive
-
     private val fullSearch = DefaultFullTextSearchComponent(childContext("DefaultFullTextSearchComponent"),
                                                             collectionId)
-    override val fullSearchResult: Value<FullSearchResult> = fullSearch.searchResult
+
+    override val fullTextSearchData: FullSearchData = fullSearch.searchData
 
     private var _songItemsCopy = _songItems.value
 
     init {
         clickSearchObservable.observe { searchText ->
             _songItems.update { SearchBarComponent.updateSongList(_songItems.value, searchText) }
-            if (fullTextSearchIsActive.value) {
-                fullSearch.updateSearchResult(searchText)
-            }
+            fullSearch.activateSearch(false)
         }
 
         searchIsActive.observe { isActive ->
             if (!isActive) {
                 _songItems.update { _songItemsCopy }
-                _fullTextSearchIsActive.update { false }
-                fullSearch.clearSearchResult()
+                fullSearch.activateSearch(false)
             }
         }
 
@@ -79,7 +73,6 @@ class DefaultSongListComponent(
     }
 
     override fun onFullTextSearch() {
-        _fullTextSearchIsActive.update { true }
-        fullSearch.updateSearchResult(clickSearchObservable.value)
+        fullSearch.activateSearch(true, clickSearchObservable.value)
     }
 }

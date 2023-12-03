@@ -10,10 +10,13 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material3.Button
+import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Divider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
@@ -25,17 +28,17 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import ru.petr.songapp.R
-import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResult
+import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
     SongList(modifier,
-             songs = component.songItems.subscribeAsState().value,
-             onSongNameClick = component::onSongClicked,
-             searchIsActive = component.searchIsActive.subscribeAsState().value,
-             fullTextSearchIsActive = component.fullTextSearchIsActive.subscribeAsState().value,
-             fullTextSearchResult = component.fullSearchResult.subscribeAsState().value) {
+         songs = component.songItems.subscribeAsState().value,
+         onSongNameClick = component::onSongClicked,
+         searchIsActive = component.searchIsActive.subscribeAsState().value,
+        fullTextSearchData = component.fullTextSearchData,
+    ) {
         component.onFullTextSearch()
     }
 }
@@ -46,10 +49,13 @@ fun SongList(modifier: Modifier = Modifier,
              songs: List<SongListComponent.SongItem>,
              onSongNameClick: (id:Int) -> Unit,
              searchIsActive: Boolean,
-             fullTextSearchIsActive: Boolean,
-             fullTextSearchResult: FullSearchResult,
+             fullTextSearchData: FullSearchData,
              onFullTextSearchClick: () -> Unit,
 ){
+    val fullTextSearchResult by fullTextSearchData.result.subscribeAsState()
+    val fullTextSearchIsActive by fullTextSearchData.fullSearchIsActive.subscribeAsState()
+    val fullTextSearchIsInProgress by fullTextSearchData.fullSearchIsInProgress.subscribeAsState()
+
     Box(modifier) {
         if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
             if (searchIsActive) {
@@ -61,6 +67,8 @@ fun SongList(modifier: Modifier = Modifier,
                     )
                     if (!fullTextSearchIsActive) {
                         FullSearchButton(onFullTextSearchClick)
+                    } else if (fullTextSearchIsInProgress) {
+                        FullSearchProgressBar()
                     }
 
                 }
@@ -72,10 +80,7 @@ fun SongList(modifier: Modifier = Modifier,
                 )
             }
         } else {
-            LazyColumn(
-                    Modifier
-                        .fillMaxSize()
-            ) {
+            LazyColumn(Modifier.fillMaxSize()) {
                 items(songs.size) { index ->
                     SongRow(songs[index], onSongNameClick)
 
@@ -88,6 +93,10 @@ fun SongList(modifier: Modifier = Modifier,
                     if (!fullTextSearchIsActive) {
                         items(1) {
                             FullSearchButton(onFullTextSearchClick)
+                        }
+                    }  else if (fullTextSearchIsInProgress) {
+                        items(1) {
+                            FullSearchProgressBar()
                         }
                     } else {
                         items(fullTextSearchResult.resultsList.size) { index ->
@@ -118,38 +127,38 @@ fun SongRow(song: SongListComponent.SongItem,
             fullTextSearchIsActive: Boolean = false,
             fullSearchResultItem: FullSearchResultItem? = null
 ) {
-    Column (Modifier
-                .clickable { onSongNameClick(song.id) }
-                .padding(vertical = 10.dp, horizontal = 20.dp)
-                .fillMaxWidth()
+    Row(Modifier
+            .clickable { onSongNameClick(song.id) }
+            .padding(vertical = 10.dp, horizontal = 20.dp)
+            .fillMaxWidth()
     ) {
-        Row {
-            Text(
-                "${song.numInColl}. ",
-                fontSize = fontSize.sp,
-                color = MaterialTheme.colorScheme.secondary
-            )
+        Text(
+            "${song.numInColl}. ",
+            fontSize = fontSize.sp,
+            color = MaterialTheme.colorScheme.secondary
+        )
+        Column {
             Text(
                 song.name,
                 fontSize = 20.sp
             )
-        }
-        if (fullTextSearchIsActive && fullSearchResultItem != null) {
-            Text(
-                text = buildAnnotatedString {
-                    withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
-                        append(fullSearchResultItem.prevWords)
-                    }
-                    withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
-                        append(fullSearchResultItem.searchedText)
-                    }
-                    withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
-                        append(fullSearchResultItem.nextWords)
-                    }
-                },
-                fontSize = (fontSize - 5).sp,
-                color = MaterialTheme.colorScheme.secondary
-            )
+            if (fullTextSearchIsActive && fullSearchResultItem != null) {
+                Text(
+                    text = buildAnnotatedString {
+                        withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                            append(fullSearchResultItem.prevWords)
+                        }
+                        withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
+                            append(fullSearchResultItem.searchedText)
+                        }
+                        withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                            append(fullSearchResultItem.nextWords)
+                        }
+                    },
+                    fontSize = (fontSize - 5).sp,
+                    color = MaterialTheme.colorScheme.secondary
+                )
+            }
         }
     }
 }
@@ -169,5 +178,13 @@ fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
         onClick = { onFullTextSearchClick() }
     ) {
         Text(stringResource(id = R.string.search_by_full_text))
+    }
+}
+
+@Composable
+fun FullSearchProgressBar(modifier: Modifier = Modifier) {
+    Box(modifier.fillMaxWidth(),
+        contentAlignment = Alignment.Center) {
+        CircularProgressIndicator(Modifier.padding(top = 20.dp, bottom = 70.dp))
     }
 }

@@ -1,10 +1,11 @@
 package ru.petr.songapp.screens.common.fullTextSearch
 
-import com.arkivanov.decompose.value.Value
-
 interface FullTextSearchComponent {
 
-    val searchResult: Value<FullSearchResult>
+    val searchData: FullSearchData
+
+    fun activateSearch(isActive: Boolean,
+                       searchText: String = "")
 
     fun updateSearchResult(searchText: String)
 

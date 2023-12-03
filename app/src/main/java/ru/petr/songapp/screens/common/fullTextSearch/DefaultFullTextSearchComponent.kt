@@ -2,7 +2,6 @@ package ru.petr.songapp.screens.common.fullTextSearch
 
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.value.MutableValue
-import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
@@ -16,13 +15,30 @@ class DefaultFullTextSearchComponent(
     private val collectionId: Int
 ) : FullTextSearchComponent, ComponentContext by componentContext {
     private val _searchResult: MutableValue<FullSearchResult> = MutableValue(FullSearchResult("", listOf()))
-    override val searchResult: Value<FullSearchResult> = _searchResult
+
+    private val _searchIsActive = MutableValue(false)
+
+    private val _searchIsInProgress = MutableValue(false)
+
+    override val searchData: FullSearchData
+        get() = FullSearchData(_searchResult, _searchIsActive, _searchIsInProgress)
+
+    override fun activateSearch(isActive: Boolean,
+                                searchText: String) {
+        _searchIsActive.update { isActive }
+        if (isActive) {
+            updateSearchResult(searchText)
+        } else {
+            clearSearchResult()
+        }
+    }
 
     private val scope = CoroutineScope(Job())
 
     override fun updateSearchResult(searchText: String) {
         scope.launch {
             val results: MutableList<FullSearchResultItem> = mutableListOf()
+            _searchIsInProgress.update { true }
             database
                 .SongDao()
                 .getCollectionSongs(collectionId)
@@ -39,17 +55,21 @@ class DefaultFullTextSearchComponent(
                     }
                 }
             _searchResult.update { FullSearchResult(searchText, results) }
+            _searchIsInProgress.update { false }
         }
     }
 
     override fun clearSearchResult() {
         _searchResult.update { FullSearchResult("", listOf()) }
+        _searchIsActive.update { false }
+        _searchIsInProgress.update { false }
     }
 
     private fun getFullSearchResultItem(song: SongDBModel,
                                         startIndex: Int,
                                         length: Int,
                                         text: String): FullSearchResultItem {
+        var isLastWord = false
         var nextWords = ""
         var curNextIndex = startIndex + length + 1
         for (numWord in 0..2) {
@@ -57,10 +77,16 @@ class DefaultFullTextSearchComponent(
             if (nextSpaceIndex != -1) {
                 nextWords += " " + text.substring(curNextIndex..<nextSpaceIndex)
                 curNextIndex = nextSpaceIndex + 1
+            } else {
+                isLastWord = true
+                break
             }
         }
-        nextWords += "..."
+        if (!isLastWord) {
+            nextWords += "..."
+        }
 
+        isLastWord = false
         var prevWords = ""
         var curPrevIndex = text.length - startIndex + 1
         val reversedText = text.reversed()
@@ -69,9 +95,14 @@ class DefaultFullTextSearchComponent(
             if (prevSpaceIndex != -1) {
                 prevWords = reversedText.substring(curPrevIndex..<prevSpaceIndex).reversed() + " " + prevWords
                 curPrevIndex = prevSpaceIndex + 1
+            } else {
+                isLastWord = true
+                break
             }
         }
-        prevWords = "...$prevWords"
+        if (!isLastWord) {
+            prevWords = "...$prevWords"
+        }
 
         return FullSearchResultItem(song,
                                     prevWords,

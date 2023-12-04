@@ -23,17 +23,13 @@ class DefaultCollectionsComponent(
     init {
         CoroutineScope(Job()).launch {
             database.SongCollectionDao().getAllCollections().collect {
-                _songCollections.value = it;
+                _songCollections.value = it
             }
         }
     }
 
     override fun onSongCollectionClicked(id: Int) {
         onCollectionSelected(id, _songCollections.value)
-    }
-
-    override fun onBackClicked() {
-        TODO("Not yet implemented")
     }
 
     @Serializable

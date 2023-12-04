@@ -2,7 +2,6 @@ package ru.petr.songapp.screens.songListScreen
 
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.childContext
-import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
 import com.arkivanov.decompose.router.pages.ChildPages
 import com.arkivanov.decompose.router.pages.Pages
 import com.arkivanov.decompose.router.pages.PagesNavigation
@@ -24,7 +23,7 @@ import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
 class DefaultSongListScreenComponent(
     componentContext: ComponentContext,
-    private var collections: List<SongCollectionDBModel>,
+    override var collections: List<SongCollectionDBModel>,
     private val selectedCollectionId: Int = 0,
     private val onSongSelect: (collectionId: Int, songId: Int) -> Unit,
 ) : SongListScreenComponent, ComponentContext by componentContext {

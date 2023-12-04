@@ -32,7 +32,7 @@ suspend fun populateDBFromAssets(appContext: Context,
         } else {
             curDBPopulation[collection]!!.first
         }
-        // TODO обработать вхождение песен в сборник
+
         appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { songFile ->
             if (!songFile.endsWith(".$INFO_FILE_EXT") &&
                 ((curDBPopulation[collection] == null) || (curDBPopulation[collection] != null) &&
@@ -86,7 +86,7 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             }
         }
         if (parser.text != null) {
-            plainText += parser.text.trim().lowercase() + (if (!plainText.endsWith(" ")) " " else "")
+            plainText += parser.text.trim() + (if (!plainText.endsWith(" ")) " " else "")
         }
         parser.next()
     }
@@ -94,15 +94,15 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             0,
             collectionId,
             SongData(
-            name,
-            numberInCollection,
-            isCanon,
-            textAuthors,
-            textRusAuthors,
-            musicComposers,
-            additionalInfo,
-            true, // all songs from included files are fixed
-        ),
+                name,
+                numberInCollection,
+                isCanon,
+                textAuthors,
+                textRusAuthors,
+                musicComposers,
+                additionalInfo,
+                true, // all songs from included files are fixed
+            ),
             appContext.assets
             .open("$COLLECTIONS_FOLDER/$collectionName/$songFile")
             .bufferedReader().readText(),

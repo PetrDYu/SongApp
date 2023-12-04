@@ -22,10 +22,18 @@ class DefaultSongComponent(
     override val song: Value<Song> = _song
     override val fontSize: Value<Int> = settings.songFontSize
 
+    private val _name = MutableValue("")
+    override val name: Value<String> = _name
+
+    private val _numberInCollection = MutableValue(0)
+    override val numberInCollection: Value<Int> = _numberInCollection
+
     init {
         CoroutineScope(Job()).launch {
             database.SongDao().getSongWithCollectionById(songId).collect { songFromDB ->
                 _song.update { getSong(songFromDB) }
+                _name.update { songFromDB.songData.name }
+                _numberInCollection.update { songFromDB.songData.numberInCollection }
             }
         }
     }

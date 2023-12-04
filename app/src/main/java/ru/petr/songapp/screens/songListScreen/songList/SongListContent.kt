@@ -1,6 +1,6 @@
 package ru.petr.songapp.screens.songListScreen.songList
 
-import androidx.compose.foundation.clickable
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -10,6 +10,9 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Divider
 import androidx.compose.material3.MaterialTheme
@@ -18,12 +21,16 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.withStyle
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
@@ -33,7 +40,13 @@ import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
-    SongList(modifier,
+    SongList(modifier.background(brush =
+                                 Brush.verticalGradient(
+                                     colors = listOf(
+                                         colorResource(id = R.color.main_blue),
+                                         Color(0x215E744B)
+                                     )
+                                 )),
          songs = component.songItems.subscribeAsState().value,
          onSongNameClick = component::onSongClicked,
          searchIsActive = component.searchIsActive.subscribeAsState().value,
@@ -56,15 +69,11 @@ fun SongList(modifier: Modifier = Modifier,
     val fullTextSearchIsActive by fullTextSearchData.fullSearchIsActive.subscribeAsState()
     val fullTextSearchIsInProgress by fullTextSearchData.fullSearchIsInProgress.subscribeAsState()
 
-    Box(modifier) {
+    Box(modifier.fillMaxSize()) {
         if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
             if (searchIsActive) {
                 Column {
-                    Text(
-                        stringResource(
-                            id = R.string.not_found_songs_in_collection),
-                        modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
-                    )
+                    MessageCard(stringResource(id = R.string.not_found_songs_in_collection))
                     if (!fullTextSearchIsActive) {
                         FullSearchButton(onFullTextSearchClick)
                     } else if (fullTextSearchIsInProgress) {
@@ -73,20 +82,12 @@ fun SongList(modifier: Modifier = Modifier,
 
                 }
             } else {
-                Text(
-                    stringResource(
-                            id = R.string.not_added_songs_in_collection),
-                    modifier = Modifier.padding(vertical = 10.dp, horizontal = 20.dp)
-                )
+                MessageCard(stringResource( id = R.string.not_added_songs_in_collection))
             }
         } else {
             LazyColumn(Modifier.fillMaxSize()) {
                 items(songs.size) { index ->
-                    SongRow(songs[index], onSongNameClick)
-
-                    if (index != songs.size - 1 || fullTextSearchIsActive) {
-                        SongRowDivider()
-                    }
+                    SongCard(songs[index], onSongNameClick)
                 }
 
                 if (searchIsActive) {
@@ -101,16 +102,13 @@ fun SongList(modifier: Modifier = Modifier,
                     } else {
                         items(fullTextSearchResult.resultsList.size) { index ->
                             fullTextSearchResult.resultsList[index].also {resultItem ->
-                                SongRow(
+                                SongCard(
                                     song = SongListComponent.SongItem(resultItem.song.id,
                                                                       resultItem.song.songData.numberInCollection,
                                                                       resultItem.song.songData.name),
                                     onSongNameClick = onSongNameClick,
                                     fullTextSearchIsActive = true,
                                     fullSearchResultItem = resultItem)
-                            }
-                            if (index != fullTextSearchResult.resultsList.size - 1) {
-                                SongRowDivider()
                             }
                         }
                     }
@@ -121,51 +119,61 @@ fun SongList(modifier: Modifier = Modifier,
 }
 
 @Composable
-fun SongRow(song: SongListComponent.SongItem,
-            onSongNameClick: (id:Int) -> Unit,
-            fontSize: Int = 20,
-            fullTextSearchIsActive: Boolean = false,
-            fullSearchResultItem: FullSearchResultItem? = null
-) {
-    Row(Modifier
-            .clickable { onSongNameClick(song.id) }
-            .padding(vertical = 10.dp, horizontal = 20.dp)
-            .fillMaxWidth()
+fun MessageCard(message: String) {
+    Card (Modifier
+              .fillMaxWidth()
+              .padding(vertical = 5.dp, horizontal = 20.dp),
+          colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_white))
     ) {
-        Text(
-            "${song.numInColl}. ",
-            fontSize = fontSize.sp,
-            color = MaterialTheme.colorScheme.secondary
-        )
-        Column {
-            Text(
-                song.name,
-                fontSize = 20.sp
-            )
-            if (fullTextSearchIsActive && fullSearchResultItem != null) {
-                Text(
-                    text = buildAnnotatedString {
-                        withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
-                            append(fullSearchResultItem.prevWords)
-                        }
-                        withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
-                            append(fullSearchResultItem.searchedText)
-                        }
-                        withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
-                            append(fullSearchResultItem.nextWords)
-                        }
-                    },
-                    fontSize = (fontSize - 5).sp,
-                    color = MaterialTheme.colorScheme.secondary
-                )
-            }
-        }
+        Text(message, modifier = Modifier.padding(10.dp))
     }
 }
 
 @Composable
-fun SongRowDivider(modifier: Modifier = Modifier) {
-    Divider(modifier.padding(horizontal = 20.dp))
+fun SongCard(song: SongListComponent.SongItem,
+             onSongNameClick: (id:Int) -> Unit,
+             fontSize: Int = 20,
+             fullTextSearchIsActive: Boolean = false,
+             fullSearchResultItem: FullSearchResultItem? = null
+) {
+    Card (
+        onClick = { onSongNameClick(song.id) },
+        Modifier
+            .fillMaxWidth()
+            .padding(vertical = 5.dp, horizontal = 20.dp),
+        colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_white))
+    ) {
+        Row(Modifier.padding(10.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text(
+                "\n${song.numInColl}. \n",
+                fontSize = fontSize.sp,
+                color = MaterialTheme.colorScheme.secondary
+            )
+            Column {
+                Text(
+                    song.name,
+                    fontSize = 20.sp
+                )
+                if (fullTextSearchIsActive && fullSearchResultItem != null) {
+                    Text(
+                        text = buildAnnotatedString {
+                            withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                                append(fullSearchResultItem.prevWords)
+                            }
+                            withStyle(style = SpanStyle(fontWeight = FontWeight.Bold)) {
+                                append(fullSearchResultItem.searchedText)
+                            }
+                            withStyle(style = SpanStyle(fontStyle = FontStyle.Italic)) {
+                                append(fullSearchResultItem.nextWords)
+                            }
+                        },
+                        fontSize = (fontSize - 5).sp,
+                        color = MaterialTheme.colorScheme.secondary
+                    )
+                }
+            }
+        }
+    }
 }
 
 @Composable
@@ -175,7 +183,8 @@ fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
             .padding(horizontal = 40.dp, vertical = 10.dp)
             .fillMaxWidth()
             .height(40.dp),
-        onClick = { onFullTextSearchClick() }
+        onClick = { onFullTextSearchClick() },
+        colors = ButtonDefaults.buttonColors(containerColor = colorResource(id = R.color.main_blue))
     ) {
         Text(stringResource(id = R.string.search_by_full_text))
     }
@@ -185,6 +194,13 @@ fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
 fun FullSearchProgressBar(modifier: Modifier = Modifier) {
     Box(modifier.fillMaxWidth(),
         contentAlignment = Alignment.Center) {
-        CircularProgressIndicator(Modifier.padding(top = 20.dp, bottom = 70.dp))
+        CircularProgressIndicator(Modifier.padding(top = 20.dp, bottom = 70.dp),
+                                  colorResource(id = R.color.main_blue))
     }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun SongListContentPreview() {
+    
 }

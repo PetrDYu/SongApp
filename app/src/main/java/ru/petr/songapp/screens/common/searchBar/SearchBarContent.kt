@@ -1,6 +1,6 @@
 package ru.petr.songapp.screens.common.searchBar
 
-import androidx.activity.compose.BackHandler
+import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -18,6 +18,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
@@ -41,7 +42,7 @@ fun SearchSongBar(modifier: Modifier = Modifier,
                   onSearchButtonClick: ()->Unit) {
     Row(
             verticalAlignment = Alignment.CenterVertically,
-            modifier = modifier
+            modifier = modifier.background(colorResource(id = R.color.main_white))
     ) {
         val keyboardController = LocalSoftwareKeyboardController.current
         val focusManager = LocalFocusManager.current

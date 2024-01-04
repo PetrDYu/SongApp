@@ -2,6 +2,7 @@ package ru.petr.songapp.screens.common.searchBar
 
 import androidx.core.text.isDigitsOnly
 import com.arkivanov.decompose.value.Value
+import ru.petr.songapp.database.room.songData.utils.removeSpecialSymbolsAndGetPositions
 import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
 interface SearchBarComponent {
@@ -24,7 +25,7 @@ interface SearchBarComponent {
                     songList
                 }
             } else {
-                songList.filter { searchText.uppercase() in it.name.uppercase() }
+                songList.filter { searchText.uppercase() in removeSpecialSymbolsAndGetPositions(it.name.uppercase()).first }
             }
             return updatedSongList
         }

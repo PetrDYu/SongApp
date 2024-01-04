@@ -33,11 +33,19 @@ data class SongDBModel(
 
     @ColumnInfo(name = "PlainText")
     val plainText: String,
+
+    @ColumnInfo(name = "PlainTextWithoutSpecialSymbols")
+    val plainTextWithoutSpecialSymbols: String,
+
+    @ColumnInfo(name = "SpecialSymbolPositions")
+    val specialSymbolPositions: String,
 ) {
     companion object {
         val empty = SongDBModel(0,
                                 0,
                                 SongData("", 0, false, false, "", "", "", "", false),
+                                "",
+                                "",
                                 "",
                                 "")
     }

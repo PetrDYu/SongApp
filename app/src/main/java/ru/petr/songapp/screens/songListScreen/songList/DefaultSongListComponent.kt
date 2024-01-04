@@ -5,6 +5,9 @@ import com.arkivanov.decompose.childContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.launch
 import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.screens.common.fullTextSearch.DefaultFullTextSearchComponent
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
@@ -30,8 +33,10 @@ class DefaultSongListComponent(
 
     init {
         clickSearchObservable.observe { searchText ->
-            _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
-            fullSearch.activateSearch(false)
+            CoroutineScope(Job()).launch {
+                _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
+                fullSearch.activateSearch(false)
+            }
         }
 
         searchIsActive.observe { isActive ->
@@ -54,7 +59,13 @@ class DefaultSongListComponent(
             _songItemsCopy = newList
 
             if (searchIsActive.value) {
-                _songItems.update { SearchBarComponent.updateSongList(newList, clickSearchObservable.value) }
+                CoroutineScope(Job()).launch {
+                    _songItems.update {
+                        SearchBarComponent.updateSongList(
+                            newList,
+                            clickSearchObservable.value)
+                    }
+                }
             } else {
                 _songItems.update { newList }
             }

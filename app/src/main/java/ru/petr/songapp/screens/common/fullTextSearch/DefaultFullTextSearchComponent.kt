@@ -8,6 +8,8 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.database.room.songData.SongDBModel
+import ru.petr.songapp.database.room.songData.utils.getIndexTuning
+import ru.petr.songapp.database.room.songData.utils.getLenTuning
 
 class DefaultFullTextSearchComponent(
     componentContext: ComponentContext,
@@ -34,23 +36,27 @@ class DefaultFullTextSearchComponent(
 
     private val scope = CoroutineScope(Job())
 
-    override fun updateSearchResult(searchText: String) {
+    override fun updateSearchResult(searchTextWithoutSpecialSymbols: String) {
         scope.launch {
             val results: MutableList<FullSearchResultItem> = mutableListOf()
             _searchIsInProgress.update { true }
             databaseComponent.getAllSongsInCollection(collectionId).value
                 .forEach {songDataForCollection ->
                     val song = databaseComponent.getSongById(songDataForCollection.id)
-                    val foundIndex = song.plainText.indexOf(searchText, ignoreCase = true)
+                    val foundIndex = song.plainTextWithoutSpecialSymbols.indexOf(searchTextWithoutSpecialSymbols, ignoreCase = true)
                     if (foundIndex != -1) {
+                        val startIndex = foundIndex + getIndexTuning(foundIndex, song.specialSymbolPositions)
+                        val length = searchTextWithoutSpecialSymbols.length + getLenTuning(foundIndex,
+                                                                      searchTextWithoutSpecialSymbols.length,
+                                                                      song.specialSymbolPositions)
                         val result = getFullSearchResultItem(song,
-                                                             foundIndex,
-                                                             searchText.length,
+                                                             startIndex,
+                                                             length,
                                                              song.plainText)
                         results.add(result)
                     }
                 }
-            _searchResult.update { FullSearchResult(searchText, results) }
+            _searchResult.update { FullSearchResult(searchTextWithoutSpecialSymbols, results) }
             _searchIsInProgress.update { false }
         }
     }
@@ -67,7 +73,11 @@ class DefaultFullTextSearchComponent(
                                         text: String): FullSearchResultItem {
         var isLastWord = false
         var nextWords = ""
-        var curNextIndex = startIndex + length + 1
+        var curNextIndex = startIndex + length
+        if (text[curNextIndex] != ' ') {
+            curNextIndex = text.indexOf(' ', startIndex = curNextIndex)
+        }
+        val newEndIndex = curNextIndex
         for (numWord in 0..2) {
             val nextSpaceIndex = text.indexOf(' ', startIndex = curNextIndex)
             if (nextSpaceIndex != -1) {
@@ -84,8 +94,12 @@ class DefaultFullTextSearchComponent(
 
         isLastWord = false
         var prevWords = ""
-        var curPrevIndex = text.length - startIndex + 1
+        var curPrevIndex = text.length - startIndex
         val reversedText = text.reversed()
+        if (reversedText[curPrevIndex] != ' ') {
+            curPrevIndex = reversedText.indexOf(' ', startIndex = curPrevIndex)
+        }
+        val newStartIndex = reversedText.length - curPrevIndex
         for (numWord in 0..2) {
             val prevSpaceIndex = reversedText.indexOf(' ', startIndex = curPrevIndex)
             if (prevSpaceIndex != -1) {
@@ -102,7 +116,7 @@ class DefaultFullTextSearchComponent(
 
         return FullSearchResultItem(song,
                                     prevWords,
-                                    text.substring(startIndex, startIndex + length),
+                                    text.substring(newStartIndex, newEndIndex),
                                     nextWords)
     }
 }

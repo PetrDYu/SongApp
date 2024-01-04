@@ -90,6 +90,7 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
         }
         parser.next()
     }
+    val (plainTextWithoutSpecialSymbol, specialSymbolsPositions) = removeSpecialSymbolsAndGetPositions(plainText)
     return SongDBModel(
             0,
             collectionId,
@@ -108,5 +109,48 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             .open("$COLLECTIONS_FOLDER/$collectionName/$songFile")
             .bufferedReader().readText(),
             plainText,
+            plainTextWithoutSpecialSymbol,
+            specialSymbolsPositions,
     )
+}
+
+private val specialSymbolsRegExp = """[^A-Za-zА-Яа-я0-9\s]""".toRegex()
+private val spaceNotOneRegExp = """\s{2,}""".toRegex()
+
+fun removeSpecialSymbolsAndGetPositions(plainText: String) : Pair<String, String> {
+    val specPosList = mutableListOf<Int>()
+    specialSymbolsRegExp.findAll(plainText).forEach { specPos ->
+        if (specPos.range.first != 0) {
+            if (plainText[specPos.range.first - 1] == ' ' && plainText[specPos.range.last + 1] == ' ') {
+                specPosList.add(specPos.range.first - 1)
+            }
+        }
+        specPosList.add(specPos.range.first)
+    }
+    val textWithoutSpecialSymbols = specialSymbolsRegExp.replace(plainText, "")
+    val spacePosList = mutableListOf<Int>()
+    spaceNotOneRegExp.findAll(plainText)
+        .forEach { spacesPos ->
+            spacePosList.addAll((spacesPos.range.first + 1 ..spacesPos.range.last).toList())
+        }
+    specPosList.addAll(spacePosList)
+    return Pair(spaceNotOneRegExp.replace(textWithoutSpecialSymbols, " "), specPosList.sorted().joinToString(","))
+}
+
+fun getIndexTuning(curIndex: Int, posList: List<Int>): Int {
+    var indexTuning = 0
+    posList.forEach { pos ->
+        if (curIndex + indexTuning > pos) {
+            indexTuning++
+        }
+    }
+    return indexTuning
+}
+
+fun getIndexTuning(curIndex: Int, posList: String): Int {
+    return getIndexTuning(curIndex, posList.split(",").map { it.toInt() })
+}
+
+fun getLenTuning(startIndex: Int, curLen: Int, posList: String): Int {
+    return getIndexTuning(startIndex + curLen - 1, posList) - getIndexTuning(startIndex, posList)
 }

@@ -7,7 +7,7 @@ interface FullTextSearchComponent {
     fun activateSearch(isActive: Boolean,
                        searchText: String = "")
 
-    fun updateSearchResult(searchText: String)
+    fun updateSearchResult(searchTextWithoutSpecialSymbols: String)
 
     fun clearSearchResult()
 }

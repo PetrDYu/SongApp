@@ -13,6 +13,7 @@ import com.arkivanov.decompose.value.update
 import kotlinx.serialization.Serializable
 import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
+import ru.petr.songapp.database.room.songData.utils.removeSpecialSymbolsAndGetPositions
 import ru.petr.songapp.screens.common.searchBar.DefaultSearchBarComponent
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 import ru.petr.songapp.screens.songListScreen.songList.DefaultSongListComponent
@@ -33,7 +34,7 @@ class DefaultSongListScreenComponent(
 
     override val searchBarComponent: SearchBarComponent =
         DefaultSearchBarComponent(childContext("SearchBar")) { searchText ->
-            clickSearchObservable.update { searchText }
+            clickSearchObservable.update { removeSpecialSymbolsAndGetPositions(searchText.trim()).first }
         }
 
     override var collectionPages: Value<ChildPages<*, SongListComponent>> =

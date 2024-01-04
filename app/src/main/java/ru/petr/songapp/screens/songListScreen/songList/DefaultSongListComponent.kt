@@ -8,7 +8,7 @@ import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
-import ru.petr.songapp.commonAndroid.database
+import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.screens.common.fullTextSearch.DefaultFullTextSearchComponent
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
@@ -45,7 +45,7 @@ class DefaultSongListComponent(
         }
 
         CoroutineScope(Job()).launch {
-            componentContext.database.SongDao().getCollectionSongs(collectionId).collect {
+            componentContext.databaseComponent.getAllSongsInCollection(collectionId).observe {
                 val newList = mutableListOf<SongListComponent.SongItem>()
                 for(song in it) {
                     newList.add(

@@ -1,17 +1,15 @@
 package ru.petr.songapp.screens.songScreen.song.models.parsing
 
 import org.xmlpull.v1.XmlPullParser
-import ru.petr.songapp.database.room.songData.SongCollectionDBModel
-import ru.petr.songapp.database.room.songData.SongWithCollectionFromDB
+import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.screens.songScreen.song.models.Song
-import ru.petr.songapp.screens.songScreen.song.models.utils.SongNumberInCollection
 import ru.petr.songapp.screens.songScreen.song.models.parsing.SongPartBuilder.getPartBuilder
 import ru.petr.songapp.screens.songScreen.song.models.songParts.SongPart
 
 object SongBuilder {
 
     fun getSong(
-        song: SongWithCollectionFromDB,
+        song: SongDBModel,
         //parentCollection: SongCollectionDBModel
     ): Song {
         //val numberInCollection = SongNumberInCollection(song.songData.numberInCollection, parentCollection)

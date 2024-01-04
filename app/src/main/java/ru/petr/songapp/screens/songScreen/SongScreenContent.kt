@@ -9,7 +9,8 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Settings
-import androidx.compose.material.icons.outlined.Star
+import androidx.compose.material.icons.outlined.Favorite
+import androidx.compose.material.icons.outlined.FavoriteBorder
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.FloatingActionButton
@@ -34,7 +35,7 @@ import ru.petr.songapp.screens.songScreen.song.SongContent
 fun SongScreenContent(component: SongScreenComponent,
                       modifier: Modifier = Modifier) {
     ConstraintLayout(modifier.background(colorResource(id = R.color.main_white))) {
-        val (header, viewer, settingsButton, editButton) = createRefs()
+        val (viewer, settingsButton, editButton) = createRefs()
         SongWrapper(component = component,
                     modifier = Modifier.constrainAs(viewer) {
                         top.linkTo(parent.top, margin = 0.dp)
@@ -68,6 +69,7 @@ fun SongWrapper(modifier: Modifier = Modifier,
     val songName by component.song.name.subscribeAsState()
     val songNumber by component.song.numberInCollection.subscribeAsState()
     val fontSize by component.song.fontSize.subscribeAsState()
+    val isFavorite by component.song.isFavorite.subscribeAsState()
     Column (modifier) {
         SongScreenHeader(
             Modifier
@@ -75,9 +77,10 @@ fun SongWrapper(modifier: Modifier = Modifier,
                 .padding(top = 10.dp),
             songNumber = songNumber,
             songName = songName,
-            fontSize = fontSize
+            fontSize = fontSize,
+            isFavorite = isFavorite,
         ) {
-
+            component.setIsFavorite(!isFavorite)
         }
         SongContent(component = component.song,
                     Modifier)
@@ -90,18 +93,25 @@ fun SongScreenHeader(modifier: Modifier = Modifier,
                      songNumber: Int,
                      songName: String,
                      fontSize: Int,
+                     isFavorite: Boolean,
                      onFavoriteClick: ()->Unit) {
     Card (
         modifier.fillMaxWidth(),
         colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_blue_light))
     ) {
         Row (verticalAlignment = Alignment.CenterVertically) {
-            Icon(imageVector = Icons.Outlined.Star,
+            val icon = if (isFavorite) {
+                Icons.Outlined.Favorite
+            } else {
+                Icons.Outlined.FavoriteBorder
+            }
+            Icon(imageVector = icon,
                  contentDescription = null,
                  modifier = Modifier
                      .clickable { onFavoriteClick() }
                      .padding(10.dp)
                      .size((fontSize + 2).dp))
+
             Column (
                 Modifier
                     .padding(vertical = 10.dp)
@@ -120,5 +130,6 @@ fun SongScreenHeaderPreview() {
     SongScreenHeader(songNumber = 33,
                      songName = "Этот день сотворил Господь",
                      fontSize = 20,
+                     isFavorite = false,
                      onFavoriteClick = {})
 }

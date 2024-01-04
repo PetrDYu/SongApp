@@ -42,6 +42,9 @@ data class SongData(
     @ColumnInfo(name = "NumberInCollection")
     val numberInCollection: Int,
 
+    @ColumnInfo(name = "IsFavorite")
+    val isFavorite: Boolean,
+
     @ColumnInfo(name = "IsCanon")
     val isCanon: Boolean,
 

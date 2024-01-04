@@ -96,6 +96,7 @@ fun parseSongFile(appContext: Context, parser: XmlPullParser, songFile: String, 
             SongData(
                 name,
                 numberInCollection,
+                false,
                 isCanon,
                 textAuthors,
                 textRusAuthors,

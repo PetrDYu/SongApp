@@ -10,4 +10,5 @@ interface SongScreenComponent {
     val settingsSheet: Value<ChildSlot<*,SettingsSheetComponent>>
 
     fun showSettingsSheet()
+    fun setIsFavorite(isFavorite: Boolean)
 }

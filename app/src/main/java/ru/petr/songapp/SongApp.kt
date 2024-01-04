@@ -1,14 +1,13 @@
 package ru.petr.songapp
 
 import android.app.Application
-import com.arkivanov.decompose.childContext
-import com.arkivanov.essenty.lifecycle.doOnDestroy
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.SupervisorJob
+import ru.petr.songapp.commonAndroid.databaseComponent.DatabaseComponent
+import ru.petr.songapp.commonAndroid.databaseComponent.DefaultDatabaseComponent
 import ru.petr.songapp.commonAndroid.settingsComponent.DefaultSettingsComponent
 import ru.petr.songapp.commonAndroid.settingsComponent.SettingsComponent
 import ru.petr.songapp.database.room.SongAppDB
-import ru.petr.songapp.root.DefaultRootComponent
 
 class SongApp : Application() {
 
@@ -21,10 +20,12 @@ class SongApp : Application() {
     override fun onCreate() {
         super.onCreate()
         database = databaseInner
+        databaseComponent = DefaultDatabaseComponent(this)
         settings = settingsInner
     }
     companion object {
         lateinit var database: SongAppDB
+        lateinit var databaseComponent: DatabaseComponent
         lateinit var settings: SettingsComponent
     }
 }

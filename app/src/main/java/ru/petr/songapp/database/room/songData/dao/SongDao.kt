@@ -13,6 +13,9 @@ interface SongDao {
     @Query("SELECT Id, NumberInCollection, Name FROM Songs WHERE CollectionId = :collectionId ORDER BY NumberInCollection")
     fun getCollectionSongs(collectionId: Int): Flow<List<SongDataForCollection>>
 
+    @Query("SELECT Id, NumberInCollection, Name FROM Songs WHERE isFavorite = 1 ORDER BY NumberInCollection")
+    fun getAllFavoriteSongs(): Flow<List<SongDataForCollection>>
+
     @Query("SELECT * FROM Songs WHERE Id = :id LIMIT 1")
     fun getSongById(id: Int): Flow<SongDBModel>
 
@@ -22,6 +25,9 @@ interface SongDao {
 
     @Update
     suspend fun update(songDBModel: SongDBModel)
+
+    @Query("UPDATE Songs SET isFavorite = :isFavorite WHERE Id = :id")
+    suspend fun updateFavorite(id: Int, isFavorite: Boolean)
 
     @Delete
     suspend fun delete(songDBModel: SongDBModel)

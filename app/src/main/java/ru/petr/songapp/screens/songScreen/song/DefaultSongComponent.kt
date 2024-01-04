@@ -15,7 +15,7 @@ import ru.petr.songapp.screens.songScreen.song.models.parsing.SongBuilder.getSon
 class DefaultSongComponent(
     componentContext: ComponentContext,
     private val collectionId: Int,
-    private val songId: Int,
+    override val songId : Int,
 ) : SongComponent, ComponentContext by componentContext {
 
     private val _song: MutableValue<Song> = MutableValue(Song.emptySong)
@@ -28,12 +28,16 @@ class DefaultSongComponent(
     private val _numberInCollection = MutableValue(0)
     override val numberInCollection: Value<Int> = _numberInCollection
 
+    private val _isFavorite = MutableValue(false)
+    override val isFavorite: Value<Boolean> = _isFavorite
+
     init {
         CoroutineScope(Job()).launch {
-            database.SongDao().getSongWithCollectionById(songId).collect { songFromDB ->
+            database.SongDao().getSongById(songId).collect { songFromDB ->
                 _song.update { getSong(songFromDB) }
                 _name.update { songFromDB.songData.name }
                 _numberInCollection.update { songFromDB.songData.numberInCollection }
+                _isFavorite.update { songFromDB.songData.isFavorite }
             }
         }
     }

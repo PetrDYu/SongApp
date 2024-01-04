@@ -5,9 +5,6 @@ import com.arkivanov.decompose.childContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Job
-import kotlinx.coroutines.launch
 import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.screens.common.fullTextSearch.DefaultFullTextSearchComponent
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
@@ -33,7 +30,7 @@ class DefaultSongListComponent(
 
     init {
         clickSearchObservable.observe { searchText ->
-            _songItems.update { SearchBarComponent.updateSongList(_songItems.value, searchText) }
+            _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
             fullSearch.activateSearch(false)
         }
 
@@ -44,25 +41,22 @@ class DefaultSongListComponent(
             }
         }
 
-        CoroutineScope(Job()).launch {
-            componentContext.databaseComponent.getAllSongsInCollection(collectionId).observe {
-                val newList = mutableListOf<SongListComponent.SongItem>()
-                for(song in it) {
-                    newList.add(
-                            SongListComponent.SongItem(
-                                    song.id,
-                                    song.numberInCollection,
-                                    song.name))
-                }
+        databaseComponent.getAllSongsInCollection(collectionId).observe {
+            val newList = mutableListOf<SongListComponent.SongItem>()
+            for(song in it) {
+                newList.add(
+                        SongListComponent.SongItem(
+                                song.id,
+                                song.numberInCollection,
+                                song.name))
+            }
 
-                _songItemsCopy = newList
+            _songItemsCopy = newList
 
-                if (searchIsActive.value) {
-                    _songItems.update { SearchBarComponent.updateSongList(newList, clickSearchObservable.value) }
-                } else {
-                    _songItems.update { newList }
-                }
-
+            if (searchIsActive.value) {
+                _songItems.update { SearchBarComponent.updateSongList(newList, clickSearchObservable.value) }
+            } else {
+                _songItems.update { newList }
             }
         }
     }

@@ -18,7 +18,11 @@ interface SearchBarComponent {
             val updatedSongList: List<SongListComponent.SongItem> = if (searchText == "") {
                 songList
             } else if (searchText.isDigitsOnly()) {
-                songList.filter { searchText.toInt() == it.numInColl }
+                if (searchText.length < 9) {
+                    songList.filter { searchText.toInt() == it.numInColl }
+                } else {
+                    songList
+                }
             } else {
                 songList.filter { searchText.uppercase() in it.name.uppercase() }
             }

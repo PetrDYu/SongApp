@@ -7,16 +7,18 @@ import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 import ru.petr.songapp.database.room.SongAppDB
 import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 
 class DefaultDatabaseComponent(
-    context: Context
+    context: Context,
+    rootScope: CoroutineScope
 ) : DatabaseComponent {
     private val scope = CoroutineScope(Job())
-    private val database by lazy { SongAppDB.getDB(context, scope) }
+    private val database by lazy { SongAppDB.getDB(context, rootScope) }
 
     private val songs: MutableList<MutableValue<List<SongDataForCollection>>> = mutableListOf()
     private val songCoroutines: MutableList<Job> = mutableListOf()
@@ -31,6 +33,22 @@ class DefaultDatabaseComponent(
         } else {
             MutableValue(listOf())
         }
+    }
+
+    override fun getValueSongById(id: Int): Value<SongDBModel> {
+        val songValue = MutableValue(SongDBModel.empty)
+        scope.launch {
+            database.SongDao().getSongById(id).collect{ song ->
+                songValue.update { song }
+            }
+        }
+        return songValue
+    }
+
+
+
+    override suspend fun getSongById(id: Int): SongDBModel {
+        return database.SongDao().getSongById(id).first()
     }
 
     override fun updateSong(song: SongDBModel) {

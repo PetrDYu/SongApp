@@ -33,7 +33,15 @@ data class SongDBModel(
 
     @ColumnInfo(name = "PlainText")
     val plainText: String,
-)
+) {
+    companion object {
+        val empty = SongDBModel(0,
+                                0,
+                                SongData("", 0, false, false, "", "", "", "", false),
+                                "",
+                                "")
+    }
+}
 
 data class SongData(
     @ColumnInfo(name = "Name")

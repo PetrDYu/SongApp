@@ -2,14 +2,14 @@ package ru.petr.songapp.screens.collections
 
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
-import ru.petr.songapp.database.room.songData.SongCollectionDBModel
+import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
 
 class PreviewCollectionsComponent() : CollectionsComponent {
-    override val songCollections: Value<List<SongCollectionDBModel>> =
+    override val songCollections: Value<List<SongCollection>> =
         MutableValue(listOf(
-            SongCollectionDBModel(0, "Избранное", "Избр"),
-            SongCollectionDBModel(1, "Будем петь и славить", "БПиС"),
-            SongCollectionDBModel(2, "Песнь возрождения", "ПВ"),
+            SongCollection(0, "Избранное"),
+            SongCollection(1, "Будем петь и славить"),
+            SongCollection(2, "Песнь возрождения"),
         ))
 
     override fun onSongCollectionClicked(id: Int) {}

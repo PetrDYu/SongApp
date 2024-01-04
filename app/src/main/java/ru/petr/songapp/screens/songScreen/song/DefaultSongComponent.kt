@@ -4,10 +4,7 @@ import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Job
-import kotlinx.coroutines.launch
-import ru.petr.songapp.commonAndroid.database
+import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.commonAndroid.settings
 import ru.petr.songapp.screens.songScreen.song.models.Song
 import ru.petr.songapp.screens.songScreen.song.models.parsing.SongBuilder.getSong
@@ -32,13 +29,11 @@ class DefaultSongComponent(
     override val isFavorite: Value<Boolean> = _isFavorite
 
     init {
-        CoroutineScope(Job()).launch {
-            database.SongDao().getSongById(songId).collect { songFromDB ->
-                _song.update { getSong(songFromDB) }
-                _name.update { songFromDB.songData.name }
-                _numberInCollection.update { songFromDB.songData.numberInCollection }
-                _isFavorite.update { songFromDB.songData.isFavorite }
-            }
+        databaseComponent.getValueSongById(songId).observe { songFromDB ->
+            _song.update { getSong(songFromDB) }
+            _name.update { songFromDB.songData.name }
+            _numberInCollection.update { songFromDB.songData.numberInCollection }
+            _isFavorite.update { songFromDB.songData.isFavorite }
         }
     }
 }

@@ -5,9 +5,8 @@ import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
-import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
-import ru.petr.songapp.commonAndroid.database
+import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.database.room.songData.SongDBModel
 
 class DefaultFullTextSearchComponent(
@@ -39,12 +38,9 @@ class DefaultFullTextSearchComponent(
         scope.launch {
             val results: MutableList<FullSearchResultItem> = mutableListOf()
             _searchIsInProgress.update { true }
-            database
-                .SongDao()
-                .getCollectionSongs(collectionId)
-                .first()
+            databaseComponent.getAllSongsInCollection(collectionId).value
                 .forEach {songDataForCollection ->
-                    val song = database.SongDao().getSongById(songDataForCollection.id).first()
+                    val song = databaseComponent.getSongById(songDataForCollection.id)
                     val foundIndex = song.plainText.indexOf(searchText, ignoreCase = true)
                     if (foundIndex != -1) {
                         val result = getFullSearchResultItem(song,

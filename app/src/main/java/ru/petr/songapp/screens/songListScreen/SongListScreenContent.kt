@@ -1,5 +1,11 @@
 package ru.petr.songapp.screens.songListScreen
 
+import androidx.compose.animation.AnimatedContent
+import androidx.compose.animation.animateContentSize
+import androidx.compose.animation.core.tween
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
@@ -56,6 +62,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
 fun SongListScreenTopBar(collectionName: String) {
     Box(Modifier
             .background(colorResource(id = R.color.main_white))
+            .animateContentSize()
             .fillMaxWidth()) {
         Row(
             Modifier
@@ -73,12 +80,23 @@ fun SongListScreenTopBar(collectionName: String) {
                     tint = colorResource(id = R.color.main_blue)
                 )
             }
-            Text(
-                collectionName.uppercase(),
-                fontSize = 22.sp,
-                modifier = Modifier
-                    .padding(vertical = 10.dp)
-            )
+            AnimatedContent(
+                targetState = collectionName.uppercase(),
+                transitionSpec = {
+                    fadeIn(animationSpec = tween(durationMillis = 500)) togetherWith
+                        fadeOut(animationSpec = tween(durationMillis = 500))
+                },
+                contentAlignment = Alignment.Center,
+                label = "animatedHeaderText"
+            ) { animatedText ->
+                Text(
+                    animatedText,
+                    fontSize = 22.sp,
+                    modifier = Modifier
+                        .padding(vertical = 10.dp)
+                )
+            }
+
         }
     }
 }

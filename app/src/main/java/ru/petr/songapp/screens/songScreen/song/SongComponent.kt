@@ -1,5 +1,6 @@
 package ru.petr.songapp.screens.songScreen.song
 
+import androidx.compose.ui.geometry.Offset
 import com.arkivanov.decompose.value.Value
 import ru.petr.songapp.screens.songScreen.song.models.Song
 
@@ -12,4 +13,6 @@ interface SongComponent {
     val name: Value<String>
     val numberInCollection: Value<Int>
     val isFavorite: Value<Boolean>
+
+    val chorusOffset: Value<Offset>
 }

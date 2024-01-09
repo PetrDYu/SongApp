@@ -3,8 +3,6 @@ package ru.petr.songapp.screens.songScreen.song
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.rememberScrollState
-import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -15,17 +13,19 @@ import ru.petr.songapp.screens.songScreen.song.models.SongShowTypes
 import ru.petr.songapp.screens.songScreen.song.models.SongView
 
 @Composable
-fun SongContent(component: SongComponent, modifier: Modifier = Modifier) {
+fun SongContent(component: SongComponent,
+                modifier: Modifier = Modifier,
+                onChorusOffsetChanged: (Int) -> Unit) {
     SongViewer(modifier = modifier,
                song = component.song.subscribeAsState().value,
-               fontSize = component.fontSize.subscribeAsState().value)
+               fontSize = component.fontSize.subscribeAsState().value,
+               onChorusOffsetChanged = onChorusOffsetChanged)
 }
 
 @Composable
-fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int) {
+fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int, onChorusOffsetChanged: (Int) -> Unit) {
     Box(modifier = modifier
         .fillMaxSize()
-        .verticalScroll(rememberScrollState())
     ) {
         if (song == null) {
             Text("Ошибка в процессе загрузки")
@@ -36,7 +36,8 @@ fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int) {
                                                  bottom=100.dp),
                      showType = SongShowTypes.VIEW,
                      song = song,
-                     fontSize = fontSize)
+                     fontSize = fontSize,
+                     onChorusOffsetChanged = onChorusOffsetChanged)
         }
     }
 }

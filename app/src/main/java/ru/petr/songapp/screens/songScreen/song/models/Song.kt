@@ -1,10 +1,7 @@
 package ru.petr.songapp.screens.songScreen.song.models
 
-import ru.petr.songapp.database.room.songData.SongCollectionDBModel
-import ru.petr.songapp.screens.songScreen.song.models.utils.SongNumberInCollection
 import ru.petr.songapp.screens.songScreen.song.models.songParts.SongPart
 import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.layers.ChunkLayer
-import ru.petr.songapp.screens.songScreen.song.models.utils.*
 import java.util.Collections.max
 import kotlin.reflect.full.isSubclassOf
 
@@ -18,6 +15,12 @@ class Song (
 
     init {
 
+    }
+
+    fun getChorusQty(): Int {
+        return mSongParts
+            .filterIsInstance<SongPart.Chorus>()
+            .size
     }
 
     fun clone(

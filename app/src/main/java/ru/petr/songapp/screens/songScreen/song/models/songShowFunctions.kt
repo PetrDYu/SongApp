@@ -7,6 +7,8 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.Layout
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.positionInParent
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.*
@@ -22,10 +24,19 @@ fun SongView(
     showType: SongShowTypes,
     song: Song,
     fontSize: Int,
+    onChorusOffsetChanged: (Int) -> Unit
 ) {
     Column(modifier.padding(top = 20.dp, start = 10.dp, end = 5.dp)) {
         for (part in song.mSongParts) {
             SongPartView(
+                Modifier.onGloballyPositioned { layoutCoordinates ->
+                    if (part is SongPart.Chorus) {
+                        onChorusOffsetChanged(
+                            layoutCoordinates.positionInParent().y.toInt() +
+                            layoutCoordinates.parentCoordinates!!.positionInParent().y.toInt()
+                        )
+                    }
+                },
                 showType = showType,
                 part = part,
                 layerStack = song.mLayerStack,
@@ -55,7 +66,13 @@ fun SongPartView(
         }
     }
     Column(modifier) {
-        SongPartTitleView(modifier, showType, partType, titleId, number, fontSize)
+        SongPartTitleView(
+            Modifier,
+            showType,
+            partType,
+            titleId,
+            number,
+            fontSize)
         SongPartBodyView(showType = showType, part = part, layerStack = layerStack, fontSize = fontSize)
         Spacer(modifier = Modifier.height(fontSize.dp))
     }

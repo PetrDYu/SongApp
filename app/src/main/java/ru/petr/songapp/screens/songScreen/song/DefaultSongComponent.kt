@@ -1,5 +1,6 @@
 package ru.petr.songapp.screens.songScreen.song
 
+import androidx.compose.ui.geometry.Offset
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
@@ -27,6 +28,9 @@ class DefaultSongComponent(
 
     private val _isFavorite = MutableValue(false)
     override val isFavorite: Value<Boolean> = _isFavorite
+
+    private val _chorusOffset = MutableValue(Offset(0f, 0f))
+    override val chorusOffset: Value<Offset> = _chorusOffset
 
     init {
         databaseComponent.getValueSongById(songId).observe { songFromDB ->

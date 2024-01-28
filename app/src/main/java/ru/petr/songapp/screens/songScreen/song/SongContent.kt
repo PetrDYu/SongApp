@@ -15,7 +15,7 @@ import ru.petr.songapp.screens.songScreen.song.models.SongView
 @Composable
 fun SongContent(component: SongComponent,
                 modifier: Modifier = Modifier,
-                onChorusOffsetChanged: (Int) -> Unit) {
+                onChorusOffsetChanged: (Int, Int) -> Unit) {
     SongViewer(modifier = modifier,
                song = component.song.subscribeAsState().value,
                fontSize = component.fontSize.subscribeAsState().value,
@@ -23,7 +23,7 @@ fun SongContent(component: SongComponent,
 }
 
 @Composable
-fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int, onChorusOffsetChanged: (Int) -> Unit) {
+fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int, onChorusOffsetChanged: (Int, Int) -> Unit) {
     Box(modifier = modifier
         .fillMaxSize()
     ) {

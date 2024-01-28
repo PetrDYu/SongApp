@@ -24,7 +24,7 @@ fun SongView(
     showType: SongShowTypes,
     song: Song,
     fontSize: Int,
-    onChorusOffsetChanged: (Int) -> Unit
+    onChorusOffsetChanged: (Int, Int) -> Unit
 ) {
     Column(modifier.padding(top = 20.dp, start = 10.dp, end = 5.dp)) {
         for (part in song.mSongParts) {
@@ -33,7 +33,8 @@ fun SongView(
                     if (part is SongPart.Chorus) {
                         onChorusOffsetChanged(
                             layoutCoordinates.positionInParent().y.toInt() +
-                            layoutCoordinates.parentCoordinates!!.positionInParent().y.toInt()
+                            layoutCoordinates.parentCoordinates!!.positionInParent().y.toInt(),
+                            layoutCoordinates.size.height
                         )
                     }
                 },

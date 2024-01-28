@@ -11,7 +11,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.ArrowBack
+import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.outlined.Favorite
 import androidx.compose.material.icons.outlined.FavoriteBorder
@@ -23,6 +23,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
@@ -31,6 +32,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.PlatformTextStyle
+import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -46,9 +49,11 @@ fun SongScreenContent(component: SongScreenComponent,
                       modifier: Modifier = Modifier, ) {
     val scrollState = rememberScrollState()
     val scope = rememberCoroutineScope()
-    var chorusOffset by remember { mutableStateOf(0) }
+    var chorusOffset by remember { mutableIntStateOf(0) }
+    var chorusHeight by remember { mutableIntStateOf(0) }
     val scrollOnChorus by remember {
-        derivedStateOf { scrollState.value == chorusOffset }
+        derivedStateOf { scrollState.value - chorusHeight < chorusOffset &&
+                         chorusOffset < scrollState.value + chorusHeight / 5 }
     }
     var buttonToChorus by remember(scrollOnChorus) {
             mutableStateOf(!scrollOnChorus)
@@ -63,8 +68,9 @@ fun SongScreenContent(component: SongScreenComponent,
                         end.linkTo(parent.end, margin = 30.dp)
                     },
                     scrollState = scrollState,
-                    onChorusOffsetChanged = { offset ->
+                    onChorusOffsetChanged = { offset, height ->
                         chorusOffset = offset
+                        chorusHeight = height
                     })
         FloatingActionButton(
             onClick = {
@@ -83,7 +89,7 @@ fun SongScreenContent(component: SongScreenComponent,
         val chorusQty by remember(component.song.song.value.mSongParts.isEmpty()) { mutableStateOf(component.song.song.value.getChorusQty()) }
         if (chorusQty == 1) {
             var currentOffset by remember {
-                mutableStateOf(0)
+                mutableIntStateOf(0)
             }
             FloatingActionButton(
                 onClick = {
@@ -107,7 +113,11 @@ fun SongScreenContent(component: SongScreenComponent,
                 if (buttonToChorus) {
                     Text("П", fontSize = 30.sp)
                 } else {
-                    Icon(Icons.Default.ArrowBack, null)
+                    Column (horizontalAlignment = Alignment.CenterHorizontally) {
+                        Icon(Icons.Default.KeyboardArrowDown, null)
+                        Text("К", fontSize = 25.sp, style = TextStyle(platformStyle = PlatformTextStyle(includeFontPadding = false)))
+                    }
+
                 }
 
             }
@@ -123,7 +133,7 @@ fun SongScreenContent(component: SongScreenComponent,
 fun SongWrapper(modifier: Modifier = Modifier,
                 component: SongScreenComponent,
                 scrollState: ScrollState = rememberScrollState(),
-                onChorusOffsetChanged: (Int) -> Unit,) {
+                onChorusOffsetChanged: (Int, Int) -> Unit,) {
     val songName by component.song.name.subscribeAsState()
     val songNumber by component.song.numberInCollection.subscribeAsState()
     val fontSize by component.song.fontSize.subscribeAsState()

@@ -14,7 +14,6 @@ import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
-import androidx.compose.material3.Divider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -72,15 +71,14 @@ fun SongList(modifier: Modifier = Modifier,
     Box(modifier.fillMaxSize()) {
         if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
             if (searchIsActive) {
-                Column {
-                    MessageCard(stringResource(id = R.string.not_found_songs_in_collection))
-                    if (!fullTextSearchIsActive) {
-                        FullSearchButton(onFullTextSearchClick)
-                    } else if (fullTextSearchIsInProgress) {
-                        FullSearchProgressBar()
+                    if (fullTextSearchIsInProgress) {
+                        Column {
+                            MessageCard(message = stringResource(id = R.string.not_fount_songs_by_name))
+                            FullSearchProgressBar()
+                        }
+                    } else {
+                        MessageCard(stringResource(id = R.string.not_found_songs_in_collection))
                     }
-
-                }
             } else {
                 MessageCard(stringResource( id = R.string.not_added_songs_in_collection))
             }

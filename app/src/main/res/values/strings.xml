@@ -9,6 +9,7 @@
     <string name="collections_not_added">Ни одного сборника ещё не добавлено</string>
     <string name="search_by_full_text">Искать по текстам песен</string>
     <string name="not_found_songs_in_collection">В сборнике не найдено ни одной песни</string>
+    <string name="not_fount_songs_by_name">В названиях песен этого сборника ничего не найдено, идёт поиск по текстам песен</string>
     <string name="not_added_songs_in_collection">В сборник не добавлено ни одной песни</string>
     <string name="search_bar_placeholder">Название или номер песни</string>
 

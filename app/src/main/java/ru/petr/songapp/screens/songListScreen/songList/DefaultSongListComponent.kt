@@ -33,9 +33,10 @@ class DefaultSongListComponent(
 
     init {
         clickSearchObservable.observe { searchText ->
+            if (searchText.isBlank()) return@observe
             CoroutineScope(Job()).launch {
                 _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
-                fullSearch.activateSearch(false)
+                fullSearch.activateSearch(true, searchText)
             }
         }
 

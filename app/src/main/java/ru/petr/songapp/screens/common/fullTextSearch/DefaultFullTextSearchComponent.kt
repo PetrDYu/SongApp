@@ -35,9 +35,11 @@ class DefaultFullTextSearchComponent(
     }
 
     private val scope = CoroutineScope(Job())
+    private var curJob: Job? = null
 
     override fun updateSearchResult(searchTextWithoutSpecialSymbols: String) {
-        scope.launch {
+        curJob?.cancel()
+        curJob = scope.launch {
             val results: MutableList<FullSearchResultItem> = mutableListOf()
             _searchIsInProgress.update { true }
             databaseComponent.getAllSongsInCollection(collectionId).value

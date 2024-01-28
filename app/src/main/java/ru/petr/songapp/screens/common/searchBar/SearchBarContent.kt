@@ -7,6 +7,7 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Clear
 import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
@@ -62,6 +63,11 @@ fun SearchSongBar(modifier: Modifier = Modifier,
                     .padding(horizontal = 8.dp, vertical = 8.dp)
                     .weight(1f),
                 singleLine = true,
+                trailingIcon = {
+                    IconButton(onClick = {onChangeSearchText("")}) {
+                        Icon(Icons.Default.Clear, null, Modifier.size(24.dp))
+                    }
+                }
                 //            colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
         )
         //        var offset by remember { mutableStateOf(0f) }

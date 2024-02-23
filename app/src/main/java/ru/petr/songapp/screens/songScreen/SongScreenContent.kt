@@ -5,6 +5,7 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -31,9 +32,11 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.PlatformTextStyle
 import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -138,7 +141,7 @@ fun SongWrapper(modifier: Modifier = Modifier,
     val songNumber by component.song.numberInCollection.subscribeAsState()
     val fontSize by component.song.fontSize.subscribeAsState()
     val isFavorite by component.song.isFavorite.subscribeAsState()
-    Column (modifier) {
+    Column (modifier.fillMaxHeight()) {
         SongScreenHeader(
             Modifier
                 .padding(horizontal = 10.dp)
@@ -179,14 +182,21 @@ fun SongScreenHeader(modifier: Modifier = Modifier,
                  modifier = Modifier
                      .clickable { onFavoriteClick() }
                      .padding(10.dp)
-                     .size((fontSize + 2).dp))
+                     .size((fontSize + 2).dp),
+                 tint = Color.White
+            )
 
             Column (
                 Modifier
                     .padding(vertical = 10.dp)
                     .padding(end = 20.dp)) {
-                Text("$songNumber", fontSize = (fontSize + 2).sp)
-                Text(songName.uppercase(), fontSize = (fontSize + 2).sp)
+                Text("$songNumber",
+                     fontSize = (fontSize + 2).sp)
+                Text(songName.uppercase(),
+                     fontSize = (fontSize + 2).sp,
+                     maxLines = 2,
+                     overflow = TextOverflow.Ellipsis,
+                     lineHeight = (fontSize + 4).sp)
             }
         }
     }

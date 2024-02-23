@@ -21,8 +21,6 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -42,8 +40,8 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
     SongList(modifier.background(brush =
                                  Brush.verticalGradient(
                                      colors = listOf(
-                                         colorResource(id = R.color.main_blue),
-                                         Color(0x215E744B)
+                                         MaterialTheme.colorScheme.primary,
+                                         MaterialTheme.colorScheme.secondary
                                      )
                                  )),
          songs = component.songItems.subscribeAsState().value,
@@ -121,7 +119,7 @@ fun MessageCard(message: String) {
     Card (Modifier
               .fillMaxWidth()
               .padding(vertical = 5.dp, horizontal = 20.dp),
-          colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_white))
+          colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondary)
     ) {
         Text(message, modifier = Modifier.padding(10.dp))
     }
@@ -139,13 +137,12 @@ fun SongCard(song: SongListComponent.SongItem,
         Modifier
             .fillMaxWidth()
             .padding(vertical = 5.dp, horizontal = 20.dp),
-        colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_white))
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondary)
     ) {
         Row(Modifier.padding(10.dp), verticalAlignment = Alignment.CenterVertically) {
             Text(
                 "\n${song.numInColl}. \n",
-                fontSize = fontSize.sp,
-                color = MaterialTheme.colorScheme.secondary
+                fontSize = fontSize.sp
             )
             Column {
                 Text(
@@ -166,7 +163,7 @@ fun SongCard(song: SongListComponent.SongItem,
                             }
                         },
                         fontSize = (fontSize - 5).sp,
-                        color = MaterialTheme.colorScheme.secondary
+                        color = MaterialTheme.colorScheme.onPrimary
                     )
                 }
             }
@@ -182,7 +179,7 @@ fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
             .fillMaxWidth()
             .height(40.dp),
         onClick = { onFullTextSearchClick() },
-        colors = ButtonDefaults.buttonColors(containerColor = colorResource(id = R.color.main_blue))
+        colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.primary)
     ) {
         Text(stringResource(id = R.string.search_by_full_text))
     }
@@ -193,7 +190,7 @@ fun FullSearchProgressBar(modifier: Modifier = Modifier) {
     Box(modifier.fillMaxWidth(),
         contentAlignment = Alignment.Center) {
         CircularProgressIndicator(Modifier.padding(top = 20.dp, bottom = 70.dp),
-                                  colorResource(id = R.color.main_blue))
+                                  MaterialTheme.colorScheme.primary)
     }
 }
 

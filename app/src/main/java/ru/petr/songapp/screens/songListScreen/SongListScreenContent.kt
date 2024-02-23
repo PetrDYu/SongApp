@@ -18,20 +18,19 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.List
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalDensity
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.jetbrains.pages.Pages
 import com.arkivanov.decompose.extensions.compose.jetbrains.pages.PagesScrollAnimation
 import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
-import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 
@@ -61,7 +60,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
 @Composable
 fun SongListScreenTopBar(collectionName: String) {
     Box(Modifier
-            .background(colorResource(id = R.color.main_white))
+            .background(MaterialTheme.colorScheme.secondary)
             .animateContentSize()
             .fillMaxWidth()) {
         Row(
@@ -77,7 +76,7 @@ fun SongListScreenTopBar(collectionName: String) {
                         .size(25.sp.toDp()),
                     imageVector = Icons.Default.List,
                     contentDescription = null,
-                    tint = colorResource(id = R.color.main_blue)
+                    tint = MaterialTheme.colorScheme.primary
                 )
             }
             AnimatedContent(

@@ -9,6 +9,7 @@ import androidx.compose.material3.Divider
 import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.ExposedDropdownMenuBox
 import androidx.compose.material3.ExposedDropdownMenuDefaults
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.ModalBottomSheet
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Text
@@ -19,8 +20,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.integerResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
@@ -34,7 +33,7 @@ fun SettingsSheetContent(component: SettingsSheetComponent,
                          modifier: Modifier = Modifier) {
     ModalBottomSheet(
         modifier = modifier,
-        containerColor = colorResource(id = R.color.second_white),
+        containerColor = MaterialTheme.colorScheme.secondary,
         onDismissRequest = {
             component.onDismissRequest()
         },
@@ -59,7 +58,7 @@ fun SongFontSizeSettingField(fontSize: Int, minFontSize: Int, maxFontSize: Int, 
         Text(
             modifier = Modifier.padding(top = 5.dp),
             text = stringResource(id = R.string.font_size_setting_label),
-            color = Color.Gray
+            color = MaterialTheme.colorScheme.onTertiaryContainer
         )
         ExposedDropdownMenuBox(expanded = expanded, onExpandedChange = {expanded = !expanded}) {
             OutlinedTextField(
@@ -74,13 +73,13 @@ fun SongFontSizeSettingField(fontSize: Int, minFontSize: Int, maxFontSize: Int, 
                 enabled = false,
                 textStyle = TextStyle(fontSize = fontSize.sp),
                 colors = ExposedDropdownMenuDefaults.textFieldColors(
-                    disabledTextColor = Color.Black,
-                    disabledContainerColor = colorResource(id = R.color.main_blue_light)
+                    disabledTextColor = MaterialTheme.colorScheme.onSecondary,
+                    disabledContainerColor = MaterialTheme.colorScheme.secondary
                 )
             )
             ExposedDropdownMenu(expanded = expanded,
                                 onDismissRequest = { expanded = false },
-                                modifier = Modifier.background(colorResource(id = R.color.second_white))) {
+                                modifier = Modifier.background(MaterialTheme.colorScheme.secondary)) {
                 for (curFontSize in minFontSize..maxFontSize) {
                     DropdownMenuItem(
                         onClick = {

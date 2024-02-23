@@ -19,6 +19,7 @@ import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
@@ -30,7 +31,6 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.PlatformTextStyle
 import androidx.compose.ui.text.TextStyle
@@ -58,7 +58,7 @@ fun SongScreenContent(component: SongScreenComponent,
     var buttonToChorus by remember(scrollOnChorus) {
             mutableStateOf(!scrollOnChorus)
     }
-    ConstraintLayout(modifier.background(colorResource(id = R.color.main_white))) {
+    ConstraintLayout(modifier.background(MaterialTheme.colorScheme.secondary)) {
         val (viewer, settingsButton, editButton, chorusButton) = createRefs()
         SongWrapper(component = component,
                     modifier = Modifier.constrainAs(viewer) {
@@ -108,7 +108,7 @@ fun SongScreenContent(component: SongScreenComponent,
                 Modifier.constrainAs(chorusButton) {
                     end.linkTo(parent.end, margin = 30.dp)
                     bottom.linkTo(settingsButton.top, margin = 15.dp)
-                }
+                },
             ) {
                 if (buttonToChorus) {
                     Text("П", fontSize = 30.sp)
@@ -166,7 +166,7 @@ fun SongScreenHeader(modifier: Modifier = Modifier,
                      onFavoriteClick: ()->Unit) {
     Card (
         modifier.fillMaxWidth(),
-        colors = CardDefaults.cardColors(containerColor = colorResource(id = R.color.main_blue_light))
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.tertiary)
     ) {
         Row (verticalAlignment = Alignment.CenterVertically) {
             val icon = if (isFavorite) {

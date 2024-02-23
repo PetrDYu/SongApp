@@ -264,7 +264,7 @@ private fun SongTextAdaptiveContentLayout(
 ) {
     Layout(modifier = modifier, content = content) { measurables, outerConstraints ->
         val rowElementsCounts = mutableListOf(0)
-        val maxRowHeghts = mutableListOf(0)
+        val maxRowHeights = mutableListOf(0)
         var rowNumber = 0
         var currentRowSize = 0
         val placeables = measurables.mapIndexed { _, measureable ->
@@ -273,18 +273,18 @@ private fun SongTextAdaptiveContentLayout(
                 ((currentRowSize + placeable.width) > outerConstraints.maxWidth)) {
                 currentRowSize = 0
                 rowElementsCounts.add(0)
-                maxRowHeghts.add(0)
+                maxRowHeights.add(0)
                 rowNumber++
             }
             currentRowSize += placeable.width
             rowElementsCounts[rowNumber]++
-            if (placeable.height > maxRowHeghts[rowNumber]) {
-                maxRowHeghts[rowNumber] = placeable.height
+            if (placeable.height > maxRowHeights[rowNumber]) {
+                maxRowHeights[rowNumber] = placeable.height
             }
             placeable
         }
 
-        val layoutHeight = maxRowHeghts.sum()
+        val layoutHeight = maxRowHeights.sum()
 
         layout(
             width = outerConstraints.constrainWidth(outerConstraints.maxWidth),
@@ -299,7 +299,7 @@ private fun SongTextAdaptiveContentLayout(
                     xPosition += placeables[plIndex].width
                 }
                 xPosition = 0
-                yPosition += maxRowHeghts[rowIndex]
+                yPosition += maxRowHeights[rowIndex]
                 curPlaceableIndex += count
             }
         }

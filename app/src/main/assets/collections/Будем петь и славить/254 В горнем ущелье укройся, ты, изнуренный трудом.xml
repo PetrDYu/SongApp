@@ -11,7 +11,7 @@
             <plain>Душу теснит искуситель, зов твой услышит Спаситель,</plain>
         </string>
         <string>
-            <plain>Он всемогущий Хранитель,</plain>
+            <plain>Он всемогущий Хранитель, </plain>
             <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>о ты, истомленный грехом.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
@@ -28,7 +28,7 @@
             <plain>Слушай! Господь призывает. Глянь! Уже ночь наступает.</plain>
         </string>
         <string>
-            <plain>Что же тебя не пускает?</plain>
+            <plain>Что же тебя не пускает? </plain>
             <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Он всем предлагает Свой дар.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
@@ -45,7 +45,7 @@
             <plain>Видит твои Он скитанья, все удалит воздыханья,</plain>
         </string>
         <string>
-            <plain>Плачь прекратит и стенанья,</plain>
+            <plain>Плачь прекратит и стенанья, </plain>
             <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>все слезы с очей Он отрет.</plain>
             <repeat id="2" rep_rate="2" is_opening="false" />
@@ -62,7 +62,7 @@
             <plain>Примет твое Он моленье, даст тебе мир и прощенье,</plain>
         </string>
         <string>
-            <plain>Новую жизнь и спасенье,</plain>
+            <plain>Новую жизнь и спасенье, </plain>
             <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>о ты, истомленный грехом</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />

@@ -2,7 +2,7 @@
 <song number="357" name="Славен наш Бог, сильный спасать" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="0">
         <string>
-            <plain>Славен наш Бог,</plain>
+            <plain>Славен наш Бог, </plain>
             <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>сильный спасать.</plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
@@ -22,7 +22,7 @@
     </verse>
     <verse number="0">
         <string>
-            <plain>Славен наш Бог,</plain>
+            <plain>Славен наш Бог, </plain>
             <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>дающий спасенье.</plain>
             <repeat id="1" rep_rate="3" is_opening="false" />
@@ -34,14 +34,14 @@
     </verse>
     <verse number="0">
         <string>
-            <plain>РА́М АДОНА́Й</plain>
+            <plain>РА́М АДОНА́Й </plain>
             <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>РА́В ЛЕ-ОШИ́Я</plain>
             <repeat id="2" rep_rate="3" is_opening="false" />
             <plain />
         </string>
         <string>
-            <plain>РА́М АДОНА́Й</plain>
+            <plain>РА́М АДОНА́Й </plain>
             <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>РА́В ЛЕ-ОШИ́Я</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
@@ -52,7 +52,7 @@
             <plain>А́КАПАРА́ У́ АСА ЛА́НУ У́ БАХАР БА́НУ И́ЦИЛЬ ОТА́НУ</plain>
         </string>
         <string>
-            <plain>РА́М АДОНА́Й</plain>
+            <plain>РА́М АДОНА́Й </plain>
             <repeat id="4" rep_rate="-1" is_opening="true" />
             <plain>РА́В ЛЕ-ОШИ́Я</plain>
             <repeat id="4" rep_rate="2" is_opening="false" />
@@ -60,7 +60,7 @@
     </verse>
     <verse number="0">
         <string>
-            <plain>РА́М АДОНА́Й</plain>
+            <plain>РА́М АДОНА́Й </plain>
             <repeat id="5" rep_rate="-1" is_opening="true" />
             <plain>НОТЭ́Н ЭТ ЙЕШУ́А</plain>
             <repeat id="5" rep_rate="3" is_opening="false" />

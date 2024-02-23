@@ -16,7 +16,7 @@
         <string>
             <repeat id="1" rep_rate="-1" is_opening="true" />
             <repeat id="0" rep_rate="-1" is_opening="true" />
-            <plain>На радость нам</plain>
+            <plain>На радость нам </plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
             <plain>и на веселие.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />

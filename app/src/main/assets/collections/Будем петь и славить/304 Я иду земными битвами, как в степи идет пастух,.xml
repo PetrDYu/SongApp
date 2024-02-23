@@ -7,7 +7,7 @@
         <string>
             <repeat id="1" rep_rate="-1" is_opening="true" />
             <repeat id="0" rep_rate="-1" is_opening="true" />
-            <plain>И сердечными молитвами</plain>
+            <plain>И сердечными молитвами </plain>
             <repeat id="0" rep_rate="3" is_opening="false" />
             <plain>укрепляется мой дух.</plain>
             <repeat id="1" rep_rate="2" is_opening="false" />
@@ -20,7 +20,7 @@
         <string>
             <repeat id="3" rep_rate="-1" is_opening="true" />
             <repeat id="2" rep_rate="-1" is_opening="true" />
-            <plain>Где течет рекой широкою</plain>
+            <plain>Где течет рекой широкою </plain>
             <repeat id="2" rep_rate="3" is_opening="false" />
             <plain>славословье без конца.</plain>
             <repeat id="3" rep_rate="2" is_opening="false" />
@@ -33,7 +33,7 @@
         <string>
             <repeat id="5" rep_rate="-1" is_opening="true" />
             <repeat id="4" rep_rate="-1" is_opening="true" />
-            <plain>Среди ангельского пения</plain>
+            <plain>Среди ангельского пения </plain>
             <repeat id="4" rep_rate="3" is_opening="false" />
             <plain>милосердный Божий лик.</plain>
             <repeat id="5" rep_rate="2" is_opening="false" />

@@ -18,7 +18,9 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
-            <plain>или: ::Gloria, gloria in excelsis Deo!::</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Gloria, gloria in excelsis Deo!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
     <verse number="2">

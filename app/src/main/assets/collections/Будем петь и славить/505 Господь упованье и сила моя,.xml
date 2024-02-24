@@ -46,7 +46,8 @@
             <plain>Знаю: любишь Ты меня,</plain>
         </string>
         <string>
-            <plain>Знаю: Ты всегда со мной.::</plain>
+            <plain>Знаю: Ты всегда со мной.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
 </song>

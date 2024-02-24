@@ -2,12 +2,16 @@
 <song number="368" name="Иисус нас любит Аллилуйя" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Иисус нас любит! Аллилуйя!</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
         <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Умер на кресте Он за наши грехи,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>Он нас спас от смерти! Аллилуйя!</plain>
@@ -15,12 +19,16 @@
     </verse>
     <verse number="3">
         <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>В третий день воскрес Он! Аллилуйя!</plain>
+            <repeat id="2" rep_rate="4" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
         <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Он придет за нами. Аллилуйя!</plain>
+            <repeat id="3" rep_rate="4" is_opening="false" />
         </string>
     </verse>
 </song>

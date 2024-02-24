@@ -28,7 +28,8 @@
             <plain>В ком найду я свой покой? Лишь в Тебе, Спаситель мой.</plain>
         </string>
         <string>
-            <plain>Твердо знаю, верю я: жизнь в Тебе моя.::</plain>
+            <plain>Твердо знаю, верю я: жизнь в Тебе моя.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
@@ -43,7 +44,8 @@
             <plain>Я хочу страдать с Тобой, Иисус, Спаситель мой.</plain>
         </string>
         <string>
-            <plain>Твердо знаю, верю я: жизнь в Тебе моя.::</plain>
+            <plain>Твердо знаю, верю я: жизнь в Тебе моя.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
     </verse>
     <verse number="4">

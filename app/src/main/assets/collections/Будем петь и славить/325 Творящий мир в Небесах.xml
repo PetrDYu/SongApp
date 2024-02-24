@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song number="325" name="Творящий мир в Небесах," canon="false" text="" textRus="Ю. Пастернака, И. Языковой" music="Нуриты Хирш" additionalInfo="">
+<song number="325" name="Творящий мир в Небесах" canon="false" text="" textRus="Ю. Пастернака, И. Языковой" music="Нуриты Хирш" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
@@ -9,7 +9,8 @@
             <plain>Мир подари нам и спасенье дай народу Твоему!</plain>
         </string>
         <string>
-            <plain>И воскликнем все: аминь!::</plain>
+            <plain>И воскликнем все: аминь!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <repeat id="1" rep_rate="-1" is_opening="true" />
@@ -41,7 +42,7 @@
         </string>
         <string>
             <plain>ША́ЛОМ АЛЭ́ЙНУ ВЭА́ЛЬ КОЛЬ ИСРАЭ́ЛЬ</plain>
-            <repeat id="3" rep_rate="2" is_opening="false" />
+            <repeat id="3" rep_rate="5" is_opening="false" />
         </string>
     </verse>
 </song>

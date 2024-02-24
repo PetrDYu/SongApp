@@ -2,22 +2,58 @@
 <song number="258" name="Аллилуйя" canon="false" text="" textRus="" music="" additionalInfo="">
     <verse number="1">
         <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
             <plain>Аллилуйя!</plain>
+            <repeat id="0" rep_rate="8" is_opening="false" />
         </string>
     </verse>
     <verse number="2">
         <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
             <plain>Жив Спаситель!</plain>
+            <repeat id="1" rep_rate="8" is_opening="false" />
         </string>
     </verse>
     <verse number="3">
         <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>Скоро Он грядет.</plain>
+            <repeat id="2" rep_rate="8" is_opening="false" />
         </string>
     </verse>
     <verse number="4">
         <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
             <plain>Благодарность Иисусу!</plain>
+            <repeat id="3" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Ждем Иисуса.</plain>
+            <repeat id="4" rep_rate="8" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Крепко любим Иисуса.</plain>
+            <repeat id="5" rep_rate="8" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Слава Богу!</plain>
+            <repeat id="6" rep_rate="8" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="8">
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="7" rep_rate="8" is_opening="false" />
         </string>
     </verse>
 </song>

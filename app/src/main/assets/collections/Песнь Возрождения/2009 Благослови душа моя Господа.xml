@@ -2,7 +2,9 @@
 <song number="2009" name="Благослови душа моя Господа" canon="false" text="" textRus="" music="">
     <verse number="1">
         <string>
-            <plain>Благослови, душа моя, Господа! (3 р.)</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Благослови, душа моя, Господа!</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>Благослови, душа моя!</plain>
@@ -34,13 +36,17 @@
             <plain>Да славит Его вся земля!</plain>
         </string>
         <string>
-            <plain>Аллилуйя! (3 р.)</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя!</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
         </string>
         <string>
             <plain>Благослови, душа моя, Господа</plain>
         </string>
         <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
             <plain>- Аллилуйя! (2 р.)</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Благослови, душа моя, Господа!</plain>

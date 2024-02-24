@@ -5,7 +5,9 @@
             <plain>Слава Творцу Иисусу,</plain>
         </string>
         <string>
-            <plain>Слава Творцу (2 раза)</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава Творцу</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Славь Творца Иисуса,</plain>
@@ -30,7 +32,9 @@
     </verse>
     <chorus number="2">
         <string>
-            <plain>Слава Творцу Иисусу (2 раза)</plain>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Слава Творцу Иисусу</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>Слава, слава, слава, слава,</plain>

@@ -58,8 +58,9 @@ fun SongScreenContent(component: SongScreenComponent,
         derivedStateOf { scrollState.value - chorusHeight < chorusOffset &&
                          chorusOffset < scrollState.value + chorusHeight / 5 }
     }
+    var agreeBackToVerse by remember { mutableStateOf(false) }
     var buttonToChorus by remember(scrollOnChorus) {
-            mutableStateOf(!scrollOnChorus)
+            mutableStateOf(!scrollOnChorus || !agreeBackToVerse)
     }
     ConstraintLayout(modifier.background(MaterialTheme.colorScheme.secondary)) {
         val (viewer, settingsButton, editButton, chorusButton) = createRefs()
@@ -107,6 +108,7 @@ fun SongScreenContent(component: SongScreenComponent,
                         }
                     }
                     buttonToChorus = !buttonToChorus
+                    agreeBackToVerse = true
                 },
                 Modifier.constrainAs(chorusButton) {
                     end.linkTo(parent.end, margin = 30.dp)

@@ -80,7 +80,7 @@ class DefaultDatabaseComponent(
                 collectionsIsUpdated.update { true }
             }
         }
-        collectionsIsUpdated.observe {
+        collectionsIsUpdated.subscribe {
             if (it) {
                 songCoroutines.forEach {
                     it.cancel()

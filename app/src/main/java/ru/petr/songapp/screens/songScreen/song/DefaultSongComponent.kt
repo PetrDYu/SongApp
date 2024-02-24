@@ -33,7 +33,7 @@ class DefaultSongComponent(
     override val chorusOffset: Value<Offset> = _chorusOffset
 
     init {
-        databaseComponent.getValueSongById(songId).observe { songFromDB ->
+        databaseComponent.getValueSongById(songId).subscribe { songFromDB ->
             _song.update { getSong(songFromDB) }
             _name.update { songFromDB.songData.name }
             _numberInCollection.update { songFromDB.songData.numberInCollection }

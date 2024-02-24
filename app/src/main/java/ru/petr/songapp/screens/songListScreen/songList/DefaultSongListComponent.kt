@@ -32,22 +32,22 @@ class DefaultSongListComponent(
     private var _songItemsCopy = _songItems.value
 
     init {
-        clickSearchObservable.observe { searchText ->
-            if (searchText.isBlank()) return@observe
+        clickSearchObservable.subscribe { searchText ->
+            if (searchText.isBlank()) return@subscribe
             CoroutineScope(Job()).launch {
                 _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
                 fullSearch.activateSearch(true, searchText)
             }
         }
 
-        searchIsActive.observe { isActive ->
+        searchIsActive.subscribe { isActive ->
             if (!isActive) {
                 _songItems.update { _songItemsCopy }
                 fullSearch.activateSearch(false)
             }
         }
 
-        databaseComponent.getAllSongsInCollection(collectionId).observe {
+        databaseComponent.getAllSongsInCollection(collectionId).subscribe {
             val newList = mutableListOf<SongListComponent.SongItem>()
             for(song in it) {
                 newList.add(

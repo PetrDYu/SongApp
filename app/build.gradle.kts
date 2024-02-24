@@ -70,8 +70,8 @@ dependencies {
     implementation("androidx.compose.ui:ui-graphics")
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3:1.1.2")
-    implementation("com.arkivanov.decompose:decompose:2.2.0-alpha04")
-    implementation("com.arkivanov.decompose:extensions-compose-jetbrains:2.2.0-alpha04")
+    implementation("com.arkivanov.decompose:decompose:3.0.0-alpha07")
+    implementation("com.arkivanov.decompose:extensions-compose:3.0.0-alpha07")
     implementation("androidx.room:room-ktx:2.6.0")
     // Jetpack Datastore
     implementation("androidx.datastore:datastore-preferences:1.0.0")

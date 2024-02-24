@@ -57,7 +57,7 @@ class DefaultSongListScreenComponent(
         }
 
     init {
-        databaseComponent.collections.observe { newCollections ->
+        databaseComponent.collections.subscribe { newCollections ->
             if (defaultCollectionIsSet) {
                 val oldSelectedIndex = collectionPages.value.selectedIndex
                 collectionPages =

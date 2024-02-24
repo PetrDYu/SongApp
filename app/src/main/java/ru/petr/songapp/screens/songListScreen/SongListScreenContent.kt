@@ -28,9 +28,9 @@ import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.arkivanov.decompose.extensions.compose.jetbrains.pages.Pages
-import com.arkivanov.decompose.extensions.compose.jetbrains.pages.PagesScrollAnimation
-import com.arkivanov.decompose.extensions.compose.jetbrains.subscribeAsState
+import com.arkivanov.decompose.extensions.compose.pages.Pages
+import com.arkivanov.decompose.extensions.compose.pages.PagesScrollAnimation
+import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 

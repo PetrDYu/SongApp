@@ -23,7 +23,7 @@ class DefaultSearchBarComponent(
     }
 
     init {
-        _searchText.observe { text ->
+        _searchText.subscribe { text ->
             _searchIsActive.update { text != "" }
             backCallback.isEnabled = _searchIsActive.value
         }

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="369" name="Славят Его земля, воды и небеса" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Славят Его земля, воды и небеса,</plain>
+        </string>
+        <string>
+            <plain>Все народы земные, и птицы, и звери:</plain>
+        </string>
+        <string>
+            <plain>Богу всегда хвала!</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Солнце: аллилуйя! Небо: аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Звезды: аллилуйя! Славят Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Степи: аллилуйя! Горы: аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Реки: аллилуйя! Славят Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мамы: аллилуйя! Папы: аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Дети: аллилуйя! Славят Тебя.</plain>
+        </string>
+    </verse>
+</song>

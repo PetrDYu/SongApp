@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="112" name="Воскликни Богу, вся земля Народы, как одна семья" canon="false" text="Д. Ясько" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Воскликни Богу, вся земля! Народы, как одна семья,</plain>
+        </string>
+        <string>
+            <plain>Предстаньте Господу с хвалой, Ему служите всей душой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Познайте, что Господь есть Бог, а мы – творенье Божьих рук;</plain>
+        </string>
+        <string>
+            <plain>В Свое Он стадо нас привлек, Он Пастырь наш и лучший Друг.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Спешите все в Его дворы, идите с пеньем в Божий дом,</plain>
+        </string>
+        <string>
+            <plain>Несите Дивному дары и поклоняйтесь с торжеством.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да прославляют все Творца, да любит Бога весь народ!</plain>
+        </string>
+        <string>
+            <plain>Господня милость без конца, Господня верность в род и род...</plain>
+        </string>
+    </verse>
+</song>

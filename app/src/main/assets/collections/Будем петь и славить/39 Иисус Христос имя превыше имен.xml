@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="39" name="Иисус Христос имя превыше имен" canon="false" text="Н. Херн" textRus="" music="Н. Херн" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Иисус Христос – имя превыше имен,</plain>
+        </string>
+        <string>
+            <plain>Чудный Спаситель, Дивный Господь.</plain>
+        </string>
+        <string>
+            <plain>Эммануил – Бог вечно с нами,</plain>
+        </string>
+        <string>
+            <plain>Благословенный, в Слове живой.</plain>
+        </string>
+    </verse>
+</song>

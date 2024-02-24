@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="183" name="По всей земле Дух дышит, где хочет" canon="false" text="Р. Тёрнера" textRus="Н. Манзиенко" music="Р. Тёрнера" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>По всей земле Дух дышит, где хочет,</plain>
+        </string>
+        <string>
+            <plain>По всей земле, как пророки прорекли.</plain>
+        </string>
+        <string>
+            <plain>По всей земле откровенье Божьей славы</plain>
+        </string>
+        <string>
+            <plain>Наполняет все вокруг, возвещая Иисуса Христа.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И в этой стране...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И в Церкви моей...</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И среди нас...</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>И в сердце моем...</plain>
+        </string>
+    </verse>
+</song>

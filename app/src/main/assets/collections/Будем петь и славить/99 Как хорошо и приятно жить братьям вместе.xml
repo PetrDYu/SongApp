@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="99" name="Как хорошо и приятно жить братьям вместе" canon="false" text="" textRus="П. Коломейцева, Ю. Пастернака" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Как хорошо и приятно жить братьям вместе,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Как хорошо жить братьям вместе.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Словно елей драгоценный на бороде Аарона,</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Словно елей на бороде Аарона.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Словно роса Ермонская на горах Сионских,</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Словно роса на горах Сионских.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Так заповедал Господь нам, благословил навеки,</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Благословил, благословил навеки.</plain>
+            <repeat id="7" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="8" rep_rate="-1" is_opening="true" />
+            <plain>Инэ ма тов ума наим шевет ахим гам яхад</plain>
+            <repeat id="8" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="9" rep_rate="-1" is_opening="true" />
+            <plain>Инэ ма тов шевет ахим гам яхад.</plain>
+            <repeat id="9" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

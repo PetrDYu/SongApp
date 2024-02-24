@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="411" name="Друг, расскажи, вновь расскажи, мне расскажи об Иисусе" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Друг, расскажи, вновь расскажи, мне расскажи об Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Что знает меня, любит меня, друг, расскажи об Иисусе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Спой мне опять, спой мне опять, спой мне опять об Иисусе,</plain>
+        </string>
+        <string>
+            <plain>Что знает меня, любит меня, спой мне опять об Иисусе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир мне дает, мир мне дает, мир мне дает Иисус мой.</plain>
+        </string>
+        <string>
+            <plain>Он знает меня, любит меня, мир мне дает Иисус мой.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Сердцем склонюсь,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+            <plain>сердцем склонюсь пред Иисусом.</plain>
+        </string>
+        <string>
+            <plain>Он знает меня, любит меня. Сердцем склонюсь пред Иисусом.</plain>
+        </string>
+    </verse>
+</song>

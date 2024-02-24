@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="147" name="Руки Христа это руки любви" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Руки Христа – это руки любви,</plain>
+        </string>
+        <string>
+            <plain>Чистые, нежные руки.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Ты посмотри, эти руки в крови –</plain>
+        </string>
+        <string>
+            <plain>След истязанья и муки.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Может быть ты изнемог, удручен,</plain>
+        </string>
+        <string>
+            <plain>Совесть тебя осуждает.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Взглянь, дорогая душа, это</plain>
+        </string>
+        <string>
+            <plain>Он Руки к тебе простирает!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Руки Христа извлекают из рва,</plain>
+        </string>
+        <string>
+            <plain>Cтавят на камне спасенья.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>О, это жизнь, а не просто слова,</plain>
+        </string>
+        <string>
+            <plain>Это любовь и прощенье.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Руки простерты ко мне и тебе,</plain>
+        </string>
+        <string>
+            <plain>Полные ласки, привета.</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Можно ли долго стоять в стороне</plain>
+        </string>
+        <string>
+            <plain>И не ответить на это?</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Ты посмотри, хорошо посмотри,</plain>
+        </string>
+        <string>
+            <plain>Не отвернись равнодушно.</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Руки Христа – это руки любви.</plain>
+        </string>
+        <string>
+            <plain>Друг мой, вставать тебе нужно.</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

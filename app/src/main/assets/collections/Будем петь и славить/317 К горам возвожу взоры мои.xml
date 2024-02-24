@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="317" name="К горам возвожу взоры мои" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>К горам возвожу взоры мои,</plain>
+        </string>
+        <string>
+            <plain>Откуда придет помощь ко мне.</plain>
+        </string>
+        <string>
+            <plain>От Бога придет помощь ко мне,</plain>
+        </string>
+        <string>
+            <plain>От Творца небес и земли.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Адонай! Аллилуйя!</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя! Адонай!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Стопа твоя пусть не преткнется вовек,</plain>
+        </string>
+        <string>
+            <plain>Пусть не уснет Хранитель твой.</plain>
+        </string>
+        <string>
+            <plain>Он не задремлет и не уснет,</plain>
+        </string>
+        <string>
+            <plain>Не уснет, Кем Израиль храним!</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хранит тебя Бог, покров над тобой,</plain>
+        </string>
+        <string>
+            <plain>Покров над тобой, над десницей твоей.</plain>
+        </string>
+        <string>
+            <plain>Не повредит тебе солнце во дни,</plain>
+        </string>
+        <string>
+            <plain>И луна не коснется в ночи.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Господь сохранит от всякого зла,</plain>
+        </string>
+        <string>
+            <plain>Господь сохранит душу твою,</plain>
+        </string>
+        <string>
+            <plain>Твой выход и вход, дороги твои</plain>
+        </string>
+        <string>
+            <plain>Сохранит во веки веков.</plain>
+        </string>
+    </verse>
+</song>

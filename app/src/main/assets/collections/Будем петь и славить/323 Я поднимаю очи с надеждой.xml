@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="323" name="Я поднимаю очи с надеждой" canon="false" text="Шломо Карлибаха" textRus="Ю. Пастернака, И. Языковой, Е. Сандлера" music="Шломо Карлибаха" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Я поднимаю очи с надеждой,</plain>
+        </string>
+        <string>
+            <plain>Очи на горы белоснежные Твои.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Верю, что придет помощь ко мне</plain>
+        </string>
+        <string>
+            <plain>С тех высоких гор, где живет Господь.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>И не споткнешься, и не преткнешься,</plain>
+        </string>
+        <string>
+            <plain>Нет, не воздремлет Хранящий тебя.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Не дремлет, не спит, не дремлет, не спит,</plain>
+        </string>
+        <string>
+            <plain>Не дремлет, не спит, Кто Израиля хранит.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Он есть Спаситель твой, Он есть сень твоя,</plain>
+        </string>
+        <string>
+            <plain>С правой руки твоей всегда Господь!</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Днем не поразит солнце тебя,</plain>
+        </string>
+        <string>
+            <plain>И не повредит луна тебе в ночи.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>От зла и несчастья Он сохранит,</plain>
+        </string>
+        <string>
+            <plain>Душу твою Господь сбережет.</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="7" rep_rate="-1" is_opening="true" />
+            <plain>Будет охранять все выходы твои,</plain>
+        </string>
+        <string>
+            <plain>Вхождение твое отныне и вовек.</plain>
+            <repeat id="7" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="8" rep_rate="-1" is_opening="true" />
+            <plain>Э́СА Э́ЙНАЙ Э́ЛЬ Э А́РИМ</plain>
+        </string>
+        <string>
+            <plain>МЭ́АИН МЭ́АИН Я́ВО ЭЗРИ́</plain>
+            <repeat id="8" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="9" rep_rate="-1" is_opening="true" />
+            <plain>Э́ЗРИ́ МЭ́ИМ А-ШЕ́М</plain>
+        </string>
+        <string>
+            <plain>О́СЭ́ ШАМА́ИМ ВААРЭ́Ц</plain>
+            <repeat id="9" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

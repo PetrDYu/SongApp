@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="196" name="Боже, когда я стенаю, прочь отгоняю грехи" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Боже, когда я стенаю, прочь отгоняю грехи,</plain>
+        </string>
+        <string>
+            <plain>Кто нас понять тогда может? Боже, один только Ты.</plain>
+        </string>
+        <string>
+            <plain>Нет, нет, я не один – Со мной мой Бог.</plain>
+        </string>
+        <string>
+            <plain>Он понимает и знает, в Нем и покой, и любовь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Ты Своим голосом нежным скажешь: «Прощаю тебя»,</plain>
+        </string>
+        <string>
+            <plain>И в тишине, не смолкая, слышится песня Твоя.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Нет, нет, я не один – Со мной мой Бог.</plain>
+        </string>
+        <string>
+            <plain>Нежно со мной пребывают вера, надежда, любовь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Если в долине суровой нас ожидают враги,</plain>
+        </string>
+        <string>
+            <plain>В горе ничто не поможет, можешь помочь только Ты.</plain>
+        </string>
+        <string>
+            <plain>Нет, нет, я не один – Со мной мой Бог.</plain>
+        </string>
+        <string>
+            <plain>В горе мне помогают вера, надежда, любовь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Если друзья исчезают в пору земной тесноты,</plain>
+        </string>
+        <string>
+            <plain>Руки Твои вытирают горькие слезы мои.</plain>
+        </string>
+        <string>
+            <plain>Нет, нет, я не один – Со мной мой Бог.</plain>
+        </string>
+        <string>
+            <plain>В горе моем помогают вера, надежда, любовь.</plain>
+        </string>
+    </verse>
+</song>

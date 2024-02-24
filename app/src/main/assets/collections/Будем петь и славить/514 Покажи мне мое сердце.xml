@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="514" name="Покажи мне мое сердце" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Покажи мне мое сердце,</plain>
+        </string>
+        <string>
+            <plain>Что там на глубине.</plain>
+        </string>
+        <string>
+            <plain>Я так хочу, чтоб не было тесно</plain>
+        </string>
+        <string>
+            <plain>Твоему Духу во мне.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Чтобы Твое дыханье наполняло мой дом –</plain>
+        </string>
+        <string>
+            <plain>Это мое желанье самое главное. Я прошу Тебя,</plain>
+        </string>
+        <string>
+            <plain>Дай мне сердце святое, сердце чистое дай.</plain>
+        </string>
+        <string>
+            <plain>Боже, мое упованье, только Ты меня не отпускай,</plain>
+        </string>
+        <string>
+            <plain>От Себя меня не отпускай.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Подари новую песню</plain>
+        </string>
+        <string>
+            <plain>О Твоей вечной любви.</plain>
+        </string>
+        <string>
+            <plain>Я так хочу быть с Тобой вместе</plain>
+        </string>
+        <string>
+            <plain>Каждый миг во все мои дни!</plain>
+        </string>
+    </verse>
+</song>

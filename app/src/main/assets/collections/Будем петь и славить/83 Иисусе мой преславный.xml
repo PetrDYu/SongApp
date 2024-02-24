@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="83" name="Иисусе мой преславный" canon="false" text="А. Ашикяна" textRus="" music="А. Ашикяна" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Иисусе мой преславный,</plain>
+        </string>
+        <string>
+            <plain>За грехи мои закланный,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Лишь в Тебе мое спасенье,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>О Господь возлюбленный мой!</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Иисусе мой безгрешный,</plain>
+        </string>
+        <string>
+            <plain>Бог, сошедший в ад кромешный,</plain>
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ты открыл нам двери рая,</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>О, Господь возлюбленный мой!</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Мир до смерти возлюбивший,</plain>
+        </string>
+        <string>
+            <plain>Крестной мукой искупивший,</plain>
+        </string>
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Кто, скажи, Тебя желанней,</plain>
+        </string>
+        <string>
+            <plain>Ты – мой свет и упованье,</plain>
+        </string>
+        <string>
+            <plain>Взора Отчего сиянье,</plain>
+        </string>
+        <string>
+            <plain>О Господь возлюбленный мой!</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

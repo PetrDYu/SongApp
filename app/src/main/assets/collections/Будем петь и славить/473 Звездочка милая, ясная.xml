@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="473" name="Звездочка милая, ясная" canon="false" text="Е. Гончаровой" textRus="" music="Е. Гончаровой" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Звездочка милая, ясная,</plain>
+        </string>
+        <string>
+            <plain>Светлая Ты и прекрасная.</plain>
+        </string>
+        <string>
+            <plain>Свет Твой струится из тьмы ночной,</plain>
+        </string>
+        <string>
+            <plain>Всем Ты твореньям даешь покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Ты мой Иисус родной!</plain>
+        </string>
+        <string>
+            <plain>Будь Ты всегда со мной.</plain>
+        </string>
+        <string>
+            <plain>Я ведь овечка Твоя,</plain>
+        </string>
+        <string>
+            <plain>Церковь моя семья.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На небосклоне Ты ярче всех.</plain>
+        </string>
+        <string>
+            <plain>В свете Твоем исчезает грех.</plain>
+        </string>
+        <string>
+            <plain>Ласки, любви Ты струишь поток,</plain>
+        </string>
+        <string>
+            <plain>Вечного бытия Ты исток.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Звездочка вечная, мой Иисус,</plain>
+        </string>
+        <string>
+            <plain>Всею душою к Тебе стремлюсь.</plain>
+        </string>
+        <string>
+            <plain>В жизненной буре меня веди,</plain>
+        </string>
+        <string>
+            <plain>Для вечной жизни с Тобой храни.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как я на небо хочу к Тебе.</plain>
+        </string>
+        <string>
+            <plain>Там ведь прекрасно, как в лучшем сне.</plain>
+        </string>
+        <string>
+            <plain>Ты протяни ко мне лучик Свой,</plain>
+        </string>
+        <string>
+            <plain>Чтобы найти мне мой путь домой!</plain>
+        </string>
+    </verse>
+</song>

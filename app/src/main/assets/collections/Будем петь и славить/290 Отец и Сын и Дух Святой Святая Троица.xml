@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="290" name="Отец и Сын и Дух Святой Святая Троица" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Отец и Сын и Дух Святой – Святая Троица,</plain>
+        </string>
+        <string>
+            <plain>Призри с небес к стране земной – народ Твой молится.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Тебе мы молимся, о Дух Святой.</plain>
+        </string>
+        <string>
+            <plain>Тебя мы славим в этот час, Святая Троица.</plain>
+        </string>
+        <string>
+            <plain>Дай силы верными быть до конца.</plain>
+        </string>
+        <string>
+            <plain>Хоть мало сильных среди нас,</plain>
+        </string>
+        <string>
+            <plain>Но Церковь строится.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Ты силу в Церкви прояви, как в дни начальные,</plain>
+        </string>
+        <string>
+            <plain>И радостью благослови сердца печальные.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть истина чрез Твой народ провозглашается</plain>
+        </string>
+        <string>
+            <plain>И с верою Твоя любовь в нас открывается.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Ты Духом нас соедини, как Церковь первую,</plain>
+        </string>
+        <string>
+            <plain>И в мире этом сохрани Невесту верную.</plain>
+        </string>
+    </verse>
+</song>

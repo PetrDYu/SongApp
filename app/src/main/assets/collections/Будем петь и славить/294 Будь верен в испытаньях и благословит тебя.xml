@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="294" name="Будь верен в испытаньях и благословит тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Будь верен в испытаньях – и благословит тебя,</plain>
+        </string>
+        <string>
+            <plain>И через все страдания, заботясь и любя,</plain>
+        </string>
+        <string>
+            <plain>Тебя Он проведет и силы даст перенести</plain>
+        </string>
+        <string>
+            <plain>Все, что встретится в пути.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Если в сердце вера, не страшны печали,</plain>
+        </string>
+        <string>
+            <plain>Пустота и серость не гнетут ночами,</plain>
+        </string>
+        <string>
+            <plain>И что бы в этой жизни мы не повстречали,</plain>
+        </string>
+        <string>
+            <plain>Главное, что есть Любовь.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>(Есть на свете Божья любовь – в конце).</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будь с Богом в мире этом и не бойся ничего.</plain>
+        </string>
+        <string>
+            <plain>Он ни за что на свете не оставит Своего.</plain>
+        </string>
+        <string>
+            <plain>Пусть жизнь твоя свечою воспылает в темноте,</plain>
+        </string>
+        <string>
+            <plain>Как того хотел Отец.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Храни Его завет и не сворачивай с пути,</plain>
+        </string>
+        <string>
+            <plain>И в сердце обогретом имя Господа святи.</plain>
+        </string>
+        <string>
+            <plain>И все твои желанья Он исполнит и мечты –</plain>
+        </string>
+        <string>
+            <plain>В этом будь уверен ты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я хочу сказать тебе: «Не бойся,</plain>
+        </string>
+        <string>
+            <plain>Не волнуйся и не беспокойся!</plain>
+        </string>
+        <string>
+            <plain>В тишине пойми, что наш Господь</plain>
+        </string>
+        <string>
+            <plain>Сам утешение дает».</plain>
+        </string>
+    </verse>
+</song>

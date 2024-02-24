@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="151" name="Оживляет весть Господня нищих и калек" canon="false" text="А. Б. Симпсона" textRus="" music="Дж. Х. Бурке" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Оживляет весть Господня нищих и калек,</plain>
+        </string>
+        <string>
+            <plain>Иисус вчера, сегодня, Тот же и вовек.</plain>
+        </string>
+        <string>
+            <plain>Любит грешных и спасает, изгоняет тьму,</plain>
+        </string>
+        <string>
+            <plain>Бури жизни усмиряет. О, хвала Ему!</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Иисус вчера, сегодня, Тот же и вовек.</plain>
+        </string>
+        <string>
+            <plain>Все пройдет, любовь Господня не стареет, нет.</plain>
+        </string>
+        <string>
+            <plain>О, хвала Ему! О, хвала Ему! Все пройдет,</plain>
+        </string>
+        <string>
+            <plain>Иисус пребудет. О, хвала Ему!</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Друг отверженных и грешных ищет и тебя.</plain>
+        </string>
+        <string>
+            <plain>О, приди к Нему поспешно, о грехах скорбя.</plain>
+        </string>
+        <string>
+            <plain>Кто сказал: «Не осуждаю, больше не греши»,</plain>
+        </string>
+        <string>
+            <plain>Говорит теперь: «Прощаю», – для твоей души.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Исцелял Он прокаженных, всем давал покой.</plain>
+        </string>
+        <string>
+            <plain>Он заменит наши стоны радостью святой.</plain>
+        </string>
+        <string>
+            <plain>Кто припал к Его одежде, милость испытал.</plain>
+        </string>
+        <string>
+            <plain>Кто пришел к Нему с надеждой, новой тварью стал.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Как с печальными друзьями шел Он в Эммаус,</plain>
+        </string>
+        <string>
+            <plain>Так идет незримо с нами наш Господь Иисус.</plain>
+        </string>
+        <string>
+            <plain>День придет, Его увидим, как Он был и есть...</plain>
+        </string>
+        <string>
+            <plain>За терпенье, за страданье даст нам жизнь и честь.</plain>
+        </string>
+    </verse>
+</song>

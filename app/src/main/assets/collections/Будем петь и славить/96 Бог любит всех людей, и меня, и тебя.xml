@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="96" name="Бог любит всех людей, и меня, и тебя" canon="false" text="Г. Гселя" textRus="" music="Г. Гселя" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Бог любит всех людей, и меня, и тебя,</plain>
+        </string>
+        <string>
+            <plain>И больших, и малышей, примет всех, любя.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Всем скажите, в каждый дом стучите,</plain>
+        </string>
+        <string>
+            <plain>Что Отец Небесный примет всех любя.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он Сына Своего дал и мне, и тебе,</plain>
+        </string>
+        <string>
+            <plain>Чтобы больше не страдать людям на земле.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="239" name="Когда бушует море и волны бьют ладью" canon="false" text="" textRus="" music="Я. Шаленко" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Когда бушует море и волны бьют ладью,</plain>
+        </string>
+        <string>
+            <plain>Я слышу нежный голос: «Мир тебе».</plain>
+        </string>
+        <string>
+            <plain>Когда разбито сердце, к груди Христа я льну,</plain>
+        </string>
+        <string>
+            <plain>И в скорби Он дает душе покой.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Господь со мной, чрез слезы улыбаюсь.</plain>
+        </string>
+        <string>
+            <plain>Нашел сокровище я для души.</plain>
+        </string>
+        <string>
+            <plain>Покой вселяет в душу мой Спаситель,</plain>
+        </string>
+        <string>
+            <plain>В страданьи знаю: Он поможет мне.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>И если бремя жизни мне слишком тяжело,</plain>
+        </string>
+        <string>
+            <plain>Горячих слез и горя мне не скрыть.</plain>
+        </string>
+        <string>
+            <plain>Хоть ночь темна и страшна, я, кажется, один;</plain>
+        </string>
+        <string>
+            <plain>Но верю, что Спаситель мой со мной.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И если мои силы слабеют день за днем,</plain>
+        </string>
+        <string>
+            <plain>Есть крепость для души у ног Его.</plain>
+        </string>
+        <string>
+            <plain>И верю: приведет Он меня к Себе домой,</plain>
+        </string>
+        <string>
+            <plain>Среди скорбей со мною Он всегда.</plain>
+        </string>
+    </verse>
+</song>

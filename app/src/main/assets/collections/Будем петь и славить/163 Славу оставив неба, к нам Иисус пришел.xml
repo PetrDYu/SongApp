@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="163" name="Славу оставив неба, к нам Иисус пришел" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Славу оставив неба, к нам Иисус пришел,</plain>
+        </string>
+        <string>
+            <plain>Смертью Своей спасенье нам приобрел.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>За грешных нас страдал Христос.</plain>
+        </string>
+        <string>
+            <plain>Нас любя, Он в жертву Сам Себя принес.</plain>
+        </string>
+        <string>
+            <plain>Он нас простил, грехи омыл,</plain>
+        </string>
+        <string>
+            <plain>Небо нам открыл страданьями Христос.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Счастливы и свободны мы чрез Него теперь,</plain>
+        </string>
+        <string>
+            <plain>Жертвой Своей спасенья открыл нам дверь.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Следуя за Иисусом, неба достигнем мы,</plain>
+        </string>
+        <string>
+            <plain>Спасшему нас там славу мы воздадим.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>К небу всем дверь отверста. Друг мой, вошел ли ты?</plain>
+        </string>
+        <string>
+            <plain>Спеши, пока не поздно, скорей войти.</plain>
+        </string>
+    </verse>
+</song>

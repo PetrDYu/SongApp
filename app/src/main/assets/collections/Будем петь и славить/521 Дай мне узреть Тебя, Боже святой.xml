@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="521" name="Дай мне узреть Тебя, Боже святой" canon="false" text="М.Э. Бёрн, Э.Х. Халл" textRus="" music="Ирландская народная" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дай мне узреть Тебя, Боже святой,</plain>
+        </string>
+        <string>
+            <plain>Будь самым близким, веди за Собой.</plain>
+        </string>
+        <string>
+            <plain>Что мне весь мир и вся жизнь без Тебя?</plain>
+        </string>
+        <string>
+            <plain>Ночью ли, днем ли Ты – радость моя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Будь моей мудростью, жизни путем,</plain>
+        </string>
+        <string>
+            <plain>Дай пребывать мне во свете Твоем.</plain>
+        </string>
+        <string>
+            <plain>Ты – мой Отец, Твое я дитя.</plain>
+        </string>
+        <string>
+            <plain>Вся жизнь моя да прославит Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Жажду не богатства, не славы людской,</plain>
+        </string>
+        <string>
+            <plain>Ты – мое счастье, наследник я Твой.</plain>
+        </string>
+        <string>
+            <plain>Будь в моем сердце Царем Ты всегда,</plain>
+        </string>
+        <string>
+            <plain>Чтобы мне жить в этом мире, любя.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иисус Спаситель, победа моя,</plain>
+        </string>
+        <string>
+            <plain>С Неба призри, дай дойти до конца!</plain>
+        </string>
+        <string>
+            <plain>Что б ни случилось, навеки я Твой.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Дай мне узреть Тебя, Владыка благой!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

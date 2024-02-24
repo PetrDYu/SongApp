@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="87" name="Благословенно имя Твое" canon="false" text="Б. Дукателя" textRus="" music="Б. Мелоиса" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Благословенно имя Твое,</plain>
+        </string>
+        <string>
+            <plain>Во веки веков святится оно!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>У Бога вся сила и мудрость и прямизна путей,</plain>
+        </string>
+        <string>
+            <plain>Суд справедливый и судьбы людей.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Он тайные знает глубины и наши блужданья во тьме,</plain>
+        </string>
+        <string>
+            <plain>Но свет Его нас не покинет нигде.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Ему я несу размышленья и моленье мое,</plain>
+        </string>
+        <string>
+            <plain>И Он мне в ответ разуменье дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Так будем же славить Отца мы и Сына Его, Христа,</plain>
+        </string>
+        <string>
+            <plain>И Духа Любви да прославят наши уста.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="144" name="Милость Господня чудес полна" canon="false" text="Дж. Х. Джонстона" textRus="" music="Д. Б. Таунера" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Милость Господня чудес полна,</plain>
+        </string>
+        <string>
+            <plain>Милость сильнее, чем грех и суд.</plain>
+        </string>
+        <string>
+            <plain>К нам чрез Голгофу пришла она,</plain>
+        </string>
+        <string>
+            <plain>И о Распятом с тех пор поют.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Милость Божья нас очищает от всех грехов.</plain>
+        </string>
+        <string>
+            <plain>Милость Божья глубже морей, выше облаков.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Грех и пороки, как глубь морей,</plain>
+        </string>
+        <string>
+            <plain>Нас поглотить желают скорей.</plain>
+        </string>
+        <string>
+            <plain>Милость, что больше людских грехов,</plain>
+        </string>
+        <string>
+            <plain>Жизнь возвещает чрез крест Христов.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пятна греха невозможно скрыть,</plain>
+        </string>
+        <string>
+            <plain>Их не омоешь всех рек водой.</plain>
+        </string>
+        <string>
+            <plain>Но со Креста в мир течет струей</plain>
+        </string>
+        <string>
+            <plain>Кровь примиренья, чтоб все покрыть.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Милость чудесна, ей нет конца,</plain>
+        </string>
+        <string>
+            <plain>Милость простер Господь над людьми.</plain>
+        </string>
+        <string>
+            <plain>Жаждешь ли видеть миров Творца?</plain>
+        </string>
+        <string>
+            <plain>Милость Господню сейчас прими.</plain>
+        </string>
+    </verse>
+</song>

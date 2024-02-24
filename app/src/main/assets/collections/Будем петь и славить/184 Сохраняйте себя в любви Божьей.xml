@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="184" name="Сохраняйте себя в любви Божьей" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Сохраняйте себя в любви Божьей,</plain>
+        </string>
+        <string>
+            <plain>Назидая себя на святейшей вере вашей,</plain>
+        </string>
+        <string>
+            <plain>Молясь Духом Святым.</plain>
+        </string>
+        <string>
+            <plain>Сохраняйте себя в любви Божьей,</plain>
+        </string>
+        <string>
+            <plain>Ожидая от Господа милость к жизни вечной,</plain>
+        </string>
+        <string>
+            <plain>Молясь Духом Святым.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Слава, величие, власть, слава и сила</plain>
+        </string>
+        <string>
+            <plain>Через Иисуса Христа Богу Единому!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Будьте милостивы к упавшему,</plain>
+        </string>
+        <string>
+            <plain>Его грех обличайте со страхом и спасайте,</plain>
+        </string>
+        <string>
+            <plain>Молясь Духом Святым.</plain>
+        </string>
+        <string>
+            <plain>Будьте милостивы к упавшему,</plain>
+        </string>
+        <string>
+            <plain>Исторгая из пламени огненной геенны,</plain>
+        </string>
+        <string>
+            <plain>Молясь Духом Святым.</plain>
+        </string>
+    </verse>
+</song>

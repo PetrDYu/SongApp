@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="43" name="В моей жизни славлю Тебя, славлю Тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>В моей жизни славлю Тебя, славлю Тебя,</plain>
+        </string>
+        <string>
+            <plain>В моей жизни славлю Тебя, Господь!</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>В Твоей Церкви...</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>В моей песне...</plain>
+        </string>
+    </verse>
+</song>

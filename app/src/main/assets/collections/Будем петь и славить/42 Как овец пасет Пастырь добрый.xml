@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="42" name="Как овец пасет Пастырь добрый" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Как овец пасет Пастырь добрый,</plain>
+        </string>
+        <string>
+            <plain>Водит к пажитям злачным стада,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Так наш Господь средь бурь злобных</plain>
+        </string>
+        <string>
+            <plain>Не оставит в нужде нас никогда.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

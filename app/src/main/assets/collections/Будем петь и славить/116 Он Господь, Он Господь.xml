@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="116" name="Он Господь, Он Господь" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Он – Господь, Он – Господь,</plain>
+        </string>
+        <string>
+            <plain>Он воскрес из мертвых, наш Иисус Господь.</plain>
+        </string>
+        <string>
+            <plain>Да склонимся пред Ним, исповедуя:</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос – Господь.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Мой Господь, мой Господь,</plain>
+        </string>
+        <string>
+            <plain>Ты воскрес из мертвых, мой Иисус Господь.</plain>
+        </string>
+        <string>
+            <plain>Да склонюсь пред Тобой, исповедуя:</plain>
+        </string>
+        <string>
+            <plain>Иисус Христос – Господь.</plain>
+        </string>
+    </verse>
+</song>

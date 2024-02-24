@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="348" name="Тот мир, что я даю тебе" canon="false" text="" textRus="Л. Харитонов, Ю. Пастернака" music="Традиционная еврейская" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Тот мир, что я даю тебе,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Есть тот же мир, что Господь мне дает.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Шалом, шалом, шалом, мир тебе.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Любовь, что я даю тебе,</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Есть та любовь, что Господь мне дает.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Та радость, что даю тебе,</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Есть та же радость, что Бог мне дает.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>То сердце, что даю тебе,</plain>
+            <repeat id="4" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Есть то же сердце, что Бог мне дает.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет</plain>
+        </string>
+    </verse>
+</song>

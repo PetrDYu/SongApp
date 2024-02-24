@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="81" name="Я войду в Его врата с благодарностью" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Я войду в Его врата с благодарностью,</plain>
+        </string>
+        <string>
+            <plain>Во дворы Его – с хвалой.</plain>
+        </string>
+        <string>
+            <plain>Я скажу, что этот день сотворил Господь</plain>
+        </string>
+        <string>
+            <plain>На радость нам и на веселие.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>На радость нам </plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain>и на веселие.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

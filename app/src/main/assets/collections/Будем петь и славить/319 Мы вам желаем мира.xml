@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="319" name="Мы вам желаем мира" canon="false" text="" textRus="" music="Традиционная еврейская" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Мы вам желаем мира,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Мы вам желаем мира в Господе Христе.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Мы вам желаем счастья,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Мы вам желаем счастья в Господе Христе.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Мы вам желаем света,</plain>
+            <repeat id="2" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Мы вам желаем света в Господе Христе.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Мы вам любви желаем,</plain>
+            <repeat id="3" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Мы вам любви желаем в Господе Христе.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Направить сердце в небо и жить для Бога свято,</plain>
+        </string>
+        <string>
+            <plain>Служить Иисусу в духе мы вам желаем каждый,</plain>
+        </string>
+        <string>
+            <plain>каждый день и час!</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Да даст Христос вам радость,</plain>
+            <repeat id="4" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Да даст Христос вам радость Духа Своего!</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <plain>Мы вам желаем мира! Мы вам желаем света!</plain>
+        </string>
+        <string>
+            <plain>Мы вам любви желаем! Мы вам желаем счастья</plain>
+        </string>
+        <string>
+            <plain>здесь и в небесах!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Эвену шалом алейхем,</plain>
+            <repeat id="5" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Эвену шалом, шалом, шалом алейхем.</plain>
+        </string>
+    </verse>
+</song>

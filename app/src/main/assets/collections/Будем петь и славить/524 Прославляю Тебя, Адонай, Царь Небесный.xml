@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="524" name="Прославляю Тебя, Адонай, Царь Небесный" canon="false" text="П. Бальжика" textRus="" music="П. Бальжика" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Прославляю Тебя, Адонай, Царь Небесный,</plain>
+        </string>
+        <string>
+            <plain>Ты простил и назвал меня сыном Твоим.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Небесным покоем наполнено сердце</plain>
+        </string>
+        <string>
+            <plain>От сознанья того, что я Богом любим.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Прославляю Тебя за открытое небо,</plain>
+        </string>
+        <string>
+            <plain>За Отцовское сердце, за подвиг Креста,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>За то, что в чертогах Твоих белоснежных</plain>
+        </string>
+        <string>
+            <plain>Очень скоро Ты встретишь, Господь, и меня.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Не могу я молчать, не могу и не смею.</plain>
+        </string>
+        <string>
+            <plain>От души благодарен за счастье в судьбе,</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>За то, что на вечность надежду имею,</plain>
+        </string>
+        <string>
+            <plain>Поклоняюсь я низко, Спаситель, Тебе.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

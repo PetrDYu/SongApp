@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="471" name="Когда на небе нет просвета и все вокруг меня молчит" canon="false" text="Терезы Малой из Лизьё" textRus="" music="бр. Эфраима" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Когда на небе нет просвета и все вокруг меня молчит,</plain>
+        </string>
+        <string>
+            <plain>Я рада, принимая это, смирять себя и жить в ночи.</plain>
+        </string>
+        <string>
+            <plain>Приму Твою святую волю, и страхи все уходят прочь,</plain>
+        </string>
+        <string>
+            <plain>Мне радостна такая доля: любить, как день, глухую ночь.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Радость моя, Иисус, Тебя любить!</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я рада малой оставаться, ведь если где-то оступлюсь,</plain>
+        </string>
+        <string>
+            <plain>Смогу тогда легко подняться, и рядом будет Иисус.</plain>
+        </string>
+        <string>
+            <plain>Собрав всю нежность, что имею, скажу Ему: «Ты — жизнь моя!»</plain>
+        </string>
+        <string>
+            <plain>А если вера ослабеет, еще нежнее буду я.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Я рада слезы лить украдкой и улыбаться всем опять.</plain>
+        </string>
+        <string>
+            <plain>Страданья не горьки, а сладки, когда умеешь их скрывать,</plain>
+        </string>
+        <string>
+            <plain>Тебя утешу – и наградой Твоя улыбка станет мне.</plain>
+        </string>
+        <string>
+            <plain>Лишь за нее страдать я рада и жить в чужой мне стороне.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Я счастлива в духовной битве за избранных Тобой стоять</plain>
+        </string>
+        <string>
+            <plain>И буду в пламенной молитве Тебе усердно повторять:</plain>
+        </string>
+        <string>
+            <plain>О Брат Божественный, я рада прожить, страдая и скорбя.</plain>
+        </string>
+        <string>
+            <plain>И для меня одна отрада: возможность радовать Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Я буду жить, о мой Спаситель, пока не скажешь мне: «Пора!»</plain>
+        </string>
+        <string>
+            <plain>И я войду в Твою обитель, коль скоро Ты мне будешь рад.</plain>
+        </string>
+        <string>
+            <plain>В огне любви моей Отчизны хочу я непрестанно быть.</plain>
+        </string>
+        <string>
+            <plain>Не в смерти радость и не в жизни, а лишь в одном – Тебя любить!</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="507" name="За Голгофу, за Кровь я Тебя благодарю" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>За Голгофу, за Кровь я Тебя благодарю,</plain>
+        </string>
+        <string>
+            <plain>За Воскресенье Твое, за победу Твою.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Благодарю Тебя, Иисус!</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Боже, я благодарю!</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

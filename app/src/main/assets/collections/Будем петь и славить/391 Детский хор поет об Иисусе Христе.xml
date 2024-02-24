@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="391" name="Детский хор поет об Иисусе Христе" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Детский хор поет об Иисусе Христе,</plain>
+        </string>
+        <string>
+            <plain>Что воскрес Господь, возвещаем мы всем.</plain>
+        </string>
+        <string>
+            <plain>Праздник Пасхи у нас, праздник вечной весны,</plain>
+        </string>
+        <string>
+            <plain>Подарил нам этот день, Спаситель, Ты.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Подарил нам, подарил, подарил нам, подарил,</plain>
+        </string>
+        <string>
+            <plain>Подарил нам этот день, Спаситель, Ты.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Только раз в году этот праздник у нас,</plain>
+        </string>
+        <string>
+            <plain>И наш детский хор поздравляет всех вас.</plain>
+        </string>
+        <string>
+            <plain>Праздник Пасхи у нас, праздник вечной весны,</plain>
+        </string>
+        <string>
+            <plain>Подарил нам этот день, Спаситель, Ты.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Знаем мы, что Ты, наш Христос, страдал</plain>
+        </string>
+        <string>
+            <plain>И страданьями нам спасенье дал.</plain>
+        </string>
+        <string>
+            <plain>Праздник Пасхи у нас, праздник вечной весны,</plain>
+        </string>
+        <string>
+            <plain>Подарил нам этот день, Спаситель, Ты.</plain>
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="511" name="О, дай быть орудием мира в Твоих руках" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О, дай быть орудием мира в Твоих руках,</plain>
+        </string>
+        <string>
+            <plain>Чтоб веру нести туда, где витает страх,</plain>
+        </string>
+        <string>
+            <plain>Чтоб радость и мир – туда, где царит печаль,</plain>
+        </string>
+        <string>
+            <plain>И щедростью одарить всех, кому чего-то жаль.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Любовь полетит, словно яркий луч солнца,</plain>
+        </string>
+        <string>
+            <plain>Надежду и веру рождая в сердцах.</plain>
+        </string>
+        <string>
+            <plain>О, дай же мне, дай быть орудием света,</plain>
+        </string>
+        <string>
+            <plain>Быть песней Твоей и кисточкой в Божьих руках.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О, дай понимать, а не ждать пониманья мне,</plain>
+        </string>
+        <string>
+            <plain>Другим удостой давать, а не брать себе,</plain>
+        </string>
+        <string>
+            <plain>Не ждать утешенья – самим утешением быть.</plain>
+        </string>
+        <string>
+            <plain>О чистой любви не мечтать, а всей душою любить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Позволь согревать замерзших, уснувших будить,</plain>
+        </string>
+        <string>
+            <plain>Служить не своей гордыне – другим служить,</plain>
+        </string>
+        <string>
+            <plain>Чтоб веру нести туда, где витает страх.</plain>
+        </string>
+        <string>
+            <plain>О, дай быть орудием мира в чистых Твоих руках.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Пускай же воздастся тому, кто дает сполна,</plain>
+        </string>
+        <string>
+            <plain>Себя обретет пусть тот, кто забыл себя.</plain>
+        </string>
+        <string>
+            <plain>Простится тому, кто умел от души прощать,</plain>
+        </string>
+        <string>
+            <plain>Дождутся в обителях вечных того, кто умеет ждать.</plain>
+        </string>
+    </verse>
+</song>

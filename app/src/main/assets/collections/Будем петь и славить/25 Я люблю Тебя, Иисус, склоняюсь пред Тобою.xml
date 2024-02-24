@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="25" name="Я люблю Тебя, Иисус, склоняюсь пред Тобою" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Я люблю Тебя, Иисус, склоняюсь пред Тобою,</plain>
+        </string>
+        <string>
+            <plain>славлю и хвалю Тебя, нашего Царя.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя.</plain>
+            <repeat id="0" rep_rate="4" is_opening="false" />
+        </string>
+    </verse>
+</song>

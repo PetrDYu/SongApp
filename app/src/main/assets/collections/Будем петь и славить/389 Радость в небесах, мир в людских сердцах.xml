@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="389" name="Радость в небесах, мир в людских сердцах" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Радость в небесах, мир в людских сердцах,</plain>
+        </string>
+        <string>
+            <plain>На земле родился нам Спаситель.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Бог Его нам дал, как и обещал,</plain>
+        </string>
+        <string>
+            <plain>Чтоб спасен был каждый мира житель.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>А сегодня Он хочет, чтоб рожден</plain>
+        </string>
+        <string>
+            <plain>К новой жизни был и ты, друг милый,</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Чтобы с Богом жить и счастливым быть,</plain>
+        </string>
+        <string>
+            <plain>Чтобы вечность дверь тебе открыла.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Пусть же Сам Христос в мире среди слез</plain>
+        </string>
+        <string>
+            <plain>Жизни путь твой к небу направляет.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Ведь недаром Он на земле рожден</plain>
+        </string>
+        <string>
+            <plain>И сегодня грешников спасает.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="425" name="Господь наш мир, все преграды разрушил Он" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Господь – наш мир, все преграды разрушил Он,</plain>
+        </string>
+        <string>
+            <plain>Господь – наш мир, Господь – наш мир.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Заботы все свои возложи на Него</plain>
+        </string>
+        <string>
+            <plain>Печется Он, печется Он о тебе.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он – мой покой. Все преграды Он сокрушил,</plain>
+        </string>
+        <string>
+            <plain>Своей рукой их низложил.</plain>
+        </string>
+        <string>
+            <plain>Он – мой покой. Все преграды Он сокрушил</plain>
+        </string>
+        <string>
+            <plain>Своей рукой. Он – мой покой.</plain>
+        </string>
+    </verse>
+</song>

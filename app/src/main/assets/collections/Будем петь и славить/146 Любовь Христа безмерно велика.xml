@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="146" name="Любовь Христа безмерно велика" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Любовь Христа безмерно велика,</plain>
+        </string>
+        <string>
+            <plain>Начала нет и льется, как река,</plain>
+        </string>
+        <string>
+            <plain>И как волна лобзает берега,</plain>
+        </string>
+        <string>
+            <plain>Так глубока, сильна и широка.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>А если б не было любви,</plain>
+        </string>
+        <string>
+            <plain>Любви Христа, мы б не смогли</plain>
+        </string>
+        <string>
+            <plain>Иметь надежду вечно жить</plain>
+        </string>
+        <string>
+            <plain>И, как Спаситель, всех людей любить.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Он возлюбил тебя, меня давно,</plain>
+        </string>
+        <string>
+            <plain>Он возлюбил и тех, кто все равно</plain>
+        </string>
+        <string>
+            <plain>Твердили «нет» и поднимали смех,</plain>
+        </string>
+        <string>
+            <plain>А Он сегодня приглашает всех.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>О, если б знал живущий на земле</plain>
+        </string>
+        <string>
+            <plain>Его любовь – любовью дышат все.</plain>
+        </string>
+        <string>
+            <plain>И если б Он отнял любовь на миг,</plain>
+        </string>
+        <string>
+            <plain>Весь этот мир давным-давно б погиб.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Иди скорей, скорей, тебя Он ждет,</plain>
+        </string>
+        <string>
+            <plain>Стоит у сердца каменных ворот.</plain>
+        </string>
+        <string>
+            <plain>Стучит к тебе – открой, давно пора,</plain>
+        </string>
+        <string>
+            <plain>Прими любовь и радость навсегда.</plain>
+        </string>
+    </verse>
+</song>

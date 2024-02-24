@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="185" name="Приди, Святый Дух, приди, Отец бедных" canon="false" text="папы Иннокентия III (13 век)" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Приди, Святый Дух, приди, Отец бедных,</plain>
+        </string>
+        <string>
+            <plain>Приди, Святый Дух! Дух Утешитель, уврачуй меня.</plain>
+        </string>
+        <string>
+            <plain>Очисти, ороси, согрей нас, исправь и смири, о Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Приди, Святый Дух, приди, Отец бедных,</plain>
+        </string>
+        <string>
+            <plain>Приди, Святый Дух! Без Тебя, Господь, нет во мне добра.</plain>
+        </string>
+        <string>
+            <plain>Очисти, ороси, согрей нас, исправь и смири, о Дух Святой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Приди, Святый Дух, приди, Отец бедных, приди,</plain>
+        </string>
+        <string>
+            <plain>Святый Дух! Долгожданный гость, сладостный покой.</plain>
+        </string>
+        <string>
+            <plain>Очисти, ороси, согрей нас, исправь и смири, о Дух Святой.</plain>
+        </string>
+        <string>
+            <plain>Приди, Святый Дух, приди, Святый Дух, приди Святый Дух.</plain>
+        </string>
+    </verse>
+</song>

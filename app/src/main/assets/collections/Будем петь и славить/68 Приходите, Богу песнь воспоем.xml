@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="68" name="Приходите, Богу песнь воспоем" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Приходите, Богу песнь воспоем,</plain>
+        </string>
+        <string>
+            <plain>Приходите, возликуем о Нем,</plain>
+        </string>
+        <string>
+            <plain>Приходите, будем славить Его</plain>
+        </string>
+        <string>
+            <plain>Всей нашей душой, от сердца всего.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Скрипки, играйте, трубы, трубите,</plain>
+        </string>
+        <string>
+            <plain>Сердце направьте Бога прославлять,</plain>
+        </string>
+        <string>
+            <plain>И мужи, и жены, старцы и младенцы,</plain>
+        </string>
+        <string>
+            <plain>Немощный и крепкий, Бога прославляй!</plain>
+        </string>
+    </verse>
+</song>

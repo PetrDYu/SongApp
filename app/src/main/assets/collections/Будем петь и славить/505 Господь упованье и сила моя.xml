@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="505" name="Господь упованье и сила моя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Господь – упованье и сила моя,</plain>
+        </string>
+        <string>
+            <plain>Бог крепкий и верный во всем.</plain>
+        </string>
+        <string>
+            <plain>С Тобою сквозь бури,</plain>
+        </string>
+        <string>
+            <plain>С Тобою сквозь шторм</plain>
+        </string>
+        <string>
+            <plain>Не страшно мне будет идти.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Ты милость Свою превознес над судом,</plain>
+        </string>
+        <string>
+            <plain>Ты Кровью меня искупил.</plain>
+        </string>
+        <string>
+            <plain>С Тобою сквозь бури,</plain>
+        </string>
+        <string>
+            <plain>С Тобою сквозь шторм</plain>
+        </string>
+        <string>
+            <plain>Не страшно мне будет идти.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Пой Ему, моя душа,</plain>
+        </string>
+        <string>
+            <plain>Благ и милостив Господь.</plain>
+        </string>
+        <string>
+            <plain>Знаю: любишь Ты меня,</plain>
+        </string>
+        <string>
+            <plain>Знаю: Ты всегда со мной.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

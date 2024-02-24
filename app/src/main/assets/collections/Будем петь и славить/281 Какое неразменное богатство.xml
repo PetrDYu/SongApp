@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="281" name="Какое неразменное богатство" canon="false" text="И. Языковой" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Какое неразменное богатство,</plain>
+        </string>
+        <string>
+            <plain>Где душ родство и дышит дух один, –</plain>
+        </string>
+        <string>
+            <plain>Благословенное Христово братство,</plain>
+        </string>
+        <string>
+            <plain>Где каждый и слуга, и господин.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Любите друг друга, любите друг друга,</plain>
+        </string>
+        <string>
+            <plain>Как Я возлюбил всех вас.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Наперекор всему – грехам и бедам –</plain>
+        </string>
+        <string>
+            <plain>Какую тайну нам открыл Господь!</plain>
+        </string>
+        <string>
+            <plain>Любить друг друга в мире заповедал</plain>
+        </string>
+        <string>
+            <plain>И положил за нас и кровь, и плоть.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Так мало в мире и тепла, и света,</plain>
+        </string>
+        <string>
+            <plain>Никто не знает, как, куда идти,</plain>
+        </string>
+        <string>
+            <plain>А нам дано наследие Завета</plain>
+        </string>
+        <string>
+            <plain>И радость терний крестного пути.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Да будет ярок свет свечи горящей,</plain>
+        </string>
+        <string>
+            <plain>Да будет в доме мир и хлеб и соль.</plain>
+        </string>
+        <string>
+            <plain>Да будет крепким в битве предстоящей</plain>
+        </string>
+        <string>
+            <plain>Соединение сердец и воль.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Благослови отца, сестру и брата.</plain>
+        </string>
+        <string>
+            <plain>Мы верим, Сам Господь созиждет дом,</plain>
+        </string>
+        <string>
+            <plain>Где братолюбье высоко и свято,</plain>
+        </string>
+        <string>
+            <plain>И Бог – любовь Который все во всем.</plain>
+        </string>
+    </verse>
+</song>

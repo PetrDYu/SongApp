@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="124" name="Твой Лик Отчизна моя" canon="false" text="Терезы Малой из Лизьё" textRus="И. Языковой, Ю. Пастернака" music="бр. Эфраима" additionalInfo="">
+    <chorus number="0">
+        <string>
+            <plain>Твой Лик – Отчизна моя,</plain>
+        </string>
+        <string>
+            <plain>Твой Лик – мое Царство любви,</plain>
+        </string>
+        <string>
+            <plain>И радость цветущих полян,</plain>
+        </string>
+        <string>
+            <plain>И ласковый свет каждого дня.</plain>
+        </string>
+    </chorus>
+    <verse number="1">
+        <string>
+            <plain>Иисус, Твой несказанный Образ – звезда, сияющая мне.</plain>
+        </string>
+        <string>
+            <plain>Облик Твой кроткий и смиренный для меня, как небо на земле.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>Твой Лик, как лилия долины благоухающей весной,</plain>
+        </string>
+        <string>
+            <plain>Душу так нежно утешает и небесный дарует покой.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Твой Образ, Иисус Сладчайший, с небесной светит высоты.</plain>
+        </string>
+        <string>
+            <plain>И на Тебя, Иисус, любуясь, обрету и я Твои черты.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Отметь меня Своей любовью, печатью кротости Твоей,</plain>
+        </string>
+        <string>
+            <plain>Чтобы однажды, став святою, привлекать к Тебе сердца людей.</plain>
+        </string>
+    </verse>
+</song>

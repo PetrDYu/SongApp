@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="204" name="Христианин Неси огонь чудесный твой" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Христианин! Неси огонь чудесный твой,</plain>
+        </string>
+        <string>
+            <plain>Который дал тебе Христос.</plain>
+        </string>
+        <string>
+            <plain>Он умер на кресте, пожертвовав Собой,</plain>
+        </string>
+        <string>
+            <plain>Огонь любви Он всем принес.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Гори, огонь, всегда гори!</plain>
+        </string>
+        <string>
+            <plain>Воспламеняй собой холодные сердца</plain>
+        </string>
+        <string>
+            <plain>И новый мир прекрасный озари,</plain>
+        </string>
+        <string>
+            <plain>В котором радость без конца.</plain>
+        </string>
+        <string>
+            <plain>(В котором радость без конца. – конец)</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Вот путник, он устал и изнемог в пути,</plain>
+        </string>
+        <string>
+            <plain>Согрей его и ободри.</plain>
+        </string>
+        <string>
+            <plain>Скажи, что не покинет его вечный Бог,</plain>
+        </string>
+        <string>
+            <plain>Засветит солнце впереди.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>А если путник вдруг свернул с того пути,</plain>
+        </string>
+        <string>
+            <plain>Который к радости ведет,</plain>
+        </string>
+        <string>
+            <plain>То ты в его груди огонь любви зажги,</plain>
+        </string>
+        <string>
+            <plain>Чтобы он мог тот путь найти.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>А если станет очень тяжело тебе,</plain>
+        </string>
+        <string>
+            <plain>Суровый мир тебя стеснит,</plain>
+        </string>
+        <string>
+            <plain>Не унывай, ведь любящий Господь с тобой –</plain>
+        </string>
+        <string>
+            <plain>Он сохранит светильник твой.</plain>
+        </string>
+    </verse>
+</song>

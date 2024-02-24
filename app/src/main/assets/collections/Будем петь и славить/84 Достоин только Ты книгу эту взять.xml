@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="84" name="Достоин только Ты книгу эту взять" canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Достоин только Ты книгу эту взять,</plain>
+        </string>
+        <string>
+            <plain>И с книги сей сорвать достоин Ты печать.</plain>
+        </string>
+        <string>
+            <plain>Ибо Ты, только Ты распят был за нас.</plain>
+        </string>
+        <string>
+            <plain>Ибо Ты, только Ты заклан был за нас.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Мы из разных племен, из народов разных,</plain>
+        </string>
+        <string>
+            <plain>Разного мы рода, разных языков.</plain>
+        </string>
+        <string>
+            <plain>Кровью праведной Своей Ты нас искупил,</plain>
+        </string>
+        <string>
+            <plain>С Богом примирил, славься же вовек.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Теперь мы все цари, священники мы все,</plain>
+        </string>
+        <string>
+            <plain>И Ты нам подарил Царство на земле.</plain>
+        </string>
+        <string>
+            <plain>Ибо Ты, только Ты распят был за нас.</plain>
+        </string>
+        <string>
+            <plain>Ибо Ты, только Ты заклан был за нас.</plain>
+        </string>
+    </verse>
+</song>

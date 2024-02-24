@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="11" name="Мне с Тобой не страшно, Боже, и во тьме" canon="false" text="" textRus="Г. Зобина, Ю. Пастернака" music="Ж. Бертье" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Мне с Тобой не страшно, Боже, и во тьме,</plain>
+        </string>
+        <string>
+            <plain>И ночь светла, как день, пред Тобою.</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>La ténèbre n’est point ténèbre devant Toi:</plain>
+        </string>
+        <string>
+            <plain>la nuit comme le jour est lumiére.</plain>
+        </string>
+    </verse>
+</song>

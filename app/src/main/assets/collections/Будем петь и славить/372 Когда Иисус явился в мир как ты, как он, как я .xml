@@ -16,7 +16,10 @@
     </verse>
     <chorus number="1">
         <string>
-            <plain>Иисус, (5 р.) маленький Иисус!</plain>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Иисус, </plain>
+            <repeat id="0" rep_rate="5" is_opening="false" />
+            <plain>маленький Иисус!</plain>
         </string>
     </chorus>
     <verse number="2">

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="523" name="Когда смущает враг, сомнения и страх" canon="false" text="П. Бальжика" textRus="" music="П. Бальжика" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Когда смущает враг, сомнения и страх,</plain>
+        </string>
+        <string>
+            <plain>Под шум ветров я слышу тихий голос:</plain>
+        </string>
+        <string>
+            <plain>«Не бойся, Я с тобой, Я мир твой и покой,</plain>
+        </string>
+        <string>
+            <plain>С главы твоей не упадет и волос.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Я с тобой – пойдешь ли через реки,</plain>
+        </string>
+        <string>
+            <plain>Я с тобой отныне и вовеки.</plain>
+        </string>
+        <string>
+            <plain>На Голгофу взор свой подними.</plain>
+        </string>
+        <string>
+            <plain>Кровь Моя – твоя защита,</plain>
+        </string>
+        <string>
+            <plain>Жизнь твоя во Мне сокрыта,</plain>
+        </string>
+        <string>
+            <plain>Ты не один».</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>На сердце тишина, и вновь поет душа,</plain>
+        </string>
+        <string>
+            <plain>Господь, Ты утешение и сила.</plain>
+        </string>
+        <string>
+            <plain>С Тобою не боюсь, Твоей руки держусь,</plain>
+        </string>
+        <string>
+            <plain>В Тебе одном прощение и милость.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Для страждущих сердец Голгофский старый Крест –</plain>
+        </string>
+        <string>
+            <plain>Единственное место для покоя.</plain>
+        </string>
+        <string>
+            <plain>Господь прогонит страх, уйдет с позором враг,</plain>
+        </string>
+        <string>
+            <plain>Не убоишься стрел, летящих ночью.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <plain>Он с тобой – пойдешь ли через реки,</plain>
+        </string>
+        <string>
+            <plain>Он с тобой отныне и вовеки,</plain>
+        </string>
+        <string>
+            <plain>На Голгофу взор свой подними.</plain>
+        </string>
+        <string>
+            <plain>Кровь Его – твоя защита,</plain>
+        </string>
+        <string>
+            <plain>Жизнь твоя в Христе сокрыта,</plain>
+        </string>
+        <string>
+            <plain>Ты не один.</plain>
+        </string>
+    </chorus>
+</song>

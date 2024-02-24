@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="130" name="Все мои мысли о Тебе, Господь" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="0">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Все мои мысли о Тебе, Господь,</plain>
+            <repeat id="0" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Все мои мысли о Тебе.</plain>
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Вся моя жизнь – один лишь Ты, Господь,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+        </string>
+        <string>
+            <plain>Вся моя жизнь – один лишь Ты.</plain>
+        </string>
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>О Господь, Ты жизнь даровал мне,</plain>
+        </string>
+        <string>
+            <plain>Ты меня призвал к бытию,</plain>
+        </string>
+        <string>
+            <plain>Ты, мой Бог, любовь подарил мне</plain>
+        </string>
+        <string>
+            <plain>И нежность Свою.</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

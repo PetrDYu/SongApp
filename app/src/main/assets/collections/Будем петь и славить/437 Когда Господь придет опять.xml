@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="437" name="Когда Господь придет опять" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Когда Господь придет опять,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь придет опять.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Когда Господь откроет книгу,</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Когда откроет книгу Бог.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Когда нам имя даст Господь,</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Когда нам имя даст Господь.</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Когда Господь устроит пир,</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Когда Господь устроит пир.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Когда святых всех воскресит,</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Когда святых всех воскресит.</plain>
+        </string>
+    </verse>
+    <verse number="6">
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Как зазвучит</plain>
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Как зазвучит: «Аллилуйя!»</plain>
+        </string>
+    </verse>
+    <verse number="7">
+        <string>
+            <repeat id="6" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, аллилуйя!</plain>
+            <repeat id="6" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Пусть мы с Ним вместе будем,</plain>
+        </string>
+        <string>
+            <plain>Аллилуйя, аллилуйя!</plain>
+        </string>
+    </verse>
+</song>

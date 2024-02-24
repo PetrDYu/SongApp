@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="488" name="Дух Святой, приди, Дух Святой, наполни" canon="false" text="Р. Исмаилова" textRus="" music="Р. Исмаилова" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Дух Святой, приди, Дух Святой, наполни,</plain>
+        </string>
+        <string>
+            <plain>Дух Святой, открой нам небеса,</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Красоту Христа, чистоту и святость,</plain>
+        </string>
+        <string>
+            <plain>И любовь Небесного Отца.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <plain>И на всяком месте, Дух Святой, в нас действуй,</plain>
+        </string>
+        <string>
+            <plain>Пробуждай уснувшие сердца.</plain>
+        </string>
+        <string>
+            <plain>И пошли, Дух Божий, нам в молитвах бодрость</plain>
+        </string>
+        <string>
+            <plain>И в постах, чтоб свет взошел в сердцах.</plain>
+        </string>
+        <string>
+            <plain>И преобрази нас в Твой прекрасный образ,</plain>
+        </string>
+        <string>
+            <plain>Чтоб в любви Твоей всем послужить.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>И сейчас приди к нам, Царство Божье, в силе.</plain>
+        </string>
+        <string>
+            <plain>Иисус, воскресший Божий Сын,</plain>
+        </string>
+        <string>
+            <plain>Милость, мир и радость, праведность и святость,</plain>
+        </string>
+        <string>
+            <plain>И любовь Свою в нас отрази!</plain>
+        </string>
+        <string>
+            <plain>Научи молиться и прощать всех ближних</plain>
+        </string>
+        <string>
+            <plain>И в любовь Свою нас облеки!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>И всегда веди нас и наставь, Святой Дух,</plain>
+        </string>
+        <string>
+            <plain>Чтобы волю Божью исполнять.</plain>
+        </string>
+        <string>
+            <plain>И в Христа сияньи дай слепым прозренье,</plain>
+        </string>
+        <string>
+            <plain>Выведи во свет всех, кто во тьме,</plain>
+        </string>
+        <string>
+            <plain>Силой Слова Божья воскрешай из мертвых,</plain>
+        </string>
+        <string>
+            <plain>От греха измученных спаси!</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>1-й куплет.</plain>
+        </string>
+    </verse>
+</song>

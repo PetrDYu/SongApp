@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="233" name="Буду жить под защитой Твоих крыл" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Буду жить под защитой Твоих крыл,</plain>
+        </string>
+        <string>
+            <plain>Буду жить в мире Божией любви.</plain>
+        </string>
+        <string>
+            <plain>Ночь настанет, и я не убоюсь,</plain>
+        </string>
+        <string>
+            <plain>Когда я под защитой Твоих крыл.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Под защитой, под защитой,</plain>
+        </string>
+        <string>
+            <plain>Под защитой Твоих крыл.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Я спасен под защитой Твоих крыл,</plain>
+        </string>
+        <string>
+            <plain>Мой покой под охраною Твоей.</plain>
+        </string>
+        <string>
+            <plain>Пусть летят стрелы – я не убоюсь,</plain>
+        </string>
+        <string>
+            <plain>Когда я под защитой Твоих крыл.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Хочешь жить под защитой Его крыл?</plain>
+        </string>
+        <string>
+            <plain>Хочешь жить под охраною Его?</plain>
+        </string>
+        <string>
+            <plain>Встань скорее и к Господу иди,</plain>
+        </string>
+        <string>
+            <plain>Будешь ты под защитой Его крыл.</plain>
+        </string>
+    </verse>
+    <chorus number="3">
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Под защитой, под защитой,</plain>
+        </string>
+        <string>
+            <plain>Под защитой Его крыл.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+    </chorus>
+</song>

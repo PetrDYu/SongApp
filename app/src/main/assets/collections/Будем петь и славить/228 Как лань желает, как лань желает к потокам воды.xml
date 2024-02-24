@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="228" name="Как лань желает, как лань желает к потокам воды" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Как лань желает, как лань желает к потокам воды,</plain>
+        </string>
+        <string>
+            <plain>Так желает душа, так желает душа моя к Тебе, мой Бог.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Что унываешь ты, душа моя, и что смущаешься?</plain>
+        </string>
+        <string>
+            <plain>Ты уповай на Бога, ибо я буду вечно хвалить Его.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Жаждет душа моя, жаждет душа моя к Богу Живому.</plain>
+        </string>
+        <string>
+            <plain>Но когда я приду и когда я явлюсь перед лицом Твоим?</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Плачу я день и ночь, слезы мои стали хлебом моим.</plain>
+        </string>
+        <string>
+            <plain>И враги мои вновь говорят мне: «Ну, где же Бог?</plain>
+        </string>
+        <string>
+            <plain>Ну, где твой Бог?»</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Днем явит милость, днем Свою милость мне явит Господь.</plain>
+        </string>
+        <string>
+            <plain>Ночью песнь у меня и молитва летит моя к Тебе, мой Бог.</plain>
+        </string>
+    </verse>
+</song>

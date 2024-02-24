@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="285" name="Возлюбленные Будем любить друг друга" canon="false" text="Ю. Пастернака" textRus="" music="Ю. Пастернака" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>Возлюбленные! Будем любить друг друга,</plain>
+        </string>
+        <string>
+            <plain>Потому что любовь от Бога;</plain>
+        </string>
+        <string>
+            <plain>И всякий любящий рожден от Бога</plain>
+        </string>
+        <string>
+            <plain>И знает Бога.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Кто не любит, тот Бога не познал,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Потому что Бог есть любовь,</plain>
+            <repeat id="1" rep_rate="3" is_opening="false" />
+            <plain />
+        </string>
+        <string>
+            <plain>Бог есть любовь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>Возлюбленные! В том нам любовь явилась,</plain>
+        </string>
+        <string>
+            <plain>Что послал нам Господь Сына,</plain>
+        </string>
+        <string>
+            <plain>Чтобы жизнь мы получили с вами</plain>
+        </string>
+        <string>
+            <plain>Через Иисуса.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Возлюбленные! В том нам любовь открылась,</plain>
+        </string>
+        <string>
+            <plain>Что не мы возлюбили Бога,</plain>
+        </string>
+        <string>
+            <plain>Но прежде Он нас возлюбил с вами –</plain>
+        </string>
+        <string>
+            <plain>Его любите!</plain>
+        </string>
+    </verse>
+    <verse number="4">
+        <string>
+            <plain>Возлюбленные! Бога никто не видел.</plain>
+        </string>
+        <string>
+            <plain>Если любим друг друга, братья,</plain>
+        </string>
+        <string>
+            <plain>То пребывает в нас Своей любовью</plain>
+        </string>
+        <string>
+            <plain>Отец Небесный.</plain>
+        </string>
+    </verse>
+    <verse number="5">
+        <string>
+            <plain>Возлюбленные! Нету в любви страха,</plain>
+        </string>
+        <string>
+            <plain>И боящийся в любви неверен,</plain>
+        </string>
+        <string>
+            <plain>Но совершенная любовь изгонит</plain>
+        </string>
+        <string>
+            <plain>Все ваши страхи.</plain>
+        </string>
+    </verse>
+</song>

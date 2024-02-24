@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="27" name="Свят, свят, свят, свят Вседержитель Господи Ты наш" canon="false" text="А. Ашикяна" textRus="о. Андрея Удовенко, С. Савельева" music="А. Ашикяна" additionalInfo="">
+    <verse number="0">
+        <string>
+            <plain>Свят, свят, свят, свят Вседержитель Господи Ты наш,</plain>
+        </string>
+        <string>
+            <plain>Свят, свят, свят, свят Вседержитель Господи Ты наш,</plain>
+        </string>
+    </verse>
+    <verse number="0">
+        <string>
+            <plain>Который был и есть, Который грядет.</plain>
+        </string>
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Аллилуйя, аллилуйя, аллилуйя, аллилуйя.</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+    </verse>
+</song>

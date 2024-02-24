@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="229" name="Хочу всего превыше я познать Тебя" canon="false" text="" textRus="" music="" additionalInfo="">
+    <verse number="1">
+        <string>
+            <repeat id="0" rep_rate="-1" is_opening="true" />
+            <plain>Хочу всего превыше я познать Тебя,</plain>
+            <repeat id="0" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="1" rep_rate="-1" is_opening="true" />
+            <plain>Познать Тебя, мой Бог.</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хочу всего превыше я познать Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="2">
+        <string>
+            <repeat id="2" rep_rate="-1" is_opening="true" />
+            <plain>Хочу всего превыше я любить Тебя,</plain>
+            <repeat id="2" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="3" rep_rate="-1" is_opening="true" />
+            <plain>Любить Тебя, мой Бог.</plain>
+            <repeat id="3" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хочу всего превыше я любить Тебя.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <repeat id="4" rep_rate="-1" is_opening="true" />
+            <plain>Хочу всего превыше я служить Тебе,</plain>
+            <repeat id="4" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <repeat id="5" rep_rate="-1" is_opening="true" />
+            <plain>Служить Тебе, мой Бог.</plain>
+            <repeat id="5" rep_rate="2" is_opening="false" />
+        </string>
+        <string>
+            <plain>Хочу всего превыше я служить Тебе.</plain>
+        </string>
+    </verse>
+</song>

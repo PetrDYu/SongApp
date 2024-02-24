@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<song number="182" name="О Господь, свет любви Твоей светит" canon="false" text="Г. Кендрика" textRus="М. Винецкой" music="Г. Кендрика" additionalInfo="">
+    <verse number="1">
+        <string>
+            <plain>О Господь, свет любви Твоей светит,</plain>
+        </string>
+        <string>
+            <plain>Он во мраке все ярче светит.</plain>
+        </string>
+        <string>
+            <plain>Озари нас Твоим сияньем,</plain>
+        </string>
+        <string>
+            <plain>Светом правды веди нас к свободе.</plain>
+        </string>
+        <string>
+            <plain>Даруй нам свет, даруй нам свет.</plain>
+        </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>О свет Христов, наполняй землю славой Отчей!</plain>
+        </string>
+        <string>
+            <plain>Духа огонь, разгорайся в нас.</plain>
+        </string>
+        <string>
+            <plain>Реки любви, разливайтесь по всем народам.</plain>
+        </string>
+        <string>
+            <plain>Словом Твоим просвещай нас, Господь.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
+        <string>
+            <plain>О Господь, я вхожу в Твою вечность.</plain>
+        </string>
+        <string>
+            <plain>Мрак в душе уступает свету.</plain>
+        </string>
+        <string>
+            <plain>Кровь Твоя мне дает прощенье.</plain>
+        </string>
+        <string>
+            <plain>Выжги грех в моем сердце, Боже.</plain>
+        </string>
+        <string>
+            <plain>Даруй мне свет, даруй мне свет.</plain>
+        </string>
+    </verse>
+    <verse number="3">
+        <string>
+            <plain>Вижу я Твою славу, Царь мой,:</plain>
+        </string>
+        <string>
+            <plain>В лицах братьев она сияет.</plain>
+        </string>
+        <string>
+            <plain>Ты веди нас от славы к славе,</plain>
+        </string>
+        <string>
+            <plain>Чтоб мы стали письмом Твоим к людям.</plain>
+        </string>
+        <string>
+            <plain>Даруй мне свет, даруй мне свет.</plain>
+        </string>
+    </verse>
+</song>

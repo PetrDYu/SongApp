@@ -15,7 +15,7 @@ android {
         minSdk = 24
         targetSdk = 34
         versionCode = 1
-        versionName = "1.0"
+        versionName = "0.7.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -53,6 +53,15 @@ android {
 //    apply {
 //        org.jetbrains.kotlinx.serialization.gradle.SerializationGradleSubplugin
 //    }
+
+    applicationVariants.all {
+        outputs.all {
+            this as com.android.build.gradle.internal.api.ApkVariantOutputImpl
+            val apkName = "${rootProject.name}_${defaultConfig.versionName}_${buildType.name}.apk"
+
+            outputFileName = apkName
+        }
+    }
 }
 
 

@@ -11,7 +11,7 @@
         </string>
         <string>
             <repeat id="1" rep_rate="-1" is_opening="true" />
-            <plain>Теперь слабый скажет</plain>
+            <plain>Теперь слабый скажет: «Я силен». Бедный скажет:</plain>
         </string>
         <string>
             <plain>«Я богат» благодаря кресту Иисуса Христа.</plain>

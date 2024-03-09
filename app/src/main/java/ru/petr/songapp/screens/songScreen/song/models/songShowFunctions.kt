@@ -1,16 +1,22 @@
 package ru.petr.songapp.screens.songScreen.song.models
 
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
 import ru.petr.songapp.R
 import androidx.compose.material3.LocalTextStyle
 import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.rotate
+import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.layout.Layout
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInParent
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.unit.*
 import ru.petr.songapp.screens.songScreen.song.models.songParts.SongPart
 import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.LineChunk
@@ -89,15 +95,94 @@ fun SongPartBodyView(modifier: Modifier = Modifier,
     Column (
             modifier.padding(start=20.dp)
     ) {
-        for ((lineInd, line) in part.lines.withIndex()) {
-            LineView(
-                    showType = showType,
-                    line = line,
-                    layerStack = layerStack,
-                    previousLine = if (lineInd != 0) part.lines[lineInd - 1] else null,
-                    nextLine = if (lineInd != part.lines.lastIndex) part.lines[lineInd + 1] else null,
-                    fontSize = fontSize,
+        var nextLine: SongPartLine? = null
+        var lineInd = 0
+        var iterQty = 0
+        var repQty = 0
+        var prevRepQty = 0
+        while (lineInd < part.lines.size) {
+            with(LocalDensity.current) {
+                LinesAnsBracketLayout() {
+                    Column() {
+                        iterQty = 0
+                        repQty = 0
+                        do {
+                            val line = part.lines[lineInd]
+                            nextLine =
+                                if (lineInd != part.lines.lastIndex) part.lines[lineInd + 1] else null
+                            LineView(
+                                showType = showType,
+                                line = line,
+                                layerStack = layerStack,
+                                previousLine = if (lineInd != 0) part.lines[lineInd - 1] else null,
+                                nextLine = nextLine,
+                                fontSize = fontSize,
+                            )
+                            lineInd++
+                            iterQty++
+                            val nextLineConst = nextLine
+                            prevRepQty = repQty
+                            if (nextLineConst != null) {
+                                repQty = line.hasSameRepeatLayerWithLineAndGetQty(nextLineConst)
+                            } else {
+                                repQty = 0
+                            }
+                        } while (repQty != 0)
+                    }
+                    if (iterQty > 1) {
+                        Image(
+                            imageVector = ImageVector.vectorResource(id = R.drawable.bracket),
+                            contentDescription = null,
+                            modifier = Modifier
+                                .rotate(180f),
+                            contentScale = ContentScale.FillHeight,
+                        )
+                        Text(" ${prevRepQty}p", fontSize = (fontSize * 1).sp)
+                    } else {
+                        Row {
+
+                        }
+                        Row {
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@Composable
+fun LinesAnsBracketLayout(
+    modifier: Modifier = Modifier,
+    content: @Composable () -> Unit
+){
+    Layout(modifier = modifier, content = content) { measurables, constraints ->
+        require(measurables.size == 3)
+
+        val textPlaceable = measurables[0].measure(
+            constraints = constraints.copy(
+                maxWidth = (constraints.maxWidth * 0.85).toInt()
             )
+        )
+        val imagePlaceable = measurables[1].measure(
+            constraints.copy(
+                minWidth = 0,
+                minHeight = textPlaceable.height,
+                maxHeight = textPlaceable.height
+            )
+        )
+        val reqQtyPlaceable = measurables[2].measure(constraints)
+
+        val width = constraints.maxWidth
+        val height = imagePlaceable.height.coerceAtMost(textPlaceable.height)
+
+        val textWidthExpanded = (textPlaceable.width * 1.05).toInt()
+
+        layout(width, height) {
+            textPlaceable.placeRelative(0, 0)
+            imagePlaceable.placeRelative(textWidthExpanded, 0)
+            reqQtyPlaceable.placeRelative(textWidthExpanded + imagePlaceable.width, height / 2 - reqQtyPlaceable.height / 2)
         }
     }
 }
@@ -265,6 +350,7 @@ private fun SongTextAdaptiveContentLayout(
     Layout(modifier = modifier, content = content) { measurables, outerConstraints ->
         val rowElementsCounts = mutableListOf(0)
         val maxRowHeights = mutableListOf(0)
+        var maxRowSize = 0
         var rowNumber = 0
         var currentRowSize = 0
         val placeables = measurables.mapIndexed { _, measureable ->
@@ -277,6 +363,9 @@ private fun SongTextAdaptiveContentLayout(
                 rowNumber++
             }
             currentRowSize += placeable.width
+            if (maxRowSize < currentRowSize) {
+                maxRowSize = currentRowSize
+            }
             rowElementsCounts[rowNumber]++
             if (placeable.height > maxRowHeights[rowNumber]) {
                 maxRowHeights[rowNumber] = placeable.height
@@ -287,7 +376,7 @@ private fun SongTextAdaptiveContentLayout(
         val layoutHeight = maxRowHeights.sum()
 
         layout(
-            width = outerConstraints.constrainWidth(outerConstraints.maxWidth),
+            width = outerConstraints.constrainWidth(maxRowSize),
             height = outerConstraints.constrainHeight(layoutHeight)
         ) {
             var curPlaceableIndex = 0

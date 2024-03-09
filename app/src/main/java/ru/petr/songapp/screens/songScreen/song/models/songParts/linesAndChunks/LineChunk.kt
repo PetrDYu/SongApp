@@ -3,6 +3,7 @@ package ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks
 import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.layers.ChunkLayer
 import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.layers.ChunkLayerTypes
 import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.layers.ChunkText
+import ru.petr.songapp.screens.songScreen.song.models.songParts.linesAndChunks.layers.RepeatLayer
 
 class LineChunk {
     var text: ChunkText? = null
@@ -39,6 +40,10 @@ class LineChunk {
 
     fun hasSameLayer(tagName: String, layerChunkId: Int, layerId: Int): Boolean {
         return null != this.layers.find { chunkLayer -> chunkLayer.isSameWithTagNameLayerChunkIdAndLayerId(tagName, layerChunkId, layerId) }
+    }
+
+    fun getRepeatLayers(): List<ChunkLayer> {
+        return this.layers.filterIsInstance<RepeatLayer>()
     }
 
     fun isEmpty(): Boolean {

@@ -14,7 +14,6 @@ import androidx.compose.ui.layout.Layout
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInParent
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.unit.*
@@ -95,57 +94,48 @@ fun SongPartBodyView(modifier: Modifier = Modifier,
     Column (
             modifier.padding(start=20.dp)
     ) {
-        var nextLine: SongPartLine? = null
+        var nextLine: SongPartLine?
         var lineInd = 0
         var iterQty = 0
-        var repQty = 0
+        var repQty: Int
         var prevRepQty = 0
         while (lineInd < part.lines.size) {
-            with(LocalDensity.current) {
-                LinesAnsBracketLayout() {
-                    Column() {
-                        iterQty = 0
-                        repQty = 0
-                        do {
-                            val line = part.lines[lineInd]
-                            nextLine =
-                                if (lineInd != part.lines.lastIndex) part.lines[lineInd + 1] else null
-                            LineView(
-                                showType = showType,
-                                line = line,
-                                layerStack = layerStack,
-                                previousLine = if (lineInd != 0) part.lines[lineInd - 1] else null,
-                                nextLine = nextLine,
-                                fontSize = fontSize,
-                            )
-                            lineInd++
-                            iterQty++
-                            val nextLineConst = nextLine
-                            prevRepQty = repQty
-                            if (nextLineConst != null) {
-                                repQty = line.hasSameRepeatLayerWithLineAndGetQty(nextLineConst)
-                            } else {
-                                repQty = 0
-                            }
-                        } while (repQty != 0)
-                    }
-                    if (iterQty > 1) {
-                        Image(
-                            imageVector = ImageVector.vectorResource(id = R.drawable.bracket),
-                            contentDescription = null,
-                            modifier = Modifier
-                                .rotate(180f),
-                            contentScale = ContentScale.FillHeight,
+            LinesAnsBracketLayout() {
+                Column() {
+                    iterQty = 0
+                    repQty = 0
+                    do {
+                        val line = part.lines[lineInd]
+                        nextLine =
+                            if (lineInd != part.lines.lastIndex) part.lines[lineInd + 1] else null
+                        LineView(
+                            showType = showType,
+                            line = line,
+                            layerStack = layerStack,
+                            previousLine = if (lineInd != 0) part.lines[lineInd - 1] else null,
+                            nextLine = nextLine,
+                            fontSize = fontSize,
                         )
-                        Text(" ${prevRepQty}p", fontSize = (fontSize * 1).sp)
-                    } else {
-                        Row {
-
+                        lineInd++
+                        iterQty++
+                        val nextLineConst = nextLine
+                        prevRepQty = repQty
+                        repQty = if (nextLineConst != null) {
+                            line.hasSameRepeatLayerWithLineAndGetQty(nextLineConst)
+                        } else {
+                            0
                         }
-                        Row {
-
-                        }
-                    }
+                    } while (repQty != 0)
+                }
+                if (iterQty > 1) {
+                    Image(
+                        imageVector = ImageVector.vectorResource(id = R.drawable.bracket),
+                        contentDescription = null,
+                        modifier = Modifier
+                            .rotate(180f),
+                        contentScale = ContentScale.FillBounds,
+                    )
+                    Text(" ${prevRepQty}p", fontSize = (fontSize * 1).sp)
                 }
             }
         }
@@ -155,34 +145,50 @@ fun SongPartBodyView(modifier: Modifier = Modifier,
 @Composable
 fun LinesAnsBracketLayout(
     modifier: Modifier = Modifier,
+    spaceLinesToBracket: Float = 5f, // percents of lines width
+    spaceForBracket: Float = 10f, // percents of full width
     content: @Composable () -> Unit
 ){
     Layout(modifier = modifier, content = content) { measurables, constraints ->
-        require(measurables.size == 3)
+        require(measurables.size == 3 || measurables.size == 1)
 
-        val textPlaceable = measurables[0].measure(
-            constraints = constraints.copy(
-                maxWidth = (constraints.maxWidth * 0.85).toInt()
+        if (measurables.size == 3) {
+            val reqQtyPlaceable = measurables[2].measure(constraints)
+            val linesPlaceable = measurables[0].measure(
+                constraints.copy(
+                    maxWidth = ((constraints.maxWidth * (1 - spaceForBracket / 100f) -
+                                 reqQtyPlaceable.width) /
+                                (1 + spaceLinesToBracket / 100f)).toInt()
+                )
             )
-        )
-        val imagePlaceable = measurables[1].measure(
-            constraints.copy(
-                minWidth = 0,
-                minHeight = textPlaceable.height,
-                maxHeight = textPlaceable.height
+            val bracketPlaceable = measurables[1].measure(
+                constraints.copy(
+                    minWidth = 0,
+                    maxWidth = constraints.maxWidth - linesPlaceable.width - reqQtyPlaceable.width,
+                    minHeight = linesPlaceable.height,
+                    maxHeight = linesPlaceable.height
+                )
             )
-        )
-        val reqQtyPlaceable = measurables[2].measure(constraints)
 
-        val width = constraints.maxWidth
-        val height = imagePlaceable.height.coerceAtMost(textPlaceable.height)
+            val width = constraints.maxWidth
+            val height = bracketPlaceable.height.coerceAtMost(linesPlaceable.height)
 
-        val textWidthExpanded = (textPlaceable.width * 1.05).toInt()
+            val linesWidthWithSpaceToBracket = (linesPlaceable.width * (1 + spaceLinesToBracket / 100f)).toInt()
 
-        layout(width, height) {
-            textPlaceable.placeRelative(0, 0)
-            imagePlaceable.placeRelative(textWidthExpanded, 0)
-            reqQtyPlaceable.placeRelative(textWidthExpanded + imagePlaceable.width, height / 2 - reqQtyPlaceable.height / 2)
+            layout(width, height) {
+                linesPlaceable.placeRelative(0, 0)
+                bracketPlaceable.placeRelative(linesWidthWithSpaceToBracket, 0)
+                reqQtyPlaceable.placeRelative(
+                    linesWidthWithSpaceToBracket + bracketPlaceable.width,
+                    height / 2 - reqQtyPlaceable.height / 2)
+            }
+        } else {
+            val linesPlaceable = measurables[0].measure(
+                constraints = constraints
+            )
+            layout(constraints.maxWidth, linesPlaceable.height) {
+                linesPlaceable.placeRelative(0, 0)
+            }
         }
     }
 }
@@ -339,7 +345,7 @@ fun ChunkTextView(text: ChunkText?,
         newChunkText = textAndStyle.first
         newTextStyle = textAndStyle.second
     }
-    Text(text = newChunkText.text, style = newTextStyle, fontSize = fontSize.sp)
+    Text(text = newChunkText.text, style = newTextStyle, fontSize = fontSize.sp, lineHeight = (fontSize * 1.05).sp)
 }
 
 @Composable

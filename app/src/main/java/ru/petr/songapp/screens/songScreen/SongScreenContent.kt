@@ -1,8 +1,10 @@
 package ru.petr.songapp.screens.songScreen
 
+import android.content.res.Configuration
 import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
@@ -33,6 +35,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.PlatformTextStyle
 import androidx.compose.ui.text.TextStyle
@@ -187,21 +190,43 @@ fun SongScreenHeader(modifier: Modifier = Modifier,
                      .size((fontSize + 2).dp),
                  tint = Color.White
             )
-
-            Column (
+            Box(
                 Modifier
                     .padding(vertical = 10.dp)
                     .padding(end = 20.dp)) {
-                Text("$songNumber",
-                     fontSize = (fontSize + 2).sp)
-                Text(songName.uppercase(),
-                     fontSize = (fontSize + 2).sp,
-                     maxLines = 2,
-                     overflow = TextOverflow.Ellipsis,
-                     lineHeight = (fontSize + 4).sp)
+                if (LocalConfiguration.current.orientation == Configuration.ORIENTATION_LANDSCAPE) {
+                    Row {
+                        SongNumberForHeader(songNumber = songNumber, withPoint = true, fontSize = fontSize)
+                        SongNameForHeader(songName = songName, maxLines = 1, fontSize = fontSize)
+                    }
+                } else {
+                    Column {
+                        SongNumberForHeader(songNumber = songNumber, withPoint = false, fontSize = fontSize)
+                        SongNameForHeader(songName = songName, maxLines = 2, fontSize = fontSize)
+                    }
+                }
             }
         }
     }
+}
+
+@Composable
+fun SongNumberForHeader(songNumber: Int, withPoint: Boolean, fontSize: Int) {
+    Text(
+        "$songNumber" + if (withPoint) ". " else "",
+        fontSize = (fontSize + 2).sp
+    )
+}
+
+@Composable
+fun SongNameForHeader(songName: String, maxLines: Int, fontSize: Int) {
+    Text(
+        songName.uppercase(),
+        fontSize = (fontSize + 2).sp,
+        maxLines = maxLines,
+        overflow = TextOverflow.Ellipsis,
+        lineHeight = (fontSize + 4).sp
+    )
 }
 
 

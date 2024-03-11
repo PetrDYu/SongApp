@@ -4,29 +4,49 @@ import android.content.Context
 import android.util.Log
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
+import ru.petr.songapp.R
 import ru.petr.songapp.database.room.SongAppDB
 import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.SongCollectionDBModel
 import ru.petr.songapp.database.room.songData.SongData
 import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.screens.songScreen.song.models.parsing.TagAndAttrNames
+import java.io.File
 
 const val INFO_FILE_EXT = "info"
 const val COLLECTIONS_FOLDER = "collections"
 const val COLLECTION_INFO_FILE = "collection.$INFO_FILE_EXT"
+const val SONGS_VERSION_FILE = "version"
 
 private const val LOG_TAG = "create_db_utils"
 
 suspend fun populateDBFromAssets(appContext: Context,
                                  database: SongAppDB,
                                  curDBPopulation: Map<String, Pair<Int, List<SongDataForCollection>>> = mapOf()) {
-    if (!curDBPopulation.containsKey("Избранное")) {
+    val songsVersionFile = File(appContext.filesDir, SONGS_VERSION_FILE)
+    var needUpdateDB = false
+    if (songsVersionFile.exists().not()) {
+        songsVersionFile.createNewFile()
+        needUpdateDB = true
+    } else {
+        val songsVersion = songsVersionFile.readText().toInt()
+        if (songsVersion != appContext.resources.getInteger(R.integer.songs_version)) {
+            needUpdateDB = true
+        }
+    }
+
+    if (needUpdateDB) {
+        songsVersionFile.writeText("${appContext.resources.getInteger(R.integer.songs_version)}")
+        database.clearAllTables()
+    }
+
+    if (!curDBPopulation.containsKey("Избранное") || needUpdateDB) {
         val favoriteSongsDbModel = SongCollectionDBModel(0, "Избранное", "Избранное")
         database.SongCollectionDao().insert(favoriteSongsDbModel)
     }
 
     appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
-        val collectionId = if (!curDBPopulation.containsKey(collection)) {
+        val collectionId = if (!curDBPopulation.containsKey(collection) || needUpdateDB) {
             val shortCollectionName: String = getShortCollectionName(appContext, collection)
             database.SongCollectionDao().insert(SongCollectionDBModel(0, collection, shortCollectionName)).toInt()
         } else {
@@ -36,7 +56,7 @@ suspend fun populateDBFromAssets(appContext: Context,
         appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { songFile ->
             if (!songFile.endsWith(".$INFO_FILE_EXT") &&
                 ((curDBPopulation[collection] == null) || (curDBPopulation[collection] != null) &&
-                (!isSongAlreadyInCollection(songFile, curDBPopulation[collection]!!.second)))) {
+                (!isSongAlreadyInCollection(songFile, curDBPopulation[collection]!!.second)) || needUpdateDB)) {
                 val factory = XmlPullParserFactory.newInstance()
                 factory.isNamespaceAware = true
                 val parser: XmlPullParser = factory.newPullParser()

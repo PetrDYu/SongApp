@@ -32,11 +32,6 @@
             <plain>Я жил в бесчестии мертвых дел.</plain>
         </string>
     </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев.</plain>
-        </string>
-    </verse>
     <verse number="4">
         <string>
             <plain>С небес сошел к нам Иисус – Сын Божий,</plain>
@@ -53,11 +48,6 @@
             <plain>Его Святой Дух меня объял.</plain>
         </string>
     </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев.</plain>
-        </string>
-    </verse>
     <verse number="6">
         <string>
             <plain>Мой Бог, Ты лечишь все мои раны,</plain>
@@ -72,11 +62,6 @@
         </string>
         <string>
             <plain>Всем изнемогшим даешь Твой мир.</plain>
-        </string>
-    </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев.</plain>
         </string>
     </verse>
     <verse number="8">
@@ -97,20 +82,10 @@
     </verse>
     <verse number="0">
         <string>
-            <plain>Припев.</plain>
-        </string>
-    </verse>
-    <verse number="0">
-        <string>
-            <plain>10. Твою любовь и хвалить, и славить,</plain>
+            <plain>Твою любовь и хвалить, и славить,</plain>
         </string>
         <string>
             <plain>Господь, вовеки желаю я.</plain>
-        </string>
-    </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев.</plain>
         </string>
     </verse>
 </song>

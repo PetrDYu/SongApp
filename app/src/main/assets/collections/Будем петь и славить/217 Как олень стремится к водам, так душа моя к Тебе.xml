@@ -8,17 +8,14 @@
             <plain>Ты один – желанье сердца, поклоняюсь я Тебе.</plain>
         </string>
     </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев:</plain>
-        </string>
+    <chorus number="1">
         <string>
             <plain>Ты один – моя крепость, щит, лишь к Тебе душа спешит.</plain>
         </string>
         <string>
             <plain>Ты один – желанье сердца, поклоняюсь я Тебе.</plain>
         </string>
-    </verse>
+    </chorus>
     <verse number="2">
         <string>
             <plain>Ты мое богатство мира, что ценнее благ земных.</plain>

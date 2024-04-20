@@ -14,17 +14,14 @@
             <plain>Средь борений и среди скорбей!</plain>
         </string>
     </verse>
-    <verse number="0">
-        <string>
-            <plain>Припев:</plain>
-        </string>
+    <chorus number="1">
         <string>
             <plain>Славьте вы Бога! Славьте всей душой, нас Он спас Собой!</plain>
         </string>
         <string>
             <plain>Славьте вы Бога, слава вечная Ему!</plain>
         </string>
-    </verse>
+    </chorus>
     <verse number="2">
         <string>
             <plain>Славьте Бога каждое мгновенье</plain>

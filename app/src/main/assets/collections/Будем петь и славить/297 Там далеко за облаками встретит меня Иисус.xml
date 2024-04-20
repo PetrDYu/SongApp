@@ -54,9 +54,9 @@
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </chorus>
-    <verse number="0">
+    <chorus number="1">
         <string>
             <plain>Припев 1-й.</plain>
         </string>
-    </verse>
+    </chorus>
 </song>

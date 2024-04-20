@@ -4,10 +4,12 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
 import ru.petr.songapp.R
 import androidx.compose.material3.LocalTextStyle
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.rotate
+import androidx.compose.ui.graphics.ColorFilter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.layout.Layout
@@ -134,6 +136,7 @@ fun SongPartBodyView(modifier: Modifier = Modifier,
                         modifier = Modifier
                             .rotate(180f),
                         contentScale = ContentScale.FillBounds,
+                        colorFilter = ColorFilter.tint(MaterialTheme.colorScheme.onPrimary),
                     )
                     Text(" ${prevRepQty}p", fontSize = (fontSize * 1).sp)
                 }

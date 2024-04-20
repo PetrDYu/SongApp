@@ -85,6 +85,7 @@ dependencies {
     // Jetpack Datastore
     implementation("androidx.datastore:datastore-preferences:1.0.0")
     implementation("androidx.datastore:datastore-core:1.0.0")
+    implementation("androidx.compose.ui:ui-text-google-fonts:1.6.6")
 
     ksp("androidx.room:room-compiler:2.6.0")
     androidTestImplementation("androidx.room:room-testing:2.6.0")

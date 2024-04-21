@@ -14,3 +14,6 @@ val DarkLightBlue = Color(0xFF135A81)
 val DarkLightBlueText = Color(0xFF7A8F97)
 val White = Color(0xFFFFFFFF)
 val DarkLightGray = Color(195, 203, 207, 255)
+
+
+val TitleBlue = Color(0xFF115277)

@@ -6,7 +6,6 @@ import androidx.compose.animation.core.tween
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.togetherWith
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
@@ -16,6 +15,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.List
 import androidx.compose.material.icons.filled.List
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -28,13 +28,12 @@ import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.arkivanov.decompose.extensions.compose.pages.Pages
+import com.arkivanov.decompose.extensions.compose.pages.ChildPages
 import com.arkivanov.decompose.extensions.compose.pages.PagesScrollAnimation
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun SongListScreenContent(component: SongListScreenComponent,
                           modifier: Modifier = Modifier) {
@@ -44,7 +43,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
         topBar = { SongListScreenTopBar(collectionName = component.collections[selectedPage].name) },
     ) { paddingValues ->
         Column (Modifier.padding(paddingValues)) {
-            Pages(
+            ChildPages(
                 modifier = Modifier.weight(1f),
                 pages = component.collectionPages,
                 onPageSelected = component::selectCollectionByIndex,
@@ -74,7 +73,7 @@ fun SongListScreenTopBar(collectionName: String) {
                         .clickable { }
                         .padding(vertical = 10.dp, horizontal = 20.dp)
                         .size(25.sp.toDp()),
-                    imageVector = Icons.Default.List,
+                    imageVector = Icons.AutoMirrored.Filled.List,
                     contentDescription = null,
                     tint = MaterialTheme.colorScheme.primary
                 )

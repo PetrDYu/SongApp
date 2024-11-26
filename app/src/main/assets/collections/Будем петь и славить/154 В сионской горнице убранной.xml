@@ -6,10 +6,7 @@
         </string>
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
-            <plain>И перед тем, как быть преданным, Он смерть Свою им</plain>
-        </string>
-        <string>
-            <plain>возвещал.</plain>
+            <plain>И перед тем, как быть преданным, Он смерть Свою им возвещал.</plain>
             <repeat id="0" rep_rate="2" is_opening="false" />
         </string>
     </verse>
@@ -93,9 +90,9 @@
             <repeat id="8" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-    <verse number="0">
+    <verse number="10">
         <string>
-            <plain>10.  Вставайте, братья, и пойдемте на то место, где нас ждут.</plain>
+            <plain>Вставайте, братья, и пойдемте на то место, где нас ждут.</plain>
         </string>
         <string>
             <repeat id="9" rep_rate="-1" is_opening="true" />
@@ -103,17 +100,19 @@
             <repeat id="9" rep_rate="2" is_opening="false" />
         </string>
     </verse>
-    <verse number="0">
+    <verse number="11">
         <string>
-            <plain>11. Мне должно пить сию чашу, Отца заветы исполнять,</plain>
+            <plain>Мне должно пить сию чашу, Отца заветы исполнять,</plain>
         </string>
         <string>
             <repeat id="10" rep_rate="-1" is_opening="true" />
             <plain>Жизнь Свою отдать за вашу, всех виновных оправдать.</plain>
             <repeat id="10" rep_rate="2" is_opening="false" />
         </string>
+    </verse>
+    <verse number="12">
         <string>
-            <plain>12. Воскрешу Я всех спасенных, находящихся в гробах,</plain>
+            <plain>Воскрешу Я всех спасенных, находящихся в гробах,</plain>
         </string>
         <string>
             <repeat id="11" rep_rate="-1" is_opening="true" />

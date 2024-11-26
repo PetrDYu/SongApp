@@ -17,7 +17,7 @@
             <plain>И странники домой идут.</plain>
         </string>
         <string>
-            <plain>Я буду петь, я буду петь.</plain>
+            <plain>Я буду петь, я буду петь,</plain>
         </string>
         <string>
             <plain>Пока приду домой туда,</plain>
@@ -31,10 +31,10 @@
             <plain>Я буду петь, я буду петь!</plain>
         </string>
         <string>
-            <plain>В Христе я счастье приобрел!</plain>
+            <plain>В Христе я счастье приобрел,</plain>
         </string>
         <string>
-            <plain>Когда Иисусу сердце дал,</plain>
+            <plain>Когда Иисусу сердце дал.</plain>
         </string>
         <string>
             <plain>Он силы, бодрость даровал,</plain>
@@ -46,7 +46,10 @@
             <plain>Я буду петь, я буду петь,</plain>
         </string>
         <string>
-            <plain>И в той стране, где Бог царит.</plain>
+            <plain>Хоть слабо песнь моя звучит</plain>
+        </string>
+        <string>
+            <plain>О той стране, где Бог царит.</plain>
         </string>
     </verse>
     <verse number="3">
@@ -54,7 +57,7 @@
             <plain>Я буду петь, я буду петь!</plain>
         </string>
         <string>
-            <plain>Я бесконечно счастлив с Ним,</plain>
+            <plain>Я бесконечно счастлив с Ним.</plain>
         </string>
         <string>
             <plain>Мне счастье быть с Христом одним.</plain>
@@ -66,10 +69,10 @@
             <plain>И чудный мир душе дает.</plain>
         </string>
         <string>
-            <plain>Я буду петь, я буду петь</plain>
+            <plain>Я буду петь, я буду петь -</plain>
         </string>
         <string>
-            <plain>- Христос за грех мой умирал,</plain>
+            <plain>Христос за грех мой умирал,</plain>
         </string>
         <string>
             <plain>Я с Ним навеки счастлив стал.</plain>
@@ -86,19 +89,19 @@
             <plain>Я буду петь лишь о Христе,</plain>
         </string>
         <string>
-            <plain>Страдавшем тяжко на</plain>
+            <plain>Страдавшем тяжко на кресте,</plain>
         </string>
         <string>
-            <plain>Кресте, Чтоб счастье дать моей душе.</plain>
+            <plain>Чтоб счастье дать моей душе.</plain>
         </string>
         <string>
             <plain>Я буду петь, я буду петь!</plain>
         </string>
         <string>
-            <plain>Спасен и счастлив здесь в мире я</plain>
+            <plain>Спасен и счастлив в мире я -</plain>
         </string>
         <string>
-            <plain>- На небе родина моя!</plain>
+            <plain>На небе родина моя!</plain>
         </string>
     </verse>
 </song>

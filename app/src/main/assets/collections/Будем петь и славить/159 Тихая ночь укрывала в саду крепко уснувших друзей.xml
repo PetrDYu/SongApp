@@ -8,14 +8,14 @@
             <plain>Слышно, как ветер колышет листву и протекает ручей.</plain>
         </string>
     </verse>
-    <verse number="0">
+    <chorus number="1">
         <string>
             <plain>«Отче, о Отче, пусть будет воля на все лишь Твоя,</plain>
         </string>
         <string>
             <plain>Но эта горькая чаша, может, минует Меня».</plain>
         </string>
-    </verse>
+    </chorus>
     <verse number="2">
         <string>
             <plain>Эта молитва раздалась в саду, то, посмотрите, Христос,</plain>
@@ -24,14 +24,14 @@
             <plain>Руки на небо поднявши к Отцу, Муки Ему все принес.</plain>
         </string>
     </verse>
-    <verse number="0">
+    <chorus number="2">
         <string>
             <plain>«Отче, о Отче, пусть будет воля на все лишь Твоя,</plain>
         </string>
         <string>
             <plain>Может быть, все же минует горькая чаша Меня».</plain>
         </string>
-    </verse>
+    </chorus>
     <verse number="3">
         <string>
             <plain>«Отче, Я в руки Твои предаю всех Своих верных друзей.</plain>
@@ -40,14 +40,14 @@
             <plain>Тех, кто поверили в жертву Мою и кто последует ей».</plain>
         </string>
     </verse>
-    <verse number="0">
+    <chorus number="3">
         <string>
             <plain>«Отче, о Отче, пусть будет воля на все лишь Твоя,</plain>
         </string>
         <string>
             <plain>Ты помоги тем, кто будет в мире страдать за Меня».</plain>
         </string>
-    </verse>
+    </chorus>
     <verse number="4">
         <string>
             <plain>Пот на ланитах, как кровь, выступал, слезы стояли в глазах.</plain>
@@ -59,20 +59,18 @@
             <plain>ты – лишь прах.</plain>
         </string>
     </verse>
-    <verse number="0">
+    <chorus number="4">
         <string>
             <plain>«Отче, о Отче, пусть будет воля на все лишь Твоя,</plain>
         </string>
         <string>
             <plain>Может быть, все же минует горькая чаша Меня».</plain>
         </string>
-    </verse>
-    <verse number="0">
         <string>
             <plain>Чтобы всегда говорил я в жизни лишь эти слова:</plain>
         </string>
         <string>
             <plain>«Отче, о Отче, пусть будет воля на все лишь Твоя».</plain>
         </string>
-    </verse>
+    </chorus>
 </song>

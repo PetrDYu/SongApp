@@ -8,11 +8,21 @@
             <plain>Не ценою денег покупается.</plain>
         </string>
         <string>
-            <plain>Даром светит солнце ясное,</plain>
+            <plain>Даром с неба светит солнце ясное,</plain>
         </string>
         <string>
             <plain>И луна нам даром улыбается.</plain>
         </string>
+    </verse>
+    <chorus number="1">
+        <string>
+            <plain>Даром, даром Бог даёт спасение,</plain>
+        </string>
+        <string>
+            <plain>Даром, даром Бог даёт прощение.</plain>
+        </string>
+    </chorus>
+    <verse number="2">
         <string>
             <plain>Даром на распаханные борозды</plain>
         </string>
@@ -25,6 +35,8 @@
         <string>
             <plain>С дуба листья рвет рукою сильною.</plain>
         </string>
+    </verse>
+    <verse number="3">
         <string>
             <plain>Даром птичьим пеньем наслаждаемся,</plain>
         </string>
@@ -38,7 +50,7 @@
             <plain>И вдыхаем воздух не за плату мы.</plain>
         </string>
     </verse>
-    <verse number="2">
+    <verse number="4">
         <string>
             <plain>Но всего дороже, драгоценнее</plain>
         </string>
@@ -51,11 +63,11 @@
         <string>
             <plain>Принимай и улыбайся весело.</plain>
         </string>
+    </verse>
+    <verse number="5">
         <string>
             <plain>Посмотри, как Бог к тебе склоняется,</plain>
         </string>
-    </verse>
-    <verse number="0">
         <string>
             <plain>И пойми, что, как луч солнца ясного,</plain>
         </string>
@@ -65,6 +77,8 @@
         <string>
             <plain>В нашей жизни самое прекрасное.</plain>
         </string>
+    </verse>
+    <verse number="6">
         <string>
             <plain>Чтобы всех счастливей были мы с тобой,</plain>
         </string>
@@ -78,7 +92,7 @@
             <plain>Приобрел для всех людей спасение.</plain>
         </string>
     </verse>
-    <verse number="0">
+    <verse number="7">
         <string>
             <plain>Посмотри, как Бог к тебе склоняется,</plain>
         </string>

@@ -23,6 +23,9 @@ interface SongDao {
     @Query("SELECT * FROM Songs WHERE Id= :id LIMIT 1")
     fun getSongWithCollectionById(id: Int): Flow<SongWithCollectionFromDB>
 
+    @Query("SELECT COUNT(*) FROM Songs")
+    fun getSongsCount(): Flow<Int>
+
     @Update
     suspend fun update(songDBModel: SongDBModel)
 

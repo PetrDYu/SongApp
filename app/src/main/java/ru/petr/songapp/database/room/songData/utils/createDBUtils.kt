@@ -2,6 +2,7 @@ package ru.petr.songapp.database.room.songData.utils
 
 import android.content.Context
 import android.util.Log
+import kotlinx.coroutines.flow.first
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
 import ru.petr.songapp.R
@@ -22,7 +23,8 @@ private const val LOG_TAG = "create_db_utils"
 
 suspend fun populateDBFromAssets(appContext: Context,
                                  database: SongAppDB,
-                                 curDBPopulation: Map<String, Pair<Int, List<SongDataForCollection>>> = mapOf()) {
+                                 curDBPopulation: Map<String, Pair<Int, List<SongDataForCollection>>> = mapOf(),
+                                 updatingProgress: (Float) -> Unit) {
     val songsVersionFile = File(appContext.filesDir, SONGS_VERSION_FILE)
     var needUpdateDB = false
     if (songsVersionFile.exists().not()) {
@@ -32,18 +34,35 @@ suspend fun populateDBFromAssets(appContext: Context,
         val songsVersion = songsVersionFile.readText().toInt()
         if (songsVersion != appContext.resources.getInteger(R.integer.songs_version)) {
             needUpdateDB = true
+        } else {
+            updatingProgress(1f)
         }
     }
 
     if (needUpdateDB) {
         songsVersionFile.writeText("${appContext.resources.getInteger(R.integer.songs_version)}")
         database.clearAllTables()
+        updatingProgress(0f)
     }
 
     if (!curDBPopulation.containsKey("Избранное") || needUpdateDB) {
         val favoriteSongsDbModel = SongCollectionDBModel(0, "Избранное", "Избранное")
         database.SongCollectionDao().insert(favoriteSongsDbModel)
     }
+
+    // Count songs in assets
+    val songsCount = appContext.assets.list("$COLLECTIONS_FOLDER/")?.sumOf { collection ->
+        appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.count { !it.endsWith(".$INFO_FILE_EXT") } ?: 0
+    } ?: 0
+
+    var songsAlreadyInDBCount = 0
+    if (!needUpdateDB) {
+        songsAlreadyInDBCount = database.SongDao().getSongsCount().first()
+        updatingProgress(songsAlreadyInDBCount.toFloat() / songsCount.toFloat())
+    }
+
+    Log.d(LOG_TAG, "songs count: $songsCount")
+    Log.d(LOG_TAG, "songs already in db: $songsAlreadyInDBCount")
 
     appContext.assets.list("$COLLECTIONS_FOLDER/")?.forEach { collection ->
         val collectionId = if (!curDBPopulation.containsKey(collection) || needUpdateDB) {
@@ -55,13 +74,17 @@ suspend fun populateDBFromAssets(appContext: Context,
 
         appContext.assets.list("$COLLECTIONS_FOLDER/$collection/")?.forEach { songFile ->
             if (!songFile.endsWith(".$INFO_FILE_EXT") &&
-                ((curDBPopulation[collection] == null) || (curDBPopulation[collection] != null) &&
-                (!isSongAlreadyInCollection(songFile, curDBPopulation[collection]!!.second)) || needUpdateDB)) {
+                ((curDBPopulation[collection] == null) ||
+                 ((curDBPopulation[collection] != null) && (!isSongAlreadyInCollection(songFile, curDBPopulation[collection]!!.second))) ||
+                 needUpdateDB)) {
                 val factory = XmlPullParserFactory.newInstance()
                 factory.isNamespaceAware = true
                 val parser: XmlPullParser = factory.newPullParser()
                 val newSong = parseSongFile(appContext, parser, songFile, collectionId, collection)
                 database.SongDao().insert(newSong)
+                songsAlreadyInDBCount++
+                updatingProgress(songsAlreadyInDBCount.toFloat() / songsCount.toFloat())
+                Log.d(LOG_TAG, "updating progress:$songsAlreadyInDBCount / $songsCount")
             }
         }
     }

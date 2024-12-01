@@ -9,7 +9,7 @@ import kotlinx.coroutines.launch
 import ru.petr.songapp.database.room.SongAppDB
 import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 
-fun checkOpenedDB(appContext: Context, database: SongAppDB) {
+fun checkOpenedDB(appContext: Context, database: SongAppDB, updatingProgress: (Float) -> Unit) {
     CoroutineScope(Dispatchers.IO).launch {
         database.creatingJob?.join()
         val songCollections = database.SongCollectionDao().getAllCollections().first().map { it.id to it.name }
@@ -17,7 +17,7 @@ fun checkOpenedDB(appContext: Context, database: SongAppDB) {
         for ((songColId, songColName) in songCollections) {
             songIdsByCols[songColName] = songColId to database.SongDao().getCollectionSongs(songColId).first()
         }
-        populateDBFromAssets(appContext, database, songIdsByCols)
+        populateDBFromAssets(appContext, database, songIdsByCols, updatingProgress)
         Log.d("DB", "$songIdsByCols")
     }
 }

@@ -10,6 +10,7 @@ import kotlinx.coroutines.Job
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
 import ru.petr.songapp.database.room.SongAppDB
+import ru.petr.songapp.database.room.songData.SongCollectionDBModel
 import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 
@@ -26,6 +27,12 @@ class DefaultDatabaseComponent(
     private val _collections = MutableValue(listOf<SongCollection>())
     override val collections: Value<List<SongCollection>> = _collections
 
+    override val updatingProgress: Value<Float> = database.updatingProgress
+
+    private val _updateIsFinished = MutableValue(false)
+    override val updateIsFinished = _updateIsFinished
+
+
     override fun getAllSongsInCollection(collectionId: Int): Value<List<SongDataForCollection>> {
         val index = _collections.value.indexOfFirst { it.id == collectionId }
         return if (index != -1) {
@@ -38,7 +45,7 @@ class DefaultDatabaseComponent(
     override fun getValueSongById(id: Int): Value<SongDBModel> {
         val songValue = MutableValue(SongDBModel.empty)
         scope.launch {
-            database.SongDao().getSongById(id).collect{ song ->
+            database.SongDao().getSongById(id).collect { song ->
                 songValue.update { song }
             }
         }
@@ -63,27 +70,45 @@ class DefaultDatabaseComponent(
         }
     }
 
+    private fun updateCollections(songCollections: List<SongCollectionDBModel>) {
+        val newCollections = mutableListOf<SongCollection>()
+        songCollections.forEach { collection ->
+            newCollections.add(
+                SongCollection(
+                    collection.id,
+                    collection.name
+                )
+            )
+        }
+        _collections.update { newCollections }
+    }
+
     init {
         val collectionsIsUpdated = MutableValue(false)
+        updatingProgress.subscribe { progress ->
+            _updateIsFinished.update { progress.compareTo(1.0f) == 0 }
+        }
+        updateIsFinished.subscribe { isFinished ->
+            if (isFinished) {
+                scope.launch {
+                    val songCollections = database.SongCollectionDao().getAllCollections().first()
+                    updateCollections(songCollections)
+                    collectionsIsUpdated.update { true }
+                }
+            }
+        }
         scope.launch {
             database.SongCollectionDao().getAllCollections().collect { songCollections ->
-                val newCollections = mutableListOf<SongCollection>()
-                songCollections.forEach { collection ->
-                    newCollections.add(
-                        SongCollection(
-                            collection.id,
-                            collection.name
-                        )
-                    )
+                if (updateIsFinished.value) {
+                    updateCollections(songCollections)
+                    collectionsIsUpdated.update { true }
                 }
-                _collections.update { newCollections }
-                collectionsIsUpdated.update { true }
             }
         }
         collectionsIsUpdated.subscribe {
-            if (it) {
-                songCoroutines.forEach {
-                    it.cancel()
+            if (updateIsFinished.value && it) {
+                songCoroutines.forEach { coroutine ->
+                    coroutine.cancel()
                 }
                 songCoroutines.clear()
                 songs.clear()

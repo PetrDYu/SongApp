@@ -2,6 +2,7 @@ package ru.petr.songapp.screens.collections
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
@@ -15,6 +16,7 @@ import androidx.compose.material.icons.filled.Star
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -72,18 +74,38 @@ fun CollectionsContent(component: CollectionsComponent, modifier: Modifier = Mod
                 colorFilter = ColorFilter.tint(logoColor),
             )
         }
-        LazyColumn (
-            Modifier
-                .weight(1f)
-                .padding(horizontal = 10.dp)) {
-            items(collections.size) {index ->
-                val collection = collections[index]
-                SongCollectionListItem(
-                    Modifier.padding(bottom = 10.dp),
-                    name = collection.name,
-                    isStar = index == 0,
-                    markerColor = MaterialTheme.colorScheme.onPrimaryContainer
-                ) { component.onSongCollectionClicked(collection.id) }
+
+        val dbUpdateIsFinished by component.dbUpdateIsFinished.subscribeAsState()
+        if (dbUpdateIsFinished) {
+            LazyColumn(
+                Modifier
+                    .weight(1f)
+                    .padding(horizontal = 10.dp)) {
+                if (collections.isNotEmpty()) {
+                    items(collections.size) { index ->
+                        val collection = collections[index]
+                        SongCollectionListItem(
+                            Modifier.padding(bottom = 10.dp),
+                            name = collection.name,
+                            isStar = index == 0,
+                            markerColor = MaterialTheme.colorScheme.onPrimaryContainer
+                        ) { component.onSongCollectionClicked(collection.id) }
+                    }
+                } else {
+                    items(1) {
+                        SongCollectionListItem(
+                            Modifier.padding(bottom = 10.dp),
+                            name = stringResource(R.string.collections_not_added),
+                            isStar = false,
+                            markerColor = MaterialTheme.colorScheme.onPrimaryContainer
+                        ) {  }
+                    }
+                }
+            }
+        } else {
+            val progress by component.dbUpdatingProgress.subscribeAsState()
+            Box(Modifier.weight(1f).padding(horizontal = 10.dp)) {
+                SongCollectionProgressBar(Modifier, progress = { progress })
             }
         }
     }
@@ -127,9 +149,32 @@ fun SongCollectionListItem(modifier: Modifier = Modifier,
     }
 }
 
+@Composable
+fun SongCollectionProgressBar(modifier: Modifier = Modifier,
+                              progress: () -> Float
+) {
+    Card(modifier = modifier.fillMaxWidth(),
+         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.secondary)
+    ) {
+        Column (
+            Modifier.padding(vertical = 10.dp, horizontal = 10.dp),
+            horizontalAlignment = Alignment.CenterHorizontally
+        ) {
+            Text(stringResource(R.string.updating_is_progress, progress() * 100),
+                 Modifier.padding(bottom = 15.dp),
+                 fontSize = 17.sp,
+                 textAlign = TextAlign.Center)
+            LinearProgressIndicator(
+                progress = progress,
+                modifier = Modifier.padding(bottom = 10.dp).fillMaxWidth(),
+            )
+        }
+    }
+}
+
 
 @Preview(showBackground = true)
 @Composable
 fun CollectionsContentPreview() {
-    CollectionsContent(component = PreviewCollectionsComponent())
+    CollectionsContent(component = PreviewCollectionsComponent(0.61f, false))
 }

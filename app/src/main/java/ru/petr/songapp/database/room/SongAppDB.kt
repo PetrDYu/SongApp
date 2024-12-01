@@ -6,6 +6,9 @@ import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
 import androidx.sqlite.db.SupportSQLiteDatabase
+import com.arkivanov.decompose.value.MutableValue
+import com.arkivanov.decompose.value.Value
+import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
@@ -23,15 +26,18 @@ abstract class SongAppDB() : RoomDatabase() {
 
     var creatingJob: Job? = null
 
+    private val _updatingProgress = MutableValue(0f)
+    val updatingProgress: Value<Float> = _updatingProgress
+
     private class SongAppDBCallback(
         private val scope: CoroutineScope,
         val appContext: Context
-    ) : RoomDatabase.Callback() {
+    ) : Callback() {
         override fun onCreate(db: SupportSQLiteDatabase) {
             super.onCreate(db)
             INSTANCE?.let { database ->
                 database.creatingJob = scope.launch {
-                    populateDBFromAssets(appContext, database)
+                    populateDBFromAssets(appContext, database, updatingProgress = { progress-> database._updatingProgress.update { progress }})
                 }
             }
         }
@@ -39,7 +45,7 @@ abstract class SongAppDB() : RoomDatabase() {
         override fun onOpen(db: SupportSQLiteDatabase) {
             super.onOpen(db)
             INSTANCE?.let { database ->
-                checkOpenedDB(appContext, database)
+                checkOpenedDB(appContext, database, updatingProgress = { progress-> database._updatingProgress.update { progress }})
             }
             Log.d("DB", "opened")
         }

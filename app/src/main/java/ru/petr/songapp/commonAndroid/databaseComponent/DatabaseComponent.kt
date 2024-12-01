@@ -8,6 +8,10 @@ import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 interface DatabaseComponent {
     val collections: Value<List<SongCollection>>
 
+    val updatingProgress: Value<Float>
+
+    val updateIsFinished: Value<Boolean>
+
     fun getAllSongsInCollection(collectionId: Int): Value<List<SongDataForCollection>>
 
     suspend fun getSongById(id: Int): SongDBModel

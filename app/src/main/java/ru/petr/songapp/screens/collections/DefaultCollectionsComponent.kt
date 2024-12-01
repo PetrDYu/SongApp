@@ -11,17 +11,11 @@ class DefaultCollectionsComponent(
     private val onCollectionSelected: (id: Int, collections: List<SongCollection>) -> Unit,
 ) : CollectionsComponent, ComponentContext by componentContext {
 
-//    private var _songCollections = MutableValue(listOf<SongCollection>())
-
     override val songCollections: Value<List<SongCollection>> = databaseComponent.collections
 
-//    init {
-//        CoroutineScope(Job()).launch {
-//            database.SongCollectionDao().getAllCollections().collect {
-//                _songCollections.value = it
-//            }
-//        }
-//    }
+    override val dbUpdatingProgress: Value<Float> = databaseComponent.updatingProgress
+
+    override val dbUpdateIsFinished: Value<Boolean> = databaseComponent.updateIsFinished
 
     override fun onSongCollectionClicked(id: Int) {
         onCollectionSelected(id, songCollections.value)

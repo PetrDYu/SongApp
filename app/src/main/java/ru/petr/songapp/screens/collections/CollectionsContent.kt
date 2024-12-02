@@ -1,5 +1,7 @@
 package ru.petr.songapp.screens.collections
 
+import androidx.compose.animation.Crossfade
+import androidx.compose.animation.core.tween
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -76,36 +78,41 @@ fun CollectionsContent(component: CollectionsComponent, modifier: Modifier = Mod
         }
 
         val dbUpdateIsFinished by component.dbUpdateIsFinished.subscribeAsState()
-        if (dbUpdateIsFinished) {
-            LazyColumn(
-                Modifier
-                    .weight(1f)
-                    .padding(horizontal = 10.dp)) {
-                if (collections.isNotEmpty()) {
-                    items(collections.size) { index ->
-                        val collection = collections[index]
-                        SongCollectionListItem(
-                            Modifier.padding(bottom = 10.dp),
-                            name = collection.name,
-                            isStar = index == 0,
-                            markerColor = MaterialTheme.colorScheme.onPrimaryContainer
-                        ) { component.onSongCollectionClicked(collection.id) }
-                    }
-                } else {
-                    items(1) {
-                        SongCollectionListItem(
-                            Modifier.padding(bottom = 10.dp),
-                            name = stringResource(R.string.collections_not_added),
-                            isStar = false,
-                            markerColor = MaterialTheme.colorScheme.onPrimaryContainer
-                        ) {  }
+        Crossfade(
+            targetState = dbUpdateIsFinished,
+            modifier = Modifier.weight(1f).padding(horizontal = 10.dp),
+            animationSpec = tween(durationMillis = 1000),
+            label = "updateIsFinished"
+        ) { updateIsFinished ->
+            if (updateIsFinished) {
+                LazyColumn(
+                    Modifier) {
+                    if (collections.isNotEmpty()) {
+                        items(collections.size) { index ->
+                            val collection = collections[index]
+                            SongCollectionListItem(
+                                Modifier.padding(bottom = 10.dp),
+                                name = collection.name,
+                                isStar = index == 0,
+                                markerColor = MaterialTheme.colorScheme.onPrimaryContainer
+                            ) { component.onSongCollectionClicked(collection.id) }
+                        }
+                    } else {
+                        items(1) {
+                            SongCollectionListItem(
+                                Modifier.padding(bottom = 10.dp),
+                                name = stringResource(R.string.collections_not_added),
+                                isStar = false,
+                                markerColor = MaterialTheme.colorScheme.onPrimaryContainer
+                            ) { }
+                        }
                     }
                 }
-            }
-        } else {
-            val progress by component.dbUpdatingProgress.subscribeAsState()
-            Box(Modifier.weight(1f).padding(horizontal = 10.dp)) {
-                SongCollectionProgressBar(Modifier, progress = { progress })
+            } else {
+                val progress by component.dbUpdatingProgress.subscribeAsState()
+                Box(Modifier) {
+                    SongCollectionProgressBar(Modifier, progress = { progress })
+                }
             }
         }
     }
@@ -160,7 +167,7 @@ fun SongCollectionProgressBar(modifier: Modifier = Modifier,
             Modifier.padding(vertical = 10.dp, horizontal = 10.dp),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text(stringResource(R.string.updating_is_progress, progress() * 100),
+            Text(stringResource(R.string.updating_is_progress),
                  Modifier.padding(bottom = 15.dp),
                  fontSize = 17.sp,
                  textAlign = TextAlign.Center)
@@ -168,6 +175,9 @@ fun SongCollectionProgressBar(modifier: Modifier = Modifier,
                 progress = progress,
                 modifier = Modifier.padding(bottom = 10.dp).fillMaxWidth(),
             )
+            Text("${"%.1f".format(progress()*100)}%",
+                 fontSize = 17.sp,
+                 textAlign = TextAlign.Center)
         }
     }
 }

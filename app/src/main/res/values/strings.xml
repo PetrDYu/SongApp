@@ -12,7 +12,7 @@
     <string name="not_fount_songs_by_name">В названиях песен этого сборника ничего не найдено, идёт поиск по текстам песен</string>
     <string name="not_added_songs_in_collection">В сборник не добавлено ни одной песни</string>
     <string name="search_bar_placeholder">Название или номер песни</string>
-    <string name="updating_is_progress">Песни загружаются (%1$.01f%%) Пожалуйста, подождите</string>
+    <string name="updating_is_progress">Песни загружаются\nПожалуйста, подождите</string>
 
     <string name="settings_button_description">Настройки песни</string>
     <string name="edit_button_description">Редактировать песню</string>

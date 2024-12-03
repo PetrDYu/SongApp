@@ -15,7 +15,7 @@ import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 
 class DefaultSongListComponent(
     componentContext: ComponentContext,
-    private val collectionId: Int,
+    collectionId: Int,
     override val searchIsActive: Value<Boolean>,
     private val clickSearchObservable: Value<String>,
     private val onSongSelected: (id: Int) -> Unit,
@@ -25,7 +25,8 @@ class DefaultSongListComponent(
     override val songItems: Value<List<SongListComponent.SongItem>> = _songItems
 
     private val fullSearch = DefaultFullTextSearchComponent(childContext("DefaultFullTextSearchComponent"),
-                                                            collectionId)
+                                                            collectionId,
+                                                            songItems)
 
     override val fullTextSearchData: FullSearchData = fullSearch.searchData
 

@@ -9,5 +9,5 @@ interface FullTextSearchComponent {
 
     fun updateSearchResult(searchTextWithoutSpecialSymbols: String)
 
-    fun clearSearchResult()
+    fun clearSearchResult(isActive: Boolean)
 }

@@ -1,7 +1,9 @@
 package ru.petr.songapp.screens.common.fullTextSearch
 
+import androidx.core.text.isDigitsOnly
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.value.MutableValue
+import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
@@ -10,10 +12,12 @@ import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.utils.getIndexTuning
 import ru.petr.songapp.database.room.songData.utils.getLenTuning
+import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
 class DefaultFullTextSearchComponent(
     componentContext: ComponentContext,
-    private val collectionId: Int
+    private val collectionId: Int,
+    private val currentSongs: Value<List<SongListComponent.SongItem>>
 ) : FullTextSearchComponent, ComponentContext by componentContext {
     private val _searchResult: MutableValue<FullSearchResult> = MutableValue(FullSearchResult("", listOf()))
 
@@ -21,8 +25,21 @@ class DefaultFullTextSearchComponent(
 
     private val _searchIsInProgress = MutableValue(false)
 
+    private var _searchText = ""
+
+    private val scope = CoroutineScope(Job())
+    private var curJob: Job? = null
+
     override val searchData: FullSearchData
         get() = FullSearchData(_searchResult, _searchIsActive, _searchIsInProgress)
+
+    init {
+        currentSongs.subscribe {
+            if (_searchIsActive.value && _searchText != "") {
+                updateSearchResult(_searchText)
+            }
+        }
+    }
 
     override fun activateSearch(isActive: Boolean,
                                 searchText: String) {
@@ -30,42 +47,56 @@ class DefaultFullTextSearchComponent(
         if (isActive) {
             updateSearchResult(searchText)
         } else {
-            clearSearchResult()
+            clearSearchResult(false)
         }
     }
-
-    private val scope = CoroutineScope(Job())
-    private var curJob: Job? = null
 
     override fun updateSearchResult(searchTextWithoutSpecialSymbols: String) {
         curJob?.cancel()
-        curJob = scope.launch {
-            val results: MutableList<FullSearchResultItem> = mutableListOf()
-            _searchIsInProgress.update { true }
-            databaseComponent.getAllSongsInCollection(collectionId).value
-                .forEach {songDataForCollection ->
-                    val song = databaseComponent.getSongById(songDataForCollection.id)
-                    val foundIndex = song.plainTextWithoutSpecialSymbols.indexOf(searchTextWithoutSpecialSymbols, ignoreCase = true)
-                    if (foundIndex != -1) {
-                        val startIndex = foundIndex + getIndexTuning(foundIndex, song.specialSymbolPositions)
-                        val length = searchTextWithoutSpecialSymbols.length + getLenTuning(foundIndex,
-                                                                      searchTextWithoutSpecialSymbols.length,
-                                                                      song.specialSymbolPositions)
-                        val result = getFullSearchResultItem(song,
-                                                             startIndex,
-                                                             length,
-                                                             song.plainText)
-                        results.add(result)
+        if (!searchTextWithoutSpecialSymbols.isDigitsOnly()) {
+            curJob = scope.launch {
+                val results: MutableList<FullSearchResultItem> = mutableListOf()
+                _searchIsInProgress.update { true }
+                val currentSongsIds = currentSongs.value.map { it.id }
+                databaseComponent.getAllSongsInCollection(collectionId).value
+                    .forEach { songDataForCollection ->
+                        if (!currentSongsIds.contains(songDataForCollection.id)) {
+                            val song = databaseComponent.getSongById(songDataForCollection.id)
+                            val foundIndex =
+                                song.plainTextWithoutSpecialSymbols.indexOf(
+                                    searchTextWithoutSpecialSymbols,
+                                    ignoreCase = true)
+                            if (foundIndex != -1) {
+                                val startIndex =
+                                    foundIndex + getIndexTuning(
+                                        foundIndex,
+                                        song.specialSymbolPositions)
+                                val length = searchTextWithoutSpecialSymbols.length +
+                                    getLenTuning(
+                                        foundIndex,
+                                        searchTextWithoutSpecialSymbols.length,
+                                        song.specialSymbolPositions)
+                                val result = getFullSearchResultItem(
+                                    song,
+                                    startIndex,
+                                    length,
+                                    song.plainText)
+                                results.add(result)
+                            }
+                        }
                     }
-                }
-            _searchResult.update { FullSearchResult(searchTextWithoutSpecialSymbols, results) }
-            _searchIsInProgress.update { false }
+                _searchResult.update { FullSearchResult(searchTextWithoutSpecialSymbols, results) }
+                _searchIsInProgress.update { false }
+            }
+        } else {
+            clearSearchResult(true)
+            _searchIsActive.update { true }
         }
     }
 
-    override fun clearSearchResult() {
+    override fun clearSearchResult(isActive: Boolean) {
         _searchResult.update { FullSearchResult("", listOf()) }
-        _searchIsActive.update { false }
+        _searchIsActive.update { isActive }
         _searchIsInProgress.update { false }
     }
 

@@ -47,7 +47,7 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
          songs = component.songItems.subscribeAsState().value,
          onSongNameClick = component::onSongClicked,
          searchIsActive = component.searchIsActive.subscribeAsState().value,
-        fullTextSearchData = component.fullTextSearchData,
+         fullTextSearchData = component.fullTextSearchData,
     ) {
         component.onFullTextSearch()
     }

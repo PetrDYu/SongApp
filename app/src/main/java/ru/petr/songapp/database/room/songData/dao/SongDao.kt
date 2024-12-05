@@ -8,7 +8,7 @@ import ru.petr.songapp.database.room.songData.SongWithCollectionFromDB
 @Dao
 interface SongDao {
     @Insert(onConflict = OnConflictStrategy.ABORT)
-    suspend fun insert(songDBModel: SongDBModel)
+    suspend fun insert(songDBModel: SongDBModel): Long
 
     @Query("SELECT Id, NumberInCollection, Name FROM Songs WHERE CollectionId = :collectionId ORDER BY NumberInCollection")
     fun getCollectionSongs(collectionId: Int): Flow<List<SongDataForCollection>>

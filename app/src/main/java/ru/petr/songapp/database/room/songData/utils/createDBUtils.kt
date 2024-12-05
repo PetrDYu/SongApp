@@ -39,8 +39,11 @@ suspend fun populateDBFromAssets(appContext: Context,
         }
     }
 
+    var favoriteSongs: List<SongDataForCollection>?= null
     if (needUpdateDB) {
         songsVersionFile.writeText("${appContext.resources.getInteger(R.integer.songs_version)}")
+        // Get songs from favorites
+        favoriteSongs = database.SongDao().getAllFavoriteSongs().first()
         database.clearAllTables()
         updatingProgress(0f)
     }
@@ -81,13 +84,36 @@ suspend fun populateDBFromAssets(appContext: Context,
                 factory.isNamespaceAware = true
                 val parser: XmlPullParser = factory.newPullParser()
                 val newSong = parseSongFile(appContext, parser, songFile, collectionId, collection)
-                database.SongDao().insert(newSong)
+                val songId = database.SongDao().insert(newSong)
+                favoriteSongs?.let { favSongs ->
+                    database.SongDao().updateFavorite(songId.toInt(), isSongInFavorites(newSong, favSongs))
+                }
                 songsAlreadyInDBCount++
                 updatingProgress(songsAlreadyInDBCount.toFloat() / songsCount.toFloat())
                 Log.d(LOG_TAG, "updating progress:$songsAlreadyInDBCount / $songsCount")
             }
         }
     }
+}
+
+// Check if song in favorites
+fun isSongInFavorites(songDBModel: SongDBModel,
+                             favoriteSongs: List<SongDataForCollection>) : Boolean {
+    val songNum = songDBModel.songData.numberInCollection
+    val songInFavorites = favoriteSongs.filter { it.numberInCollection == songNum }
+
+    if (songInFavorites.isEmpty()) {
+        return false
+    } else {
+        songInFavorites.forEach { song ->
+            if (song.name == songDBModel.songData.name) {
+                return true
+            } else if (song.name.startsWith(songDBModel.songData.name)) {
+                return true
+            }
+        }
+    }
+    return false
 }
 
 fun isSongAlreadyInCollection(songFileName: String,

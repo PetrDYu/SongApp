@@ -12,9 +12,26 @@
       "filters": [],
       "attributes": [],
       "versionCode": 2,
-      "versionName": "0.9.0",
-      "outputFile": "SongApp_0.9.0_release.apk"
+      "versionName": "1.0.0",
+      "outputFile": "SongApp_1.0.0_release.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "baselineProfiles": [
+    {
+      "minApi": 28,
+      "maxApi": 30,
+      "baselineProfiles": [
+        "baselineProfiles/1/SongApp_1.0.0_release.dm"
+      ]
+    },
+    {
+      "minApi": 31,
+      "maxApi": 2147483647,
+      "baselineProfiles": [
+        "baselineProfiles/0/SongApp_1.0.0_release.dm"
+      ]
+    }
+  ],
+  "minSdkVersionForDexing": 24
 }

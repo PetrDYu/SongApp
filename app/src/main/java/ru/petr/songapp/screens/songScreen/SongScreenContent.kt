@@ -131,6 +131,7 @@ fun SongScreenContent(component: SongScreenComponent,
             }
         }
     }
+
     val settingsSheetSlot by component.settingsSheet.subscribeAsState()
     settingsSheetSlot.child?.instance?.also {
         SettingsSheetContent(component = it)

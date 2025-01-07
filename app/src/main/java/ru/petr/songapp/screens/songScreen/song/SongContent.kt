@@ -33,7 +33,7 @@ fun SongViewer(modifier: Modifier, song: Song?, fontSize: Int, onChorusOffsetCha
             SongView(modifier = Modifier.padding(start = 10.dp,
                                                  end = 20.dp,
                                                  top = 30.dp,
-                                                 bottom=100.dp),
+                                                 bottom=200.dp),
                      showType = SongShowTypes.VIEW,
                      song = song,
                      fontSize = fontSize,

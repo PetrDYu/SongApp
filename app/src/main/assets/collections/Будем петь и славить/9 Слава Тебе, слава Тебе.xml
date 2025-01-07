@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song number="9" name="Слава Тебе, слава Тебе" canon="false" text="" textRus="" music="Ж. Бертье" additionalInfo="">
+<song number="9" name="Слава Тебе, слава Тебе" canon="true" text="" textRus="" music="Ж. Бертье" additionalInfo="">
     <verse number="0">
         <string>
             <plain>Слава Тебе, слава Тебе, cлава Тебе, о мой Господь, Ты велик.</plain>

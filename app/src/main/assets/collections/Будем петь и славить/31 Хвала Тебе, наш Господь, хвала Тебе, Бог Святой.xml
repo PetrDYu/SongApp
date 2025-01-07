@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<song number="31" name="Хвала Тебе, наш Господь, хвала Тебе, Бог Святой" canon="false" text="Г. Смита" textRus="" music="Г. Смита" additionalInfo="">
+<song number="31" name="Хвала Тебе, наш Господь, хвала Тебе, Бог Святой" canon="true" text="Г. Смита" textRus="" music="Г. Смита" additionalInfo="">
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />

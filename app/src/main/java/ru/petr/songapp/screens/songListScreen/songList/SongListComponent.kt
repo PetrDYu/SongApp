@@ -2,6 +2,7 @@ package ru.petr.songapp.screens.songListScreen.songList
 
 import com.arkivanov.decompose.value.Value
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
+import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarComponent
 
 interface SongListComponent {
 
@@ -10,6 +11,8 @@ interface SongListComponent {
     val searchIsActive: Value<Boolean>
 
     val fullTextSearchData: FullSearchData
+
+    val scrollbar: ScrollbarComponent
 
     fun onSongClicked(id: Int)
 

@@ -18,9 +18,13 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableFloatStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -34,22 +38,39 @@ import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
+import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarContent
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
-    SongList(modifier.background(brush =
-                                 Brush.verticalGradient(
-                                     colors = listOf(
-                                         MaterialTheme.colorScheme.primary,
-                                         MaterialTheme.colorScheme.secondary
-                                     )
-                                 )),
-         songs = component.songItems.subscribeAsState().value,
-         onSongNameClick = component::onSongClicked,
-         searchIsActive = component.searchIsActive.subscribeAsState().value,
-         fullTextSearchData = component.fullTextSearchData,
-    ) {
-        component.onFullTextSearch()
+    Box(modifier) {
+        var columnHeight by remember { mutableFloatStateOf(0f) }
+        SongList(
+            Modifier
+                .onGloballyPositioned { layoutCoordinates ->
+                    val newHeight = layoutCoordinates.size.height.toFloat()
+                    if (newHeight != columnHeight) {
+                        component.scrollbar.setColumnHeight(newHeight)
+                    }
+                }
+                .background(brush =
+                    Brush.verticalGradient(
+                        colors = listOf(
+                            MaterialTheme.colorScheme.primary,
+                            MaterialTheme.colorScheme.secondary
+                        )
+                    )
+                ),
+            songs = component.songItems.subscribeAsState().value,
+            onSongNameClick = component::onSongClicked,
+            searchIsActive = component.searchIsActive.subscribeAsState().value,
+            fullTextSearchData = component.fullTextSearchData,
+        ) {
+            component.onFullTextSearch()
+        }
+
+        ScrollbarContent(
+            component.scrollbar,
+            Modifier.align(Alignment.TopEnd))
     }
 }
 

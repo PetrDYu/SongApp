@@ -12,6 +12,8 @@ import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.screens.common.fullTextSearch.DefaultFullTextSearchComponent
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
+import ru.petr.songapp.screens.songListScreen.songList.scrollbar.DefaultScrollbarComponent
+import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarComponent
 
 class DefaultSongListComponent(
     componentContext: ComponentContext,
@@ -29,6 +31,8 @@ class DefaultSongListComponent(
                                                             songItems)
 
     override val fullTextSearchData: FullSearchData = fullSearch.searchData
+
+    override val scrollbar: ScrollbarComponent = DefaultScrollbarComponent(childContext("DefaultScrollbarComponent"))
 
     private var _songItemsCopy = _songItems.value
 

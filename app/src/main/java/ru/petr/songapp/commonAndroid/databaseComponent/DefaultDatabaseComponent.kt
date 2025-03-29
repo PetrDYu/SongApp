@@ -35,7 +35,7 @@ class DefaultDatabaseComponent(
 
     override fun getAllSongsInCollection(collectionId: Int): Value<List<SongDataForCollection>> {
         val index = _collections.value.indexOfFirst { it.id == collectionId }
-        return if (index != -1) {
+        return if ((songs.isNotEmpty()) && (index != -1)) {
             songs[index]
         } else {
             MutableValue(listOf())

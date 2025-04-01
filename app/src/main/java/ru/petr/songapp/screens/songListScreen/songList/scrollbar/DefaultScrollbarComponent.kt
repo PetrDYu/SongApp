@@ -87,8 +87,8 @@ class DefaultScrollbarComponent(
     override fun updateListScrollOffset(index: Int, offset: Int) {
         if (!dragWithPointer) {
             val offset = index * itemHeight + offset
-            listHeight.takeIf { it != 0f }.let {
-                val fraction = offset / (listHeight - columnHeight)
+            (listHeight - columnHeight).takeIf { it != 0f }?.let { actualListHeight ->
+                val fraction = offset / actualListHeight
                 _scrollOffset.update { fraction.coerceIn(0f, 1f) * maxPointerOffset }
             }
         }

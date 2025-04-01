@@ -7,6 +7,9 @@ interface ScrollbarComponent {
     val scrollOffset: Value<Float>
     val numbersAreShown: Value<Boolean>
     val itemsQty: Value<Int>
+    val listScrollIsEnabled: Value<Boolean>
+    val targetListOffset: Value<Int>
+    val targetListIndex: Value<Int>
 
     fun updateItemsQty(itemsQty: Int)
 
@@ -21,4 +24,8 @@ interface ScrollbarComponent {
     fun setColumnHeight(height: Float)
 
     fun setPointerHeight(height: Float)
+
+    fun updateListScrollOffset(index: Int, offset: Int)
+
+    fun setItemHeight(height: Float)
 }

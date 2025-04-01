@@ -64,6 +64,9 @@ class DefaultSongListComponent(
 
             _songItemsCopy = newList
 
+            // Включаем показ номеров на scrollbar
+            scrollbar.setNumberNeed(true)
+
             if (searchIsActive.value) {
                 CoroutineScope(Job()).launch {
                     _songItems.update {
@@ -75,6 +78,10 @@ class DefaultSongListComponent(
             } else {
                 _songItems.update { newList }
             }
+        }
+
+        _songItems.subscribe { songList ->
+            scrollbar.updateItemsQty(songList.size)
         }
     }
 

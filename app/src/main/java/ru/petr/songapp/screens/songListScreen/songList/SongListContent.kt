@@ -9,6 +9,8 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.LazyListState
+import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
@@ -17,10 +19,13 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
+import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
@@ -35,6 +40,8 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
+import kotlinx.coroutines.flow.distinctUntilChanged
+import kotlinx.coroutines.launch
 import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
@@ -42,6 +49,35 @@ import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarConten
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
+    // Создаем состояние для списка
+    val listState = rememberLazyListState()
+    // Создаем scope для прокрутки списка
+    val scope = rememberCoroutineScope()
+
+    LaunchedEffect(listState) {
+        // Отслеживаем изменение размера первого видимого элемента списка
+        launch {
+            snapshotFlow {
+                listState.layoutInfo.visibleItemsInfo.firstOrNull()?.size ?: 0
+            }
+                .distinctUntilChanged()  // реагировать только на изменения размера
+                .collect { newHeight ->
+                    component.scrollbar.setItemHeight(newHeight.toFloat())
+                }
+        }
+    }
+
+    val listScrollIsEnabled by component.scrollbar.listScrollIsEnabled.subscribeAsState()
+    val targetListIndex by component.scrollbar.targetListIndex.subscribeAsState()
+    val targetListOffset by component.scrollbar.targetListOffset.subscribeAsState()
+    LaunchedEffect(listScrollIsEnabled, targetListIndex, targetListOffset) {
+        if (listScrollIsEnabled) {
+            scope.launch {
+                listState.scrollToItem(index = targetListIndex, scrollOffset = targetListOffset)
+            }
+        }
+    }
+
     Box(modifier) {
         var columnHeight by remember { mutableFloatStateOf(0f) }
         SongList(
@@ -64,13 +100,18 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
             onSongNameClick = component::onSongClicked,
             searchIsActive = component.searchIsActive.subscribeAsState().value,
             fullTextSearchData = component.fullTextSearchData,
-        ) {
-            component.onFullTextSearch()
-        }
+            onFullTextSearchClick = {
+                component.onFullTextSearch()
+            },
+            onDragScroll = component.scrollbar::updateListScrollOffset,
+            // Передаем общее состояние списка
+            listState = listState
+        )
 
         ScrollbarContent(
-            component.scrollbar,
-            Modifier.align(Alignment.TopEnd))
+            component = component.scrollbar,
+            modifier = Modifier.align(Alignment.TopEnd),
+        )
     }
 }
 
@@ -82,10 +123,24 @@ fun SongList(modifier: Modifier = Modifier,
              searchIsActive: Boolean,
              fullTextSearchData: FullSearchData,
              onFullTextSearchClick: () -> Unit,
+             onDragScroll: (Int, Int) -> Unit,
+             listState: LazyListState
 ){
     val fullTextSearchResult by fullTextSearchData.result.subscribeAsState()
     val fullTextSearchIsActive by fullTextSearchData.fullSearchIsActive.subscribeAsState()
     val fullTextSearchIsInProgress by fullTextSearchData.fullSearchIsInProgress.subscribeAsState()
+
+    // Эффект для обновления смещения scrollbar при прокрутке списка
+    LaunchedEffect(listState) {
+        snapshotFlow {
+            // Берем индекс и смещение первого видимого элемента
+            listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset
+        }
+            .distinctUntilChanged()
+            .collect { (index, offset) ->
+                onDragScroll(index, offset)
+            }
+    }
 
     Box(modifier.fillMaxSize()) {
         if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
@@ -102,7 +157,7 @@ fun SongList(modifier: Modifier = Modifier,
                 MessageCard(stringResource( id = R.string.not_added_songs_in_collection))
             }
         } else {
-            LazyColumn(Modifier.fillMaxSize()) {
+            LazyColumn(state = listState, modifier = Modifier.fillMaxSize()) {
                 items(songs.size) { index ->
                     SongCard(songs[index], onSongNameClick)
                 }

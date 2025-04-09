@@ -29,7 +29,6 @@ import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
-import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -82,12 +81,6 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
         var columnHeight by remember { mutableFloatStateOf(0f) }
         SongList(
             Modifier
-                .onGloballyPositioned { layoutCoordinates ->
-                    val newHeight = layoutCoordinates.size.height.toFloat()
-                    if (newHeight != columnHeight) {
-                        component.scrollbar.setColumnHeight(newHeight)
-                    }
-                }
                 .background(brush =
                     Brush.verticalGradient(
                         colors = listOf(

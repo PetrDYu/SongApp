@@ -24,6 +24,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -81,6 +82,14 @@ fun SongListScreenTopBar(collectionName: String) {
                     tint = MaterialTheme.colorScheme.primary
                 )
             }
+
+            // Устанавливает высоту названия сборника
+            Text("\n",
+                fontSize = 22.sp,
+                modifier = Modifier.padding(vertical = 10.dp),
+                minLines = 2,
+                maxLines = 2)
+
             AnimatedContent(
                 targetState = collectionName.uppercase(),
                 transitionSpec = {
@@ -94,7 +103,9 @@ fun SongListScreenTopBar(collectionName: String) {
                     animatedText,
                     fontSize = 22.sp,
                     modifier = Modifier
-                        .padding(vertical = 10.dp)
+                        .padding(vertical = 10.dp),
+                    maxLines = 2,
+                    overflow = TextOverflow.Ellipsis,
                 )
             }
 

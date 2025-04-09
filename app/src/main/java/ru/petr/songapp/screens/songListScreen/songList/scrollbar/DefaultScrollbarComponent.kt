@@ -8,6 +8,8 @@ import kotlinx.coroutines.SupervisorJob
 import com.arkivanov.essenty.lifecycle.coroutines.coroutineScope
 import kotlin.coroutines.CoroutineContext
 
+const val NUMBER_TO_EMPTY_SPACE_MAX_FRACTION: Float = 0.2f
+
 class DefaultScrollbarComponent(
     componentContext: ComponentContext,
     mainCoroutineContext: CoroutineContext = SupervisorJob())
@@ -26,6 +28,12 @@ class DefaultScrollbarComponent(
 
     private var _itemsQty = MutableValue(0)
     override val itemsQty: Value<Int> = _itemsQty
+    
+    private var _numbersList = MutableValue(emptyList<Int>())
+    override val numbersList: Value<List<Int>> = _numbersList
+
+    private var _pxBetweenNumbers = MutableValue(0f)
+    override val pxBetweenNumbers: Value<Float> = _pxBetweenNumbers
 
     private var _listScrollIsEnabled = MutableValue(false)
     override val listScrollIsEnabled: Value<Boolean> = _listScrollIsEnabled
@@ -50,9 +58,12 @@ class DefaultScrollbarComponent(
     private val maxPointerOffset: Float
         get() = (columnHeight - pointerHeight).coerceAtLeast(0f)
 
+    private var textSizeInPx = 0f
+
 
     override fun updateItemsQty(itemsQty: Int) {
         _itemsQty.update { itemsQty }
+        calculateScrollbarTextParams()
     }
 
     override fun setNumberNeed(need: Boolean) {
@@ -78,10 +89,17 @@ class DefaultScrollbarComponent(
 
     override fun setColumnHeight(newHeight: Float) {
         columnHeight = newHeight
+        calculateScrollbarTextParams()
     }
 
     override fun setPointerHeight(height: Float) {
         pointerHeight = height
+        calculateScrollbarTextParams()
+    }
+
+    override fun setTextSizeInPx(textSize: Float) {
+        textSizeInPx = textSize
+        calculateScrollbarTextParams()
     }
 
     override fun updateListScrollOffset(index: Int, offset: Int) {
@@ -96,6 +114,7 @@ class DefaultScrollbarComponent(
 
     override fun setItemHeight(height: Float) {
         itemHeight = height
+        calculateScrollbarTextParams()
     }
 
     private fun calcListOffsetParams(fraction: Float) {
@@ -108,5 +127,54 @@ class DefaultScrollbarComponent(
         _targetListOffset.update {
             if (itemHeight != 0f) (desiredScrollPx % itemHeight).toInt() else 0
         }
+    }
+
+    private fun calculateScrollbarTextParams() {
+        if ((listHeight - columnHeight) > 0 && itemHeight > 0 && maxPointerOffset > 0) {
+            val itemsQtyValue = itemsQty.value
+            for (distance in 1..itemsQtyValue) {
+                val freeSpacePerNumber = distance * itemHeight * maxPointerOffset / (listHeight - columnHeight) // (columnHeight - pointerHeight) / (itemsQtyValue / distance)
+                if (textSizeInPx / freeSpacePerNumber < NUMBER_TO_EMPTY_SPACE_MAX_FRACTION) {
+                    _numbersList.update { (1..itemsQtyValue step distance).toList() }
+                    _pxBetweenNumbers.update { freeSpacePerNumber }
+                    break
+                }
+            }
+//            if (itemsQtyValue > 1) {
+//                // Используем maxPointerOffset и считаем, что между элементами (itemsQtyValue - 1) интервал
+//                for (distance in 1..itemsQtyValue) {
+//                    // Вычисляем свободное расстояние для каждого отображаемого номера по шкале
+//                    val freeSpacePerNumber = distance * maxPointerOffset / (itemsQtyValue - 1)
+//                    if (textSizeInPx / freeSpacePerNumber < NUMBER_TO_EMPTY_SPACE_MAX_FRACTION) {
+//                        _numbersList.update { (1..itemsQtyValue step distance).toList() }
+//                        _pxBetweenNumbers.update { freeSpacePerNumber }
+//                        break
+//                    }
+//                }
+//            } else if (itemsQtyValue == 1) {
+//                // Если всего один элемент, выводим его с максимальным значением свободного пространства
+//                _numbersList.update { listOf(1) }
+//                _pxBetweenNumbers.update { maxPointerOffset }
+//            }
+        }
+//        when (itemsQty) {
+//            0 -> {
+//
+//            }
+//            in 1..5 -> {
+//                _numbersList.update { (1..5).toList() }
+//            }
+//            in 6..10 -> {
+//                _numbersList.update { (1..itemsQty step 2).toList() }
+//            }
+//            in 10..100 -> {
+//                for (distance in 2..itemsQty) {
+//                    val freeSpacePerNumber = columnHeight / (itemsQty/distance).toInt()
+//                    if (textSizeInPx / freeSpacePerNumber < NUMBER_TO_EMPTY_SPACE_MAX_FRACTION) {
+//                        _numbersList.update { (1..itemsQty step distance).toList() }
+//                    }
+//                }
+//            }
+//        }
     }
 }

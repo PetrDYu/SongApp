@@ -3,7 +3,7 @@
     <verse number="0">
         <string>
             <repeat id="0" rep_rate="-1" is_opening="true" />
-            <plain>Господь сказал</plain>
+            <plain>Господь сказал: «Когда бы вы имели веру -</plain>
         </string>
         <string>
             <plain>Веру с горчичное зерно,</plain>
@@ -13,7 +13,8 @@
     <verse number="0">
         <string>
             <repeat id="1" rep_rate="-1" is_opening="true" />
-            <plain>Тогда бы с верой горе сказали</plain>
+            <plain>Тогда бы с верой горе сказали: "Перейди, перейди!"</plain>
+            <repeat id="1" rep_rate="2" is_opening="false" />
         </string>
         <string>
             <plain>И тотчас с места</plain>

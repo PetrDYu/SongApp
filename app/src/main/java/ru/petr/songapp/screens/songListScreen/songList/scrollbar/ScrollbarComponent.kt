@@ -6,10 +6,12 @@ interface ScrollbarComponent {
     // Internal for ScrollbarContent
     val isBright: Value<Boolean>
     val scrollOffset: Value<Float>
-    val numbersAreShown: Value<Boolean>
+    val isVisible: Value<Boolean>
     val itemsQty: Value<Int>
     val numbersList: Value<List<Int>>
-    val pxBetweenNumbers: Value<Float>
+    val numbersPositions: Value<List<Float>>
+    val pointerHeight: Value<Float>
+    val currentSongNumber: Value<Int>
 
     fun onPress()
     fun onReleaseOrCancel()
@@ -23,9 +25,9 @@ interface ScrollbarComponent {
     val targetListOffset: Value<Int>
     val targetListIndex: Value<Int>
 
-    fun updateItemsQty(itemsQty: Int)
-    fun setNumberNeed(need: Boolean)
+    fun setItemNumbersList(numbers: List<Int>)
+    fun scrollbarNeed(need: Boolean)
     fun setColumnHeight(height: Float)
-    fun updateListScrollOffset(index: Int, offset: Int)
+    fun updateListScrollOffset(index: Int, offset: Int, fixListOffset: Boolean)
     fun setItemHeight(height: Float)
 }

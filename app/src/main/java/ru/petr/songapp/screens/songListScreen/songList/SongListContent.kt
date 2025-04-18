@@ -21,10 +21,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.mutableFloatStateOf
-import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
-import androidx.compose.runtime.setValue
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -39,6 +36,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.launch
 import ru.petr.songapp.R
@@ -78,7 +76,6 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
     }
 
     Box(modifier) {
-        var columnHeight by remember { mutableFloatStateOf(0f) }
         SongList(
             Modifier
                 .background(brush =
@@ -116,7 +113,7 @@ fun SongList(modifier: Modifier = Modifier,
              searchIsActive: Boolean,
              fullTextSearchData: FullSearchData,
              onFullTextSearchClick: () -> Unit,
-             onDragScroll: (Int, Int) -> Unit,
+             onDragScroll: (Int, Int, Boolean) -> Unit,
              listState: LazyListState
 ){
     val fullTextSearchResult by fullTextSearchData.result.subscribeAsState()
@@ -131,7 +128,26 @@ fun SongList(modifier: Modifier = Modifier,
         }
             .distinctUntilChanged()
             .collect { (index, offset) ->
-                onDragScroll(index, offset)
+                onDragScroll(index, offset, false)
+            }
+    }
+
+    LaunchedEffect(listState) {
+        snapshotFlow {
+            listState.isScrollInProgress
+        }
+            .distinctUntilChanged()
+            .collect {
+                if (!it) {
+                    delay(100)
+                    if (!listState.isScrollInProgress) {
+                        onDragScroll(
+                            listState.firstVisibleItemIndex,
+                            listState.firstVisibleItemScrollOffset,
+                            true
+                        )
+                    }
+                }
             }
     }
 

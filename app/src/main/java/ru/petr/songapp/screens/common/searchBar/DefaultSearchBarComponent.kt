@@ -11,11 +11,9 @@ class DefaultSearchBarComponent(
         private val onSearchClick: (newText: String) -> Unit
 ) : SearchBarComponent, ComponentContext by componentContext {
     private val _searchText = MutableValue("")
-
     override val searchText: Value<String> = _searchText
 
     private val _searchIsActive = MutableValue(false)
-
     override val searchIsActive: Value<Boolean> = _searchIsActive
 
     private val backCallback = BackCallback (false) {
@@ -24,8 +22,10 @@ class DefaultSearchBarComponent(
 
     init {
         _searchText.subscribe { text ->
-            _searchIsActive.update { text != "" }
-            backCallback.isEnabled = _searchIsActive.value
+            if (text.isEmpty()) {
+                _searchIsActive.update { false }
+            }
+            backCallback.isEnabled = text.isNotEmpty()
         }
 
         backHandler.register(backCallback)
@@ -37,5 +37,6 @@ class DefaultSearchBarComponent(
 
     override fun onSearch() {
         onSearchClick(searchText.value)
+        _searchIsActive.update { true }
     }
 }

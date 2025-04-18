@@ -46,7 +46,13 @@ class DefaultSongListComponent(
         }
 
         searchIsActive.subscribe { isActive ->
-            if (!isActive) {
+            if (isActive) {
+                // Если поиск активен, то скроллбар не требуется
+                scrollbar.scrollbarNeed(false)
+            }
+            else {
+                // Если поиск не активен, то показываем скроллбар
+                scrollbar.scrollbarNeed(true)
                 _songItems.update { _songItemsCopy }
                 fullSearch.activateSearch(false)
             }
@@ -64,9 +70,6 @@ class DefaultSongListComponent(
 
             _songItemsCopy = newList
 
-            // Включаем показ номеров на scrollbar
-            scrollbar.setNumberNeed(true)
-
             if (searchIsActive.value) {
                 CoroutineScope(Job()).launch {
                     _songItems.update {
@@ -81,7 +84,7 @@ class DefaultSongListComponent(
         }
 
         _songItems.subscribe { songList ->
-            scrollbar.updateItemsQty(songList.size)
+            scrollbar.setItemNumbersList(songList.map { it.numInColl })
         }
     }
 

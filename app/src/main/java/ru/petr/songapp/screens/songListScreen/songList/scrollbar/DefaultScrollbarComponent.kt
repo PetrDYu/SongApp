@@ -75,6 +75,7 @@ class DefaultScrollbarComponent(
     override fun onPress() {
         _isBright.update { true }
         dragWithPointer = true
+        updateCurrentSongNumber()
     }
 
     override fun onReleaseOrCancel() {

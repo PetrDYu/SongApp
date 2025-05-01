@@ -12,14 +12,17 @@ import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.gestures.detectTapGestures
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.offset
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
@@ -37,16 +40,22 @@ import androidx.compose.ui.layout.onSizeChanged
 import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.text.PlatformTextStyle
-import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.IntOffset
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
+import com.arkivanov.decompose.value.MutableValue
 import kotlinx.coroutines.delay
-import ru.petr.songapp.screens.songListScreen.LOG_TAG
+import ru.petr.songapp.ui.theme.DarkScrollbarColor
+import ru.petr.songapp.ui.theme.DarkScrollbarPointerColor
+import ru.petr.songapp.ui.theme.LightScrollbarColor
+import ru.petr.songapp.ui.theme.LightScrollbarPointerColor
+import ru.petr.songapp.ui.theme.SongAppTheme
 import kotlin.math.roundToInt
 
+const val LOG_TAG = "Scrollbar"
 val DEFAULT_SCROLLBAR_TEXT_SIZE = 14.sp
 
 @Composable
@@ -55,6 +64,10 @@ fun ScrollbarContent(component: ScrollbarComponent,
 ) {
     val isBright by component.isBright.subscribeAsState()
     val currentSongNumber by component.currentSongNumber.subscribeAsState()
+
+    val isDarkTheme = isSystemInDarkTheme()
+    val scrollbarColor = if (isDarkTheme) DarkScrollbarColor else LightScrollbarColor
+    val scrollbarTextColor = if (isDarkTheme) DarkScrollbarPointerColor else LightScrollbarPointerColor
 
     val scrollbarAlpha: Float by animateFloatAsState(
         targetValue = if (isBright) 1f else 0.5f,
@@ -95,7 +108,7 @@ fun ScrollbarContent(component: ScrollbarComponent,
                 Modifier
                     .align(Alignment.TopEnd)
                     .fillMaxHeight()
-                    .background(Color.White.copy(alpha = scrollbarAlpha))
+                    .background(scrollbarColor.copy(alpha = scrollbarAlpha))
                     .onSizeChanged { size ->
                         component.setColumnHeight(size.height.toFloat())
                     }
@@ -107,15 +120,11 @@ fun ScrollbarContent(component: ScrollbarComponent,
                         text = number.toString(),
                         modifier = Modifier
                             .offset { IntOffset(x = 0, y = numbersPositions[index].toInt()) }
-                            .align(Alignment.TopEnd),
+                            .align(Alignment.TopEnd)
+                            .padding(horizontal = 5.dp),
                         fontSize = DEFAULT_SCROLLBAR_TEXT_SIZE,
-                        color = Color(
-                            red = 0,
-                            green = 73,
-                            blue = 101,
-                            alpha = 255
-                        ).copy(alpha = scrollbarAlpha),
-                        style = TextStyle(
+                        color = scrollbarTextColor,
+                        style = MaterialTheme.typography.bodyLarge.copy(
                             platformStyle = PlatformTextStyle(
                                 includeFontPadding = false
                             )
@@ -142,7 +151,9 @@ fun ScrollbarContent(component: ScrollbarComponent,
                 onDrag = { dragDelta ->
                     component.onDrag(dragDelta)
                 },
-                isBright = isBright
+                isBright = isBright,
+                scrollbarPointerColor = scrollbarTextColor,
+                scrollbarTintTextColor = scrollbarColor
             )
         }
     }
@@ -156,7 +167,10 @@ fun ScrollbarPointer(modifier: Modifier = Modifier,
                      onReleaseOrCancel: () -> Unit,
                      onDrag: (offset: Float) -> Unit,
                      currentSongNumber: Int,
-                     isBright: Boolean) {
+                     isBright: Boolean,
+                     scrollbarPointerColor: Color,
+                     scrollbarTintTextColor: Color) {
+
     var dragActive by remember { mutableStateOf(false) }
 
     Row(modifier, verticalAlignment = Alignment.CenterVertically) {
@@ -188,14 +202,14 @@ fun ScrollbarPointer(modifier: Modifier = Modifier,
                         // Цвет заполнения
                         drawPath(
                             path = path,
-                            color = Color(red = 0, green = 73, blue = 101, alpha = 255),
+                            color = scrollbarPointerColor,
                         )
                     }
 
                     // Номер песни внутри капли
                     Text(
                         text = currentSongNumber.toString(),
-                        color = Color.White,
+                        color = scrollbarTintTextColor,
                         fontSize = 18.sp,
                         fontWeight = FontWeight.Bold,
                         modifier = Modifier
@@ -256,12 +270,7 @@ fun ScrollbarPointer(modifier: Modifier = Modifier,
                     .fillMaxHeight()
                     .fillMaxWidth(0.5f)
                     .background(
-                        color = Color(
-                            red = 0,
-                            green = 73,
-                            blue = 101,
-                            alpha = 255
-                        ).copy(alpha = scrollbarAlpha),
+                        color = scrollbarPointerColor.copy(alpha = scrollbarAlpha),
                         shape = RoundedCornerShape(10.dp)
                     )
             ) {}
@@ -269,5 +278,40 @@ fun ScrollbarPointer(modifier: Modifier = Modifier,
 
         }
 
+    }
+}
+
+
+@Preview(showBackground = true, backgroundColor = 0xFF021F2F,
+    uiMode = android.content.res.Configuration.UI_MODE_NIGHT_NO or android.content.res.Configuration.UI_MODE_TYPE_NORMAL
+)
+@Composable
+fun PreviewScrollbar() {
+    SongAppTheme(darkTheme = true, dynamicColor = false)
+    {
+        val component = PreviewScrollbarComponent(
+            isBright = MutableValue(true),
+            scrollOffset = MutableValue(0f),
+            isVisible = MutableValue(true),
+            itemsQty = MutableValue(100),
+            numbersList = MutableValue(listOf(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)),
+            numbersPositions = MutableValue(
+                listOf(
+                    100f,
+                    200f,
+                    300f,
+                    400f,
+                    500f,
+                    600f,
+                    700f,
+                    800f,
+                    900f,
+                    1000f
+                )
+            ),
+            pointerHeight = MutableValue(20f),
+            currentSongNumber = MutableValue(1)
+        )
+        ScrollbarContent(component, Modifier)
     }
 }

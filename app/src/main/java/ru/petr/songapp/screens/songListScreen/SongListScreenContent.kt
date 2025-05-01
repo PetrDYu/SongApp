@@ -33,6 +33,7 @@ import com.arkivanov.decompose.extensions.compose.pages.PagesScrollAnimation
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
+import ru.petr.songapp.ui.theme.SongAppTheme
 
 const val LOG_TAG = "SongListScreenContentTag"
 
@@ -113,8 +114,11 @@ fun SongListScreenTopBar(collectionName: String) {
     }
 }
 
-@Preview(showBackground = true, showSystemUi = true)
+@Preview(showBackground = true, showSystemUi = false)
 @Composable
 fun SongListScreenTopBarPreview() {
-    SongListScreenTopBar("Будем петь и славить")
+    SongAppTheme(darkTheme = false, dynamicColor = false)
+    {
+        SongListScreenTopBar("Будем петь и славить")
+    }
 }

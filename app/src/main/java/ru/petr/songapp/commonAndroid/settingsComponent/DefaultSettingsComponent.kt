@@ -1,7 +1,6 @@
 package ru.petr.songapp.commonAndroid.settingsComponent
 
 import android.content.Context
-import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
@@ -9,7 +8,7 @@ import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 import ru.petr.songapp.R
-import ru.petr.songapp.data.models.datastore.settings.SettingsStore
+import ru.petr.songapp.database.datastore.settings.SettingsStore
 
 class DefaultSettingsComponent(
     context: Context

@@ -1,4 +1,4 @@
-package ru.petr.songapp.data.models.datastore.settings
+package ru.petr.songapp.database.datastore.settings
 
 import android.content.Context
 import androidx.datastore.core.DataStore

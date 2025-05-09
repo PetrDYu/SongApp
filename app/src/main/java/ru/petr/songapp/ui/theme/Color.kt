@@ -8,7 +8,9 @@ val MainLightBlue = Color(0xFFB3D1DD)
 val LightGray = Color(0xFFF8F8F6)
 val Black = Color(0xFF000000)
 val LightScrollbarColor = Color.White
+val LightScrollbarTextColor = MainBlue
 val LightScrollbarPointerColor = MainBlue
+val LightScrollbarTooltipColor = MainBlue
 
 // Dark theme colors
 val DarkBlue = Color(0xFF021F2F)
@@ -16,8 +18,10 @@ val DarkLightBlue = Color(0xFF135A81)
 val DarkLightBlueText = Color(0xFF7A8F97)
 val White = Color.White
 val DarkLightGray = Color(195, 203, 207, 255)
-val DarkScrollbarColor = DarkBlue
-val DarkScrollbarPointerColor = Color.White
+val DarkScrollbarColor = DarkLightBlue
+val DarkScrollbarTextColor = Color.White
+val DarkScrollbarPointerColor = DarkBlue
+val DarkScrollbarTooltipColor = DarkLightBlue
 
 
 val TitleBlue = Color(0xFF115277)

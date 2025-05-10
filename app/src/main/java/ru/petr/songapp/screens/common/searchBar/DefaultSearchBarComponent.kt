@@ -36,7 +36,9 @@ class DefaultSearchBarComponent(
     }
 
     override fun onSearch() {
-        onSearchClick(searchText.value)
-        _searchIsActive.update { true }
+        if (searchText.value.isNotEmpty()) {
+            onSearchClick(searchText.value)
+            _searchIsActive.update { true }
+        }
     }
 }

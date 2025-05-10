@@ -14,6 +14,8 @@ interface SongListComponent {
 
     val scrollbar: ScrollbarComponent
 
+    val isInGridMode: Value<Boolean>
+
     fun onSongClicked(id: Int)
 
     fun onFullTextSearch()

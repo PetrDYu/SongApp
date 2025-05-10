@@ -1,16 +1,28 @@
 package ru.petr.songapp.screens.songListScreen.songList
 
+import androidx.compose.animation.AnimatedContent
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
+import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.aspectRatio
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
+import androidx.compose.foundation.lazy.grid.GridCells
+import androidx.compose.foundation.lazy.grid.LazyVerticalGrid
+import androidx.compose.foundation.lazy.grid.items
 import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
@@ -31,6 +43,7 @@ import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -44,13 +57,19 @@ import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarContent
 
+val SONG_TEXT_SIZE = 20.sp
+
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
+    val items by component.songItems.subscribeAsState()
+    val searchIsActive by component.searchIsActive.subscribeAsState()
+    val isInGridMode by component.isInGridMode.subscribeAsState()
+    
     // Создаем состояние для списка
     val listState = rememberLazyListState()
     // Создаем scope для прокрутки списка
     val scope = rememberCoroutineScope()
-
+    
     LaunchedEffect(listState) {
         // Отслеживаем изменение размера первого видимого элемента списка
         launch {
@@ -75,29 +94,41 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
         }
     }
 
-    Box(modifier) {
-        SongList(
-            Modifier
-                .background(brush =
-                    Brush.verticalGradient(
+    Box(modifier = modifier.fillMaxSize()) {
+        // Определим отображаемый режим на верхнем уровне
+        val showGridView = !searchIsActive && isInGridMode
+        
+        AnimatedContent(
+            targetState = showGridView,
+            label = "ViewModeToggle",
+            transitionSpec = {
+                fadeIn() togetherWith fadeOut()
+            }
+        ) { isGridView ->
+            if (isGridView) {
+                // Режим сетки (только когда поиск не активен и выбран grid режим)
+                SongNumberGrid(items, component::onSongClicked)
+            } else {
+                // Обычный список или режим поиска
+                SongList(
+                    Modifier.background(brush = Brush.verticalGradient(
                         colors = listOf(
                             MaterialTheme.colorScheme.primary,
                             MaterialTheme.colorScheme.secondary
                         )
-                    )
-                ),
-            songs = component.songItems.subscribeAsState().value,
-            onSongNameClick = component::onSongClicked,
-            searchIsActive = component.searchIsActive.subscribeAsState().value,
-            fullTextSearchData = component.fullTextSearchData,
-            onFullTextSearchClick = {
-                component.onFullTextSearch()
-            },
-            onDragScroll = component.scrollbar::updateListScrollOffset,
-            // Передаем общее состояние списка
-            listState = listState
-        )
-
+                    )),
+                    songs = items,
+                    onSongNameClick = component::onSongClicked,
+                    searchIsActive = searchIsActive,
+                    fullTextSearchData = component.fullTextSearchData,
+                    onFullTextSearchClick = {
+                        component.onFullTextSearch()
+                    },
+                    onDragScroll = component.scrollbar::updateListScrollOffset,
+                    listState = listState
+                )
+            }
+        }
         ScrollbarContent(
             component = component.scrollbar,
             modifier = Modifier.align(Alignment.TopEnd),
@@ -105,6 +136,54 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
     }
 }
 
+@Composable
+fun SongNumberGrid(items: List<SongListComponent.SongItem>, onSongClicked: (Int) -> Unit) {
+    Box(
+        modifier = Modifier
+            .fillMaxSize()
+            .background(
+                brush = Brush.verticalGradient(
+                    colors = listOf(
+                        MaterialTheme.colorScheme.primary,
+                        MaterialTheme.colorScheme.secondary
+                    )
+                )
+            )
+    ) {
+        LazyVerticalGrid(
+            columns = GridCells.Adaptive((SONG_TEXT_SIZE.value.toInt() * 2.5).dp),
+            contentPadding = PaddingValues(5.dp),
+            verticalArrangement = Arrangement.spacedBy(4.dp),
+            horizontalArrangement = Arrangement.spacedBy(4.dp),
+            modifier = Modifier.fillMaxSize()
+        ) {
+            items(items) { item ->
+                Card(
+                    modifier = Modifier
+                        .aspectRatio(1f)
+                        .clickable { onSongClicked(item.id) },
+                    shape = RoundedCornerShape(10.dp),
+                    elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
+                    colors = CardDefaults.cardColors(
+                        containerColor = MaterialTheme.colorScheme.secondary
+                    )
+                ) {
+                    Box(
+                        contentAlignment = Alignment.Center,
+                        modifier = Modifier.fillMaxSize()
+                    ) {
+                        Text(
+                            text = item.numInColl.toString(),
+                            fontSize = SONG_TEXT_SIZE,
+                            fontWeight = FontWeight.Bold,
+                            color = MaterialTheme.colorScheme.onSecondary
+                        )
+                    }
+                }
+            }
+        }
+    }
+}
 
 @Composable
 fun SongList(modifier: Modifier = Modifier,
@@ -154,42 +233,45 @@ fun SongList(modifier: Modifier = Modifier,
     Box(modifier.fillMaxSize()) {
         if (songs.isEmpty() && fullTextSearchResult.resultsList.isEmpty()) {
             if (searchIsActive) {
-                    if (fullTextSearchIsInProgress) {
-                        Column {
-                            MessageCard(message = stringResource(id = R.string.not_fount_songs_by_name))
-                            FullSearchProgressBar()
-                        }
-                    } else {
-                        MessageCard(stringResource(id = R.string.not_found_songs_in_collection))
+                if (fullTextSearchIsInProgress) {
+                    Column {
+                        MessageCard(message = stringResource(id = R.string.not_fount_songs_by_name))
+                        FullSearchProgressBar()
                     }
+                } else {
+                    MessageCard(stringResource(id = R.string.not_found_songs_in_collection))
+                }
             } else {
-                MessageCard(stringResource( id = R.string.not_added_songs_in_collection))
+                MessageCard(stringResource(id = R.string.not_added_songs_in_collection))
             }
         } else {
             LazyColumn(state = listState, modifier = Modifier.fillMaxSize()) {
                 items(songs.size) { index ->
                     SongCard(songs[index], onSongNameClick)
                 }
-
+                
                 if (searchIsActive) {
                     if (!fullTextSearchIsActive) {
                         items(1) {
                             FullSearchButton(onFullTextSearchClick)
                         }
-                    }  else if (fullTextSearchIsInProgress) {
+                    } else if (fullTextSearchIsInProgress) {
                         items(1) {
                             FullSearchProgressBar()
                         }
                     } else {
                         items(fullTextSearchResult.resultsList.size) { index ->
-                            fullTextSearchResult.resultsList[index].also {resultItem ->
+                            fullTextSearchResult.resultsList[index].also { resultItem ->
                                 SongCard(
-                                    song = SongListComponent.SongItem(resultItem.song.id,
-                                                                      resultItem.song.songData.numberInCollection,
-                                                                      resultItem.song.songData.name),
+                                    song = SongListComponent.SongItem(
+                                        resultItem.song.id,
+                                        resultItem.song.songData.numberInCollection,
+                                        resultItem.song.songData.name
+                                    ),
                                     onSongNameClick = onSongNameClick,
                                     fullTextSearchIsActive = true,
-                                    fullSearchResultItem = resultItem)
+                                    fullSearchResultItem = resultItem
+                                )
                             }
                         }
                     }
@@ -213,7 +295,7 @@ fun MessageCard(message: String) {
 @Composable
 fun SongCard(song: SongListComponent.SongItem,
              onSongNameClick: (id:Int) -> Unit,
-             fontSize: Int = 20,
+             fontSize: Int = SONG_TEXT_SIZE.value.toInt(),
              fullTextSearchIsActive: Boolean = false,
              fullSearchResultItem: FullSearchResultItem? = null
 ) {
@@ -232,8 +314,9 @@ fun SongCard(song: SongListComponent.SongItem,
             Column {
                 Text(
                     song.name,
-                    fontSize = 20.sp
+                    fontSize = fontSize.sp
                 )
+                
                 if (fullTextSearchIsActive && fullSearchResultItem != null) {
                     Text(
                         text = buildAnnotatedString {
@@ -248,7 +331,9 @@ fun SongCard(song: SongListComponent.SongItem,
                             }
                         },
                         fontSize = (fontSize - 5).sp,
-                        color = MaterialTheme.colorScheme.onPrimary
+                        color = MaterialTheme.colorScheme.onPrimary,
+                        overflow = TextOverflow.Ellipsis,
+                        maxLines = 1
                     )
                 }
             }

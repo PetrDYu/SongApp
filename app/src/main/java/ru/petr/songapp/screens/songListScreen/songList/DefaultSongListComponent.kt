@@ -20,6 +20,7 @@ class DefaultSongListComponent(
     collectionId: Int,
     override val searchIsActive: Value<Boolean>,
     private val clickSearchObservable: Value<String>,
+    override val isInGridMode: Value<Boolean> = MutableValue(false),
     private val onSongSelected: (id: Int) -> Unit,
 ) : SongListComponent, ComponentContext by componentContext {
 
@@ -85,6 +86,10 @@ class DefaultSongListComponent(
 
         _songItems.subscribe { songList ->
             scrollbar.setItemNumbersList(songList.map { it.numInColl })
+        }
+
+        isInGridMode.subscribe { inGridMode ->
+            scrollbar.scrollbarNeed(!inGridMode)
         }
     }
 

@@ -14,8 +14,7 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.automirrored.filled.List
+import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
@@ -23,7 +22,9 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -31,6 +32,7 @@ import androidx.compose.ui.unit.sp
 import com.arkivanov.decompose.extensions.compose.pages.ChildPages
 import com.arkivanov.decompose.extensions.compose.pages.PagesScrollAnimation
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
+import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 import ru.petr.songapp.ui.theme.SongAppTheme
@@ -41,9 +43,15 @@ const val LOG_TAG = "SongListScreenContentTag"
 fun SongListScreenContent(component: SongListScreenComponent,
                           modifier: Modifier = Modifier) {
     val selectedPage = component.collectionPages.subscribeAsState().value.selectedIndex
+    val isInGridMode = component.isInGridMode.subscribeAsState().value
+    
     Scaffold (
         modifier,
-        topBar = { SongListScreenTopBar(collectionName = component.collections[selectedPage].name) },
+        topBar = { SongListScreenTopBar(
+            collectionName = component.collections[selectedPage].name,
+            isInGridMode = isInGridMode,
+            onViewModeClick = component::toggleSongsViewMode
+        ) },
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
             Column() {
@@ -62,7 +70,9 @@ fun SongListScreenContent(component: SongListScreenComponent,
 }
 
 @Composable
-fun SongListScreenTopBar(collectionName: String) {
+fun SongListScreenTopBar(collectionName: String,
+                         isInGridMode: Boolean = false,
+                         onViewModeClick: () -> Unit = {}) {
     Box(Modifier
             .background(MaterialTheme.colorScheme.secondary)
             .animateContentSize()
@@ -73,18 +83,29 @@ fun SongListScreenTopBar(collectionName: String) {
             verticalAlignment = Alignment.CenterVertically
         ) {
             with(LocalDensity.current) {
-                Icon(
-                    modifier = Modifier
-                        .clickable { }
-                        .padding(vertical = 10.dp, horizontal = 20.dp)
-                        .size(25.sp.toDp()),
-                    imageVector = Icons.AutoMirrored.Filled.List,
-                    contentDescription = null,
-                    tint = MaterialTheme.colorScheme.primary
-                )
+                AnimatedContent(
+                    targetState = isInGridMode,
+                    label = "IconToggle"
+                ) { inGridMode ->
+                    Icon(
+                        modifier = Modifier
+                            .clip(CircleShape)
+                            .clickable { onViewModeClick() }
+                            .padding(vertical = 10.dp, horizontal = 20.dp)
+                            .size(25.sp.toDp()),
+                        painter = painterResource(if (inGridMode)
+                            R.drawable.list_icon
+                        else
+                            R.drawable.grid_icon),
+                        contentDescription = if (inGridMode) 
+                            "Переключиться в режим списка" 
+                        else 
+                            "Переключиться в режим сетки",
+                        tint = MaterialTheme.colorScheme.primary
+                    )
+                }
             }
 
-            // Устанавливает высоту названия сборника
             Text("\n",
                 fontSize = 22.sp,
                 modifier = Modifier.padding(vertical = 10.dp),

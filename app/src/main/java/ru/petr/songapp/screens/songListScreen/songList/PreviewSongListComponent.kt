@@ -8,7 +8,8 @@ class PreviewSongListComponent(
     override val songItems: Value<List<SongListComponent.SongItem>>,
     override val searchIsActive: Value<Boolean>,
     override val fullTextSearchData: FullSearchData,
-    override val scrollbar: ScrollbarComponent
+    override val scrollbar: ScrollbarComponent,
+    override val isInGridMode: Value<Boolean>
 ) : SongListComponent {
     override fun onSongClicked(id: Int) {}
 

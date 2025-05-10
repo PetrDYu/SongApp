@@ -175,7 +175,7 @@ fun SongNumberGrid(items: List<SongListComponent.SongItem>, onSongClicked: (Int)
                         Text(
                             text = item.numInColl.toString(),
                             fontSize = SONG_TEXT_SIZE,
-                            fontWeight = FontWeight.Bold,
+                            fontWeight = FontWeight.Normal,
                             color = MaterialTheme.colorScheme.onSecondary
                         )
                     }

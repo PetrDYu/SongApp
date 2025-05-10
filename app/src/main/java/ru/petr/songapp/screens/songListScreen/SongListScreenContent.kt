@@ -37,8 +37,18 @@ import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 import ru.petr.songapp.ui.theme.SongAppTheme
 
+/**
+ * Tag used for logging in this file
+ */
 const val LOG_TAG = "SongListScreenContentTag"
 
+/**
+ * Main composable for displaying the song list screen.
+ * This screen shows a collection of songs with search functionality and view mode switching.
+ *
+ * @param component The SongListScreenComponent that manages the screen's state and logic
+ * @param modifier Optional modifier for customizing the layout
+ */
 @Composable
 fun SongListScreenContent(component: SongListScreenComponent,
                           modifier: Modifier = Modifier) {
@@ -55,6 +65,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
             Column() {
+                // Display the selected collection's song list with page navigation
                 ChildPages(
                     modifier = Modifier.weight(1f),
                     pages = component.collectionPages,
@@ -63,12 +74,21 @@ fun SongListScreenContent(component: SongListScreenComponent,
                 ) { _, page ->
                     SongListContent(component = page)
                 }
+                // Display search bar at the bottom of the screen
                 SearchBarContent(component.searchBarComponent)
             }
         }
     }
 }
 
+/**
+ * Top bar composable for the song list screen.
+ * Displays the current collection name and a toggle button for switching between list and grid views.
+ *
+ * @param collectionName Name of the currently selected collection to display in the header
+ * @param isInGridMode Boolean indicating whether the view is currently in grid mode
+ * @param onViewModeClick Callback invoked when the view mode toggle button is clicked
+ */
 @Composable
 fun SongListScreenTopBar(collectionName: String,
                          isInGridMode: Boolean = false,
@@ -83,6 +103,7 @@ fun SongListScreenTopBar(collectionName: String,
             verticalAlignment = Alignment.CenterVertically
         ) {
             with(LocalDensity.current) {
+                // Animated view mode toggle button that changes between list and grid icons
                 AnimatedContent(
                     targetState = isInGridMode,
                     label = "IconToggle"
@@ -106,12 +127,14 @@ fun SongListScreenTopBar(collectionName: String,
                 }
             }
 
+            // Newline character to restrict vertical (minimal and maximal) space in the header
             Text("\n",
                 fontSize = 22.sp,
                 modifier = Modifier.padding(vertical = 10.dp),
                 minLines = 2,
                 maxLines = 2)
 
+            // Animated collection name display with fade transition
             AnimatedContent(
                 targetState = collectionName.uppercase(),
                 transitionSpec = {
@@ -130,11 +153,14 @@ fun SongListScreenTopBar(collectionName: String,
                     overflow = TextOverflow.Ellipsis,
                 )
             }
-
         }
     }
 }
 
+/**
+ * Preview composable for the SongListScreenTopBar.
+ * Shows how the top bar looks with a sample collection name in light theme.
+ */
 @Preview(showBackground = true, showSystemUi = false)
 @Composable
 fun SongListScreenTopBarPreview() {

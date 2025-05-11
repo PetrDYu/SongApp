@@ -26,6 +26,13 @@ import androidx.compose.ui.unit.dp
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.R
 
+/**
+ * Top-level composable for the search bar component.
+ * Subscribes to the component state and delegates to SearchSongBar for UI rendering.
+ *
+ * @param component The SearchBarComponent that manages search state and logic
+ * @param modifier Optional modifier for customizing the layout
+ */
 @Composable
 fun SearchBarContent(component: SearchBarComponent,
                      modifier: Modifier = Modifier) {
@@ -36,6 +43,15 @@ fun SearchBarContent(component: SearchBarComponent,
                   onSearchButtonClick = component::onSearch)
 }
 
+/**
+ * Search bar UI implementation that provides a text input field with search and clear buttons.
+ * Handles keyboard actions and focus management for improved user experience.
+ *
+ * @param modifier Optional modifier for customizing the layout
+ * @param searchText Current text in the search field
+ * @param onChangeSearchText Callback to update the search text
+ * @param onSearchButtonClick Callback to initiate a search operation
+ */
 @Composable
 fun SearchSongBar(modifier: Modifier = Modifier,
                   searchText: String,
@@ -45,8 +61,12 @@ fun SearchSongBar(modifier: Modifier = Modifier,
             verticalAlignment = Alignment.CenterVertically,
             modifier = modifier.background(MaterialTheme.colorScheme.secondary)
     ) {
+        // Access keyboard controller to hide keyboard after search
         val keyboardController = LocalSoftwareKeyboardController.current
+        // Focus manager to clear focus after search
         val focusManager = LocalFocusManager.current
+        
+        // Search text input field with clear button
         OutlinedTextField(
                 value = searchText,
                 onValueChange = onChangeSearchText,
@@ -64,11 +84,13 @@ fun SearchSongBar(modifier: Modifier = Modifier,
                     .weight(1f),
                 singleLine = true,
                 trailingIcon = {
+                    // Clear button to empty the search field
                     IconButton(onClick = {onChangeSearchText("")}) {
-                        Icon(Icons.Default.Clear, null, Modifier.size(24.dp))
+                        Icon(Icons.Default.Clear, 
+                             contentDescription = "Clear search text", 
+                             Modifier.size(24.dp))
                     }
                 }
-                //            colors = TextFieldDefaults.textFieldColors(backgroundColor = Color.White)
         )
         //        var offset by remember { mutableStateOf(0f) }
         //        var wordoffset by remember {
@@ -96,6 +118,7 @@ fun SearchSongBar(modifier: Modifier = Modifier,
         //            )
         //        }
 
+        // Search button to initiate search
         IconButton(
                 onClick = {
                     onSearchButtonClick()
@@ -105,13 +128,11 @@ fun SearchSongBar(modifier: Modifier = Modifier,
         ) {
             Icon(
                     imageVector = Icons.Default.Search,
-                    contentDescription = null,
+                    contentDescription = "Search",
                     Modifier
                         .size(35.dp)
                         .padding(end = 6.dp),
-                    //                tint = Color(243,  244, 236)
             )
         }
     }
-
 }

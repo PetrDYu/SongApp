@@ -15,6 +15,18 @@ import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.DefaultScrollbarComponent
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarComponent
 
+/**
+ * Default implementation of the SongListComponent interface.
+ * Manages songs within a specific collection and handles search functionality.
+ *
+ * @param componentContext The Decompose component context
+ * @param collectionId ID of the collection this component manages
+ * @param searchIsActive Observable value indicating whether search is active
+ * @param clickSearchObservable Observable value for search text input
+ * @param isInGridMode Observable value indicating whether grid mode is enabled
+ * @param onSongSelected Callback triggered when a song is selected
+ */
+
 class DefaultSongListComponent(
     componentContext: ComponentContext,
     collectionId: Int,
@@ -24,20 +36,41 @@ class DefaultSongListComponent(
     private val onSongSelected: (id: Int) -> Unit,
 ) : SongListComponent, ComponentContext by componentContext {
 
+    /**
+     * Mutable container for song items in this component
+     */
     private var _songItems = MutableValue(listOf<SongListComponent.SongItem>())
+    
+    /**
+     * Read-only access to song items as an observable value
+     */
     override val songItems: Value<List<SongListComponent.SongItem>> = _songItems
 
+
+    /**
+     * Full text search component for searching within song lyrics
+     */
     private val fullSearch = DefaultFullTextSearchComponent(childContext("DefaultFullTextSearchComponent"),
                                                             collectionId,
                                                             songItems)
 
+    /**
+     * Provides access to full text search functionality data and results
+     */
     override val fullTextSearchData: FullSearchData = fullSearch.searchData
 
+    /**
+     * Scrollbar component for quick navigation through song list
+     */
     override val scrollbar: ScrollbarComponent = DefaultScrollbarComponent(childContext("DefaultScrollbarComponent"))
 
+    /**
+     * Maintains a copy of the song items for filtered searches
+     */
     private var _songItemsCopy = _songItems.value
 
     init {
+        // Subscribe to search text changes and update the filtered list accordingly
         clickSearchObservable.subscribe { searchText ->
             if (searchText.isBlank()) return@subscribe
             CoroutineScope(Job()).launch {
@@ -46,19 +79,21 @@ class DefaultSongListComponent(
             }
         }
 
+        // Toggle scrollbar visibility based on search state
         searchIsActive.subscribe { isActive ->
             if (isActive) {
-                // Если поиск активен, то скроллбар не требуется
+                // If search is active, scrollbar is not needed
                 scrollbar.scrollbarNeed(false)
             }
             else {
-                // Если поиск не активен, то показываем скроллбар
+                // If search is not active, show scrollbar
                 scrollbar.scrollbarNeed(true)
                 _songItems.update { _songItemsCopy }
                 fullSearch.activateSearch(false)
             }
         }
 
+        // Subscribe to database changes and update song list when collection changes
         databaseComponent.getAllSongsInCollection(collectionId).subscribe {
             val newList = mutableListOf<SongListComponent.SongItem>()
             for(song in it) {
@@ -72,6 +107,7 @@ class DefaultSongListComponent(
             _songItemsCopy = newList
 
             if (searchIsActive.value) {
+                // If search is active, update the filtered list
                 CoroutineScope(Job()).launch {
                     _songItems.update {
                         SearchBarComponent.updateSongList(
@@ -84,20 +120,29 @@ class DefaultSongListComponent(
             }
         }
 
+        // Update scrollbar with song numbers whenever the song list changes
         _songItems.subscribe { songList ->
             scrollbar.setItemNumbersList(songList.map { it.numInColl })
         }
 
+        // Hide scrollbar in grid mode
         isInGridMode.subscribe { inGridMode ->
             scrollbar.scrollbarNeed(!inGridMode)
         }
     }
 
 
+    /**
+     * Handles when a song is clicked by invoking the provided song selection callback
+     * @param id ID of the clicked song
+     */
     override fun onSongClicked(id: Int) {
         onSongSelected(id)
     }
 
+    /**
+     * Initiates full text search with the current search text
+     */
     override fun onFullTextSearch() {
         fullSearch.activateSearch(true, clickSearchObservable.value)
     }

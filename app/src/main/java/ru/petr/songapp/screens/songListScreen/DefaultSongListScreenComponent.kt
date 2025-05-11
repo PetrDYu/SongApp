@@ -10,13 +10,11 @@ import com.arkivanov.decompose.router.pages.select
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
-import com.arkivanov.decompose.Cancellation
 import com.arkivanov.essenty.backhandler.BackCallback
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.builtins.serializer
 import ru.petr.songapp.commonAndroid.databaseComponent
 import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
-import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 import ru.petr.songapp.database.room.songData.utils.removeSpecialSymbolsAndGetPositions
 import ru.petr.songapp.screens.common.searchBar.DefaultSearchBarComponent
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
@@ -65,17 +63,6 @@ class DefaultSongListScreenComponent(
 
 
     /**
-     * Mutable storage for songs grouped by collection ID
-     */
-    private val _songsByCollection: MutableValue<Map<Int, List<SongDataForCollection>>> = MutableValue(emptyMap())
-    
-    /**
-     * Read-only access to songs grouped by collection ID
-     */
-    override val songsByCollection: Value<Map<Int, List<SongDataForCollection>>> = _songsByCollection
-
-
-    /**
      * Mutable storage for grid mode state with state restoration
      */
     private val _isInGridMode = MutableValue(stateKeeper.consume("is_in_grid_mode", Boolean.serializer()) == true)
@@ -116,11 +103,6 @@ class DefaultSongListScreenComponent(
             ) { songId -> onSongSelect(config.collectionId, songId) }
         }
 
-    /**
-     * Map of collection subscriptions to manage subscription lifecycle
-     */
-    private val collectionSubscriptions = mutableMapOf<Int, Cancellation>()
-
     init {
         // Register for state saving of grid mode
         stateKeeper.register(
@@ -158,34 +140,6 @@ class DefaultSongListScreenComponent(
                 // Select first collection page
                 selectCollectionById(selectedCollectionId)
                 defaultCollectionIsSet = true
-            }
-
-            // Cancel subscriptions for collections that no longer exist
-            val newCollectionIds = newCollections.map { it.id }.toSet()
-            val oldCollectionIds = collectionSubscriptions.keys.toSet()
-
-            // Unsubscribe from collections that no longer exist
-            oldCollectionIds.filter { it !in newCollectionIds }.forEach { oldId ->
-                collectionSubscriptions[oldId]?.cancel()
-                collectionSubscriptions.remove(oldId)
-            }
-
-            // Subscribe to collections
-            newCollections.forEach { collection ->
-                // Cancel previous subscription if exists
-                collectionSubscriptions[collection.id]?.cancel()
-
-                // Create new subscription
-                val subscription = databaseComponent.getAllSongsInCollection(collection.id).subscribe { songs ->
-                    _songsByCollection.update { currentMap ->
-                        currentMap.toMutableMap().apply {
-                            this[collection.id] = songs
-                        }
-                    }
-                }
-
-                // Store subscription cancellation function
-                collectionSubscriptions[collection.id] = subscription
             }
         }
 

@@ -5,7 +5,6 @@ import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
-import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -57,26 +56,36 @@ import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.fullTextSearch.FullSearchResultItem
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarContent
 
+/**
+ * Default text size for song titles and numbers
+ */
 val SONG_TEXT_SIZE = 20.sp
+
+/**
+ * Main composable for displaying the song list content.
+ * Handles different view modes (grid/list) and search results display.
+ *
+ * @param component The SongListComponent that manages the song list data and logic
+ * @param modifier Optional modifier for customizing the layout
+ */
 
 @Composable
 fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier) {
     val items by component.songItems.subscribeAsState()
     val searchIsActive by component.searchIsActive.subscribeAsState()
     val isInGridMode by component.isInGridMode.subscribeAsState()
-    
-    // Создаем состояние для списка
+
     val listState = rememberLazyListState()
-    // Создаем scope для прокрутки списка
+    // Scope for list scrolling
     val scope = rememberCoroutineScope()
     
     LaunchedEffect(listState) {
-        // Отслеживаем изменение размера первого видимого элемента списка
+        // Track the resizing of the first visible element of the list
         launch {
             snapshotFlow {
                 listState.layoutInfo.visibleItemsInfo.firstOrNull()?.size ?: 0
             }
-                .distinctUntilChanged()  // реагировать только на изменения размера
+                .distinctUntilChanged()  // respond only to changes in size
                 .collect { newHeight ->
                     component.scrollbar.setItemHeight(newHeight.toFloat())
                 }
@@ -94,8 +103,19 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
         }
     }
 
-    Box(modifier = modifier.fillMaxSize()) {
-        // Определим отображаемый режим на верхнем уровне
+    Box(
+        modifier = modifier
+            .fillMaxSize()
+            .background(
+                brush = Brush.verticalGradient(
+                    colors = listOf(
+                        MaterialTheme.colorScheme.primary,
+                        MaterialTheme.colorScheme.secondary
+                    )
+                )
+            )
+    ) {
+        // Let's define the displayed mode on the top level
         val showGridView = !searchIsActive && isInGridMode
         
         AnimatedContent(
@@ -106,17 +126,11 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
             }
         ) { isGridView ->
             if (isGridView) {
-                // Режим сетки (только когда поиск не активен и выбран grid режим)
-                SongNumberGrid(items, component::onSongClicked)
+                // Grid mode (only when search is not active and grid mode is selected)
+                SongNumberGrid(items = items, onSongClicked = component::onSongClicked)
             } else {
-                // Обычный список или режим поиска
+                // Normal list or search mode
                 SongList(
-                    Modifier.background(brush = Brush.verticalGradient(
-                        colors = listOf(
-                            MaterialTheme.colorScheme.primary,
-                            MaterialTheme.colorScheme.secondary
-                        )
-                    )),
                     songs = items,
                     onSongNameClick = component::onSongClicked,
                     searchIsActive = searchIsActive,
@@ -129,6 +143,7 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
                 )
             }
         }
+
         ScrollbarContent(
             component = component.scrollbar,
             modifier = Modifier.align(Alignment.TopEnd),
@@ -136,55 +151,65 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
     }
 }
 
+/**
+ * Composable for displaying songs in a grid layout with just song numbers.
+ * Used for quick navigation through large song collections.
+ *
+ * @param modifier Modifier for customizing the layout
+ * @param items List of songs to display in the grid
+ * @param onSongClicked Callback when a song is selected from the grid
+ */
 @Composable
-fun SongNumberGrid(items: List<SongListComponent.SongItem>, onSongClicked: (Int) -> Unit) {
-    Box(
-        modifier = Modifier
-            .fillMaxSize()
-            .background(
-                brush = Brush.verticalGradient(
-                    colors = listOf(
-                        MaterialTheme.colorScheme.primary,
-                        MaterialTheme.colorScheme.secondary
-                    )
-                )
-            )
+fun SongNumberGrid(modifier: Modifier = Modifier, 
+                   items: List<SongListComponent.SongItem>, 
+                   onSongClicked: (Int) -> Unit) {
+    LazyVerticalGrid(
+        columns = GridCells.Adaptive((SONG_TEXT_SIZE.value.toInt() * 2.5).dp),
+        contentPadding = PaddingValues(5.dp),
+        verticalArrangement = Arrangement.spacedBy(4.dp),
+        horizontalArrangement = Arrangement.spacedBy(4.dp),
+        modifier = modifier.fillMaxSize()
     ) {
-        LazyVerticalGrid(
-            columns = GridCells.Adaptive((SONG_TEXT_SIZE.value.toInt() * 2.5).dp),
-            contentPadding = PaddingValues(5.dp),
-            verticalArrangement = Arrangement.spacedBy(4.dp),
-            horizontalArrangement = Arrangement.spacedBy(4.dp),
-            modifier = Modifier.fillMaxSize()
-        ) {
-            items(items) { item ->
-                Card(
-                    modifier = Modifier
-                        .aspectRatio(1f)
-                        .clickable { onSongClicked(item.id) },
-                    shape = RoundedCornerShape(10.dp),
-                    elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
-                    colors = CardDefaults.cardColors(
-                        containerColor = MaterialTheme.colorScheme.secondary
-                    )
+        items(items) { item ->
+            Card(
+                modifier = Modifier
+                    .aspectRatio(1f),
+                onClick = { onSongClicked(item.id) },
+                shape = RoundedCornerShape(10.dp),
+                elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
+                colors = CardDefaults.cardColors(
+                    containerColor = MaterialTheme.colorScheme.secondary
+                )
+            ) {
+                Box(
+                    contentAlignment = Alignment.Center,
+                    modifier = Modifier.fillMaxSize()
                 ) {
-                    Box(
-                        contentAlignment = Alignment.Center,
-                        modifier = Modifier.fillMaxSize()
-                    ) {
-                        Text(
-                            text = item.numInColl.toString(),
-                            fontSize = SONG_TEXT_SIZE,
-                            fontWeight = FontWeight.Normal,
-                            color = MaterialTheme.colorScheme.onSecondary
-                        )
-                    }
+                    Text(
+                        text = item.numInColl.toString(),
+                        fontSize = SONG_TEXT_SIZE,
+                        fontWeight = FontWeight.Normal,
+                        color = MaterialTheme.colorScheme.onSecondary
+                    )
                 }
             }
         }
     }
 }
 
+/**
+ * Composable for displaying songs in a list layout with detailed information.
+ * Also displays search results and full-text search functionality.
+ * 
+ * @param modifier Modifier for customizing the layout
+ * @param songs List of songs to display
+ * @param onSongNameClick Callback when a song is selected
+ * @param searchIsActive Whether search is currently active
+ * @param fullTextSearchData Data for full text search functionality
+ * @param onFullTextSearchClick Callback to initiate full text search
+ * @param onDragScroll Callback to update scrollbar position during scrolling
+ * @param listState State object for the lazy list to manage scrolling
+ */
 @Composable
 fun SongList(modifier: Modifier = Modifier,
              songs: List<SongListComponent.SongItem>,
@@ -199,10 +224,10 @@ fun SongList(modifier: Modifier = Modifier,
     val fullTextSearchIsActive by fullTextSearchData.fullSearchIsActive.subscribeAsState()
     val fullTextSearchIsInProgress by fullTextSearchData.fullSearchIsInProgress.subscribeAsState()
 
-    // Эффект для обновления смещения scrollbar при прокрутке списка
+    // Effect to update the scrollbar offset when scrolling the list
     LaunchedEffect(listState) {
         snapshotFlow {
-            // Берем индекс и смещение первого видимого элемента
+            // Take the index and offset of the first visible element
             listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset
         }
             .distinctUntilChanged()
@@ -211,6 +236,7 @@ fun SongList(modifier: Modifier = Modifier,
             }
     }
 
+    // Effect to update the scrollbar offset when scrolling stops
     LaunchedEffect(listState) {
         snapshotFlow {
             listState.isScrollInProgress
@@ -281,6 +307,11 @@ fun SongList(modifier: Modifier = Modifier,
     }
 }
 
+/**
+ * Card composable for displaying a message when no songs are available or found.
+ * 
+ * @param message Text message to display in the card
+ */
 @Composable
 fun MessageCard(message: String) {
     Card (Modifier
@@ -292,6 +323,16 @@ fun MessageCard(message: String) {
     }
 }
 
+/**
+ * Card composable for displaying a song with its number and title.
+ * Also shows search result highlights when applicable.
+ *
+ * @param song Song item to display
+ * @param onSongNameClick Callback when the song is selected
+ * @param fontSize Font size for the song text
+ * @param fullTextSearchIsActive Whether full text search is active
+ * @param fullSearchResultItem Optional search result data with highlighted text
+ */
 @Composable
 fun SongCard(song: SongListComponent.SongItem,
              onSongNameClick: (id:Int) -> Unit,
@@ -341,6 +382,11 @@ fun SongCard(song: SongListComponent.SongItem,
     }
 }
 
+/**
+ * Button composable that initiates full text search.
+ *
+ * @param onFullTextSearchClick Callback when the button is clicked
+ */
 @Composable
 fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
     Button(
@@ -355,6 +401,11 @@ fun FullSearchButton(onFullTextSearchClick: () -> Unit) {
     }
 }
 
+/**
+ * Progress indicator composable shown during full text search operations.
+ * 
+ * @param modifier Optional modifier for customizing the layout
+ */
 @Composable
 fun FullSearchProgressBar(modifier: Modifier = Modifier) {
     Box(modifier.fillMaxWidth(),
@@ -364,6 +415,9 @@ fun FullSearchProgressBar(modifier: Modifier = Modifier) {
     }
 }
 
+/**
+ * Preview composable for SongListContent
+ */
 @Preview(showBackground = true)
 @Composable
 fun SongListContentPreview() {

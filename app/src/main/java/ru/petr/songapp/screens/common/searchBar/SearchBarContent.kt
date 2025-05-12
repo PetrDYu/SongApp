@@ -22,6 +22,7 @@ import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.ImeAction
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.R
@@ -78,7 +79,13 @@ fun SearchSongBar(modifier: Modifier = Modifier,
                             focusManager.clearFocus()
                         }
                 ),
-                placeholder = { Text(text = stringResource(id = R.string.search_bar_placeholder)) },
+                placeholder = {
+                    Text(
+                        text = stringResource(id = R.string.search_bar_placeholder),
+                        maxLines = 1,
+                        overflow = TextOverflow.Ellipsis
+                    )
+                },
                 modifier = Modifier
                     .padding(horizontal = 8.dp, vertical = 8.dp)
                     .weight(1f),

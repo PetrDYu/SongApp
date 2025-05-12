@@ -37,6 +37,7 @@ import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
@@ -163,8 +164,9 @@ fun SongListContent(component: SongListComponent, modifier: Modifier = Modifier)
 fun SongNumberGrid(modifier: Modifier = Modifier, 
                    items: List<SongListComponent.SongItem>, 
                    onSongClicked: (Int) -> Unit) {
+    val density = LocalDensity.current
     LazyVerticalGrid(
-        columns = GridCells.Adaptive((SONG_TEXT_SIZE.value.toInt() * 2.5).dp),
+        columns = GridCells.Adaptive(with(density){(SONG_TEXT_SIZE.value.toInt() * 3.5).sp.toDp()}),
         contentPadding = PaddingValues(5.dp),
         verticalArrangement = Arrangement.spacedBy(4.dp),
         horizontalArrangement = Arrangement.spacedBy(4.dp),
@@ -349,13 +351,17 @@ fun SongCard(song: SongListComponent.SongItem,
     ) {
         Row(Modifier.padding(10.dp), verticalAlignment = Alignment.CenterVertically) {
             Text(
-                "\n${song.numInColl}. \n",
-                fontSize = fontSize.sp
+                "\n${song.numInColl}. ",
+                fontSize = fontSize.sp,
+                minLines = 3,
+                maxLines = 3
             )
             Column {
                 Text(
                     song.name,
-                    fontSize = fontSize.sp
+                    fontSize = fontSize.sp,
+                    maxLines = 3,
+                    overflow = TextOverflow.Ellipsis
                 )
                 
                 if (fullTextSearchIsActive && fullSearchResultItem != null) {

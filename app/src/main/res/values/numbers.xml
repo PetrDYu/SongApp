@@ -4,5 +4,5 @@
     <integer name="max_font_size">40</integer>
     <integer name="default_font_size">20</integer>
     <bool name="default_pro_mode">true</bool>
-    <integer name="songs_version">4</integer>
+    <integer name="songs_version">5</integer>
 </resources>

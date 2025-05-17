@@ -16,9 +16,10 @@ import ru.petr.songapp.database.room.songData.dao.SongDataForCollection
 
 class DefaultDatabaseComponent(
     context: Context,
-    rootScope: CoroutineScope
+    rootScope: CoroutineScope,
 ) : DatabaseComponent {
-    private val scope = CoroutineScope(Job())
+
+    private val scope = CoroutineScope(rootScope.coroutineContext + Job())
     private val database by lazy { SongAppDB.getDB(context, rootScope) }
 
     private val songs: MutableList<MutableValue<List<SongDataForCollection>>> = mutableListOf()

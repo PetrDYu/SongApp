@@ -13,6 +13,8 @@ import ru.petr.songapp.database.room.songData.SongDBModel
 import ru.petr.songapp.database.room.songData.utils.getIndexTuning
 import ru.petr.songapp.database.room.songData.utils.getLenTuning
 import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
+import com.arkivanov.essenty.lifecycle.doOnDestroy
+import kotlin.coroutines.EmptyCoroutineContext
 
 /**
  * Default implementation of the FullTextSearchComponent interface.
@@ -48,9 +50,9 @@ class DefaultFullTextSearchComponent(
     private var _searchText = ""
 
     /**
-     * Coroutine scope for running search operations
+     * Coroutine scope for running search operations with lifecycle awareness
      */
-    private val scope = CoroutineScope(Job())
+    private val scope = CoroutineScope(EmptyCoroutineContext + Job())
     
     /**
      * Reference to the current search job for cancellation
@@ -70,16 +72,23 @@ class DefaultFullTextSearchComponent(
                 updateSearchResult(_searchText)
             }
         }
+
+        lifecycle.doOnDestroy {
+            curJob?.cancel()
+            scope.coroutineContext[Job]?.cancel()
+        }
     }
 
     /**
-     * Activates or deactivates the full text search
+     * Activates or deactivates the full text search mode.
      *
-     * @param isActive Whether to activate or deactivate the search
-     * @param searchText Text to search for
+     * When activating, initiates a search with the provided text.
+     * When deactivating, clears the search results while preserving the active state.
+     *
+     * @param isActive Whether the search mode is active
+     * @param searchText The text to search for when activating
      */
-    override fun activateSearch(isActive: Boolean,
-                                searchText: String) {
+    override fun activateSearch(isActive: Boolean, searchText: String) {
         _searchIsActive.update { isActive }
         if (isActive) {
             // If activating, update search with the provided text
@@ -91,13 +100,13 @@ class DefaultFullTextSearchComponent(
     }
 
     /**
-     * Updates search results based on the provided search text
-     * 
-     * This function performs a full text search across all songs in the collection
-     * that are not already displayed in the current song list (which
-     * means they didn't match a previous search by name).
+     * Updates search results based on the provided text.
      *
-     * @param searchTextWithoutSpecialSymbols Clean search text without special symbols
+     * Cancels any ongoing search operation and initiates a new one if the search text contains non-digit characters.
+     * For numeric search terms, clears the search results while keeping the search active.
+     * The search is performed asynchronously in a coroutine.
+     *
+     * @param searchTextWithoutSpecialSymbols The search text with special symbols removed
      */
     override fun updateSearchResult(searchTextWithoutSpecialSymbols: String) {
         // Store search text for potential reuse
@@ -124,36 +133,35 @@ class DefaultFullTextSearchComponent(
                         if (!currentSongsIds.contains(songDataForCollection.id)) {
                             // Get full song data to search through lyrics
                             val song = databaseComponent.getSongById(songDataForCollection.id)
-                            
                             // Perform case-insensitive substring search in the plain text without special symbols
-                            val foundIndex =
-                                song.plainTextWithoutSpecialSymbols.indexOf(
-                                    searchTextWithoutSpecialSymbols,
-                                    ignoreCase = true)
-                            
+                            val foundIndex = song.plainTextWithoutSpecialSymbols.indexOf(
+                                searchTextWithoutSpecialSymbols,
+                                ignoreCase = true
+                            )
+
                             if (foundIndex != -1) {
                                 // Found a match - calculate the actual position in the original text
                                 // by accounting for special symbols that were removed
-                                val startIndex =
-                                    foundIndex + getIndexTuning(
-                                        foundIndex,
-                                        song.specialSymbolPositions)
-                                
+                                val startIndex = foundIndex + getIndexTuning(
+                                    foundIndex,
+                                    song.specialSymbolPositions
+                                )
                                 // Calculate the actual length of the match in the original text
                                 // accounting for special symbols that were removed
                                 val length = searchTextWithoutSpecialSymbols.length +
                                     getLenTuning(
                                         foundIndex,
                                         searchTextWithoutSpecialSymbols.length,
-                                        song.specialSymbolPositions)
-                                
+                                        song.specialSymbolPositions
+                                    )
+
                                 // Generate a search result item with context around the match
                                 val result = getFullSearchResultItem(
                                     song,
                                     startIndex,
                                     length,
-                                    song.plainText)
-                                
+                                    song.plainText
+                                )
                                 // Add to results list
                                 results.add(result)
                             }
@@ -174,9 +182,13 @@ class DefaultFullTextSearchComponent(
     }
 
     /**
-     * Clears current search results
+     * Clears the current search results and updates the search state.
      *
-     * @param isActive Whether the search should remain active after clearing
+     * This method resets the search result container to an empty state, updates the search active state
+     * based on the provided parameter, and ensures the search is no longer marked as in progress.
+     *
+     * @param isActive Whether the search mode should remain active after clearing the results.
+     *                 Set to false when deactivating the search, true to keep it active with empty results.
      */
     override fun clearSearchResult(isActive: Boolean) {
         _searchResult.update { FullSearchResult("", listOf()) }
@@ -185,19 +197,30 @@ class DefaultFullTextSearchComponent(
     }
 
     /**
-     * Extracts context around a matched text within a song.
+     * Extracts context around a matched text within a song and formats it for display.
      * 
-     * This function:
-     * 1. Extracts the matched text from the original song text
-     * 2. Finds up to 3 words before the match for context
-     * 3. Finds up to 3 words after the match for context
-     * 4. Formats the result with ellipses when more text exists
-     *
-     * @param song The song database model containing the match
-     * @param startIndex Starting index of the matched text in the song's plain text
-     * @param length Length of the matched text
-     * @param text Original plain text of the song
-     * @return A FullSearchResultItem containing the match with context
+     * The method performs the following operations:
+     * 1. Identifies the exact matched text within the song's plain text
+     * 2. Extracts up to 3 words before the match for context (if available)
+     * 3. Extracts up to 3 words after the match for context (if available)
+     * 4. Handles edge cases (start/end of text) gracefully
+     * 5. Adds ellipsis (...) when context is truncated
+     * 
+     * The matching algorithm:
+     * - For the matched text: Uses exact position and length from parameters
+     * - For preceding context: Works with reversed text to efficiently find word boundaries
+     * - For following context: Scans forward from match end to find word boundaries
+     * 
+     * @param song The song database model containing the matched text
+     * @param startIndex The starting character index of the match in the plain text
+     * @param length The length of the matched text segment
+     * @param text The complete plain text of the song to search within
+     * @return FullSearchResultItem containing:
+     *         - The song model
+     *         - Preceding context (up to 3 words)
+     *         - The exact matched text
+     *         - Following context (up to 3 words)
+     * @throws IndexOutOfBoundsException if startIndex or length are invalid for the given text
      */
     private fun getFullSearchResultItem(song: SongDBModel,
                                         startIndex: Int,
@@ -215,6 +238,7 @@ class DefaultFullTextSearchComponent(
         
         // Store the end of the matched text/word
         val newEndIndex = curNextIndex
+        curNextIndex++
         
         // Extract up to 3 words following the match
         for (numWord in 0..2) {
@@ -250,6 +274,7 @@ class DefaultFullTextSearchComponent(
         
         // Store the start of the matched text/word
         val newStartIndex = reversedText.length - curPrevIndex
+        curPrevIndex++
         
         // Extract up to 3 words preceding the match
         for (numWord in 0..2) {

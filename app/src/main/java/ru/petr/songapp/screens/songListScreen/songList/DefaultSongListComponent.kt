@@ -14,6 +14,8 @@ import ru.petr.songapp.screens.common.fullTextSearch.FullSearchData
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.DefaultScrollbarComponent
 import ru.petr.songapp.screens.songListScreen.songList.scrollbar.ScrollbarComponent
+import com.arkivanov.essenty.lifecycle.doOnDestroy
+import kotlin.coroutines.EmptyCoroutineContext
 
 /**
  * Default implementation of the SongListComponent interface.
@@ -69,11 +71,16 @@ class DefaultSongListComponent(
      */
     private var _songItemsCopy = _songItems.value
 
+    /**
+     * Coroutine scope for running operations with lifecycle awareness
+     */
+    private val scope = CoroutineScope(EmptyCoroutineContext + Job())
+
     init {
         // Subscribe to search text changes and update the filtered list accordingly
         clickSearchObservable.subscribe { searchText ->
             if (searchText.isBlank()) return@subscribe
-            CoroutineScope(Job()).launch {
+            scope.launch {
                 _songItems.update { SearchBarComponent.updateSongList(_songItemsCopy, searchText) }
                 fullSearch.activateSearch(true, searchText)
             }
@@ -108,7 +115,7 @@ class DefaultSongListComponent(
 
             if (searchIsActive.value) {
                 // If search is active, update the filtered list
-                CoroutineScope(Job()).launch {
+                scope.launch {
                     _songItems.update {
                         SearchBarComponent.updateSongList(
                             newList,
@@ -128,6 +135,11 @@ class DefaultSongListComponent(
         // Hide scrollbar in grid mode
         isInGridMode.subscribe { inGridMode ->
             scrollbar.scrollbarNeed(!inGridMode)
+        }
+
+        // Cancel all coroutines when component is destroyed
+        lifecycle.doOnDestroy {
+            scope.coroutineContext[Job]?.cancel()
         }
     }
 

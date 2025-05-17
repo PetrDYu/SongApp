@@ -380,7 +380,6 @@ fun SongCard(song: SongListComponent.SongItem,
                         fontSize = (fontSize - 5).sp,
                         color = MaterialTheme.colorScheme.onPrimary,
                         overflow = TextOverflow.Ellipsis,
-                        maxLines = 1
                     )
                 }
             }

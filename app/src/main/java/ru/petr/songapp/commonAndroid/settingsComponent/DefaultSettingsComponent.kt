@@ -11,7 +11,8 @@ import ru.petr.songapp.R
 import ru.petr.songapp.database.datastore.settings.SettingsStore
 
 class DefaultSettingsComponent(
-    context: Context
+    context: Context,
+    rootScope: CoroutineScope
 ) : SettingsComponent {
 
     private val defaultFontSize = context.resources.getInteger(R.integer.default_font_size)
@@ -25,7 +26,7 @@ class DefaultSettingsComponent(
 
     private val settingsStore = SettingsStore(context)
 
-    private val scope = CoroutineScope(Job())
+    private val scope = CoroutineScope(rootScope.coroutineContext + Job())
 
     init {
         scope.launch {

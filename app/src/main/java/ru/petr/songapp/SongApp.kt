@@ -12,7 +12,7 @@ class SongApp : Application() {
 
     private val rootScope = CoroutineScope(SupervisorJob())
     private val settingsInner: SettingsComponent by
-        lazy { DefaultSettingsComponent(this) }
+        lazy { DefaultSettingsComponent(this, rootScope) }
 
     override fun onCreate() {
         super.onCreate()

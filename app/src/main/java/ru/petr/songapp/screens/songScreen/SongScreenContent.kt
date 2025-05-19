@@ -14,6 +14,8 @@ import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
+import androidx.compose.material.icons.automirrored.filled.ArrowForward
 import androidx.compose.material.icons.filled.KeyboardArrowDown
 import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material.icons.outlined.Favorite
@@ -64,37 +66,58 @@ fun SongScreenContent(component: SongScreenComponent,
     }
     var agreeBackToVerse by remember { mutableStateOf(false) }
     var buttonToChorus by remember(scrollOnChorus) {
-            mutableStateOf(!scrollOnChorus || !agreeBackToVerse)
+        mutableStateOf(!scrollOnChorus || !agreeBackToVerse)
     }
+
     ConstraintLayout(modifier.background(MaterialTheme.colorScheme.secondary)) {
-        val (viewer, settingsButton, editButton, chorusButton) = createRefs()
-        SongWrapper(component = component,
-                    modifier = Modifier.constrainAs(viewer) {
-                        top.linkTo(parent.top, margin = 0.dp)
-                        bottom.linkTo(parent.bottom, margin = 0.dp)
-                        start.linkTo(parent.start, margin = 30.dp)
-                        end.linkTo(parent.end, margin = 30.dp)
-                    },
-                    scrollState = scrollState,
-                    onChorusOffsetChanged = { offset, height ->
-                        chorusOffset = offset
-                        chorusHeight = height
-                    })
-        FloatingActionButton(
-            onClick = {
-                component.showSettingsSheet()
-            },
-            Modifier.constrainAs(settingsButton) {
+        val (viewer, settingsButton, nextButton, prevButton, chorusButton) = createRefs()
+        SongWrapper(
+            component = component,
+            modifier = Modifier.constrainAs(viewer) {
+                top.linkTo(parent.top, margin = 0.dp)
+                bottom.linkTo(parent.bottom, margin = 0.dp)
+                start.linkTo(parent.start, margin = 30.dp)
                 end.linkTo(parent.end, margin = 30.dp)
-                bottom.linkTo(parent.bottom, margin = 30.dp)
             },
-//            containerColor = colorResource(id = R.color.main_blue_light),
-//            elevation = FloatingActionButtonDefaults.elevation(defaultElevation = 0.dp)
-        ) {
-            Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
+            scrollState = scrollState,
+            onChorusOffsetChanged = { offset, height ->
+                chorusOffset = offset
+                chorusHeight = height
+            }
+        )
+
+        val chorusQty by remember(component.song.song.value.mSongParts.isEmpty()) {
+            mutableIntStateOf(component.song.song.value.getChorusQty())
+        }
+        val buttonsCount = if (chorusQty == 1) 4 else 3
+
+        // Previous button
+        if (component.prevButtonIsNeeded) {
+            FloatingActionButton(
+                onClick = {
+                    component.onChangeSongClicked(component.song.numberInCollection.value - 1)
+                },
+                Modifier.constrainAs(prevButton) {
+                    bottom.linkTo(parent.bottom, margin = 30.dp)
+                    linkTo(
+                        start = parent.start,
+                        end = if (buttonsCount == 4) chorusButton.start 
+                              else if (component.nextButtonIsNeeded) settingsButton.start
+                              else parent.end,
+                        bias = 0.5f,
+                        startMargin = 30.dp,
+                        endMargin = 0.dp
+                    )
+                },
+            ) {
+                Icon(
+                    Icons.AutoMirrored.Filled.ArrowBack,
+                    stringResource(id = R.string.settings_button_description),
+                )
+            }
         }
 
-        val chorusQty by remember(component.song.song.value.mSongParts.isEmpty()) { mutableStateOf(component.song.song.value.getChorusQty()) }
+        // Chorus button (conditional)
         if (chorusQty == 1) {
             var currentOffset by remember {
                 mutableIntStateOf(0)
@@ -115,20 +138,65 @@ fun SongScreenContent(component: SongScreenComponent,
                     agreeBackToVerse = true
                 },
                 Modifier.constrainAs(chorusButton) {
-                    end.linkTo(parent.end, margin = 30.dp)
-                    bottom.linkTo(settingsButton.top, margin = 15.dp)
+                    bottom.linkTo(parent.bottom, margin = 30.dp)
+                    linkTo(
+                        start = if (component.prevButtonIsNeeded) prevButton.end else parent.start,
+                        end = settingsButton.start,
+                        bias = 0.5f,
+                        startMargin = if (!component.prevButtonIsNeeded) 30.dp else 0.dp
+                    )
                 },
             ) {
                 if (buttonToChorus) {
                     Text("П", fontSize = 30.sp)
                 } else {
-                    Column (horizontalAlignment = Alignment.CenterHorizontally) {
+                    Column(horizontalAlignment = Alignment.CenterHorizontally) {
                         Icon(Icons.Default.KeyboardArrowDown, null)
                         Text("К", fontSize = 25.sp, style = TextStyle(platformStyle = PlatformTextStyle(includeFontPadding = false)))
                     }
-
                 }
+            }
+        }
 
+        // Settings button
+        FloatingActionButton(
+            onClick = {
+                component.showSettingsSheet()
+            },
+            Modifier.constrainAs(settingsButton) {
+                bottom.linkTo(parent.bottom, margin = 30.dp)
+                linkTo(
+                    start = if (chorusQty == 1) chorusButton.end 
+                           else if (component.prevButtonIsNeeded) prevButton.end
+                           else parent.start,
+                    end = if (component.nextButtonIsNeeded) nextButton.start else parent.end,
+                    bias = 0.5f,
+                    startMargin = if (!component.prevButtonIsNeeded && chorusQty != 1) 30.dp else 0.dp,
+                    endMargin = if (!component.nextButtonIsNeeded) 30.dp else 0.dp
+                )
+            },
+        ) {
+            Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
+        }
+
+        // Next button
+        if (component.nextButtonIsNeeded) {
+            FloatingActionButton(
+                onClick = {
+                    component.onChangeSongClicked(component.song.numberInCollection.value + 1)
+                },
+                Modifier.constrainAs(nextButton) {
+                    bottom.linkTo(parent.bottom, margin = 30.dp)
+                    linkTo(
+                        start = settingsButton.end,
+                        end = parent.end,
+                        bias = 0.5f,
+                        startMargin = 0.dp,
+                        endMargin = 30.dp
+                    )
+                },
+            ) {
+                Icon(Icons.AutoMirrored.Filled.ArrowForward, stringResource(id = R.string.settings_button_description))
             }
         }
     }

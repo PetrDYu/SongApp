@@ -5,6 +5,7 @@ import com.arkivanov.decompose.DelicateDecomposeApi
 import com.arkivanov.decompose.router.stack.ChildStack
 import com.arkivanov.decompose.router.stack.StackNavigation
 import com.arkivanov.decompose.router.stack.childStack
+import com.arkivanov.decompose.router.stack.pop
 import com.arkivanov.decompose.router.stack.push
 import com.arkivanov.decompose.value.Value
 import kotlinx.serialization.Serializable
@@ -41,12 +42,15 @@ class DefaultRootComponent(
                     componentContext,
                     config.collections,
                     config.id,
-            ) { collectionId, songId -> navigation.push(Config.Song(collectionId, songId))})
+            ) { collectionId, songId, songNum, getSongIdByNum -> navigation.push(Config.Song(collectionId, songId, songNum, getSongIdByNum))})
             is Config.Song -> Child.SongChild(
                 DefaultSongScreenComponent(
                     componentContext,
                     config.collectionId,
-                    config.id
+                    config.id,
+                    config.songNum,
+                    config.getSongIdByNum,
+                    onChangeSongClicked = { songNum -> navigation.pop(); navigation.push(Config.Song(config.collectionId, config.getSongIdByNum(songNum), songNum, config.getSongIdByNum))},
                 ))
         }
 
@@ -59,6 +63,6 @@ class DefaultRootComponent(
         data class SongListScreen(val id: Int, val collections: List<SongCollection>) : Config
 
         @Serializable
-        data class Song(val collectionId: Int, val id: Int) : Config
+        data class Song(val collectionId: Int, val id: Int, val songNum: Int, val getSongIdByNum: (Int) -> Int) : Config
     }
 }

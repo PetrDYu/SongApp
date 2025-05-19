@@ -19,6 +19,9 @@ class DefaultSongScreenComponent(
     componentContext: ComponentContext,
     collectionId: Int,
     songId: Int,
+    songNum: Int,
+    getSongIdByNum: (Int) -> Int,
+    override val onChangeSongClicked: (songNumber: Int) -> Unit,
 ) : SongScreenComponent, ComponentContext by componentContext {
 
     override val song: SongComponent = DefaultSongComponent(childContext("DefaultSongComponent"),
@@ -38,6 +41,8 @@ class DefaultSongScreenComponent(
                 bottomSheetNavigation.dismiss {  }
             }
         }
+    override val prevButtonIsNeeded: Boolean = getSongIdByNum(songNum - 1) != song.songId
+    override val nextButtonIsNeeded: Boolean = getSongIdByNum(songNum + 1) != song.songId
 
     override fun showSettingsSheet() {
         bottomSheetNavigation.activate(BottomSheetConfig)

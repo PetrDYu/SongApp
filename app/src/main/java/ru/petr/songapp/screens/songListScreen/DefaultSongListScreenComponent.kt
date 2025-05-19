@@ -34,7 +34,7 @@ class DefaultSongListScreenComponent(
     componentContext: ComponentContext,
     override var collections: List<SongCollection>,
     private val selectedCollectionId: Int = 0,
-    private val onSongSelect: (collectionId: Int, songId: Int) -> Unit,
+    private val onSongSelect: (collectionId: Int, songId: Int, songNum: Int, getSongIdByNum: (Int) -> Int) -> Unit,
 ) : SongListScreenComponent, ComponentContext by componentContext {
 
     /**
@@ -100,7 +100,7 @@ class DefaultSongListScreenComponent(
                 searchIsActive = searchBarComponent.searchIsActive,
                 clickSearchObservable,
                 isInGridMode = isInGridMode
-            ) { songId -> onSongSelect(config.collectionId, songId) }
+            ) { songId, songNum, getSongIdByNum -> onSongSelect(config.collectionId, songId, songNum, getSongIdByNum) }
         }
 
     init {
@@ -132,7 +132,7 @@ class DefaultSongListScreenComponent(
                             searchIsActive = searchBarComponent.searchIsActive,
                             clickSearchObservable,
                             isInGridMode = isInGridMode
-                        ) { songId -> onSongSelect(config.collectionId, songId) }
+                        ) { songId, songNum, getSongIdByNum -> onSongSelect(config.collectionId, songId, songNum, getSongIdByNum) }
                     }
                 collections = newCollections
                 selectCollectionByIndex(oldSelectedIndex)

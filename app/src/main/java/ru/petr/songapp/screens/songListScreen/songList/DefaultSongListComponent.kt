@@ -35,7 +35,7 @@ class DefaultSongListComponent(
     override val searchIsActive: Value<Boolean>,
     private val clickSearchObservable: Value<String>,
     override val isInGridMode: Value<Boolean> = MutableValue(false),
-    private val onSongSelected: (id: Int) -> Unit,
+    private val onSongSelected: (id: Int, songNum: Int, getSongIdByNum: (Int) -> Int) -> Unit,
 ) : SongListComponent, ComponentContext by componentContext {
 
     /**
@@ -149,7 +149,7 @@ class DefaultSongListComponent(
      * @param id ID of the clicked song
      */
     override fun onSongClicked(id: Int) {
-        onSongSelected(id)
+        onSongSelected(id, songItems.value.find { it.id == id }!!.numInColl, ::getSongIdByNum)
     }
 
     /**
@@ -157,5 +157,18 @@ class DefaultSongListComponent(
      */
     override fun onFullTextSearch() {
         fullSearch.activateSearch(true, clickSearchObservable.value)
+    }
+
+    private fun getSongIdByNum(num: Int): Int {
+        val songId = songItems.value.find { it.numInColl == num }?.id
+        if (songId == null)
+        {
+            return if (num >= songItems.value.size) {
+                songItems.value.last().id
+            } else {
+                songItems.value.first().id
+            }
+        }
+        return songId
     }
 }

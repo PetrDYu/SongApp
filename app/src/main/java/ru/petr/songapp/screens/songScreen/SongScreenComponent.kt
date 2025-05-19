@@ -8,6 +8,9 @@ import ru.petr.songapp.screens.songScreen.song.SongComponent
 interface SongScreenComponent {
     val song: SongComponent
     val settingsSheet: Value<ChildSlot<*,SettingsSheetComponent>>
+    val prevButtonIsNeeded: Boolean
+    val nextButtonIsNeeded: Boolean
+    val onChangeSongClicked: (songNumber: Int) -> Unit
 
     fun showSettingsSheet()
     fun setIsFavorite(isFavorite: Boolean)

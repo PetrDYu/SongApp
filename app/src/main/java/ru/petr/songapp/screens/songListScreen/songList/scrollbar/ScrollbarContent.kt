@@ -9,7 +9,6 @@ import androidx.compose.animation.slideOut
 import androidx.compose.foundation.background
 import androidx.compose.foundation.gestures.detectDragGestures
 import androidx.compose.foundation.gestures.detectTapGestures
-import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -59,6 +58,7 @@ import ru.petr.songapp.ui.theme.LightScrollbarPointerColor
 import ru.petr.songapp.ui.theme.LightScrollbarTextColor
 import ru.petr.songapp.ui.theme.LightScrollbarTooltipColor
 import ru.petr.songapp.ui.theme.SongAppTheme
+import ru.petr.songapp.themeManager.ThemeManagerInstance
 import kotlin.math.roundToInt
 
 // Tag for logging
@@ -82,7 +82,7 @@ fun ScrollbarContent(component: ScrollbarComponent,
     val isBright by component.isBright.subscribeAsState()
     val currentSongNumber by component.currentSongNumber.subscribeAsState()
 
-    val isDarkTheme = isSystemInDarkTheme()
+    val isDarkTheme = ThemeManagerInstance.getInstance().isDarkTheme.subscribeAsState().value
     val scrollbarColor = if (isDarkTheme) DarkScrollbarColor else LightScrollbarColor
     val scrollbarTextColor = if (isDarkTheme) DarkScrollbarTextColor else LightScrollbarTextColor
 
@@ -345,8 +345,8 @@ fun ScrollbarPointer(modifier: Modifier = Modifier,
 )
 @Composable
 fun PreviewScrollbar() {
-    SongAppTheme(darkTheme = true, dynamicColor = false)
-    {
+    // Для превью используем локальное значение темы
+    SongAppTheme(darkTheme = true, dynamicColor = false) {
         val component = PreviewScrollbarComponent(
             isBright = MutableValue(true),
             scrollOffset = MutableValue(0f),

@@ -36,6 +36,7 @@ import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 import ru.petr.songapp.ui.theme.SongAppTheme
+import ru.petr.songapp.themeManager.ThemeManagerInstance
 
 /**
  * Tag used for logging in this file
@@ -54,13 +55,16 @@ fun SongListScreenContent(component: SongListScreenComponent,
                           modifier: Modifier = Modifier) {
     val selectedPage = component.collectionPages.subscribeAsState().value.selectedIndex
     val isInGridMode = component.isInGridMode.subscribeAsState().value
+    val isDarkTheme = ThemeManagerInstance.getInstance().isDarkTheme.subscribeAsState().value
     
     Scaffold (
         modifier,
         topBar = { SongListScreenTopBar(
             collectionName = component.collections[selectedPage].name,
             isInGridMode = isInGridMode,
-            onViewModeClick = component::toggleSongsViewMode
+            isDarkTheme = isDarkTheme,
+            onViewModeClick = component::toggleSongsViewMode,
+            onThemeClick = ThemeManagerInstance.getInstance()::toggleTheme
         ) },
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
@@ -92,14 +96,15 @@ fun SongListScreenContent(component: SongListScreenComponent,
 @Composable
 fun SongListScreenTopBar(collectionName: String,
                          isInGridMode: Boolean = false,
-                         onViewModeClick: () -> Unit = {}) {
+                         isDarkTheme: Boolean = false,
+                         onViewModeClick: () -> Unit = {},
+                         onThemeClick: () -> Unit = {}) {
     Box(Modifier
             .background(MaterialTheme.colorScheme.secondary)
             .animateContentSize()
             .fillMaxWidth()) {
         Row(
-            Modifier
-                .fillMaxWidth(0.7f),
+            Modifier.fillMaxWidth(),
             verticalAlignment = Alignment.CenterVertically
         ) {
             with(LocalDensity.current) {
@@ -153,6 +158,34 @@ fun SongListScreenTopBar(collectionName: String,
                     overflow = TextOverflow.Ellipsis,
                 )
             }
+            
+            // Spacer to push theme toggle to the right
+            Box(Modifier.weight(1f))
+            
+            // Theme toggle button
+            with(LocalDensity.current) {
+                AnimatedContent(
+                    targetState = isDarkTheme,
+                    label = "ThemeIconToggle"
+                ) { darkMode ->
+                    Icon(
+                        modifier = Modifier
+                            .clip(CircleShape)
+                            .clickable { onThemeClick() }
+                            .padding(vertical = 10.dp, horizontal = 20.dp)
+                            .size(25.sp.toDp()),
+                        painter = painterResource(if (darkMode) 
+                            R.drawable.ic_light_mode 
+                        else 
+                            R.drawable.ic_dark_mode),
+                        contentDescription = if (darkMode) 
+                            "Переключиться на светлую тему" 
+                        else 
+                            "Переключиться на темную тему",
+                        tint = MaterialTheme.colorScheme.primary
+                    )
+                }
+            }
         }
     }
 }
@@ -166,6 +199,12 @@ fun SongListScreenTopBar(collectionName: String,
 fun SongListScreenTopBarPreview() {
     SongAppTheme(darkTheme = false, dynamicColor = false)
     {
-        SongListScreenTopBar("Будем петь и славить")
+        SongListScreenTopBar(
+            collectionName = "Будем петь и славить", 
+            isInGridMode = false,
+            isDarkTheme = false,
+            onViewModeClick = {},
+            onThemeClick = {}
+        )
     }
 }

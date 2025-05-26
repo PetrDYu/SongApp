@@ -4,5 +4,6 @@
     <integer name="max_font_size">40</integer>
     <integer name="default_font_size">20</integer>
     <bool name="default_pro_mode">true</bool>
+    <bool name="default_is_dark_theme">false</bool>
     <integer name="songs_version">5</integer>
 </resources>

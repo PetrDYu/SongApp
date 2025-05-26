@@ -11,7 +11,6 @@ import androidx.compose.ui.Modifier
 import com.arkivanov.decompose.defaultComponentContext
 import ru.petr.songapp.root.DefaultRootComponent
 import ru.petr.songapp.root.RootContent
-import ru.petr.songapp.ui.theme.SongAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -25,12 +24,11 @@ class MainActivity : ComponentActivity() {
             )
 
         setContent {
-            SongAppTheme(dynamicColor = false) {
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colorScheme.background) {
-                    RootContent(component = root, modifier = Modifier.fillMaxSize())
-                }
+            Surface(
+                modifier = Modifier.fillMaxSize(),
+                color = MaterialTheme.colorScheme.background
+            ) {
+                RootContent(component = root, modifier = Modifier.fillMaxSize())
             }
         }
     }

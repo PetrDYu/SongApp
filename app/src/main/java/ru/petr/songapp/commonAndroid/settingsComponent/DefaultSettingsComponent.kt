@@ -17,12 +17,16 @@ class DefaultSettingsComponent(
 
     private val defaultFontSize = context.resources.getInteger(R.integer.default_font_size)
     private val defaultProMode = context.resources.getBoolean(R.bool.default_pro_mode)
+    private val defaultIsDarkTheme = context.resources.getBoolean(R.bool.default_is_dark_theme)
 
     private val _songFontSize: MutableValue<Int> = MutableValue(defaultFontSize)
     override val songFontSize: Value<Int> = _songFontSize
 
     private val _proModeIsActive: MutableValue<Boolean> = MutableValue(defaultProMode)
     override val proModeIsActive: Value<Boolean> = _proModeIsActive
+
+    private val _isDarkTheme: MutableValue<Boolean> = MutableValue(defaultIsDarkTheme)
+    override val isDarkTheme: Value<Boolean> = _isDarkTheme
 
     private val settingsStore = SettingsStore(context)
 
@@ -39,6 +43,12 @@ class DefaultSettingsComponent(
                 _proModeIsActive.update { proMode }
             }
         }
+
+        scope.launch {
+            settingsStore.getBooleanSetting(Settings.IS_DARK_THEME.settingName, false).collect { isDarkTheme ->
+                _isDarkTheme.update { isDarkTheme }
+            }
+        }
     }
 
     override fun storeSongFontSize(value: Int) {
@@ -52,9 +62,16 @@ class DefaultSettingsComponent(
             settingsStore.storeBooleanSetting(Settings.PRO_MODE_IS_ACTIVE.settingName, value)
         }
     }
+
+    override fun storeIsDarkTheme(value: Boolean) {
+        scope.launch {
+            settingsStore.storeBooleanSetting(Settings.IS_DARK_THEME.settingName, value)
+        }
+    }
 }
 
 enum class Settings(val settingName: String) {
     SONG_FONT_SIZE("song_font_size"),
-    PRO_MODE_IS_ACTIVE("pro_mode_is_active")
+    PRO_MODE_IS_ACTIVE("pro_mode_is_active"),
+    IS_DARK_THEME("is_dark_theme")
 }

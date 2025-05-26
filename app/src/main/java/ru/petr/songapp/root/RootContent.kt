@@ -15,27 +15,31 @@ import ru.petr.songapp.root.RootComponent.Child.*
 import ru.petr.songapp.screens.collections.CollectionsContent
 import ru.petr.songapp.screens.songListScreen.SongListScreenContent
 import ru.petr.songapp.screens.songScreen.SongScreenContent
+import ru.petr.songapp.themeManager.ThemeManagerInstance
+import ru.petr.songapp.ui.theme.SongAppTheme
 
 @Composable
 fun RootContent(component: RootComponent, modifier: Modifier = Modifier) {
     val childStack by component.childStack.subscribeAsState()
-    val activeComponent = childStack.active.instance
+    val isDarkTheme = ThemeManagerInstance.getInstance().isDarkTheme.subscribeAsState()
 
-    Scaffold(
-            modifier,
-    ) { paddingValues ->
-        Box(Modifier.padding(paddingValues)) {
-            Children(
-                    stack = childStack,
-                    animation = stackAnimation(fade()),
-            ) {
-                when (val child = it.instance) {
-                    is CollectionsChild -> CollectionsContent(component = child.component,
-                                                              modifier = Modifier.fillMaxSize())
-                    is SongListScreenChild -> SongListScreenContent(component = child.component,
-                                                                    modifier = Modifier.fillMaxSize())
-                    is SongChild -> SongScreenContent(component = child.component,
-                                                      modifier = Modifier.fillMaxSize())
+    SongAppTheme(darkTheme = isDarkTheme.value) {
+        Scaffold(
+                modifier,
+        ) { paddingValues ->
+            Box(Modifier.padding(paddingValues)) {
+                Children(
+                        stack = childStack,
+                        animation = stackAnimation(fade()),
+                ) {
+                    when (val child = it.instance) {
+                        is CollectionsChild -> CollectionsContent(component = child.component,
+                                                                modifier = Modifier.fillMaxSize())
+                        is SongListScreenChild -> SongListScreenContent(component = child.component,
+                                                                        modifier = Modifier.fillMaxSize())
+                        is SongChild -> SongScreenContent(component = child.component,
+                                                        modifier = Modifier.fillMaxSize())
+                    }
                 }
             }
         }

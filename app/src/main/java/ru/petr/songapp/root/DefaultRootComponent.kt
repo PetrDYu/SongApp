@@ -10,15 +10,22 @@ import com.arkivanov.decompose.router.stack.push
 import com.arkivanov.decompose.value.Value
 import kotlinx.serialization.Serializable
 import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
+import ru.petr.songapp.commonAndroid.settings
 
 import ru.petr.songapp.root.RootComponent.Child
 import ru.petr.songapp.screens.collections.DefaultCollectionsComponent
 import ru.petr.songapp.screens.songListScreen.DefaultSongListScreenComponent
 import ru.petr.songapp.screens.songScreen.DefaultSongScreenComponent
+import ru.petr.songapp.themeManager.ThemeManagerInstance
 
 class DefaultRootComponent(
     componentContext: ComponentContext
 ) : RootComponent, ComponentContext by componentContext {
+    init {
+        // Initialize theme manager
+        ThemeManagerInstance.initialize(stateKeeper, settings)
+    }
+    
     private val navigation = StackNavigation<Config>()
 
     private val stack =

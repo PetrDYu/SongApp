@@ -30,6 +30,8 @@ interface SongListScreenComponent {
      * Flag indicating whether songs are displayed in grid mode
      */
     val isInGridMode: Value<Boolean>
+    
+
 
     /**
      * Selects a collection by its ID
@@ -48,6 +50,7 @@ interface SongListScreenComponent {
      */
     fun toggleSongsViewMode()
     
+
     /**
      * Closes the song number grid view
      */

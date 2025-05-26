@@ -53,6 +53,23 @@ class DefaultDatabaseComponent(
         return songValue
     }
 
+    override fun getSongIdByNumAndCollection(
+        num: Int,
+        collectionId: Int
+    ): Value<Int> {
+        val songIdValue = MutableValue(-1)
+        scope.launch {
+            database.SongDao().getSongIdByNumAndCollection(num, collectionId).collect { songIdList ->
+                if (songIdList.isNotEmpty()) {
+                    songIdValue.update { songIdList[0] }
+                } else {
+                    songIdValue.update { -1 }
+                }
+            }
+        }
+        return songIdValue
+    }
+
 
 
     override suspend fun getSongById(id: Int): SongDBModel {

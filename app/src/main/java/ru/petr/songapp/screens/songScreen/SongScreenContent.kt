@@ -92,18 +92,19 @@ fun SongScreenContent(component: SongScreenComponent,
         val buttonsCount = if (chorusQty == 1) 4 else 3
 
         // Previous button
-        if (component.prevButtonIsNeeded) {
+        val prevButtonIsNeeded by component.prevButtonIsNeeded.subscribeAsState()
+        val nextButtonIsNeeded by component.nextButtonIsNeeded.subscribeAsState()
+        if (prevButtonIsNeeded) {
             FloatingActionButton(
                 onClick = {
-                    component.onChangeSongClicked(component.song.numberInCollection.value - 1)
+                    component.onChangeSongClicked(isNext = false)
                 },
                 Modifier.constrainAs(prevButton) {
                     bottom.linkTo(parent.bottom, margin = 30.dp)
                     linkTo(
                         start = parent.start,
                         end = if (buttonsCount == 4) chorusButton.start 
-                              else if (component.nextButtonIsNeeded) settingsButton.start
-                              else parent.end,
+                              else settingsButton.start,
                         bias = 0.5f,
                         startMargin = 30.dp,
                         endMargin = 0.dp
@@ -140,10 +141,10 @@ fun SongScreenContent(component: SongScreenComponent,
                 Modifier.constrainAs(chorusButton) {
                     bottom.linkTo(parent.bottom, margin = 30.dp)
                     linkTo(
-                        start = if (component.prevButtonIsNeeded) prevButton.end else parent.start,
+                        start = if (prevButtonIsNeeded) prevButton.end else parent.start,
                         end = settingsButton.start,
                         bias = 0.5f,
-                        startMargin = if (!component.prevButtonIsNeeded) 30.dp else 0.dp
+                        startMargin = if (!prevButtonIsNeeded) 30.dp else 0.dp
                     )
                 },
             ) {
@@ -167,12 +168,12 @@ fun SongScreenContent(component: SongScreenComponent,
                 bottom.linkTo(parent.bottom, margin = 30.dp)
                 linkTo(
                     start = if (chorusQty == 1) chorusButton.end 
-                           else if (component.prevButtonIsNeeded) prevButton.end
+                           else if (prevButtonIsNeeded) prevButton.end
                            else parent.start,
-                    end = if (component.nextButtonIsNeeded) nextButton.start else parent.end,
+                    end = if (nextButtonIsNeeded) nextButton.start else parent.end,
                     bias = 0.5f,
-                    startMargin = if (!component.prevButtonIsNeeded && chorusQty != 1) 30.dp else 0.dp,
-                    endMargin = if (!component.nextButtonIsNeeded) 30.dp else 0.dp
+                    startMargin = if (!prevButtonIsNeeded && chorusQty != 1) 30.dp else 0.dp,
+                    endMargin = if (!nextButtonIsNeeded) 30.dp else 0.dp
                 )
             },
         ) {
@@ -180,10 +181,10 @@ fun SongScreenContent(component: SongScreenComponent,
         }
 
         // Next button
-        if (component.nextButtonIsNeeded) {
+        if (nextButtonIsNeeded) {
             FloatingActionButton(
                 onClick = {
-                    component.onChangeSongClicked(component.song.numberInCollection.value + 1)
+                    component.onChangeSongClicked(isNext = true)
                 },
                 Modifier.constrainAs(nextButton) {
                     bottom.linkTo(parent.bottom, margin = 30.dp)

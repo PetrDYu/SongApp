@@ -58,6 +58,14 @@ interface DatabaseComponent {
      * @param isFavorite New favorite status
      */
     fun updateSongIsFavorite(songId: Int, isFavorite: Boolean)
+
+    /**
+     * Retrieves the ID of a song based on its number and collection ID
+     * @param num Song number within the collection
+     * @param collectionId ID of the collection containing the song
+     * @return Value object containing the song ID
+     */
+    fun getSongIdByNumAndCollection(num: Int, collectionId: Int): Value<Int>
 }
 
 /**

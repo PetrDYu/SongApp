@@ -58,6 +58,14 @@ interface SongDao {
     @Query("SELECT COUNT(*) FROM Songs")
     fun getSongsCount(): Flow<Int>
 
+    /** Retrieves the ID of a song based on its number in a collection and the collection ID
+     * @param numberInCollection Song number within the collection
+     * @param collectionId ID of the collection
+     * @return Flow containing the ID of the song
+     */
+    @Query("SELECT Id FROM Songs WHERE NumberInCollection = :numberInCollection AND CollectionId = :collectionId")
+    fun getSongIdByNumAndCollection(numberInCollection: Int, collectionId: Int): Flow<List<Int>>
+
     /**
      * Updates an existing song in the database
      * @param songDBModel Updated song model

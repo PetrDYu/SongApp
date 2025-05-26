@@ -38,19 +38,27 @@ class DefaultRootComponent(
             is Config.Collections -> Child.CollectionsChild(DefaultCollectionsComponent(
                     componentContext,
             ) { id, collections -> navigation.push(Config.SongListScreen(id, collections)) })
-            is Config.SongListScreen -> Child.SongListScreenChild(DefaultSongListScreenComponent(
+            is Config.SongListScreen -> Child.SongListScreenChild(
+                DefaultSongListScreenComponent(
                     componentContext,
                     config.collections,
                     config.id,
-            ) { collectionId, songId, songNum, getSongIdByNum -> navigation.push(Config.Song(collectionId, songId, songNum, getSongIdByNum))})
+                ) { collectionId, songId ->
+                    navigation.push(Config.Song(collectionId, songId))
+                })
             is Config.Song -> Child.SongChild(
                 DefaultSongScreenComponent(
                     componentContext,
                     config.collectionId,
                     config.id,
-                    config.songNum,
-                    config.getSongIdByNum,
-                    onChangeSongClicked = { songNum -> navigation.pop(); navigation.push(Config.Song(config.collectionId, config.getSongIdByNum(songNum), songNum, config.getSongIdByNum))},
+                    onChangeSongBtnClicked = { collectionId, songId ->
+                        navigation.pop()
+                        navigation.push(
+                            Config.Song(
+                                collectionId,
+                                songId
+                            )
+                        )},
                 ))
         }
 
@@ -63,6 +71,6 @@ class DefaultRootComponent(
         data class SongListScreen(val id: Int, val collections: List<SongCollection>) : Config
 
         @Serializable
-        data class Song(val collectionId: Int, val id: Int, val songNum: Int, val getSongIdByNum: (Int) -> Int) : Config
+        data class Song(val collectionId: Int, val id: Int) : Config
     }
 }

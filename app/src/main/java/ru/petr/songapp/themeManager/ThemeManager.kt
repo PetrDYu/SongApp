@@ -1,5 +1,7 @@
 package ru.petr.songapp.themeManager
 
+import android.content.Context
+import android.content.res.Configuration
 import com.arkivanov.decompose.value.MutableValue
 import com.arkivanov.decompose.value.Value
 import com.arkivanov.decompose.value.update
@@ -20,21 +22,28 @@ interface ThemeManager {
      * Toggles between dark and light theme
      */
     fun toggleTheme()
+    
+    /**
+     * Updates system theme state (should be called when system theme changes)
+     */
+    fun updateSystemTheme(isSystemDark: Boolean)
 }
 
 /**
  * Default implementation of ThemeManager
  * @param stateKeeper StateKeeper for saving theme state across configuration changes
  * @param settings SettingsComponent for accessing settings
+ * @param context Android Context for getting system theme
  */
 class DefaultThemeManager(
     private val stateKeeper: StateKeeper,
-    private val settings: SettingsComponent
+    private val settings: SettingsComponent,
+    private val context: Context
 ) : ThemeManager {
     /**
      * Mutable storage for dark theme state with state restoration
      */
-    private val _isDarkTheme = MutableValue(stateKeeper.consume("is_app_dark_theme", Boolean.serializer()) ?: settings.isDarkTheme.value)
+    private val _isDarkTheme = MutableValue(calculateInitialTheme())
     
     /**
      * Read-only access to dark theme state
@@ -48,17 +57,65 @@ class DefaultThemeManager(
             strategy = Boolean.serializer()
         ) { _isDarkTheme.value }
 
+        // Subscribe to settings changes
         settings.isDarkTheme.subscribe { isDarkTheme ->
-            _isDarkTheme.update { isDarkTheme }
+            updateTheme()
         }
-
+        
+        settings.useSystemTheme.subscribe { useSystemTheme ->
+            updateTheme()
+        }
     }
     
     /**
-     * Toggles between dark and light theme
+     * Calculate initial theme based on settings
+     */
+    private fun calculateInitialTheme(): Boolean {
+        val savedTheme = stateKeeper.consume("is_app_dark_theme", Boolean.serializer())
+        return savedTheme
+            ?: if (settings.useSystemTheme.value) {
+                getSystemTheme()
+            } else {
+                settings.isDarkTheme.value
+            }
+    }
+    
+    /**
+     * Get current system theme
+     */
+    private fun getSystemTheme(): Boolean {
+        val nightModeFlags = context.resources.configuration.uiMode and Configuration.UI_MODE_NIGHT_MASK
+        return nightModeFlags == Configuration.UI_MODE_NIGHT_YES
+    }
+    
+    /**
+     * Update theme based on current settings
+     */
+    private fun updateTheme() {
+        val newTheme = if (settings.useSystemTheme.value) {
+            getSystemTheme()
+        } else {
+            settings.isDarkTheme.value
+        }
+        _isDarkTheme.update { newTheme }
+    }
+    
+    /**
+     * Toggles between dark and light theme (only when not using system theme)
      */
     override fun toggleTheme() {
-        settings.storeIsDarkTheme(!_isDarkTheme.value)
+        if (!settings.useSystemTheme.value) {
+            settings.storeIsDarkTheme(!_isDarkTheme.value)
+        }
+    }
+    
+    /**
+     * Updates system theme state (should be called when system theme changes)
+     */
+    override fun updateSystemTheme(isSystemDark: Boolean) {
+        if (settings.useSystemTheme.value) {
+            _isDarkTheme.update { isSystemDark }
+        }
     }
 }
 
@@ -72,10 +129,11 @@ object ThemeManagerInstance {
      * Initialize the ThemeManager with a StateKeeper
      * @param stateKeeper StateKeeper for saving theme state
      * @param settings SettingsComponent for accessing settings
+     * @param context Android Context for getting system theme
      */
-    fun initialize(stateKeeper: StateKeeper, settings: SettingsComponent) {
+    fun initialize(stateKeeper: StateKeeper, settings: SettingsComponent, context: Context) {
         if (instance == null) {
-            instance = DefaultThemeManager(stateKeeper, settings)
+            instance = DefaultThemeManager(stateKeeper, settings, context)
         }
     }
     

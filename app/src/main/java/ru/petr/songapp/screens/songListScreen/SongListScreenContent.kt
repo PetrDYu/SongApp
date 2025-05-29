@@ -15,6 +15,8 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Settings
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
@@ -34,6 +36,7 @@ import com.arkivanov.decompose.extensions.compose.pages.PagesScrollAnimation
 import com.arkivanov.decompose.extensions.compose.subscribeAsState
 import ru.petr.songapp.R
 import ru.petr.songapp.screens.common.searchBar.SearchBarContent
+import ru.petr.songapp.screens.songListScreen.settingsDialog.SongListSettingsDialogContent
 import ru.petr.songapp.screens.songListScreen.songList.SongListContent
 import ru.petr.songapp.ui.theme.SongAppTheme
 import ru.petr.songapp.themeManager.ThemeManagerInstance
@@ -56,6 +59,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
     val selectedPage = component.collectionPages.subscribeAsState().value.selectedIndex
     val isInGridMode = component.isInGridMode.subscribeAsState().value
     val isDarkTheme = ThemeManagerInstance.getInstance().isDarkTheme.subscribeAsState().value
+    val useSystemTheme = component.settingsDialogComponent.useSystemTheme.subscribeAsState().value
     
     Scaffold (
         modifier,
@@ -63,8 +67,10 @@ fun SongListScreenContent(component: SongListScreenComponent,
             collectionName = component.collections[selectedPage].name,
             isInGridMode = isInGridMode,
             isDarkTheme = isDarkTheme,
+            useSystemTheme = useSystemTheme,
             onViewModeClick = component::toggleSongsViewMode,
-            onThemeClick = ThemeManagerInstance.getInstance()::toggleTheme
+            onThemeClick = ThemeManagerInstance.getInstance()::toggleTheme,
+            onSettingsClick = component.settingsDialogComponent::showDialog
         ) },
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
@@ -81,6 +87,9 @@ fun SongListScreenContent(component: SongListScreenComponent,
                 // Display search bar at the bottom of the screen
                 SearchBarContent(component.searchBarComponent)
             }
+            
+            // Settings dialog
+            SongListSettingsDialogContent(component.settingsDialogComponent)
         }
     }
 }
@@ -91,14 +100,20 @@ fun SongListScreenContent(component: SongListScreenComponent,
  *
  * @param collectionName Name of the currently selected collection to display in the header
  * @param isInGridMode Boolean indicating whether the view is currently in grid mode
+ * @param isDarkTheme Boolean indicating whether dark theme is enabled
+ * @param useSystemTheme Boolean indicating whether system theme is used
  * @param onViewModeClick Callback invoked when the view mode toggle button is clicked
+ * @param onThemeClick Callback invoked when the theme toggle button is clicked
+ * @param onSettingsClick Callback invoked when the settings button is clicked
  */
 @Composable
 fun SongListScreenTopBar(collectionName: String,
                          isInGridMode: Boolean = false,
                          isDarkTheme: Boolean = false,
+                         useSystemTheme: Boolean = false,
                          onViewModeClick: () -> Unit = {},
-                         onThemeClick: () -> Unit = {}) {
+                         onThemeClick: () -> Unit = {},
+                         onSettingsClick: () -> Unit = {}) {
     Box(Modifier
             .background(MaterialTheme.colorScheme.secondary)
             .animateContentSize()
@@ -141,6 +156,7 @@ fun SongListScreenTopBar(collectionName: String,
 
             // Animated collection name display with fade transition
             AnimatedContent(
+                modifier = Modifier.weight(1f),
                 targetState = collectionName.uppercase(),
                 transitionSpec = {
                     fadeIn(animationSpec = tween(durationMillis = 500)) togetherWith
@@ -160,31 +176,48 @@ fun SongListScreenTopBar(collectionName: String,
             }
             
             // Spacer to push theme toggle to the right
-            Box(Modifier.weight(1f))
+            Box(Modifier.weight(0.1f))
             
-            // Theme toggle button
-            with(LocalDensity.current) {
-                AnimatedContent(
-                    targetState = isDarkTheme,
-                    label = "ThemeIconToggle"
-                ) { darkMode ->
-                    Icon(
-                        modifier = Modifier
-                            .clip(CircleShape)
-                            .clickable { onThemeClick() }
-                            .padding(vertical = 10.dp, horizontal = 20.dp)
-                            .size(25.sp.toDp()),
-                        painter = painterResource(if (darkMode) 
-                            R.drawable.ic_light_mode 
-                        else 
-                            R.drawable.ic_dark_mode),
-                        contentDescription = if (darkMode) 
-                            "Переключиться на светлую тему" 
-                        else 
-                            "Переключиться на темную тему",
-                        tint = MaterialTheme.colorScheme.primary
-                    )
+            // Theme toggle button (visible only when not using system theme)
+            if (!useSystemTheme) {
+                with(LocalDensity.current) {
+                    AnimatedContent(
+                        targetState = isDarkTheme,
+                        label = "ThemeIconToggle"
+                    ) { darkMode ->
+                        Icon(
+                            modifier = Modifier
+                                .clip(CircleShape)
+                                .clickable { onThemeClick() }
+                                .padding(vertical = 10.dp, horizontal = 10.dp)
+                                .size(25.sp.toDp()),
+                            painter = painterResource(if (darkMode) 
+                                R.drawable.ic_light_mode 
+                            else 
+                                R.drawable.ic_dark_mode),
+                            contentDescription = if (darkMode) 
+                                "Переключиться на светлую тему" 
+                            else 
+                                "Переключиться на темную тему",
+                            tint = MaterialTheme.colorScheme.primary
+                        )
+                    }
                 }
+            }
+            
+            // Settings button
+            with(LocalDensity.current) {
+                Icon(
+                    imageVector = Icons.Default.Settings,
+                    modifier = Modifier
+                        .padding(end = 5.dp)
+                        .clip(CircleShape)
+                        .clickable { onSettingsClick() }
+                        .padding(vertical = 10.dp, horizontal = 10.dp)
+                        .size(25.sp.toDp()),
+                    contentDescription = "Настройки",
+                    tint = MaterialTheme.colorScheme.primary
+                )
             }
         }
     }
@@ -203,8 +236,10 @@ fun SongListScreenTopBarPreview() {
             collectionName = "Будем петь и славить", 
             isInGridMode = false,
             isDarkTheme = false,
+            useSystemTheme = false,
             onViewModeClick = {},
-            onThemeClick = {}
+            onThemeClick = {},
+            onSettingsClick = {}
         )
     }
 }

@@ -1,5 +1,6 @@
 package ru.petr.songapp.root
 
+import android.content.Context
 import com.arkivanov.decompose.ComponentContext
 import com.arkivanov.decompose.DelicateDecomposeApi
 import com.arkivanov.decompose.router.stack.ChildStack
@@ -10,7 +11,7 @@ import com.arkivanov.decompose.router.stack.push
 import com.arkivanov.decompose.value.Value
 import kotlinx.serialization.Serializable
 import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
-import ru.petr.songapp.commonAndroid.settings
+import ru.petr.songapp.commonAndroid.settings as appSettings
 
 import ru.petr.songapp.root.RootComponent.Child
 import ru.petr.songapp.screens.collections.DefaultCollectionsComponent
@@ -19,11 +20,15 @@ import ru.petr.songapp.screens.songScreen.DefaultSongScreenComponent
 import ru.petr.songapp.themeManager.ThemeManagerInstance
 
 class DefaultRootComponent(
-    componentContext: ComponentContext
+    componentContext: ComponentContext,
+    context: Context
 ) : RootComponent, ComponentContext by componentContext {
+    
+    override val settings = appSettings
+    
     init {
         // Initialize theme manager
-        ThemeManagerInstance.initialize(stateKeeper, settings)
+        ThemeManagerInstance.initialize(stateKeeper, settings, context)
     }
     
     private val navigation = StackNavigation<Config>()
@@ -50,9 +55,10 @@ class DefaultRootComponent(
                     componentContext,
                     config.collections,
                     config.id,
-                ) { collectionId, songId ->
-                    navigation.push(Config.Song(collectionId, songId))
-                })
+                    { collectionId, songId ->
+                        navigation.push(Config.Song(collectionId, songId))
+                    },
+                ))
             is Config.Song -> Child.SongChild(
                 DefaultSongScreenComponent(
                     componentContext,

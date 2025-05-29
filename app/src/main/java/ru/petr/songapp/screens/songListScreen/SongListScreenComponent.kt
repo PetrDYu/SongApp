@@ -4,6 +4,7 @@ import com.arkivanov.decompose.router.pages.ChildPages
 import com.arkivanov.decompose.value.Value
 import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
+import ru.petr.songapp.screens.songListScreen.settingsDialog.SongListSettingsDialogComponent
 import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
 /**
@@ -25,6 +26,11 @@ interface SongListScreenComponent {
      * Component for search functionality
      */
     val searchBarComponent: SearchBarComponent
+    
+    /**
+     * Component for settings dialog
+     */
+    val settingsDialogComponent: SongListSettingsDialogComponent
     
     /**
      * Flag indicating whether songs are displayed in grid mode

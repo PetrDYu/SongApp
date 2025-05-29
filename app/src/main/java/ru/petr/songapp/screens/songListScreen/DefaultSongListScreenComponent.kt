@@ -18,6 +18,8 @@ import ru.petr.songapp.commonAndroid.databaseComponent.SongCollection
 import ru.petr.songapp.database.room.songData.utils.removeSpecialSymbolsAndGetPositions
 import ru.petr.songapp.screens.common.searchBar.DefaultSearchBarComponent
 import ru.petr.songapp.screens.common.searchBar.SearchBarComponent
+import ru.petr.songapp.screens.songListScreen.settingsDialog.DefaultSongListSettingsDialogComponent
+import ru.petr.songapp.screens.songListScreen.settingsDialog.SongListSettingsDialogComponent
 import ru.petr.songapp.screens.songListScreen.songList.DefaultSongListComponent
 import ru.petr.songapp.screens.songListScreen.songList.SongListComponent
 
@@ -61,6 +63,11 @@ class DefaultSongListScreenComponent(
             clickSearchObservable.update { removeSpecialSymbolsAndGetPositions(searchText.trim()).first }
         }
 
+    /**
+     * Settings dialog component implementation
+     */
+    override val settingsDialogComponent: SongListSettingsDialogComponent =
+        DefaultSongListSettingsDialogComponent(childContext("settings_dialog"))
 
     /**
      * Mutable storage for grid mode state with state restoration

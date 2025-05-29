@@ -1,5 +1,6 @@
 package ru.petr.songapp.root
 
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -22,8 +23,17 @@ import ru.petr.songapp.ui.theme.SongAppTheme
 fun RootContent(component: RootComponent, modifier: Modifier = Modifier) {
     val childStack by component.childStack.subscribeAsState()
     val isDarkTheme = ThemeManagerInstance.getInstance().isDarkTheme.subscribeAsState()
+    val useSystemTheme = component.settings.useSystemTheme.subscribeAsState()
+    
+    // If using system theme, let SongAppTheme decide automatically,
+    // otherwise use our managed theme
+    val themeToUse = if (useSystemTheme.value) {
+        isSystemInDarkTheme()
+    } else {
+        isDarkTheme.value
+    }
 
-    SongAppTheme(darkTheme = isDarkTheme.value) {
+    SongAppTheme(darkTheme = themeToUse) {
         Scaffold(
                 modifier,
         ) { paddingValues ->

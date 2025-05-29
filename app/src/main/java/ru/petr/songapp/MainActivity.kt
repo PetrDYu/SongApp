@@ -1,5 +1,6 @@
 package ru.petr.songapp
 
+import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -11,6 +12,7 @@ import androidx.compose.ui.Modifier
 import com.arkivanov.decompose.defaultComponentContext
 import ru.petr.songapp.root.DefaultRootComponent
 import ru.petr.songapp.root.RootContent
+import ru.petr.songapp.themeManager.ThemeManagerInstance
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -20,7 +22,8 @@ class MainActivity : ComponentActivity() {
 
         val root =
             DefaultRootComponent(
-                componentContext = defaultComponentContext()
+                componentContext = defaultComponentContext(),
+                context = this
             )
 
         setContent {
@@ -30,6 +33,18 @@ class MainActivity : ComponentActivity() {
             ) {
                 RootContent(component = root, modifier = Modifier.fillMaxSize())
             }
+        }
+    }
+    
+    override fun onConfigurationChanged(newConfig: Configuration) {
+        super.onConfigurationChanged(newConfig)
+        
+        // Notify theme manager about system theme changes
+        val isSystemDark = (newConfig.uiMode and Configuration.UI_MODE_NIGHT_MASK) == Configuration.UI_MODE_NIGHT_YES
+        try {
+            ThemeManagerInstance.getInstance().updateSystemTheme(isSystemDark)
+        } catch (e: IllegalStateException) {
+            // ThemeManager not initialized yet, ignore
         }
     }
 }

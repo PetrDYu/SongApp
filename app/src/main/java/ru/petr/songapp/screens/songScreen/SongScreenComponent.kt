@@ -10,9 +10,11 @@ interface SongScreenComponent {
     val settingsSheet: Value<ChildSlot<*,SettingsSheetComponent>>
     val prevButtonIsNeeded: Value<Boolean>
     val nextButtonIsNeeded: Value<Boolean>
+    val controlsIsVisible: Value<Boolean>
 
 
     fun showSettingsSheet()
     fun setIsFavorite(isFavorite: Boolean)
     fun onChangeSongClicked(isNext: Boolean)
+    fun onSongTap()
 }

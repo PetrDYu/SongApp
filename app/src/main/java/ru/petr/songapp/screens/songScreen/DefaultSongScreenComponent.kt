@@ -53,7 +53,10 @@ class DefaultSongScreenComponent(
     override val prevButtonIsNeeded: Value<Boolean> = _prevButtonIsNeeded
     private val _nextButtonIsNeeded = MutableValue(false)
     override val nextButtonIsNeeded:  Value<Boolean> = _nextButtonIsNeeded
-    
+
+    private val _controlsIsVisible = MutableValue(true)
+    override val controlsIsVisible: Value<Boolean> = _controlsIsVisible
+
 
     init {
         song.numberInCollection.subscribe { curSongNum ->
@@ -82,6 +85,10 @@ class DefaultSongScreenComponent(
         onChangeSongBtnClicked(
             collectionId, if (isNext) nextSongId else prevSongId
         )
+    }
+
+    override fun onSongTap() {
+        _controlsIsVisible.update { isVisible -> !isVisible }
     }
 
     @Serializable // kotlinx-serialization plugin must be applied

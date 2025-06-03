@@ -1,9 +1,13 @@
 package ru.petr.songapp.screens.songScreen
 
 import android.content.res.Configuration
+import androidx.compose.animation.AnimatedVisibility
+import androidx.compose.animation.fadeIn
+import androidx.compose.animation.fadeOut
 import androidx.compose.foundation.ScrollState
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.gestures.detectTapGestures
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -37,6 +41,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
@@ -73,12 +78,20 @@ fun SongScreenContent(component: SongScreenComponent,
         val (viewer, settingsButton, nextButton, prevButton, chorusButton) = createRefs()
         SongWrapper(
             component = component,
-            modifier = Modifier.constrainAs(viewer) {
-                top.linkTo(parent.top, margin = 0.dp)
-                bottom.linkTo(parent.bottom, margin = 0.dp)
-                start.linkTo(parent.start, margin = 30.dp)
-                end.linkTo(parent.end, margin = 30.dp)
-            },
+            modifier = Modifier
+                .constrainAs(viewer) {
+                    top.linkTo(parent.top, margin = 0.dp)
+                    bottom.linkTo(parent.bottom, margin = 0.dp)
+                    start.linkTo(parent.start, margin = 30.dp)
+                    end.linkTo(parent.end, margin = 30.dp)
+                }
+                .pointerInput(Unit) {
+                    detectTapGestures(
+                        onTap = {
+                            component.onSongTap()
+                        }
+                    )
+                },
             scrollState = scrollState,
             onChorusOffsetChanged = { offset, height ->
                 chorusOffset = offset
@@ -91,25 +104,35 @@ fun SongScreenContent(component: SongScreenComponent,
         }
         val buttonsCount = if (chorusQty == 1) 4 else 3
 
+        val buttonsAreVisible by component.controlsIsVisible.subscribeAsState()
+
         // Previous button
         val prevButtonIsNeeded by component.prevButtonIsNeeded.subscribeAsState()
         val nextButtonIsNeeded by component.nextButtonIsNeeded.subscribeAsState()
-        if (prevButtonIsNeeded) {
-            FloatingActionButton(
-                onClick = {
-                    component.onChangeSongClicked(isNext = false)
-                },
-                Modifier.constrainAs(prevButton) {
-                    bottom.linkTo(parent.bottom, margin = 30.dp)
+
+        AnimatedVisibility(
+            visible = buttonsAreVisible && prevButtonIsNeeded,
+            modifier = Modifier
+                .constrainAs(prevButton) {
+                    bottom.linkTo(parent.bottom, margin = 14.dp)
                     linkTo(
                         start = parent.start,
-                        end = if (buttonsCount == 4) chorusButton.start 
-                              else settingsButton.start,
+                        end = if (buttonsCount == 4) chorusButton.start
+                        else settingsButton.start,
                         bias = 0.5f,
                         startMargin = 30.dp,
                         endMargin = 0.dp
                     )
                 },
+            enter = fadeIn(),
+            exit = fadeOut()
+        ) {
+            FloatingActionButton(
+                modifier = Modifier
+                    .padding(vertical = 16.dp, horizontal = 8.dp),
+                onClick = {
+                    component.onChangeSongClicked(isNext = false)
+                }
             ) {
                 Icon(
                     Icons.AutoMirrored.Filled.ArrowBack,
@@ -119,11 +142,26 @@ fun SongScreenContent(component: SongScreenComponent,
         }
 
         // Chorus button (conditional)
-        if (chorusQty == 1) {
+        AnimatedVisibility(
+            visible = buttonsAreVisible && chorusQty == 1,
+            modifier = Modifier.constrainAs(chorusButton) {
+                bottom.linkTo(parent.bottom, margin = 14.dp)
+                linkTo(
+                    start = if (prevButtonIsNeeded) prevButton.end else parent.start,
+                    end = settingsButton.start,
+                    bias = 0.5f,
+                    startMargin = if (!prevButtonIsNeeded) 30.dp else 0.dp
+                )
+            },
+            enter = fadeIn(),
+            exit = fadeOut()
+        ) {
             var currentOffset by remember {
                 mutableIntStateOf(0)
             }
             FloatingActionButton(
+                modifier = Modifier
+                    .padding(vertical = 16.dp, horizontal = 8.dp),
                 onClick = {
                     if (buttonToChorus) {
                         currentOffset = scrollState.value
@@ -137,67 +175,84 @@ fun SongScreenContent(component: SongScreenComponent,
                     }
                     buttonToChorus = !buttonToChorus
                     agreeBackToVerse = true
-                },
-                Modifier.constrainAs(chorusButton) {
-                    bottom.linkTo(parent.bottom, margin = 30.dp)
-                    linkTo(
-                        start = if (prevButtonIsNeeded) prevButton.end else parent.start,
-                        end = settingsButton.start,
-                        bias = 0.5f,
-                        startMargin = if (!prevButtonIsNeeded) 30.dp else 0.dp
-                    )
-                },
+                }
             ) {
                 if (buttonToChorus) {
                     Text("П", fontSize = 30.sp)
                 } else {
                     Column(horizontalAlignment = Alignment.CenterHorizontally) {
                         Icon(Icons.Default.KeyboardArrowDown, null)
-                        Text("К", fontSize = 25.sp, style = TextStyle(platformStyle = PlatformTextStyle(includeFontPadding = false)))
+                        Text(
+                            "К",
+                            fontSize = 25.sp,
+                            style = TextStyle(
+                                platformStyle = PlatformTextStyle(includeFontPadding = false)
+                            )
+                        )
                     }
                 }
             }
         }
 
         // Settings button
-        FloatingActionButton(
-            onClick = {
-                component.showSettingsSheet()
-            },
-            Modifier.constrainAs(settingsButton) {
-                bottom.linkTo(parent.bottom, margin = 30.dp)
+        AnimatedVisibility(
+            visible = buttonsAreVisible,
+            modifier = Modifier.constrainAs(settingsButton) {
+                bottom.linkTo(parent.bottom, margin = 14.dp)
                 linkTo(
-                    start = if (chorusQty == 1) chorusButton.end 
-                           else if (prevButtonIsNeeded) prevButton.end
-                           else parent.start,
+                    start = if (chorusQty == 1) chorusButton.end
+                    else if (prevButtonIsNeeded) prevButton.end
+                    else parent.start,
                     end = if (nextButtonIsNeeded) nextButton.start else parent.end,
                     bias = 0.5f,
                     startMargin = if (!prevButtonIsNeeded && chorusQty != 1) 30.dp else 0.dp,
                     endMargin = if (!nextButtonIsNeeded) 30.dp else 0.dp
                 )
             },
+            enter = fadeIn(),
+            exit = fadeOut()
         ) {
-            Icon(Icons.Default.Settings, stringResource(id = R.string.settings_button_description))
+            FloatingActionButton(
+                modifier = Modifier
+                    .padding(vertical = 16.dp, horizontal = 8.dp),
+                onClick = {
+                    component.showSettingsSheet()
+                }
+            ) {
+                Icon(
+                    Icons.Default.Settings,
+                    stringResource(id = R.string.settings_button_description)
+                )
+            }
         }
 
         // Next button
-        if (nextButtonIsNeeded) {
+        AnimatedVisibility(
+            visible = buttonsAreVisible && nextButtonIsNeeded,
+            modifier = Modifier.constrainAs(nextButton) {
+                bottom.linkTo(parent.bottom, margin = 14.dp)
+                linkTo(
+                    start = settingsButton.end,
+                    end = parent.end,
+                    bias = 0.5f,
+                    startMargin = 0.dp,
+                    endMargin = 30.dp
+                )
+            },
+            enter = fadeIn(),
+            exit = fadeOut()
+        ) {
             FloatingActionButton(
+                modifier = Modifier
+                    .padding(vertical = 16.dp, horizontal = 8.dp),
                 onClick = {
                     component.onChangeSongClicked(isNext = true)
-                },
-                Modifier.constrainAs(nextButton) {
-                    bottom.linkTo(parent.bottom, margin = 30.dp)
-                    linkTo(
-                        start = settingsButton.end,
-                        end = parent.end,
-                        bias = 0.5f,
-                        startMargin = 0.dp,
-                        endMargin = 30.dp
-                    )
-                },
+                }
             ) {
-                Icon(Icons.AutoMirrored.Filled.ArrowForward, stringResource(id = R.string.settings_button_description))
+                Icon(
+                    Icons.AutoMirrored.Filled.ArrowForward,
+                    stringResource(id = R.string.settings_button_description)
+                )
             }
         }
     }
@@ -217,17 +272,20 @@ fun SongWrapper(modifier: Modifier = Modifier,
     val songNumber by component.song.numberInCollection.subscribeAsState()
     val fontSize by component.song.fontSize.subscribeAsState()
     val isFavorite by component.song.isFavorite.subscribeAsState()
+    val headerIsVisible by component.controlsIsVisible.subscribeAsState()
     Column (modifier.fillMaxHeight()) {
-        SongScreenHeader(
-            Modifier
-                .padding(horizontal = 10.dp)
-                .padding(top = 10.dp),
-            songNumber = songNumber,
-            songName = songName,
-            fontSize = fontSize,
-            isFavorite = isFavorite,
-        ) {
-            component.setIsFavorite(!isFavorite)
+        AnimatedVisibility (visible = headerIsVisible) {
+            SongScreenHeader(
+                Modifier
+                    .padding(horizontal = 10.dp)
+                    .padding(top = 10.dp),
+                songNumber = songNumber,
+                songName = songName,
+                fontSize = fontSize,
+                isFavorite = isFavorite,
+            ) {
+                component.setIsFavorite(!isFavorite)
+            }
         }
         SongContent(component = component.song,
                     Modifier.verticalScroll(scrollState),
@@ -258,7 +316,7 @@ fun SongScreenHeader(modifier: Modifier = Modifier,
                  modifier = Modifier
                      .clickable { onFavoriteClick() }
                      .padding(10.dp)
-                     .size(with(LocalDensity.current){(fontSize + 2).sp.toDp()}),
+                     .size(with(LocalDensity.current) { (fontSize + 2).sp.toDp() }),
                  tint = Color.White
             )
             Box(

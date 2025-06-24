@@ -109,6 +109,8 @@ class DefaultFullTextSearchComponent(
      * @param searchTextWithoutSpecialSymbols The search text with special symbols removed
      */
     override fun updateSearchResult(searchTextWithoutSpecialSymbols: String) {
+        _searchResult.update { FullSearchResult("", listOf()) }
+
         // Store search text for potential reuse
         _searchText = searchTextWithoutSpecialSymbols
         

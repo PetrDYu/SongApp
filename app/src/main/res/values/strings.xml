@@ -16,4 +16,12 @@
 
     <string name="settings_button_description">Настройки песни</string>
     <string name="edit_button_description">Редактировать песню</string>
+
+    <!-- Settings Dialog -->
+    <string name="settings_dialog_title">Настройки</string>
+    <string name="use_system_theme">Использовать системную тему</string>
+    <string name="choose_theme">Выбрать тему</string>
+    <string name="switch_to_light_theme">Переключиться на светлую тему</string>
+    <string name="switch_to_dark_theme">Переключиться на темную тему</string>
+    <string name="close_button">Закрыть</string>
 </resources>

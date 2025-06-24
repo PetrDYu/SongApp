@@ -37,7 +37,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.res.integerResource
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -61,7 +63,6 @@ fun SongListSettingsDialogContent(
 
     // Состояние для управления видимостью второй строки (как и было)
     var showThemeSelectionRow by remember { mutableStateOf(!useSystemTheme) }
-    val rowAnimationDuration = 300 // Для fadeIn/fadeOut AnimatedVisibility
 
     // Обновляем showThemeSelectionRow при изменении useSystemTheme
     LaunchedEffect(useSystemTheme) {
@@ -93,7 +94,7 @@ fun SongListSettingsDialogContent(
                             )
                     ) {
                         Text(
-                            text = "Настройки",
+                            text = stringResource(R.string.settings_dialog_title),
                             style = MaterialTheme.typography.titleLarge,
                         )
 
@@ -107,7 +108,7 @@ fun SongListSettingsDialogContent(
                             itemVerticalAlignment = Alignment.CenterVertically
                         ) {
                             Text(
-                                text = "Использовать системную тему",
+                                text = stringResource(R.string.use_system_theme),
                                 style = MaterialTheme.typography.bodyLarge
                             )
                             Switch(
@@ -121,7 +122,7 @@ fun SongListSettingsDialogContent(
 
                         Box(modifier = Modifier
                             .animateContentSize(
-                                animationSpec = tween(300)
+                                animationSpec = tween(integerResource(R.integer.divider_animation_duration_ms))
                             )
                         ) {
                             if (showThemeSelectionRow && !useSystemTheme) {
@@ -134,6 +135,7 @@ fun SongListSettingsDialogContent(
                         }
 
                         Row {
+                            val rowAnimationDuration = integerResource(R.integer.row_animation_duration_ms)
                             AnimatedVisibility(
                                 visible = showThemeSelectionRow && !useSystemTheme,
                                 enter = fadeIn(animationSpec = tween(rowAnimationDuration)),
@@ -150,7 +152,7 @@ fun SongListSettingsDialogContent(
                                         verticalArrangement = Arrangement.Center
                                     ) {
                                         Text(
-                                            text = "Выбрать тему",
+                                            text = stringResource(R.string.choose_theme),
                                             style = MaterialTheme.typography.bodyLarge
                                         )
                                         with(LocalDensity.current) {
@@ -167,7 +169,7 @@ fun SongListSettingsDialogContent(
                                                         )
                                                         .size(25.sp.toDp()),
                                                     painter = painterResource(R.drawable.ic_light_mode),
-                                                    contentDescription = "Переключиться на светлую тему",
+                                                    contentDescription = stringResource(R.string.switch_to_light_theme),
                                                     tint = MaterialTheme.colorScheme.primary
                                                 )
                                                 Switch(
@@ -183,7 +185,7 @@ fun SongListSettingsDialogContent(
                                                         )
                                                         .size(25.sp.toDp()),
                                                     painter = painterResource(R.drawable.ic_dark_mode),
-                                                    contentDescription = "Переключиться на темную тему",
+                                                    contentDescription = stringResource(R.string.switch_to_dark_theme),
                                                     tint = MaterialTheme.colorScheme.primary
                                                 )
                                             }
@@ -204,7 +206,7 @@ fun SongListSettingsDialogContent(
                             onClick = component::hideDialog
                         ) {
                             Text(
-                                text = "Закрыть",
+                                text = stringResource(R.string.close_button),
                                 style = MaterialTheme.typography.labelLarge
                             )
                         }

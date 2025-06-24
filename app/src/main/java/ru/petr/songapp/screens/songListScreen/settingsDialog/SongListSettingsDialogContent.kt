@@ -85,7 +85,12 @@ fun SongListSettingsDialogContent(
                 ) {
                     Column(
                         modifier = Modifier
-//                            .weight(1f)
+                            .animateContentSize(
+                                animationSpec = spring (
+                                    dampingRatio = Spring.DampingRatioNoBouncy,
+                                    stiffness = Spring.StiffnessLow
+                                )
+                            )
                     ) {
                         Text(
                             text = "Настройки",
@@ -116,10 +121,7 @@ fun SongListSettingsDialogContent(
 
                         Box(modifier = Modifier
                             .animateContentSize(
-                                animationSpec = spring (
-                                    dampingRatio = Spring.DampingRatioNoBouncy,
-                                    stiffness = Spring.StiffnessLow
-                                )
+                                animationSpec = tween(300)
                             )
                         ) {
                             if (showThemeSelectionRow && !useSystemTheme) {
@@ -131,14 +133,7 @@ fun SongListSettingsDialogContent(
                             }
                         }
 
-                        Row(modifier = Modifier
-                            .animateContentSize(
-                                animationSpec = spring (
-                                    dampingRatio = Spring.DampingRatioNoBouncy,
-                                    stiffness = Spring.StiffnessLow
-                                )
-                            )
-                        ) {
+                        Row {
                             AnimatedVisibility(
                                 visible = showThemeSelectionRow && !useSystemTheme,
                                 enter = fadeIn(animationSpec = tween(rowAnimationDuration)),

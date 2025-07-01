@@ -11,6 +11,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
@@ -72,6 +73,7 @@ fun SongListScreenContent(component: SongListScreenComponent,
             onThemeClick = ThemeManagerInstance.getInstance()::toggleTheme,
             onSettingsClick = component.settingsDialogComponent::showDialog
         ) },
+        contentWindowInsets = WindowInsets(0.dp, 0.dp, 0.dp, 0.dp)
     ) { paddingValues ->
         Box(Modifier.padding(paddingValues)) {
             Column() {
@@ -115,9 +117,9 @@ fun SongListScreenTopBar(collectionName: String,
                          onThemeClick: () -> Unit = {},
                          onSettingsClick: () -> Unit = {}) {
     Box(Modifier
-            .background(MaterialTheme.colorScheme.secondary)
-            .animateContentSize()
-            .fillMaxWidth()) {
+        .background(MaterialTheme.colorScheme.secondary)
+        .animateContentSize()
+        .fillMaxWidth()) {
         Row(
             Modifier.fillMaxWidth(),
             verticalAlignment = Alignment.CenterVertically

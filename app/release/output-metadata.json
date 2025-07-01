@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 4,
-      "versionName": "1.1.0_alpha2",
-      "outputFile": "SongApp_1.1.0_alpha2_release.apk"
+      "versionCode": 6,
+      "versionName": "1.1.0_beta2",
+      "outputFile": "SongApp_1.1.0_beta2_release.apk"
     }
   ],
   "elementType": "File",
@@ -22,14 +22,14 @@
       "minApi": 28,
       "maxApi": 30,
       "baselineProfiles": [
-        "baselineProfiles/1/SongApp_1.1.0_alpha2_release.dm"
+        "baselineProfiles/1/SongApp_1.1.0_beta2_release.dm"
       ]
     },
     {
       "minApi": 31,
       "maxApi": 2147483647,
       "baselineProfiles": [
-        "baselineProfiles/0/SongApp_1.1.0_alpha2_release.dm"
+        "baselineProfiles/0/SongApp_1.1.0_beta2_release.dm"
       ]
     }
   ],

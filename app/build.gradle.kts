@@ -14,8 +14,8 @@ android {
         applicationId = "ru.petr.songapp"
         minSdk = 24
         targetSdk = 35
-        versionCode = 6
-        versionName = "1.1.0_beta2"
+        versionCode = 7
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
